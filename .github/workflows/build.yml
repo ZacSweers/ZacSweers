@@ -16,6 +16,14 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 14
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
       - name: Update README
         run: |-
           ./gradlew run --args="-o README.md"

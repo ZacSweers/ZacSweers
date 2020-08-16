@@ -5,10 +5,6 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        java_version: [14]
-      fail-fast: false
     steps:
     - name: Checkout
       uses: actions/checkout@v2
@@ -16,6 +12,14 @@ jobs:
       uses: actions/setup-java@v1
       with:
         java-version: 14
+    - uses: actions/cache@v2
+      with:
+        path: |
+          ~/.gradle/caches
+          ~/.gradle/wrapper
+        key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
+        restore-keys: |
+          ${{ runner.os }}-gradle-
     - name: Update README
       run: |-
         ./gradlew run --args="-o README.md"
