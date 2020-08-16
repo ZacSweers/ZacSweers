@@ -171,7 +171,7 @@ data class Commit(
   val url: String
 ) {
   fun title(): String = message.substringBefore("\n")
-  fun adjustedUrl(): String = url.replace("api.", "").replace("/commits/", "/commit/")
+  fun adjustedUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
 }
 
 @JsonClass(generateAdapter = true)
