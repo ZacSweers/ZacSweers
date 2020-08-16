@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-16** — pushed [`873d67ed`](https://api.github.com/repos/ZacSweers/ZacSweers/commits/873d67ed11af2b385310685d83239696e1e29b39) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Add deletion events"
+
+**2020-08-16** — deleted branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
 **2020-08-16** — created branch "main" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 
 **2020-08-16** — created branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-16** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-674484798) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2020-08-15** — commented on [#965](https://github.com/square/kotlinpoet/issues/965#issuecomment-674457250) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-15** — pushed [`49c72894`](https://api.github.com/repos/ZacSweers/CatchUp/commits/49c7289404bb68a8e554bd392b605bd84c35bdab) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates (#245)"
-
-**2020-08-15** — closed PR [#245](https://api.github.com/repos/ZacSweers/CatchUp/pulls/245) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
