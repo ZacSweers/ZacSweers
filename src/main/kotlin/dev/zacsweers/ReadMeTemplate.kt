@@ -7,13 +7,13 @@ fun createReadMe(
   return """
     Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow @ZacSweers on Twitter](https://twitter.com/ZacSweers).
 
-    <table><tr><td valign="top" width="50%">
+    <table><tr><td valign="top" width="60%">
 
     ## GitHub Activity
     <!-- githubActivity starts -->
 ${githubActivity.joinToString("\n\n") { "    $it" }}
-    <!-- recent_releases ends -->
-    </td><td valign="top" width="50%">
+    <!-- githubActivity ends -->
+    </td><td valign="top" width="40%">
 
     ## On My Blog
     <!-- blog starts -->
