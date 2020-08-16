@@ -4,9 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-08-16** — pushed [`951573da`](https://api.github.com/repos/ZacSweers/ZacSweers/commit/951573dab04e9b293e0e38cb2ca8db4b8a91d39f) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Fix commit url"
+**2020-08-16** — pushed [`bee2e8d2`](https://github.com/repos/ZacSweers/ZacSweers/commit/bee2e8d240bbbb893d9dd54e2da2ddbfc358f074) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "🤦‍"
 
-**2020-08-16** — pushed [`873d67ed`](https://api.github.com/repos/ZacSweers/ZacSweers/commit/873d67ed11af2b385310685d83239696e1e29b39) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Add deletion events"
+**2020-08-16** — pushed [`951573da`](https://github.com/repos/ZacSweers/ZacSweers/commit/951573dab04e9b293e0e38cb2ca8db4b8a91d39f) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Fix commit url"
+
+**2020-08-16** — pushed [`873d67ed`](https://github.com/repos/ZacSweers/ZacSweers/commit/873d67ed11af2b385310685d83239696e1e29b39) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Add deletion events"
 
 **2020-08-16** — deleted branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-16** — opened issue [#59](https://api.github.com/repos/facebookincubator/ktfmt/issues/59) on [facebookincubator/ktfmt](https://api.github.com/repos/facebookincubator/ktfmt): "Kotlin 1.4 support"
 
 **2020-08-16** — commented on [#14](https://github.com/facebookincubator/ktfmt/issues/14#issuecomment-674487325) in [facebookincubator/ktfmt](https://api.github.com/repos/facebookincubator/ktfmt)
-
-**2020-08-16** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-674484798) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
