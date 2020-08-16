@@ -90,7 +90,7 @@ private fun fetchGithubActivity(
         }
         is CreateEvent -> {
           ActivityItem(
-            "created ${payload.refType}${payload.ref?.let { "\"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            "created ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
             event.createdAt
           )
         }
