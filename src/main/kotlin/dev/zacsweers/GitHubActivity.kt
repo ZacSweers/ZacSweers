@@ -195,7 +195,7 @@ data class Repo(
 
 @JsonClass(generateAdapter = true)
 data class CreateEvent(
-  val ref: String,
+  val ref: String?,
   @Json(name = "ref_type")
   val refType: String
 ) : GitHubActivityEventPayload()
