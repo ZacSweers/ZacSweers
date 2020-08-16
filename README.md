@@ -1,9 +1,15 @@
 Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow @ZacSweers on Twitter](https://twitter.com/ZacSweers).
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="60%">
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-16** — created branch "main" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
+**2020-08-16** — created branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
+**2020-08-16** — created repository on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
 **2020-08-16** — commented on [#2](https://github.com/pdvrieze/xmlutil/issues/2#issuecomment-674557646) in [pdvrieze/xmlutil](https://api.github.com/repos/pdvrieze/xmlutil)
 
 **2020-08-16** — opened issue [#59](https://api.github.com/repos/facebookincubator/ktfmt/issues/59) on [facebookincubator/ktfmt](https://api.github.com/repos/facebookincubator/ktfmt): "Kotlin 1.4 support"
@@ -17,14 +23,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-15** — pushed [`49c72894`](https://api.github.com/repos/ZacSweers/CatchUp/commits/49c7289404bb68a8e554bd392b605bd84c35bdab) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates (#245)"
 
 **2020-08-15** — closed PR [#245](https://api.github.com/repos/ZacSweers/CatchUp/pulls/245) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
-
-**2020-08-15** — pushed [`b57b653c`](https://api.github.com/repos/ZacSweers/CatchUp/commits/b57b653c87c5922ad928bd8fcad63f53da9982fc) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
-
-**2020-08-15** — opened PR [#245](https://api.github.com/repos/ZacSweers/CatchUp/pulls/245) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
-
-**2020-08-15** — created branch "z/updateAllTheThings" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-<!-- recent_releases ends -->
-</td><td valign="top" width="50%">
+<!-- githubActivity ends -->
+</td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
