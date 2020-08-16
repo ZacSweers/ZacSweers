@@ -109,7 +109,10 @@ sealed class GitHubActivityEventPayload {
     PULL_REQUEST(PullRequestPayload::class),
 
     @Json(name = "CreateEvent")
-    CREATE_EVENT(CreateEvent::class)
+    CREATE_EVENT(CreateEvent::class),
+
+    @Json(name = "DeleteEvent")
+    DELETE_EVENT(DeleteEvent::class)
   }
 }
 
@@ -195,6 +198,13 @@ data class Repo(
 
 @JsonClass(generateAdapter = true)
 data class CreateEvent(
+  val ref: String?,
+  @Json(name = "ref_type")
+  val refType: String
+) : GitHubActivityEventPayload()
+
+@JsonClass(generateAdapter = true)
+data class DeleteEvent(
   val ref: String?,
   @Json(name = "ref_type")
   val refType: String

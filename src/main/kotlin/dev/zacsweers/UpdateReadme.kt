@@ -94,6 +94,12 @@ private fun fetchGithubActivity(
             event.createdAt
           )
         }
+        is DeleteEvent -> {
+          ActivityItem(
+            "deleted ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            event.createdAt
+          )
+        }
       }
     }
     .take(10)
