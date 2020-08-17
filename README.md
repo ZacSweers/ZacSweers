@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — created branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2020-08-17** — opened PR [#105](https://api.github.com/repos/runningcode/gradle-doctor/pulls/105) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Check for farthest empty parent for reporting file to remove"
+
+**2020-08-17** — created branch "z/emptyDirs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
+
+**2020-08-17** — opened PR [#104](https://api.github.com/repos/runningcode/gradle-doctor/pulls/104) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Add more granularity to `JAVA_HOME` checks"
+
+**2020-08-17** — created branch "z/moreJavaHome" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
+
 **2020-08-17** — pushed 19 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
 
 **2020-08-17** — opened issue [#267](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/267) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Missing sources in 5.0.0-alpha1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-17** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-675026283) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-16** — pushed [`96e02bf0`](https://github.com/ZacSweers/ZacSweers/commit/96e02bf0ecd9b6f84c8238bda0427ccb6858ad94) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Last 🤦‍"
-
-**2020-08-16** — pushed [`bee2e8d2`](https://github.com/ZacSweers/ZacSweers/commit/bee2e8d240bbbb893d9dd54e2da2ddbfc358f074) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "🤦‍"
-
-**2020-08-16** — pushed [`951573da`](https://github.com/ZacSweers/ZacSweers/commit/951573dab04e9b293e0e38cb2ca8db4b8a91d39f) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Fix commit url"
-
-**2020-08-16** — pushed [`873d67ed`](https://github.com/ZacSweers/ZacSweers/commit/873d67ed11af2b385310685d83239696e1e29b39) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Add deletion events"
-
-**2020-08-16** — deleted branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2020-08-16** — created branch "main" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
