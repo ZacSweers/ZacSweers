@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — opened issue [#267](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/267) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Missing sources in 5.0.0-alpha1"
+
+**2020-08-17** — commented on [#201](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/201#issuecomment-675026407) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-08-17** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-675026283) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-08-16** — pushed [`96e02bf0`](https://github.com/ZacSweers/ZacSweers/commit/96e02bf0ecd9b6f84c8238bda0427ccb6858ad94) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Last 🤦‍"
 
 **2020-08-16** — pushed [`bee2e8d2`](https://github.com/ZacSweers/ZacSweers/commit/bee2e8d240bbbb893d9dd54e2da2ddbfc358f074) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "🤦‍"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-16** — created branch "main" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 
 **2020-08-16** — created branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2020-08-16** — created repository on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2020-08-16** — commented on [#2](https://github.com/pdvrieze/xmlutil/issues/2#issuecomment-674557646) in [pdvrieze/xmlutil](https://api.github.com/repos/pdvrieze/xmlutil)
-
-**2020-08-16** — opened issue [#59](https://api.github.com/repos/facebookincubator/ktfmt/issues/59) on [facebookincubator/ktfmt](https://api.github.com/repos/facebookincubator/ktfmt): "Kotlin 1.4 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
