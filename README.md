@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — pushed [`1fec7aa0`](https://github.com/ZacSweers/gradle-doctor/commit/1fec7aa02efecab981747fc9fb7e568f7cc70223) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Print errors at the end"
+
+**2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675156832) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2020-08-17** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-675156070) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2020-08-17** — commented on [#771](https://github.com/pinterest/ktlint/issues/771#issuecomment-675155750) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2020-08-17** — closed issue [#430](https://api.github.com/repos/uber/AutoDispose/issues/430) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unsubscribe unexpectedly when used in item of 'RecyclerView' inside 'ViewPager2' after page changed."
+
+**2020-08-17** — commented on [#430](https://github.com/uber/AutoDispose/issues/430#issuecomment-675150244) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2020-08-17** — pushed [`f99a7b68`](https://github.com/ZacSweers/gradle-doctor/commit/f99a7b6843e0165b8ee2146cea6509ea4cd7d674) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "get()"
+
+**2020-08-17** — pushed [`ba70a09b`](https://github.com/ZacSweers/gradle-doctor/commit/ba70a09b054b9739743617cdf763889d541566f0) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Just get()"
+
 **2020-08-17** — commented on [#105](https://github.com/runningcode/gradle-doctor/pull/105#issuecomment-675133908) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
 
 **2020-08-17** — created branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-08-17** — opened PR [#105](https://api.github.com/repos/runningcode/gradle-doctor/pulls/105) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Check for farthest empty parent for reporting file to remove"
-
-**2020-08-17** — created branch "z/emptyDirs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
-
-**2020-08-17** — opened PR [#104](https://api.github.com/repos/runningcode/gradle-doctor/pulls/104) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Add more granularity to `JAVA_HOME` checks"
-
-**2020-08-17** — created branch "z/moreJavaHome" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
-
-**2020-08-17** — pushed 19 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
-
-**2020-08-17** — opened issue [#267](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/267) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Missing sources in 5.0.0-alpha1"
-
-**2020-08-17** — commented on [#201](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/201#issuecomment-675026407) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-17** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-675026283) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
