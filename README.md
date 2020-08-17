@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — pushed 19 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
+
 **2020-08-17** — opened issue [#267](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/267) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Missing sources in 5.0.0-alpha1"
 
 **2020-08-17** — commented on [#201](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/201#issuecomment-675026407) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-16** — deleted branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 
 **2020-08-16** — created branch "main" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2020-08-16** — created branch "master" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
