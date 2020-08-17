@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — commented on [#105](https://github.com/runningcode/gradle-doctor/pull/105#issuecomment-675133908) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
+
 **2020-08-17** — created branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2020-08-17** — opened PR [#105](https://api.github.com/repos/runningcode/gradle-doctor/pulls/105) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Check for farthest empty parent for reporting file to remove"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-17** — commented on [#201](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/201#issuecomment-675026407) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-17** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-675026283) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-16** — pushed [`96e02bf0`](https://github.com/ZacSweers/ZacSweers/commit/96e02bf0ecd9b6f84c8238bda0427ccb6858ad94) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Last 🤦‍"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
