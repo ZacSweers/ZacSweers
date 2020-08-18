@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — pushed [`4be3abe5`](https://github.com/uber/AutoDispose/commit/4be3abe517704f6ca7320f72335516a7aa16c3f6) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Target 1.3 in lint"
+
+**2020-08-17** — pushed [`28888870`](https://github.com/uber/AutoDispose/commit/288888703ae8e833344e6d0b51414cf3bccde9bc) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix version"
+
+**2020-08-17** — opened PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
+
+**2020-08-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
 **2020-08-17** — pushed [`1fec7aa0`](https://github.com/ZacSweers/gradle-doctor/commit/1fec7aa02efecab981747fc9fb7e568f7cc70223) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Print errors at the end"
 
 **2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675156832) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-17** — closed issue [#430](https://api.github.com/repos/uber/AutoDispose/issues/430) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unsubscribe unexpectedly when used in item of 'RecyclerView' inside 'ViewPager2' after page changed."
 
 **2020-08-17** — commented on [#430](https://github.com/uber/AutoDispose/issues/430#issuecomment-675150244) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-08-17** — pushed [`f99a7b68`](https://github.com/ZacSweers/gradle-doctor/commit/f99a7b6843e0165b8ee2146cea6509ea4cd7d674) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "get()"
-
-**2020-08-17** — pushed [`ba70a09b`](https://github.com/ZacSweers/gradle-doctor/commit/ba70a09b054b9739743617cdf763889d541566f0) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Just get()"
-
-**2020-08-17** — commented on [#105](https://github.com/runningcode/gradle-doctor/pull/105#issuecomment-675133908) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
-
-**2020-08-17** — created branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
