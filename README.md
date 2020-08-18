@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — commented on [#200](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/200#issuecomment-675747032) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-08-18** — opened PR [#270](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/270) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp and system properites"
+
+**2020-08-18** — created branch "z/proxies" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2020-08-18** — pushed [`97f30bcf`](https://github.com/ZacSweers/gradle-doctor/commit/97f30bcf32cb6a2541005c4e6eb66939774a2e16) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Check for farthest empty parent for reporting file to remove (#105)"
+
+**2020-08-18** — pushed 2 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
+
 **2020-08-18** — pushed [`3434a897`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/3434a89788147a0d9338d3fff0af8c933feb44c9) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "refactor: remove autoUpdateBuildUuid flag"
 
 **2020-08-18** — pushed 34 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — commented on [#28](https://github.com/ZacSweers/moshi-sealed/issues/28#issuecomment-675582854) in [ZacSweers/moshi-sealed](https://api.github.com/repos/ZacSweers/moshi-sealed)
 
 **2020-08-18** — commented on [#267](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/267#issuecomment-675582563) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-18** — closed issue [#432](https://api.github.com/repos/uber/AutoDispose/issues/432) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "how to remove warning Missing Disposable handling: Apply AutoDispose or cache the Disposable instance manually and enable lenient mode. "
-
-**2020-08-18** — commented on [#432](https://github.com/uber/AutoDispose/issues/432#issuecomment-675581504) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-08-18** — deleted branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-08-18** — pushed [`455ec230`](https://github.com/uber/AutoDispose/commit/455ec23037d6e1af234d5fda9cd571c490d1b306) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint (#431)"
-
-**2020-08-18** — closed PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
