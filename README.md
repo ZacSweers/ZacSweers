@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675583538) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2020-08-18** — commented on [#28](https://github.com/ZacSweers/moshi-sealed/issues/28#issuecomment-675582854) in [ZacSweers/moshi-sealed](https://api.github.com/repos/ZacSweers/moshi-sealed)
+
+**2020-08-18** — commented on [#267](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/267#issuecomment-675582563) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-08-18** — closed issue [#432](https://api.github.com/repos/uber/AutoDispose/issues/432) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "how to remove warning Missing Disposable handling: Apply AutoDispose or cache the Disposable instance manually and enable lenient mode. "
+
+**2020-08-18** — commented on [#432](https://github.com/uber/AutoDispose/issues/432#issuecomment-675581504) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2020-08-18** — deleted branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2020-08-18** — pushed [`455ec230`](https://github.com/uber/AutoDispose/commit/455ec23037d6e1af234d5fda9cd571c490d1b306) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint (#431)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675261935) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2020-08-18** — commented on [#836](https://github.com/pinterest/ktlint/issues/836#issuecomment-675261740) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675196161) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-17** — pushed [`4be3abe5`](https://github.com/uber/AutoDispose/commit/4be3abe517704f6ca7320f72335516a7aa16c3f6) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Target 1.3 in lint"
-
-**2020-08-17** — pushed [`28888870`](https://github.com/uber/AutoDispose/commit/288888703ae8e833344e6d0b51414cf3bccde9bc) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix version"
-
-**2020-08-17** — opened PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
-
-**2020-08-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
