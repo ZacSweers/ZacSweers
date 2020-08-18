@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675196161) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
 **2020-08-17** — pushed [`4be3abe5`](https://github.com/uber/AutoDispose/commit/4be3abe517704f6ca7320f72335516a7aa16c3f6) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Target 1.3 in lint"
 
 **2020-08-17** — pushed [`28888870`](https://github.com/uber/AutoDispose/commit/288888703ae8e833344e6d0b51414cf3bccde9bc) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix version"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-17** — commented on [#771](https://github.com/pinterest/ktlint/issues/771#issuecomment-675155750) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2020-08-17** — closed issue [#430](https://api.github.com/repos/uber/AutoDispose/issues/430) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unsubscribe unexpectedly when used in item of 'RecyclerView' inside 'ViewPager2' after page changed."
-
-**2020-08-17** — commented on [#430](https://github.com/uber/AutoDispose/issues/430#issuecomment-675150244) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
