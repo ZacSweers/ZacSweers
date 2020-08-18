@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — pushed [`af19cafb`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/af19cafbf272f6b6ef07e4546b28a2339c0ef808) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix systemPropertyCompat usage"
+
+**2020-08-18** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-675757239) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
+
+**2020-08-18** — pushed [`bf5fa0a6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/bf5fa0a60314693623a0779fe4355751e3d839f2) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Disabling signing on CI"
+
+**2020-08-18** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
 **2020-08-18** — commented on [#200](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/200#issuecomment-675747032) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-18** — opened PR [#270](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/270) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp and system properites"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — pushed 2 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
 
 **2020-08-18** — pushed [`3434a897`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/3434a89788147a0d9338d3fff0af8c933feb44c9) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "refactor: remove autoUpdateBuildUuid flag"
-
-**2020-08-18** — pushed 34 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
-
-**2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675583538) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-18** — commented on [#28](https://github.com/ZacSweers/moshi-sealed/issues/28#issuecomment-675582854) in [ZacSweers/moshi-sealed](https://api.github.com/repos/ZacSweers/moshi-sealed)
-
-**2020-08-18** — commented on [#267](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/267#issuecomment-675582563) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
