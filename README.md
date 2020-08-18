@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — pushed [`3434a897`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/3434a89788147a0d9338d3fff0af8c933feb44c9) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "refactor: remove autoUpdateBuildUuid flag"
+
+**2020-08-18** — pushed 34 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
 **2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675583538) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2020-08-18** — commented on [#28](https://github.com/ZacSweers/moshi-sealed/issues/28#issuecomment-675582854) in [ZacSweers/moshi-sealed](https://api.github.com/repos/ZacSweers/moshi-sealed)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — pushed [`455ec230`](https://github.com/uber/AutoDispose/commit/455ec23037d6e1af234d5fda9cd571c490d1b306) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint (#431)"
 
 **2020-08-18** — closed PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
-
-**2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675261935) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-18** — commented on [#836](https://github.com/pinterest/ktlint/issues/836#issuecomment-675261740) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
