@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — deleted branch "z/updates" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2020-08-18** — pushed [`455ec230`](https://github.com/uber/AutoDispose/commit/455ec23037d6e1af234d5fda9cd571c490d1b306) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint (#431)"
+
+**2020-08-18** — closed PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
+
+**2020-08-18** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675261935) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2020-08-18** — commented on [#836](https://github.com/pinterest/ktlint/issues/836#issuecomment-675261740) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
 **2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675196161) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2020-08-17** — pushed [`4be3abe5`](https://github.com/uber/AutoDispose/commit/4be3abe517704f6ca7320f72335516a7aa16c3f6) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Target 1.3 in lint"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-17** — opened PR [#431](https://api.github.com/repos/uber/AutoDispose/pulls/431) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update dependencies + Kotlin 1.4.0 + Fix lint"
 
 **2020-08-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2020-08-17** — pushed [`1fec7aa0`](https://github.com/ZacSweers/gradle-doctor/commit/1fec7aa02efecab981747fc9fb7e568f7cc70223) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Print errors at the end"
-
-**2020-08-17** — commented on [#830](https://github.com/pinterest/ktlint/issues/830#issuecomment-675156832) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-17** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-675156070) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-17** — commented on [#771](https://github.com/pinterest/ktlint/issues/771#issuecomment-675155750) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-08-17** — closed issue [#430](https://api.github.com/repos/uber/AutoDispose/issues/430) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unsubscribe unexpectedly when used in item of 'RecyclerView' inside 'ViewPager2' after page changed."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
