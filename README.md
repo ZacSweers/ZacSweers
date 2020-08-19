@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-19** — pushed 4 commits to [uber/crumb](https://api.github.com/repos/uber/crumb).
+
 **2020-08-19** — commented on [#58](https://github.com/uber/crumb/pull/58#issuecomment-675840358) in [uber/crumb](https://api.github.com/repos/uber/crumb)
 
 **2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675840089) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — created branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 
 **2020-08-18** — commented on [#256](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/256#issuecomment-675810882) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-18** — deleted branch "z/parallelFlag" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
