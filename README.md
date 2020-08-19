@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-19** — opened issue [#109](https://api.github.com/repos/aws/amazon-chime-sdk-android/issues/109) on [aws/amazon-chime-sdk-android](https://api.github.com/repos/aws/amazon-chime-sdk-android): "Missing release notes for 0.7.1"
+
 **2020-08-19** — pushed [`63bb67ed`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/63bb67ed7c8951249557382347994edc9a89abec) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Use automatic handling"
 
 **2020-08-19** — pushed 4 commits to [uber/crumb](https://api.github.com/repos/uber/crumb).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — pushed 7 commits to [uber/crumb](https://api.github.com/repos/uber/crumb).
 
 **2020-08-18** — pushed 59 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
-
-**2020-08-18** — created branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
