@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-19** — commented on [#58](https://github.com/uber/crumb/pull/58#issuecomment-675840358) in [uber/crumb](https://api.github.com/repos/uber/crumb)
+
+**2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675840089) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+
+**2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675839882) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+
+**2020-08-19** — opened issue [#668](https://api.github.com/repos/diffplug/spotless/issues/668) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Ktlint 0.38.0-alpha01 incompatibility"
+
+**2020-08-19** — opened PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
+
+**2020-08-18** — pushed 7 commits to [uber/crumb](https://api.github.com/repos/uber/crumb).
+
+**2020-08-18** — pushed 59 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
+
 **2020-08-18** — created branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 
 **2020-08-18** — commented on [#256](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/256#issuecomment-675810882) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-18** — deleted branch "z/parallelFlag" on [uber/crumb](https://api.github.com/repos/uber/crumb)
-
-**2020-08-18** — pushed [`550793f5`](https://github.com/uber/crumb/commit/550793f551862a2af369083bc12bfdcc110f9a0b) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Use more idiomatic --no-parallel flag (#57)"
-
-**2020-08-18** — closed PR [#57](https://api.github.com/repos/uber/crumb/pulls/57) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Use more idiomatic --no-parallel flag"
-
-**2020-08-18** — pushed [`4dd03f32`](https://github.com/ZacSweers/gradle-doctor/commit/4dd03f3214e0d039041cab2b2261b0d2744e0a83) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix things and document configuration"
-
-**2020-08-18** — pushed [`af19cafb`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/af19cafbf272f6b6ef07e4546b28a2339c0ef808) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix systemPropertyCompat usage"
-
-**2020-08-18** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-675757239) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
-
-**2020-08-18** — pushed [`bf5fa0a6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/bf5fa0a60314693623a0779fe4355751e3d839f2) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Disabling signing on CI"
-
-**2020-08-18** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
