@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — commented on [#256](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/256#issuecomment-675810882) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-08-18** — deleted branch "z/parallelFlag" on [uber/crumb](https://api.github.com/repos/uber/crumb)
+
+**2020-08-18** — pushed [`550793f5`](https://github.com/uber/crumb/commit/550793f551862a2af369083bc12bfdcc110f9a0b) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Use more idiomatic --no-parallel flag (#57)"
+
+**2020-08-18** — closed PR [#57](https://api.github.com/repos/uber/crumb/pulls/57) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Use more idiomatic --no-parallel flag"
+
 **2020-08-18** — pushed [`4dd03f32`](https://github.com/ZacSweers/gradle-doctor/commit/4dd03f3214e0d039041cab2b2261b0d2744e0a83) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix things and document configuration"
 
 **2020-08-18** — pushed [`af19cafb`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/af19cafbf272f6b6ef07e4546b28a2339c0ef808) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix systemPropertyCompat usage"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
 **2020-08-18** — commented on [#200](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/200#issuecomment-675747032) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-18** — opened PR [#270](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/270) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp and system properites"
-
-**2020-08-18** — created branch "z/proxies" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-18** — pushed [`97f30bcf`](https://github.com/ZacSweers/gradle-doctor/commit/97f30bcf32cb6a2541005c4e6eb66939774a2e16) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Check for farthest empty parent for reporting file to remove (#105)"
-
-**2020-08-18** — pushed 2 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
