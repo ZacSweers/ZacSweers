@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-18** — created branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
+
 **2020-08-18** — commented on [#256](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/256#issuecomment-675810882) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-18** — deleted branch "z/parallelFlag" on [uber/crumb](https://api.github.com/repos/uber/crumb)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-18** — pushed [`bf5fa0a6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/bf5fa0a60314693623a0779fe4355751e3d839f2) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Disabling signing on CI"
 
 **2020-08-18** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
-
-**2020-08-18** — commented on [#200](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/200#issuecomment-675747032) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
