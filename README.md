@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-19** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-676894468) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
+
 **2020-08-19** — pushed [`727b7ef0`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/727b7ef0b08f97a63f84b9e6647097612a689451) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Remove redundant selector"
 
 **2020-08-19** — commented on [#270](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/270#issuecomment-676805419) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675839882) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
 
 **2020-08-19** — opened issue [#668](https://api.github.com/repos/diffplug/spotless/issues/668) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Ktlint 0.38.0-alpha01 incompatibility"
-
-**2020-08-19** — opened PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
