@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-21** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678470613) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2020-08-21** — commented on [#1189](https://github.com/square/moshi/issues/1189#issuecomment-678367991) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-21** — commented on [#274](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/274#issuecomment-678366846) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-21** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2020-08-21** — closed PR [#246](https://api.github.com/repos/ZacSweers/CatchUp/pulls/246) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others"
-
-**2020-08-21** — opened PR [#277](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/277) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): " Only upload mapping files once per variant"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
