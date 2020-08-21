@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-21** — commented on [#1189](https://github.com/square/moshi/issues/1189#issuecomment-678367991) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-21** — commented on [#274](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/274#issuecomment-678366846) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-08-21** — commented on [#277](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/277#issuecomment-678038066) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-21** — deleted branch "z/uploads" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-21** — closed PR [#246](https://api.github.com/repos/ZacSweers/CatchUp/pulls/246) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others"
 
 **2020-08-21** — opened PR [#277](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/277) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): " Only upload mapping files once per variant"
-
-**2020-08-21** — pushed [`58e38d41`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/58e38d4194c1565d1149450771830d234d07e606) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add anote"
-
-**2020-08-21** — created branch "z/uploadMappingOnce" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
