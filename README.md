@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-08-19** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-676894468) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
+**2020-08-21** — opened PR [#277](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/277) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): " Only upload mapping files once per variant"
 
-**2020-08-19** — pushed [`727b7ef0`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/727b7ef0b08f97a63f84b9e6647097612a689451) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Remove redundant selector"
+**2020-08-21** — pushed [`58e38d41`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/58e38d4194c1565d1149450771830d234d07e606) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add anote"
 
-**2020-08-19** — commented on [#270](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/270#issuecomment-676805419) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+**2020-08-21** — created branch "z/uploadMappingOnce" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
-**2020-08-19** — opened issue [#109](https://api.github.com/repos/aws/amazon-chime-sdk-android/issues/109) on [aws/amazon-chime-sdk-android](https://api.github.com/repos/aws/amazon-chime-sdk-android): "Missing release notes for 0.7.1"
+**2020-08-21** — opened PR [#276](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/276) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Use maven publish plugin for central publishing"
 
-**2020-08-19** — pushed [`63bb67ed`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/63bb67ed7c8951249557382347994edc9a89abec) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Use automatic handling"
+**2020-08-21** — opened PR [#275](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/275) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp"
 
-**2020-08-19** — pushed 4 commits to [uber/crumb](https://api.github.com/repos/uber/crumb).
+**2020-08-21** — created branch "z/uploads2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
-**2020-08-19** — commented on [#58](https://github.com/uber/crumb/pull/58#issuecomment-675840358) in [uber/crumb](https://api.github.com/repos/uber/crumb)
+**2020-08-21** — created branch "z/proxies2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
-**2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675840089) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+**2020-08-21** — pushed 263 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
-**2020-08-19** — commented on [#668](https://github.com/diffplug/spotless/issues/668#issuecomment-675839882) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+**2020-08-21** — pushed 2 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
 
-**2020-08-19** — opened issue [#668](https://api.github.com/repos/diffplug/spotless/issues/668) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Ktlint 0.38.0-alpha01 incompatibility"
+**2020-08-20** — opened issue [#274](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/274) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Same mapping file is re-uploaded multiple times"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
