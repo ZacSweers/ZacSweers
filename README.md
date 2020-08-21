@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-21** — commented on [#277](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/277#issuecomment-678038066) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-08-21** — deleted branch "z/uploads" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2020-08-21** — deleted branch "z/proxies" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2020-08-21** — deleted branch "z/gradle66" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2020-08-21** — pushed [`ff2fee29`](https://github.com/ZacSweers/CatchUp/commit/ff2fee29a4ae4c3391eb36db9702781b4b3c67df) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others (#246)"
+
+**2020-08-21** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-21** — closed PR [#246](https://api.github.com/repos/ZacSweers/CatchUp/pulls/246) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others"
+
 **2020-08-21** — opened PR [#277](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/277) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): " Only upload mapping files once per variant"
 
 **2020-08-21** — pushed [`58e38d41`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/58e38d4194c1565d1149450771830d234d07e606) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add anote"
 
 **2020-08-21** — created branch "z/uploadMappingOnce" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — opened PR [#276](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/276) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Use maven publish plugin for central publishing"
-
-**2020-08-21** — opened PR [#275](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/275) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp"
-
-**2020-08-21** — created branch "z/uploads2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — created branch "z/proxies2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — pushed 263 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
-
-**2020-08-21** — pushed 2 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
-
-**2020-08-20** — opened issue [#274](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/274) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Same mapping file is re-uploaded multiple times"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
