@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-22** — pushed [`a73c5440`](https://github.com/ZacSweers/CatchUp/commit/a73c54408f4a113d00c518a4d0ac8c5d9365693d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Go to compile/target SDK 30 too"
+
+**2020-08-22** — opened PR [#248](https://api.github.com/repos/ZacSweers/CatchUp/pulls/248) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime"
+
+**2020-08-22** — created branch "z/kotlinxdatetime" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2020-08-22** — pushed [`70228bd6`](https://github.com/ZacSweers/CatchUp/commit/70228bd673e12a59871d57c2d964e09618bebb28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates (#247)"
 
 **2020-08-22** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593405) in [square/okhttp](https://api.github.com/repos/square/okhttp)
 
 **2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593312) in [square/okhttp](https://api.github.com/repos/square/okhttp)
-
-**2020-08-21** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678470613) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-08-21** — commented on [#1189](https://github.com/square/moshi/issues/1189#issuecomment-678367991) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-21** — commented on [#274](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/274#issuecomment-678366846) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
