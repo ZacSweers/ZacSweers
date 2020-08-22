@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-22** — pushed [`74f31854`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/74f31854ef18276fa8ed75ec38e303c9f95d05c6) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix wiring"
+
+**2020-08-22** — pushed [`134b276e`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/134b276e9ad00b9bc71507a3160535c96b54ac1a) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Suppress detekt issue"
+
+**2020-08-22** — pushed [`26347335`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/263473354d6adbac8be9d653ff99d5edc9a7ef11) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add back bintray uploads"
+
 **2020-08-22** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-678690500) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-22** — opened PR [#281](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/281) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Show a progress bar during mapping file uploads"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — pushed [`9a78b7e0`](https://github.com/ZacSweers/CatchUp/commit/9a78b7e0b623e6a87a513a914ed3c02cae93f0aa) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30 (#248)"
 
 **2020-08-22** — deleted branch "z/kotlinxdatetime" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-22** — closed PR [#248](https://api.github.com/repos/ZacSweers/CatchUp/pulls/248) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30"
-
-**2020-08-22** — pushed [`a73c5440`](https://github.com/ZacSweers/CatchUp/commit/a73c54408f4a113d00c518a4d0ac8c5d9365693d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Go to compile/target SDK 30 too"
-
-**2020-08-22** — opened PR [#248](https://api.github.com/repos/ZacSweers/CatchUp/pulls/248) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
