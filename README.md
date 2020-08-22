@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-22** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678675080) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2020-08-22** — pushed [`9a78b7e0`](https://github.com/ZacSweers/CatchUp/commit/9a78b7e0b623e6a87a513a914ed3c02cae93f0aa) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30 (#248)"
+
+**2020-08-22** — deleted branch "z/kotlinxdatetime" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-22** — closed PR [#248](https://api.github.com/repos/ZacSweers/CatchUp/pulls/248) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30"
+
 **2020-08-22** — pushed [`a73c5440`](https://github.com/ZacSweers/CatchUp/commit/a73c54408f4a113d00c518a4d0ac8c5d9365693d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Go to compile/target SDK 30 too"
 
 **2020-08-22** — opened PR [#248](https://api.github.com/repos/ZacSweers/CatchUp/pulls/248) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2020-08-22** — closed PR [#247](https://api.github.com/repos/ZacSweers/CatchUp/pulls/247) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
-
-**2020-08-22** — opened PR [#247](https://api.github.com/repos/ZacSweers/CatchUp/pulls/247) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
-
-**2020-08-22** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593405) in [square/okhttp](https://api.github.com/repos/square/okhttp)
-
-**2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593312) in [square/okhttp](https://api.github.com/repos/square/okhttp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
