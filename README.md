@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-22** — pushed [`70228bd6`](https://github.com/ZacSweers/CatchUp/commit/70228bd673e12a59871d57c2d964e09618bebb28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates (#247)"
+
+**2020-08-22** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-22** — closed PR [#247](https://api.github.com/repos/ZacSweers/CatchUp/pulls/247) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
+
+**2020-08-22** — opened PR [#247](https://api.github.com/repos/ZacSweers/CatchUp/pulls/247) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
+
+**2020-08-22** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593405) in [square/okhttp](https://api.github.com/repos/square/okhttp)
+
+**2020-08-22** — commented on [#5947](https://github.com/square/okhttp/pull/5947#issuecomment-678593312) in [square/okhttp](https://api.github.com/repos/square/okhttp)
+
 **2020-08-21** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678470613) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-08-21** — commented on [#1189](https://github.com/square/moshi/issues/1189#issuecomment-678367991) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-21** — commented on [#274](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/274#issuecomment-678366846) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — commented on [#277](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/277#issuecomment-678038066) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — deleted branch "z/uploads" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — deleted branch "z/proxies" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — deleted branch "z/gradle66" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-21** — pushed [`ff2fee29`](https://github.com/ZacSweers/CatchUp/commit/ff2fee29a4ae4c3391eb36db9702781b4b3c67df) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others (#246)"
-
-**2020-08-21** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-21** — closed PR [#246](https://api.github.com/repos/ZacSweers/CatchUp/pulls/246) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update bugsnag to 5.0 + some others"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
