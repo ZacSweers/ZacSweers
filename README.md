@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-22** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-678723826) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-08-22** — pushed [`74f31854`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/74f31854ef18276fa8ed75ec38e303c9f95d05c6) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix wiring"
 
 **2020-08-22** — pushed [`134b276e`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/134b276e9ad00b9bc71507a3160535c96b54ac1a) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Suppress detekt issue"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678675080) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-08-22** — pushed [`9a78b7e0`](https://github.com/ZacSweers/CatchUp/commit/9a78b7e0b623e6a87a513a914ed3c02cae93f0aa) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30 (#248)"
-
-**2020-08-22** — deleted branch "z/kotlinxdatetime" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
