@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-24** — pushed 251 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
+
+**2020-08-24** — commented on [#2463](https://github.com/gradle/gradle/issues/2463#issuecomment-679353681) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-08-22** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-678723826) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-08-22** — pushed [`74f31854`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/74f31854ef18276fa8ed75ec38e303c9f95d05c6) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix wiring"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — pushed [`98e1b241`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/98e1b241d8f7e4c27a3321f0e5798fc3fdd67d94) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add extension configuration to allow disabling"
 
 **2020-08-22** — created branch "z/progressBar" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-22** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-678675080) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-08-22** — pushed [`9a78b7e0`](https://github.com/ZacSweers/CatchUp/commit/9a78b7e0b623e6a87a513a914ed3c02cae93f0aa) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start adopting kotlinx-datetime + sdk 30 (#248)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
