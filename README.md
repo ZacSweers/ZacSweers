@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-24** — opened PR [#284](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/284) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Make BuildUuid a settable extension property instead"
+
+**2020-08-24** — created branch "z/seed" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2020-08-24** — pushed 121 commits to [ZacSweers/ktlint](https://api.github.com/repos/ZacSweers/ktlint).
+
 **2020-08-24** — pushed 251 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 
 **2020-08-24** — commented on [#2463](https://github.com/gradle/gradle/issues/2463#issuecomment-679353681) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — pushed [`26347335`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/263473354d6adbac8be9d653ff99d5edc9a7ef11) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add back bintray uploads"
 
 **2020-08-22** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-678690500) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-22** — opened PR [#281](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/281) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Show a progress bar during mapping file uploads"
-
-**2020-08-22** — pushed [`98e1b241`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/98e1b241d8f7e4c27a3321f0e5798fc3fdd67d94) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add extension configuration to allow disabling"
-
-**2020-08-22** — created branch "z/progressBar" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
