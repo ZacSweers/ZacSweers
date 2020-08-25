@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-24** — commented on [#36](https://github.com/pascalgn/automerge-action/issues/36#issuecomment-679455653) in [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action)
+
 **2020-08-24** — commented on [#51](https://github.com/tschuchortdev/kotlin-compile-testing/issues/51#issuecomment-679425912) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2020-08-24** — opened PR [#284](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/284) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Make BuildUuid a settable extension property instead"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-22** — pushed [`74f31854`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/74f31854ef18276fa8ed75ec38e303c9f95d05c6) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix wiring"
 
 **2020-08-22** — pushed [`134b276e`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/134b276e9ad00b9bc71507a3160535c96b54ac1a) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Suppress detekt issue"
-
-**2020-08-22** — pushed [`26347335`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/263473354d6adbac8be9d653ff99d5edc9a7ef11) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Add back bintray uploads"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
