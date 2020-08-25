@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-680229607) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
+
 **2020-08-25** — pushed [`1e1379b6`](https://github.com/ZacSweers/gradle-doctor/commit/1e1379b637b26872f8d4accf9d7ad5cf47b496f1) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Add Github actions. (#108)"
 
 **2020-08-25** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-24** — pushed 121 commits to [ZacSweers/ktlint](https://api.github.com/repos/ZacSweers/ktlint).
 
 **2020-08-24** — pushed 251 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
-
-**2020-08-24** — commented on [#2463](https://github.com/gradle/gradle/issues/2463#issuecomment-679353681) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
