@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — pushed [`1e1379b6`](https://github.com/ZacSweers/gradle-doctor/commit/1e1379b637b26872f8d4accf9d7ad5cf47b496f1) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Add Github actions. (#108)"
+
+**2020-08-25** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
+
 **2020-08-25** — pushed 554 commits to [ZacSweers/JRAW](https://api.github.com/repos/ZacSweers/JRAW).
 
 **2020-08-24** — commented on [#36](https://github.com/pascalgn/automerge-action/issues/36#issuecomment-679455653) in [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-24** — pushed 251 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 
 **2020-08-24** — commented on [#2463](https://github.com/gradle/gradle/issues/2463#issuecomment-679353681) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-08-22** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-678723826) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-08-22** — pushed [`74f31854`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/74f31854ef18276fa8ed75ec38e303c9f95d05c6) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Fix wiring"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
