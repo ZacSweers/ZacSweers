@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — created branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-25** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-680229607) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
 
 **2020-08-25** — pushed [`1e1379b6`](https://github.com/ZacSweers/gradle-doctor/commit/1e1379b637b26872f8d4accf9d7ad5cf47b496f1) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Add Github actions. (#108)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-24** — created branch "z/seed" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
 **2020-08-24** — pushed 121 commits to [ZacSweers/ktlint](https://api.github.com/repos/ZacSweers/ktlint).
-
-**2020-08-24** — pushed 251 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
