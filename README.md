@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680974184) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680954964) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680945753) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680413543) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-25** — created branch "z/kotlinextensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-25** — opened PR [#1191](https://api.github.com/repos/square/moshi/pulls/1191) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
