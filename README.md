@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — created branch "z/kotlinextensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-25** — opened PR [#1191](https://api.github.com/repos/square/moshi/pulls/1191) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.0"
+
+**2020-08-25** — commented on [#1147](https://github.com/square/moshi/issues/1147#issuecomment-680391715) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-25** — created branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-25** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-680229607) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-24** — commented on [#36](https://github.com/pascalgn/automerge-action/issues/36#issuecomment-679455653) in [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action)
 
 **2020-08-24** — commented on [#51](https://github.com/tschuchortdev/kotlin-compile-testing/issues/51#issuecomment-679425912) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2020-08-24** — opened PR [#284](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/284) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Make BuildUuid a settable extension property instead"
-
-**2020-08-24** — created branch "z/seed" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-08-24** — pushed 121 commits to [ZacSweers/ktlint](https://api.github.com/repos/ZacSweers/ktlint).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
