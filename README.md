@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — deleted branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680424339) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-25** — pushed [`b0c93bf0`](https://github.com/ZacSweers/moshi/commit/b0c93bf033f69f64b8c3808bf53cb78bd5671b64) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update test for kotlin 1.4 behavior"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-25** — commented on [#1147](https://github.com/square/moshi/issues/1147#issuecomment-680391715) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-25** — created branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-25** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-680229607) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
