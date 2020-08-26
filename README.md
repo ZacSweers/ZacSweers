@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680424339) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-25** — pushed [`b0c93bf0`](https://github.com/ZacSweers/moshi/commit/b0c93bf033f69f64b8c3808bf53cb78bd5671b64) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update test for kotlin 1.4 behavior"
+
+**2020-08-25** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-08-25** — commented on [#51](https://github.com/tschuchortdev/kotlin-compile-testing/issues/51#issuecomment-680415529) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680413543) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-25** — created branch "z/kotlinextensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-25** — opened PR [#1191](https://api.github.com/repos/square/moshi/pulls/1191) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-25** — created branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-25** — commented on [#104](https://github.com/runningcode/gradle-doctor/pull/104#issuecomment-680229607) in [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor)
-
-**2020-08-25** — pushed [`1e1379b6`](https://github.com/ZacSweers/gradle-doctor/commit/1e1379b637b26872f8d4accf9d7ad5cf47b496f1) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Add Github actions. (#108)"
-
-**2020-08-25** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
-
-**2020-08-25** — pushed 554 commits to [ZacSweers/JRAW](https://api.github.com/repos/ZacSweers/JRAW).
-
-**2020-08-24** — commented on [#36](https://github.com/pascalgn/automerge-action/issues/36#issuecomment-679455653) in [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action)
-
-**2020-08-24** — commented on [#51](https://github.com/tschuchortdev/kotlin-compile-testing/issues/51#issuecomment-679425912) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
