@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — deleted branch "z/gradle" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-27** — commented on [#1159](https://github.com/square/moshi/pull/1159#issuecomment-682180535) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-27** — pushed [`2b4137d9`](https://github.com/ZacSweers/moshi/commit/2b4137d99b3b4b0d58ee4b7d3eb6f6e87fa073e0) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Kotlin 1.4.0"
+
+**2020-08-27** — pushed 58 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-08-27** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-08-27** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-27** — opened issue [#152](https://api.github.com/repos/actions/stale/issues/152) on [actions/stale](https://api.github.com/repos/actions/stale): "Is this maintained?"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — commented on [#972](https://github.com/square/kotlinpoet/issues/972#issuecomment-681729203) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-08-27** — opened PR [#1195](https://api.github.com/repos/square/moshi/pulls/1195) to [square/moshi](https://api.github.com/repos/square/moshi): "Add missing 1.10 bits to changelog"
-
-**2020-08-27** — pushed [`99c87451`](https://github.com/ZacSweers/moshi/commit/99c87451301a116bad3caf9c7d702c639951a349) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add missing 1.10 bits to changelog"
-
-**2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680974184) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680954964) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680945753) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-25** — deleted branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
