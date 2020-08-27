@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-27** — opened issue [#152](https://api.github.com/repos/actions/stale/issues/152) on [actions/stale](https://api.github.com/repos/actions/stale): "Is this maintained?"
 
 **2020-08-27** — commented on [#57](https://github.com/actions/stale/issues/57#issuecomment-681731695) in [actions/stale](https://api.github.com/repos/actions/stale)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-26** — commented on [#1193](https://github.com/square/moshi/issues/1193#issuecomment-680945753) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-25** — deleted branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680424339) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
