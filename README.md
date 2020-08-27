@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — opened issue [#152](https://api.github.com/repos/actions/stale/issues/152) on [actions/stale](https://api.github.com/repos/actions/stale): "Is this maintained?"
+
+**2020-08-27** — commented on [#57](https://github.com/actions/stale/issues/57#issuecomment-681731695) in [actions/stale](https://api.github.com/repos/actions/stale)
+
+**2020-08-27** — commented on [#972](https://github.com/square/kotlinpoet/issues/972#issuecomment-681729203) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-08-27** — opened PR [#1195](https://api.github.com/repos/square/moshi/pulls/1195) to [square/moshi](https://api.github.com/repos/square/moshi): "Add missing 1.10 bits to changelog"
 
 **2020-08-27** — pushed [`99c87451`](https://github.com/ZacSweers/moshi/commit/99c87451301a116bad3caf9c7d702c639951a349) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add missing 1.10 bits to changelog"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-25** — deleted branch "z/kotlin140" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-25** — commented on [#1191](https://github.com/square/moshi/pull/1191#issuecomment-680424339) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-25** — pushed [`b0c93bf0`](https://github.com/ZacSweers/moshi/commit/b0c93bf033f69f64b8c3808bf53cb78bd5671b64) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update test for kotlin 1.4 behavior"
-
-**2020-08-25** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-25** — commented on [#51](https://github.com/tschuchortdev/kotlin-compile-testing/issues/51#issuecomment-680415529) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
