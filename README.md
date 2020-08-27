@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — pushed [`4dd4a9d2`](https://github.com/ZacSweers/moshi/commit/4dd4a9d222523b86ad764433d72977266840fb45) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Migrate to Gradle (#1159)"
+
 **2020-08-27** — deleted branch "z/gradle" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-27** — commented on [#1159](https://github.com/square/moshi/pull/1159#issuecomment-682180535) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — commented on [#57](https://github.com/actions/stale/issues/57#issuecomment-681731695) in [actions/stale](https://api.github.com/repos/actions/stale)
 
 **2020-08-27** — commented on [#972](https://github.com/square/kotlinpoet/issues/972#issuecomment-681729203) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-27** — opened PR [#1195](https://api.github.com/repos/square/moshi/pulls/1195) to [square/moshi](https://api.github.com/repos/square/moshi): "Add missing 1.10 bits to changelog"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
