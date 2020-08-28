@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — pushed [`88a906fa`](https://github.com/uber/AutoDispose/commit/88a906fadcb7bcc16be02a450b5be4023d936730) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix java"
+
+**2020-08-27** — pushed [`9ec4055a`](https://github.com/ZacSweers/moshi/commit/9ec4055af8ea9541a05518d019fe67f3f806fade) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Gradle 6.6.1"
+
+**2020-08-27** — opened PR [#433](https://api.github.com/repos/uber/AutoDispose/pulls/433) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deprecate TestLifecycleOwner "
+
+**2020-08-27** — created branch "z/deprecate" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2020-08-27** — opened PR [#1198](https://api.github.com/repos/square/moshi/pulls/1198) to [square/moshi](https://api.github.com/repos/square/moshi): "Update Okio and kotlin-compile-testing dependencies"
+
+**2020-08-27** — opened PR [#1197](https://api.github.com/repos/square/moshi/pulls/1197) to [square/moshi](https://api.github.com/repos/square/moshi): "Minor gradle cleanups"
+
+**2020-08-27** — created branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-27** — created branch "z/gradleTidying" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-27** — commented on [#1192](https://github.com/square/moshi/pull/1192#issuecomment-682266302) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-27** — pushed [`3a9a1a20`](https://github.com/ZacSweers/moshi/commit/3a9a1a202037986c657e8c4e1dbd5f800b766d0b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add toeholds for headers"
-
-**2020-08-27** — opened issue [#677](https://api.github.com/repos/diffplug/spotless/issues/677) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "updateYearWithLatest(false) is ignored/doesn't work"
-
-**2020-08-27** — opened PR [#1196](https://api.github.com/repos/square/moshi/pulls/1196) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to spotless and format code"
-
-**2020-08-27** — created branch "z/format" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — pushed [`4dd4a9d2`](https://github.com/ZacSweers/moshi/commit/4dd4a9d222523b86ad764433d72977266840fb45) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Migrate to Gradle (#1159)"
-
-**2020-08-27** — deleted branch "z/gradle" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — commented on [#1159](https://github.com/square/moshi/pull/1159#issuecomment-682180535) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-27** — pushed [`2b4137d9`](https://github.com/ZacSweers/moshi/commit/2b4137d99b3b4b0d58ee4b7d3eb6f6e87fa073e0) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Kotlin 1.4.0"
-
-**2020-08-27** — pushed 58 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-27** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
