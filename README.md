@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — opened issue [#22](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/22) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support kotlin IR"
+
+**2020-08-28** — opened PR [#110](https://api.github.com/repos/runningcode/gradle-doctor/pulls/110) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Fix a couple of java home checks bugs"
+
+**2020-08-28** — created branch "z/fixBugs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
+
+**2020-08-28** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
+
+**2020-08-28** — opened PR [#249](https://api.github.com/repos/ZacSweers/CatchUp/pulls/249) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR!"
+
+**2020-08-28** — created branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2020-08-28** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-682735580) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-28** — deleted branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-682728092) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-28** — pushed [`139df097`](https://github.com/ZacSweers/moshi/commit/139df0978807d13b92affb839a57513cf6eef30b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update maven publish to 0.12.0"
-
-**2020-08-28** — commented on [#1198](https://github.com/square/moshi/pull/1198#issuecomment-682367902) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-28** — pushed [`60c930cc`](https://github.com/ZacSweers/moshi/commit/60c930cc9c2b730b723a16a27e3c4c58bee1e0f7) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistic disable kotlin-dsl warning"
-
-**2020-08-28** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-28** — deleted branch "patch-1" on [ZacSweers/constraintlayout](https://api.github.com/repos/ZacSweers/constraintlayout)
-
-**2020-08-27** — deleted branch "z/moreJavaHome" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
-
-**2020-08-27** — deleted branch "z/gradleTidying" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
