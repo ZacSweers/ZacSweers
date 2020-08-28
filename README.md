@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — opened PR [#1](https://api.github.com/repos/androidx/constraintlayout/pulls/1) to [androidx/constraintlayout](https://api.github.com/repos/androidx/constraintlayout): "Rename README to README.md, format codeblocks"
+
+**2020-08-27** — pushed [`4fdd364c`](https://github.com/ZacSweers/constraintlayout/commit/4fdd364c5395b3b5d8f948da4c12f335cf40c5ad) to [ZacSweers/constraintlayout](https://api.github.com/repos/ZacSweers/constraintlayout): "Rename README to README.md, format codeblocks"
+
+**2020-08-27** — opened issue [#59](https://api.github.com/repos/slackhq/keeper/issues/59) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Unable to find PrintUses main class in R8 2.0.88"
+
+**2020-08-27** — closed issue [#56](https://api.github.com/repos/slackhq/keeper/issues/56) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Execution failed for task ':inferBuildVariantAndroidTestKeepRulesForKeeper'"
+
+**2020-08-27** — commented on [#56](https://github.com/slackhq/keeper/issues/56#issuecomment-682280394) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-08-27** — pushed [`88a906fa`](https://github.com/uber/AutoDispose/commit/88a906fadcb7bcc16be02a450b5be4023d936730) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix java"
 
 **2020-08-27** — pushed [`9ec4055a`](https://github.com/ZacSweers/moshi/commit/9ec4055af8ea9541a05518d019fe67f3f806fade) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Gradle 6.6.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — created branch "z/deprecate" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2020-08-27** — opened PR [#1198](https://api.github.com/repos/square/moshi/pulls/1198) to [square/moshi](https://api.github.com/repos/square/moshi): "Update Okio and kotlin-compile-testing dependencies"
-
-**2020-08-27** — opened PR [#1197](https://api.github.com/repos/square/moshi/pulls/1197) to [square/moshi](https://api.github.com/repos/square/moshi): "Minor gradle cleanups"
-
-**2020-08-27** — created branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — created branch "z/gradleTidying" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — commented on [#1192](https://github.com/square/moshi/pull/1192#issuecomment-682266302) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-27** — pushed [`3a9a1a20`](https://github.com/ZacSweers/moshi/commit/3a9a1a202037986c657e8c4e1dbd5f800b766d0b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add toeholds for headers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
