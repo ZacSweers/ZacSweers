@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — opened PR [#3028](https://api.github.com/repos/detekt/detekt/pulls/3028) to [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Use lazy gradle APIs in docs"
+
+**2020-08-27** — pushed [`aef6d1ce`](https://github.com/ZacSweers/detekt/commit/aef6d1ce81529af33523d442b8698e60957b255b) to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt): "Use lazy gradle APIs in docs"
+
+**2020-08-27** — pushed 5 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
 **2020-08-27** — opened PR [#1](https://api.github.com/repos/androidx/constraintlayout/pulls/1) to [androidx/constraintlayout](https://api.github.com/repos/androidx/constraintlayout): "Rename README to README.md, format codeblocks"
 
 **2020-08-27** — pushed [`4fdd364c`](https://github.com/ZacSweers/constraintlayout/commit/4fdd364c5395b3b5d8f948da4c12f335cf40c5ad) to [ZacSweers/constraintlayout](https://api.github.com/repos/ZacSweers/constraintlayout): "Rename README to README.md, format codeblocks"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — pushed [`88a906fa`](https://github.com/uber/AutoDispose/commit/88a906fadcb7bcc16be02a450b5be4023d936730) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix java"
 
 **2020-08-27** — pushed [`9ec4055a`](https://github.com/ZacSweers/moshi/commit/9ec4055af8ea9541a05518d019fe67f3f806fade) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Gradle 6.6.1"
-
-**2020-08-27** — opened PR [#433](https://api.github.com/repos/uber/AutoDispose/pulls/433) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deprecate TestLifecycleOwner "
-
-**2020-08-27** — created branch "z/deprecate" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-08-27** — opened PR [#1198](https://api.github.com/repos/square/moshi/pulls/1198) to [square/moshi](https://api.github.com/repos/square/moshi): "Update Okio and kotlin-compile-testing dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
