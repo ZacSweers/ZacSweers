@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — pushed [`139df097`](https://github.com/ZacSweers/moshi/commit/139df0978807d13b92affb839a57513cf6eef30b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update maven publish to 0.12.0"
+
+**2020-08-28** — commented on [#1198](https://github.com/square/moshi/pull/1198#issuecomment-682367902) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-28** — pushed [`60c930cc`](https://github.com/ZacSweers/moshi/commit/60c930cc9c2b730b723a16a27e3c4c58bee1e0f7) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistic disable kotlin-dsl warning"
+
+**2020-08-28** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-08-28** — deleted branch "patch-1" on [ZacSweers/constraintlayout](https://api.github.com/repos/ZacSweers/constraintlayout)
 
 **2020-08-27** — deleted branch "z/moreJavaHome" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — opened PR [#3028](https://api.github.com/repos/detekt/detekt/pulls/3028) to [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Use lazy gradle APIs in docs"
 
 **2020-08-27** — pushed [`aef6d1ce`](https://github.com/ZacSweers/detekt/commit/aef6d1ce81529af33523d442b8698e60957b255b) to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt): "Use lazy gradle APIs in docs"
-
-**2020-08-27** — pushed 5 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2020-08-27** — opened PR [#1](https://api.github.com/repos/androidx/constraintlayout/pulls/1) to [androidx/constraintlayout](https://api.github.com/repos/androidx/constraintlayout): "Rename README to README.md, format codeblocks"
-
-**2020-08-27** — pushed [`4fdd364c`](https://github.com/ZacSweers/constraintlayout/commit/4fdd364c5395b3b5d8f948da4c12f335cf40c5ad) to [ZacSweers/constraintlayout](https://api.github.com/repos/ZacSweers/constraintlayout): "Rename README to README.md, format codeblocks"
-
-**2020-08-27** — opened issue [#59](https://api.github.com/repos/slackhq/keeper/issues/59) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Unable to find PrintUses main class in R8 2.0.88"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
