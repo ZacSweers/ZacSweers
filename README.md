@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
+
+**2020-08-28** — commented on [#252](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/252#issuecomment-683126938) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2020-08-28** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2020-08-28** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-683058892) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — opened PR [#249](https://api.github.com/repos/ZacSweers/CatchUp/pulls/249) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR!"
 
 **2020-08-28** — created branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-28** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-682735580) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-28** — deleted branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
