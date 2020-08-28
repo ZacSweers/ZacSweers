@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-27** — pushed [`3a9a1a20`](https://github.com/ZacSweers/moshi/commit/3a9a1a202037986c657e8c4e1dbd5f800b766d0b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add toeholds for headers"
+
+**2020-08-27** — opened issue [#677](https://api.github.com/repos/diffplug/spotless/issues/677) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "updateYearWithLatest(false) is ignored/doesn't work"
+
+**2020-08-27** — opened PR [#1196](https://api.github.com/repos/square/moshi/pulls/1196) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to spotless and format code"
+
+**2020-08-27** — created branch "z/format" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-27** — pushed [`4dd4a9d2`](https://github.com/ZacSweers/moshi/commit/4dd4a9d222523b86ad764433d72977266840fb45) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Migrate to Gradle (#1159)"
 
 **2020-08-27** — deleted branch "z/gradle" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — pushed 58 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-08-27** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-27** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — opened issue [#152](https://api.github.com/repos/actions/stale/issues/152) on [actions/stale](https://api.github.com/repos/actions/stale): "Is this maintained?"
-
-**2020-08-27** — commented on [#57](https://github.com/actions/stale/issues/57#issuecomment-681731695) in [actions/stale](https://api.github.com/repos/actions/stale)
-
-**2020-08-27** — commented on [#972](https://github.com/square/kotlinpoet/issues/972#issuecomment-681729203) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
