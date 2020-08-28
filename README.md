@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-682735580) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-28** — deleted branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-28** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-682728092) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-28** — pushed [`139df097`](https://github.com/ZacSweers/moshi/commit/139df0978807d13b92affb839a57513cf6eef30b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update maven publish to 0.12.0"
 
 **2020-08-28** — commented on [#1198](https://github.com/square/moshi/pull/1198#issuecomment-682367902) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-27** — deleted branch "z/moreJavaHome" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
 
 **2020-08-27** — deleted branch "z/gradleTidying" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — deleted branch "z/format" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-27** — opened PR [#3028](https://api.github.com/repos/detekt/detekt/pulls/3028) to [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Use lazy gradle APIs in docs"
-
-**2020-08-27** — pushed [`aef6d1ce`](https://github.com/ZacSweers/detekt/commit/aef6d1ce81529af33523d442b8698e60957b255b) to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt): "Use lazy gradle APIs in docs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
