@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
+
+**2020-08-28** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-683058892) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2020-08-28** — opened issue [#22](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/22) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support kotlin IR"
 
 **2020-08-28** — opened PR [#110](https://api.github.com/repos/runningcode/gradle-doctor/pulls/110) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Fix a couple of java home checks bugs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-682735580) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-28** — deleted branch "z/dependencyUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-28** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-682728092) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-28** — pushed [`139df097`](https://github.com/ZacSweers/moshi/commit/139df0978807d13b92affb839a57513cf6eef30b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update maven publish to 0.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
