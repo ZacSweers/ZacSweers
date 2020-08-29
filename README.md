@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-29** — commented on [#152](https://github.com/actions/stale/issues/152#issuecomment-683254380) in [actions/stale](https://api.github.com/repos/actions/stale)
+
+**2020-08-29** — commented on [#1200](https://github.com/square/moshi/issues/1200#issuecomment-683251841) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-29** — commented on [#1201](https://github.com/square/moshi/issues/1201#issuecomment-683251070) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-29** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-683250932) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-29** — created branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-08-28** — commented on [#1200](https://github.com/square/moshi/issues/1200#issuecomment-683218525) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-28** — pushed [`5b6b55ab`](https://github.com/ZacSweers/CatchUp/commit/5b6b55ab79aba918c1fc433cb4fedd4e3355145b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR! (#249)"
-
-**2020-08-28** — deleted branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
