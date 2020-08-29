@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-29** — opened PR [#1206](https://api.github.com/repos/square/moshi/pulls/1206) to [square/moshi](https://api.github.com/repos/square/moshi): "Add .git-blame-ignore-revs"
+
+**2020-08-29** — created branch "z/ignoredRev" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-29** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-683337074) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-29** — opened PR [#1205](https://api.github.com/repos/square/moshi/pulls/1205) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up old checkstyle references"
+
+**2020-08-29** — created branch "z/cleanups" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-08-29** — opened PR [#1204](https://api.github.com/repos/square/moshi/pulls/1204) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to Github Actions for CI"
+
+**2020-08-29** — created branch "z/actions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-29** — commented on [#1203](https://github.com/square/moshi/issues/1203#issuecomment-683329803) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-29** — deleted branch "z/fixBugs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
 
 **2020-08-29** — commented on [#152](https://github.com/actions/stale/issues/152#issuecomment-683254380) in [actions/stale](https://api.github.com/repos/actions/stale)
-
-**2020-08-29** — commented on [#1200](https://github.com/square/moshi/issues/1200#issuecomment-683251841) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — commented on [#1201](https://github.com/square/moshi/issues/1201#issuecomment-683251070) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-683250932) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — commented on [#969](https://github.com/square/moshi/pull/969#issuecomment-683250637) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — opened PR [#1202](https://api.github.com/repos/square/moshi/pulls/1202) to [square/moshi](https://api.github.com/repos/square/moshi): "Promote Kotlin type-inferring APIs to the main Moshi package (round 2!)"
-
-**2020-08-29** — pushed 17 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-29** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
