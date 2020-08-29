@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — pushed [`fc21f988`](https://github.com/ZacSweers/CatchUp/commit/fc21f9883634477a84c3965906e95320b4d23623) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable test for now"
+
+**2020-08-28** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2020-08-28** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
 
 **2020-08-28** — commented on [#252](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/252#issuecomment-683126938) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — created branch "z/fixBugs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
 
 **2020-08-28** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
-
-**2020-08-28** — opened PR [#249](https://api.github.com/repos/ZacSweers/CatchUp/pulls/249) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR!"
-
-**2020-08-28** — created branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
