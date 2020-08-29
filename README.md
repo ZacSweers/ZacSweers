@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — commented on [#1200](https://github.com/square/moshi/issues/1200#issuecomment-683218525) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-28** — pushed [`5b6b55ab`](https://github.com/ZacSweers/CatchUp/commit/5b6b55ab79aba918c1fc433cb4fedd4e3355145b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR! (#249)"
 
 **2020-08-28** — deleted branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2020-08-28** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-683058892) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-08-28** — opened issue [#22](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/22) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support kotlin IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
