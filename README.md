@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-28** — pushed [`5b6b55ab`](https://github.com/ZacSweers/CatchUp/commit/5b6b55ab79aba918c1fc433cb4fedd4e3355145b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR! (#249)"
+
+**2020-08-28** — deleted branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-28** — closed PR [#249](https://api.github.com/repos/ZacSweers/CatchUp/pulls/249) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR!"
+
 **2020-08-28** — pushed [`fc21f988`](https://github.com/ZacSweers/CatchUp/commit/fc21f9883634477a84c3965906e95320b4d23623) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable test for now"
 
 **2020-08-28** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-28** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-683058892) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-08-28** — opened issue [#22](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/22) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support kotlin IR"
-
-**2020-08-28** — opened PR [#110](https://api.github.com/repos/runningcode/gradle-doctor/pulls/110) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Fix a couple of java home checks bugs"
-
-**2020-08-28** — created branch "z/fixBugs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
-
-**2020-08-28** — pushed 7 commits to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
