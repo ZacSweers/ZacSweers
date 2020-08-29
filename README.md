@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-29** — commented on [#1203](https://github.com/square/moshi/issues/1203#issuecomment-683329803) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-29** — deleted branch "z/fixBugs" on [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor)
 
 **2020-08-29** — commented on [#152](https://github.com/actions/stale/issues/152#issuecomment-683254380) in [actions/stale](https://api.github.com/repos/actions/stale)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-29** — pushed 17 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-08-29** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-29** — created branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
