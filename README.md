@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-29** — commented on [#1201](https://github.com/square/moshi/issues/1201#issuecomment-683251070) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-29** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-683250932) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-29** — commented on [#969](https://github.com/square/moshi/pull/969#issuecomment-683250637) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-08-29** — opened PR [#1202](https://api.github.com/repos/square/moshi/pulls/1202) to [square/moshi](https://api.github.com/repos/square/moshi): "Promote Kotlin type-inferring APIs to the main Moshi package (round 2!)"
+
+**2020-08-29** — pushed 17 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-08-29** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-08-29** — created branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-08-28** — commented on [#1200](https://github.com/square/moshi/issues/1200#issuecomment-683218525) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-28** — pushed [`5b6b55ab`](https://github.com/ZacSweers/CatchUp/commit/5b6b55ab79aba918c1fc433cb4fedd4e3355145b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR! (#249)"
 
 **2020-08-28** — deleted branch "z/useIR" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-28** — closed PR [#249](https://api.github.com/repos/ZacSweers/CatchUp/pulls/249) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable useIR!"
-
-**2020-08-28** — pushed [`fc21f988`](https://github.com/ZacSweers/CatchUp/commit/fc21f9883634477a84c3965906e95320b4d23623) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable test for now"
-
-**2020-08-28** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-08-28** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
-
-**2020-08-28** — commented on [#252](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/252#issuecomment-683126938) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2020-08-28** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
-
-**2020-08-28** — commented on [#21](https://github.com/ZacSweers/redacted-compiler-plugin/issues/21#issuecomment-683058892) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
