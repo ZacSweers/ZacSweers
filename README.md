@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-30** — commented on [#887](https://github.com/square/kotlinpoet/issues/887#issuecomment-683465618) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2020-08-30** — commented on [#965](https://github.com/square/kotlinpoet/issues/965#issuecomment-683465541) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2020-08-30** — commented on [#970](https://github.com/square/kotlinpoet/pull/970#issuecomment-683465221) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2020-08-30** — commented on [#12126](https://github.com/gradle/gradle/issues/12126#issuecomment-683464072) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-08-30** — opened issue [#3040](https://api.github.com/repos/detekt/detekt/issues/3040) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Gradle variant exception with Gradle 6.7 nightlies"
+
+**2020-08-30** — commented on [#970](https://github.com/square/kotlinpoet/pull/970#issuecomment-683461277) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-08-30** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-08-30** — pushed [`91b432c3`](https://github.com/ZacSweers/gradle-doctor/commit/91b432c3d72d5ce29e86acc0091827c44f64029f) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix a couple of java home checks bugs (#110)"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-30** — commented on [#1210](https://github.com/square/moshi/pull/1210#issuecomment-683458038) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-30** — pushed [`ae0a0558`](https://github.com/ZacSweers/CatchUp/commit/ae0a0558a8b50f328fc773132ac8259db1579a70) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0 (#250)"
-
-**2020-08-30** — deleted branch "z/updateMoshi" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-30** — closed PR [#250](https://api.github.com/repos/ZacSweers/CatchUp/pulls/250) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0"
-
-**2020-08-30** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-683448488) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-30** — pushed [`a0cdc34e`](https://github.com/ZacSweers/CatchUp/commit/a0cdc34e41e00098b2ef54b95518157fb34e4a3f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Tests and fixes"
-
-**2020-08-30** — opened PR [#250](https://api.github.com/repos/ZacSweers/CatchUp/pulls/250) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0"
-
-**2020-08-30** — created branch "z/updateMoshi" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
