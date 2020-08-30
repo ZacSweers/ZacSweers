@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-30** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-08-30** — pushed [`91b432c3`](https://github.com/ZacSweers/gradle-doctor/commit/91b432c3d72d5ce29e86acc0091827c44f64029f) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix a couple of java home checks bugs (#110)"
+
+**2020-08-30** — commented on [#1210](https://github.com/square/moshi/pull/1210#issuecomment-683458038) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-30** — pushed [`ae0a0558`](https://github.com/ZacSweers/CatchUp/commit/ae0a0558a8b50f328fc773132ac8259db1579a70) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0 (#250)"
 
 **2020-08-30** — deleted branch "z/updateMoshi" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-30** — opened PR [#250](https://api.github.com/repos/ZacSweers/CatchUp/pulls/250) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0"
 
 **2020-08-30** — created branch "z/updateMoshi" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-08-29** — pushed [`d5bb1001`](https://github.com/ZacSweers/moshi/commit/d5bb10011ca9e576fbe8daac82421c241c1a749d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update CONTRIBUTING.md"
-
-**2020-08-29** — commented on [#1207](https://github.com/square/moshi/issues/1207#issuecomment-683369422) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — commented on [#1208](https://github.com/square/moshi/issues/1208#issuecomment-683364790) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
