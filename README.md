@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-30** — pushed [`ae0a0558`](https://github.com/ZacSweers/CatchUp/commit/ae0a0558a8b50f328fc773132ac8259db1579a70) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0 (#250)"
+
+**2020-08-30** — deleted branch "z/updateMoshi" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-08-30** — closed PR [#250](https://api.github.com/repos/ZacSweers/CatchUp/pulls/250) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0"
+
+**2020-08-30** — commented on [#1199](https://github.com/square/moshi/issues/1199#issuecomment-683448488) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-08-30** — pushed [`a0cdc34e`](https://github.com/ZacSweers/CatchUp/commit/a0cdc34e41e00098b2ef54b95518157fb34e4a3f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Tests and fixes"
 
 **2020-08-30** — opened PR [#250](https://api.github.com/repos/ZacSweers/CatchUp/pulls/250) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Moshi to 1.10.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-29** — commented on [#1207](https://github.com/square/moshi/issues/1207#issuecomment-683369422) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-08-29** — commented on [#1208](https://github.com/square/moshi/issues/1208#issuecomment-683364790) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — deleted branch "z/ignoredRev" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-08-29** — closed PR [#1206](https://api.github.com/repos/square/moshi/pulls/1206) to [square/moshi](https://api.github.com/repos/square/moshi): "Add .git-blame-ignore-revs"
-
-**2020-08-29** — commented on [#1206](https://github.com/square/moshi/pull/1206#issuecomment-683364646) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-08-29** — opened PR [#1206](https://api.github.com/repos/square/moshi/pulls/1206) to [square/moshi](https://api.github.com/repos/square/moshi): "Add .git-blame-ignore-revs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
