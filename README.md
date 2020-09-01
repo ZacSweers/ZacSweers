@@ -4,17 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-01** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-684285217) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-01** — opened PR [#1211](https://api.github.com/repos/square/moshi/pulls/1211) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to new appendLine APIs"
+
+**2020-09-01** — created branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-01** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-09-01** — pushed [`42121631`](https://github.com/ZacSweers/moshi/commit/42121631d4dfa7161f2c1eb4e92496886046d0de) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Always run on both push and pull"
 
 **2020-09-01** — pushed 4 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-08-31** — closed issue [#434](https://api.github.com/repos/uber/AutoDispose/issues/434) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "I need AutoDispose proguard"
-
-**2020-08-31** — closed issue [#21](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/21) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integration with spring and kotlin gradle"
-
-**2020-08-30** — commented on [#887](https://github.com/square/kotlinpoet/issues/887#issuecomment-683465618) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-30** — commented on [#965](https://github.com/square/kotlinpoet/issues/965#issuecomment-683465541) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
