@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-01** — commented on [#61](https://github.com/slackhq/keeper/pull/61#issuecomment-685167497) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-09-01** — opened issue [#106](https://api.github.com/repos/pascalgn/automerge-action/issues/106) on [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action): "Token can be leaked via debug flag"
 
 **2020-09-01** — deleted branch "z/actions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-01** — created branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-01** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-01** — pushed [`42121631`](https://github.com/ZacSweers/moshi/commit/42121631d4dfa7161f2c1eb4e92496886046d0de) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Always run on both push and pull"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
