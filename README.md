@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-08-31** — closed issue [#434](https://api.github.com/repos/uber/AutoDispose/issues/434) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "I need AutoDispose proguard"
+
 **2020-08-31** — closed issue [#21](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/21) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integration with spring and kotlin gradle"
 
 **2020-08-30** — commented on [#887](https://github.com/square/kotlinpoet/issues/887#issuecomment-683465618) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-30** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-08-30** — pushed [`91b432c3`](https://github.com/ZacSweers/gradle-doctor/commit/91b432c3d72d5ce29e86acc0091827c44f64029f) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix a couple of java home checks bugs (#110)"
-
-**2020-08-30** — commented on [#1210](https://github.com/square/moshi/pull/1210#issuecomment-683458038) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
