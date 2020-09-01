@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-01** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-685011896) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2020-09-01** — deleted branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-01** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-684285217) in [square/moshi](https://api.github.com/repos/square/moshi)
