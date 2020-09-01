@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-01** — pushed [`42121631`](https://github.com/ZacSweers/moshi/commit/42121631d4dfa7161f2c1eb4e92496886046d0de) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Always run on both push and pull"
+
+**2020-09-01** — pushed 4 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-08-31** — closed issue [#434](https://api.github.com/repos/uber/AutoDispose/issues/434) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "I need AutoDispose proguard"
 
 **2020-08-31** — closed issue [#21](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/21) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integration with spring and kotlin gradle"
@@ -11,18 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-08-30** — commented on [#887](https://github.com/square/kotlinpoet/issues/887#issuecomment-683465618) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-08-30** — commented on [#965](https://github.com/square/kotlinpoet/issues/965#issuecomment-683465541) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-30** — commented on [#970](https://github.com/square/kotlinpoet/pull/970#issuecomment-683465221) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-30** — commented on [#12126](https://github.com/gradle/gradle/issues/12126#issuecomment-683464072) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-08-30** — opened issue [#3040](https://api.github.com/repos/detekt/detekt/issues/3040) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Gradle variant exception with Gradle 6.7 nightlies"
-
-**2020-08-30** — commented on [#970](https://github.com/square/kotlinpoet/pull/970#issuecomment-683461277) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-08-30** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-08-30** — pushed [`91b432c3`](https://github.com/ZacSweers/gradle-doctor/commit/91b432c3d72d5ce29e86acc0091827c44f64029f) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Fix a couple of java home checks bugs (#110)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
