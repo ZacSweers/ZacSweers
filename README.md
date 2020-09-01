@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-01** — deleted branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-01** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-684285217) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-01** — opened PR [#1211](https://api.github.com/repos/square/moshi/pulls/1211) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to new appendLine APIs"
