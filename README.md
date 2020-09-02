@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-02** — commented on [#885](https://github.com/pinterest/ktlint/issues/885#issuecomment-685998714) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
 **2020-09-01** — commented on [#61](https://github.com/slackhq/keeper/pull/61#issuecomment-685167497) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-09-01** — opened issue [#106](https://api.github.com/repos/pascalgn/automerge-action/issues/106) on [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action): "Token can be leaked via debug flag"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-01** — opened PR [#1211](https://api.github.com/repos/square/moshi/pulls/1211) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to new appendLine APIs"
 
 **2020-09-01** — created branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-01** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
