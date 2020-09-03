@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-02** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-686176126) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2020-09-02** — opened issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
 
 **2020-09-02** — commented on [#885](https://github.com/pinterest/ktlint/issues/885#issuecomment-685998714) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-01** — deleted branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-01** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-684285217) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-01** — opened PR [#1211](https://api.github.com/repos/square/moshi/pulls/1211) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch to new appendLine APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
