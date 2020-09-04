@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-03** — deleted branch "patch-1" on [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife)
+
+**2020-09-03** — commented on [#900](https://github.com/google/dagger/issues/900#issuecomment-686867398) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2020-09-03** — pushed [`befdad6a`](https://github.com/ZacSweers/butterknife/commit/befdad6a48ede2e73c83323e81cb8d3d578fd69d) to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife): "Fix changelog typo"
 
 **2020-09-03** — opened PR [#1628](https://api.github.com/repos/JakeWharton/butterknife/pulls/1628) to [JakeWharton/butterknife](https://api.github.com/repos/JakeWharton/butterknife): "Fix changelog typo"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-01** — opened issue [#106](https://api.github.com/repos/pascalgn/automerge-action/issues/106) on [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action): "Token can be leaked via debug flag"
 
 **2020-09-01** — deleted branch "z/actions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-01** — opened issue [#154](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/154) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Feature request: support Gradle's new Provider<PasswordCredentials> API"
-
-**2020-09-01** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-685011896) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
