@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-04** — commented on [#1214](https://github.com/square/moshi/pull/1214#issuecomment-687236045) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-04** — opened PR [#1214](https://api.github.com/repos/square/moshi/pulls/1214) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix shadow packaging in code gen artifact"
+
+**2020-09-04** — created branch "z/fixShadowConfig" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-03** — deleted branch "patch-1" on [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife)
 
 **2020-09-03** — commented on [#900](https://github.com/google/dagger/issues/900#issuecomment-686867398) in [google/dagger](https://api.github.com/repos/google/dagger)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-02** — opened issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
 
 **2020-09-02** — commented on [#885](https://github.com/pinterest/ktlint/issues/885#issuecomment-685998714) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2020-09-01** — commented on [#61](https://github.com/slackhq/keeper/pull/61#issuecomment-685167497) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-09-01** — opened issue [#106](https://api.github.com/repos/pascalgn/automerge-action/issues/106) on [pascalgn/automerge-action](https://api.github.com/repos/pascalgn/automerge-action): "Token can be leaked via debug flag"
-
-**2020-09-01** — deleted branch "z/actions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
