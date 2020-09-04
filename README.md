@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-04** — pushed [`f737b1bd`](https://github.com/ZacSweers/moshi/commit/f737b1bd7c494e3f4b4a7e0cbdfbd7055fc88f77) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistically fix old artifact() dep"
+
 **2020-09-04** — commented on [#1214](https://github.com/square/moshi/pull/1214#issuecomment-687236045) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-04** — opened PR [#1214](https://api.github.com/repos/square/moshi/pulls/1214) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix shadow packaging in code gen artifact"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-02** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-686176126) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2020-09-02** — opened issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
-
-**2020-09-02** — commented on [#885](https://github.com/pinterest/ktlint/issues/885#issuecomment-685998714) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
