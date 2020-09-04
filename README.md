@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-03** — pushed [`befdad6a`](https://github.com/ZacSweers/butterknife/commit/befdad6a48ede2e73c83323e81cb8d3d578fd69d) to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife): "Fix changelog typo"
+
+**2020-09-03** — opened PR [#1628](https://api.github.com/repos/JakeWharton/butterknife/pulls/1628) to [JakeWharton/butterknife](https://api.github.com/repos/JakeWharton/butterknife): "Fix changelog typo"
+
 **2020-09-02** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-686176126) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2020-09-02** — opened issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-01** — opened issue [#154](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/154) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Feature request: support Gradle's new Provider<PasswordCredentials> API"
 
 **2020-09-01** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-685011896) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2020-09-01** — deleted branch "z/appendLnFixes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-01** — commented on [#1204](https://github.com/square/moshi/pull/1204#issuecomment-684285217) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
