@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-05** — commented on [#236](https://github.com/square/kotlinpoet/issues/236#issuecomment-687641367) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2020-09-05** — commented on [#236](https://github.com/square/kotlinpoet/issues/236#issuecomment-687641205) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-09-04** — pushed [`d895713a`](https://github.com/ZacSweers/moshi/commit/d895713a7b7ddd58250c6b54d4fe68902491f66a) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add link"
 
 **2020-09-04** — pushed [`f86fb10a`](https://github.com/ZacSweers/moshi/commit/f86fb10a5e91cc624b7ea423f6d2856e2674d711) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use api instead"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-03** — deleted branch "patch-1" on [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife)
 
 **2020-09-03** — commented on [#900](https://github.com/google/dagger/issues/900#issuecomment-686867398) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2020-09-03** — pushed [`befdad6a`](https://github.com/ZacSweers/butterknife/commit/befdad6a48ede2e73c83323e81cb8d3d578fd69d) to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife): "Fix changelog typo"
-
-**2020-09-03** — opened PR [#1628](https://api.github.com/repos/JakeWharton/butterknife/pulls/1628) to [JakeWharton/butterknife](https://api.github.com/repos/JakeWharton/butterknife): "Fix changelog typo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
