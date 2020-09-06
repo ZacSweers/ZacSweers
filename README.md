@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-06** — opened PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
+
+**2020-09-06** — created branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+
+**2020-09-06** — pushed 51 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
+
 **2020-09-06** — commented on [#982](https://github.com/square/kotlinpoet/issues/982#issuecomment-687814067) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-09-05** — commented on [#236](https://github.com/square/kotlinpoet/issues/236#issuecomment-687641367) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-04** — pushed [`f737b1bd`](https://github.com/ZacSweers/moshi/commit/f737b1bd7c494e3f4b4a7e0cbdfbd7055fc88f77) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistically fix old artifact() dep"
 
 **2020-09-04** — commented on [#1214](https://github.com/square/moshi/pull/1214#issuecomment-687236045) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-04** — opened PR [#1214](https://api.github.com/repos/square/moshi/pulls/1214) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix shadow packaging in code gen artifact"
-
-**2020-09-04** — created branch "z/fixShadowConfig" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-03** — deleted branch "patch-1" on [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
