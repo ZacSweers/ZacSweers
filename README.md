@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-06** — opened PR [#251](https://api.github.com/repos/ZacSweers/CatchUp/pulls/251) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Make array collections class a sealed class"
+
+**2020-09-06** — created branch "z/sealed" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-09-06** — commented on [#983](https://github.com/square/kotlinpoet/pull/983#issuecomment-687912446) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2020-09-06** — deleted branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+
+**2020-09-06** — pushed [`1f127813`](https://github.com/square/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
+
+**2020-09-06** — closed PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
+
 **2020-09-06** — opened PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
 
 **2020-09-06** — created branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-06** — pushed 51 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
 
 **2020-09-06** — commented on [#982](https://github.com/square/kotlinpoet/issues/982#issuecomment-687814067) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-09-05** — commented on [#236](https://github.com/square/kotlinpoet/issues/236#issuecomment-687641367) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-09-05** — commented on [#236](https://github.com/square/kotlinpoet/issues/236#issuecomment-687641205) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-09-04** — pushed [`d895713a`](https://github.com/ZacSweers/moshi/commit/d895713a7b7ddd58250c6b54d4fe68902491f66a) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add link"
-
-**2020-09-04** — pushed [`f86fb10a`](https://github.com/ZacSweers/moshi/commit/f86fb10a5e91cc624b7ea423f6d2856e2674d711) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use api instead"
-
-**2020-09-04** — pushed [`f737b1bd`](https://github.com/ZacSweers/moshi/commit/f737b1bd7c494e3f4b4a7e0cbdfbd7055fc88f77) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistically fix old artifact() dep"
-
-**2020-09-04** — commented on [#1214](https://github.com/square/moshi/pull/1214#issuecomment-687236045) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
