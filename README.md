@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-07** — opened PR [#984](https://api.github.com/repos/square/kotlinpoet/pulls/984) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Remove accidental gradle plugin config"
+
+**2020-09-07** — created branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+
+**2020-09-07** — pushed [`1f127813`](https://github.com/ZacSweers/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
+
+**2020-09-07** — pushed [`a02c0874`](https://github.com/ZacSweers/moshi/commit/a02c0874ad8d909c2b354901a0a4aca8d870ac0d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove accidental gradle plugin config"
+
 **2020-09-06** — opened PR [#251](https://api.github.com/repos/ZacSweers/CatchUp/pulls/251) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Make array collections class a sealed class"
 
 **2020-09-06** — created branch "z/sealed" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-06** — pushed [`1f127813`](https://github.com/square/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
 
 **2020-09-06** — closed PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
-
-**2020-09-06** — opened PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
-
-**2020-09-06** — created branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
-
-**2020-09-06** — pushed 51 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
-
-**2020-09-06** — commented on [#982](https://github.com/square/kotlinpoet/issues/982#issuecomment-687814067) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
