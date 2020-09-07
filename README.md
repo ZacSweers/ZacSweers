@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-07** — pushed [`bfd8fbb8`](https://github.com/slackhq/keeper/commit/bfd8fbb881dbfeab1ad8242e36a637a266c2c575) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix naming regressions"
+
 **2020-09-07** — pushed 11 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2020-09-07** — deleted branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-06** — created branch "z/sealed" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2020-09-06** — commented on [#983](https://github.com/square/kotlinpoet/pull/983#issuecomment-687912446) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-09-06** — deleted branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
