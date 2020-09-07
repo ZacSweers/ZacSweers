@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-07** — pushed 11 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2020-09-07** — deleted branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+
 **2020-09-07** — opened PR [#984](https://api.github.com/repos/square/kotlinpoet/pulls/984) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Remove accidental gradle plugin config"
 
 **2020-09-07** — created branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-06** — commented on [#983](https://github.com/square/kotlinpoet/pull/983#issuecomment-687912446) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-09-06** — deleted branch "z/cleanUpShadow" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
-
-**2020-09-06** — pushed [`1f127813`](https://github.com/square/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
-
-**2020-09-06** — closed PR [#983](https://api.github.com/repos/square/kotlinpoet/pulls/983) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
