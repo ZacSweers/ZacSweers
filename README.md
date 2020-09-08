@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-07** — deleted branch "z/cleanups" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-07** — pushed 6 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
 
 **2020-09-07** — pushed [`bfd8fbb8`](https://github.com/slackhq/keeper/commit/bfd8fbb881dbfeab1ad8242e36a637a266c2c575) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix naming regressions"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-07** — pushed [`a02c0874`](https://github.com/ZacSweers/moshi/commit/a02c0874ad8d909c2b354901a0a4aca8d870ac0d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove accidental gradle plugin config"
 
 **2020-09-06** — opened PR [#251](https://api.github.com/repos/ZacSweers/CatchUp/pulls/251) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Make array collections class a sealed class"
-
-**2020-09-06** — created branch "z/sealed" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
