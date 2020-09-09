@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-08** — commented on [#954](https://github.com/square/moshi/pull/954#issuecomment-689192733) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-07** — deleted branch "z/cleanups" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-07** — pushed 6 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-07** — pushed [`1f127813`](https://github.com/ZacSweers/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
 
 **2020-09-07** — pushed [`a02c0874`](https://github.com/ZacSweers/moshi/commit/a02c0874ad8d909c2b354901a0a4aca8d870ac0d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove accidental gradle plugin config"
-
-**2020-09-06** — opened PR [#251](https://api.github.com/repos/ZacSweers/CatchUp/pulls/251) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Make array collections class a sealed class"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
