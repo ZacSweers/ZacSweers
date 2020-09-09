@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-09** — commented on [#609](https://github.com/square/moshi/issues/609#issuecomment-689825363) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-09** — commented on [#151](https://github.com/square/AssistedInject/pull/151#issuecomment-689613077) in [square/AssistedInject](https://api.github.com/repos/square/AssistedInject)
 
 **2020-09-08** — commented on [#954](https://github.com/square/moshi/pull/954#issuecomment-689192733) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-07** — opened PR [#984](https://api.github.com/repos/square/kotlinpoet/pulls/984) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Remove accidental gradle plugin config"
 
 **2020-09-07** — created branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
-
-**2020-09-07** — pushed [`1f127813`](https://github.com/ZacSweers/kotlinpoet/commit/1f127813532aba3e0249f24fd1756f74370390b0) to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet): "Clean up shadow plugin configuration + gradle 6.6 and auto-common updates (#983)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
