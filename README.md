@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-10** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-10** — opened PR [#1217](https://api.github.com/repos/square/moshi/pulls/1217) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix KotlinJsonAdapterFactory ref in error message"
+
+**2020-09-10** — pushed [`a5fb2dd1`](https://github.com/ZacSweers/moshi/commit/a5fb2dd10e3715a4df9d9420629771bcf187363e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix KotlinJsonAdapterFactory ref in error message"
+
 **2020-09-10** — pushed [`35345a87`](https://github.com/ZacSweers/sunflower/commit/35345a87a74e09b972e1891c50a69b9f58b500eb) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Try specific sha"
 
 **2020-09-10** — pushed [`b6d3cef9`](https://github.com/ZacSweers/sunflower/commit/b6d3cef96adf9690598701a198b5de7f14a0cdb5) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Just run on all PRs"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-09** — commented on [#151](https://github.com/square/AssistedInject/pull/151#issuecomment-689613077) in [square/AssistedInject](https://api.github.com/repos/square/AssistedInject)
 
 **2020-09-08** — commented on [#954](https://github.com/square/moshi/pull/954#issuecomment-689192733) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-07** — deleted branch "z/cleanups" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-07** — pushed 6 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
-
-**2020-09-07** — pushed [`bfd8fbb8`](https://github.com/slackhq/keeper/commit/bfd8fbb881dbfeab1ad8242e36a637a266c2c575) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix naming regressions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
