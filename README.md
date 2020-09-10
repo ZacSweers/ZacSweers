@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-10** — opened issue [#876](https://api.github.com/repos/google/auto/issues/876) on [google/auto](https://api.github.com/repos/google/auto): "CopyAnnotations used on a type don't exclude for all class properties"
+
 **2020-09-10** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-10** — opened PR [#1217](https://api.github.com/repos/square/moshi/pulls/1217) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix KotlinJsonAdapterFactory ref in error message"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-09** — commented on [#609](https://github.com/square/moshi/issues/609#issuecomment-689825363) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-09** — commented on [#151](https://github.com/square/AssistedInject/pull/151#issuecomment-689613077) in [square/AssistedInject](https://api.github.com/repos/square/AssistedInject)
-
-**2020-09-08** — commented on [#954](https://github.com/square/moshi/pull/954#issuecomment-689192733) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
