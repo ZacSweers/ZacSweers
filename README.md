@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-10** — pushed [`35345a87`](https://github.com/ZacSweers/sunflower/commit/35345a87a74e09b972e1891c50a69b9f58b500eb) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Try specific sha"
+
+**2020-09-10** — pushed [`b6d3cef9`](https://github.com/ZacSweers/sunflower/commit/b6d3cef96adf9690598701a198b5de7f14a0cdb5) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Just run on all PRs"
+
+**2020-09-10** — opened PR [#1](https://api.github.com/repos/ZacSweers/sunflower/pulls/1) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Testing code scanning"
+
+**2020-09-10** — created branch "codescanning" on [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower)
+
 **2020-09-09** — commented on [#609](https://github.com/square/moshi/issues/609#issuecomment-689825363) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-09** — commented on [#151](https://github.com/square/AssistedInject/pull/151#issuecomment-689613077) in [square/AssistedInject](https://api.github.com/repos/square/AssistedInject)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-07** — pushed 6 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
 
 **2020-09-07** — pushed [`bfd8fbb8`](https://github.com/slackhq/keeper/commit/bfd8fbb881dbfeab1ad8242e36a637a266c2c575) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix naming regressions"
-
-**2020-09-07** — pushed 11 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2020-09-07** — deleted branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
-
-**2020-09-07** — opened PR [#984](https://api.github.com/repos/square/kotlinpoet/pulls/984) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Remove accidental gradle plugin config"
-
-**2020-09-07** — created branch "z/removeExtra" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
