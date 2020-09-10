@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-10** — opened issue [#877](https://api.github.com/repos/google/auto/issues/877) on [google/auto](https://api.github.com/repos/google/auto): "CopyAnnotations doc is backward from its behavior"
+
 **2020-09-10** — opened issue [#876](https://api.github.com/repos/google/auto/issues/876) on [google/auto](https://api.github.com/repos/google/auto): "CopyAnnotations used on a type don't exclude for all class properties"
 
 **2020-09-10** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-10** — created branch "codescanning" on [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower)
 
 **2020-09-09** — commented on [#609](https://github.com/square/moshi/issues/609#issuecomment-689825363) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-09** — commented on [#151](https://github.com/square/AssistedInject/pull/151#issuecomment-689613077) in [square/AssistedInject](https://api.github.com/repos/square/AssistedInject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
