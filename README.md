@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-11** — commented on [#1221](https://github.com/square/moshi/issues/1221#issuecomment-690877186) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-11** — opened PR [#1220](https://api.github.com/repos/square/moshi/pulls/1220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.10"
 
 **2020-09-11** — created branch "z/kotlin1410" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-10** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-09-10** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-690818608) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-10** — commented on [#675](https://github.com/square/moshi/issues/675#issuecomment-690817078) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
