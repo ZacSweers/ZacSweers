@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-10** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-09-10** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-690818608) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-10** — commented on [#675](https://github.com/square/moshi/issues/675#issuecomment-690817078) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-10** — pushed [`35345a87`](https://github.com/ZacSweers/sunflower/commit/35345a87a74e09b972e1891c50a69b9f58b500eb) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Try specific sha"
 
 **2020-09-10** — pushed [`b6d3cef9`](https://github.com/ZacSweers/sunflower/commit/b6d3cef96adf9690598701a198b5de7f14a0cdb5) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Just run on all PRs"
-
-**2020-09-10** — opened PR [#1](https://api.github.com/repos/ZacSweers/sunflower/pulls/1) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Testing code scanning"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
