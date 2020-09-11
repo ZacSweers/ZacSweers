@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-11** — opened PR [#1220](https://api.github.com/repos/square/moshi/pulls/1220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.10"
+
+**2020-09-11** — created branch "z/kotlin1410" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-11** — commented on [#675](https://github.com/square/moshi/issues/675#issuecomment-690864980) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-11** — pushed [`72ea60ea`](https://github.com/ZacSweers/moshi/commit/72ea60ea268c6514e2469b356c32836079a64113) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+
+**2020-09-11** — pushed [`82e58e6d`](https://github.com/ZacSweers/moshi/commit/82e58e6d14f307176755496dbc5588b1e1b21251) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove stale debugging output"
+
+**2020-09-11** — opened PR [#1219](https://api.github.com/repos/square/moshi/pulls/1219) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement JsonReader#valueSource()"
+
+**2020-09-11** — created branch "z/valueSource2" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-10** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-09-10** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-690818608) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-10** — commented on [#675](https://github.com/square/moshi/issues/675#issuecomment-690817078) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-10** — opened issue [#877](https://api.github.com/repos/google/auto/issues/877) on [google/auto](https://api.github.com/repos/google/auto): "CopyAnnotations doc is backward from its behavior"
-
-**2020-09-10** — opened issue [#876](https://api.github.com/repos/google/auto/issues/876) on [google/auto](https://api.github.com/repos/google/auto): "CopyAnnotations used on a type don't exclude for all class properties"
-
-**2020-09-10** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-10** — opened PR [#1217](https://api.github.com/repos/square/moshi/pulls/1217) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix KotlinJsonAdapterFactory ref in error message"
-
-**2020-09-10** — pushed [`a5fb2dd1`](https://github.com/ZacSweers/moshi/commit/a5fb2dd10e3715a4df9d9420629771bcf187363e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix KotlinJsonAdapterFactory ref in error message"
-
-**2020-09-10** — pushed [`35345a87`](https://github.com/ZacSweers/sunflower/commit/35345a87a74e09b972e1891c50a69b9f58b500eb) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Try specific sha"
-
-**2020-09-10** — pushed [`b6d3cef9`](https://github.com/ZacSweers/sunflower/commit/b6d3cef96adf9690598701a198b5de7f14a0cdb5) to [ZacSweers/sunflower](https://api.github.com/repos/ZacSweers/sunflower): "Just run on all PRs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
