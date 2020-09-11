@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-11** — closed issue [#435](https://api.github.com/repos/uber/AutoDispose/issues/435) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Help ，Why the main thread is required ？"
+
+**2020-09-11** — commented on [#435](https://github.com/uber/AutoDispose/issues/435#issuecomment-691049699) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2020-09-11** — deleted branch "z/kotlin1410" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-11** — commented on [#1221](https://github.com/square/moshi/issues/1221#issuecomment-690877186) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-11** — opened PR [#1220](https://api.github.com/repos/square/moshi/pulls/1220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.4.10"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-11** — pushed [`82e58e6d`](https://github.com/ZacSweers/moshi/commit/82e58e6d14f307176755496dbc5588b1e1b21251) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove stale debugging output"
 
 **2020-09-11** — opened PR [#1219](https://api.github.com/repos/square/moshi/pulls/1219) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement JsonReader#valueSource()"
-
-**2020-09-11** — created branch "z/valueSource2" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-10** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-10** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-690818608) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
