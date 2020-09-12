@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-12** — commented on [#1222](https://github.com/square/moshi/pull/1222#issuecomment-691533167) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-12** — commented on [#1219](https://github.com/square/moshi/pull/1219#issuecomment-691505031) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-11** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-691208189) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-11** — created branch "z/kotlin1410" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-11** — commented on [#675](https://github.com/square/moshi/issues/675#issuecomment-690864980) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-11** — pushed [`72ea60ea`](https://github.com/ZacSweers/moshi/commit/72ea60ea268c6514e2469b356c32836079a64113) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
