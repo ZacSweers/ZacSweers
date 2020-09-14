@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-14** — pushed [`991355eb`](https://github.com/slackhq/keeper/commit/991355ebb32177ca90ffd2eb38ffe6e3901f2192) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update remaining deps"
+
 **2020-09-14** — pushed [`82825117`](https://github.com/slackhq/keeper/commit/82825117d48d59dba1e0917cf2ef260f6315acd6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Ignore warnings in sample"
 
 **2020-09-14** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-12** — commented on [#1219](https://github.com/square/moshi/pull/1219#issuecomment-691505031) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-11** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-691208189) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2020-09-11** — closed issue [#435](https://api.github.com/repos/uber/AutoDispose/issues/435) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Help ，Why the main thread is required ？"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
