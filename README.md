@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-14** — pushed [`5ec68984`](https://github.com/slackhq/keeper/commit/5ec68984e72ffdcf304bcdcfc598d9ff36bbfb50) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try without proguard for now"
+
+**2020-09-14** — pushed [`a5012818`](https://github.com/ZacSweers/CatchUp/commit/a5012818e19519bbabd4f5319727183ca5c749fe) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix autodispose version"
+
+**2020-09-14** — pushed 6 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2020-09-14** — pushed [`76832585`](https://github.com/ZacSweers/CatchUp/commit/76832585ca00cd406a5438954954386e7e1ac1c3) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Gradle 6.6.1"
+
 **2020-09-14** — pushed [`90911510`](https://github.com/ZacSweers/CatchUp/commit/90911510cf24bfe22b6ccdf923c8f5bc90c18aa0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.4.10"
 
 **2020-09-14** — pushed [`09e33b80`](https://github.com/ZacSweers/CatchUp/commit/09e33b80ff587e852430e2f0a7c71c27ba33954a) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP 4.2.0-alpha10"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-14** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2020-09-14** — commented on [#435](https://github.com/uber/AutoDispose/issues/435#issuecomment-692126295) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-09-12** — deleted branch "z/valueSource2" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-12** — closed PR [#1219](https://api.github.com/repos/square/moshi/pulls/1219) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement JsonReader#valueSource()"
-
-**2020-09-12** — commented on [#1219](https://github.com/square/moshi/pull/1219#issuecomment-691600794) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-12** — commented on [#1222](https://github.com/square/moshi/pull/1222#issuecomment-691533167) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
