@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-14** — pushed [`82825117`](https://github.com/slackhq/keeper/commit/82825117d48d59dba1e0917cf2ef260f6315acd6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Ignore warnings in sample"
+
+**2020-09-14** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2020-09-14** — commented on [#435](https://github.com/uber/AutoDispose/issues/435#issuecomment-692126295) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2020-09-12** — deleted branch "z/valueSource2" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-11** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-691208189) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2020-09-11** — closed issue [#435](https://api.github.com/repos/uber/AutoDispose/issues/435) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Help ，Why the main thread is required ？"
-
-**2020-09-11** — commented on [#435](https://github.com/uber/AutoDispose/issues/435#issuecomment-691049699) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-09-11** — deleted branch "z/kotlin1410" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
