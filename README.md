@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-14** — pushed [`90911510`](https://github.com/ZacSweers/CatchUp/commit/90911510cf24bfe22b6ccdf923c8f5bc90c18aa0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.4.10"
+
+**2020-09-14** — pushed [`09e33b80`](https://github.com/ZacSweers/CatchUp/commit/09e33b80ff587e852430e2f0a7c71c27ba33954a) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP 4.2.0-alpha10"
+
 **2020-09-14** — pushed [`991355eb`](https://github.com/slackhq/keeper/commit/991355ebb32177ca90ffd2eb38ffe6e3901f2192) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update remaining deps"
 
 **2020-09-14** — pushed [`82825117`](https://github.com/slackhq/keeper/commit/82825117d48d59dba1e0917cf2ef260f6315acd6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Ignore warnings in sample"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-12** — commented on [#1219](https://github.com/square/moshi/pull/1219#issuecomment-691600794) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-12** — commented on [#1222](https://github.com/square/moshi/pull/1222#issuecomment-691533167) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-12** — commented on [#1219](https://github.com/square/moshi/pull/1219#issuecomment-691505031) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-11** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-691208189) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
