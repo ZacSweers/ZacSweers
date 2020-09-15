@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+
+**2020-09-15** — opened PR [#1780](https://api.github.com/repos/square/wire/pulls/1780) to [square/wire](https://api.github.com/repos/square/wire): "Fix changelog typo"
+
+**2020-09-15** — pushed [`c49b097f`](https://github.com/ZacSweers/wire/commit/c49b097f1e05efb69351973ce6ddef8e63778b89) to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire): "Fix changelog typo"
+
 **2020-09-15** — commented on [#23](https://github.com/ZacSweers/redacted-compiler-plugin/issues/23#issuecomment-692465670) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-09-14** — pushed [`5ec68984`](https://github.com/slackhq/keeper/commit/5ec68984e72ffdcf304bcdcfc598d9ff36bbfb50) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try without proguard for now"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-14** — pushed [`90911510`](https://github.com/ZacSweers/CatchUp/commit/90911510cf24bfe22b6ccdf923c8f5bc90c18aa0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.4.10"
 
 **2020-09-14** — pushed [`09e33b80`](https://github.com/ZacSweers/CatchUp/commit/09e33b80ff587e852430e2f0a7c71c27ba33954a) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP 4.2.0-alpha10"
-
-**2020-09-14** — pushed [`991355eb`](https://github.com/slackhq/keeper/commit/991355ebb32177ca90ffd2eb38ffe6e3901f2192) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update remaining deps"
-
-**2020-09-14** — pushed [`82825117`](https://github.com/slackhq/keeper/commit/82825117d48d59dba1e0917cf2ef260f6315acd6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Ignore warnings in sample"
-
-**2020-09-14** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
