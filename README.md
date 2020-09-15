@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-15** — commented on [#23](https://github.com/ZacSweers/redacted-compiler-plugin/issues/23#issuecomment-692465670) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2020-09-14** — pushed [`5ec68984`](https://github.com/slackhq/keeper/commit/5ec68984e72ffdcf304bcdcfc598d9ff36bbfb50) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try without proguard for now"
 
 **2020-09-14** — pushed [`a5012818`](https://github.com/ZacSweers/CatchUp/commit/a5012818e19519bbabd4f5319727183ca5c749fe) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix autodispose version"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-14** — pushed [`82825117`](https://github.com/slackhq/keeper/commit/82825117d48d59dba1e0917cf2ef260f6315acd6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Ignore warnings in sample"
 
 **2020-09-14** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2020-09-14** — commented on [#435](https://github.com/uber/AutoDispose/issues/435#issuecomment-692126295) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
