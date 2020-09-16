@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-16** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-693683693) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-16** — opened PR [#1230](https://api.github.com/repos/square/moshi/pulls/1230) to [square/moshi](https://api.github.com/repos/square/moshi): "Start recipes module with JsonString recipe"
+
+**2020-09-16** — created branch "z/recipes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-16** — pushed [`ecca5122`](https://github.com/ZacSweers/moshi/commit/ecca5122a0e3471e1c1b6a9f9a9a254b8d2ac992) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Switch to new appendLine APIs"
 
 **2020-09-16** — pushed 8 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-15** — opened PR [#1780](https://api.github.com/repos/square/wire/pulls/1780) to [square/wire](https://api.github.com/repos/square/wire): "Fix changelog typo"
 
 **2020-09-15** — pushed [`c49b097f`](https://github.com/ZacSweers/wire/commit/c49b097f1e05efb69351973ce6ddef8e63778b89) to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire): "Fix changelog typo"
-
-**2020-09-15** — commented on [#23](https://github.com/ZacSweers/redacted-compiler-plugin/issues/23#issuecomment-692465670) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-09-14** — pushed [`5ec68984`](https://github.com/slackhq/keeper/commit/5ec68984e72ffdcf304bcdcfc598d9ff36bbfb50) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try without proguard for now"
-
-**2020-09-14** — pushed [`a5012818`](https://github.com/ZacSweers/CatchUp/commit/a5012818e19519bbabd4f5319727183ca5c749fe) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix autodispose version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
