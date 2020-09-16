@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-15** — closed issue [#23](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/23) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Redacted annotation is not generated"
+
 **2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2020-09-15** — opened PR [#1780](https://api.github.com/repos/square/wire/pulls/1780) to [square/wire](https://api.github.com/repos/square/wire): "Fix changelog typo"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-14** — pushed [`76832585`](https://github.com/ZacSweers/CatchUp/commit/76832585ca00cd406a5438954954386e7e1ac1c3) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Gradle 6.6.1"
 
 **2020-09-14** — pushed [`90911510`](https://github.com/ZacSweers/CatchUp/commit/90911510cf24bfe22b6ccdf923c8f5bc90c18aa0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.4.10"
-
-**2020-09-14** — pushed [`09e33b80`](https://github.com/ZacSweers/CatchUp/commit/09e33b80ff587e852430e2f0a7c71c27ba33954a) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP 4.2.0-alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
