@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-16** — pushed [`ecca5122`](https://github.com/ZacSweers/moshi/commit/ecca5122a0e3471e1c1b6a9f9a9a254b8d2ac992) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Switch to new appendLine APIs"
+
+**2020-09-16** — pushed 8 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-16** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-09-15** — closed issue [#23](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/23) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Redacted annotation is not generated"
 
 **2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-14** — pushed [`5ec68984`](https://github.com/slackhq/keeper/commit/5ec68984e72ffdcf304bcdcfc598d9ff36bbfb50) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try without proguard for now"
 
 **2020-09-14** — pushed [`a5012818`](https://github.com/ZacSweers/CatchUp/commit/a5012818e19519bbabd4f5319727183ca5c749fe) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix autodispose version"
-
-**2020-09-14** — pushed 6 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2020-09-14** — pushed [`76832585`](https://github.com/ZacSweers/CatchUp/commit/76832585ca00cd406a5438954954386e7e1ac1c3) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Gradle 6.6.1"
-
-**2020-09-14** — pushed [`90911510`](https://github.com/ZacSweers/CatchUp/commit/90911510cf24bfe22b6ccdf923c8f5bc90c18aa0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.4.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
