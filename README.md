@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-17** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-694447695) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-09-17** — pushed [`7b34d2d4`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/7b34d2d4259d80b7a3c116c03aa5da91a41d9999) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "SUP-34 - github templates"
+
+**2020-09-17** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-694443461) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-09-17** — pushed 84 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
+**2020-09-17** — commented on [#281](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/281#issuecomment-694442818) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-09-16** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2020-09-16** — commented on [#1223](https://github.com/square/moshi/pull/1223#issuecomment-693747688) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-16** — opened PR [#1230](https://api.github.com/repos/square/moshi/pulls/1230) to [square/moshi](https://api.github.com/repos/square/moshi): "Start recipes module with JsonString recipe"
 
 **2020-09-16** — created branch "z/recipes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-16** — pushed [`ecca5122`](https://github.com/ZacSweers/moshi/commit/ecca5122a0e3471e1c1b6a9f9a9a254b8d2ac992) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Switch to new appendLine APIs"
-
-**2020-09-16** — pushed 8 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-16** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-15** — closed issue [#23](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/23) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Redacted annotation is not generated"
-
-**2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
