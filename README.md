@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-17** — pushed [`33f59e4c`](https://github.com/ZacSweers/moshi/commit/33f59e4c112947a1ddaf6c57c589546f3f358675) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove jvmtarget"
+
+**2020-09-17** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-694506106) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
+**2020-09-17** — pushed [`89ae6c05`](https://github.com/ZacSweers/moshi/commit/89ae6c05c5004ec0311fc6df92cb47af735b3b66) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+
+**2020-09-17** — opened issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
+
 **2020-09-17** — commented on [#1231](https://github.com/square/moshi/pull/1231#issuecomment-694484747) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-17** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-17** — opened PR [#1231](https://api.github.com/repos/square/moshi/pulls/1231) to [square/moshi](https://api.github.com/repos/square/moshi): "Finish spotless license header configuration"
 
 **2020-09-17** — created branch "z/copyrightBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-17** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-694463364) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-17** — commented on [#677](https://github.com/diffplug/spotless/issues/677#issuecomment-694459097) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
-
-**2020-09-17** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-694447695) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-09-17** — pushed [`7b34d2d4`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/7b34d2d4259d80b7a3c116c03aa5da91a41d9999) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "SUP-34 - github templates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
