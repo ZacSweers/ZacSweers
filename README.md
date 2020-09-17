@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-16** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2020-09-16** — commented on [#1223](https://github.com/square/moshi/pull/1223#issuecomment-693747688) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-16** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-693683693) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-15** — closed issue [#23](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/23) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Redacted annotation is not generated"
 
 **2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
-
-**2020-09-15** — opened PR [#1780](https://api.github.com/repos/square/wire/pulls/1780) to [square/wire](https://api.github.com/repos/square/wire): "Fix changelog typo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
