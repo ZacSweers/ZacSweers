@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-16** — commented on [#1223](https://github.com/square/moshi/pull/1223#issuecomment-693747688) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-16** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-693683693) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-16** — opened PR [#1230](https://api.github.com/repos/square/moshi/pulls/1230) to [square/moshi](https://api.github.com/repos/square/moshi): "Start recipes module with JsonString recipe"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-15** — deleted branch "patch-1" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2020-09-15** — opened PR [#1780](https://api.github.com/repos/square/wire/pulls/1780) to [square/wire](https://api.github.com/repos/square/wire): "Fix changelog typo"
-
-**2020-09-15** — pushed [`c49b097f`](https://github.com/ZacSweers/wire/commit/c49b097f1e05efb69351973ce6ddef8e63778b89) to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire): "Fix changelog typo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
