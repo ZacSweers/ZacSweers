@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-17** — pushed [`10349d11`](https://github.com/ZacSweers/moshi/commit/10349d11200fed520e60d9264da4c955ce83ef9c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Disable java formatting on JDK 15"
+
+**2020-09-17** — pushed [`c873eb34`](https://github.com/ZacSweers/moshi/commit/c873eb34e859771eab35031b9ef65c9408d3f7a1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add codegen"
+
+**2020-09-17** — pushed [`0afb6dc8`](https://github.com/ZacSweers/moshi/commit/0afb6dc8762d6f789019f8daa771bd99acb57238) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Make gradle happy"
+
 **2020-09-17** — pushed [`33f59e4c`](https://github.com/ZacSweers/moshi/commit/33f59e4c112947a1ddaf6c57c589546f3f358675) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove jvmtarget"
 
 **2020-09-17** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-694506106) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-17** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-09-17** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-17** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-17** — opened PR [#1231](https://api.github.com/repos/square/moshi/pulls/1231) to [square/moshi](https://api.github.com/repos/square/moshi): "Finish spotless license header configuration"
-
-**2020-09-17** — created branch "z/copyrightBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
