@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-17** — commented on [#1231](https://github.com/square/moshi/pull/1231#issuecomment-694484747) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-17** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-17** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-17** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-17** — opened PR [#1231](https://api.github.com/repos/square/moshi/pulls/1231) to [square/moshi](https://api.github.com/repos/square/moshi): "Finish spotless license header configuration"
+
+**2020-09-17** — created branch "z/copyrightBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-17** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-694463364) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-17** — commented on [#677](https://github.com/diffplug/spotless/issues/677#issuecomment-694459097) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+
 **2020-09-17** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-694447695) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-09-17** — pushed [`7b34d2d4`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/7b34d2d4259d80b7a3c116c03aa5da91a41d9999) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "SUP-34 - github templates"
-
-**2020-09-17** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-694443461) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-09-17** — pushed 84 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
-
-**2020-09-17** — commented on [#281](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/281#issuecomment-694442818) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-09-16** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2020-09-16** — commented on [#1223](https://github.com/square/moshi/pull/1223#issuecomment-693747688) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-16** — commented on [#1230](https://github.com/square/moshi/pull/1230#issuecomment-693683693) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-16** — opened PR [#1230](https://api.github.com/repos/square/moshi/pulls/1230) to [square/moshi](https://api.github.com/repos/square/moshi): "Start recipes module with JsonString recipe"
-
-**2020-09-16** — created branch "z/recipes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
