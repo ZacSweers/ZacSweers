@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-18** — commented on [#1141](https://github.com/square/moshi/issues/1141#issuecomment-695149277) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-18** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-695149015) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-18** — deleted branch "z/fixShadowConfig" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-18** — commented on [#1144](https://github.com/square/moshi/issues/1144#issuecomment-694649534) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-17** — pushed [`10349d11`](https://github.com/ZacSweers/moshi/commit/10349d11200fed520e60d9264da4c955ce83ef9c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Disable java formatting on JDK 15"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-17** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-694506106) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2020-09-17** — pushed [`89ae6c05`](https://github.com/ZacSweers/moshi/commit/89ae6c05c5004ec0311fc6df92cb47af735b3b66) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
-
-**2020-09-17** — opened issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
-
-**2020-09-17** — commented on [#1231](https://github.com/square/moshi/pull/1231#issuecomment-694484747) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-17** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
