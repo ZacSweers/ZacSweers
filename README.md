@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-19** — commented on [#3220](https://github.com/square/retrofit/pull/3220#issuecomment-695162065) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
+**2020-09-19** — commented on [#3220](https://github.com/square/retrofit/pull/3220#issuecomment-695160988) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
+**2020-09-19** — commented on [#3220](https://github.com/square/retrofit/pull/3220#issuecomment-695160440) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
+**2020-09-19** — pushed 109 commits to [ZacSweers/retrofit](https://api.github.com/repos/ZacSweers/retrofit).
+
+**2020-09-18** — pushed 101 commits to [ZacSweers/retrofit](https://api.github.com/repos/ZacSweers/retrofit).
+
+**2020-09-18** — created branch "z/streamBodies" on [ZacSweers/retrofit](https://api.github.com/repos/ZacSweers/retrofit)
+
+**2020-09-18** — reopened PR [#3220](https://api.github.com/repos/square/retrofit/pulls/3220) to [square/retrofit](https://api.github.com/repos/square/retrofit): "Stream request bodies in first party converters"
+
+**2020-09-18** — pushed [`517ea36f`](https://github.com/ZacSweers/moshi/commit/517ea36fe5d99caa1f27777667493f4034865d7c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix shadow packaging in code gen artifact (#1214)"
+
 **2020-09-18** — pushed [`5f83e40a`](https://github.com/ZacSweers/moshi/commit/5f83e40aabfb71ca725ad98be89abaad5d5ee9fc) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix google header"
 
 **2020-09-18** — commented on [#1141](https://github.com/square/moshi/issues/1141#issuecomment-695149277) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-18** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-695149015) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-18** — deleted branch "z/fixShadowConfig" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-18** — commented on [#1144](https://github.com/square/moshi/issues/1144#issuecomment-694649534) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-17** — pushed [`10349d11`](https://github.com/ZacSweers/moshi/commit/10349d11200fed520e60d9264da4c955ce83ef9c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Disable java formatting on JDK 15"
-
-**2020-09-17** — pushed [`c873eb34`](https://github.com/ZacSweers/moshi/commit/c873eb34e859771eab35031b9ef65c9408d3f7a1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add codegen"
-
-**2020-09-17** — pushed [`0afb6dc8`](https://github.com/ZacSweers/moshi/commit/0afb6dc8762d6f789019f8daa771bd99acb57238) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Make gradle happy"
-
-**2020-09-17** — pushed [`33f59e4c`](https://github.com/ZacSweers/moshi/commit/33f59e4c112947a1ddaf6c57c589546f3f358675) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove jvmtarget"
-
-**2020-09-17** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-694506106) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
