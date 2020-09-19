@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-18** — pushed [`5f83e40a`](https://github.com/ZacSweers/moshi/commit/5f83e40aabfb71ca725ad98be89abaad5d5ee9fc) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix google header"
+
 **2020-09-18** — commented on [#1141](https://github.com/square/moshi/issues/1141#issuecomment-695149277) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-18** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-695149015) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-17** — pushed [`33f59e4c`](https://github.com/ZacSweers/moshi/commit/33f59e4c112947a1ddaf6c57c589546f3f358675) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove jvmtarget"
 
 **2020-09-17** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-694506106) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2020-09-17** — pushed [`89ae6c05`](https://github.com/ZacSweers/moshi/commit/89ae6c05c5004ec0311fc6df92cb47af735b3b66) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
