@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-20** — pushed [`1d7c3f75`](https://github.com/slackhq/keeper/commit/1d7c3f75b71a8940b208d4f3e9d086a5caa10aaf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Lower back down for now"
+
+**2020-09-20** — commented on [#1234](https://github.com/square/moshi/pull/1234#issuecomment-695842868) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-20** — opened PR [#1234](https://api.github.com/repos/square/moshi/pulls/1234) to [square/moshi](https://api.github.com/repos/square/moshi): "Use nextSource().readAll(blackhole()) for fast skip"
+
+**2020-09-20** — created branch "z/fastSkip" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-20** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2020-09-20** — pushed [`50d71e34`](https://github.com/ZacSweers/moshi/commit/50d71e34e2536604c81e3d67a13abc109374ed37) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Minor reorganization"
 
 **2020-09-20** — pushed [`7b40d52e`](https://github.com/ZacSweers/moshi/commit/7b40d52ea46eb5390cbc2300e3a47fa044bd710a) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update naming"
