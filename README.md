@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-20** — opened issue [#91](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/91) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Strange 124 exit code"
+
+**2020-09-20** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-695856120) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-09-20** — pushed [`1d7c3f75`](https://github.com/slackhq/keeper/commit/1d7c3f75b71a8940b208d4f3e9d086a5caa10aaf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Lower back down for now"
 
 **2020-09-20** — commented on [#1234](https://github.com/square/moshi/pull/1234#issuecomment-695842868) in [square/moshi](https://api.github.com/repos/square/moshi)
