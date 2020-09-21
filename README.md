@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-20** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-695869691) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-09-20** — opened issue [#91](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/91) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Strange 124 exit code"
 
 **2020-09-20** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-695856120) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-20** — pushed [`50d71e34`](https://github.com/ZacSweers/moshi/commit/50d71e34e2536604c81e3d67a13abc109374ed37) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Minor reorganization"
 
 **2020-09-20** — pushed [`7b40d52e`](https://github.com/ZacSweers/moshi/commit/7b40d52ea46eb5390cbc2300e3a47fa044bd710a) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update naming"
-
-**2020-09-20** — pushed [`09dd16c9`](https://github.com/ZacSweers/moshi/commit/09dd16c9b3f79eac47b33e7ba082d6c2d885ff68) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Extract KtConstructor creator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
