@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-21** — commented on [#1235](https://github.com/square/moshi/issues/1235#issuecomment-696342206) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-21** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-696341463) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-09-21** — closed issue [#91](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/91) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Strange 124 exit code"
+
+**2020-09-21** — commented on [#91](https://github.com/ReactiveCircus/android-emulator-runner/issues/91#issuecomment-696338873) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
+
 **2020-09-21** — pushed [`ae8638aa`](https://github.com/slackhq/keeper/commit/ae8638aa1005cf317333ee86d54882254896e896) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Reclaim memory mid-gradle task"
 
 **2020-09-21** — pushed [`7102eaf4`](https://github.com/slackhq/keeper/commit/7102eaf43e3b5be074df739d7f75b2c5222bd700) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Remove proguard from sample, raise timeout to 10min"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-21** — closed PR [#275](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/275) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp"
 
 **2020-09-21** — commented on [#275](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/275#issuecomment-696300936) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-09-20** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-695869691) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-09-20** — opened issue [#91](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/91) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Strange 124 exit code"
-
-**2020-09-20** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-695856120) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-09-20** — pushed [`1d7c3f75`](https://github.com/slackhq/keeper/commit/1d7c3f75b71a8940b208d4f3e9d086a5caa10aaf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Lower back down for now"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
