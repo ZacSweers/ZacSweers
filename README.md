@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-22** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-696834872) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-09-22** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-696831563) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-09-22** — commented on [#1612](https://github.com/JakeWharton/butterknife/issues/1612#issuecomment-696616847) in [JakeWharton/butterknife](https://api.github.com/repos/JakeWharton/butterknife)
 
 **2020-09-22** — pushed 20 commits to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-21** — closed issue [#91](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/91) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Strange 124 exit code"
 
 **2020-09-21** — commented on [#91](https://github.com/ReactiveCircus/android-emulator-runner/issues/91#issuecomment-696338873) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
-
-**2020-09-21** — pushed [`ae8638aa`](https://github.com/slackhq/keeper/commit/ae8638aa1005cf317333ee86d54882254896e896) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Reclaim memory mid-gradle task"
-
-**2020-09-21** — pushed [`7102eaf4`](https://github.com/slackhq/keeper/commit/7102eaf43e3b5be074df739d7f75b2c5222bd700) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Remove proguard from sample, raise timeout to 10min"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
