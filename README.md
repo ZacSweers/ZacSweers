@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-21** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-696482289) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2020-09-21** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-696401365) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-09-21** — commented on [#1235](https://github.com/square/moshi/issues/1235#issuecomment-696342206) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-21** — opened issue [#308](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/308) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Mapping file upload fails"
 
 **2020-09-21** — deleted branch "z/proxies2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2020-09-21** — closed PR [#275](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/275) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Support proxies via OkHttp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
