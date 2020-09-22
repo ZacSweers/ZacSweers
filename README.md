@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-22** — pushed 20 commits to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife).
+
 **2020-09-21** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-696482289) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2020-09-21** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-696401365) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-21** — pushed [`7102eaf4`](https://github.com/slackhq/keeper/commit/7102eaf43e3b5be074df739d7f75b2c5222bd700) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Remove proguard from sample, raise timeout to 10min"
 
 **2020-09-21** — opened issue [#308](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/308) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Mapping file upload fails"
-
-**2020-09-21** — deleted branch "z/proxies2" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
