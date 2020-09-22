@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-22** — commented on [#1612](https://github.com/JakeWharton/butterknife/issues/1612#issuecomment-696616847) in [JakeWharton/butterknife](https://api.github.com/repos/JakeWharton/butterknife)
+
 **2020-09-22** — pushed 20 commits to [ZacSweers/butterknife](https://api.github.com/repos/ZacSweers/butterknife).
 
 **2020-09-21** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-696482289) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-21** — pushed [`ae8638aa`](https://github.com/slackhq/keeper/commit/ae8638aa1005cf317333ee86d54882254896e896) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Reclaim memory mid-gradle task"
 
 **2020-09-21** — pushed [`7102eaf4`](https://github.com/slackhq/keeper/commit/7102eaf43e3b5be074df739d7f75b2c5222bd700) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Remove proguard from sample, raise timeout to 10min"
-
-**2020-09-21** — opened issue [#308](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/308) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Mapping file upload fails"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
