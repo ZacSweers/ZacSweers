@@ -4,25 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-25** — opened PR [#1238](https://api.github.com/repos/square/moshi/pulls/1238) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare dokka"
-
-**2020-09-25** — created branch "z/dokka" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-25** — pushed [`0a78ed4c`](https://github.com/ZacSweers/moshi/commit/0a78ed4cb1020311e4c768658eac4ac31224a0fa) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Moshi.Builder.addLast() (#1233)"
-
 **2020-09-25** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
-**2020-09-25** — pushed [`41e85e80`](https://github.com/slackhq/keeper/commit/41e85e8055459585692bbbf7433f20afcd7c3534) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Wire in explicitApi() and updated Dokka docs"
+**2020-09-25** — pushed [`8f369d06`](https://github.com/ZacSweers/moshi/commit/8f369d062c3fc0fc369fb677ce321d58681d5d1d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Finish argument checking"
 
-**2020-09-25** — commented on [#230](https://github.com/Kotlin/dokka/issues/230#issuecomment-698741351) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2020-09-24** — commented on [#1237](https://github.com/square/moshi/issues/1237#issuecomment-698508226) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-22** — commented on [#280](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/280#issuecomment-696954945) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2020-09-22** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-696866446) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-09-22** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-696850716) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2020-09-25** — pushed [`e3410058`](https://github.com/ZacSweers/moshi/commit/e3410058f67d8e4d047698104630cb8986cbf769) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Copyright"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
