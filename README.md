@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-25** — commented on [#8503](https://github.com/gradle/gradle/issues/8503#issuecomment-699040756) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2020-09-25** — opened issue [#78](https://api.github.com/repos/android/ksp/issues/78) on [android/ksp](https://api.github.com/repos/android/ksp): "Annotation with `Class[]` member always returns an empty list"
 
-**2020-09-25** — commented on [#1240](https://github.com/square/moshi/issues/1240#issuecomment-699017335) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-09-25** — opened issue [#61](https://api.github.com/repos/android/ksp/issues/61) on [android/ksp](https://api.github.com/repos/android/ksp): "KSName doesn't offer a deterministic naming API"
 
-**2020-09-25** — commented on [#1240](https://github.com/square/moshi/issues/1240#issuecomment-699009171) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-09-25** — opened issue [#58](https://api.github.com/repos/android/ksp/issues/58) on [android/ksp](https://api.github.com/repos/android/ksp): "Support checking if a parameter has a default value"
 
-**2020-09-25** — commented on [#1239](https://github.com/square/moshi/issues/1239#issuecomment-698777147) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-09-25** — opened issue [#56](https://api.github.com/repos/android/ksp/issues/56) on [android/ksp](https://api.github.com/repos/android/ksp): "Support retrieving jvm signatures of functions, constructors, and fields"
 
-**2020-09-25** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2020-09-25** — opened issue [#31](https://api.github.com/repos/android/ksp/issues/31) on [android/ksp](https://api.github.com/repos/android/ksp): "Debugging support"
 
-**2020-09-25** — pushed [`8f369d06`](https://github.com/ZacSweers/moshi/commit/8f369d062c3fc0fc369fb677ce321d58681d5d1d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Finish argument checking"
+**2020-09-25** — opened issue [#30](https://api.github.com/repos/android/ksp/issues/30) on [android/ksp](https://api.github.com/repos/android/ksp): "Feature request: implement toString() or otherwise support pretty printing Ks* types"
 
-**2020-09-25** — pushed [`e3410058`](https://github.com/ZacSweers/moshi/commit/e3410058f67d8e4d047698104630cb8986cbf769) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Copyright"
+**2020-09-25** — opened issue [#27](https://api.github.com/repos/android/ksp/issues/27) on [android/ksp](https://api.github.com/repos/android/ksp): "createNewFile always requires an extension"
+
+**2020-09-25** — opened issue [#26](https://api.github.com/repos/android/ksp/issues/26) on [android/ksp](https://api.github.com/repos/android/ksp): "Files are always generated to `src/main` even if they are not source files"
+
+**2020-09-25** — opened issue [#24](https://api.github.com/repos/android/ksp/issues/24) on [android/ksp](https://api.github.com/repos/android/ksp): "createNewFile generates trailing period if extension is empty"
+
+**2020-09-25** — opened issue [#23](https://api.github.com/repos/android/ksp/issues/23) on [android/ksp](https://api.github.com/repos/android/ksp): "Simple string member is always null in `20200716`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
