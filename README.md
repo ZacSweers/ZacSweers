@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-25** — pushed [`d9bc8ff8`](https://github.com/slackhq/keeper/commit/d9bc8ff87347996cb8d09dbd5d4dad86fe120ff0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "4.2 alpha 12"
+
+**2020-09-25** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-699147176) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-09-25** — opened issue [#78](https://api.github.com/repos/android/ksp/issues/78) on [android/ksp](https://api.github.com/repos/android/ksp): "Annotation with `Class[]` member always returns an empty list"
 
 **2020-09-25** — opened issue [#61](https://api.github.com/repos/android/ksp/issues/61) on [android/ksp](https://api.github.com/repos/android/ksp): "KSName doesn't offer a deterministic naming API"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-25** — opened issue [#27](https://api.github.com/repos/android/ksp/issues/27) on [android/ksp](https://api.github.com/repos/android/ksp): "createNewFile always requires an extension"
 
 **2020-09-25** — opened issue [#26](https://api.github.com/repos/android/ksp/issues/26) on [android/ksp](https://api.github.com/repos/android/ksp): "Files are always generated to `src/main` even if they are not source files"
-
-**2020-09-25** — opened issue [#24](https://api.github.com/repos/android/ksp/issues/24) on [android/ksp](https://api.github.com/repos/android/ksp): "createNewFile generates trailing period if extension is empty"
-
-**2020-09-25** — opened issue [#23](https://api.github.com/repos/android/ksp/issues/23) on [android/ksp](https://api.github.com/repos/android/ksp): "Simple string member is always null in `20200716`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
