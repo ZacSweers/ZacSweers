@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-25** — pushed [`eecc8a94`](https://github.com/slackhq/keeper/commit/eecc8a9476360dba376d494e768f2b9ed829c6ed) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix confusing scope"
+
+**2020-09-25** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2020-09-25** — pushed [`d9bc8ff8`](https://github.com/slackhq/keeper/commit/d9bc8ff87347996cb8d09dbd5d4dad86fe120ff0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "4.2 alpha 12"
 
 **2020-09-25** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-699147176) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-25** — opened issue [#31](https://api.github.com/repos/android/ksp/issues/31) on [android/ksp](https://api.github.com/repos/android/ksp): "Debugging support"
 
 **2020-09-25** — opened issue [#30](https://api.github.com/repos/android/ksp/issues/30) on [android/ksp](https://api.github.com/repos/android/ksp): "Feature request: implement toString() or otherwise support pretty printing Ks* types"
-
-**2020-09-25** — opened issue [#27](https://api.github.com/repos/android/ksp/issues/27) on [android/ksp](https://api.github.com/repos/android/ksp): "createNewFile always requires an extension"
-
-**2020-09-25** — opened issue [#26](https://api.github.com/repos/android/ksp/issues/26) on [android/ksp](https://api.github.com/repos/android/ksp): "Files are always generated to `src/main` even if they are not source files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
