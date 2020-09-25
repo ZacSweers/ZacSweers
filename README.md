@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-25** — commented on [#1240](https://github.com/square/moshi/issues/1240#issuecomment-699017335) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-09-25** — commented on [#1240](https://github.com/square/moshi/issues/1240#issuecomment-699009171) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-25** — commented on [#1239](https://github.com/square/moshi/issues/1239#issuecomment-698777147) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-09-25** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
