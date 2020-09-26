@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-25** — pushed [`d383afca`](https://github.com/slackhq/keeper/commit/d383afcad52342a27f0d669b8c39b4193af224f6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 4da66e0 with MkDocs version: 1.1.2"
+**2020-09-25** — pushed 16 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
-**2020-09-25** — pushed [`4da66e0e`](https://github.com/slackhq/keeper/commit/4da66e0e66089c9aae2a32235caa6f20b5f6da45) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add admonition to properly render"
+**2020-09-25** — pushed [`9e12f27b`](https://github.com/ZacSweers/moshi/commit/9e12f27b22e7be7bb7cd86ffcd4e32282ad428f2) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
 
-**2020-09-25** — pushed [`827ab951`](https://github.com/slackhq/keeper/commit/827ab9516d018794577146af44ac30b728fa7698) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed adf4cb9 with MkDocs version: 1.1.2"
+**2020-09-25** — pushed 1 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
-**2020-09-25** — pushed [`adf4cb92`](https://github.com/slackhq/keeper/commit/adf4cb929896fb7d57971d563d3257643a6b1328) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use warning markup"
+**2020-09-25** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
-**2020-09-25** — pushed [`f2b0e67a`](https://github.com/slackhq/keeper/commit/f2b0e67a29d880647bd7b7a5e185f319edbfd088) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 627ddbe with MkDocs version: 1.1.2"
+**2020-09-25** — deleted branch "z/copyrightBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2020-09-25** — pushed [`627ddbe1`](https://github.com/slackhq/keeper/commit/627ddbe1f6da9616b887c8465cccb374fce505c1) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update changelog link"
+**2020-09-25** — closed issue [#24](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/24) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "IllegalStateException: Recursive call in a lazy value under LockBasedStorageManager when using with KotlinX Serialization"
 
-**2020-09-25** — pushed [`5fdff671`](https://github.com/slackhq/keeper/commit/5fdff671a1af17d04a05dc9a51083a41e9b6dc98) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 4e38360 with MkDocs version: 1.1.2"
+**2020-09-25** — commented on [#24](https://github.com/ZacSweers/redacted-compiler-plugin/issues/24#issuecomment-699274836) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2020-09-25** — pushed [`4e383600`](https://github.com/slackhq/keeper/commit/4e383600c2d51b1216f8bf20e614bf5d08411e71) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix header for configuration"
+**2020-09-25** — commented on [#1117](https://github.com/square/moshi/issues/1117#issuecomment-699274538) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2020-09-25** — pushed [`344225c3`](https://github.com/slackhq/keeper/commit/344225c340d25fb3788fdb1a7a3fbbf77cd2f001) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed aad017f with MkDocs version: 1.1.2"
+**2020-09-25** — commented on [#1143](https://github.com/square/moshi/issues/1143#issuecomment-699274302) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2020-09-25** — pushed [`aad017fd`](https://github.com/slackhq/keeper/commit/aad017fde29881e8332e36a17bf72ef73f04bfcf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix path"
+**2020-09-25** — commented on [#1238](https://github.com/square/moshi/pull/1238#issuecomment-699268287) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
