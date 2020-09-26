@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-25** — pushed [`eecc8a94`](https://github.com/slackhq/keeper/commit/eecc8a9476360dba376d494e768f2b9ed829c6ed) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix confusing scope"
+**2020-09-25** — pushed [`d383afca`](https://github.com/slackhq/keeper/commit/d383afcad52342a27f0d669b8c39b4193af224f6) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 4da66e0 with MkDocs version: 1.1.2"
 
-**2020-09-25** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2020-09-25** — pushed [`4da66e0e`](https://github.com/slackhq/keeper/commit/4da66e0e66089c9aae2a32235caa6f20b5f6da45) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add admonition to properly render"
 
-**2020-09-25** — pushed [`d9bc8ff8`](https://github.com/slackhq/keeper/commit/d9bc8ff87347996cb8d09dbd5d4dad86fe120ff0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "4.2 alpha 12"
+**2020-09-25** — pushed [`827ab951`](https://github.com/slackhq/keeper/commit/827ab9516d018794577146af44ac30b728fa7698) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed adf4cb9 with MkDocs version: 1.1.2"
 
-**2020-09-25** — commented on [#58](https://github.com/slackhq/keeper/pull/58#issuecomment-699147176) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2020-09-25** — pushed [`adf4cb92`](https://github.com/slackhq/keeper/commit/adf4cb929896fb7d57971d563d3257643a6b1328) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use warning markup"
 
-**2020-09-25** — opened issue [#78](https://api.github.com/repos/android/ksp/issues/78) on [android/ksp](https://api.github.com/repos/android/ksp): "Annotation with `Class[]` member always returns an empty list"
+**2020-09-25** — pushed [`f2b0e67a`](https://github.com/slackhq/keeper/commit/f2b0e67a29d880647bd7b7a5e185f319edbfd088) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 627ddbe with MkDocs version: 1.1.2"
 
-**2020-09-25** — opened issue [#61](https://api.github.com/repos/android/ksp/issues/61) on [android/ksp](https://api.github.com/repos/android/ksp): "KSName doesn't offer a deterministic naming API"
+**2020-09-25** — pushed [`627ddbe1`](https://github.com/slackhq/keeper/commit/627ddbe1f6da9616b887c8465cccb374fce505c1) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update changelog link"
 
-**2020-09-25** — opened issue [#58](https://api.github.com/repos/android/ksp/issues/58) on [android/ksp](https://api.github.com/repos/android/ksp): "Support checking if a parameter has a default value"
+**2020-09-25** — pushed [`5fdff671`](https://github.com/slackhq/keeper/commit/5fdff671a1af17d04a05dc9a51083a41e9b6dc98) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 4e38360 with MkDocs version: 1.1.2"
 
-**2020-09-25** — opened issue [#56](https://api.github.com/repos/android/ksp/issues/56) on [android/ksp](https://api.github.com/repos/android/ksp): "Support retrieving jvm signatures of functions, constructors, and fields"
+**2020-09-25** — pushed [`4e383600`](https://github.com/slackhq/keeper/commit/4e383600c2d51b1216f8bf20e614bf5d08411e71) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix header for configuration"
 
-**2020-09-25** — opened issue [#31](https://api.github.com/repos/android/ksp/issues/31) on [android/ksp](https://api.github.com/repos/android/ksp): "Debugging support"
+**2020-09-25** — pushed [`344225c3`](https://github.com/slackhq/keeper/commit/344225c340d25fb3788fdb1a7a3fbbf77cd2f001) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed aad017f with MkDocs version: 1.1.2"
 
-**2020-09-25** — opened issue [#30](https://api.github.com/repos/android/ksp/issues/30) on [android/ksp](https://api.github.com/repos/android/ksp): "Feature request: implement toString() or otherwise support pretty printing Ks* types"
+**2020-09-25** — pushed [`aad017fd`](https://github.com/slackhq/keeper/commit/aad017fde29881e8332e36a17bf72ef73f04bfcf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix path"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
