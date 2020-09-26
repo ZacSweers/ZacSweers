@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-26** — pushed [`9cd0535d`](https://github.com/ZacSweers/moshi/commit/9cd0535d0f73395707e064bc60a60aa45b82b059) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Back to 2019"
+
+**2020-09-26** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-26** — pushed 30 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-26** — opened PR [#1242](https://api.github.com/repos/square/moshi/pulls/1242) to [square/moshi](https://api.github.com/repos/square/moshi): "Standardize (almost) all tests on Truth"
+
+**2020-09-26** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-09-26** — created branch "z/truthAll" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-26** — deleted branch "z/betterJcenterHandling" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-26** — pushed [`195984d8`](https://github.com/ZacSweers/MoshiX/commit/195984d8f5f5a86c30bf5f05db9d56157cc84079) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API (#36)"
 
 **2020-09-26** — deleted branch "z/javaType" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — closed PR [#36](https://api.github.com/repos/ZacSweers/MoshiX/pulls/36) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API"
-
-**2020-09-26** — opened PR [#36](https://api.github.com/repos/ZacSweers/MoshiX/pulls/36) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API"
-
-**2020-09-26** — created branch "z/javaType" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — pushed [`ca99ebb3`](https://github.com/ZacSweers/MoshiX/commit/ca99ebb326122f3be1859309fc3ec2a01ba22260) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Limit jcenter to just dokka"
-
-**2020-09-26** — pushed [`a8b06dce`](https://github.com/ZacSweers/auto-service-ksp/commit/a8b06dceb712a9e0aed003618893c3eb3a62f876) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Limit jcenter to just dokka"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
