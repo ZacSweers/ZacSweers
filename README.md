@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-26** — pushed [`88a0c1ef`](https://github.com/ZacSweers/MoshiX/commit/88a0c1ef75086f7e6ffdf4e903b6131ac516cd7c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add license to README"
+**2020-09-26** — deleted branch "z/explicitApi" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-26** — pushed [`d13aff7d`](https://github.com/ZacSweers/MoshiX/commit/d13aff7d1a4a056e883f68c63c456fab20df2c50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement sealed KSP + auto-service-ksp (#32)"
+**2020-09-26** — closed PR [#35](https://api.github.com/repos/ZacSweers/MoshiX/pulls/35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable explicit API mode"
 
-**2020-09-26** — deleted branch "z/sealedKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-26** — created branch "z/betterJcenterHandling" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2020-09-26** — closed PR [#32](https://api.github.com/repos/ZacSweers/MoshiX/pulls/32) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement sealed KSP + auto-service-ksp"
+**2020-09-26** — opened PR [#35](https://api.github.com/repos/ZacSweers/MoshiX/pulls/35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable explicit API mode"
 
-**2020-09-26** — pushed [`a0752537`](https://github.com/ZacSweers/MoshiX/commit/a0752537acaafcc1ae1a09446a991b28d55eda2d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak versions"
+**2020-09-26** — pushed [`16fed7ab`](https://github.com/ZacSweers/auto-service-ksp/commit/16fed7ab58781eca1b64d36fe05679e3766a404b) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode (#2)"
 
-**2020-09-26** — pushed [`ba1902f9`](https://github.com/ZacSweers/MoshiX/commit/ba1902f9d75f53d0a5da5e70240c262d591ab071) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use appropriate annotation for java version"
+**2020-09-26** — deleted branch "z/explicitApi" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2020-09-26** — pushed [`2984f9f0`](https://github.com/ZacSweers/MoshiX/commit/2984f9f0afc53a7c181cb1205c29446fe322a7bf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix deps"
+**2020-09-26** — closed PR [#2](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode"
 
-**2020-09-26** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-09-26** — created branch "z/explicitApi" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-26** — pushed [`5f6e2238`](https://github.com/ZacSweers/MoshiX/commit/5f6e22387f4da3d9261a180d9ca6bfc0feacde48) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More updates"
+**2020-09-26** — opened PR [#2](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode"
 
-**2020-09-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-09-26** — created branch "z/explicitApi" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
