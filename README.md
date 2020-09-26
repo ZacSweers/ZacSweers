@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-26** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-09-26** — deleted branch "z/autoservicebits" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-09-26** — pushed [`058dc6e4`](https://github.com/ZacSweers/MoshiX/commit/058dc6e4ea81100fda541288480d658627990fb0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep (#37)"
+
+**2020-09-26** — closed PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
+
+**2020-09-26** — pushed [`e05ee35a`](https://github.com/ZacSweers/MoshiX/commit/e05ee35a9adc89739ebc71b111e9b698841e2c8b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Move off the snapshot"
+
+**2020-09-26** — created tag "0.1.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2020-09-26** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
 **2020-09-26** — opened PR [#38](https://api.github.com/repos/ZacSweers/MoshiX/pulls/38) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP"
 
 **2020-09-26** — opened PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
 
 **2020-09-26** — created branch "z/autoservicebits" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — pushed [`40f01954`](https://github.com/ZacSweers/auto-service-ksp/commit/40f01954a07b649b1ba5af3451a881305de5de54) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Add .ksp to identifier for clarity"
-
-**2020-09-26** — pushed [`1816352e`](https://github.com/ZacSweers/auto-service-ksp/commit/1816352ea3bd0484a7ae6daaf3fe78a0cd290b09) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix sourceSet lookup"
-
-**2020-09-26** — pushed [`d44fe7e7`](https://github.com/ZacSweers/auto-service-ksp/commit/d44fe7e76e1aceef0ce76361243a1de2761f90c8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix ID"
-
-**2020-09-26** — created branch "z/kspTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — commented on [#68](https://github.com/tschuchortdev/kotlin-compile-testing/issues/68#issuecomment-699554309) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2020-09-26** — commented on [#68](https://github.com/tschuchortdev/kotlin-compile-testing/issues/68#issuecomment-699554082) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2020-09-26** — opened issue [#68](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/68) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Consider publishing snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
