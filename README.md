@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-25** — pushed 4 commits to [ZacSweers/moshi-sealed](https://api.github.com/repos/ZacSweers/moshi-sealed).
+
+**2020-09-25** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-25** — deleted branch "z/recipes" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-25** — deleted branch "z/dokka" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-09-25** — pushed 16 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-09-25** — pushed [`9e12f27b`](https://github.com/ZacSweers/moshi/commit/9e12f27b22e7be7bb7cd86ffcd4e32282ad428f2) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-25** — deleted branch "z/copyrightBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-25** — closed issue [#24](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/24) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "IllegalStateException: Recursive call in a lazy value under LockBasedStorageManager when using with KotlinX Serialization"
-
-**2020-09-25** — commented on [#24](https://github.com/ZacSweers/redacted-compiler-plugin/issues/24#issuecomment-699274836) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-09-25** — commented on [#1117](https://github.com/square/moshi/issues/1117#issuecomment-699274538) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-25** — commented on [#1143](https://github.com/square/moshi/issues/1143#issuecomment-699274302) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-25** — commented on [#1238](https://github.com/square/moshi/pull/1238#issuecomment-699268287) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
