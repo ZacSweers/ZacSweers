@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-26** — pushed [`fda70637`](https://github.com/ZacSweers/MoshiX/commit/fda706372a6678d3b20a92b3abf7fa34f4baa214) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement MetadataKotlinJsonAdapterFactory (#31)"
+**2020-09-26** — pushed [`88a0c1ef`](https://github.com/ZacSweers/MoshiX/commit/88a0c1ef75086f7e6ffdf4e903b6131ac516cd7c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add license to README"
 
-**2020-09-26** — deleted branch "z/metadatajsonAdapterFactory" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-26** — pushed [`d13aff7d`](https://github.com/ZacSweers/MoshiX/commit/d13aff7d1a4a056e883f68c63c456fab20df2c50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement sealed KSP + auto-service-ksp (#32)"
 
-**2020-09-26** — closed PR [#31](https://api.github.com/repos/ZacSweers/MoshiX/pulls/31) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement MetadataKotlinJsonAdapterFactory"
+**2020-09-26** — deleted branch "z/sealedKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-26** — opened PR [#31](https://api.github.com/repos/ZacSweers/MoshiX/pulls/31) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement MetadataKotlinJsonAdapterFactory"
+**2020-09-26** — closed PR [#32](https://api.github.com/repos/ZacSweers/MoshiX/pulls/32) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement sealed KSP + auto-service-ksp"
 
-**2020-09-26** — created branch "z/metadatajsonAdapterFactory" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-26** — pushed [`a0752537`](https://github.com/ZacSweers/MoshiX/commit/a0752537acaafcc1ae1a09446a991b28d55eda2d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak versions"
 
-**2020-09-26** — pushed [`f35b9345`](https://github.com/ZacSweers/MoshiX/commit/f35b93450c21c3a568644b155ff8845a7eee7947) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add a note"
+**2020-09-26** — pushed [`ba1902f9`](https://github.com/ZacSweers/MoshiX/commit/ba1902f9d75f53d0a5da5e70240c262d591ab071) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use appropriate annotation for java version"
 
-**2020-09-26** — pushed [`946b3ae0`](https://github.com/ZacSweers/MoshiX/commit/946b3ae0ef2e464bc0c4f41ae07f89088c6cd6ce) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi-ktx module (#30)"
+**2020-09-26** — pushed [`2984f9f0`](https://github.com/ZacSweers/MoshiX/commit/2984f9f0afc53a7c181cb1205c29446fe322a7bf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix deps"
 
-**2020-09-26** — deleted branch "z/moshiKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-26** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-09-26** — closed PR [#30](https://api.github.com/repos/ZacSweers/MoshiX/pulls/30) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi-ktx module"
+**2020-09-26** — pushed [`5f6e2238`](https://github.com/ZacSweers/MoshiX/commit/5f6e22387f4da3d9261a180d9ca6bfc0feacde48) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More updates"
 
-**2020-09-26** — opened PR [#30](https://api.github.com/repos/ZacSweers/MoshiX/pulls/30) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi-ktx module"
+**2020-09-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
