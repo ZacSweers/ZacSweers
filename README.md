@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-26** — pushed [`195984d8`](https://github.com/ZacSweers/MoshiX/commit/195984d8f5f5a86c30bf5f05db9d56157cc84079) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API (#36)"
+
+**2020-09-26** — deleted branch "z/javaType" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-09-26** — closed PR [#36](https://api.github.com/repos/ZacSweers/MoshiX/pulls/36) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API"
+
+**2020-09-26** — opened PR [#36](https://api.github.com/repos/ZacSweers/MoshiX/pulls/36) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use Kotlin 1.4's javaType API"
+
+**2020-09-26** — created branch "z/javaType" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-09-26** — pushed [`ca99ebb3`](https://github.com/ZacSweers/MoshiX/commit/ca99ebb326122f3be1859309fc3ec2a01ba22260) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Limit jcenter to just dokka"
+
+**2020-09-26** — pushed [`a8b06dce`](https://github.com/ZacSweers/auto-service-ksp/commit/a8b06dceb712a9e0aed003618893c3eb3a62f876) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Limit jcenter to just dokka"
+
+**2020-09-26** — pushed [`cd73bd0a`](https://github.com/ZacSweers/MoshiX/commit/cd73bd0ace2439e02cf488b47abee7ebb8cb9963) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable explicit API mode (#35)"
+
 **2020-09-26** — deleted branch "z/explicitApi" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-09-26** — closed PR [#35](https://api.github.com/repos/ZacSweers/MoshiX/pulls/35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable explicit API mode"
-
-**2020-09-26** — created branch "z/betterJcenterHandling" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-26** — opened PR [#35](https://api.github.com/repos/ZacSweers/MoshiX/pulls/35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable explicit API mode"
-
-**2020-09-26** — pushed [`16fed7ab`](https://github.com/ZacSweers/auto-service-ksp/commit/16fed7ab58781eca1b64d36fe05679e3766a404b) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode (#2)"
-
-**2020-09-26** — deleted branch "z/explicitApi" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-09-26** — closed PR [#2](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode"
-
-**2020-09-26** — created branch "z/explicitApi" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — opened PR [#2](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Enable explicit API mode"
-
-**2020-09-26** — created branch "z/explicitApi" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
