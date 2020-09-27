@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — pushed 13 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
+
 **2020-09-27** — pushed [`7977209f`](https://github.com/ZacSweers/MoshiX/commit/7977209fcffd16047d190d73164954f8efb5c570) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP (#38)"
 
 **2020-09-27** — deleted branch "z/kspTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-26** — opened issue [#85](https://api.github.com/repos/google/ksp/issues/85) on [google/ksp](https://api.github.com/repos/google/ksp): "Stale files are not cleaned up between runs"
 
 **2020-09-26** — opened issue [#84](https://api.github.com/repos/google/ksp/issues/84) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated resources are not included in assembled jar by default"
-
-**2020-09-26** — opened issue [#83](https://api.github.com/repos/google/ksp/issues/83) on [google/ksp](https://api.github.com/repos/google/ksp): "Lookup of constructor JVM signature throws exception if not found"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
