@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-27** — opened issue [#1508](https://api.github.com/repos/Kotlin/dokka/issues/1508) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Dokka regularly OOMs gradle in a simple project"
+**2020-09-27** — pushed [`b6d4c8ed`](https://github.com/ZacSweers/MoshiX/commit/b6d4c8ed1e9429b7fa27fe5064aca9ba6026be1b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reclaim memory before uploading snapshots"
 
-**2020-09-27** — pushed [`481512c7`](https://github.com/ZacSweers/moshi/commit/481512c736564bc8dfd061ef27e102457c4be4af) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+**2020-09-27** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-699690613) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
-**2020-09-27** — pushed [`5a61ddb6`](https://github.com/ZacSweers/moshi/commit/5a61ddb6b60b0d0780318fff450772130a8d1b19) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix rebase issues"
+**2020-09-27** — opened PR [#373](https://api.github.com/repos/yschimke/okurl/pulls/373) to [yschimke/okurl](https://api.github.com/repos/yschimke/okurl): "Use moshi-ktx"
 
-**2020-09-27** — pushed [`ad3bb841`](https://github.com/ZacSweers/moshi/commit/ad3bb84157ddfd03aeb57a3645a6873e42f4cb1f) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use rawType extension"
+**2020-09-27** — created branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
 
-**2020-09-27** — pushed [`dc9804fa`](https://github.com/ZacSweers/moshi/commit/dc9804fa6c0635bd439a3c5830300321b10b6f74) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+**2020-09-27** — commented on [#1508](https://github.com/Kotlin/dokka/issues/1508#issuecomment-699680879) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 
-**2020-09-27** — pushed 29 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2020-09-27** — pushed [`7d588263`](https://github.com/ZacSweers/MoshiX/commit/7d588263f2d12571d6aa6e1da7f3dec56cf1fac1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots (#40)"
 
-**2020-09-27** — pushed [`0a78ed4c`](https://github.com/ZacSweers/moshi/commit/0a78ed4cb1020311e4c768658eac4ac31224a0fa) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Moshi.Builder.addLast() (#1233)"
+**2020-09-27** — deleted branch "z/debuggingActions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-27** — commented on [#882](https://github.com/google/auto/issues/882#issuecomment-699610710) in [google/auto](https://api.github.com/repos/google/auto)
+**2020-09-27** — closed PR [#40](https://api.github.com/repos/ZacSweers/MoshiX/pulls/40) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots"
 
-**2020-09-27** — opened issue [#882](https://api.github.com/repos/google/auto/issues/882) on [google/auto](https://api.github.com/repos/google/auto): "KSP Implementations"
+**2020-09-27** — pushed [`92cc3cc1`](https://github.com/ZacSweers/MoshiX/commit/92cc3cc11e130655bfd9d7bc2bbbac2bf6e91a59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix!"
 
-**2020-09-27** — pushed [`25105e43`](https://github.com/ZacSweers/MoshiX/commit/25105e4316b9ed980f382e7681eb72df8f9cb8a9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix links"
+**2020-09-27** — pushed [`637c89b3`](https://github.com/ZacSweers/MoshiX/commit/637c89b3e66266ed9df5a13c5abc8fa9f8db27ac) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
