@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-26** — deleted branch "z/truthAll" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-09-26** — opened issue [#85](https://api.github.com/repos/google/ksp/issues/85) on [google/ksp](https://api.github.com/repos/google/ksp): "Stale files are not cleaned up between runs"
+
+**2020-09-26** — opened issue [#84](https://api.github.com/repos/google/ksp/issues/84) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated resources are not included in assembled jar by default"
+
+**2020-09-26** — opened issue [#83](https://api.github.com/repos/google/ksp/issues/83) on [google/ksp](https://api.github.com/repos/google/ksp): "Lookup of constructor JVM signature throws exception if not found"
+
+**2020-09-26** — opened issue [#82](https://api.github.com/repos/google/ksp/issues/82) on [google/ksp](https://api.github.com/repos/google/ksp): "Incorrect nullability reported for type variables"
+
 **2020-09-26** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2020-09-26** — deleted branch "z/autoservicebits" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-26** — closed PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
 
 **2020-09-26** — pushed [`e05ee35a`](https://github.com/ZacSweers/MoshiX/commit/e05ee35a9adc89739ebc71b111e9b698841e2c8b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Move off the snapshot"
-
-**2020-09-26** — created tag "0.1.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-09-26** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2020-09-26** — opened PR [#38](https://api.github.com/repos/ZacSweers/MoshiX/pulls/38) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP"
-
-**2020-09-26** — opened PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
-
-**2020-09-26** — created branch "z/autoservicebits" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
