@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — opened issue [#1508](https://api.github.com/repos/Kotlin/dokka/issues/1508) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Dokka regularly OOMs gradle in a simple project"
+
+**2020-09-27** — pushed [`481512c7`](https://github.com/ZacSweers/moshi/commit/481512c736564bc8dfd061ef27e102457c4be4af) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+
+**2020-09-27** — pushed [`5a61ddb6`](https://github.com/ZacSweers/moshi/commit/5a61ddb6b60b0d0780318fff450772130a8d1b19) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix rebase issues"
+
+**2020-09-27** — pushed [`ad3bb841`](https://github.com/ZacSweers/moshi/commit/ad3bb84157ddfd03aeb57a3645a6873e42f4cb1f) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use rawType extension"
+
+**2020-09-27** — pushed [`dc9804fa`](https://github.com/ZacSweers/moshi/commit/dc9804fa6c0635bd439a3c5830300321b10b6f74) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+
+**2020-09-27** — pushed 29 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-09-27** — pushed [`0a78ed4c`](https://github.com/ZacSweers/moshi/commit/0a78ed4cb1020311e4c768658eac4ac31224a0fa) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Moshi.Builder.addLast() (#1233)"
+
 **2020-09-27** — commented on [#882](https://github.com/google/auto/issues/882#issuecomment-699610710) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2020-09-27** — opened issue [#882](https://api.github.com/repos/google/auto/issues/882) on [google/auto](https://api.github.com/repos/google/auto): "KSP Implementations"
 
 **2020-09-27** — pushed [`25105e43`](https://github.com/ZacSweers/MoshiX/commit/25105e4316b9ed980f382e7681eb72df8f9cb8a9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix links"
-
-**2020-09-27** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-699610322) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-27** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-699610306) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-09-27** — opened issue [#86](https://api.github.com/repos/google/ksp/issues/86) on [google/ksp](https://api.github.com/repos/google/ksp): "A previous build failure with the same inputs but different processor implementation will still fail"
-
-**2020-09-27** — created tag "0.3.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-09-27** — pushed [`7634d33b`](https://github.com/ZacSweers/MoshiX/commit/7634d33b615ffd77741856f20e600ca1a152634b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update moshi-ktx readme"
-
-**2020-09-27** — pushed [`e7191df2`](https://github.com/ZacSweers/MoshiX/commit/e7191df298f8817d1abf262bd46b87609f1f663a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update metadata-reflect README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
