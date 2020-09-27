@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — pushed [`7977209f`](https://github.com/ZacSweers/MoshiX/commit/7977209fcffd16047d190d73164954f8efb5c570) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP (#38)"
+
+**2020-09-27** — deleted branch "z/kspTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-09-27** — closed PR [#38](https://api.github.com/repos/ZacSweers/MoshiX/pulls/38) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP"
+
+**2020-09-26** — pushed [`53526a87`](https://github.com/ZacSweers/MoshiX/commit/53526a8741e5ee87c12686212ed8d3eedce41873) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix package"
+
+**2020-09-26** — pushed 16 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2020-09-26** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2020-09-26** — deleted branch "z/truthAll" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-26** — opened issue [#84](https://api.github.com/repos/google/ksp/issues/84) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated resources are not included in assembled jar by default"
 
 **2020-09-26** — opened issue [#83](https://api.github.com/repos/google/ksp/issues/83) on [google/ksp](https://api.github.com/repos/google/ksp): "Lookup of constructor JVM signature throws exception if not found"
-
-**2020-09-26** — opened issue [#82](https://api.github.com/repos/google/ksp/issues/82) on [google/ksp](https://api.github.com/repos/google/ksp): "Incorrect nullability reported for type variables"
-
-**2020-09-26** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-09-26** — deleted branch "z/autoservicebits" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-26** — pushed [`058dc6e4`](https://github.com/ZacSweers/MoshiX/commit/058dc6e4ea81100fda541288480d658627990fb0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep (#37)"
-
-**2020-09-26** — closed PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
