@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — pushed [`e24fccfb`](https://github.com/ZacSweers/MoshiX/commit/e24fccfb53090d41e2876efc6d32b5c08645777d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Raise gradle memory"
+
 **2020-09-27** — pushed [`b6d4c8ed`](https://github.com/ZacSweers/MoshiX/commit/b6d4c8ed1e9429b7fa27fe5064aca9ba6026be1b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reclaim memory before uploading snapshots"
 
 **2020-09-27** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-699690613) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-27** — closed PR [#40](https://api.github.com/repos/ZacSweers/MoshiX/pulls/40) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots"
 
 **2020-09-27** — pushed [`92cc3cc1`](https://github.com/ZacSweers/MoshiX/commit/92cc3cc11e130655bfd9d7bc2bbbac2bf6e91a59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix!"
-
-**2020-09-27** — pushed [`637c89b3`](https://github.com/ZacSweers/MoshiX/commit/637c89b3e66266ed9df5a13c5abc8fa9f8db27ac) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
