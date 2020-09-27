@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — pushed [`81417e65`](https://github.com/ZacSweers/MoshiX/commit/81417e65e4d94faab216bec508387402aaefa1bc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update ksp README"
+
+**2020-09-27** — pushed [`641c0d85`](https://github.com/ZacSweers/MoshiX/commit/641c0d85c244fbbe337bcf936c188615a039e755) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type vars to handle backward references (#39)"
+
+**2020-09-27** — deleted branch "z/typeVar" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-09-27** — closed PR [#39](https://api.github.com/repos/ZacSweers/MoshiX/pulls/39) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type vars to handle backward references"
+
+**2020-09-27** — pushed [`e705f0fb`](https://github.com/ZacSweers/MoshiX/commit/e705f0fbfaa5fac2be6b23942c6b9f84da97f175) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable backward reference test"
+
+**2020-09-27** — opened PR [#39](https://api.github.com/repos/ZacSweers/MoshiX/pulls/39) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type variance to handle backward references"
+
+**2020-09-27** — created branch "z/typeVar" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-09-27** — pushed 13 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
 
 **2020-09-27** — pushed [`7977209f`](https://github.com/ZacSweers/MoshiX/commit/7977209fcffd16047d190d73164954f8efb5c570) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP (#38)"
 
 **2020-09-27** — deleted branch "z/kspTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-27** — closed PR [#38](https://api.github.com/repos/ZacSweers/MoshiX/pulls/38) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP"
-
-**2020-09-26** — pushed [`53526a87`](https://github.com/ZacSweers/MoshiX/commit/53526a8741e5ee87c12686212ed8d3eedce41873) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix package"
-
-**2020-09-26** — pushed 16 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-09-26** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-09-26** — deleted branch "z/truthAll" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-09-26** — opened issue [#85](https://api.github.com/repos/google/ksp/issues/85) on [google/ksp](https://api.github.com/repos/google/ksp): "Stale files are not cleaned up between runs"
-
-**2020-09-26** — opened issue [#84](https://api.github.com/repos/google/ksp/issues/84) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated resources are not included in assembled jar by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
