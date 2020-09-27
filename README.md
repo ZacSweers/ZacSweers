@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-27** — pushed [`81417e65`](https://github.com/ZacSweers/MoshiX/commit/81417e65e4d94faab216bec508387402aaefa1bc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update ksp README"
+**2020-09-27** — commented on [#882](https://github.com/google/auto/issues/882#issuecomment-699610710) in [google/auto](https://api.github.com/repos/google/auto)
 
-**2020-09-27** — pushed [`641c0d85`](https://github.com/ZacSweers/MoshiX/commit/641c0d85c244fbbe337bcf936c188615a039e755) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type vars to handle backward references (#39)"
+**2020-09-27** — opened issue [#882](https://api.github.com/repos/google/auto/issues/882) on [google/auto](https://api.github.com/repos/google/auto): "KSP Implementations"
 
-**2020-09-27** — deleted branch "z/typeVar" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-27** — pushed [`25105e43`](https://github.com/ZacSweers/MoshiX/commit/25105e4316b9ed980f382e7681eb72df8f9cb8a9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix links"
 
-**2020-09-27** — closed PR [#39](https://api.github.com/repos/ZacSweers/MoshiX/pulls/39) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type vars to handle backward references"
+**2020-09-27** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-699610322) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2020-09-27** — pushed [`e705f0fb`](https://github.com/ZacSweers/MoshiX/commit/e705f0fbfaa5fac2be6b23942c6b9f84da97f175) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable backward reference test"
+**2020-09-27** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-699610306) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2020-09-27** — opened PR [#39](https://api.github.com/repos/ZacSweers/MoshiX/pulls/39) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Rework type variance to handle backward references"
+**2020-09-27** — opened issue [#86](https://api.github.com/repos/google/ksp/issues/86) on [google/ksp](https://api.github.com/repos/google/ksp): "A previous build failure with the same inputs but different processor implementation will still fail"
 
-**2020-09-27** — created branch "z/typeVar" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-27** — created tag "0.3.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-27** — pushed 13 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
+**2020-09-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-09-27** — pushed [`7977209f`](https://github.com/ZacSweers/MoshiX/commit/7977209fcffd16047d190d73164954f8efb5c570) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi tests for KSP (#38)"
+**2020-09-27** — pushed [`7634d33b`](https://github.com/ZacSweers/MoshiX/commit/7634d33b615ffd77741856f20e600ca1a152634b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update moshi-ktx readme"
 
-**2020-09-27** — deleted branch "z/kspTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-27** — pushed [`e7191df2`](https://github.com/ZacSweers/MoshiX/commit/e7191df298f8817d1abf262bd46b87609f1f663a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update metadata-reflect README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
