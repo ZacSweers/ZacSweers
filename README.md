@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-26** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2020-09-26** — deleted branch "z/truthAll" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-09-26** — opened issue [#85](https://api.github.com/repos/google/ksp/issues/85) on [google/ksp](https://api.github.com/repos/google/ksp): "Stale files are not cleaned up between runs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-26** — pushed [`058dc6e4`](https://github.com/ZacSweers/MoshiX/commit/058dc6e4ea81100fda541288480d658627990fb0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep (#37)"
 
 **2020-09-26** — closed PR [#37](https://api.github.com/repos/ZacSweers/MoshiX/pulls/37) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Replace auto-service-ksp with upstream dep"
-
-**2020-09-26** — pushed [`e05ee35a`](https://github.com/ZacSweers/MoshiX/commit/e05ee35a9adc89739ebc71b111e9b698841e2c8b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Move off the snapshot"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
