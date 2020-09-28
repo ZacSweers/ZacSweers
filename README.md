@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-28** — closed issue [#13259](https://api.github.com/repos/gradle/gradle/issues/13259) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Repositories don't follow redirects"
+
+**2020-09-28** — commented on [#13259](https://github.com/gradle/gradle/issues/13259#issuecomment-699796544) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-09-27** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-699723119) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 
 **2020-09-27** — opened issue [#1](https://api.github.com/repos/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Remove pushes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-27** — created branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
 
 **2020-09-27** — commented on [#1508](https://github.com/Kotlin/dokka/issues/1508#issuecomment-699680879) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2020-09-27** — pushed [`7d588263`](https://github.com/ZacSweers/MoshiX/commit/7d588263f2d12571d6aa6e1da7f3dec56cf1fac1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots (#40)"
-
-**2020-09-27** — deleted branch "z/debuggingActions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
