@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-27** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-699723119) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+
 **2020-09-27** — opened issue [#1](https://api.github.com/repos/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Remove pushes"
 
 **2020-09-27** — pushed [`e24fccfb`](https://github.com/ZacSweers/MoshiX/commit/e24fccfb53090d41e2876efc6d32b5c08645777d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Raise gradle memory"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-27** — pushed [`7d588263`](https://github.com/ZacSweers/MoshiX/commit/7d588263f2d12571d6aa6e1da7f3dec56cf1fac1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots (#40)"
 
 **2020-09-27** — deleted branch "z/debuggingActions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-27** — closed PR [#40](https://api.github.com/repos/ZacSweers/MoshiX/pulls/40) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
