@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-29** — opened PR [#41](https://api.github.com/repos/ZacSweers/MoshiX/pulls/41) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing"
+**2020-09-29** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-700506857) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
-**2020-09-29** — created branch "z/compileTestingUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-29** — pushed [`53f706b5`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/53f706b5486c77a751608a341c7be66ae98af162) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Swap bintray plugin for custom target with existing plugin"
 
-**2020-09-28** — closed issue [#13259](https://api.github.com/repos/gradle/gradle/issues/13259) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Repositories don't follow redirects"
+**2020-09-29** — pushed 10 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
-**2020-09-28** — commented on [#13259](https://github.com/gradle/gradle/issues/13259#issuecomment-699796544) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2020-09-29** — pushed 396 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
-**2020-09-27** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-699723119) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+**2020-09-29** — pushed 120 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
-**2020-09-27** — opened issue [#1](https://api.github.com/repos/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Remove pushes"
+**2020-09-29** — commented on [#69](https://github.com/tschuchortdev/kotlin-compile-testing/issues/69#issuecomment-700489216) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
-**2020-09-27** — pushed [`e24fccfb`](https://github.com/ZacSweers/MoshiX/commit/e24fccfb53090d41e2876efc6d32b5c08645777d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Raise gradle memory"
+**2020-09-29** — deleted branch "z/compileTestingUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-27** — pushed [`b6d4c8ed`](https://github.com/ZacSweers/MoshiX/commit/b6d4c8ed1e9429b7fa27fe5064aca9ba6026be1b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reclaim memory before uploading snapshots"
+**2020-09-29** — pushed [`c884b6a9`](https://github.com/ZacSweers/MoshiX/commit/c884b6a9740a6dafeecb6e3e91feb56c09be560c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing (#41)"
 
-**2020-09-27** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-699690613) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+**2020-09-29** — closed PR [#41](https://api.github.com/repos/ZacSweers/MoshiX/pulls/41) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing"
 
-**2020-09-27** — opened PR [#373](https://api.github.com/repos/yschimke/okurl/pulls/373) to [yschimke/okurl](https://api.github.com/repos/yschimke/okurl): "Use moshi-ktx"
+**2020-09-29** — pushed [`11a4d5c5`](https://github.com/ZacSweers/MoshiX/commit/11a4d5c55003277311818d09c093ac1b9058c12d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update reflection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
