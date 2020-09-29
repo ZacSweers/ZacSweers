@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-29** — commented on [#66](https://github.com/uber/RxDogTag/issues/66#issuecomment-700851799) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2020-09-29** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-700506857) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-09-29** — pushed [`53f706b5`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/53f706b5486c77a751608a341c7be66ae98af162) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Swap bintray plugin for custom target with existing plugin"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-29** — pushed [`c884b6a9`](https://github.com/ZacSweers/MoshiX/commit/c884b6a9740a6dafeecb6e3e91feb56c09be560c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing (#41)"
 
 **2020-09-29** — closed PR [#41](https://api.github.com/repos/ZacSweers/MoshiX/pulls/41) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing"
-
-**2020-09-29** — pushed [`11a4d5c5`](https://github.com/ZacSweers/MoshiX/commit/11a4d5c55003277311818d09c093ac1b9058c12d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update reflection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
