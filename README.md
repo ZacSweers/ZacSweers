@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-29** — opened PR [#41](https://api.github.com/repos/ZacSweers/MoshiX/pulls/41) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing"
+
+**2020-09-29** — created branch "z/compileTestingUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-09-28** — closed issue [#13259](https://api.github.com/repos/gradle/gradle/issues/13259) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Repositories don't follow redirects"
 
 **2020-09-28** — commented on [#13259](https://github.com/gradle/gradle/issues/13259#issuecomment-699796544) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-27** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-699690613) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2020-09-27** — opened PR [#373](https://api.github.com/repos/yschimke/okurl/pulls/373) to [yschimke/okurl](https://api.github.com/repos/yschimke/okurl): "Use moshi-ktx"
-
-**2020-09-27** — created branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
-
-**2020-09-27** — commented on [#1508](https://github.com/Kotlin/dokka/issues/1508#issuecomment-699680879) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
