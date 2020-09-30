@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-29** — commented on [#1243](https://github.com/square/moshi/issues/1243#issuecomment-701134702) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-09-29** — commented on [#66](https://github.com/uber/RxDogTag/issues/66#issuecomment-700851799) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2020-09-29** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-700506857) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-29** — deleted branch "z/compileTestingUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-09-29** — pushed [`c884b6a9`](https://github.com/ZacSweers/MoshiX/commit/c884b6a9740a6dafeecb6e3e91feb56c09be560c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing (#41)"
-
-**2020-09-29** — closed PR [#41](https://api.github.com/repos/ZacSweers/MoshiX/pulls/41) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
