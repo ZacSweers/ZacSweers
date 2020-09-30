@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-09-29** — commented on [#1243](https://github.com/square/moshi/issues/1243#issuecomment-701134702) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-09-30** — created tag "0.3.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-29** — commented on [#66](https://github.com/uber/RxDogTag/issues/66#issuecomment-700851799) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+**2020-09-30** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-09-29** — commented on [#276](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/276#issuecomment-700506857) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+**2020-09-30** — pushed [`5d6481f6`](https://github.com/ZacSweers/MoshiX/commit/5d6481f6d4e68edcffcbbaeab6836b00d3692441) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks (#42)"
 
-**2020-09-29** — pushed [`53f706b5`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/53f706b5486c77a751608a341c7be66ae98af162) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Swap bintray plugin for custom target with existing plugin"
+**2020-09-30** — deleted branch "z/nullabilityFix" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-09-29** — pushed 10 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2020-09-30** — closed PR [#42](https://api.github.com/repos/ZacSweers/MoshiX/pulls/42) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks"
 
-**2020-09-29** — pushed 396 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2020-09-30** — commented on [#82](https://github.com/google/ksp/issues/82#issuecomment-701170381) in [google/ksp](https://api.github.com/repos/google/ksp)
 
-**2020-09-29** — pushed 120 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2020-09-30** — opened PR [#42](https://api.github.com/repos/ZacSweers/MoshiX/pulls/42) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks"
 
-**2020-09-29** — commented on [#69](https://github.com/tschuchortdev/kotlin-compile-testing/issues/69#issuecomment-700489216) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+**2020-09-30** — pushed [`e4ce2dab`](https://github.com/ZacSweers/MoshiX/commit/e4ce2dab82af30f1673b6f87f7f5d48f31bffde5) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix in sealed ksp too"
 
-**2020-09-29** — deleted branch "z/compileTestingUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-09-30** — pushed [`0c234f98`](https://github.com/ZacSweers/MoshiX/commit/0c234f98d6b9b19ab647aef4e2e2d73f489fe5b5) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak doc"
 
-**2020-09-29** — pushed [`c884b6a9`](https://github.com/ZacSweers/MoshiX/commit/c884b6a9740a6dafeecb6e3e91feb56c09be560c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update kotlin compile testing (#41)"
+**2020-09-30** — created branch "z/nullabilityFix" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
