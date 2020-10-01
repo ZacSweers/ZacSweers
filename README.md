@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-30** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-701726308) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-09-30** — opened PR [#43](https://api.github.com/repos/ZacSweers/MoshiX/pulls/43) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add option to generate bytecode for bridge calls"
+
+**2020-09-30** — created branch "z/bytecode" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-09-30** — closed issue [#3040](https://api.github.com/repos/detekt/detekt/issues/3040) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Incompatible with Gradle 6.7"
 
 **2020-09-30** — commented on [#3040](https://github.com/detekt/detekt/issues/3040#issuecomment-701638272) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-30** — deleted branch "z/nullabilityFix" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-09-30** — closed PR [#42](https://api.github.com/repos/ZacSweers/MoshiX/pulls/42) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks"
-
-**2020-09-30** — commented on [#82](https://github.com/google/ksp/issues/82#issuecomment-701170381) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-09-30** — opened PR [#42](https://api.github.com/repos/ZacSweers/MoshiX/pulls/42) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks"
-
-**2020-09-30** — pushed [`e4ce2dab`](https://github.com/ZacSweers/MoshiX/commit/e4ce2dab82af30f1673b6f87f7f5d48f31bffde5) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix in sealed ksp too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
