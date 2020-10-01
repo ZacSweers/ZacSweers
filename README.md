@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-01** — pushed [`b49cdabc`](https://github.com/ZacSweers/MoshiX/commit/b49cdabc07a9ffb3a536b9704b15d25aae8cf309) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection (#46)"
+
+**2020-10-01** — deleted branch "z/betterKotlinDetection" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-01** — closed PR [#46](https://api.github.com/repos/ZacSweers/MoshiX/pulls/46) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection"
+
+**2020-10-01** — closed issue [#44](https://api.github.com/repos/ZacSweers/MoshiX/issues/44) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP codegen fails on data class w/ interface"
+
+**2020-10-01** — opened PR [#46](https://api.github.com/repos/ZacSweers/MoshiX/pulls/46) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection"
+
+**2020-10-01** — created branch "z/betterKotlinDetection" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-01** — reopened issue [#44](https://api.github.com/repos/ZacSweers/MoshiX/issues/44) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP codegen fails on data class w/ interface"
+
 **2020-10-01** — commented on [#1244](https://github.com/square/moshi/issues/1244#issuecomment-702429264) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-01** — pushed [`dbd81036`](https://github.com/ZacSweers/MoshiX/commit/dbd81036681025c9202fd8798c8d7367c43516ab) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Only read CLASS type supertypes (#45)"
 
 **2020-10-01** — deleted branch "z/fixInterfaces" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-01** — closed PR [#45](https://api.github.com/repos/ZacSweers/MoshiX/pulls/45) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Only read CLASS type supertypes"
-
-**2020-10-01** — closed issue [#44](https://api.github.com/repos/ZacSweers/MoshiX/issues/44) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP codegen fails on data class w/ interface"
-
-**2020-10-01** — opened PR [#45](https://api.github.com/repos/ZacSweers/MoshiX/pulls/45) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Only read CLASS type supertypes"
-
-**2020-10-01** — created branch "z/fixInterfaces" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-30** — pushed [`a88dc0ed`](https://github.com/ZacSweers/MoshiX/commit/a88dc0edce3143412552be71dd32585476ae89b4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't add default marker param when generating bytecode"
-
-**2020-09-30** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-701726308) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-09-30** — opened PR [#43](https://api.github.com/repos/ZacSweers/MoshiX/pulls/43) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add option to generate bytecode for bridge calls"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
