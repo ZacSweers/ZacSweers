@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-09-30** — pushed [`a88dc0ed`](https://github.com/ZacSweers/MoshiX/commit/a88dc0edce3143412552be71dd32585476ae89b4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't add default marker param when generating bytecode"
+
 **2020-09-30** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-701726308) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2020-09-30** — opened PR [#43](https://api.github.com/repos/ZacSweers/MoshiX/pulls/43) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add option to generate bytecode for bridge calls"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-09-30** — pushed [`5d6481f6`](https://github.com/ZacSweers/MoshiX/commit/5d6481f6d4e68edcffcbbaeab6836b00d3692441) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks (#42)"
 
 **2020-09-30** — deleted branch "z/nullabilityFix" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-09-30** — closed PR [#42](https://api.github.com/repos/ZacSweers/MoshiX/pulls/42) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix KSP nullability checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
