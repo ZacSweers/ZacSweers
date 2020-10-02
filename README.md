@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-01** — pushed [`608142c2`](https://github.com/ZacSweers/MoshiX/commit/608142c2bbc99c462cec626563d78e432660d507) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix link"
+
+**2020-10-01** — created tag "0.3.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-01** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-10-01** — pushed [`005aa97c`](https://github.com/ZacSweers/MoshiX/commit/005aa97c4ccd16ceb5029e6afe47a889b9b8e771) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix supertype typename lookup (#48)"
+
+**2020-10-01** — deleted branch "z/moreAny" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-01** — closed PR [#48](https://api.github.com/repos/ZacSweers/MoshiX/pulls/48) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix supertype typename lookup"
+
+**2020-10-01** — opened PR [#48](https://api.github.com/repos/ZacSweers/MoshiX/pulls/48) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix supertype typename lookup"
+
+**2020-10-01** — created branch "z/moreAny" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-10-01** — pushed [`003143f0`](https://github.com/ZacSweers/MoshiX/commit/003143f0d0ea4012784d4a82a19423c85030e3ae) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Filter Any from supertypes too (#47)"
 
 **2020-10-01** — deleted branch "z/filterAny" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-01** — closed PR [#47](https://api.github.com/repos/ZacSweers/MoshiX/pulls/47) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Filter Any from supertypes too"
-
-**2020-10-01** — opened PR [#47](https://api.github.com/repos/ZacSweers/MoshiX/pulls/47) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Filter Any from supertypes too"
-
-**2020-10-01** — created branch "z/filterAny" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-01** — pushed [`b49cdabc`](https://github.com/ZacSweers/MoshiX/commit/b49cdabc07a9ffb3a536b9704b15d25aae8cf309) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection (#46)"
-
-**2020-10-01** — deleted branch "z/betterKotlinDetection" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-01** — closed PR [#46](https://api.github.com/repos/ZacSweers/MoshiX/pulls/46) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection"
-
-**2020-10-01** — closed issue [#44](https://api.github.com/repos/ZacSweers/MoshiX/issues/44) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP codegen fails on data class w/ interface"
-
-**2020-10-01** — opened PR [#46](https://api.github.com/repos/ZacSweers/MoshiX/pulls/46) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Refactor and clean up kotlin class detection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
