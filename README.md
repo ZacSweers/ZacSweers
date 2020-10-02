@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-02** — pushed [`aac06e73`](https://github.com/ZacSweers/CatchUp/commit/aac06e73ff5eb27947457e11b0a45b142227f3c0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others. (#252)"
+
+**2020-10-02** — closed PR [#252](https://api.github.com/repos/ZacSweers/CatchUp/pulls/252) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others."
+
 **2020-10-02** — pushed [`7ab08788`](https://github.com/ZacSweers/moshi/commit/7ab087880e7a165ab78873b1937bccb0876297e3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Copy nullability in typevars"
 
 **2020-10-02** — opened PR [#1247](https://api.github.com/repos/square/moshi/pulls/1247) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots by upping metaspace size"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-02** — commented on [#1245](https://github.com/square/moshi/issues/1245#issuecomment-702533585) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-01** — commented on [#1244](https://github.com/square/moshi/issues/1244#issuecomment-702513090) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-01** — pushed [`608142c2`](https://github.com/ZacSweers/MoshiX/commit/608142c2bbc99c462cec626563d78e432660d507) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix link"
-
-**2020-10-01** — created tag "0.3.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
