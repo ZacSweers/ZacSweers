@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-02** — commented on [#1245](https://github.com/square/moshi/issues/1245#issuecomment-702533585) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-01** — commented on [#1244](https://github.com/square/moshi/issues/1244#issuecomment-702513090) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-01** — pushed [`608142c2`](https://github.com/ZacSweers/MoshiX/commit/608142c2bbc99c462cec626563d78e432660d507) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix link"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-01** — opened PR [#48](https://api.github.com/repos/ZacSweers/MoshiX/pulls/48) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix supertype typename lookup"
 
 **2020-10-01** — created branch "z/moreAny" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-01** — pushed [`003143f0`](https://github.com/ZacSweers/MoshiX/commit/003143f0d0ea4012784d4a82a19423c85030e3ae) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Filter Any from supertypes too (#47)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
