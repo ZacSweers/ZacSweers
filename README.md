@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-03** — opened issue [#12](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/12) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Reevaluate complete instance requirement"
+
 **2020-10-03** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703059625) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2020-10-03** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703059399) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-02** — pushed [`9fd2ad05`](https://github.com/slackhq/moshi-gson-interop/commit/9fd2ad053ad473d928749d918461cafa9cbda7b4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Misc wording tweaks"
 
 **2020-10-02** — pushed [`e864daba`](https://github.com/slackhq/moshi-gson-interop/commit/e864daba77524cd6fe6f3cc86625e97a2269ea48) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README (#11)"
-
-**2020-10-02** — closed PR [#11](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/11) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
