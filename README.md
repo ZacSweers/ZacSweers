@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-03** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703044670) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-10-02** — pushed [`9fd2ad05`](https://github.com/slackhq/moshi-gson-interop/commit/9fd2ad053ad473d928749d918461cafa9cbda7b4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Misc wording tweaks"
 
 **2020-10-02** — pushed [`e864daba`](https://github.com/slackhq/moshi-gson-interop/commit/e864daba77524cd6fe6f3cc86625e97a2269ea48) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README (#11)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-02** — pushed [`db440e92`](https://github.com/slackhq/moshi-gson-interop/commit/db440e926f488210884bbb9280caf7b6bc6e9197) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix URLs in .github template files (#8)"
 
 **2020-10-02** — closed PR [#8](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix URLs in .github template files"
-
-**2020-10-02** — commented on [#8](https://github.com/slackhq/moshi-gson-interop/pull/8#issuecomment-703021916) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
