@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-02** — pushed [`425e207d`](https://github.com/slackhq/moshi-gson-interop/commit/425e207d925dffa3bbe1e05fd551999a58f58052) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template (#10)"
+
+**2020-10-02** — closed PR [#10](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/10) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template"
+
+**2020-10-02** — opened issue [#9](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/9) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add examples"
+
+**2020-10-02** — pushed [`db440e92`](https://github.com/slackhq/moshi-gson-interop/commit/db440e926f488210884bbb9280caf7b6bc6e9197) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix URLs in .github template files (#8)"
+
+**2020-10-02** — closed PR [#8](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix URLs in .github template files"
+
+**2020-10-02** — commented on [#8](https://github.com/slackhq/moshi-gson-interop/pull/8#issuecomment-703021916) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-02** — pushed [`5b714f7d`](https://github.com/slackhq/moshi-gson-interop/commit/5b714f7d0e5f88fa7285875d23688b23d1a3c008) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add note about JsonQualifiers"
+
 **2020-10-02** — pushed [`aac06e73`](https://github.com/ZacSweers/CatchUp/commit/aac06e73ff5eb27947457e11b0a45b142227f3c0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others. (#252)"
 
 **2020-10-02** — closed PR [#252](https://api.github.com/repos/ZacSweers/CatchUp/pulls/252) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others."
 
 **2020-10-02** — pushed [`7ab08788`](https://github.com/ZacSweers/moshi/commit/7ab087880e7a165ab78873b1937bccb0876297e3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Copy nullability in typevars"
-
-**2020-10-02** — opened PR [#1247](https://api.github.com/repos/square/moshi/pulls/1247) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots by upping metaspace size"
-
-**2020-10-02** — pushed [`6cd9b5dd`](https://github.com/ZacSweers/moshi/commit/6cd9b5dd75a9e346950f6450ba6934fbe05c9d02) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix snapshots by upping metaspace size"
-
-**2020-10-02** — pushed [`8c1ffb1c`](https://github.com/ZacSweers/moshi/commit/8c1ffb1cf1a92aaad93fa4100cbe71ae4ba474f3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
-
-**2020-10-02** — opened PR [#1246](https://api.github.com/repos/square/moshi/pulls/1246) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix infinite loop with type var variance stripping + remove from API"
-
-**2020-10-02** — created branch "z/fixInfiniteLoop" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-02** — commented on [#1245](https://github.com/square/moshi/issues/1245#issuecomment-702533585) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-01** — commented on [#1244](https://github.com/square/moshi/issues/1244#issuecomment-702513090) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
