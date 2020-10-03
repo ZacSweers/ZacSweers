@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-02** — pushed [`9fd2ad05`](https://github.com/slackhq/moshi-gson-interop/commit/9fd2ad053ad473d928749d918461cafa9cbda7b4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Misc wording tweaks"
+
+**2020-10-02** — pushed [`e864daba`](https://github.com/slackhq/moshi-gson-interop/commit/e864daba77524cd6fe6f3cc86625e97a2269ea48) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README (#11)"
+
+**2020-10-02** — closed PR [#11](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/11) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README"
+
+**2020-10-02** — commented on [#66](https://github.com/uber/RxDogTag/issues/66#issuecomment-703025622) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2020-10-02** — pushed [`425e207d`](https://github.com/slackhq/moshi-gson-interop/commit/425e207d925dffa3bbe1e05fd551999a58f58052) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template (#10)"
 
 **2020-10-02** — closed PR [#10](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/10) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-02** — closed PR [#8](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix URLs in .github template files"
 
 **2020-10-02** — commented on [#8](https://github.com/slackhq/moshi-gson-interop/pull/8#issuecomment-703021916) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-02** — pushed [`5b714f7d`](https://github.com/slackhq/moshi-gson-interop/commit/5b714f7d0e5f88fa7285875d23688b23d1a3c008) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add note about JsonQualifiers"
-
-**2020-10-02** — pushed [`aac06e73`](https://github.com/ZacSweers/CatchUp/commit/aac06e73ff5eb27947457e11b0a45b142227f3c0) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others. (#252)"
-
-**2020-10-02** — closed PR [#252](https://api.github.com/repos/ZacSweers/CatchUp/pulls/252) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor version and others."
-
-**2020-10-02** — pushed [`7ab08788`](https://github.com/ZacSweers/moshi/commit/7ab087880e7a165ab78873b1937bccb0876297e3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Copy nullability in typevars"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
