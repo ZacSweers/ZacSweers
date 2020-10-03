@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-03** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703059625) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-10-03** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703059399) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
+**2020-10-03** — opened issue [#14741](https://api.github.com/repos/gradle/gradle/issues/14741) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle daemons should shut down more aggressively"
+
+**2020-10-03** — opened issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
+
 **2020-10-03** — opened issue [#5961](https://api.github.com/repos/robolectric/robolectric/issues/5961) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Sqlite-using tests no longer work with Robolectric 4.5-alpha-1"
 
 **2020-10-03** — opened issue [#14740](https://api.github.com/repos/gradle/gradle/issues/14740) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Task cacheability should better determine when a task should rerun vs download"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-02** — pushed [`e864daba`](https://github.com/slackhq/moshi-gson-interop/commit/e864daba77524cd6fe6f3cc86625e97a2269ea48) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README (#11)"
 
 **2020-10-02** — closed PR [#11](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/11) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix reference to outdated API in README"
-
-**2020-10-02** — commented on [#66](https://github.com/uber/RxDogTag/issues/66#issuecomment-703025622) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-02** — pushed [`425e207d`](https://github.com/slackhq/moshi-gson-interop/commit/425e207d925dffa3bbe1e05fd551999a58f58052) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template (#10)"
-
-**2020-10-02** — closed PR [#10](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/10) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix link in PR template"
-
-**2020-10-02** — opened issue [#9](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/9) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add examples"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
