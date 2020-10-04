@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-04** — pushed [`1ef368ff`](https://github.com/ZacSweers/MoshiX/commit/1ef368ffb0978aaa2b90c67f4135fd4b8a53c36b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits (#49)"
+
+**2020-10-04** — deleted branch "z/mergeUpstream" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-04** — closed PR [#49](https://api.github.com/repos/ZacSweers/MoshiX/pulls/49) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits"
+
+**2020-10-04** — opened PR [#49](https://api.github.com/repos/ZacSweers/MoshiX/pulls/49) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits"
+
 **2020-10-04** — created branch "z/mergeUpstream" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-04** — deleted branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-04** — deleted branch "z/deprecatedKPStuff" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-10-04** — opened PR [#1249](https://api.github.com/repos/square/moshi/pulls/1249) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix some misc deprecated KotlinPoet APIs"
-
-**2020-10-04** — pushed 4 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-10-04** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-10-04** — created branch "z/deprecatedKPStuff" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-04** — pushed [`0d7a9e3a`](https://github.com/ZacSweers/CatchUp/commit/0d7a9e3adf8f4e8be8028fd09393cde4dc49460d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things (#253)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
