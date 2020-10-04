@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-04** — pushed [`41f9aa46`](https://github.com/ZacSweers/CatchUp/commit/41f9aa461c64cdd782cbde2d842a05d706e0db2a) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
+
+**2020-10-04** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-703318761) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2020-10-04** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2020-10-04** — opened PR [#253](https://api.github.com/repos/ZacSweers/CatchUp/pulls/253) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
+
+**2020-10-04** — created branch "z/updateStuff" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-10-04** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703317502) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2020-10-03** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703125448) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2020-10-03** — deleted branch "patch-4" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-03** — opened issue [#12](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/12) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Reevaluate complete instance requirement"
 
 **2020-10-03** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703059625) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-10-03** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703059399) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2020-10-03** — opened issue [#14741](https://api.github.com/repos/gradle/gradle/issues/14741) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle daemons should shut down more aggressively"
-
-**2020-10-03** — opened issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
-
-**2020-10-03** — opened issue [#5961](https://api.github.com/repos/robolectric/robolectric/issues/5961) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Sqlite-using tests no longer work with Robolectric 4.5-alpha-1"
-
-**2020-10-03** — opened issue [#14740](https://api.github.com/repos/gradle/gradle/issues/14740) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Task cacheability should better determine when a task should rerun vs download"
-
-**2020-10-03** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703044670) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
