@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703387528) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-04** — closed issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
 
 **2020-10-04** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-703357686) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-04** — opened PR [#1251](https://api.github.com/repos/square/moshi/pulls/1251) to [square/moshi](https://api.github.com/repos/square/moshi): "Run spotless on changelog"
 
 **2020-10-04** — created branch "z/changelogBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-04** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
