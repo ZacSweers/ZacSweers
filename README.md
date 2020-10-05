@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-04** — closed issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
+
+**2020-10-04** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-703357686) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
+**2020-10-04** — pushed [`988bd78e`](https://github.com/slackhq/moshi-gson-interop/commit/988bd78e41cc385e73a1d5f89ecbe1be85e656af) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
+
+**2020-10-04** — pushed [`218aeec8`](https://github.com/slackhq/moshi-gson-interop/commit/218aeec88fdbbc28706941f91a69c3ed8d7e1ed4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove snapshots caveats from README"
+
+**2020-10-04** — opened PR [#13](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/13) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update dependencies"
+
+**2020-10-04** — pushed [`9d80174f`](https://github.com/slackhq/moshi-gson-interop/commit/9d80174fb017b5e34c5e9723f7d1dd1330c63a08) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Switch to default moshi extensions"
+
+**2020-10-04** — created branch "z/updates" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-04** — opened PR [#1251](https://api.github.com/repos/square/moshi/pulls/1251) to [square/moshi](https://api.github.com/repos/square/moshi): "Run spotless on changelog"
+
+**2020-10-04** — created branch "z/changelogBits" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2020-10-04** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2020-10-04** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703344962) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-10-04** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703342230) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-10-04** — pushed [`1ef368ff`](https://github.com/ZacSweers/MoshiX/commit/1ef368ffb0978aaa2b90c67f4135fd4b8a53c36b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits (#49)"
-
-**2020-10-04** — deleted branch "z/mergeUpstream" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-04** — closed PR [#49](https://api.github.com/repos/ZacSweers/MoshiX/pulls/49) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits"
-
-**2020-10-04** — opened PR [#49](https://api.github.com/repos/ZacSweers/MoshiX/pulls/49) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits"
-
-**2020-10-04** — created branch "z/mergeUpstream" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-04** — deleted branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-04** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-703324226) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
