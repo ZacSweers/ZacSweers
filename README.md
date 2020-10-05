@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-05** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703827053) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2020-10-05** — deleted branch "z/updates" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-10-05** — pushed [`5138bb55`](https://github.com/slackhq/moshi-gson-interop/commit/5138bb55bbc8853711d3f7f1abf8e3e2fca7301a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update dependencies (#13)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-04** — opened PR [#13](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/13) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update dependencies"
 
 **2020-10-04** — pushed [`9d80174f`](https://github.com/slackhq/moshi-gson-interop/commit/9d80174fb017b5e34c5e9723f7d1dd1330c63a08) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Switch to default moshi extensions"
-
-**2020-10-04** — created branch "z/updates" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
