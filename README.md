@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703900655) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-10-05** — created tag "0.1.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-05** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
+
+**2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703878804) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-10-05** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703827053) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2020-10-05** — deleted branch "z/updates" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-04** — closed issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
 
 **2020-10-04** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-703357686) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2020-10-04** — pushed [`988bd78e`](https://github.com/slackhq/moshi-gson-interop/commit/988bd78e41cc385e73a1d5f89ecbe1be85e656af) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
-
-**2020-10-04** — pushed [`218aeec8`](https://github.com/slackhq/moshi-gson-interop/commit/218aeec88fdbbc28706941f91a69c3ed8d7e1ed4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove snapshots caveats from README"
-
-**2020-10-04** — opened PR [#13](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/13) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update dependencies"
-
-**2020-10-04** — pushed [`9d80174f`](https://github.com/slackhq/moshi-gson-interop/commit/9d80174fb017b5e34c5e9723f7d1dd1330c63a08) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Switch to default moshi extensions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
