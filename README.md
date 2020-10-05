@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-04** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2020-10-04** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703344962) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-10-04** — commented on [#12660](https://github.com/gradle/gradle/issues/12660#issuecomment-703342230) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-10-04** — pushed [`1ef368ff`](https://github.com/ZacSweers/MoshiX/commit/1ef368ffb0978aaa2b90c67f4135fd4b8a53c36b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Merge upstream code gen bits (#49)"
 
 **2020-10-04** — deleted branch "z/mergeUpstream" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-04** — deleted branch "z/extensions" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-10-04** — commented on [#1202](https://github.com/square/moshi/pull/1202#issuecomment-703324226) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-04** — deleted branch "z/fixInfiniteLoop" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-04** — deleted branch "z/deprecatedKPStuff" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-04** — opened PR [#1249](https://api.github.com/repos/square/moshi/pulls/1249) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix some misc deprecated KotlinPoet APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
