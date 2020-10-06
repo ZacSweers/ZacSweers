@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703949093) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703900655) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-05** — created tag "0.1.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703387528) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-04** — closed issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
-
-**2020-10-04** — commented on [#5931](https://github.com/robolectric/robolectric/issues/5931#issuecomment-703357686) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
