@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-06** — pushed [`6976cd02`](https://github.com/ZacSweers/CatchUp/commit/6976cd026981ad382a2a79c0842a93595948e8f9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor with negative avoidance savings threshold (#254)"
+
+**2020-10-06** — closed PR [#254](https://api.github.com/repos/ZacSweers/CatchUp/pulls/254) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor with negative avoidance savings threshold"
+
+**2020-10-06** — commented on [#9224](https://github.com/gradle/gradle/issues/9224#issuecomment-704563928) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-10-06** — commented on [#9908](https://github.com/gradle/gradle/issues/9908#issuecomment-704563772) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-10-06** — opened PR [#51](https://api.github.com/repos/ZacSweers/MoshiX/pulls/51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact"
 
 **2020-10-06** — created branch "z/adapters" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-06** — closed PR [#50](https://api.github.com/repos/ZacSweers/MoshiX/pulls/50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation"
 
 **2020-10-05** — pushed [`a6caf3cc`](https://github.com/ZacSweers/moshi/commit/a6caf3ccaca9b7ffae3ec14439c8db6074424d02) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Run spotless on changelog (#1251)"
-
-**2020-10-05** — opened PR [#50](https://api.github.com/repos/ZacSweers/MoshiX/pulls/50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation"
-
-**2020-10-05** — created branch "z/removeKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703949093) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703900655) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
