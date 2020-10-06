@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-06** — pushed [`04a186f6`](https://github.com/ZacSweers/MoshiX/commit/04a186f6012ff471f6fbf5f1065f36b87d2ec04b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation (#50)"
+
+**2020-10-06** — deleted branch "z/removeKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-06** — closed PR [#50](https://api.github.com/repos/ZacSweers/MoshiX/pulls/50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation"
+
+**2020-10-05** — pushed [`a6caf3cc`](https://github.com/ZacSweers/moshi/commit/a6caf3ccaca9b7ffae3ec14439c8db6074424d02) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Run spotless on changelog (#1251)"
+
+**2020-10-05** — opened PR [#50](https://api.github.com/repos/ZacSweers/MoshiX/pulls/50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation"
+
+**2020-10-05** — created branch "z/removeKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703949093) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703900655) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-05** — created tag "0.1.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-10-05** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
-
-**2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703878804) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-10-05** — commented on [#5961](https://github.com/robolectric/robolectric/issues/5961#issuecomment-703827053) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2020-10-05** — deleted branch "z/updates" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-05** — pushed [`5138bb55`](https://github.com/slackhq/moshi-gson-interop/commit/5138bb55bbc8853711d3f7f1abf8e3e2fca7301a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update dependencies (#13)"
-
-**2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703387528) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-04** — closed issue [#5931](https://api.github.com/repos/robolectric/robolectric/issues/5931) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work on JDK 15"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
