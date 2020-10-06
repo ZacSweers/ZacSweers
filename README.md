@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-06** — opened PR [#51](https://api.github.com/repos/ZacSweers/MoshiX/pulls/51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact"
+
+**2020-10-06** — created branch "z/adapters" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-10-06** — pushed [`04a186f6`](https://github.com/ZacSweers/MoshiX/commit/04a186f6012ff471f6fbf5f1065f36b87d2ec04b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation (#50)"
 
 **2020-10-06** — deleted branch "z/removeKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-05** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-703949093) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2020-10-05** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-703900655) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-05** — created tag "0.1.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-05** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
