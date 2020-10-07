@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-07** — created tag "0.2.0" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2020-10-07** — deleted branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-07** — pushed [`19d9c033`](https://github.com/ZacSweers/ticktock/commit/19d9c033f2e686a0cb7db2779978f4ee14b70a3c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates! (#37)"
+
+**2020-10-07** — closed PR [#37](https://api.github.com/repos/ZacSweers/ticktock/pulls/37) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates!"
+
+**2020-10-07** — pushed [`90d33776`](https://github.com/ZacSweers/ticktock/commit/90d33776290ac065e1ff7f557fb2f32b29f58b1d) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update clikt"
+
+**2020-10-07** — pushed [`2520c8de`](https://github.com/ZacSweers/ticktock/commit/2520c8dee64e3e3a341bb1e94773154428c51652) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Use simpler format"
+
+**2020-10-07** — pushed [`af9c6d24`](https://github.com/ZacSweers/ticktock/commit/af9c6d2435a757364091166b5554b19ac7ee9eca) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Put trove4j in the right place"
 
 **2020-10-07** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
-**2020-10-07** — deleted branch "z/updates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2020-10-07** — opened PR [#37](https://api.github.com/repos/ZacSweers/ticktock/pulls/37) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates!"
 
-**2020-10-07** — pushed [`ce2d57b6`](https://github.com/ZacSweers/ticktock/commit/ce2d57b659cb41112eb7a06f707aec4c5a0486e9) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax (#36)"
+**2020-10-07** — pushed [`60cfe8e9`](https://github.com/ZacSweers/ticktock/commit/60cfe8e9dc46971ec3a3c4db9ec9cc570149f109) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "compilesdk 30"
 
-**2020-10-07** — closed PR [#36](https://api.github.com/repos/ZacSweers/ticktock/pulls/36) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax"
-
-**2020-10-07** — opened PR [#36](https://api.github.com/repos/ZacSweers/ticktock/pulls/36) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax"
-
-**2020-10-07** — pushed [`e0478433`](https://github.com/ZacSweers/ticktock/commit/e0478433a63db9490fc17bc1dfcdb5fd07721f3f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update workflow to environment files"
-
-**2020-10-07** — created branch "z/updates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-07** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-07** — pushed [`acc3e577`](https://github.com/ZacSweers/ticktock/commit/acc3e577d61fe418a2aba951e24c0224108ec5c0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020b (#35)"
+**2020-10-07** — created branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
