@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-07** — created tag "0.2.0" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-07** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+
+**2020-10-07** — deleted branch "z/updates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-07** — pushed [`ce2d57b6`](https://github.com/ZacSweers/ticktock/commit/ce2d57b659cb41112eb7a06f707aec4c5a0486e9) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax (#36)"
+
+**2020-10-07** — closed PR [#36](https://api.github.com/repos/ZacSweers/ticktock/pulls/36) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax"
+
 **2020-10-07** — opened PR [#36](https://api.github.com/repos/ZacSweers/ticktock/pulls/36) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update dependencies, fix tzdb.dat in lazyzonerules, update workflows syntax"
 
 **2020-10-07** — pushed [`e0478433`](https://github.com/ZacSweers/ticktock/commit/e0478433a63db9490fc17bc1dfcdb5fd07721f3f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update workflow to environment files"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-07** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-07** — pushed [`acc3e577`](https://github.com/ZacSweers/ticktock/commit/acc3e577d61fe418a2aba951e24c0224108ec5c0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020b (#35)"
-
-**2020-10-07** — closed PR [#35](https://api.github.com/repos/ZacSweers/ticktock/pulls/35) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020b"
-
-**2020-10-06** — commented on [#1253](https://github.com/square/moshi/issues/1253#issuecomment-704627223) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-06** — opened PR [#1254](https://api.github.com/repos/square/moshi/pulls/1254) to [square/moshi](https://api.github.com/repos/square/moshi): "Add issue templates"
-
-**2020-10-06** — created branch "z/template" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-06** — commented on [#1253](https://github.com/square/moshi/issues/1253#issuecomment-704618179) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
