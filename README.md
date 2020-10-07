@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-06** — commented on [#1253](https://github.com/square/moshi/issues/1253#issuecomment-704627223) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-10-06** — opened PR [#1254](https://api.github.com/repos/square/moshi/pulls/1254) to [square/moshi](https://api.github.com/repos/square/moshi): "Add issue templates"
+
+**2020-10-06** — created branch "z/template" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2020-10-06** — commented on [#1253](https://github.com/square/moshi/issues/1253#issuecomment-704618179) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-06** — pushed [`6976cd02`](https://github.com/ZacSweers/CatchUp/commit/6976cd026981ad382a2a79c0842a93595948e8f9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor with negative avoidance savings threshold (#254)"
 
 **2020-10-06** — closed PR [#254](https://api.github.com/repos/ZacSweers/CatchUp/pulls/254) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Bump Gradle Doctor with negative avoidance savings threshold"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-06** — opened PR [#51](https://api.github.com/repos/ZacSweers/MoshiX/pulls/51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact"
 
 **2020-10-06** — created branch "z/adapters" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-06** — pushed [`04a186f6`](https://github.com/ZacSweers/MoshiX/commit/04a186f6012ff471f6fbf5f1065f36b87d2ec04b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation (#50)"
-
-**2020-10-06** — deleted branch "z/removeKtx" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-06** — closed PR [#50](https://api.github.com/repos/ZacSweers/MoshiX/pulls/50) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove moshi-ktx project in favor of upstream implementation"
-
-**2020-10-05** — pushed [`a6caf3cc`](https://github.com/ZacSweers/moshi/commit/a6caf3ccaca9b7ffae3ec14439c8db6074424d02) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Run spotless on changelog (#1251)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
