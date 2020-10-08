@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-08** — closed issue [#14740](https://api.github.com/repos/gradle/gradle/issues/14740) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Task cacheability should better determine when a task should rerun vs download"
+
+**2020-10-08** — commented on [#14740](https://github.com/gradle/gradle/issues/14740#issuecomment-705851196) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-10-08** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-705850844) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2020-10-07** — deleted branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-07** — pushed [`19d9c033`](https://github.com/ZacSweers/ticktock/commit/19d9c033f2e686a0cb7db2779978f4ee14b70a3c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates! (#37)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-07** — pushed [`af9c6d24`](https://github.com/ZacSweers/ticktock/commit/af9c6d2435a757364091166b5554b19ac7ee9eca) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Put trove4j in the right place"
 
 **2020-10-07** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
-
-**2020-10-07** — opened PR [#37](https://api.github.com/repos/ZacSweers/ticktock/pulls/37) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates!"
-
-**2020-10-07** — pushed [`60cfe8e9`](https://github.com/ZacSweers/ticktock/commit/60cfe8e9dc46971ec3a3c4db9ec9cc570149f109) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "compilesdk 30"
-
-**2020-10-07** — created branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
