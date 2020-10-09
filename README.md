@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-09** — commented on [#52](https://github.com/ZacSweers/MoshiX/issues/52#issuecomment-706256555) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-10-09** — opened PR [#1](https://api.github.com/repos/eskatos/kt-1.4-zac-issue/pulls/1) to [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue): "Match more of our internal implementation"
 
 **2020-10-09** — created branch "z/updates" on [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-07** — deleted branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-07** — pushed [`19d9c033`](https://github.com/ZacSweers/ticktock/commit/19d9c033f2e686a0cb7db2779978f4ee14b70a3c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates! (#37)"
-
-**2020-10-07** — closed PR [#37](https://api.github.com/repos/ZacSweers/ticktock/pulls/37) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates!"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
