@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-09** — commented on [#52](https://github.com/ZacSweers/MoshiX/issues/52#issuecomment-706256555) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-09** — deleted branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-09** — opened PR [#1](https://api.github.com/repos/eskatos/kt-1.4-zac-issue/pulls/1) to [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue): "Match more of our internal implementation"
+**2020-10-09** — pushed [`8a92c680`](https://github.com/ZacSweers/MoshiX/commit/8a92c680bb2a0640d33cd668866b5059cf997ca0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target (#53)"
 
-**2020-10-09** — created branch "z/updates" on [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue)
+**2020-10-09** — closed PR [#53](https://api.github.com/repos/ZacSweers/MoshiX/pulls/53) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target"
 
-**2020-10-08** — commented on [#994](https://github.com/square/kotlinpoet/pull/994#issuecomment-705932833) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2020-10-09** — commented on [#1255](https://github.com/square/moshi/pull/1255#issuecomment-706345459) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2020-10-08** — opened issue [#49](https://api.github.com/repos/rtCamp/action-slack-notify/issues/49) on [rtCamp/action-slack-notify](https://api.github.com/repos/rtCamp/action-slack-notify): "Feature request - customize github actor"
+**2020-10-09** — commented on [#996](https://github.com/square/kotlinpoet/pull/996#issuecomment-706345367) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2020-10-08** — closed issue [#14740](https://api.github.com/repos/gradle/gradle/issues/14740) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Task cacheability should better determine when a task should rerun vs download"
+**2020-10-09** — opened PR [#1255](https://api.github.com/repos/square/moshi/pulls/1255) to [square/moshi](https://api.github.com/repos/square/moshi): "Use pull_request_target"
 
-**2020-10-08** — commented on [#14740](https://github.com/gradle/gradle/issues/14740#issuecomment-705851196) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2020-10-09** — pushed [`0b5e29f5`](https://github.com/ZacSweers/moshi/commit/0b5e29f5802573bf2357dbc55757bd22502bbecf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use pull_request_target"
 
-**2020-10-08** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-705850844) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+**2020-10-09** — opened PR [#53](https://api.github.com/repos/ZacSweers/MoshiX/pulls/53) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target"
 
-**2020-10-07** — deleted branch "z/dokkaUpdates" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2020-10-09** — created branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-07** — pushed [`19d9c033`](https://github.com/ZacSweers/ticktock/commit/19d9c033f2e686a0cb7db2779978f4ee14b70a3c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates! (#37)"
+**2020-10-09** — opened PR [#996](https://api.github.com/repos/square/kotlinpoet/pulls/996) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use pull_request_target"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
