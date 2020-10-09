@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-09** — opened PR [#1](https://api.github.com/repos/eskatos/kt-1.4-zac-issue/pulls/1) to [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue): "Match more of our internal implementation"
+
+**2020-10-09** — created branch "z/updates" on [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue)
+
 **2020-10-08** — commented on [#994](https://github.com/square/kotlinpoet/pull/994#issuecomment-705932833) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-08** — opened issue [#49](https://api.github.com/repos/rtCamp/action-slack-notify/issues/49) on [rtCamp/action-slack-notify](https://api.github.com/repos/rtCamp/action-slack-notify): "Feature request - customize github actor"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-07** — pushed [`19d9c033`](https://github.com/ZacSweers/ticktock/commit/19d9c033f2e686a0cb7db2779978f4ee14b70a3c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates! (#37)"
 
 **2020-10-07** — closed PR [#37](https://api.github.com/repos/ZacSweers/ticktock/pulls/37) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "More updates!"
-
-**2020-10-07** — pushed [`90d33776`](https://github.com/ZacSweers/ticktock/commit/90d33776290ac065e1ff7f557fb2f32b29f58b1d) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update clikt"
-
-**2020-10-07** — pushed [`2520c8de`](https://github.com/ZacSweers/ticktock/commit/2520c8dee64e3e3a341bb1e94773154428c51652) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Use simpler format"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
