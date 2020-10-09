@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-09** — pushed [`a1ee8537`](https://github.com/slackhq/moshi-gson-interop/commit/a1ee85371a3278ca66b17a88042eb7321ef177c2) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target (#14)"
+
+**2020-10-09** — deleted branch "z/prtarget" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-09** — closed PR [#14](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/14) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target"
+
 **2020-10-09** — deleted branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-09** — pushed [`8a92c680`](https://github.com/ZacSweers/MoshiX/commit/8a92c680bb2a0640d33cd668866b5059cf997ca0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target (#53)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-09** — opened PR [#1255](https://api.github.com/repos/square/moshi/pulls/1255) to [square/moshi](https://api.github.com/repos/square/moshi): "Use pull_request_target"
 
 **2020-10-09** — pushed [`0b5e29f5`](https://github.com/ZacSweers/moshi/commit/0b5e29f5802573bf2357dbc55757bd22502bbecf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use pull_request_target"
-
-**2020-10-09** — opened PR [#53](https://api.github.com/repos/ZacSweers/MoshiX/pulls/53) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target"
-
-**2020-10-09** — created branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-09** — opened PR [#996](https://api.github.com/repos/square/kotlinpoet/pulls/996) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use pull_request_target"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
