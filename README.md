@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-08** — commented on [#994](https://github.com/square/kotlinpoet/pull/994#issuecomment-705932833) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-10-08** — opened issue [#49](https://api.github.com/repos/rtCamp/action-slack-notify/issues/49) on [rtCamp/action-slack-notify](https://api.github.com/repos/rtCamp/action-slack-notify): "Feature request - customize github actor"
 
 **2020-10-08** — closed issue [#14740](https://api.github.com/repos/gradle/gradle/issues/14740) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Task cacheability should better determine when a task should rerun vs download"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-07** — pushed [`90d33776`](https://github.com/ZacSweers/ticktock/commit/90d33776290ac065e1ff7f557fb2f32b29f58b1d) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update clikt"
 
 **2020-10-07** — pushed [`2520c8de`](https://github.com/ZacSweers/ticktock/commit/2520c8dee64e3e3a341bb1e94773154428c51652) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Use simpler format"
-
-**2020-10-07** — pushed [`af9c6d24`](https://github.com/ZacSweers/ticktock/commit/af9c6d2435a757364091166b5554b19ac7ee9eca) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Put trove4j in the right place"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
