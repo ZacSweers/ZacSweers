@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-10** — commented on [#1160](https://github.com/facebook/flipper/issues/1160#issuecomment-706612144) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
+
 **2020-10-10** — commented on [#52](https://github.com/ZacSweers/MoshiX/issues/52#issuecomment-706589466) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-10** — closed issue [#52](https://api.github.com/repos/ZacSweers/MoshiX/issues/52) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Will this support incremental processing ?"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-09** — closed PR [#14](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/14) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target"
 
 **2020-10-09** — deleted branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-09** — pushed [`8a92c680`](https://github.com/ZacSweers/MoshiX/commit/8a92c680bb2a0640d33cd668866b5059cf997ca0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target (#53)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
