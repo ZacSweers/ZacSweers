@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-10** — commented on [#52](https://github.com/ZacSweers/MoshiX/issues/52#issuecomment-706589466) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-10** — closed issue [#52](https://api.github.com/repos/ZacSweers/MoshiX/issues/52) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Will this support incremental processing ?"
+
 **2020-10-09** — deleted branch "z/prtarget" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-09** — pushed [`ad781baf`](https://github.com/slackhq/keeper/commit/ad781baf48c65f8fb69133374dca361af4608f14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use pull_request_target (#63)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-09** — deleted branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-09** — pushed [`8a92c680`](https://github.com/ZacSweers/MoshiX/commit/8a92c680bb2a0640d33cd668866b5059cf997ca0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target (#53)"
-
-**2020-10-09** — closed PR [#53](https://api.github.com/repos/ZacSweers/MoshiX/pulls/53) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target"
-
-**2020-10-09** — commented on [#1255](https://github.com/square/moshi/pull/1255#issuecomment-706345459) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
