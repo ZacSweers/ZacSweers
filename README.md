@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-09** — deleted branch "z/prtarget" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-10-09** — pushed [`ad781baf`](https://github.com/slackhq/keeper/commit/ad781baf48c65f8fb69133374dca361af4608f14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use pull_request_target (#63)"
+
+**2020-10-09** — closed PR [#63](https://api.github.com/repos/slackhq/keeper/pulls/63) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use pull_request_target"
+
 **2020-10-09** — pushed [`a1ee8537`](https://github.com/slackhq/moshi-gson-interop/commit/a1ee85371a3278ca66b17a88042eb7321ef177c2) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target (#14)"
 
 **2020-10-09** — deleted branch "z/prtarget" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-09** — closed PR [#53](https://api.github.com/repos/ZacSweers/MoshiX/pulls/53) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Use pull_request_target"
 
 **2020-10-09** — commented on [#1255](https://github.com/square/moshi/pull/1255#issuecomment-706345459) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-09** — commented on [#996](https://github.com/square/kotlinpoet/pull/996#issuecomment-706345367) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-10-09** — opened PR [#1255](https://api.github.com/repos/square/moshi/pulls/1255) to [square/moshi](https://api.github.com/repos/square/moshi): "Use pull_request_target"
-
-**2020-10-09** — pushed [`0b5e29f5`](https://github.com/ZacSweers/moshi/commit/0b5e29f5802573bf2357dbc55757bd22502bbecf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use pull_request_target"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
