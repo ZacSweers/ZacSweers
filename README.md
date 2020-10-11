@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-11** — deleted branch "z/kspUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-11** — pushed [`c7e08ace`](https://github.com/ZacSweers/MoshiX/commit/c7e08acebe903104ea9fa8da1809599afb734531) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009 (#54)"
+
+**2020-10-11** — closed PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
+
+**2020-10-11** — opened PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
+
+**2020-10-11** — created branch "z/kspUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-11** — commented on [#83](https://github.com/google/ksp/issues/83#issuecomment-706781632) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-10-11** — commented on [#83](https://github.com/google/ksp/issues/83#issuecomment-706779914) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-10-11** — opened issue [#15](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/15) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add builder API"
+
 **2020-10-10** — commented on [#1160](https://github.com/facebook/flipper/issues/1160#issuecomment-706612144) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
 
 **2020-10-10** — commented on [#52](https://github.com/ZacSweers/MoshiX/issues/52#issuecomment-706589466) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-10** — closed issue [#52](https://api.github.com/repos/ZacSweers/MoshiX/issues/52) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Will this support incremental processing ?"
-
-**2020-10-09** — deleted branch "z/prtarget" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-10-09** — pushed [`ad781baf`](https://github.com/slackhq/keeper/commit/ad781baf48c65f8fb69133374dca361af4608f14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use pull_request_target (#63)"
-
-**2020-10-09** — closed PR [#63](https://api.github.com/repos/slackhq/keeper/pulls/63) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use pull_request_target"
-
-**2020-10-09** — pushed [`a1ee8537`](https://github.com/slackhq/moshi-gson-interop/commit/a1ee85371a3278ca66b17a88042eb7321ef177c2) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target (#14)"
-
-**2020-10-09** — deleted branch "z/prtarget" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-09** — closed PR [#14](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/14) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Use pull_request_target"
-
-**2020-10-09** — deleted branch "z/prtarget" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
