@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-12** — deleted branch "z/removeBuildHook" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-12** — pushed [`8e803db9`](https://github.com/slackhq/moshi-gson-interop/commit/8e803db9848468eef676dc0bfb082f5f0765d19a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook (#17)"
+
+**2020-10-12** — closed PR [#17](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/17) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
+
+**2020-10-12** — closed issue [#16](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/16) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
+
 **2020-10-12** — pushed [`259f66a4`](https://github.com/ZacSweers/ZacSweers/commit/259f66a4b3d75b9d55be3f58bfd5e1dc0597bb7d) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update dependencies"
 
 **2020-10-12** — pushed [`f5bf1070`](https://github.com/slackhq/moshi-gson-interop/commit/f5bf107086c246454a40ebfbf9f6aa14bca247e8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-12** — pushed [`6d6b7075`](https://github.com/ZacSweers/MoshiX/commit/6d6b7075db80637ec770b331c4c4edd5d5984400) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add adapters to README"
 
 **2020-10-12** — pushed [`2f173077`](https://github.com/ZacSweers/MoshiX/commit/2f173077038a7342480e63b5ee2d5f8ebdf1de26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweaks"
-
-**2020-10-12** — created tag "0.4.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-10-12** — pushed [`b7a493cf`](https://github.com/ZacSweers/MoshiX/commit/b7a493cf877ca10c3b4f00bf353dcd14e8927625) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed (#56)"
-
-**2020-10-12** — deleted branch "z/objects" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
