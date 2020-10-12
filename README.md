@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-12** — pushed [`b7a493cf`](https://github.com/ZacSweers/MoshiX/commit/b7a493cf877ca10c3b4f00bf353dcd14e8927625) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed (#56)"
+
+**2020-10-12** — deleted branch "z/objects" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-12** — closed PR [#56](https://api.github.com/repos/ZacSweers/MoshiX/pulls/56) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed"
+
+**2020-10-12** — closed issue [#27](https://api.github.com/repos/ZacSweers/MoshiX/issues/27) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Question: objects support?"
+
+**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-10-12** — opened PR [#56](https://api.github.com/repos/ZacSweers/MoshiX/pulls/56) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed"
+
+**2020-10-12** — pushed 4 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2020-10-12** — closed issue [#26](https://api.github.com/repos/ZacSweers/MoshiX/issues/26) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add type information to DefaultObject to improve debugging"
 
 **2020-10-12** — commented on [#26](https://github.com/ZacSweers/MoshiX/issues/26#issuecomment-706871481) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-12** — closed issue [#23](https://api.github.com/repos/ZacSweers/MoshiX/issues/23) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow for Nested Sealed Class"
-
-**2020-10-12** — commented on [#23](https://github.com/ZacSweers/MoshiX/issues/23#issuecomment-706870282) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-12** — created branch "z/objects" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-12** — commented on [#27](https://github.com/ZacSweers/MoshiX/issues/27#issuecomment-706869885) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-12** — opened issue [#55](https://api.github.com/repos/ZacSweers/MoshiX/issues/55) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove Kotlin-reflect dependency from MoshiSealedJsonAdapterFactory"
-
-**2020-10-12** — closed issue [#28](https://api.github.com/repos/ZacSweers/MoshiX/issues/28) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "toJson on a @DefaultObject"
-
-**2020-10-12** — commented on [#28](https://github.com/ZacSweers/MoshiX/issues/28#issuecomment-706869059) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
