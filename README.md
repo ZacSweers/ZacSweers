@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-11** — pushed [`4158eec3`](https://github.com/ZacSweers/MoshiX/commit/4158eec3f4345b55bfcfeb5d3422fb7b4bb4f453) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact (#51)"
+**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-10-11** — deleted branch "z/adapters" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-12** — closed issue [#26](https://api.github.com/repos/ZacSweers/MoshiX/issues/26) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add type information to DefaultObject to improve debugging"
 
-**2020-10-11** — closed PR [#51](https://api.github.com/repos/ZacSweers/MoshiX/pulls/51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact"
+**2020-10-12** — commented on [#26](https://github.com/ZacSweers/MoshiX/issues/26#issuecomment-706871481) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-11** — opened issue [#2143](https://api.github.com/repos/google/dagger/issues/2143) on [google/dagger](https://api.github.com/repos/google/dagger): "Gradle plugin errors out when applying in a compose project"
+**2020-10-12** — closed issue [#23](https://api.github.com/repos/ZacSweers/MoshiX/issues/23) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow for Nested Sealed Class"
 
-**2020-10-11** — opened PR [#255](https://api.github.com/repos/ZacSweers/CatchUp/pulls/255) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose"
+**2020-10-12** — commented on [#23](https://github.com/ZacSweers/MoshiX/issues/23#issuecomment-706870282) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-11** — created branch "z/compose" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+**2020-10-12** — created branch "z/objects" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-11** — deleted branch "z/kspUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-12** — commented on [#27](https://github.com/ZacSweers/MoshiX/issues/27#issuecomment-706869885) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-11** — pushed [`c7e08ace`](https://github.com/ZacSweers/MoshiX/commit/c7e08acebe903104ea9fa8da1809599afb734531) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009 (#54)"
+**2020-10-12** — opened issue [#55](https://api.github.com/repos/ZacSweers/MoshiX/issues/55) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove Kotlin-reflect dependency from MoshiSealedJsonAdapterFactory"
 
-**2020-10-11** — closed PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
+**2020-10-12** — closed issue [#28](https://api.github.com/repos/ZacSweers/MoshiX/issues/28) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "toJson on a @DefaultObject"
 
-**2020-10-11** — opened PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
+**2020-10-12** — commented on [#28](https://github.com/ZacSweers/MoshiX/issues/28#issuecomment-706869059) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
