@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-12** — pushed [`f5bf1070`](https://github.com/slackhq/moshi-gson-interop/commit/f5bf107086c246454a40ebfbf9f6aa14bca247e8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
+
+**2020-10-12** — opened PR [#17](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/17) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
+
+**2020-10-12** — created branch "z/removeBuildHook" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-12** — pushed [`6d6b7075`](https://github.com/ZacSweers/MoshiX/commit/6d6b7075db80637ec770b331c4c4edd5d5984400) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add adapters to README"
+
+**2020-10-12** — pushed [`2f173077`](https://github.com/ZacSweers/MoshiX/commit/2f173077038a7342480e63b5ee2d5f8ebdf1de26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweaks"
+
+**2020-10-12** — created tag "0.4.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2020-10-12** — pushed [`b7a493cf`](https://github.com/ZacSweers/MoshiX/commit/b7a493cf877ca10c3b4f00bf353dcd14e8927625) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed (#56)"
 
 **2020-10-12** — deleted branch "z/objects" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-12** — closed PR [#56](https://api.github.com/repos/ZacSweers/MoshiX/pulls/56) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed"
-
-**2020-10-12** — closed issue [#27](https://api.github.com/repos/ZacSweers/MoshiX/issues/27) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Question: objects support?"
-
-**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-10-12** — opened PR [#56](https://api.github.com/repos/ZacSweers/MoshiX/pulls/56) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add support for object subtypes in moshi-sealed"
-
-**2020-10-12** — pushed 4 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-10-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-10-12** — closed issue [#26](https://api.github.com/repos/ZacSweers/MoshiX/issues/26) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add type information to DefaultObject to improve debugging"
-
-**2020-10-12** — commented on [#26](https://github.com/ZacSweers/MoshiX/issues/26#issuecomment-706871481) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
