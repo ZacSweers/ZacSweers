@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-11** — pushed [`4158eec3`](https://github.com/ZacSweers/MoshiX/commit/4158eec3f4345b55bfcfeb5d3422fb7b4bb4f453) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact (#51)"
+
+**2020-10-11** — deleted branch "z/adapters" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-11** — closed PR [#51](https://api.github.com/repos/ZacSweers/MoshiX/pulls/51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Start moshi-adapters artifact"
+
 **2020-10-11** — opened issue [#2143](https://api.github.com/repos/google/dagger/issues/2143) on [google/dagger](https://api.github.com/repos/google/dagger): "Gradle plugin errors out when applying in a compose project"
 
 **2020-10-11** — opened PR [#255](https://api.github.com/repos/ZacSweers/CatchUp/pulls/255) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-11** — closed PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
 
 **2020-10-11** — opened PR [#54](https://api.github.com/repos/ZacSweers/MoshiX/pulls/54) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201009"
-
-**2020-10-11** — created branch "z/kspUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-11** — commented on [#83](https://github.com/google/ksp/issues/83#issuecomment-706781632) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-10-11** — commented on [#83](https://github.com/google/ksp/issues/83#issuecomment-706779914) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
