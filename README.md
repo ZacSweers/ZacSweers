@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-13** — commented on [#514](https://github.com/square/kotlinpoet/pull/514#issuecomment-707953337) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-10-13** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-707550255) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2020-10-12** — pushed [`f1903fbb`](https://github.com/slackhq/moshi-gson-interop/commit/f1903fbb39d067e3848d9b97cbb1205027bd5d3c) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update JUnit to 4.13.1 (#18)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-12** — pushed [`8e803db9`](https://github.com/slackhq/moshi-gson-interop/commit/8e803db9848468eef676dc0bfb082f5f0765d19a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook (#17)"
 
 **2020-10-12** — closed PR [#17](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/17) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
-
-**2020-10-12** — closed issue [#16](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/16) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
