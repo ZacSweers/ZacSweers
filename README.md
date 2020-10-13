@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-12** — pushed [`f1903fbb`](https://github.com/slackhq/moshi-gson-interop/commit/f1903fbb39d067e3848d9b97cbb1205027bd5d3c) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update JUnit to 4.13.1 (#18)"
+
+**2020-10-12** — deleted branch "z/junit4131" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-12** — closed PR [#18](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/18) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update JUnit to 4.13.1"
+
+**2020-10-12** — opened PR [#18](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/18) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update JUnit to 4.13.1"
+
+**2020-10-12** — created branch "z/junit4131" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
 **2020-10-12** — deleted branch "z/removeBuildHook" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-10-12** — pushed [`8e803db9`](https://github.com/slackhq/moshi-gson-interop/commit/8e803db9848468eef676dc0bfb082f5f0765d19a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook (#17)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-12** — closed issue [#16](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/16) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
 
 **2020-10-12** — pushed [`259f66a4`](https://github.com/ZacSweers/ZacSweers/commit/259f66a4b3d75b9d55be3f58bfd5e1dc0597bb7d) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update dependencies"
-
-**2020-10-12** — pushed [`f5bf1070`](https://github.com/slackhq/moshi-gson-interop/commit/f5bf107086c246454a40ebfbf9f6aa14bca247e8) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
-
-**2020-10-12** — opened PR [#17](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/17) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook"
-
-**2020-10-12** — created branch "z/removeBuildHook" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-12** — pushed [`6d6b7075`](https://github.com/ZacSweers/MoshiX/commit/6d6b7075db80637ec770b331c4c4edd5d5984400) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add adapters to README"
-
-**2020-10-12** — pushed [`2f173077`](https://github.com/ZacSweers/MoshiX/commit/2f173077038a7342480e63b5ee2d5f8ebdf1de26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweaks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
