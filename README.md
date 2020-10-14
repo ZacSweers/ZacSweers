@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-14** — opened PR [#2](https://api.github.com/repos/eskatos/kt-1.4-zac-issue/pulls/2) to [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue): "Demo 6.8-milestone-1 DSL issues"
+
 **2020-10-14** — created branch "z/new68issues" on [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue)
 
 **2020-10-13** — commented on [#514](https://github.com/square/kotlinpoet/pull/514#issuecomment-707953337) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-12** — created branch "z/junit4131" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-10-12** — deleted branch "z/removeBuildHook" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-10-12** — pushed [`8e803db9`](https://github.com/slackhq/moshi-gson-interop/commit/8e803db9848468eef676dc0bfb082f5f0765d19a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Remove moshiBuildHook (#17)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
