@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-16** — commented on [#1001](https://github.com/square/kotlinpoet/issues/1001#issuecomment-710731561) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-10-16** — commented on [#1259](https://github.com/square/moshi/issues/1259#issuecomment-710714141) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-15** — commented on [#998](https://github.com/square/kotlinpoet/issues/998#issuecomment-708907522) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-15** — pushed [`644c9834`](https://github.com/ZacSweers/moshi/commit/644c983484593a572e68f2e3e464edb9394a95d1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Enable explicit API mode in non-example kotlin projects"
 
 **2020-10-15** — created branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-15** — pushed [`9c2cd7a3`](https://github.com/ZacSweers/moshi/commit/9c2cd7a37b1762527878fd20fc943bb9b6186f3d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use pull_request_target (#1255)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
