@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-17** — opened issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
+
+**2020-10-17** — opened PR [#256](https://api.github.com/repos/ZacSweers/CatchUp/pulls/256) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Adopt androidx paging"
+
+**2020-10-17** — pushed 62 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2020-10-16** — commented on [#1001](https://github.com/square/kotlinpoet/issues/1001#issuecomment-710731561) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-16** — commented on [#1259](https://github.com/square/moshi/issues/1259#issuecomment-710714141) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-15** — created branch "z/okio9" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-10-15** — opened PR [#1257](https://api.github.com/repos/square/moshi/pulls/1257) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration"
-
-**2020-10-15** — pushed [`4ec9c8fe`](https://github.com/ZacSweers/moshi/commit/4ec9c8feb96bdb8559a81515983ddb44045f3beb) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove now-unused stdlib dep"
-
-**2020-10-15** — pushed [`644c9834`](https://github.com/ZacSweers/moshi/commit/644c983484593a572e68f2e3e464edb9394a95d1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Enable explicit API mode in non-example kotlin projects"
-
-**2020-10-15** — created branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
