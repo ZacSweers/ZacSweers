@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-17** — opened issue [#41](https://api.github.com/repos/saket/InboxRecyclerView/issues/41) on [saket/InboxRecyclerView](https://api.github.com/repos/saket/InboxRecyclerView): "Feature request: Add an option to disable stable IDs requirement "
+
 **2020-10-17** — opened issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
 
 **2020-10-17** — opened PR [#256](https://api.github.com/repos/ZacSweers/CatchUp/pulls/256) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Adopt androidx paging"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-15** — opened PR [#1258](https://api.github.com/repos/square/moshi/pulls/1258) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
 
 **2020-10-15** — created branch "z/okio9" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2020-10-15** — opened PR [#1257](https://api.github.com/repos/square/moshi/pulls/1257) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
