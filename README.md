@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-16** — commented on [#1259](https://github.com/square/moshi/issues/1259#issuecomment-710714141) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-15** — commented on [#998](https://github.com/square/kotlinpoet/issues/998#issuecomment-708907522) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-15** — pushed [`b3e94405`](https://github.com/ZacSweers/moshi/commit/b3e94405680f5121506b91ee0dc184534f21f079) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update to Gradle 6.7"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-15** — created branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2020-10-15** — pushed [`9c2cd7a3`](https://github.com/ZacSweers/moshi/commit/9c2cd7a37b1762527878fd20fc943bb9b6186f3d) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use pull_request_target (#1255)"
-
-**2020-10-14** — opened PR [#2](https://api.github.com/repos/eskatos/kt-1.4-zac-issue/pulls/2) to [eskatos/kt-1.4-zac-issue](https://api.github.com/repos/eskatos/kt-1.4-zac-issue): "Demo 6.8-milestone-1 DSL issues"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
