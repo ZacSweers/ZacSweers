@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-17** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-17** — pushed [`9dee0023`](https://github.com/ZacSweers/ticktock/commit/9dee0023cc97fb8b43232d345f0e87e716e2c6b4) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c (#39)"
+
+**2020-10-17** — closed PR [#39](https://api.github.com/repos/ZacSweers/ticktock/pulls/39) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c"
+
 **2020-10-17** — closed issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
 
 **2020-10-17** — commented on [#257](https://github.com/ZacSweers/CatchUp/issues/257#issuecomment-711097200) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-17** — pushed 62 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-10-16** — commented on [#1001](https://github.com/square/kotlinpoet/issues/1001#issuecomment-710731561) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-10-16** — commented on [#1259](https://github.com/square/moshi/issues/1259#issuecomment-710714141) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-15** — commented on [#998](https://github.com/square/kotlinpoet/issues/998#issuecomment-708907522) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-10-15** — pushed [`b3e94405`](https://github.com/ZacSweers/moshi/commit/b3e94405680f5121506b91ee0dc184534f21f079) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update to Gradle 6.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
