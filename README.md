@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-17** — closed issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
+
+**2020-10-17** — commented on [#257](https://github.com/ZacSweers/CatchUp/issues/257#issuecomment-711097200) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2020-10-17** — opened issue [#41](https://api.github.com/repos/saket/InboxRecyclerView/issues/41) on [saket/InboxRecyclerView](https://api.github.com/repos/saket/InboxRecyclerView): "Feature request: Add an option to disable stable IDs requirement "
 
 **2020-10-17** — opened issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-15** — commented on [#998](https://github.com/square/kotlinpoet/issues/998#issuecomment-708907522) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-15** — pushed [`b3e94405`](https://github.com/ZacSweers/moshi/commit/b3e94405680f5121506b91ee0dc184534f21f079) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update to Gradle 6.7"
-
-**2020-10-15** — opened PR [#1258](https://api.github.com/repos/square/moshi/pulls/1258) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
-
-**2020-10-15** — created branch "z/okio9" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
