@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-19** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712315024) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-10-18** — pushed [`e6746687`](https://github.com/ZacSweers/CatchUp/commit/e6746687b9217282c551480d5ef723bcb089ccff) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix version"
 
 **2020-10-18** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-17** — pushed [`9dee0023`](https://github.com/ZacSweers/ticktock/commit/9dee0023cc97fb8b43232d345f0e87e716e2c6b4) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c (#39)"
 
 **2020-10-17** — closed PR [#39](https://api.github.com/repos/ZacSweers/ticktock/pulls/39) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c"
-
-**2020-10-17** — closed issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
