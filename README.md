@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-18** — pushed [`e6746687`](https://github.com/ZacSweers/CatchUp/commit/e6746687b9217282c551480d5ef723bcb089ccff) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix version"
+
 **2020-10-18** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-10-18** — closed issue [#2143](https://api.github.com/repos/google/dagger/issues/2143) on [google/dagger](https://api.github.com/repos/google/dagger): "Gradle plugin errors out when applying in a compose project"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-17** — closed PR [#39](https://api.github.com/repos/ZacSweers/ticktock/pulls/39) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c"
 
 **2020-10-17** — closed issue [#257](https://api.github.com/repos/ZacSweers/CatchUp/issues/257) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use string placeholders in unsplash"
-
-**2020-10-17** — commented on [#257](https://github.com/ZacSweers/CatchUp/issues/257#issuecomment-711097200) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
