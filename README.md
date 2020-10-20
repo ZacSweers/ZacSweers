@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-20** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712619641) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-10-19** — pushed [`d617804d`](https://github.com/ZacSweers/CatchUp/commit/d617804dc295791d8103af3eda6283bdcbb7f6e8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update README"
 
 **2020-10-19** — commented on [#146](https://github.com/ZacSweers/CatchUp/issues/146#issuecomment-712525043) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-19** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 
 **2020-10-19** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712315024) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-10-18** — pushed [`e6746687`](https://github.com/ZacSweers/CatchUp/commit/e6746687b9217282c551480d5ef723bcb089ccff) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
