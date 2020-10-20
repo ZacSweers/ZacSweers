@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-20** — commented on [#126](https://github.com/google/ksp/issues/126#issuecomment-713118756) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-10-20** — pushed [`3cccb48e`](https://github.com/slackhq/EitherNet/commit/3cccb48e98629231afc1d3fb543ecd6d2766d18a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Suppress detekt thing"
+
+**2020-10-20** — opened PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
+
+**2020-10-20** — opened issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
+
+**2020-10-20** — pushed [`179efd97`](https://github.com/slackhq/EitherNet/commit/179efd9724d6788121acc421114687054c9b4cbf) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Restore description"
+
+**2020-10-20** — pushed [`c6c79d17`](https://github.com/slackhq/EitherNet/commit/c6c79d176b0148b9c73005d522d5c3fb110db528) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix CoC description"
+
+**2020-10-20** — created branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-10-20** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-712709986) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-20** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712708718) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-20** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712619641) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-19** — pushed [`d617804d`](https://github.com/ZacSweers/CatchUp/commit/d617804dc295791d8103af3eda6283bdcbb7f6e8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update README"
-
-**2020-10-19** — commented on [#146](https://github.com/ZacSweers/CatchUp/issues/146#issuecomment-712525043) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-10-19** — closed issue [#258](https://api.github.com/repos/ZacSweers/CatchUp/issues/258) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Heads up! This app is not actively published on the play store"
-
-**2020-10-19** — opened issue [#258](https://api.github.com/repos/ZacSweers/CatchUp/issues/258) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Heads up! This app is not actively published on the play store"
-
-**2020-10-19** — closed issue [#146](https://api.github.com/repos/ZacSweers/CatchUp/issues/146) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "The app cannot be found on Play store"
-
-**2020-10-19** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712516793) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-19** — created tag "0.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
