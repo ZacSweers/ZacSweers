@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-19** — pushed [`d617804d`](https://github.com/ZacSweers/CatchUp/commit/d617804dc295791d8103af3eda6283bdcbb7f6e8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update README"
+
+**2020-10-19** — commented on [#146](https://github.com/ZacSweers/CatchUp/issues/146#issuecomment-712525043) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-10-19** — closed issue [#258](https://api.github.com/repos/ZacSweers/CatchUp/issues/258) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Heads up! This app is not actively published on the play store"
+
+**2020-10-19** — opened issue [#258](https://api.github.com/repos/ZacSweers/CatchUp/issues/258) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Heads up! This app is not actively published on the play store"
+
+**2020-10-19** — closed issue [#146](https://api.github.com/repos/ZacSweers/CatchUp/issues/146) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "The app cannot be found on Play store"
+
+**2020-10-19** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712516793) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-19** — created tag "0.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-19** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
 **2020-10-19** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712315024) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-10-18** — pushed [`e6746687`](https://github.com/ZacSweers/CatchUp/commit/e6746687b9217282c551480d5ef723bcb089ccff) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix version"
-
-**2020-10-18** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-10-18** — closed issue [#2143](https://api.github.com/repos/google/dagger/issues/2143) on [google/dagger](https://api.github.com/repos/google/dagger): "Gradle plugin errors out when applying in a compose project"
-
-**2020-10-18** — commented on [#2143](https://github.com/google/dagger/issues/2143#issuecomment-711425753) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2020-10-18** — pushed 4 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-10-18** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-10-17** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-17** — pushed [`9dee0023`](https://github.com/ZacSweers/ticktock/commit/9dee0023cc97fb8b43232d345f0e87e716e2c6b4) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c (#39)"
-
-**2020-10-17** — closed PR [#39](https://api.github.com/repos/ZacSweers/ticktock/pulls/39) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2020c"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
