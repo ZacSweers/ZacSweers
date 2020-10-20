@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-20** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-712709986) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-10-20** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712708718) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-10-20** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712619641) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-19** — pushed [`d617804d`](https://github.com/ZacSweers/CatchUp/commit/d617804dc295791d8103af3eda6283bdcbb7f6e8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update README"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-19** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712516793) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-19** — created tag "0.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-19** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2020-10-19** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712315024) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
