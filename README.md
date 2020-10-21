@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-21** — pushed [`60e9356c`](https://github.com/slackhq/EitherNet/commit/60e9356c1be32514503fdf868413e8e36174b216) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix UnknownFailure in README"
+
+**2020-10-21** — pushed [`ce5e75d0`](https://github.com/slackhq/EitherNet/commit/ce5e75d03fbac102a07f86d90cbb7c39d77d5453) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update src/main/java/com/slack/eithernet/Annotations.kt"
+
+**2020-10-21** — pushed [`05c77a32`](https://github.com/slackhq/EitherNet/commit/05c77a32d2ca2af7216d58fc94d264a80ff26cf4) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update README.md"
+
+**2020-10-21** — pushed [`2a47c1eb`](https://github.com/slackhq/EitherNet/commit/2a47c1eb8a4d098ef613962db4d6a431bcb84823) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update README.md"
+
 **2020-10-21** — commented on [#1260](https://github.com/square/moshi/issues/1260#issuecomment-713718273) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-21** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-20** — opened PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
 
 **2020-10-20** — opened issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
-
-**2020-10-20** — pushed [`179efd97`](https://github.com/slackhq/EitherNet/commit/179efd9724d6788121acc421114687054c9b4cbf) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Restore description"
-
-**2020-10-20** — pushed [`c6c79d17`](https://github.com/slackhq/EitherNet/commit/c6c79d176b0148b9c73005d522d5c3fb110db528) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix CoC description"
-
-**2020-10-20** — created branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-20** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-712709986) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
