@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-21** — opened PR [#40](https://api.github.com/repos/ZacSweers/ticktock/pulls/40) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d"
+
+**2020-10-21** — created branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
 **2020-10-21** — pushed [`60e9356c`](https://github.com/slackhq/EitherNet/commit/60e9356c1be32514503fdf868413e8e36174b216) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix UnknownFailure in README"
 
 **2020-10-21** — pushed [`ce5e75d0`](https://github.com/slackhq/EitherNet/commit/ce5e75d03fbac102a07f86d90cbb7c39d77d5453) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update src/main/java/com/slack/eithernet/Annotations.kt"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-20** — commented on [#126](https://github.com/google/ksp/issues/126#issuecomment-713118756) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2020-10-20** — pushed [`3cccb48e`](https://github.com/slackhq/EitherNet/commit/3cccb48e98629231afc1d3fb543ecd6d2766d18a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Suppress detekt thing"
-
-**2020-10-20** — opened PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
-
-**2020-10-20** — opened issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
