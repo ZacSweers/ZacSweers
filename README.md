@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-21** — commented on [#1260](https://github.com/square/moshi/issues/1260#issuecomment-713718273) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-21** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-10-20** — commented on [#126](https://github.com/google/ksp/issues/126#issuecomment-713118756) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-20** — created branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-20** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-712709986) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-20** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712708718) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
