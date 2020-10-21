@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-21** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2020-10-20** — commented on [#126](https://github.com/google/ksp/issues/126#issuecomment-713118756) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2020-10-20** — pushed [`3cccb48e`](https://github.com/slackhq/EitherNet/commit/3cccb48e98629231afc1d3fb543ecd6d2766d18a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Suppress detekt thing"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-20** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-712709986) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-20** — commented on [#1008](https://github.com/square/kotlinpoet/pull/1008#issuecomment-712708718) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-10-20** — commented on [#6](https://github.com/slackhq/EitherNet/issues/6#issuecomment-712619641) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
