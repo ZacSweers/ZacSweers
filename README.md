@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — deleted branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-22** — pushed [`215a0333`](https://github.com/ZacSweers/ticktock/commit/215a0333123580bc7eaa01148416ad8c185c02d8) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d (#40)"
+
+**2020-10-22** — closed PR [#40](https://api.github.com/repos/ZacSweers/ticktock/pulls/40) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d"
+
+**2020-10-22** — pushed [`53c2e022`](https://github.com/slackhq/EitherNet/commit/53c2e02292b17b48019139305f0ec6d1d782db95) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses (#12)"
+
+**2020-10-22** — deleted branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-22** — closed PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
+
+**2020-10-22** — closed issue [#6](https://api.github.com/repos/slackhq/EitherNet/issues/6) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "(how) should we handle error bodies in 4xx responses?"
+
 **2020-10-21** — commented on [#12](https://github.com/uber/RxDogTag/issues/12#issuecomment-714052225) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2020-10-21** — closed issue [#56](https://api.github.com/repos/uber/RxDogTag/issues/56) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Version 2.0.0 Tracking Issue"
 
 **2020-10-21** — commented on [#56](https://github.com/uber/RxDogTag/issues/56#issuecomment-714050535) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-21** — commented on [#67](https://github.com/uber/RxDogTag/pull/67#issuecomment-714049674) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-21** — opened PR [#67](https://api.github.com/repos/uber/RxDogTag/pulls/67) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility"
-
-**2020-10-21** — created branch "z/updatedRules" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-21** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2020-10-21** — opened PR [#40](https://api.github.com/repos/ZacSweers/ticktock/pulls/40) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d"
-
-**2020-10-21** — created branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-21** — pushed [`60e9356c`](https://github.com/slackhq/EitherNet/commit/60e9356c1be32514503fdf868413e8e36174b216) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix UnknownFailure in README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
