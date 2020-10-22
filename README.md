@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — created tag "0.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-22** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
+**2020-10-22** — pushed [`cb68c7df`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/cb68c7df77064448a8d9971a4c1321bf712ca6e6) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Mention IR"
+
 **2020-10-22** — deleted branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-22** — pushed [`215a0333`](https://github.com/ZacSweers/ticktock/commit/215a0333123580bc7eaa01148416ad8c185c02d8) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d (#40)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — closed PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
 
 **2020-10-22** — closed issue [#6](https://api.github.com/repos/slackhq/EitherNet/issues/6) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "(how) should we handle error bodies in 4xx responses?"
-
-**2020-10-21** — commented on [#12](https://github.com/uber/RxDogTag/issues/12#issuecomment-714052225) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-21** — closed issue [#56](https://api.github.com/repos/uber/RxDogTag/issues/56) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Version 2.0.0 Tracking Issue"
-
-**2020-10-21** — commented on [#56](https://github.com/uber/RxDogTag/issues/56#issuecomment-714050535) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
