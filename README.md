@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — closed issue [#255](https://api.github.com/repos/rharter/auto-value-gson/issues/255) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "What dependency AutoValue annotation is in ?"
+
+**2020-10-22** — commented on [#255](https://github.com/rharter/auto-value-gson/issues/255#issuecomment-714813458) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
+
+**2020-10-22** — deleted branch "z/updatedRules" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2020-10-22** — pushed [`cb566073`](https://github.com/uber/RxDogTag/commit/cb5660737803bc36ae86cdf4d98b8fd4938b0673) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility (#67)"
+
+**2020-10-22** — closed PR [#67](https://api.github.com/repos/uber/RxDogTag/pulls/67) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility"
+
+**2020-10-22** — closed issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
+
 **2020-10-22** — pushed [`b64fedf3`](https://github.com/slackhq/EitherNet/commit/b64fedf3570ca93930cb0f5ade569ea45c8f4ab5) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix link"
 
 **2020-10-22** — pushed [`c0364db8`](https://github.com/slackhq/EitherNet/commit/c0364db8234eae624bc52ab17eea1efdb859702a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snippets"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — created tag "0.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-22** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2020-10-22** — pushed [`cb68c7df`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/cb68c7df77064448a8d9971a4c1321bf712ca6e6) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Mention IR"
-
-**2020-10-22** — deleted branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-22** — pushed [`215a0333`](https://github.com/ZacSweers/ticktock/commit/215a0333123580bc7eaa01148416ad8c185c02d8) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d (#40)"
-
-**2020-10-22** — closed PR [#40](https://api.github.com/repos/ZacSweers/ticktock/pulls/40) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d"
-
-**2020-10-22** — pushed [`53c2e022`](https://github.com/slackhq/EitherNet/commit/53c2e02292b17b48019139305f0ec6d1d782db95) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses (#12)"
-
-**2020-10-22** — deleted branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
