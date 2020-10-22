@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — pushed [`b64fedf3`](https://github.com/slackhq/EitherNet/commit/b64fedf3570ca93930cb0f5ade569ea45c8f4ab5) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix link"
+
+**2020-10-22** — pushed [`c0364db8`](https://github.com/slackhq/EitherNet/commit/c0364db8234eae624bc52ab17eea1efdb859702a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snippets"
+
 **2020-10-22** — created tag "0.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-22** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — pushed [`53c2e022`](https://github.com/slackhq/EitherNet/commit/53c2e02292b17b48019139305f0ec6d1d782db95) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses (#12)"
 
 **2020-10-22** — deleted branch "z/errorBodies" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-22** — closed PR [#12](https://api.github.com/repos/slackhq/EitherNet/pulls/12) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add support for converting error bodies in HTTP 4xx responses"
-
-**2020-10-22** — closed issue [#6](https://api.github.com/repos/slackhq/EitherNet/issues/6) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "(how) should we handle error bodies in 4xx responses?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
