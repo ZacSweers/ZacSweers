@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-21** — commented on [#12](https://github.com/uber/RxDogTag/issues/12#issuecomment-714052225) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2020-10-21** — closed issue [#56](https://api.github.com/repos/uber/RxDogTag/issues/56) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Version 2.0.0 Tracking Issue"
+
+**2020-10-21** — commented on [#56](https://github.com/uber/RxDogTag/issues/56#issuecomment-714050535) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2020-10-21** — commented on [#67](https://github.com/uber/RxDogTag/pull/67#issuecomment-714049674) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2020-10-21** — opened PR [#67](https://api.github.com/repos/uber/RxDogTag/pulls/67) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility"
+
+**2020-10-21** — created branch "z/updatedRules" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2020-10-21** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
 **2020-10-21** — opened PR [#40](https://api.github.com/repos/ZacSweers/ticktock/pulls/40) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2020d"
 
 **2020-10-21** — created branch "z/2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-21** — pushed [`60e9356c`](https://github.com/slackhq/EitherNet/commit/60e9356c1be32514503fdf868413e8e36174b216) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix UnknownFailure in README"
-
-**2020-10-21** — pushed [`ce5e75d0`](https://github.com/slackhq/EitherNet/commit/ce5e75d03fbac102a07f86d90cbb7c39d77d5453) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update src/main/java/com/slack/eithernet/Annotations.kt"
-
-**2020-10-21** — pushed [`05c77a32`](https://github.com/slackhq/EitherNet/commit/05c77a32d2ca2af7216d58fc94d264a80ff26cf4) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update README.md"
-
-**2020-10-21** — pushed [`2a47c1eb`](https://github.com/slackhq/EitherNet/commit/2a47c1eb8a4d098ef613962db4d6a431bcb84823) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update README.md"
-
-**2020-10-21** — commented on [#1260](https://github.com/square/moshi/issues/1260#issuecomment-713718273) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-21** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-10-20** — commented on [#126](https://github.com/google/ksp/issues/126#issuecomment-713118756) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-10-20** — pushed [`3cccb48e`](https://github.com/slackhq/EitherNet/commit/3cccb48e98629231afc1d3fb543ecd6d2766d18a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Suppress detekt thing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
