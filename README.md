@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-23** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-714918888) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-23** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-714902475) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-22** — opened issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — commented on [#255](https://github.com/rharter/auto-value-gson/issues/255#issuecomment-714813458) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
 
 **2020-10-22** — deleted branch "z/updatedRules" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-22** — pushed [`cb566073`](https://github.com/uber/RxDogTag/commit/cb5660737803bc36ae86cdf4d98b8fd4938b0673) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility (#67)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
