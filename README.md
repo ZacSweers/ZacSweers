@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — closed issue [#13](https://api.github.com/repos/slackhq/EitherNet/issues/13) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG]"
+
 **2020-10-22** — closed issue [#255](https://api.github.com/repos/rharter/auto-value-gson/issues/255) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "What dependency AutoValue annotation is in ?"
 
 **2020-10-22** — commented on [#255](https://github.com/rharter/auto-value-gson/issues/255#issuecomment-714813458) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — pushed [`c0364db8`](https://github.com/slackhq/EitherNet/commit/c0364db8234eae624bc52ab17eea1efdb859702a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snippets"
 
 **2020-10-22** — created tag "0.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-22** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
