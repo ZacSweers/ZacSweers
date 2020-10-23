@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-23** — commented on [#1261](https://github.com/square/moshi/issues/1261#issuecomment-715554610) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-23** — closed issue [#64](https://api.github.com/repos/slackhq/keeper/issues/64) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "AssertionError in inferDebugAndroidTestKeepRulesForKeeper task"
 
 **2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715494122) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — pushed [`6f8cb04d`](https://github.com/ZacSweers/json-serialization-benchmarking/commit/6f8cb04d1091de5b813243aa1e1b042fbf31338e) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10 (#12)"
 
 **2020-10-22** — closed PR [#12](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/pulls/12) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10"
-
-**2020-10-22** — commented on [#12](https://github.com/ZacSweers/json-serialization-benchmarking/pull/12#issuecomment-714861404) in [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
