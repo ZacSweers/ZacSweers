@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — opened issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
+
 **2020-10-22** — pushed [`6f8cb04d`](https://github.com/ZacSweers/json-serialization-benchmarking/commit/6f8cb04d1091de5b813243aa1e1b042fbf31338e) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10 (#12)"
 
 **2020-10-22** — closed PR [#12](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/pulls/12) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — pushed [`cb566073`](https://github.com/uber/RxDogTag/commit/cb5660737803bc36ae86cdf4d98b8fd4938b0673) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility (#67)"
 
 **2020-10-22** — closed PR [#67](https://api.github.com/repos/uber/RxDogTag/pulls/67) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility"
-
-**2020-10-22** — closed issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
