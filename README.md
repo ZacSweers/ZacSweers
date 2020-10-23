@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-23** — closed issue [#64](https://api.github.com/repos/slackhq/keeper/issues/64) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "AssertionError in inferDebugAndroidTestKeepRulesForKeeper task"
+
+**2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715494122) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715462790) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715433272) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — closed PR [#12](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/pulls/12) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10"
 
 **2020-10-22** — commented on [#12](https://github.com/ZacSweers/json-serialization-benchmarking/pull/12#issuecomment-714861404) in [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
-
-**2020-10-22** — closed issue [#13](https://api.github.com/repos/slackhq/EitherNet/issues/13) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG]"
-
-**2020-10-22** — closed issue [#255](https://api.github.com/repos/rharter/auto-value-gson/issues/255) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "What dependency AutoValue annotation is in ?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
