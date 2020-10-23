@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-23** — opened PR [#20](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/20) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README"
+
+**2020-10-23** — created branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-23** — opened PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
+
+**2020-10-23** — created branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-23** — pushed [`bebac99d`](https://github.com/ZacSweers/MoshiX/commit/bebac99dc22bc5dfd0f7e86152c2300b17b52ea9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix more"
+
+**2020-10-23** — pushed [`9b87a4f0`](https://github.com/ZacSweers/MoshiX/commit/9b87a4f0fce9179de6f11b4d8e55e86637b06242) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix badge"
+
 **2020-10-23** — commented on [#1261](https://github.com/square/moshi/issues/1261#issuecomment-715554610) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-23** — closed issue [#64](https://api.github.com/repos/slackhq/keeper/issues/64) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "AssertionError in inferDebugAndroidTestKeepRulesForKeeper task"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715494122) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715462790) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-10-23** — commented on [#64](https://github.com/slackhq/keeper/issues/64#issuecomment-715433272) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-10-23** — commented on [#1081](https://github.com/square/moshi/issues/1081#issuecomment-714918888) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-23** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-714902475) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-22** — opened issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
-
-**2020-10-22** — pushed [`6f8cb04d`](https://github.com/ZacSweers/json-serialization-benchmarking/commit/6f8cb04d1091de5b813243aa1e1b042fbf31338e) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10 (#12)"
-
-**2020-10-22** — closed PR [#12](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/pulls/12) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
