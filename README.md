@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-22** — pushed [`6f8cb04d`](https://github.com/ZacSweers/json-serialization-benchmarking/commit/6f8cb04d1091de5b813243aa1e1b042fbf31338e) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10 (#12)"
+
+**2020-10-22** — closed PR [#12](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/pulls/12) to [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "Migrated kotlinx.serialization to 1.0.0 and Kotlin to 1.4.10"
+
+**2020-10-22** — commented on [#12](https://github.com/ZacSweers/json-serialization-benchmarking/pull/12#issuecomment-714861404) in [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
+
 **2020-10-22** — closed issue [#13](https://api.github.com/repos/slackhq/EitherNet/issues/13) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG]"
 
 **2020-10-22** — closed issue [#255](https://api.github.com/repos/rharter/auto-value-gson/issues/255) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "What dependency AutoValue annotation is in ?"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-22** — closed PR [#67](https://api.github.com/repos/uber/RxDogTag/pulls/67) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Update Proguard Rules for better R8 compatibility"
 
 **2020-10-22** — closed issue [#66](https://api.github.com/repos/uber/RxDogTag/issues/66) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "R8 inlines RxDogTag (the class) entirely, breaking some of its assumptions about call stacks"
-
-**2020-10-22** — pushed [`b64fedf3`](https://github.com/slackhq/EitherNet/commit/b64fedf3570ca93930cb0f5ade569ea45c8f4ab5) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix link"
-
-**2020-10-22** — pushed [`c0364db8`](https://github.com/slackhq/EitherNet/commit/c0364db8234eae624bc52ab17eea1efdb859702a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snippets"
-
-**2020-10-22** — created tag "0.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
