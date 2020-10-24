@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-23** — pushed [`fd55c987`](https://github.com/slackhq/moshi-gson-interop/commit/fd55c9878c10a764b40452a3cc7637ac117cfeeb) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README (#20)"
+
+**2020-10-23** — deleted branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-10-23** — closed PR [#20](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/20) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README"
+
+**2020-10-23** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-715668979) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-10-23** — created tag "0.2.1" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-23** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-23** — opened PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
 
 **2020-10-23** — created branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-23** — pushed [`bebac99d`](https://github.com/ZacSweers/MoshiX/commit/bebac99dc22bc5dfd0f7e86152c2300b17b52ea9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix more"
-
-**2020-10-23** — pushed [`9b87a4f0`](https://github.com/ZacSweers/MoshiX/commit/9b87a4f0fce9179de6f11b4d8e55e86637b06242) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix badge"
-
-**2020-10-23** — commented on [#1261](https://github.com/square/moshi/issues/1261#issuecomment-715554610) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-23** — closed issue [#64](https://api.github.com/repos/slackhq/keeper/issues/64) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "AssertionError in inferDebugAndroidTestKeepRulesForKeeper task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
