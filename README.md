@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716094108) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716102180) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-23** — pushed [`fd55c987`](https://github.com/slackhq/moshi-gson-interop/commit/fd55c9878c10a764b40452a3cc7637ac117cfeeb) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README (#20)"
+**2020-10-25** — opened PR [#60](https://api.github.com/repos/ZacSweers/MoshiX/pulls/60) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests"
 
-**2020-10-23** — deleted branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+**2020-10-25** — pushed [`ee3954ca`](https://github.com/ZacSweers/MoshiX/commit/ee3954ca56937e00ab771bb68a1ea99fd71f5759) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update test libs"
 
-**2020-10-23** — closed PR [#20](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/20) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README"
+**2020-10-25** — created branch "z/moreTests" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-23** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-715668979) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2020-10-25** — pushed [`9166c5db`](https://github.com/ZacSweers/MoshiX/commit/9166c5dbd1d468c4bbf311adac9a30e55692ea6d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate Proguard rules file for sealed classes and their adapters (#58)"
 
-**2020-10-23** — created tag "0.2.1" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2020-10-25** — closed PR [#58](https://api.github.com/repos/ZacSweers/MoshiX/pulls/58) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate Proguard rules file for sealed classes and their adapters"
 
-**2020-10-23** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716099702) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-23** — opened PR [#20](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/20) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README"
+**2020-10-25** — pushed [`d68f72ca`](https://github.com/ZacSweers/MoshiX/commit/d68f72ca153c2a5a1540bf98ec9b26c6a7421634) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP + use asMemberOf (#59)"
 
-**2020-10-23** — created branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+**2020-10-25** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-23** — opened PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
+**2020-10-25** — closed PR [#59](https://api.github.com/repos/ZacSweers/MoshiX/pulls/59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP + use asMemberOf"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
