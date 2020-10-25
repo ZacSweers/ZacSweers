@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716102180) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-25** — created tag "0.1.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2020-10-25** — opened PR [#60](https://api.github.com/repos/ZacSweers/MoshiX/pulls/60) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests"
+**2020-10-25** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2020-10-25** — pushed [`ee3954ca`](https://github.com/ZacSweers/MoshiX/commit/ee3954ca56937e00ab771bb68a1ea99fd71f5759) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update test libs"
+**2020-10-25** — created tag "0.5.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-25** — created branch "z/moreTests" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-25** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-10-25** — pushed [`9166c5db`](https://github.com/ZacSweers/MoshiX/commit/9166c5dbd1d468c4bbf311adac9a30e55692ea6d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate Proguard rules file for sealed classes and their adapters (#58)"
+**2020-10-25** — pushed [`18b6e328`](https://github.com/ZacSweers/auto-service-ksp/commit/18b6e32866ebae8c97fba2b4727c02fdae7d4c93) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#4)"
 
-**2020-10-25** — closed PR [#58](https://api.github.com/repos/ZacSweers/MoshiX/pulls/58) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate Proguard rules file for sealed classes and their adapters"
+**2020-10-25** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716099702) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-25** — closed PR [#4](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/4) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
-**2020-10-25** — pushed [`d68f72ca`](https://github.com/ZacSweers/MoshiX/commit/d68f72ca153c2a5a1540bf98ec9b26c6a7421634) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP + use asMemberOf (#59)"
+**2020-10-25** — pushed [`81da8342`](https://github.com/ZacSweers/MoshiX/commit/81da83421782963eb2f5571d0c07315a332bec84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests (#60)"
 
-**2020-10-25** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-25** — deleted branch "z/moreTests" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-10-25** — closed PR [#59](https://api.github.com/repos/ZacSweers/MoshiX/pulls/59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP + use asMemberOf"
+**2020-10-25** — closed PR [#60](https://api.github.com/repos/ZacSweers/MoshiX/pulls/60) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
