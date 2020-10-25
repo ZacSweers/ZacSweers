@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-25** — commented on [#58](https://github.com/ZacSweers/MoshiX/pull/58#issuecomment-716094108) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-10-23** — pushed [`fd55c987`](https://github.com/slackhq/moshi-gson-interop/commit/fd55c9878c10a764b40452a3cc7637ac117cfeeb) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add maven central badge to README (#20)"
 
 **2020-10-23** — deleted branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-23** — created branch "z/centralBadge" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-10-23** — opened PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
-
-**2020-10-23** — created branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
