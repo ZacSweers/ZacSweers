@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-25** — created tag "0.1.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2020-10-26** — pushed [`786fbba4`](https://github.com/uber/RxDogTag/commit/786fbba4ddee63d3a15ecfb9f9e569f0c39fbf6e) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix version"
 
-**2020-10-25** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+**2020-10-26** — pushed [`ef5f1899`](https://github.com/uber/RxDogTag/commit/ef5f18996c858ffbee4651830e6f1ab39fbec880) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Nevermind the emojis don't look great"
 
-**2020-10-25** — created tag "0.5.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-26** — pushed [`8f243a70`](https://github.com/uber/RxDogTag/commit/8f243a70fcab3e1226ce284c53e6ac23b8e72825) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add more emojis"
 
-**2020-10-25** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-10-26** — pushed [`3b2e92bc`](https://github.com/uber/RxDogTag/commit/3b2e92bc6f4cfdd6aac63b0ff185dc048b3e3c74) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Deployed f5901cb with MkDocs version: 1.1.2"
 
-**2020-10-25** — pushed [`18b6e328`](https://github.com/ZacSweers/auto-service-ksp/commit/18b6e32866ebae8c97fba2b4727c02fdae7d4c93) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#4)"
+**2020-10-26** — created tag "1.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
-**2020-10-25** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2020-10-26** — created branch "1.x" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
-**2020-10-25** — closed PR [#4](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/4) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
+**2020-10-26** — created tag "2.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
-**2020-10-25** — pushed [`81da8342`](https://github.com/ZacSweers/MoshiX/commit/81da83421782963eb2f5571d0c07315a332bec84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests (#60)"
+**2020-10-26** — pushed 2 commits to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag).
 
-**2020-10-25** — deleted branch "z/moreTests" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-26** — pushed [`85be62a8`](https://github.com/ZacSweers/auto-service-ksp/commit/85be62a8a0408a94fde1d0e503e426781c61bf15) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Add README badge"
 
-**2020-10-25** — closed PR [#60](https://api.github.com/repos/ZacSweers/MoshiX/pulls/60) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beef up sealed codegen tests"
+**2020-10-26** — pushed [`1663291f`](https://github.com/ZacSweers/MoshiX/commit/1663291ff9829f2ccda66e5d820764ecee4b2fd5) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add badges to READMEs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
