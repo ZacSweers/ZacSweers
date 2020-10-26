@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-26** — deleted branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2020-10-26** — pushed [`dabb1546`](https://github.com/slackhq/EitherNet/commit/dabb15467a96d1726c40b509e2a946b245438ec7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README (#15)"
+
+**2020-10-26** — closed PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
+
 **2020-10-26** — pushed [`786fbba4`](https://github.com/uber/RxDogTag/commit/786fbba4ddee63d3a15ecfb9f9e569f0c39fbf6e) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix version"
 
 **2020-10-26** — pushed [`ef5f1899`](https://github.com/uber/RxDogTag/commit/ef5f18996c858ffbee4651830e6f1ab39fbec880) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Nevermind the emojis don't look great"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — created branch "1.x" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2020-10-26** — created tag "2.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-26** — pushed 2 commits to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag).
-
-**2020-10-26** — pushed [`85be62a8`](https://github.com/ZacSweers/auto-service-ksp/commit/85be62a8a0408a94fde1d0e503e426781c61bf15) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Add README badge"
-
-**2020-10-26** — pushed [`1663291f`](https://github.com/ZacSweers/MoshiX/commit/1663291ff9829f2ccda66e5d820764ecee4b2fd5) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add badges to READMEs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
