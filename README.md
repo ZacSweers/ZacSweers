@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-27** — closed issue [#16](https://api.github.com/repos/slackhq/EitherNet/issues/16) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] KotlinNullPointerException when api call returns 204 No Content with null response"
+
+**2020-10-27** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-717552251) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-10-27** — commented on [#2005](https://github.com/ktorio/ktor/pull/2005#issuecomment-717479257) in [ktorio/ktor](https://api.github.com/repos/ktorio/ktor)
 
 **2020-10-27** — commented on [#2005](https://github.com/ktorio/ktor/pull/2005#issuecomment-717407458) in [ktorio/ktor](https://api.github.com/repos/ktorio/ktor)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — pushed [`786fbba4`](https://github.com/uber/RxDogTag/commit/786fbba4ddee63d3a15ecfb9f9e569f0c39fbf6e) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix version"
 
 **2020-10-26** — pushed [`ef5f1899`](https://github.com/uber/RxDogTag/commit/ef5f18996c858ffbee4651830e6f1ab39fbec880) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Nevermind the emojis don't look great"
-
-**2020-10-26** — pushed [`8f243a70`](https://github.com/uber/RxDogTag/commit/8f243a70fcab3e1226ce284c53e6ac23b8e72825) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add more emojis"
-
-**2020-10-26** — pushed [`3b2e92bc`](https://github.com/uber/RxDogTag/commit/3b2e92bc6f4cfdd6aac63b0ff185dc048b3e3c74) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Deployed f5901cb with MkDocs version: 1.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
