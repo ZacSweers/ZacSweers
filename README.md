@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-27** — commented on [#2005](https://github.com/ktorio/ktor/pull/2005#issuecomment-717407458) in [ktorio/ktor](https://api.github.com/repos/ktorio/ktor)
+
 **2020-10-27** — commented on [#1264](https://github.com/square/moshi/issues/1264#issuecomment-717075812) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-10-26** — deleted branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — pushed [`3b2e92bc`](https://github.com/uber/RxDogTag/commit/3b2e92bc6f4cfdd6aac63b0ff185dc048b3e3c74) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Deployed f5901cb with MkDocs version: 1.1.2"
 
 **2020-10-26** — created tag "1.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-26** — created branch "1.x" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
