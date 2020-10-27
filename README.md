@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-27** — commented on [#1264](https://github.com/square/moshi/issues/1264#issuecomment-717075812) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-10-26** — deleted branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-10-26** — pushed [`dabb1546`](https://github.com/slackhq/EitherNet/commit/dabb15467a96d1726c40b509e2a946b245438ec7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README (#15)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — created tag "1.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2020-10-26** — created branch "1.x" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2020-10-26** — created tag "2.0.1" on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
