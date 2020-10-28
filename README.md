@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-28** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-717978265) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-10-28** — created branch "z/updates" on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
 
 **2020-10-27** — closed issue [#16](https://api.github.com/repos/slackhq/EitherNet/issues/16) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] KotlinNullPointerException when api call returns 204 No Content with null response"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — pushed [`dabb1546`](https://github.com/slackhq/EitherNet/commit/dabb15467a96d1726c40b509e2a946b245438ec7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README (#15)"
 
 **2020-10-26** — closed PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
-
-**2020-10-26** — pushed [`786fbba4`](https://github.com/uber/RxDogTag/commit/786fbba4ddee63d3a15ecfb9f9e569f0c39fbf6e) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
