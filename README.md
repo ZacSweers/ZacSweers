@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-28** — deleted branch "startup-1.0" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2020-10-28** — pushed [`50b62393`](https://github.com/ZacSweers/ticktock/commit/50b62393aeb6a442df9d53d51876806ce6f7cf02) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "AndroidX Startup 1.0 and removal of base artifacts (#41)"
+
+**2020-10-28** — closed PR [#41](https://api.github.com/repos/ZacSweers/ticktock/pulls/41) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "AndroidX Startup 1.0 and removal of base artifacts"
+
 **2020-10-28** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-717993733) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-28** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-717978265) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-27** — commented on [#2005](https://github.com/ktorio/ktor/pull/2005#issuecomment-717479257) in [ktorio/ktor](https://api.github.com/repos/ktorio/ktor)
 
 **2020-10-27** — commented on [#2005](https://github.com/ktorio/ktor/pull/2005#issuecomment-717407458) in [ktorio/ktor](https://api.github.com/repos/ktorio/ktor)
-
-**2020-10-27** — commented on [#1264](https://github.com/square/moshi/issues/1264#issuecomment-717075812) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-10-26** — deleted branch "z/addBadge" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-10-26** — pushed [`dabb1546`](https://github.com/slackhq/EitherNet/commit/dabb15467a96d1726c40b509e2a946b245438ec7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README (#15)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
