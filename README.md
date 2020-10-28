@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-28** — created branch "z/updates" on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
+
 **2020-10-27** — closed issue [#16](https://api.github.com/repos/slackhq/EitherNet/issues/16) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] KotlinNullPointerException when api call returns 204 No Content with null response"
 
 **2020-10-27** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-717552251) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-26** — closed PR [#15](https://api.github.com/repos/slackhq/EitherNet/pulls/15) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add maven central badge to README"
 
 **2020-10-26** — pushed [`786fbba4`](https://github.com/uber/RxDogTag/commit/786fbba4ddee63d3a15ecfb9f9e569f0c39fbf6e) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix version"
-
-**2020-10-26** — pushed [`ef5f1899`](https://github.com/uber/RxDogTag/commit/ef5f18996c858ffbee4651830e6f1ab39fbec880) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Nevermind the emojis don't look great"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
