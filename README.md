@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-29** — pushed [`42fdfe20`](https://github.com/ZacSweers/ticktock/commit/42fdfe20f391b1a4f74001db15a91b824086bace) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "WIP compiler readme bits"
+
+**2020-10-29** — created branch "z/cleanups" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
 **2020-10-29** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-718927859) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-29** — pushed [`85ad9fff`](https://github.com/square/kotlinpoet/commit/85ad9fffc85c68fbd1e74a8c7a74ce68cda0399a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix compiler args overwriting (#1009)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-28** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-717993733) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-10-28** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-717978265) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-10-28** — created branch "z/updates" on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
-
-**2020-10-27** — closed issue [#16](https://api.github.com/repos/slackhq/EitherNet/issues/16) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] KotlinNullPointerException when api call returns 204 No Content with null response"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
