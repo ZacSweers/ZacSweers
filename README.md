@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-10-30** — pushed [`2fc7b978`](https://github.com/ZacSweers/ticktock/commit/2fc7b978b8473abf980d4cd785c71674c4350e0a) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Split sections"
-
-**2020-10-30** — opened PR [#42](https://api.github.com/repos/ZacSweers/ticktock/pulls/42) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Final 1.0 cleanups and preparations"
-
-**2020-10-30** — pushed 4 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+**2020-10-30** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719400923) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-30** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
-**2020-10-29** — closed issue [#134](https://api.github.com/repos/google/ksp/issues/134) on [google/ksp](https://api.github.com/repos/google/ksp): "Default (array) annotation members values are not readable"
+**2020-10-30** — opened issue [#66](https://api.github.com/repos/slackhq/keeper/issues/66) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add better troubleshooting docs for PrintUses assertion errors"
 
-**2020-10-29** — commented on [#134](https://github.com/google/ksp/issues/134#issuecomment-719147928) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2020-10-30** — closed issue [#59](https://api.github.com/repos/slackhq/keeper/issues/59) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Unable to find PrintUses main class in R8 2.0.88"
 
-**2020-10-29** — pushed [`f9fb39e1`](https://github.com/ZacSweers/MoshiX/commit/f9fb39e1ea2119f11a0233ba0366e728ade40330) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix default behavior in ksp + improve type handling"
+**2020-10-30** — commented on [#59](https://github.com/slackhq/keeper/issues/59#issuecomment-719395165) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2020-10-29** — opened PR [#62](https://api.github.com/repos/ZacSweers/MoshiX/pulls/62) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support alternate labels"
+**2020-10-30** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-719394333) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2020-10-29** — created branch "z/alternateLabels" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2020-10-30** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-719393134) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2020-10-29** — opened issue [#135](https://api.github.com/repos/google/ksp/issues/135) on [google/ksp](https://api.github.com/repos/google/ksp): "Should annotation Array members use Array in KSP?"
+**2020-10-30** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-719382196) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-10-30** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-719378776) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-10-30** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-719371029) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
