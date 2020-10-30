@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-30** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+
 **2020-10-29** — closed issue [#134](https://api.github.com/repos/google/ksp/issues/134) on [google/ksp](https://api.github.com/repos/google/ksp): "Default (array) annotation members values are not readable"
 
 **2020-10-29** — commented on [#134](https://github.com/google/ksp/issues/134#issuecomment-719147928) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-29** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719089899) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-29** — pushed [`42fdfe20`](https://github.com/ZacSweers/ticktock/commit/42fdfe20f391b1a4f74001db15a91b824086bace) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "WIP compiler readme bits"
-
-**2020-10-29** — created branch "z/cleanups" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
