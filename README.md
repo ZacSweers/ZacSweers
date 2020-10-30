@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-30** — pushed [`2fc7b978`](https://github.com/ZacSweers/ticktock/commit/2fc7b978b8473abf980d4cd785c71674c4350e0a) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Split sections"
+
+**2020-10-30** — opened PR [#42](https://api.github.com/repos/ZacSweers/ticktock/pulls/42) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Final 1.0 cleanups and preparations"
+
+**2020-10-30** — pushed 4 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+
 **2020-10-30** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
 **2020-10-29** — closed issue [#134](https://api.github.com/repos/google/ksp/issues/134) on [google/ksp](https://api.github.com/repos/google/ksp): "Default (array) annotation members values are not readable"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-29** — created branch "z/alternateLabels" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-29** — opened issue [#135](https://api.github.com/repos/google/ksp/issues/135) on [google/ksp](https://api.github.com/repos/google/ksp): "Should annotation Array members use Array in KSP?"
-
-**2020-10-29** — opened issue [#134](https://api.github.com/repos/google/ksp/issues/134) on [google/ksp](https://api.github.com/repos/google/ksp): "Default (array) annotation members values are not readable"
-
-**2020-10-29** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719089899) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-29** — pushed [`42fdfe20`](https://github.com/ZacSweers/ticktock/commit/42fdfe20f391b1a4f74001db15a91b824086bace) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "WIP compiler readme bits"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
