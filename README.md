@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-10-30** — pushed [`70ade0c2`](https://github.com/ZacSweers/ticktock/commit/70ade0c25618317f20851dc69a5194ba353bcbed) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Tweak versioning"
+
+**2020-10-30** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719728585) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-10-30** — pushed [`eb3b573e`](https://github.com/ZacSweers/MoshiX/commit/eb3b573ee2f31599bb6ae8e6c585d4646b9de3b9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add param"
+
 **2020-10-30** — created tag "0.6.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-10-30** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-30** — deleted branch "z/cleanups" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2020-10-30** — pushed [`e99dd31a`](https://github.com/ZacSweers/ticktock/commit/e99dd31a7a0d4171c2f709bc99569f143e926c9c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Final 1.0 cleanups and preparations (#42)"
-
-**2020-10-30** — closed PR [#42](https://api.github.com/repos/ZacSweers/ticktock/pulls/42) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Final 1.0 cleanups and preparations"
-
-**2020-10-30** — pushed [`5df8c722`](https://github.com/ZacSweers/ticktock/commit/5df8c722f0c0be9d5588235e72900e9124acd9e4) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Fix visibility"
-
-**2020-10-30** — pushed [`89bfb665`](https://github.com/ZacSweers/MoshiX/commit/89bfb665829e81cef4d65642b2518219ab34808d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support alternate labels (#62)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
