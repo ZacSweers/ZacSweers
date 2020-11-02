@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-02** — pushed 24 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2020-11-02** — pushed [`24bbdf18`](https://github.com/ZacSweers/CatchUp/commit/24bbdf18d832fb94e056932ccee9b022c2187c8c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose (#255)"
+
+**2020-11-02** — deleted branch "z/compose" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-11-02** — closed PR [#255](https://api.github.com/repos/ZacSweers/CatchUp/pulls/255) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose"
+
+**2020-11-01** — pushed [`4a6f4a1c`](https://github.com/ZacSweers/CatchUp/commit/4a6f4a1c5374f0389982dd05933841b589cd15bd) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
+
+**2020-11-01** — pushed 11 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2020-10-30** — pushed [`70ade0c2`](https://github.com/ZacSweers/ticktock/commit/70ade0c25618317f20851dc69a5194ba353bcbed) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Tweak versioning"
 
 **2020-10-30** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719728585) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-30** — pushed [`eb3b573e`](https://github.com/ZacSweers/MoshiX/commit/eb3b573ee2f31599bb6ae8e6c585d4646b9de3b9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add param"
 
 **2020-10-30** — created tag "0.6.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-30** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-10-30** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-719718449) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-30** — created tag "1.0.0-2020d" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-30** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
-
-**2020-10-30** — deleted branch "z/cleanups" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2020-10-30** — pushed [`e99dd31a`](https://github.com/ZacSweers/ticktock/commit/e99dd31a7a0d4171c2f709bc99569f143e926c9c) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Final 1.0 cleanups and preparations (#42)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
