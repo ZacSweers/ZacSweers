@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-02** — closed issue [#18](https://api.github.com/repos/slackhq/EitherNet/issues/18) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] EitherNet + MultiDex + minSDK 19"
+
+**2020-11-02** — commented on [#18](https://github.com/slackhq/EitherNet/issues/18#issuecomment-720593963) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-01** — pushed [`4a6f4a1c`](https://github.com/ZacSweers/CatchUp/commit/4a6f4a1c5374f0389982dd05933841b589cd15bd) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
 
 **2020-11-01** — pushed 11 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-10-30** — pushed [`70ade0c2`](https://github.com/ZacSweers/ticktock/commit/70ade0c25618317f20851dc69a5194ba353bcbed) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Tweak versioning"
-
-**2020-10-30** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719728585) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
