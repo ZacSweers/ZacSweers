@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2020-11-02** — pushed 24 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-11-02** — pushed [`24bbdf18`](https://github.com/ZacSweers/CatchUp/commit/24bbdf18d832fb94e056932ccee9b022c2187c8c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose (#255)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-10-30** — pushed [`70ade0c2`](https://github.com/ZacSweers/ticktock/commit/70ade0c25618317f20851dc69a5194ba353bcbed) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Tweak versioning"
 
 **2020-10-30** — commented on [#61](https://github.com/ZacSweers/MoshiX/issues/61#issuecomment-719728585) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-10-30** — pushed [`eb3b573e`](https://github.com/ZacSweers/MoshiX/commit/eb3b573ee2f31599bb6ae8e6c585d4646b9de3b9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add param"
-
-**2020-10-30** — created tag "0.6.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
