@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-03** — commented on [#1001](https://github.com/square/kotlinpoet/issues/1001#issuecomment-721212825) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-11-03** — pushed 4 commits to [ZacSweers/retrofit](https://api.github.com/repos/ZacSweers/retrofit).
 
 **2020-11-03** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-720909349) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-02** — commented on [#23](https://github.com/ZacSweers/MoshiX/issues/23#issuecomment-720765609) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-11-02** — closed issue [#18](https://api.github.com/repos/slackhq/EitherNet/issues/18) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] EitherNet + MultiDex + minSDK 19"
-
-**2020-11-02** — commented on [#18](https://github.com/slackhq/EitherNet/issues/18#issuecomment-720593963) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
