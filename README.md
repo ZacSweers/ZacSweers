@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-02** — opened PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
+
+**2020-11-02** — created branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
 **2020-11-02** — commented on [#1266](https://github.com/square/moshi/issues/1266#issuecomment-720770201) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-11-02** — commented on [#23](https://github.com/ZacSweers/MoshiX/issues/23#issuecomment-720766263) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-11-02** — pushed 24 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-11-02** — pushed [`24bbdf18`](https://github.com/ZacSweers/CatchUp/commit/24bbdf18d832fb94e056932ccee9b022c2187c8c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Start integrating compose (#255)"
-
-**2020-11-02** — deleted branch "z/compose" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
