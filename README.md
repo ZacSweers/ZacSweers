@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-02** — commented on [#138](https://github.com/google/ksp/pull/138#issuecomment-720848358) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2020-11-02** — opened PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
 
 **2020-11-02** — created branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-11-02** — pushed 24 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
