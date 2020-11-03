@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-03** — pushed 4 commits to [ZacSweers/retrofit](https://api.github.com/repos/ZacSweers/retrofit).
+
+**2020-11-03** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-720909349) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-11-02** — commented on [#138](https://github.com/google/ksp/pull/138#issuecomment-720848358) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2020-11-02** — opened PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-02** — closed issue [#18](https://api.github.com/repos/slackhq/EitherNet/issues/18) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "[BUG] EitherNet + MultiDex + minSDK 19"
 
 **2020-11-02** — commented on [#18](https://github.com/slackhq/EitherNet/issues/18#issuecomment-720593963) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2020-11-02** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
