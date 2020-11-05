@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-05** — opened issue [#6046](https://api.github.com/repos/robolectric/robolectric/issues/6046) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "AudioSystem cannot be accessed"
+
 **2020-11-05** — pushed [`be19a19e`](https://github.com/ZacSweers/CatchUp/commit/be19a19e24a603e17643387e9e81af9a70bd3f8c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use autogenerate id to persist increment across pages (#259)"
 
 **2020-11-05** — closed PR [#259](https://api.github.com/repos/ZacSweers/CatchUp/pulls/259) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use autogenerate id to persist increment across pages"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-02** — created branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-11-02** — commented on [#1266](https://github.com/square/moshi/issues/1266#issuecomment-720770201) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-11-02** — commented on [#23](https://github.com/ZacSweers/MoshiX/issues/23#issuecomment-720766263) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
