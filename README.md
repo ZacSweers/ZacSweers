@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-06** — pushed [`33d61cd8`](https://github.com/slackhq/moshi-gson-interop/commit/33d61cd8e0581bd8dd3cb71af2ff437a61ab27b0) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix pull_request target"
+
+**2020-11-06** — pushed [`2b1b5bf2`](https://github.com/slackhq/moshi-gson-interop/commit/2b1b5bf2b1c5cdce2fa43efbc9bf6d96db0f4790) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Go away detekt"
+
 **2020-11-06** — pushed 8 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 
 **2020-11-05** — opened issue [#6046](https://api.github.com/repos/robolectric/robolectric/issues/6046) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "AudioSystem cannot be accessed"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-03** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-720909349) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-02** — commented on [#138](https://github.com/google/ksp/pull/138#issuecomment-720848358) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-11-02** — opened PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
-
-**2020-11-02** — created branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
