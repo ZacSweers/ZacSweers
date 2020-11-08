@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-07** — pushed [`eabc8e63`](https://github.com/ZacSweers/MoshiX/commit/eabc8e63f5260dc857b4232d2ea1033b431dfcf8) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't use pull_request_target"
+
 **2020-11-07** — pushed 32 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2020-11-07** — pushed [`324c8e03`](https://github.com/ZacSweers/MoshiX/commit/324c8e03f2f61d3b4a0953687d5706968a35954b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201106 (#63)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-07** — commented on [#17](https://github.com/slackhq/EitherNet/pull/17#issuecomment-723402901) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-07** — pushed [`e826a85e`](https://github.com/slackhq/EitherNet/commit/e826a85e5053d46f7e844e2e7db744d3fe417f81) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Added utility function to create a successful ApiResult (#17)"
-
-**2020-11-07** — closed PR [#17](https://api.github.com/repos/slackhq/EitherNet/pulls/17) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Added utility function to create a successful ApiResult"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
