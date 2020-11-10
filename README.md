@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-10** — opened issue [#3](https://api.github.com/repos/cashapp/exhaustive/issues/3) on [cashapp/exhaustive](https://api.github.com/repos/cashapp/exhaustive): "Opt-out mechanism or class-based annotation?"
+
 **2020-11-10** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-724803688) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-11-08** — pushed [`363bfda0`](https://github.com/ZacSweers/MoshiX/commit/363bfda0b46ccf072b5ba4582c0519f6de456513) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Revert "Update KSP to 1.4.10-dev-experimental-20201106 (#63)""
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-07** — pushed [`2fa3dda2`](https://github.com/slackhq/EitherNet/commit/2fa3dda29f8ca7bea32ee7c100dd06e905ed28e4) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Use pull_request"
 
 **2020-11-07** — opened PR [#63](https://api.github.com/repos/ZacSweers/MoshiX/pulls/63) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201106"
-
-**2020-11-07** — created branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
