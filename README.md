@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-10** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-725071873) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-11-10** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-11-10** — pushed [`eabc8e63`](https://github.com/ZacSweers/MoshiX/commit/eabc8e63f5260dc857b4232d2ea1033b431dfcf8) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't use pull_request_target"
+
+**2020-11-10** — pushed [`4caed474`](https://github.com/ZacSweers/MoshiX/commit/4caed474a02defef867bd3d10c1b54ac4016dc90) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle (#64)"
+
+**2020-11-10** — deleted branch "z/newStuff" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-11-10** — closed PR [#64](https://api.github.com/repos/ZacSweers/MoshiX/pulls/64) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle"
+
+**2020-11-10** — pushed [`f955fd17`](https://github.com/ZacSweers/MoshiX/commit/f955fd175056b7afb52b6c712f56409065e185e1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "auto service ksp 0.1.2"
+
 **2020-11-10** — created tag "0.1.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2020-11-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
 **2020-11-10** — pushed [`bf38f8ac`](https://github.com/ZacSweers/auto-service-ksp/commit/bf38f8acac10b5fd48c50b81112c84de2a04b3e0) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle (#5)"
-
-**2020-11-10** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-11-10** — closed PR [#5](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/5) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle"
-
-**2020-11-10** — opened PR [#5](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/5) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle"
-
-**2020-11-10** — created branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-11-10** — opened PR [#64](https://api.github.com/repos/ZacSweers/MoshiX/pulls/64) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle"
-
-**2020-11-10** — created branch "z/newStuff" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-11-10** — opened issue [#3](https://api.github.com/repos/cashapp/exhaustive/issues/3) on [cashapp/exhaustive](https://api.github.com/repos/cashapp/exhaustive): "Opt-out mechanism or class-based annotation?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
