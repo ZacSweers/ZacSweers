@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-10** — created tag "0.1.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2020-11-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
+**2020-11-10** — pushed [`bf38f8ac`](https://github.com/ZacSweers/auto-service-ksp/commit/bf38f8acac10b5fd48c50b81112c84de2a04b3e0) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle (#5)"
+
+**2020-11-10** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2020-11-10** — closed PR [#5](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/5) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle"
+
+**2020-11-10** — opened PR [#5](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/5) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and gradle"
+
+**2020-11-10** — created branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2020-11-10** — opened PR [#64](https://api.github.com/repos/ZacSweers/MoshiX/pulls/64) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle"
+
+**2020-11-10** — created branch "z/newStuff" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-11-10** — opened issue [#3](https://api.github.com/repos/cashapp/exhaustive/issues/3) on [cashapp/exhaustive](https://api.github.com/repos/cashapp/exhaustive): "Opt-out mechanism or class-based annotation?"
-
-**2020-11-10** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-724803688) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-11-08** — pushed [`363bfda0`](https://github.com/ZacSweers/MoshiX/commit/363bfda0b46ccf072b5ba4582c0519f6de456513) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Revert "Update KSP to 1.4.10-dev-experimental-20201106 (#63)""
-
-**2020-11-07** — pushed [`eabc8e63`](https://github.com/ZacSweers/MoshiX/commit/eabc8e63f5260dc857b4232d2ea1033b431dfcf8) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't use pull_request_target"
-
-**2020-11-07** — pushed 32 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-11-07** — pushed [`324c8e03`](https://github.com/ZacSweers/MoshiX/commit/324c8e03f2f61d3b4a0953687d5706968a35954b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201106 (#63)"
-
-**2020-11-07** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-11-07** — closed PR [#63](https://api.github.com/repos/ZacSweers/MoshiX/pulls/63) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201106"
-
-**2020-11-07** — pushed [`2fa3dda2`](https://github.com/slackhq/EitherNet/commit/2fa3dda29f8ca7bea32ee7c100dd06e905ed28e4) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Use pull_request"
-
-**2020-11-07** — opened PR [#63](https://api.github.com/repos/ZacSweers/MoshiX/pulls/63) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.4.10-dev-experimental-20201106"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
