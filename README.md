@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-11** — commented on [#1268](https://github.com/square/moshi/issues/1268#issuecomment-725265443) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-11-10** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-725155283) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-11-10** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-725071873) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-10** — pushed [`f955fd17`](https://github.com/ZacSweers/MoshiX/commit/f955fd175056b7afb52b6c712f56409065e185e1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "auto service ksp 0.1.2"
 
 **2020-11-10** — created tag "0.1.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-11-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
