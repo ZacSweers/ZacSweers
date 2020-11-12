@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-11-11** — closed issue [#623](https://api.github.com/repos/peter-evans/create-pull-request/issues/623) on [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request): "PR creation fails due to branch mismatch"
+**2020-11-12** — created tag "0.6.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2020-11-11** — commented on [#623](https://github.com/peter-evans/create-pull-request/issues/623#issuecomment-725797321) in [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request)
+**2020-11-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2020-11-11** — opened issue [#623](https://api.github.com/repos/peter-evans/create-pull-request/issues/623) on [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request): "PR creation fails due to branch mismatch"
+**2020-11-12** — pushed [`0bc5c546`](https://github.com/slackhq/moshi-gson-interop/commit/0bc5c546d46c7429fefb5a27f165e3c6a7a9db4d) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Changelog"
 
-**2020-11-11** — commented on [#1269](https://github.com/square/moshi/issues/1269#issuecomment-725572764) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-11-12** — created tag "0.3.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
-**2020-11-11** — commented on [#1268](https://github.com/square/moshi/issues/1268#issuecomment-725265443) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2020-11-12** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 
-**2020-11-10** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-725155283) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2020-11-12** — pushed [`8793988a`](https://github.com/slackhq/moshi-gson-interop/commit/8793988a245477f03c078b63a1c79480a50912cc) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers (#21)"
 
-**2020-11-10** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-725071873) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2020-11-12** — closed issue [#7](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/7) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Consider adding a checker for @FromJson/@ToJson classes"
 
-**2020-11-10** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-11-12** — deleted branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
-**2020-11-10** — pushed [`eabc8e63`](https://github.com/ZacSweers/MoshiX/commit/eabc8e63f5260dc857b4232d2ea1033b431dfcf8) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't use pull_request_target"
+**2020-11-12** — closed PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
 
-**2020-11-10** — pushed [`4caed474`](https://github.com/ZacSweers/MoshiX/commit/4caed474a02defef867bd3d10c1b54ac4016dc90) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle (#64)"
+**2020-11-12** — closed issue [#15](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/15) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add builder API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
