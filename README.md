@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-11** — closed issue [#623](https://api.github.com/repos/peter-evans/create-pull-request/issues/623) on [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request): "PR creation fails due to branch mismatch"
+
+**2020-11-11** — commented on [#623](https://github.com/peter-evans/create-pull-request/issues/623#issuecomment-725797321) in [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request)
+
 **2020-11-11** — opened issue [#623](https://api.github.com/repos/peter-evans/create-pull-request/issues/623) on [peter-evans/create-pull-request](https://api.github.com/repos/peter-evans/create-pull-request): "PR creation fails due to branch mismatch"
 
 **2020-11-11** — commented on [#1269](https://github.com/square/moshi/issues/1269#issuecomment-725572764) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-10** — pushed [`eabc8e63`](https://github.com/ZacSweers/MoshiX/commit/eabc8e63f5260dc857b4232d2ea1033b431dfcf8) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Don't use pull_request_target"
 
 **2020-11-10** — pushed [`4caed474`](https://github.com/ZacSweers/MoshiX/commit/4caed474a02defef867bd3d10c1b54ac4016dc90) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle (#64)"
-
-**2020-11-10** — deleted branch "z/newStuff" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-11-10** — closed PR [#64](https://api.github.com/repos/ZacSweers/MoshiX/pulls/64) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and gradle"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
