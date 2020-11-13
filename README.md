@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726655598) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726630846) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726627430) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-11-12** — created tag "0.6.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-11-12** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-12** — pushed [`8793988a`](https://github.com/slackhq/moshi-gson-interop/commit/8793988a245477f03c078b63a1c79480a50912cc) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers (#21)"
 
 **2020-11-12** — closed issue [#7](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/7) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Consider adding a checker for @FromJson/@ToJson classes"
-
-**2020-11-12** — deleted branch "z/builder" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-12** — closed PR [#21](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/21) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add Builder API + more checkers"
-
-**2020-11-12** — closed issue [#15](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/15) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add builder API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
