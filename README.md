@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-16** — opened PR [#1820](https://api.github.com/repos/google/gson/pulls/1820) to [google/gson](https://api.github.com/repos/google/gson): "Fix gradle build"
+
+**2020-11-16** — pushed [`16a970e1`](https://github.com/ZacSweers/gson/commit/16a970e18d59ba7853a819fc2a38acf663a406bf) to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson): "Run gradle on CI too to prevent regressions"
+
 **2020-11-16** — created branch "z/gradleWorks" on [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson)
 
 **2020-11-16** — opened PR [#24](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/24) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-15** — created branch "z/jsonValueInTree" on [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson)
 
 **2020-11-15** — pushed 173 commits to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson).
-
-**2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727660738) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-15** — opened issue [#22](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/22) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Incompatible with `JsonTreeWriter`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
