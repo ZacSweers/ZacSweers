@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727677474) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-11-15** — opened PR [#1819](https://api.github.com/repos/google/gson/pulls/1819) to [google/gson](https://api.github.com/repos/google/gson): "Support `jsonValue` in JsonTreeWriter"
+
+**2020-11-15** — created branch "z/jsonValueInTree" on [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson)
+
 **2020-11-15** — pushed 173 commits to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson).
 
 **2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727660738) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-14** — commented on [#1014](https://github.com/square/kotlinpoet/issues/1014#issuecomment-727261853) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726655598) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726630846) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-11-13** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-726627430) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-11-12** — created tag "0.6.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
