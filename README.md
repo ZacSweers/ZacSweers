@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-16** — created branch "z/gradleWorks" on [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson)
+
+**2020-11-16** — opened PR [#24](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/24) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests"
+
+**2020-11-16** — created branch "z/jsonAdapter" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
 **2020-11-15** — opened issue [#23](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/23) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add `@JsonAdapter` annotation checker"
 
 **2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727677474) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727660738) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-11-15** — opened issue [#22](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/22) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Incompatible with `JsonTreeWriter`"
-
-**2020-11-15** — commented on [#1988](https://github.com/square/leakcanary/issues/1988#issuecomment-727656027) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
-
-**2020-11-14** — commented on [#1014](https://github.com/square/kotlinpoet/issues/1014#issuecomment-727280523) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-11-14** — commented on [#1014](https://github.com/square/kotlinpoet/issues/1014#issuecomment-727261853) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
