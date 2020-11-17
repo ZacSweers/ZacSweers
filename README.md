@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-17** — commented on [#1](https://github.com/tinyspeck/gson/pull/1#issuecomment-729275514) in [tinyspeck/gson](https://api.github.com/repos/tinyspeck/gson)
+
+**2020-11-17** — opened PR [#1](https://api.github.com/repos/tinyspeck/gson/pulls/1) to [tinyspeck/gson](https://api.github.com/repos/tinyspeck/gson): "Add support for jsonValue() in JsonTreeWriter"
+
+**2020-11-17** — created branch "z/jsonValue" on [tinyspeck/gson](https://api.github.com/repos/tinyspeck/gson)
+
+**2020-11-17** — created branch "slackfork" on [tinyspeck/gson](https://api.github.com/repos/tinyspeck/gson)
+
+**2020-11-17** — commented on [#1819](https://github.com/google/gson/pull/1819#issuecomment-729271742) in [google/gson](https://api.github.com/repos/google/gson)
+
+**2020-11-17** — pushed [`b6fdb851`](https://github.com/ZacSweers/gson/commit/b6fdb85135409649e672ec441347069b4d76d486) to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson): "Beef up test"
+
+**2020-11-17** — pushed [`9385484a`](https://github.com/ZacSweers/gson/commit/9385484ab13bb7224216833bcfd882ed451e5000) to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson): "Try without custom JsonValue class"
+
 **2020-11-17** — commented on [#9](https://github.com/slackhq/moshi-gson-interop/issues/9#issuecomment-729083079) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2020-11-17** — commented on [#1819](https://github.com/google/gson/pull/1819#issuecomment-729081067) in [google/gson](https://api.github.com/repos/google/gson)
 
 **2020-11-17** — commented on [#1269](https://github.com/square/moshi/issues/1269#issuecomment-729071029) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-11-16** — pushed [`0d746fa9`](https://github.com/slackhq/moshi-gson-interop/commit/0d746fa99cca9f830a9261b836d8826ea61adbbd) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests (#24)"
-
-**2020-11-16** — deleted branch "z/jsonAdapter" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-16** — closed PR [#24](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/24) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests"
-
-**2020-11-16** — closed issue [#23](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/23) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add `@JsonAdapter` annotation checker"
-
-**2020-11-16** — pushed [`a757e45e`](https://github.com/slackhq/moshi-gson-interop/commit/a757e45eef1e368ce47329bc2ff52f04c3fd90c9) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "You didn't see anything pt. 2"
-
-**2020-11-16** — pushed [`35f89457`](https://github.com/slackhq/moshi-gson-interop/commit/35f8945791f7ca73d76866138a6bf4d2c0b0f57b) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "You didn't see anything"
-
-**2020-11-16** — pushed [`363988ac`](https://github.com/slackhq/moshi-gson-interop/commit/363988ac36273d0b1adf9bc2ba1403d0368b71af) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update toString and names"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
