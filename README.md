@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-16** — pushed [`0d746fa9`](https://github.com/slackhq/moshi-gson-interop/commit/0d746fa99cca9f830a9261b836d8826ea61adbbd) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests (#24)"
+
+**2020-11-16** — deleted branch "z/jsonAdapter" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2020-11-16** — closed PR [#24](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/24) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests"
+
+**2020-11-16** — closed issue [#23](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/23) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add `@JsonAdapter` annotation checker"
+
 **2020-11-16** — pushed [`a757e45e`](https://github.com/slackhq/moshi-gson-interop/commit/a757e45eef1e368ce47329bc2ff52f04c3fd90c9) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "You didn't see anything pt. 2"
 
 **2020-11-16** — pushed [`35f89457`](https://github.com/slackhq/moshi-gson-interop/commit/35f8945791f7ca73d76866138a6bf4d2c0b0f57b) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "You didn't see anything"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-16** — pushed [`16a970e1`](https://github.com/ZacSweers/gson/commit/16a970e18d59ba7853a819fc2a38acf663a406bf) to [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson): "Run gradle on CI too to prevent regressions"
 
 **2020-11-16** — created branch "z/gradleWorks" on [ZacSweers/gson](https://api.github.com/repos/ZacSweers/gson)
-
-**2020-11-16** — opened PR [#24](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/24) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add JsonAdapter class checker + tests"
-
-**2020-11-16** — created branch "z/jsonAdapter" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-15** — opened issue [#23](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/23) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add `@JsonAdapter` annotation checker"
-
-**2020-11-15** — commented on [#22](https://github.com/slackhq/moshi-gson-interop/issues/22#issuecomment-727677474) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
