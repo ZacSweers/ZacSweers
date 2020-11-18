@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-18** — commented on [#1902](https://github.com/mockito/mockito/issues/1902#issuecomment-729522056) in [mockito/mockito](https://api.github.com/repos/mockito/mockito)
+
 **2020-11-17** — pushed [`7fc00ea1`](https://github.com/slackhq/moshi-gson-interop/commit/7fc00ea1115e1ac9fa557f2c010a157c1bb0ee49) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add missing date"
 
 **2020-11-17** — commented on [#1819](https://github.com/google/gson/pull/1819#issuecomment-729349716) in [google/gson](https://api.github.com/repos/google/gson)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-17** — closed PR [#25](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/25) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Support JsonTreeWriter"
 
 **2020-11-17** — closed issue [#22](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/22) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Incompatible with `JsonTreeWriter`"
-
-**2020-11-17** — deleted branch "z/jsonValue" on [tinyspeck/gson](https://api.github.com/repos/tinyspeck/gson)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
