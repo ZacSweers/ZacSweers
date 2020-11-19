@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-19** — opened issue [#40](https://api.github.com/repos/eskatos/gradle-command-action/issues/40) on [eskatos/gradle-command-action](https://api.github.com/repos/eskatos/gradle-command-action): "Feature request: support milestones"
+
 **2020-11-19** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-730571286) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-18** — commented on [#1902](https://github.com/mockito/mockito/issues/1902#issuecomment-729522056) in [mockito/mockito](https://api.github.com/repos/mockito/mockito)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-17** — pushed [`fc4b0ce5`](https://github.com/slackhq/moshi-gson-interop/commit/fc4b0ce5b5067c549397e970ea7aeba5d0b4791c) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Support JsonTreeWriter (#25)"
 
 **2020-11-17** — deleted branch "z/workWithJsonTreeWriter" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-17** — closed PR [#25](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/25) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Support JsonTreeWriter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
