@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-23** — opened issue [#58](https://api.github.com/repos/mszostok/codeowners-validator/issues/58) on [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator): "Document which scopes are needed for "
+
 **2020-11-21** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-731647926) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-19** — opened issue [#40](https://api.github.com/repos/eskatos/gradle-command-action/issues/40) on [eskatos/gradle-command-action](https://api.github.com/repos/eskatos/gradle-command-action): "Feature request: support milestones"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-17** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 
 **2020-11-17** — commented on [#65](https://github.com/ZacSweers/MoshiX/issues/65#issuecomment-729343987) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-11-17** — pushed [`fc4b0ce5`](https://github.com/slackhq/moshi-gson-interop/commit/fc4b0ce5b5067c549397e970ea7aeba5d0b4791c) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Support JsonTreeWriter (#25)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
