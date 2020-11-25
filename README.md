@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-24** — commented on [#58](https://github.com/mszostok/codeowners-validator/issues/58#issuecomment-733303139) in [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator)
+
 **2020-11-23** — pushed [`d857ea8b`](https://github.com/ZacSweers/MoshiX/commit/d857ea8b3339ca455d0228094cc99092578da59a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.6.1."
 
 **2020-11-23** — opened issue [#58](https://api.github.com/repos/mszostok/codeowners-validator/issues/58) on [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator): "Document which scopes are needed for "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-17** — commented on [#1819](https://github.com/google/gson/pull/1819#issuecomment-729349716) in [google/gson](https://api.github.com/repos/google/gson)
 
 **2020-11-17** — created tag "0.4.0" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2020-11-17** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
