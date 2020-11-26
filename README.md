@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-26** — pushed 419 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
+
 **2020-11-25** — opened issue [#1859](https://api.github.com/repos/square/wire/issues/1859) on [square/wire](https://api.github.com/repos/square/wire): "WireTask uses non-normalized paths and breaks Gradle build caching"
 
 **2020-11-25** — opened issue [#2096](https://api.github.com/repos/cashapp/sqldelight/issues/2096) on [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "SqlDelightTask uses non-normalized paths and breaks Gradle build caching"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-19** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-730571286) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-18** — commented on [#1902](https://github.com/mockito/mockito/issues/1902#issuecomment-729522056) in [mockito/mockito](https://api.github.com/repos/mockito/mockito)
-
-**2020-11-17** — pushed [`7fc00ea1`](https://github.com/slackhq/moshi-gson-interop/commit/7fc00ea1115e1ac9fa557f2c010a157c1bb0ee49) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add missing date"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
