@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-26** — opened PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
+
 **2020-11-26** — created branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2020-11-26** — pushed 139 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-23** — opened issue [#58](https://api.github.com/repos/mszostok/codeowners-validator/issues/58) on [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator): "Document which scopes are needed for "
 
 **2020-11-21** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-731647926) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-11-19** — opened issue [#40](https://api.github.com/repos/eskatos/gradle-command-action/issues/40) on [eskatos/gradle-command-action](https://api.github.com/repos/eskatos/gradle-command-action): "Feature request: support milestones"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
