@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-26** — created branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+
+**2020-11-26** — pushed 139 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
+
 **2020-11-26** — pushed 419 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
 
 **2020-11-25** — opened issue [#1859](https://api.github.com/repos/square/wire/issues/1859) on [square/wire](https://api.github.com/repos/square/wire): "WireTask uses non-normalized paths and breaks Gradle build caching"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-21** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-731647926) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2020-11-19** — opened issue [#40](https://api.github.com/repos/eskatos/gradle-command-action/issues/40) on [eskatos/gradle-command-action](https://api.github.com/repos/eskatos/gradle-command-action): "Feature request: support milestones"
-
-**2020-11-19** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-730571286) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-11-18** — commented on [#1902](https://github.com/mockito/mockito/issues/1902#issuecomment-729522056) in [mockito/mockito](https://api.github.com/repos/mockito/mockito)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
