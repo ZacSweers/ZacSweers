@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — commented on [#172](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/172#issuecomment-734991099) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+
+**2020-11-27** — opened issue [#172](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/172) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "mavenLocal() usage conflicts with globally-configured repositories in Gradle 6.8"
+
+**2020-11-27** — commented on [#171](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/171#issuecomment-734989184) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+
 **2020-11-27** — closed issue [#15337](https://api.github.com/repos/gradle/gradle/issues/15337) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Expose access to gradle properties in dependencyResolutionManagement DSL"
 
 **2020-11-27** — commented on [#15337](https://github.com/gradle/gradle/issues/15337#issuecomment-734716494) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-26** — created branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2020-11-26** — pushed 139 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
-
-**2020-11-26** — pushed 419 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
-
-**2020-11-25** — opened issue [#1859](https://api.github.com/repos/square/wire/issues/1859) on [square/wire](https://api.github.com/repos/square/wire): "WireTask uses non-normalized paths and breaks Gradle build caching"
-
-**2020-11-25** — opened issue [#2096](https://api.github.com/repos/cashapp/sqldelight/issues/2096) on [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "SqlDelightTask uses non-normalized paths and breaks Gradle build caching"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
