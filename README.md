@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — closed issue [#15337](https://api.github.com/repos/gradle/gradle/issues/15337) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Expose access to gradle properties in dependencyResolutionManagement DSL"
+
+**2020-11-27** — commented on [#15337](https://github.com/gradle/gradle/issues/15337#issuecomment-734716494) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-11-27** — opened issue [#15337](https://api.github.com/repos/gradle/gradle/issues/15337) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Expose access to gradle properties in dependencyResolutionManagement DSL"
 
 **2020-11-27** — opened issue [#15336](https://api.github.com/repos/gradle/gradle/issues/15336) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "dependencyResolutionManagement does not actually work in a conventional Kotlin project in 6.8-rc-1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-25** — opened issue [#1859](https://api.github.com/repos/square/wire/issues/1859) on [square/wire](https://api.github.com/repos/square/wire): "WireTask uses non-normalized paths and breaks Gradle build caching"
 
 **2020-11-25** — opened issue [#2096](https://api.github.com/repos/cashapp/sqldelight/issues/2096) on [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "SqlDelightTask uses non-normalized paths and breaks Gradle build caching"
-
-**2020-11-24** — commented on [#58](https://github.com/mszostok/codeowners-validator/issues/58#issuecomment-733303139) in [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator)
-
-**2020-11-23** — pushed [`d857ea8b`](https://github.com/ZacSweers/MoshiX/commit/d857ea8b3339ca455d0228094cc99092578da59a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.6.1."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
