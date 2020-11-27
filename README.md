@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — opened issue [#15337](https://api.github.com/repos/gradle/gradle/issues/15337) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Expose access to gradle properties in dependencyResolutionManagement DSL"
+
+**2020-11-27** — opened issue [#15336](https://api.github.com/repos/gradle/gradle/issues/15336) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "dependencyResolutionManagement does not actually work in a conventional Kotlin project in 6.8-rc-1"
+
 **2020-11-26** — opened PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
 
 **2020-11-26** — created branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-24** — commented on [#58](https://github.com/mszostok/codeowners-validator/issues/58#issuecomment-733303139) in [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator)
 
 **2020-11-23** — pushed [`d857ea8b`](https://github.com/ZacSweers/MoshiX/commit/d857ea8b3339ca455d0228094cc99092578da59a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.6.1."
-
-**2020-11-23** — opened issue [#58](https://api.github.com/repos/mszostok/codeowners-validator/issues/58) on [mszostok/codeowners-validator](https://api.github.com/repos/mszostok/codeowners-validator): "Document which scopes are needed for "
-
-**2020-11-21** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-731647926) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
