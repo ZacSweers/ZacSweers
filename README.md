@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735007092) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2020-11-27** — opened issue [#332](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin): "FR: Suggest disabling android resources in android projects if resources aren't used"
+
 **2020-11-27** — commented on [#172](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/172#issuecomment-734991099) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 
 **2020-11-27** — opened issue [#172](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/172) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "mavenLocal() usage conflicts with globally-configured repositories in Gradle 6.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — opened issue [#15336](https://api.github.com/repos/gradle/gradle/issues/15336) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "dependencyResolutionManagement does not actually work in a conventional Kotlin project in 6.8-rc-1"
 
 **2020-11-26** — opened PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
-
-**2020-11-26** — created branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
-
-**2020-11-26** — pushed 139 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
