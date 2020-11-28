@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — closed issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
+
+**2020-11-27** — commented on [#6](https://github.com/ZacSweers/redacted-compiler-plugin/issues/6#issuecomment-735024427) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2020-11-27** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2020-11-27** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — pushed [`9ef41490`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ef41490005da410b0e5898a03ad0f20ff6fe5b0) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix another"
 
 **2020-11-27** — closed issue [#16](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/16) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "0.2.0 fails with Kotlin 1.3.71"
-
-**2020-11-27** — commented on [#16](https://github.com/ZacSweers/redacted-compiler-plugin/issues/16#issuecomment-735020175) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-11-27** — pushed [`371dfe8d`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/371dfe8ddcd652a172c42ae97a58bd5880294ebd) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to new APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
