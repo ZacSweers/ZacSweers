@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-11-27** — closed issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
+**2020-11-27** — pushed [`0878fb72`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0878fb72e041bd047e6669a719f9320e6ac9ad12) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Typo"
 
-**2020-11-27** — commented on [#6](https://github.com/ZacSweers/redacted-compiler-plugin/issues/6#issuecomment-735024427) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-11-27** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
-
-**2020-11-27** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-11-27** — pushed [`c220dfec`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c220dfecddd5280f9f397df02d77426a6b56e1ab) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Dependency updates (#31)"
-
-**2020-11-27** — closed PR [#31](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/31) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Dependency updates"
-
-**2020-11-27** — closed issue [#25](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/25) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.20"
+**2020-11-27** — created tag "0.4.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-11-27** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
-**2020-11-27** — pushed [`9ef41490`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ef41490005da410b0e5898a03ad0f20ff6fe5b0) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix another"
+**2020-11-27** — deleted branch "z/stringConcatFactory" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2020-11-27** — closed issue [#16](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/16) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "0.2.0 fails with Kotlin 1.3.71"
+**2020-11-27** — pushed [`ce420a13`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ce420a13e457a4da551ca1cc42dc40cf7c87f12d) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory (#32)"
+
+**2020-11-27** — closed PR [#32](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/32) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory"
+
+**2020-11-27** — closed issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
+
+**2020-11-27** — opened PR [#32](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/32) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory"
+
+**2020-11-27** — reopened issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
+
+**2020-11-27** — created branch "z/stringConcatFactory" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
