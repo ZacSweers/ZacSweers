@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-27** — closed issue [#260](https://api.github.com/repos/ZacSweers/CatchUp/issues/260) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Null extracted folder for artifact: ResolvedArtifact(componentIdentifier=androidx.viewpager2:viewpager2:1.0.0, variantName=null, artifactFile=/Users/drjacky/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/.../viewpager2-1.0.0.aar,..."
+
+**2020-11-27** — commented on [#260](https://github.com/ZacSweers/CatchUp/issues/260#issuecomment-735035479) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735035383) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735034985) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2020-11-27** — pushed [`0878fb72`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0878fb72e041bd047e6669a719f9320e6ac9ad12) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Typo"
 
 **2020-11-27** — created tag "0.4.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — pushed [`ce420a13`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ce420a13e457a4da551ca1cc42dc40cf7c87f12d) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory (#32)"
 
 **2020-11-27** — closed PR [#32](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/32) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory"
-
-**2020-11-27** — closed issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
-
-**2020-11-27** — opened PR [#32](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/32) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support StringConcatFactory"
-
-**2020-11-27** — reopened issue [#6](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/6) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Investigate using `StringConcatFactory` on JDK 9+"
-
-**2020-11-27** — created branch "z/stringConcatFactory" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
