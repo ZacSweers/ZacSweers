@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-11-29** — commented on [#159](https://github.com/google/ksp/issues/159#issuecomment-735470764) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2020-11-29** — commented on [#1274](https://github.com/square/moshi/issues/1274#issuecomment-735418304) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-11-29** — closed issue [#2096](https://api.github.com/repos/cashapp/sqldelight/issues/2096) on [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "SqlDelightTask uses non-normalized paths and breaks Gradle build caching"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — pushed [`0878fb72`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0878fb72e041bd047e6669a719f9320e6ac9ad12) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Typo"
 
 **2020-11-27** — created tag "0.4.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-11-27** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
