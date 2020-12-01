@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-01** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-736716439) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2020-12-01** — opened issue [#169](https://api.github.com/repos/square/anvil/issues/169) on [square/anvil](https://api.github.com/repos/square/anvil): "Feature request: allow specifying suppressions for generated files"
 
 **2020-11-29** — commented on [#159](https://github.com/google/ksp/issues/159#issuecomment-735470764) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735035383) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735034985) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2020-11-27** — pushed [`0878fb72`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0878fb72e041bd047e6669a719f9320e6ac9ad12) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Typo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
