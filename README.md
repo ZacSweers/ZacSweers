@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-02** — commented on [#1020](https://github.com/square/kotlinpoet/issues/1020#issuecomment-737083352) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-12-02** — commented on [#1277](https://github.com/square/moshi/issues/1277#issuecomment-737069169) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-01** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-736716439) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-27** — closed issue [#260](https://api.github.com/repos/ZacSweers/CatchUp/issues/260) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Null extracted folder for artifact: ResolvedArtifact(componentIdentifier=androidx.viewpager2:viewpager2:1.0.0, variantName=null, artifactFile=/Users/drjacky/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/.../viewpager2-1.0.0.aar,..."
 
 **2020-11-27** — commented on [#260](https://github.com/ZacSweers/CatchUp/issues/260#issuecomment-735035479) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2020-11-27** — commented on [#332](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/332#issuecomment-735035383) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
