@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-03** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-738297036) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-12-02** — closed issue [#1020](https://api.github.com/repos/square/kotlinpoet/issues/1020) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add way to set column limit"
 
 **2020-12-02** — commented on [#1020](https://github.com/square/kotlinpoet/issues/1020#issuecomment-737549050) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-11-29** — commented on [#1274](https://github.com/square/moshi/issues/1274#issuecomment-735418304) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-11-29** — closed issue [#2096](https://api.github.com/repos/cashapp/sqldelight/issues/2096) on [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "SqlDelightTask uses non-normalized paths and breaks Gradle build caching"
-
-**2020-11-29** — commented on [#2096](https://github.com/cashapp/sqldelight/issues/2096#issuecomment-735403555) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
