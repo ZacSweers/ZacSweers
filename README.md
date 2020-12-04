@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-03** — commented on [#68](https://github.com/slackhq/keeper/pull/68#issuecomment-738457899) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2020-12-03** — pushed [`5a130871`](https://github.com/slackhq/keeper/commit/5a13087192d920ce9b149c59f10b8968ee6187e0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable matching regex for now"
+
+**2020-12-03** — pushed [`152bd62c`](https://github.com/slackhq/keeper/commit/152bd62c16b0bb5ab03043638ce3fc317f739fc2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try forcing a higher version"
+
+**2020-12-03** — pushed [`d2b19bf0`](https://github.com/slackhq/keeper/commit/d2b19bf08f6290fe163c227463d6fa866cb0d75a) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix setup java"
+
 **2020-12-03** — pushed [`ba0b610e`](https://github.com/slackhq/keeper/commit/ba0b610ebbcef1a97d93fc5eedb056113147ca14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update CI builds"
 
 **2020-12-03** — opened PR [#68](https://api.github.com/repos/slackhq/keeper/pulls/68) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-03** — created branch "z/67" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-12-03** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-738297036) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-12-02** — closed issue [#1020](https://api.github.com/repos/square/kotlinpoet/issues/1020) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add way to set column limit"
-
-**2020-12-02** — commented on [#1020](https://github.com/square/kotlinpoet/issues/1020#issuecomment-737549050) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-12-02** — commented on [#1020](https://github.com/square/kotlinpoet/issues/1020#issuecomment-737083352) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2020-12-02** — commented on [#1277](https://github.com/square/moshi/issues/1277#issuecomment-737069169) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
