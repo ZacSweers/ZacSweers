@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-05** — opened PR [#66](https://api.github.com/repos/ZacSweers/MoshiX/pulls/66) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and kotlin"
+
+**2020-12-05** — created branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-12-03** — commented on [#68](https://github.com/slackhq/keeper/pull/68#issuecomment-738457899) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2020-12-03** — pushed [`5a130871`](https://github.com/slackhq/keeper/commit/5a13087192d920ce9b149c59f10b8968ee6187e0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable matching regex for now"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-03** — pushed [`29512514`](https://github.com/slackhq/keeper/commit/2951251457208640005a08bfaa2a75b210d830a8) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Don't use target"
 
 **2020-12-03** — created branch "z/updateDeps" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-12-03** — created branch "z/67" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-12-03** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-738297036) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
