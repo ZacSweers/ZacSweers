@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-06** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-739461323) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-12-05** — opened PR [#66](https://api.github.com/repos/ZacSweers/MoshiX/pulls/66) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and kotlin"
 
 **2020-12-05** — created branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-03** — opened PR [#68](https://api.github.com/repos/slackhq/keeper/pulls/68) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies"
 
 **2020-12-03** — pushed [`29512514`](https://github.com/slackhq/keeper/commit/2951251457208640005a08bfaa2a75b210d830a8) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Don't use target"
-
-**2020-12-03** — created branch "z/updateDeps" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
