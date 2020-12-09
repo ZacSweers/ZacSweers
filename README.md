@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-09** — opened issue [#34](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/34) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate kotlin ABI validator"
+
+**2020-12-09** — opened issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
+
+**2020-12-09** — opened issue [#27](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/27) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Integrate kotlin ABI validator"
+
+**2020-12-09** — opened issue [#71](https://api.github.com/repos/slackhq/keeper/issues/71) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Integrate Kotlin ABI validator"
+
+**2020-12-09** — opened issue [#21](https://api.github.com/repos/slackhq/EitherNet/issues/21) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Integrate Kotlin ABI validator"
+
+**2020-12-09** — opened issue [#45](https://api.github.com/repos/ZacSweers/ticktock/issues/45) on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Integrate kotlin ABI validator"
+
+**2020-12-09** — opened issue [#437](https://api.github.com/repos/uber/AutoDispose/issues/437) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate kotlin ABI validator"
+
+**2020-12-09** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-741634991) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-12-09** — opened issue [#1022](https://api.github.com/repos/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Integrate kotlin ABI validator"
+
 **2020-12-09** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-741618587) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-12-06** — commented on [#222](https://github.com/uber/AutoDispose/issues/222#issuecomment-739522884) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2020-12-06** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-739461323) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2020-12-05** — opened PR [#66](https://api.github.com/repos/ZacSweers/MoshiX/pulls/66) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and kotlin"
-
-**2020-12-05** — created branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-03** — commented on [#68](https://github.com/slackhq/keeper/pull/68#issuecomment-738457899) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2020-12-03** — pushed [`5a130871`](https://github.com/slackhq/keeper/commit/5a13087192d920ce9b149c59f10b8968ee6187e0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable matching regex for now"
-
-**2020-12-03** — pushed [`152bd62c`](https://github.com/slackhq/keeper/commit/152bd62c16b0bb5ab03043638ce3fc317f739fc2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try forcing a higher version"
-
-**2020-12-03** — pushed [`d2b19bf0`](https://github.com/slackhq/keeper/commit/d2b19bf08f6290fe163c227463d6fa866cb0d75a) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix setup java"
-
-**2020-12-03** — pushed [`ba0b610e`](https://github.com/slackhq/keeper/commit/ba0b610ebbcef1a97d93fc5eedb056113147ca14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update CI builds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
