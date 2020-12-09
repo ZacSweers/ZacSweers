@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-09** — commented on [#1022](https://github.com/square/kotlinpoet/issues/1022#issuecomment-741949080) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2020-12-09** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-741923545) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-09** — opened issue [#34](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/34) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate kotlin ABI validator"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-09** — opened issue [#437](https://api.github.com/repos/uber/AutoDispose/issues/437) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate kotlin ABI validator"
 
 **2020-12-09** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-741634991) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-09** — opened issue [#1022](https://api.github.com/repos/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Integrate kotlin ABI validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
