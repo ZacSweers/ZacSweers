@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-09** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-741923545) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-12-09** — opened issue [#34](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/34) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate kotlin ABI validator"
 
 **2020-12-09** — opened issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-09** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-741634991) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-09** — opened issue [#1022](https://api.github.com/repos/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Integrate kotlin ABI validator"
-
-**2020-12-09** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-741618587) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
