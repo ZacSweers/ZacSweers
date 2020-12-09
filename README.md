@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-09** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-741618587) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2020-12-06** — commented on [#222](https://github.com/uber/AutoDispose/issues/222#issuecomment-739522884) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2020-12-06** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-739461323) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-03** — pushed [`d2b19bf0`](https://github.com/slackhq/keeper/commit/d2b19bf08f6290fe163c227463d6fa866cb0d75a) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix setup java"
 
 **2020-12-03** — pushed [`ba0b610e`](https://github.com/slackhq/keeper/commit/ba0b610ebbcef1a97d93fc5eedb056113147ca14) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update CI builds"
-
-**2020-12-03** — opened PR [#68](https://api.github.com/repos/slackhq/keeper/pulls/68) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
