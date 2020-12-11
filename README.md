@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-11** — commented on [#1263](https://github.com/square/moshi/pull/1263#issuecomment-743391947) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-12-10** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-742608340) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-09** — commented on [#1022](https://github.com/square/kotlinpoet/issues/1022#issuecomment-741949080) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-09** — opened issue [#21](https://api.github.com/repos/slackhq/EitherNet/issues/21) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Integrate Kotlin ABI validator"
 
 **2020-12-09** — opened issue [#45](https://api.github.com/repos/ZacSweers/ticktock/issues/45) on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Integrate kotlin ABI validator"
-
-**2020-12-09** — opened issue [#437](https://api.github.com/repos/uber/AutoDispose/issues/437) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate kotlin ABI validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
