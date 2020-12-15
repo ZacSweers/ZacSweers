@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-15** — commented on [#1280](https://github.com/square/moshi/issues/1280#issuecomment-745250213) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-12-15** — commented on [#1280](https://github.com/square/moshi/issues/1280#issuecomment-745092379) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-11** — commented on [#1263](https://github.com/square/moshi/pull/1263#issuecomment-743391947) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-09** — opened issue [#27](https://api.github.com/repos/slackhq/moshi-gson-interop/issues/27) on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Integrate kotlin ABI validator"
 
 **2020-12-09** — opened issue [#71](https://api.github.com/repos/slackhq/keeper/issues/71) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Integrate Kotlin ABI validator"
-
-**2020-12-09** — opened issue [#21](https://api.github.com/repos/slackhq/EitherNet/issues/21) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Integrate Kotlin ABI validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
