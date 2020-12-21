@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710302) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710082) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2020-12-20** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-748689331) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 
 **2020-12-20** — commented on [#5246](https://github.com/google/ExoPlayer/issues/5246#issuecomment-748687665) in [google/ExoPlayer](https://api.github.com/repos/google/ExoPlayer)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-19** — opened issue [#91](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/91) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Suggestion: don't publish snapshots to releases"
 
 **2020-12-16** — commented on [#1280](https://github.com/square/moshi/issues/1280#issuecomment-747111808) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-15** — commented on [#1280](https://github.com/square/moshi/issues/1280#issuecomment-745250213) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-15** — commented on [#1280](https://github.com/square/moshi/issues/1280#issuecomment-745092379) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
