@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-22** — closed issue [#9](https://api.github.com/repos/ZacSweers/MoshiX/issues/9) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Java support"
+
+**2020-12-22** — commented on [#9](https://github.com/ZacSweers/MoshiX/issues/9#issuecomment-749835281) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — commented on [#2](https://github.com/ZacSweers/MoshiX/issues/2#issuecomment-749835115) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — closed issue [#73](https://api.github.com/repos/ZacSweers/MoshiX/issues/73) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "DefaultObject and DefaultNull Unresolved reference withDefaultValue"
+
 **2020-12-22** — commented on [#73](https://github.com/ZacSweers/MoshiX/issues/73#issuecomment-749812514) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-22** — closed issue [#72](https://api.github.com/repos/ZacSweers/MoshiX/issues/72) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Compatibility with Anvil"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-22** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-749729136) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-22** — closed issue [#69](https://api.github.com/repos/ZacSweers/MoshiX/issues/69) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed class hierarchy error"
-
-**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749727746) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749726062) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749723902) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-21** — commented on [#6](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/6#issuecomment-749212047) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
