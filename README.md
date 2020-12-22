@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-22** — commented on [#73](https://github.com/ZacSweers/MoshiX/issues/73#issuecomment-749812514) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — closed issue [#72](https://api.github.com/repos/ZacSweers/MoshiX/issues/72) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Compatibility with Anvil"
+
+**2020-12-22** — commented on [#72](https://github.com/ZacSweers/MoshiX/issues/72#issuecomment-749793642) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749730097) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-22** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-749729136) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749723902) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-21** — commented on [#6](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/6#issuecomment-749212047) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
-
-**2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710302) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710082) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2020-12-20** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-748689331) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
