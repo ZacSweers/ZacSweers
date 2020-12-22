@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749730097) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-749729136) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — closed issue [#69](https://api.github.com/repos/ZacSweers/MoshiX/issues/69) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed class hierarchy error"
+
+**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749727746) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749726062) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749723902) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-12-21** — commented on [#6](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/6#issuecomment-749212047) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 
 **2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710302) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-20** — commented on [#15626](https://github.com/gradle/gradle/issues/15626#issuecomment-748710082) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2020-12-20** — commented on [#41](https://github.com/Kotlin/dokka/issues/41#issuecomment-748689331) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2020-12-20** — commented on [#5246](https://github.com/google/ExoPlayer/issues/5246#issuecomment-748687665) in [google/ExoPlayer](https://api.github.com/repos/google/ExoPlayer)
-
-**2020-12-20** — opened issue [#566](https://api.github.com/repos/google/flexbox-layout/issues/566) on [google/flexbox-layout](https://api.github.com/repos/google/flexbox-layout): "Please publish to maven central or maven.google.com"
-
-**2020-12-20** — commented on [#8382](https://github.com/google/ExoPlayer/issues/8382#issuecomment-748686347) in [google/ExoPlayer](https://api.github.com/repos/google/ExoPlayer)
-
-**2020-12-20** — opened issue [#8382](https://api.github.com/repos/google/ExoPlayer/issues/8382) on [google/ExoPlayer](https://api.github.com/repos/google/ExoPlayer): "Please publish to MavenCentral"
-
-**2020-12-20** — opened issue [#1775](https://api.github.com/repos/facebook/flipper/issues/1775) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Please publish to MavenCentral"
-
-**2020-12-19** — opened issue [#91](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/91) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Suggestion: don't publish snapshots to releases"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
