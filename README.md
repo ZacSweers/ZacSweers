@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-23** — created branch "z/forge" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2020-12-22** — closed issue [#9](https://api.github.com/repos/ZacSweers/MoshiX/issues/9) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Java support"
 
 **2020-12-22** — commented on [#9](https://github.com/ZacSweers/MoshiX/issues/9#issuecomment-749835281) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749730097) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-22** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-749729136) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — closed issue [#69](https://api.github.com/repos/ZacSweers/MoshiX/issues/69) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed class hierarchy error"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
