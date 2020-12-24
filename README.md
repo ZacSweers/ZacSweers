@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-23** — pushed [`9bad0f6b`](https://github.com/ZacSweers/auto-service-ksp/commit/9bad0f6bd18ad8653cb828440f65672afc371b7f) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "True again"
+
+**2020-12-23** — pushed [`f15ee1f8`](https://github.com/ZacSweers/auto-service-ksp/commit/f15ee1f88bcad55d1997b92d9cc8338f8a899df1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Don't depend on new changes"
+
+**2020-12-23** — opened PR [#7](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP + incremental support"
+
+**2020-12-23** — created branch "z/updateKsp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
 **2020-12-23** — created branch "z/forge" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-22** — closed issue [#9](https://api.github.com/repos/ZacSweers/MoshiX/issues/9) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Java support"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-22** — closed issue [#73](https://api.github.com/repos/ZacSweers/MoshiX/issues/73) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "DefaultObject and DefaultNull Unresolved reference withDefaultValue"
 
 **2020-12-22** — commented on [#73](https://github.com/ZacSweers/MoshiX/issues/73#issuecomment-749812514) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — closed issue [#72](https://api.github.com/repos/ZacSweers/MoshiX/issues/72) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Compatibility with Anvil"
-
-**2020-12-22** — commented on [#72](https://github.com/ZacSweers/MoshiX/issues/72#issuecomment-749793642) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-749730097) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-22** — commented on [#69](https://github.com/ZacSweers/MoshiX/issues/69#issuecomment-749729136) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
