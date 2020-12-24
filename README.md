@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-23** — deleted branch "z/67" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2020-12-23** — pushed [`5f4e628c`](https://github.com/slackhq/keeper/commit/5f4e628cfee9f3fa7373730297f5a47522879723) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies (#68)"
 
 **2020-12-23** — deleted branch "z/updateDeps" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-23** — deleted branch "z/updateKsp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2020-12-23** — closed PR [#7](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP + incremental support"
-
-**2020-12-23** — pushed [`9bad0f6b`](https://github.com/ZacSweers/auto-service-ksp/commit/9bad0f6bd18ad8653cb828440f65672afc371b7f) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "True again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
