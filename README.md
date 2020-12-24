@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-24** — pushed 1 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2020-12-24** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
 **2020-12-24** — deleted branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2020-12-24** — commented on [#1283](https://github.com/square/moshi/issues/1283#issuecomment-750820581) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-24** — opened PR [#94](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/94) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.20-dev-experimental-20201222"
 
 **2020-12-24** — created branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-24** — pushed 106 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2020-12-24** — closed issue [#68](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/68) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Consider publishing snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
