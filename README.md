@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-12-23** — deleted branch "z/67" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2020-12-24** — opened PR [#95](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/95) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Report KSP logs in compilations"
 
-**2020-12-23** — pushed [`5f4e628c`](https://github.com/slackhq/keeper/commit/5f4e628cfee9f3fa7373730297f5a47522879723) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies (#68)"
+**2020-12-24** — created branch "z/logger" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
-**2020-12-23** — deleted branch "z/updateDeps" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2020-12-24** — pushed [`c2204de1`](https://github.com/ZacSweers/kotlin-compile-testing/commit/c2204de1a1d1e1ef02ef28cd92fef9ab1660cf81) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Add new required builder options"
 
-**2020-12-23** — closed PR [#68](https://api.github.com/repos/slackhq/keeper/pulls/68) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies"
+**2020-12-24** — pushed [`5c148ea0`](https://github.com/ZacSweers/kotlin-compile-testing/commit/5c148ea08e2d35699049b188626f558c567e506b) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update test"
 
-**2020-12-23** — commented on [#68](https://github.com/slackhq/keeper/pull/68#issuecomment-750717403) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2020-12-24** — opened PR [#94](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/94) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.20-dev-experimental-20201222"
 
-**2020-12-23** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2020-12-24** — created branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
-**2020-12-23** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2020-12-24** — pushed 106 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
-**2020-12-23** — pushed [`cb71a0a7`](https://github.com/ZacSweers/auto-service-ksp/commit/cb71a0a70bbba346390679d46d0b988d70b7d35b) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP + incremental support (#7)"
+**2020-12-24** — closed issue [#68](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/68) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Consider publishing snapshots"
 
-**2020-12-23** — deleted branch "z/updateKsp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2020-12-23** — closed PR [#7](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP + incremental support"
+**2020-12-24** — commented on [#68](https://github.com/tschuchortdev/kotlin-compile-testing/issues/68#issuecomment-750794467) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
