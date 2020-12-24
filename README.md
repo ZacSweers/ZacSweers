@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-24** — commented on [#1283](https://github.com/square/moshi/issues/1283#issuecomment-750820581) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-12-24** — opened PR [#95](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/95) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Report KSP logs in compilations"
 
 **2020-12-24** — created branch "z/logger" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
