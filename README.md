@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-24** — deleted branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
 **2020-12-24** — commented on [#1283](https://github.com/square/moshi/issues/1283#issuecomment-750820581) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-24** — opened PR [#95](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/95) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Report KSP logs in compilations"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-24** — pushed 106 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2020-12-24** — closed issue [#68](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/68) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Consider publishing snapshots"
-
-**2020-12-24** — commented on [#68](https://github.com/tschuchortdev/kotlin-compile-testing/issues/68#issuecomment-750794467) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
