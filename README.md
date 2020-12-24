@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-24** — deleted branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-24** — closed PR [#66](https://api.github.com/repos/ZacSweers/MoshiX/pulls/66) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and kotlin"
+
+**2020-12-24** — commented on [#66](https://github.com/ZacSweers/MoshiX/pull/66#issuecomment-751130856) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-24** — opened PR [#74](https://api.github.com/repos/ZacSweers/MoshiX/pulls/74) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental"
+
+**2020-12-24** — created branch "z/updateKSP" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2020-12-24** — opened PR [#96](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/96) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Add options for enabling incremental and incremental logging"
+
+**2020-12-24** — created branch "z/incrementalControls" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
 **2020-12-24** — pushed 1 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2020-12-24** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2020-12-24** — deleted branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-24** — commented on [#1283](https://github.com/square/moshi/issues/1283#issuecomment-750820581) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-24** — opened PR [#95](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/95) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Report KSP logs in compilations"
-
-**2020-12-24** — created branch "z/logger" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-24** — pushed [`c2204de1`](https://github.com/ZacSweers/kotlin-compile-testing/commit/c2204de1a1d1e1ef02ef28cd92fef9ab1660cf81) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Add new required builder options"
-
-**2020-12-24** — pushed [`5c148ea0`](https://github.com/ZacSweers/kotlin-compile-testing/commit/5c148ea08e2d35699049b188626f558c567e506b) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update test"
-
-**2020-12-24** — opened PR [#94](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/94) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.20-dev-experimental-20201222"
-
-**2020-12-24** — created branch "z/updateKsp" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
