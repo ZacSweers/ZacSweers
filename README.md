@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-26** — commented on [#96](https://github.com/tschuchortdev/kotlin-compile-testing/pull/96#issuecomment-751320143) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2020-12-26** — opened issue [#210](https://api.github.com/repos/google/ksp/issues/210) on [google/ksp](https://api.github.com/repos/google/ksp): "Incremental logging does not create a file first"
+
 **2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751313819) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2020-12-25** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-24** — deleted branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-24** — closed PR [#66](https://api.github.com/repos/ZacSweers/MoshiX/pulls/66) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and kotlin"
-
-**2020-12-24** — commented on [#66](https://github.com/ZacSweers/MoshiX/pull/66#issuecomment-751130856) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-24** — opened PR [#74](https://api.github.com/repos/ZacSweers/MoshiX/pulls/74) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
