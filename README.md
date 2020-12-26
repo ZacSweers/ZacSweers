@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751313819) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2020-12-25** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2020-12-25** — pushed [`033b5c7c`](https://github.com/ZacSweers/MoshiX/commit/033b5c7cf80460b020bfaaed77377c386fcf84cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reflectively fetch stream instead"
+
+**2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751312672) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751312485) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
 **2020-12-25** — commented on [#96](https://github.com/tschuchortdev/kotlin-compile-testing/pull/96#issuecomment-751312081) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2020-12-24** — deleted branch "z/updateDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-24** — commented on [#66](https://github.com/ZacSweers/MoshiX/pull/66#issuecomment-751130856) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2020-12-24** — opened PR [#74](https://api.github.com/repos/ZacSweers/MoshiX/pulls/74) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental"
-
-**2020-12-24** — created branch "z/updateKSP" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-24** — opened PR [#96](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/96) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Add options for enabling incremental and incremental logging"
-
-**2020-12-24** — created branch "z/incrementalControls" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-24** — pushed 1 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2020-12-24** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
