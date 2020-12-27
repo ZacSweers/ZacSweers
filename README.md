@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-26** — commented on [#122](https://github.com/google/ksp/issues/122#issuecomment-751414394) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-12-26** — commented on [#70](https://github.com/tschuchortdev/kotlin-compile-testing/issues/70#issuecomment-751414151) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2020-12-26** — opened PR [#97](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/97) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Fix name for resources dir"
+
+**2020-12-26** — created branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
+**2020-12-26** — pushed 4 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2020-12-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-12-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2020-12-26** — created tag "0.2.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2020-12-26** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
 **2020-12-26** — pushed [`ca1f5f13`](https://github.com/ZacSweers/auto-service-ksp/commit/ca1f5f13eb05b956fde8ed4f9cf28544a05fb0df) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Add incremental tests"
-
-**2020-12-26** — pushed [`32b9350b`](https://github.com/ZacSweers/auto-service-ksp/commit/32b9350b2cf89b6675678d9e09ac15e4f82cc0dd) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update ksp testing + re-enable"
-
-**2020-12-26** — deleted branch "z/logger" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-26** — deleted branch "z/incrementalControls" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-26** — commented on [#96](https://github.com/tschuchortdev/kotlin-compile-testing/pull/96#issuecomment-751320143) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2020-12-26** — opened issue [#210](https://api.github.com/repos/google/ksp/issues/210) on [google/ksp](https://api.github.com/repos/google/ksp): "Incremental logging does not create a file first"
-
-**2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751313819) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2020-12-25** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2020-12-25** — pushed [`033b5c7c`](https://github.com/ZacSweers/MoshiX/commit/033b5c7cf80460b020bfaaed77377c386fcf84cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reflectively fetch stream instead"
-
-**2020-12-25** — commented on [#95](https://github.com/tschuchortdev/kotlin-compile-testing/pull/95#issuecomment-751312672) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
