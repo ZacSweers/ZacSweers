@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2020-12-26** — commented on [#122](https://github.com/google/ksp/issues/122#issuecomment-751414394) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2020-12-26** — commented on [#84](https://github.com/google/ksp/issues/84#issuecomment-751419653) in [google/ksp](https://api.github.com/repos/google/ksp)
 
-**2020-12-26** — commented on [#70](https://github.com/tschuchortdev/kotlin-compile-testing/issues/70#issuecomment-751414151) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+**2020-12-26** — pushed [`7cf70220`](https://github.com/ZacSweers/MoshiX/commit/7cf70220d5d9e6e85f2394e7257fa808faf6a17e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix exclude logic"
 
-**2020-12-26** — opened PR [#97](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/97) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Fix name for resources dir"
+**2020-12-26** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-751419056) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
-**2020-12-26** — created branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+**2020-12-26** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-751419005) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
-**2020-12-26** — pushed 4 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+**2020-12-26** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-751418752) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
-**2020-12-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-12-26** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-751418690) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
-**2020-12-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2020-12-26** — pushed 3 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
-**2020-12-26** — created tag "0.2.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2020-12-26** — pushed [`61a375ce`](https://github.com/ZacSweers/ticktock/commit/61a375ce175941d4453a3310dd361675dbc67094) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update path setting"
 
-**2020-12-26** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+**2020-12-26** — pushed [`80bf4e5c`](https://github.com/ZacSweers/MoshiX/commit/80bf4e5c53917c13fa6987e89130fef78ad0740b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Restore comment"
 
-**2020-12-26** — pushed [`ca1f5f13`](https://github.com/ZacSweers/auto-service-ksp/commit/ca1f5f13eb05b956fde8ed4f9cf28544a05fb0df) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Add incremental tests"
+**2020-12-26** — pushed [`82272d3b`](https://github.com/ZacSweers/MoshiX/commit/82272d3b735b184742db84d45b4ea3c79ccfd760) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak settings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
