@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-29** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-751982753) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2020-12-27** — deleted branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2020-12-26** — created tag "0.7.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-26** — closed PR [#74](https://api.github.com/repos/ZacSweers/MoshiX/pulls/74) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental"
 
 **2020-12-26** — commented on [#84](https://github.com/google/ksp/issues/84#issuecomment-751419653) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2020-12-26** — pushed [`7cf70220`](https://github.com/ZacSweers/MoshiX/commit/7cf70220d5d9e6e85f2394e7257fa808faf6a17e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix exclude logic"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
