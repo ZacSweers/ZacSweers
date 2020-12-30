@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-29** — opened issue [#9](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/9) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Support generic types"
+
+**2020-12-29** — commented on [#8](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/8#issuecomment-752291760) in [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin)
+
+**2020-12-29** — created branch "z/updateApis" on [ZacSweers/gradle-buildconfig-plugin](https://api.github.com/repos/ZacSweers/gradle-buildconfig-plugin)
+
+**2020-12-29** — opened issue [#8](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/8) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Is this maintained?"
+
 **2020-12-29** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-751982753) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2020-12-27** — deleted branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-26** — closed issue [#70](https://api.github.com/repos/ZacSweers/MoshiX/issues/70) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support KSP 1.4.20-dev-experimental-20201222"
 
 **2020-12-26** — commented on [#70](https://github.com/ZacSweers/MoshiX/issues/70#issuecomment-751419940) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-26** — pushed [`d978453f`](https://github.com/ZacSweers/MoshiX/commit/d978453fe851d079f39f65162d66bb4f68c334cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental (#74)"
-
-**2020-12-26** — deleted branch "z/updateKSP" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-26** — closed PR [#74](https://api.github.com/repos/ZacSweers/MoshiX/pulls/74) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP and Kotlin + incremental"
-
-**2020-12-26** — commented on [#84](https://github.com/google/ksp/issues/84#issuecomment-751419653) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
