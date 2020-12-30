@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752753078) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2020-12-30** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-752745168) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752744783) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752744193) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2020-12-30** — commented on [#215](https://github.com/google/ksp/pull/215#issuecomment-752394849) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2020-12-30** — opened issue [#2248](https://api.github.com/repos/google/dagger/issues/2248) on [google/dagger](https://api.github.com/repos/google/dagger): "AssistedInject doesn't resolve typevariables"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-29** — pushed 714 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2020-12-29** — opened issue [#9](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/9) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Support generic types"
-
-**2020-12-29** — commented on [#8](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/8#issuecomment-752291760) in [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin)
-
-**2020-12-29** — created branch "z/updateApis" on [ZacSweers/gradle-buildconfig-plugin](https://api.github.com/repos/ZacSweers/gradle-buildconfig-plugin)
-
-**2020-12-29** — opened issue [#8](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/8) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Is this maintained?"
-
-**2020-12-29** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-751982753) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
