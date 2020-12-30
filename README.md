@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752764404) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752757656) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752753078) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-12-30** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-752745168) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — pushed 156 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
 
 **2020-12-30** — pushed 10 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
-
-**2020-12-29** — pushed 714 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
-
-**2020-12-29** — opened issue [#9](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/9) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Support generic types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
