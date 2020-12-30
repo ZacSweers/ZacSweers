@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — commented on [#215](https://github.com/google/ksp/pull/215#issuecomment-752394849) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2020-12-30** — opened issue [#2248](https://api.github.com/repos/google/dagger/issues/2248) on [google/dagger](https://api.github.com/repos/google/dagger): "AssistedInject doesn't resolve typevariables"
+
 **2020-12-30** — pushed 156 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
 
 **2020-12-30** — pushed 10 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-29** — opened issue [#8](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/8) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Is this maintained?"
 
 **2020-12-29** — commented on [#169](https://github.com/square/anvil/issues/169#issuecomment-751982753) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2020-12-27** — deleted branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2020-12-26** — created tag "0.7.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
