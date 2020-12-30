@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — pushed 156 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
+
+**2020-12-30** — pushed 10 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
+
 **2020-12-29** — pushed 714 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2020-12-29** — opened issue [#9](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin/issues/9) on [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin): "Support generic types"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-27** — deleted branch "z/fixResources" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2020-12-26** — created tag "0.7.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2020-12-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2020-12-26** — closed issue [#70](https://api.github.com/repos/ZacSweers/MoshiX/issues/70) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support KSP 1.4.20-dev-experimental-20201222"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
