@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752781153) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752764404) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752757656) in [google/dagger](https://api.github.com/repos/google/dagger)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — opened issue [#2248](https://api.github.com/repos/google/dagger/issues/2248) on [google/dagger](https://api.github.com/repos/google/dagger): "AssistedInject doesn't resolve typevariables"
 
 **2020-12-30** — pushed 156 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
-
-**2020-12-30** — pushed 10 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
