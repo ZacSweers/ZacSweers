@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-30** — closed issue [#437](https://api.github.com/repos/uber/NullAway/issues/437) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Autopatch + castToNonNull mode"
+
+**2020-12-30** — commented on [#437](https://github.com/uber/NullAway/issues/437#issuecomment-752801946) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
+
 **2020-12-30** — opened issue [#438](https://api.github.com/repos/uber/NullAway/issues/438) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Accept a `Nullable` annotation name and suggest it in cases where it's missing"
 
 **2020-12-30** — opened issue [#437](https://api.github.com/repos/uber/NullAway/issues/437) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Autopatch + castToNonNull mode"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-752745168) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752744783) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752744193) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-30** — commented on [#215](https://github.com/google/ksp/pull/215#issuecomment-752394849) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
