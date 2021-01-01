@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2020-12-31** — pushed [`c006e38b`](https://github.com/ZacSweers/ticktock/commit/c006e38b35a28564641c735131f073657b8bce0b) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "2020f to end 2020"
+
 **2020-12-30** — closed issue [#437](https://api.github.com/repos/uber/NullAway/issues/437) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Autopatch + castToNonNull mode"
 
 **2020-12-30** — commented on [#437](https://github.com/uber/NullAway/issues/437#issuecomment-752801946) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752753078) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2020-12-30** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-752745168) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752744783) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
