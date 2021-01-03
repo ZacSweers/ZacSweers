@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-03** — pushed 19 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
+
 **2021-01-02** — opened issue [#15674](https://api.github.com/repos/gradle/gradle/issues/15674) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "New Catalogue API Feedback"
 
 **2021-01-02** — commented on [#832](https://github.com/square/moshi/issues/832#issuecomment-753513887) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752781153) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752764404) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752757656) in [google/dagger](https://api.github.com/repos/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
