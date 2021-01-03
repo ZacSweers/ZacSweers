@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-02** — opened issue [#15674](https://api.github.com/repos/gradle/gradle/issues/15674) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "New Catalogue API Feedback"
+
 **2021-01-02** — commented on [#832](https://github.com/square/moshi/issues/832#issuecomment-753513887) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-31** — pushed [`c006e38b`](https://github.com/ZacSweers/ticktock/commit/c006e38b35a28564641c735131f073657b8bce0b) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "2020f to end 2020"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-752764404) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752757656) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2020-12-30** — commented on [#34](https://github.com/ZacSweers/redacted-compiler-plugin/issues/34#issuecomment-752753078) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
