@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-04** — pushed [`129059f3`](https://github.com/slackhq/keeper/commit/129059f3bb131b299d2e98d13c51f049c2b17d44) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups (#73)"
+
+**2021-01-04** — deleted branch "z/followups" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-01-04** — closed PR [#73](https://api.github.com/repos/slackhq/keeper/pulls/73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups"
+
+**2021-01-04** — pushed [`601c6fd5`](https://github.com/slackhq/keeper/commit/601c6fd50013f61398cf61eb0b7d2879b39e16f1) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update sample/build.gradle"
+
 **2021-01-04** — opened PR [#73](https://api.github.com/repos/slackhq/keeper/pulls/73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups"
 
 **2021-01-04** — pushed [`bacb1b22`](https://github.com/ZacSweers/MoshiX/commit/bacb1b225659d908bce862996dd82dac3fe9c0ed) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Comment"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-04** — closed PR [#69](https://api.github.com/repos/slackhq/keeper/pulls/69) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add support for the new TraceReferences entry-point"
 
 **2021-01-04** — pushed [`5f1b0abb`](https://github.com/slackhq/keeper/commit/5f1b0abb9ed63376083bf32324f06c7cea9baf13) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "SImplify plugin tests execution (#72)"
-
-**2021-01-04** — closed PR [#72](https://api.github.com/repos/slackhq/keeper/pulls/72) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Simplify plugin tests execution"
-
-**2021-01-04** — commented on [#72](https://github.com/slackhq/keeper/pull/72#issuecomment-753825175) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-01-04** — commented on [#15674](https://github.com/gradle/gradle/issues/15674#issuecomment-753814672) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-01-03** — pushed 19 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
