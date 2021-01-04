@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-04** — pushed [`5f1b0abb`](https://github.com/slackhq/keeper/commit/5f1b0abb9ed63376083bf32324f06c7cea9baf13) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "SImplify plugin tests execution (#72)"
+
+**2021-01-04** — closed PR [#72](https://api.github.com/repos/slackhq/keeper/pulls/72) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Simplify plugin tests execution"
+
+**2021-01-04** — commented on [#72](https://github.com/slackhq/keeper/pull/72#issuecomment-753825175) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-01-04** — commented on [#15674](https://github.com/gradle/gradle/issues/15674#issuecomment-753814672) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-01-03** — pushed 19 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-12-30** — closed issue [#437](https://api.github.com/repos/uber/NullAway/issues/437) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Autopatch + castToNonNull mode"
 
 **2020-12-30** — commented on [#437](https://github.com/uber/NullAway/issues/437#issuecomment-752801946) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
-
-**2020-12-30** — opened issue [#438](https://api.github.com/repos/uber/NullAway/issues/438) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Accept a `Nullable` annotation name and suggest it in cases where it's missing"
-
-**2020-12-30** — opened issue [#437](https://api.github.com/repos/uber/NullAway/issues/437) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "Suggestion: Autopatch + castToNonNull mode"
-
-**2020-12-30** — commented on [#2248](https://github.com/google/dagger/issues/2248#issuecomment-752781153) in [google/dagger](https://api.github.com/repos/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
