@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-05** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-754475811) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-01-05** — opened issue [#118](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/118) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Emulator never comes online"
+
 **2021-01-05** — pushed [`9d6711bf`](https://github.com/ZacSweers/ticktock/commit/9d6711bf0825566ead0f397eeb7b75873d0bffbe) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Force newer version"
 
 **2021-01-05** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-754465509) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-05** — closed issue [#65](https://api.github.com/repos/slackhq/keeper/issues/65) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "PrintUses assertion failure on methods returning inline classes"
 
 **2021-01-05** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-754455566) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-01-05** — commented on [#2655](https://github.com/detekt/detekt/issues/2655#issuecomment-754452363) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-01-05** — opened PR [#3347](https://api.github.com/repos/detekt/detekt/pulls/3347) to [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Remove trailing newline after ending IndentingXMLStreamWriter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
