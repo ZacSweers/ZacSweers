@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-04** — pushed [`c1288d9a`](https://github.com/slackhq/keeper/commit/c1288d9a89bf0a5e0220fa0768902a0e114d3179) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix dokka bits"
+
+**2021-01-04** — closed issue [#1686](https://api.github.com/repos/Kotlin/dokka/issues/1686) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Empty collection can't be reduced exception with 1.4.20"
+
+**2021-01-04** — commented on [#1686](https://github.com/Kotlin/dokka/issues/1686#issuecomment-754347831) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+
 **2021-01-04** — pushed [`23a5acc3`](https://github.com/slackhq/keeper/commit/23a5acc381f13c3fc7a9dc3e9c578c1dc645d6aa) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add lists"
 
 **2021-01-04** — pushed [`7c9a371c`](https://github.com/slackhq/keeper/commit/7c9a371cf77036b8a9348efa796e8a58196c256f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 8c93eed with MkDocs version: 1.1.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-04** — created tag "0.8.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-01-04** — pushed 6 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-01-04** — deleted branch "z/moreStuff" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-01-04** — pushed [`4e4e0171`](https://github.com/slackhq/keeper/commit/4e4e01717d76f446122397c14aa908e14d60b6b9) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Misc cleanups (#74)"
-
-**2021-01-04** — closed PR [#74](https://api.github.com/repos/slackhq/keeper/pulls/74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Misc cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
