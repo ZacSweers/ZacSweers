@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-05** — commented on [#118](https://github.com/ReactiveCircus/android-emulator-runner/issues/118#issuecomment-754517272) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
+
 **2021-01-05** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-754475811) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-01-05** — opened issue [#118](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/118) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Emulator never comes online"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-05** — closed issue [#49](https://api.github.com/repos/slackhq/keeper/issues/49) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 4 APIs"
 
 **2021-01-05** — closed issue [#65](https://api.github.com/repos/slackhq/keeper/issues/65) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "PrintUses assertion failure on methods returning inline classes"
-
-**2021-01-05** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-754455566) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
