@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-04** — pushed [`7052b7f0`](https://github.com/slackhq/keeper/commit/7052b7f0a55a6536d0471953f729c4ff9faa95f5) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix AGP API location"
+
 **2021-01-04** — pushed [`c1288d9a`](https://github.com/slackhq/keeper/commit/c1288d9a89bf0a5e0220fa0768902a0e114d3179) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix dokka bits"
 
 **2021-01-04** — closed issue [#1686](https://api.github.com/repos/Kotlin/dokka/issues/1686) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Empty collection can't be reduced exception with 1.4.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-04** — pushed [`5ea9aa3c`](https://github.com/slackhq/keeper/commit/5ea9aa3c9d1881061d27424c65c0c16c7d1e0a36) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use -p"
 
 **2021-01-04** — created tag "0.8.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-01-04** — pushed 6 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
