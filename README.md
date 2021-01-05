@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-04** — pushed [`129059f3`](https://github.com/slackhq/keeper/commit/129059f3bb131b299d2e98d13c51f049c2b17d44) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups (#73)"
+**2021-01-04** — pushed [`23a5acc3`](https://github.com/slackhq/keeper/commit/23a5acc381f13c3fc7a9dc3e9c578c1dc645d6aa) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add lists"
 
-**2021-01-04** — deleted branch "z/followups" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-01-04** — pushed [`7c9a371c`](https://github.com/slackhq/keeper/commit/7c9a371cf77036b8a9348efa796e8a58196c256f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 8c93eed with MkDocs version: 1.1.2"
 
-**2021-01-04** — closed PR [#73](https://api.github.com/repos/slackhq/keeper/pulls/73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups"
+**2021-01-04** — pushed [`8c93eed5`](https://github.com/slackhq/keeper/commit/8c93eed50d2eaaa4c9a2f598cfa61aa17d51c7cb) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable dokka for now"
 
-**2021-01-04** — pushed [`601c6fd5`](https://github.com/slackhq/keeper/commit/601c6fd50013f61398cf61eb0b7d2879b39e16f1) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update sample/build.gradle"
+**2021-01-04** — opened issue [#1686](https://api.github.com/repos/Kotlin/dokka/issues/1686) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Collection can't be reduced exception with 1.4.20"
 
-**2021-01-04** — opened PR [#73](https://api.github.com/repos/slackhq/keeper/pulls/73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "TraceReferences followups"
+**2021-01-04** — pushed [`5ea9aa3c`](https://github.com/slackhq/keeper/commit/5ea9aa3c9d1881061d27424c65c0c16c7d1e0a36) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use -p"
 
-**2021-01-04** — pushed [`bacb1b22`](https://github.com/ZacSweers/MoshiX/commit/bacb1b225659d908bce862996dd82dac3fe9c0ed) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Comment"
+**2021-01-04** — created tag "0.8.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-01-04** — created branch "z/followups" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-01-04** — pushed 6 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
-**2021-01-04** — pushed [`995565d3`](https://github.com/slackhq/keeper/commit/995565d302cbee5a8b9173a7412af7029ccaaab0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add support for the new TraceReferences entry-point (#69)"
+**2021-01-04** — deleted branch "z/moreStuff" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-01-04** — closed PR [#69](https://api.github.com/repos/slackhq/keeper/pulls/69) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add support for the new TraceReferences entry-point"
+**2021-01-04** — pushed [`4e4e0171`](https://github.com/slackhq/keeper/commit/4e4e01717d76f446122397c14aa908e14d60b6b9) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Misc cleanups (#74)"
 
-**2021-01-04** — pushed [`5f1b0abb`](https://github.com/slackhq/keeper/commit/5f1b0abb9ed63376083bf32324f06c7cea9baf13) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "SImplify plugin tests execution (#72)"
+**2021-01-04** — closed PR [#74](https://api.github.com/repos/slackhq/keeper/pulls/74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Misc cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
