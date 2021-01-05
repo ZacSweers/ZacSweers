@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-05** — commented on [#3346](https://github.com/detekt/detekt/issues/3346#issuecomment-754421768) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+**2021-01-05** — pushed [`9d6711bf`](https://github.com/ZacSweers/ticktock/commit/9d6711bf0825566ead0f397eeb7b75873d0bffbe) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Force newer version"
 
-**2021-01-05** — opened issue [#3346](https://api.github.com/repos/detekt/detekt/issues/3346) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "NPE in running gradle baseline task"
+**2021-01-05** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-754465509) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
-**2021-01-04** — pushed [`7052b7f0`](https://github.com/slackhq/keeper/commit/7052b7f0a55a6536d0471953f729c4ff9faa95f5) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix AGP API location"
+**2021-01-05** — pushed 2 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 
-**2021-01-04** — pushed [`c1288d9a`](https://github.com/slackhq/keeper/commit/c1288d9a89bf0a5e0220fa0768902a0e114d3179) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix dokka bits"
+**2021-01-05** — pushed 88 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 
-**2021-01-04** — closed issue [#1686](https://api.github.com/repos/Kotlin/dokka/issues/1686) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Empty collection can't be reduced exception with 1.4.20"
+**2021-01-05** — created branch "z/slim" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
 
-**2021-01-04** — commented on [#1686](https://github.com/Kotlin/dokka/issues/1686#issuecomment-754347831) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+**2021-01-05** — closed issue [#49](https://api.github.com/repos/slackhq/keeper/issues/49) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 4 APIs"
 
-**2021-01-04** — pushed [`23a5acc3`](https://github.com/slackhq/keeper/commit/23a5acc381f13c3fc7a9dc3e9c578c1dc645d6aa) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add lists"
+**2021-01-05** — closed issue [#65](https://api.github.com/repos/slackhq/keeper/issues/65) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "PrintUses assertion failure on methods returning inline classes"
 
-**2021-01-04** — pushed [`7c9a371c`](https://github.com/slackhq/keeper/commit/7c9a371cf77036b8a9348efa796e8a58196c256f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 8c93eed with MkDocs version: 1.1.2"
+**2021-01-05** — commented on [#65](https://github.com/slackhq/keeper/issues/65#issuecomment-754455566) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-01-04** — pushed [`8c93eed5`](https://github.com/slackhq/keeper/commit/8c93eed50d2eaaa4c9a2f598cfa61aa17d51c7cb) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable dokka for now"
+**2021-01-05** — commented on [#2655](https://github.com/detekt/detekt/issues/2655#issuecomment-754452363) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
-**2021-01-04** — opened issue [#1686](https://api.github.com/repos/Kotlin/dokka/issues/1686) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Collection can't be reduced exception with 1.4.20"
+**2021-01-05** — opened PR [#3347](https://api.github.com/repos/detekt/detekt/pulls/3347) to [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Remove trailing newline after ending IndentingXMLStreamWriter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
