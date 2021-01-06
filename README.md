@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-06** — commented on [#118](https://github.com/ReactiveCircus/android-emulator-runner/issues/118#issuecomment-755646197) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
+
+**2021-01-06** — pushed [`9243e47d`](https://github.com/ZacSweers/ticktock/commit/9243e47d004256b4d247317faddf1e87187b5362) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Try ANDROID_SDK_ROOT"
+
 **2021-01-06** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-755417964) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-01-05** — commented on [#118](https://github.com/ReactiveCircus/android-emulator-runner/issues/118#issuecomment-754517272) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-05** — pushed 2 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
 
 **2021-01-05** — pushed 88 commits to [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt).
-
-**2021-01-05** — created branch "z/slim" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
-
-**2021-01-05** — closed issue [#49](https://api.github.com/repos/slackhq/keeper/issues/49) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 4 APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
