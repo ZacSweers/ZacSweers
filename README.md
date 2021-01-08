@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-08** — commented on [#1285](https://github.com/square/moshi/issues/1285#issuecomment-757039904) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-01-08** — opened PR [#75](https://api.github.com/repos/ZacSweers/MoshiX/pulls/75) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
+
+**2021-01-08** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-01-08** — opened PR [#8](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp)"
+
+**2021-01-08** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-01-08** — opened PR [#100](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/100) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 20210107"
+
+**2021-01-08** — created branch "z/kspUpdate" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
+**2021-01-08** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
 **2021-01-07** — created branch "z/ir" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-01-07** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-756243578) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-07** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-756239922) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-01-06** — commented on [#118](https://github.com/ReactiveCircus/android-emulator-runner/issues/118#issuecomment-755646197) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
-
-**2021-01-06** — pushed [`9243e47d`](https://github.com/ZacSweers/ticktock/commit/9243e47d004256b4d247317faddf1e87187b5362) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Try ANDROID_SDK_ROOT"
-
-**2021-01-06** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-755417964) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-05** — commented on [#118](https://github.com/ReactiveCircus/android-emulator-runner/issues/118#issuecomment-754517272) in [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner)
-
-**2021-01-05** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-754475811) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-05** — opened issue [#118](https://api.github.com/repos/ReactiveCircus/android-emulator-runner/issues/118) on [ReactiveCircus/android-emulator-runner](https://api.github.com/repos/ReactiveCircus/android-emulator-runner): "Emulator never comes online"
-
-**2021-01-05** — pushed [`9d6711bf`](https://github.com/ZacSweers/ticktock/commit/9d6711bf0825566ead0f397eeb7b75873d0bffbe) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Force newer version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
