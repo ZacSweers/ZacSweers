@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-08** — commented on [#39](https://github.com/ZacSweers/redacted-compiler-plugin/pull/39#issuecomment-757073800) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-01-08** — opened issue [#34](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/34) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Inconsistent Gradle behavior across different Java versions"
+
+**2021-01-08** — pushed [`3c84412c`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/3c84412cc646998cc1179a3f2a04afa5c80141f4) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Add back?"
+
+**2021-01-08** — opened PR [#47](https://api.github.com/repos/ZacSweers/ticktock/pulls/47) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Gradle 6.8 final"
+
+**2021-01-08** — created branch "z/gradle68Final" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-01-08** — created tag "1.1.0-2020f" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
 **2021-01-08** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
-**2021-01-08** — created tag "0.5.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-08** — pushed [`69b15af1`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/69b15af19a44e1ae1a1612efdbdb009afedfd0f3) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove sample-android?"
 
-**2021-01-08** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-01-08** — opened PR [#39](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/39) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate ABI validator + modernize gradle extension"
 
-**2021-01-08** — pushed [`00571374`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/00571374a30aa49354b6c2c9160e9e52ad467f18) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup (#37)"
-
-**2021-01-08** — deleted branch "z/indy" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-08** — closed PR [#37](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/37) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup"
-
-**2021-01-08** — opened PR [#37](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/37) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup"
-
-**2021-01-08** — created branch "z/indy" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-08** — pushed [`c724ef27`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c724ef27979f2e3423c0d8d9be4d29d6df9a6119) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix IR args + Gradle 6.8 (#36)"
-
-**2021-01-08** — deleted branch "z/fixes" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-08** — opened issue [#38](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/38) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Enable support for non-jvm compilations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
