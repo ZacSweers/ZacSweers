@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-09** — pushed [`97ec691f`](https://github.com/uber/AutoDispose/commit/97ec691fbeff447eba8c0f1aeaf40a92b10e0e1d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix another"
+
+**2021-01-09** — pushed [`0ba7c921`](https://github.com/uber/AutoDispose/commit/0ba7c9210ed44ce3a5a96ef1eccc4a9794e1e7b8) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More fixes"
+
+**2021-01-09** — pushed [`f41a2281`](https://github.com/uber/AutoDispose/commit/f41a22816d1855aafef4c95be62c5e452bba9725) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update actions"
+
+**2021-01-09** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-01-09** — opened PR [#438](https://api.github.com/repos/uber/AutoDispose/pulls/438) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Misc updates"
+
+**2021-01-09** — commented on [#131](https://github.com/gradle/android-cache-fix-gradle-plugin/pull/131#issuecomment-757376815) in [gradle/android-cache-fix-gradle-plugin](https://api.github.com/repos/gradle/android-cache-fix-gradle-plugin)
+
+**2021-01-09** — created branch "z/updates2" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-01-09** — pushed [`1d16ec25`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/1d16ec2576d2fab96bec4942bbe330f81475beb2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate ABI validator + modernize gradle extension (#39)"
 
 **2021-01-09** — deleted branch "z/moarGradle" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-01-09** — closed PR [#39](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/39) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate ABI validator + modernize gradle extension"
-
-**2021-01-09** — closed issue [#34](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/34) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate kotlin ABI validator"
-
-**2021-01-09** — pushed [`bbd94d9e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/bbd94d9e754262b77041546cdb3ff8ae0f395f4e) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "doh"
-
-**2021-01-09** — commented on [#1286](https://github.com/square/moshi/pull/1286#issuecomment-757360062) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-01-09** — pushed [`ae0fadd9`](https://github.com/ZacSweers/ticktock/commit/ae0fadd956b63289c524a3ae3d2069deb718c751) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Gradle 6.8 final (#47)"
-
-**2021-01-09** — deleted branch "z/gradle68Final" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-09** — closed PR [#47](https://api.github.com/repos/ZacSweers/ticktock/pulls/47) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Gradle 6.8 final"
-
-**2021-01-09** — commented on [#34](https://github.com/Kotlin/binary-compatibility-validator/issues/34#issuecomment-757334795) in [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
