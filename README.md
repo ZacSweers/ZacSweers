@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-08** — opened issue [#55](https://api.github.com/repos/sherter/google-java-format-gradle-plugin/issues/55) on [sherter/google-java-format-gradle-plugin](https://api.github.com/repos/sherter/google-java-format-gradle-plugin): "Support Gradle Configuration Caching"
+
+**2021-01-08** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-757086831) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2021-01-08** — pushed [`5be6eeaf`](https://github.com/ZacSweers/android-cache-fix-gradle-plugin/commit/5be6eeaf1d7fdb8882ffff4ee4c94d657ad53633) to [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin): "Formatting?"
 
 **2021-01-08** — commented on [#131](https://github.com/gradle/android-cache-fix-gradle-plugin/pull/131#issuecomment-757085794) in [gradle/android-cache-fix-gradle-plugin](https://api.github.com/repos/gradle/android-cache-fix-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-08** — commented on [#29](https://github.com/google/Accessibility-Test-Framework-for-Android/issues/29#issuecomment-757082474) in [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android)
 
 **2021-01-08** — opened issue [#29](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android/issues/29) on [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android): "Please shade copied in classes"
-
-**2021-01-08** — commented on [#39](https://github.com/ZacSweers/redacted-compiler-plugin/pull/39#issuecomment-757073800) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-08** — opened issue [#34](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/34) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Inconsistent Gradle behavior across different Java versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
