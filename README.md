@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-09** — pushed [`f816fc94`](https://github.com/ZacSweers/android-cache-fix-gradle-plugin/commit/f816fc94319e2c4fc697f597d1ce803413dc2862) to [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin): "Rework API for testing"
+
 **2021-01-09** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-757097747) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2021-01-08** — pushed [`825417f2`](https://github.com/ZacSweers/android-cache-fix-gradle-plugin/commit/825417f27f01c15130d564fe1f82c7647f47a56b) to [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin): "Raise to 6.5"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-08** — pushed [`984f2896`](https://github.com/ZacSweers/android-cache-fix-gradle-plugin/commit/984f289693a0b94fcdb7574f4250fbb29dd59e4b) to [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin): "Update usages"
 
 **2021-01-08** — created branch "z/systemProperty" on [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin)
-
-**2021-01-08** — closed issue [#29](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android/issues/29) on [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android): "Please shade copied in classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
