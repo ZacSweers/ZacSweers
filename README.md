@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-08** — commented on [#1285](https://github.com/square/moshi/issues/1285#issuecomment-757039904) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-01-08** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
-**2021-01-08** — opened PR [#75](https://api.github.com/repos/ZacSweers/MoshiX/pulls/75) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
+**2021-01-08** — created tag "0.5.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-08** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-01-08** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
-**2021-01-08** — opened PR [#8](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp)"
+**2021-01-08** — pushed [`00571374`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/00571374a30aa49354b6c2c9160e9e52ad467f18) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup (#37)"
 
-**2021-01-08** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-01-08** — deleted branch "z/indy" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-08** — opened PR [#100](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/100) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 20210107"
+**2021-01-08** — closed PR [#37](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/37) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup"
 
-**2021-01-08** — created branch "z/kspUpdate" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+**2021-01-08** — opened PR [#37](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/37) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix indy setup"
 
-**2021-01-08** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+**2021-01-08** — created branch "z/indy" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-07** — created branch "z/ir" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-08** — pushed [`c724ef27`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c724ef27979f2e3423c0d8d9be4d29d6df9a6119) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix IR args + Gradle 6.8 (#36)"
 
-**2021-01-07** — commented on [#46](https://github.com/ZacSweers/ticktock/pull/46#issuecomment-756243578) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2021-01-08** — deleted branch "z/fixes" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
