@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-09** — pushed [`bbd94d9e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/bbd94d9e754262b77041546cdb3ff8ae0f395f4e) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "doh"
+
+**2021-01-09** — commented on [#1286](https://github.com/square/moshi/pull/1286#issuecomment-757360062) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-01-09** — pushed [`ae0fadd9`](https://github.com/ZacSweers/ticktock/commit/ae0fadd956b63289c524a3ae3d2069deb718c751) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Gradle 6.8 final (#47)"
 
 **2021-01-09** — deleted branch "z/gradle68Final" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-09** — closed issue [#1033](https://api.github.com/repos/square/kotlinpoet/issues/1033) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): " ParameterSpec，file is converted to 'file'"
 
 **2021-01-09** — commented on [#1033](https://github.com/square/kotlinpoet/issues/1033#issuecomment-757334475) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-01-09** — pushed [`f816fc94`](https://github.com/ZacSweers/android-cache-fix-gradle-plugin/commit/f816fc94319e2c4fc697f597d1ce803413dc2862) to [ZacSweers/android-cache-fix-gradle-plugin](https://api.github.com/repos/ZacSweers/android-cache-fix-gradle-plugin): "Rework API for testing"
-
-**2021-01-09** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-757097747) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
