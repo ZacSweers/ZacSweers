@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-09** — closed issue [#222](https://api.github.com/repos/uber/AutoDispose/issues/222) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate codecov"
+
+**2021-01-09** — commented on [#222](https://github.com/uber/AutoDispose/issues/222#issuecomment-757383994) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-01-09** — pushed [`e16cdfcf`](https://github.com/uber/AutoDispose/commit/e16cdfcfbfeeb86b287da51771addd46bbc41b03) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use multidex"
+
+**2021-01-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
 **2021-01-09** — pushed [`97ec691f`](https://github.com/uber/AutoDispose/commit/97ec691fbeff447eba8c0f1aeaf40a92b10e0e1d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix another"
 
 **2021-01-09** — pushed [`0ba7c921`](https://github.com/uber/AutoDispose/commit/0ba7c9210ed44ce3a5a96ef1eccc4a9794e1e7b8) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More fixes"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-09** — opened PR [#438](https://api.github.com/repos/uber/AutoDispose/pulls/438) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Misc updates"
 
 **2021-01-09** — commented on [#131](https://github.com/gradle/android-cache-fix-gradle-plugin/pull/131#issuecomment-757376815) in [gradle/android-cache-fix-gradle-plugin](https://api.github.com/repos/gradle/android-cache-fix-gradle-plugin)
-
-**2021-01-09** — created branch "z/updates2" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-01-09** — pushed [`1d16ec25`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/1d16ec2576d2fab96bec4942bbe330f81475beb2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate ABI validator + modernize gradle extension (#39)"
-
-**2021-01-09** — deleted branch "z/moarGradle" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-09** — closed PR [#39](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/39) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Integrate ABI validator + modernize gradle extension"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
