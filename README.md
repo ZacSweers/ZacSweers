@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-10** — closed issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
+
+**2021-01-10** — commented on [#11](https://github.com/slackhq/EitherNet/issues/11#issuecomment-757526798) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-01-10** — commented on [#75](https://github.com/ZacSweers/MoshiX/pull/75#issuecomment-757428038) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-01-10** — pushed [`bfb65c53`](https://github.com/ZacSweers/MoshiX/commit/bfb65c535e0f0778b0ea33b12319f96b1e64db35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Can we just do compileOnly?"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-10** — created tag "0.3.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-01-10** — pushed [`4642d9e2`](https://github.com/ZacSweers/auto-service-ksp/commit/4642d9e20d01474f00af023fc7fd5a8e38b87bc7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp) (#8)"
-
-**2021-01-10** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
