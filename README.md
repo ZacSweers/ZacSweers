@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-10** — commented on [#75](https://github.com/ZacSweers/MoshiX/pull/75#issuecomment-757428038) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-01-10** — pushed [`bfb65c53`](https://github.com/ZacSweers/MoshiX/commit/bfb65c535e0f0778b0ea33b12319f96b1e64db35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Can we just do compileOnly?"
+
+**2021-01-10** — pushed [`243099ec`](https://github.com/ZacSweers/MoshiX/commit/243099ec3c0bf1c72e2d0f5edb490b0e3cd76acd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove version"
+
+**2021-01-10** — pushed [`aebf51d6`](https://github.com/ZacSweers/MoshiX/commit/aebf51d6dbc17c8d57591b41054d8f3b128231fb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix version"
+
+**2021-01-10** — pushed [`eba5d2ba`](https://github.com/ZacSweers/auto-service-ksp/commit/eba5d2ba2ab1612df4b4ea1aebd7cca668569bd4) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Formatting"
+
+**2021-01-10** — pushed [`7d8f0a37`](https://github.com/ZacSweers/MoshiX/commit/7d8f0a373e1d14a2143f90385148757a5c720ba1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "auto-service-ksp 0.3.0"
+
 **2021-01-10** — created tag "0.3.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-10** — pushed [`4642d9e2`](https://github.com/ZacSweers/auto-service-ksp/commit/4642d9e20d01474f00af023fc7fd5a8e38b87bc7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp) (#8)"
 
 **2021-01-10** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-01-10** — closed PR [#8](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp)"
-
-**2021-01-10** — pushed [`b78774ad`](https://github.com/ZacSweers/MoshiX/commit/b78774adc93226e2cdb66fe49fc55399fb0e2541) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Copy in ksp testing bits for now"
-
-**2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-01-10** — pushed [`4f40fd32`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/4f40fd32f2e15505e41d33e100d71ea37bcd8e02) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update gradle maven publish to 0.13 (#42)"
-
-**2021-01-10** — deleted branch "z/publishUpdate" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-10** — closed PR [#42](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/42) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update gradle maven publish to 0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
