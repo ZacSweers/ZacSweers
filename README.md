@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-10** — pushed [`72a7f72c`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/72a7f72c87dba3ace1f2425c52e68c09a9bdb051) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits (#41)"
+**2021-01-10** — created tag "0.3.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-01-10** — deleted branch "z/removeAndroidBits" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-01-10** — closed PR [#41](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/41) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits"
+**2021-01-10** — pushed [`4642d9e2`](https://github.com/ZacSweers/auto-service-ksp/commit/4642d9e20d01474f00af023fc7fd5a8e38b87bc7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp) (#8)"
 
-**2021-01-10** — opened PR [#41](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/41) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits"
+**2021-01-10** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-01-10** — created branch "z/removeAndroidBits" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-10** — closed PR [#8](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (gradle, kotlin, ksp)"
 
-**2021-01-09** — pushed [`3c7c7421`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/3c7c74211a686d15cc7a7aa793473c12b1b32588) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR (#40)"
+**2021-01-10** — pushed [`b78774ad`](https://github.com/ZacSweers/MoshiX/commit/b78774adc93226e2cdb66fe49fc55399fb0e2541) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Copy in ksp testing bits for now"
 
-**2021-01-09** — deleted branch "z/misc" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-01-09** — closed PR [#40](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/40) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR"
+**2021-01-10** — pushed [`4f40fd32`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/4f40fd32f2e15505e41d33e100d71ea37bcd8e02) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update gradle maven publish to 0.13 (#42)"
 
-**2021-01-09** — opened PR [#40](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/40) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR"
+**2021-01-10** — deleted branch "z/publishUpdate" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-09** — created branch "z/misc" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-10** — closed PR [#42](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/42) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update gradle maven publish to 0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
