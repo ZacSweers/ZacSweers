@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-09** — commented on [#438](https://github.com/uber/AutoDispose/pull/438#issuecomment-757387929) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-01-10** — pushed [`72a7f72c`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/72a7f72c87dba3ace1f2425c52e68c09a9bdb051) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits (#41)"
 
-**2021-01-09** — closed issue [#222](https://api.github.com/repos/uber/AutoDispose/issues/222) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate codecov"
+**2021-01-10** — deleted branch "z/removeAndroidBits" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-09** — commented on [#222](https://github.com/uber/AutoDispose/issues/222#issuecomment-757383994) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-01-10** — closed PR [#41](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/41) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits"
 
-**2021-01-09** — pushed [`e16cdfcf`](https://github.com/uber/AutoDispose/commit/e16cdfcfbfeeb86b287da51771addd46bbc41b03) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use multidex"
+**2021-01-10** — opened PR [#41](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/41) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android-specific bits"
 
-**2021-01-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+**2021-01-10** — created branch "z/removeAndroidBits" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-09** — pushed [`97ec691f`](https://github.com/uber/AutoDispose/commit/97ec691fbeff447eba8c0f1aeaf40a92b10e0e1d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix another"
+**2021-01-09** — pushed [`3c7c7421`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/3c7c74211a686d15cc7a7aa793473c12b1b32588) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR (#40)"
 
-**2021-01-09** — pushed [`0ba7c921`](https://github.com/uber/AutoDispose/commit/0ba7c9210ed44ce3a5a96ef1eccc4a9794e1e7b8) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More fixes"
+**2021-01-09** — deleted branch "z/misc" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-01-09** — pushed [`f41a2281`](https://github.com/uber/AutoDispose/commit/f41a22816d1855aafef4c95be62c5e452bba9725) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update actions"
+**2021-01-09** — closed PR [#40](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/40) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR"
 
-**2021-01-09** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+**2021-01-09** — opened PR [#40](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/40) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Beef up tests + support class-annotated in IR"
 
-**2021-01-09** — opened PR [#438](https://api.github.com/repos/uber/AutoDispose/pulls/438) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Misc updates"
+**2021-01-09** — created branch "z/misc" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
