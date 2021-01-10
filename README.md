@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-09** — commented on [#438](https://github.com/uber/AutoDispose/pull/438#issuecomment-757387929) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-01-09** — closed issue [#222](https://api.github.com/repos/uber/AutoDispose/issues/222) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate codecov"
 
 **2021-01-09** — commented on [#222](https://github.com/uber/AutoDispose/issues/222#issuecomment-757383994) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-09** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 
 **2021-01-09** — opened PR [#438](https://api.github.com/repos/uber/AutoDispose/pulls/438) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Misc updates"
-
-**2021-01-09** — commented on [#131](https://github.com/gradle/android-cache-fix-gradle-plugin/pull/131#issuecomment-757376815) in [gradle/android-cache-fix-gradle-plugin](https://api.github.com/repos/gradle/android-cache-fix-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
