@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-10** — pushed [`0655832e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0655832e46a07fec44231a96dbf02fc25685caee) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Tweak CI snapshot upload"
+
 **2021-01-10** — pushed [`ac83adaa`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ac83adaabfaeb3500b8b1369acd734a8d2fa3632) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes (#43)"
 
 **2021-01-10** — closed PR [#43](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/43) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-10** — pushed [`aebf51d6`](https://github.com/ZacSweers/MoshiX/commit/aebf51d6dbc17c8d57591b41054d8f3b128231fb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix version"
 
 **2021-01-10** — pushed [`eba5d2ba`](https://github.com/ZacSweers/auto-service-ksp/commit/eba5d2ba2ab1612df4b4ea1aebd7cca668569bd4) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Formatting"
-
-**2021-01-10** — pushed [`7d8f0a37`](https://github.com/ZacSweers/MoshiX/commit/7d8f0a373e1d14a2143f90385148757a5c720ba1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "auto-service-ksp 0.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
