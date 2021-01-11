@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-10** — pushed [`ac83adaa`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ac83adaabfaeb3500b8b1369acd734a8d2fa3632) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes (#43)"
+
+**2021-01-10** — closed PR [#43](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/43) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes"
+
 **2021-01-10** — closed issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
 
 **2021-01-10** — commented on [#11](https://github.com/slackhq/EitherNet/issues/11#issuecomment-757526798) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-10** — pushed [`eba5d2ba`](https://github.com/ZacSweers/auto-service-ksp/commit/eba5d2ba2ab1612df4b4ea1aebd7cca668569bd4) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Formatting"
 
 **2021-01-10** — pushed [`7d8f0a37`](https://github.com/ZacSweers/MoshiX/commit/7d8f0a373e1d14a2143f90385148757a5c720ba1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "auto-service-ksp 0.3.0"
-
-**2021-01-10** — created tag "0.3.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-01-10** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
