@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-11** — opened issue [#244](https://api.github.com/repos/google/ksp/issues/244) on [google/ksp](https://api.github.com/repos/google/ksp): "JavaCompile task fails with no sources"
+
 **2021-01-10** — created tag "0.6.1" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-01-10** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-10** — commented on [#75](https://github.com/ZacSweers/MoshiX/pull/75#issuecomment-757428038) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-01-10** — pushed [`bfb65c53`](https://github.com/ZacSweers/MoshiX/commit/bfb65c535e0f0778b0ea33b12319f96b1e64db35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Can we just do compileOnly?"
-
-**2021-01-10** — pushed [`243099ec`](https://github.com/ZacSweers/MoshiX/commit/243099ec3c0bf1c72e2d0f5edb490b0e3cd76acd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
