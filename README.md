@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-11** — opened issue [#244](https://api.github.com/repos/google/ksp/issues/244) on [google/ksp](https://api.github.com/repos/google/ksp): "JavaCompile task fails with no sources"
+**2021-01-11** — created tag "0.7.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-01-10** — created tag "0.6.1" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-01-11** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-01-10** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-01-11** — pushed [`ecd86caf`](https://github.com/ZacSweers/ticktock/commit/ecd86cafe5670258acd8b33ec62a36c61126a26b) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update changelog"
 
-**2021-01-10** — pushed [`0655832e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0655832e46a07fec44231a96dbf02fc25685caee) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Tweak CI snapshot upload"
+**2021-01-11** — created tag "0.3.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-01-10** — pushed [`ac83adaa`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ac83adaabfaeb3500b8b1369acd734a8d2fa3632) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes (#43)"
+**2021-01-11** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-01-10** — closed PR [#43](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/43) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Handful of IR fixes"
+**2021-01-11** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-01-10** — closed issue [#11](https://api.github.com/repos/slackhq/EitherNet/issues/11) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Embed proguard rules?"
+**2021-01-11** — pushed [`c3a3db8d`](https://github.com/ZacSweers/MoshiX/commit/c3a3db8d004b18f38dd33efe7ad3868a8774f0f7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps (#75)"
 
-**2021-01-10** — commented on [#11](https://github.com/slackhq/EitherNet/issues/11#issuecomment-757526798) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2021-01-11** — closed PR [#75](https://api.github.com/repos/ZacSweers/MoshiX/pulls/75) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
 
-**2021-01-10** — commented on [#75](https://github.com/ZacSweers/MoshiX/pull/75#issuecomment-757428038) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-01-11** — deleted branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-01-10** — pushed [`bfb65c53`](https://github.com/ZacSweers/MoshiX/commit/bfb65c535e0f0778b0ea33b12319f96b1e64db35) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Can we just do compileOnly?"
+**2021-01-11** — pushed [`f554347c`](https://github.com/ZacSweers/auto-service-ksp/commit/f554347cc72796491099ceaaf0de12ceda94df2a) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 20210111 (#9)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
