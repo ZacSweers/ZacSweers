@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-12** — opened issue [#2094](https://api.github.com/repos/google/error-prone/issues/2094) on [google/error-prone](https://api.github.com/repos/google/error-prone): "DifferentNameButSame doesn't handle inner classes well"
+
 **2021-01-12** — commented on [#2092](https://github.com/google/error-prone/issues/2092#issuecomment-759101030) in [google/error-prone](https://api.github.com/repos/google/error-prone)
 
 **2021-01-11** — created tag "0.7.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-11** — pushed [`c3a3db8d`](https://github.com/ZacSweers/MoshiX/commit/c3a3db8d004b18f38dd33efe7ad3868a8774f0f7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps (#75)"
 
 **2021-01-11** — closed PR [#75](https://api.github.com/repos/ZacSweers/MoshiX/pulls/75) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
-
-**2021-01-11** — deleted branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
