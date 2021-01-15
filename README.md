@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-15** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-760655600) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2021-01-14** — commented on [#1287](https://github.com/square/moshi/pull/1287#issuecomment-759967909) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-01-12** — opened issue [#2094](https://api.github.com/repos/google/error-prone/issues/2094) on [google/error-prone](https://api.github.com/repos/google/error-prone): "DifferentNameButSame doesn't handle inner classes well"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-11** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
 **2021-01-11** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-01-11** — pushed [`c3a3db8d`](https://github.com/ZacSweers/MoshiX/commit/c3a3db8d004b18f38dd33efe7ad3868a8774f0f7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps (#75)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
