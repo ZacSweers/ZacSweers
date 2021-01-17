@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-16** — closed issue [#76](https://api.github.com/repos/ZacSweers/MoshiX/issues/76) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support @TypeLabel on @DefaultObject to make it serializable"
+
+**2021-01-16** — commented on [#76](https://github.com/ZacSweers/MoshiX/issues/76#issuecomment-761724390) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-01-15** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-760655600) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2021-01-14** — commented on [#1287](https://github.com/square/moshi/pull/1287#issuecomment-759967909) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-11** — pushed [`ecd86caf`](https://github.com/ZacSweers/ticktock/commit/ecd86cafe5670258acd8b33ec62a36c61126a26b) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update changelog"
 
 **2021-01-11** — created tag "0.3.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-01-11** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-01-11** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
