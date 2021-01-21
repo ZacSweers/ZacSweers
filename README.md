@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-21** — commented on [#308](https://github.com/KeepSafe/dexcount-gradle-plugin/issues/308#issuecomment-764401561) in [KeepSafe/dexcount-gradle-plugin](https://api.github.com/repos/KeepSafe/dexcount-gradle-plugin)
+
 **2021-01-18** — closed issue [#261](https://api.github.com/repos/ZacSweers/CatchUp/issues/261) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Error in Encoding Converter "
 
 **2021-01-18** — commented on [#261](https://github.com/ZacSweers/CatchUp/issues/261#issuecomment-762386995) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-12** — commented on [#2092](https://github.com/google/error-prone/issues/2092#issuecomment-759101030) in [google/error-prone](https://api.github.com/repos/google/error-prone)
 
 **2021-01-11** — created tag "0.7.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-01-11** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
