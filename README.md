@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-22** — reopened issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
+
+**2021-01-22** — commented on [#44](https://github.com/ZacSweers/redacted-compiler-plugin/issues/44#issuecomment-765252157) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-01-22** — closed issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
+
+**2021-01-22** — commented on [#44](https://github.com/ZacSweers/redacted-compiler-plugin/issues/44#issuecomment-765251352) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-01-22** — commented on [#2](https://github.com/ZacSweers/MoshiX/issues/2#issuecomment-765235641) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-01-21** — commented on [#308](https://github.com/KeepSafe/dexcount-gradle-plugin/issues/308#issuecomment-764401561) in [KeepSafe/dexcount-gradle-plugin](https://api.github.com/repos/KeepSafe/dexcount-gradle-plugin)
 
 **2021-01-18** — closed issue [#261](https://api.github.com/repos/ZacSweers/CatchUp/issues/261) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Error in Encoding Converter "
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-16** — closed issue [#76](https://api.github.com/repos/ZacSweers/MoshiX/issues/76) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support @TypeLabel on @DefaultObject to make it serializable"
 
 **2021-01-16** — commented on [#76](https://github.com/ZacSweers/MoshiX/issues/76#issuecomment-761724390) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-01-15** — commented on [#306](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/306#issuecomment-760655600) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2021-01-14** — commented on [#1287](https://github.com/square/moshi/pull/1287#issuecomment-759967909) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-01-12** — opened issue [#2094](https://api.github.com/repos/google/error-prone/issues/2094) on [google/error-prone](https://api.github.com/repos/google/error-prone): "DifferentNameButSame doesn't handle inner classes well"
-
-**2021-01-12** — commented on [#2092](https://github.com/google/error-prone/issues/2092#issuecomment-759101030) in [google/error-prone](https://api.github.com/repos/google/error-prone)
-
-**2021-01-11** — created tag "0.7.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
