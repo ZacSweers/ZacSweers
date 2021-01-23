@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-23** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-765886666) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-01-22** — commented on [#44](https://github.com/ZacSweers/redacted-compiler-plugin/issues/44#issuecomment-765600452) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-01-22** — reopened issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-18** — closed issue [#261](https://api.github.com/repos/ZacSweers/CatchUp/issues/261) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Error in Encoding Converter "
 
 **2021-01-18** — commented on [#261](https://github.com/ZacSweers/CatchUp/issues/261#issuecomment-762386995) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-01-16** — closed issue [#76](https://api.github.com/repos/ZacSweers/MoshiX/issues/76) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support @TypeLabel on @DefaultObject to make it serializable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
