@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2021-01-23** — pushed [`3ebc1e23`](https://github.com/ZacSweers/CatchUp/commit/3ebc1e23d4adc796cb92788cc1119a00818cce28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
+
+**2021-01-23** — pushed [`979b1249`](https://github.com/ZacSweers/CatchUp/commit/979b124993ea80b98e6248bc42cabe35cb6546d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to Dagger assisted inject"
+
+**2021-01-23** — commented on [#262](https://github.com/ZacSweers/CatchUp/pull/262#issuecomment-766291055) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-01-23** — opened PR [#262](https://api.github.com/repos/ZacSweers/CatchUp/pulls/262) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
+
+**2021-01-23** — created branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-01-23** — commented on [#218](https://github.com/google/ksp/issues/218#issuecomment-766273979) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-01-23** — opened issue [#78](https://api.github.com/repos/ZacSweers/MoshiX/issues/78) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support sealed interfaces in KSP"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-23** — closed issue [#2](https://api.github.com/repos/ZacSweers/MoshiX/issues/2) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces"
 
 **2021-01-23** — commented on [#2](https://github.com/ZacSweers/MoshiX/issues/2#issuecomment-766272790) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-01-23** — opened issue [#77](https://api.github.com/repos/ZacSweers/MoshiX/issues/77) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Java sealed classes/interfaces"
-
-**2021-01-23** — opened issue [#267](https://api.github.com/repos/google/ksp/issues/267) on [google/ksp](https://api.github.com/repos/google/ksp): "Crash when Kotlin 1.4.30-RC is on the classpath"
-
-**2021-01-23** — commented on [#1265](https://github.com/square/moshi/issues/1265#issuecomment-765886666) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-01-22** — commented on [#44](https://github.com/ZacSweers/redacted-compiler-plugin/issues/44#issuecomment-765600452) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-22** — reopened issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
-
-**2021-01-22** — commented on [#44](https://github.com/ZacSweers/redacted-compiler-plugin/issues/44#issuecomment-765252157) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
