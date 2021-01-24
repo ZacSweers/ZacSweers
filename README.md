@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-24** — pushed [`51581bbd`](https://github.com/ZacSweers/CatchUp/commit/51581bbd624295220db1196cfc026dc974c0d072) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable 1.5 preview"
+
 **2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2021-01-23** — pushed [`3ebc1e23`](https://github.com/ZacSweers/CatchUp/commit/3ebc1e23d4adc796cb92788cc1119a00818cce28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-23** — opened issue [#78](https://api.github.com/repos/ZacSweers/MoshiX/issues/78) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support sealed interfaces in KSP"
 
 **2021-01-23** — closed issue [#2](https://api.github.com/repos/ZacSweers/MoshiX/issues/2) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces"
-
-**2021-01-23** — commented on [#2](https://github.com/ZacSweers/MoshiX/issues/2#issuecomment-766272790) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
