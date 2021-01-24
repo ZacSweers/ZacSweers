@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-24** — pushed [`5a77a934`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/5a77a934176320aaed0b02b1f5127d810079486f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC (#45)"
+
+**2021-01-24** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-01-24** — closed PR [#45](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/45) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC"
+
+**2021-01-24** — closed issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
+
 **2021-01-24** — opened PR [#45](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/45) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC"
 
 **2021-01-24** — created branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-23** — pushed [`3ebc1e23`](https://github.com/ZacSweers/CatchUp/commit/3ebc1e23d4adc796cb92788cc1119a00818cce28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
 
 **2021-01-23** — pushed [`979b1249`](https://github.com/ZacSweers/CatchUp/commit/979b124993ea80b98e6248bc42cabe35cb6546d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to Dagger assisted inject"
-
-**2021-01-23** — commented on [#262](https://github.com/ZacSweers/CatchUp/pull/262#issuecomment-766291055) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-01-23** — opened PR [#262](https://api.github.com/repos/ZacSweers/CatchUp/pulls/262) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
-
-**2021-01-23** — created branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-01-23** — commented on [#218](https://github.com/google/ksp/issues/218#issuecomment-766273979) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
