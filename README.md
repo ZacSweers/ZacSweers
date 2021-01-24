@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-24** — opened PR [#45](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/45) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC"
+
+**2021-01-24** — created branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-01-24** — pushed [`51581bbd`](https://github.com/ZacSweers/CatchUp/commit/51581bbd624295220db1196cfc026dc974c0d072) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable 1.5 preview"
 
 **2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-23** — created branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-01-23** — commented on [#218](https://github.com/google/ksp/issues/218#issuecomment-766273979) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-01-23** — opened issue [#78](https://api.github.com/repos/ZacSweers/MoshiX/issues/78) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support sealed interfaces in KSP"
-
-**2021-01-23** — closed issue [#2](https://api.github.com/repos/ZacSweers/MoshiX/issues/2) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
