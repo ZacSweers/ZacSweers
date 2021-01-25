@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-25** — pushed [`26815f1c`](https://github.com/ZacSweers/MoshiX/commit/26815f1cd92382188a5573378e559c8935dae693) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak README"
+
+**2021-01-25** — pushed [`96d894fa`](https://github.com/ZacSweers/MoshiX/commit/96d894fa10b98062ced7141cc165d5f171f6d05f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove Kotlin 1.4.30 for now"
+
+**2021-01-25** — pushed [`01163ba6`](https://github.com/ZacSweers/MoshiX/commit/01163ba6ac627043eb819f6033d70f5475aa63fb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix logic"
+
+**2021-01-25** — pushed [`fe4b2e2d`](https://github.com/ZacSweers/MoshiX/commit/fe4b2e2d8a3431e8834cc4785140d540276d4a14) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "CI updates"
+
+**2021-01-25** — opened PR [#79](https://api.github.com/repos/ZacSweers/MoshiX/pulls/79) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records!"
+
+**2021-01-25** — created branch "z/sealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-01-25** — opened issue [#823](https://api.github.com/repos/square/javapoet/issues/823) on [square/javapoet](https://api.github.com/repos/square/javapoet): "Support sealed subclasses"
 
 **2021-01-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-766538481) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-24** — pushed [`5a77a934`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/5a77a934176320aaed0b02b1f5127d810079486f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC (#45)"
 
 **2021-01-24** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-24** — closed PR [#45](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/45) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC"
-
-**2021-01-24** — closed issue [#44](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/44) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Compilation error on kotlin 1.4.30-RC"
-
-**2021-01-24** — opened PR [#45](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/45) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC"
-
-**2021-01-24** — created branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-01-24** — pushed [`51581bbd`](https://github.com/ZacSweers/CatchUp/commit/51581bbd624295220db1196cfc026dc974c0d072) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable 1.5 preview"
-
-**2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
