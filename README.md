@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-25** — opened issue [#823](https://api.github.com/repos/square/javapoet/issues/823) on [square/javapoet](https://api.github.com/repos/square/javapoet): "Support sealed subclasses"
+
 **2021-01-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-766538481) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-01-24** — pushed [`5a77a934`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/5a77a934176320aaed0b02b1f5127d810079486f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC (#45)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-24** — pushed [`51581bbd`](https://github.com/ZacSweers/CatchUp/commit/51581bbd624295220db1196cfc026dc974c0d072) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Enable 1.5 preview"
 
 **2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2021-01-23** — pushed [`3ebc1e23`](https://github.com/ZacSweers/CatchUp/commit/3ebc1e23d4adc796cb92788cc1119a00818cce28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
