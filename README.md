@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-766538481) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-01-24** — pushed [`5a77a934`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/5a77a934176320aaed0b02b1f5127d810079486f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove android sample, update to kotlin 1.4.30-RC (#45)"
 
 **2021-01-24** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-24** — commented on [#805](https://github.com/pinterest/ktlint/issues/805#issuecomment-766291954) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2021-01-23** — pushed [`3ebc1e23`](https://github.com/ZacSweers/CatchUp/commit/3ebc1e23d4adc796cb92788cc1119a00818cce28) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
-
-**2021-01-23** — pushed [`979b1249`](https://github.com/ZacSweers/CatchUp/commit/979b124993ea80b98e6248bc42cabe35cb6546d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to Dagger assisted inject"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
