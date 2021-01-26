@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — commented on [#52](https://github.com/uber/RxDogTag/issues/52#issuecomment-767385547) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-01-25** — pushed [`a15dc09f`](https://github.com/ZacSweers/ticktock/commit/a15dc09fd26720c57ec1b12f3255ae34501a20e0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "change shell used to run script (#48)"
 
 **2021-01-25** — deleted branch "gabrielittner-patch-1" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-25** — pushed [`fe4b2e2d`](https://github.com/ZacSweers/MoshiX/commit/fe4b2e2d8a3431e8834cc4785140d540276d4a14) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "CI updates"
 
 **2021-01-25** — opened PR [#79](https://api.github.com/repos/ZacSweers/MoshiX/pulls/79) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records!"
-
-**2021-01-25** — created branch "z/sealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
