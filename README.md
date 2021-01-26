@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — pushed [`c87bb072`](https://github.com/ZacSweers/ticktock/commit/c87bb0729e49578311bae5bd156a2ff878978a9f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a (#49)"
+
+**2021-01-26** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-01-26** — closed PR [#49](https://api.github.com/repos/ZacSweers/ticktock/pulls/49) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a"
+
 **2021-01-26** — commented on [#52](https://github.com/uber/RxDogTag/issues/52#issuecomment-767385547) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-01-25** — pushed [`a15dc09f`](https://github.com/ZacSweers/ticktock/commit/a15dc09fd26720c57ec1b12f3255ae34501a20e0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "change shell used to run script (#48)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-25** — pushed [`26815f1c`](https://github.com/ZacSweers/MoshiX/commit/26815f1cd92382188a5573378e559c8935dae693) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak README"
 
 **2021-01-25** — pushed [`96d894fa`](https://github.com/ZacSweers/MoshiX/commit/96d894fa10b98062ced7141cc165d5f171f6d05f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove Kotlin 1.4.30 for now"
-
-**2021-01-25** — pushed [`01163ba6`](https://github.com/ZacSweers/MoshiX/commit/01163ba6ac627043eb819f6033d70f5475aa63fb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix logic"
-
-**2021-01-25** — pushed [`fe4b2e2d`](https://github.com/ZacSweers/MoshiX/commit/fe4b2e2d8a3431e8834cc4785140d540276d4a14) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "CI updates"
-
-**2021-01-25** — opened PR [#79](https://api.github.com/repos/ZacSweers/MoshiX/pulls/79) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records!"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
