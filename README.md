@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — pushed [`7ad4bbab`](https://github.com/ZacSweers/MoshiX/commit/7ad4bbab2f2417d242e574ff5afc8520b3361ae4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records! (#79)"
+
+**2021-01-26** — deleted branch "z/sealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-01-26** — closed PR [#79](https://api.github.com/repos/ZacSweers/MoshiX/pulls/79) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records!"
+
 **2021-01-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-01-26** — pushed [`c87bb072`](https://github.com/ZacSweers/ticktock/commit/c87bb0729e49578311bae5bd156a2ff878978a9f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a (#49)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-25** — pushed [`a15dc09f`](https://github.com/ZacSweers/ticktock/commit/a15dc09fd26720c57ec1b12f3255ae34501a20e0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "change shell used to run script (#48)"
 
 **2021-01-25** — deleted branch "gabrielittner-patch-1" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-25** — closed PR [#48](https://api.github.com/repos/ZacSweers/ticktock/pulls/48) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "change shell used to run script"
-
-**2021-01-25** — commented on [#79](https://github.com/ZacSweers/MoshiX/pull/79#issuecomment-767197612) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-01-25** — pushed [`26815f1c`](https://github.com/ZacSweers/MoshiX/commit/26815f1cd92382188a5573378e559c8935dae693) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Tweak README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
