@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — pushed [`ea8c44fc`](https://github.com/ZacSweers/MoshiX/commit/ea8c44fc2f5f481561de3984c30c0e6b034dfc0c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records (#80)"
+
+**2021-01-26** — deleted branch "z/moreWork" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-01-26** — closed PR [#80](https://api.github.com/repos/ZacSweers/MoshiX/pulls/80) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records"
+
 **2021-01-26** — opened PR [#80](https://api.github.com/repos/ZacSweers/MoshiX/pulls/80) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records"
 
 **2021-01-26** — created branch "z/moreWork" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-01-26** — pushed [`c87bb072`](https://github.com/ZacSweers/ticktock/commit/c87bb0729e49578311bae5bd156a2ff878978a9f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a (#49)"
-
-**2021-01-26** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-01-26** — closed PR [#49](https://api.github.com/repos/ZacSweers/ticktock/pulls/49) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a"
-
-**2021-01-26** — commented on [#52](https://github.com/uber/RxDogTag/issues/52#issuecomment-767385547) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
