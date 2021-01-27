@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-01-26** — pushed [`ea8c44fc`](https://github.com/ZacSweers/MoshiX/commit/ea8c44fc2f5f481561de3984c30c0e6b034dfc0c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records (#80)"
+**2021-01-27** — created tag "0.8.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-01-26** — deleted branch "z/moreWork" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-01-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-01-26** — closed PR [#80](https://api.github.com/repos/ZacSweers/MoshiX/pulls/80) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records"
+**2021-01-27** — pushed [`ef46973c`](https://github.com/ZacSweers/MoshiX/commit/ef46973c75ed3cc93d00b65dd471473781153843) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy (#81)"
 
-**2021-01-26** — opened PR [#80](https://api.github.com/repos/ZacSweers/MoshiX/pulls/80) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records"
+**2021-01-27** — deleted branch "z/productionize" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-01-26** — created branch "z/moreWork" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-01-27** — closed PR [#81](https://api.github.com/repos/ZacSweers/MoshiX/pulls/81) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy"
 
-**2021-01-26** — pushed [`7ad4bbab`](https://github.com/ZacSweers/MoshiX/commit/7ad4bbab2f2417d242e574ff5afc8520b3361ae4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records! (#79)"
+**2021-01-27** — opened PR [#81](https://api.github.com/repos/ZacSweers/MoshiX/pulls/81) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy"
 
-**2021-01-26** — deleted branch "z/sealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-01-27** — closed issue [#77](https://api.github.com/repos/ZacSweers/MoshiX/issues/77) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Java sealed classes/interfaces"
 
-**2021-01-26** — closed PR [#79](https://api.github.com/repos/ZacSweers/MoshiX/pulls/79) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records!"
+**2021-01-27** — commented on [#77](https://github.com/ZacSweers/MoshiX/issues/77#issuecomment-768058646) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-01-26** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2021-01-27** — pushed [`6d3be089`](https://github.com/ZacSweers/MoshiX/commit/6d3be089969b12e99f1e144d421df16efd7583ce) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix copyright"
 
-**2021-01-26** — pushed [`c87bb072`](https://github.com/ZacSweers/ticktock/commit/c87bb0729e49578311bae5bd156a2ff878978a9f) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a (#49)"
+**2021-01-27** — created branch "z/productionize" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
