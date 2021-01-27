@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-26** — opened PR [#80](https://api.github.com/repos/ZacSweers/MoshiX/pulls/80) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support generic records"
+
+**2021-01-26** — created branch "z/moreWork" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-01-26** — pushed [`7ad4bbab`](https://github.com/ZacSweers/MoshiX/commit/7ad4bbab2f2417d242e574ff5afc8520b3361ae4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Sealed interfaces, Java sealed, Java records! (#79)"
 
 **2021-01-26** — deleted branch "z/sealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-26** — closed PR [#49](https://api.github.com/repos/ZacSweers/ticktock/pulls/49) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021a"
 
 **2021-01-26** — commented on [#52](https://github.com/uber/RxDogTag/issues/52#issuecomment-767385547) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-01-25** — pushed [`a15dc09f`](https://github.com/ZacSweers/ticktock/commit/a15dc09fd26720c57ec1b12f3255ae34501a20e0) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "change shell used to run script (#48)"
-
-**2021-01-25** — deleted branch "gabrielittner-patch-1" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
