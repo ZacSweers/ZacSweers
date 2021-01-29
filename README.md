@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-29** — commented on [#1291](https://github.com/square/moshi/issues/1291#issuecomment-769906045) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-01-27** — created tag "0.8.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-01-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-27** — commented on [#77](https://github.com/ZacSweers/MoshiX/issues/77#issuecomment-768058646) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-01-27** — pushed [`6d3be089`](https://github.com/ZacSweers/MoshiX/commit/6d3be089969b12e99f1e144d421df16efd7583ce) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix copyright"
-
-**2021-01-27** — created branch "z/productionize" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
