@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-01-31** — commented on [#1292](https://github.com/square/moshi/issues/1292#issuecomment-770326430) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-01-30** — commented on [#1292](https://github.com/square/moshi/issues/1292#issuecomment-770314387) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-01-29** — commented on [#1291](https://github.com/square/moshi/issues/1291#issuecomment-769906045) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-27** — opened PR [#81](https://api.github.com/repos/ZacSweers/MoshiX/pulls/81) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy"
 
 **2021-01-27** — closed issue [#77](https://api.github.com/repos/ZacSweers/MoshiX/issues/77) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Java sealed classes/interfaces"
-
-**2021-01-27** — commented on [#77](https://github.com/ZacSweers/MoshiX/issues/77#issuecomment-768058646) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
