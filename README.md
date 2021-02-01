@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-01** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-771112713) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-01** — closed issue [#1260](https://api.github.com/repos/square/moshi/issues/1260) on [square/moshi](https://api.github.com/repos/square/moshi): "Can i enable moshi reflection whenever i am debugging to have less kapt use ? "
 
-**2021-02-01** — commented on [#1291](https://github.com/square/moshi/issues/1291#issuecomment-771000790) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-01** — closed issue [#1267](https://api.github.com/repos/square/moshi/issues/1267) on [square/moshi](https://api.github.com/repos/square/moshi): "How catch all serializing errors in single point?"
 
-**2021-02-01** — opened issue [#1296](https://api.github.com/repos/square/moshi/issues/1296) on [square/moshi](https://api.github.com/repos/square/moshi): "Proposal: Add option `getOptions(): JsonReader.Options` function to JsonAdapter."
+**2021-02-01** — commented on [#1267](https://github.com/square/moshi/issues/1267#issuecomment-771228911) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-01-31** — commented on [#1292](https://github.com/square/moshi/issues/1292#issuecomment-770326430) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-01** — closed issue [#1261](https://api.github.com/repos/square/moshi/issues/1261) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi ALWAYS fails to create adapter for ANY obfuscated enum class"
 
-**2021-01-30** — commented on [#1292](https://github.com/square/moshi/issues/1292#issuecomment-770314387) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-01** — commented on [#1261](https://github.com/square/moshi/issues/1261#issuecomment-771228661) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-01-29** — commented on [#1291](https://github.com/square/moshi/issues/1291#issuecomment-769906045) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-01** — closed PR [#1216](https://api.github.com/repos/square/moshi/pulls/1216) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README to define Codegen enum best practice"
 
-**2021-01-27** — created tag "0.8.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-01** — commented on [#1216](https://github.com/square/moshi/pull/1216#issuecomment-771224694) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-01-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2021-02-01** — closed PR [#1263](https://api.github.com/repos/square/moshi/pulls/1263) to [square/moshi](https://api.github.com/repos/square/moshi): "Update proguard README section to resolve #1261"
 
-**2021-01-27** — pushed [`ef46973c`](https://github.com/ZacSweers/MoshiX/commit/ef46973c75ed3cc93d00b65dd471473781153843) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy (#81)"
+**2021-02-01** — commented on [#1263](https://github.com/square/moshi/pull/1263#issuecomment-771224605) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-01-27** — deleted branch "z/productionize" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-01** — closed issue [#1288](https://api.github.com/repos/square/moshi/issues/1288) on [square/moshi](https://api.github.com/repos/square/moshi): "Ques: Skip bad element from a list for polymorphic type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
