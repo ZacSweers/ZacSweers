@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-01** — commented on [#1291](https://github.com/square/moshi/issues/1291#issuecomment-771000790) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-01** — opened issue [#1296](https://api.github.com/repos/square/moshi/issues/1296) on [square/moshi](https://api.github.com/repos/square/moshi): "Proposal: Add option `getOptions(): JsonReader.Options` function to JsonAdapter."
 
 **2021-01-31** — commented on [#1292](https://github.com/square/moshi/issues/1292#issuecomment-770326430) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-27** — deleted branch "z/productionize" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-01-27** — closed PR [#81](https://api.github.com/repos/ZacSweers/MoshiX/pulls/81) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy"
-
-**2021-01-27** — opened PR [#81](https://api.github.com/repos/ZacSweers/MoshiX/pulls/81) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Productionize + AdaptedBy"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
