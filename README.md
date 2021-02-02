@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-02** — pushed [`490fab02`](https://github.com/uber/AutoDispose/commit/490fab0206265629f9c82da73aeeeee3372d63de) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "AGP 4.1.2"
+
 **2021-02-01** — pushed [`4bdbdecb`](https://github.com/ZacSweers/moshi/commit/4bdbdecb5b0b6983b165e071455ec0c09dcb863f) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update more"
 
 **2021-02-01** — closed issue [#1260](https://api.github.com/repos/square/moshi/issues/1260) on [square/moshi](https://api.github.com/repos/square/moshi): "Can i enable moshi reflection whenever i am debugging to have less kapt use ? "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-01** — commented on [#1216](https://github.com/square/moshi/pull/1216#issuecomment-771224694) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-01** — closed PR [#1263](https://api.github.com/repos/square/moshi/pulls/1263) to [square/moshi](https://api.github.com/repos/square/moshi): "Update proguard README section to resolve #1261"
-
-**2021-02-01** — commented on [#1263](https://github.com/square/moshi/pull/1263#issuecomment-771224605) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
