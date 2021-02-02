@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-02** — deleted branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-02-02** — pushed [`6e5bb3a2`](https://github.com/square/moshi/commit/6e5bb3a29bdfba6f08e96657168167fa2579050b) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration (#1257)"
+
+**2021-02-02** — closed PR [#1257](https://api.github.com/repos/square/moshi/pulls/1257) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration"
+
+**2021-02-02** — deleted branch "z/okio9" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-02-02** — pushed [`8518f47f`](https://github.com/square/moshi/commit/8518f47f52bdec6af5b604f2b046ea2952f77c06) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies (#1258)"
+
+**2021-02-02** — closed PR [#1258](https://api.github.com/repos/square/moshi/pulls/1258) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
+
+**2021-02-02** — commented on [#1258](https://github.com/square/moshi/pull/1258#issuecomment-771855509) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-02** — pushed [`490fab02`](https://github.com/uber/AutoDispose/commit/490fab0206265629f9c82da73aeeeee3372d63de) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "AGP 4.1.2"
 
 **2021-02-01** — pushed [`4bdbdecb`](https://github.com/ZacSweers/moshi/commit/4bdbdecb5b0b6983b165e071455ec0c09dcb863f) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update more"
 
 **2021-02-01** — closed issue [#1260](https://api.github.com/repos/square/moshi/issues/1260) on [square/moshi](https://api.github.com/repos/square/moshi): "Can i enable moshi reflection whenever i am debugging to have less kapt use ? "
-
-**2021-02-01** — closed issue [#1267](https://api.github.com/repos/square/moshi/issues/1267) on [square/moshi](https://api.github.com/repos/square/moshi): "How catch all serializing errors in single point?"
-
-**2021-02-01** — commented on [#1267](https://github.com/square/moshi/issues/1267#issuecomment-771228911) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-01** — closed issue [#1261](https://api.github.com/repos/square/moshi/issues/1261) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi ALWAYS fails to create adapter for ANY obfuscated enum class"
-
-**2021-02-01** — commented on [#1261](https://github.com/square/moshi/issues/1261#issuecomment-771228661) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-01** — closed PR [#1216](https://api.github.com/repos/square/moshi/pulls/1216) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README to define Codegen enum best practice"
-
-**2021-02-01** — commented on [#1216](https://github.com/square/moshi/pull/1216#issuecomment-771224694) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-01** — closed PR [#1263](https://api.github.com/repos/square/moshi/pulls/1263) to [square/moshi](https://api.github.com/repos/square/moshi): "Update proguard README section to resolve #1261"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
