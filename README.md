@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-01** — pushed [`4bdbdecb`](https://github.com/ZacSweers/moshi/commit/4bdbdecb5b0b6983b165e071455ec0c09dcb863f) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update more"
+
 **2021-02-01** — closed issue [#1260](https://api.github.com/repos/square/moshi/issues/1260) on [square/moshi](https://api.github.com/repos/square/moshi): "Can i enable moshi reflection whenever i am debugging to have less kapt use ? "
 
 **2021-02-01** — closed issue [#1267](https://api.github.com/repos/square/moshi/issues/1267) on [square/moshi](https://api.github.com/repos/square/moshi): "How catch all serializing errors in single point?"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-01** — closed PR [#1263](https://api.github.com/repos/square/moshi/pulls/1263) to [square/moshi](https://api.github.com/repos/square/moshi): "Update proguard README section to resolve #1261"
 
 **2021-02-01** — commented on [#1263](https://github.com/square/moshi/pull/1263#issuecomment-771224605) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-01** — closed issue [#1288](https://api.github.com/repos/square/moshi/issues/1288) on [square/moshi](https://api.github.com/repos/square/moshi): "Ques: Skip bad element from a list for polymorphic type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
