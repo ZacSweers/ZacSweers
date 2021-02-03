@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2021-02-02** — [Disposables Can Cause Memory Leaks](https://www.zacsweers.dev/disposables-can-cause-memory-leaks/)
+
 **2021-01-29** — [Kapt's Hidden Test Costs](https://www.zacsweers.dev/kapts-hidden-test-costs/)
 
 **2020-07-13** — [Time in UI Programming](https://www.zacsweers.dev/time-in-ui/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-03-09** — [Stories from Josephine](https://www.zacsweers.dev/stories-from-josephine/)
 
 **2020-02-05** — [It's Nothing](https://www.zacsweers.dev/its-nothing/)
-
-**2020-01-21** — [Butterfly Effects](https://www.zacsweers.dev/butterfly-effects/)
 <!-- blog ends -->
 More on [zacsweers.dev](https://zacsweers.dev/)
 </td></tr></table>
