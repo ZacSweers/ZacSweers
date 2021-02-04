@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — pushed [`a2d1c52a`](https://github.com/slackhq/moshi-gson-interop/commit/a2d1c52a6342f59118793f93ebe99183963954b6) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Clean up the API a bit"
+
 **2021-02-04** — pushed [`f0a57b63`](https://github.com/slackhq/moshi-gson-interop/commit/f0a57b6384e66bebc6cc1c6708fc4bea052d17d4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
 
 **2021-02-04** — pushed [`3b75da56`](https://github.com/slackhq/moshi-gson-interop/commit/3b75da56172d890234768f5fd0cea911c27d4d8a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update comments"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-03** — commented on [#1036](https://github.com/square/kotlinpoet/issues/1036#issuecomment-772324381) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-02-02** — deleted branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-02** — pushed [`6e5bb3a2`](https://github.com/square/moshi/commit/6e5bb3a29bdfba6f08e96657168167fa2579050b) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration (#1257)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
