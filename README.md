@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — created branch "z/avoidElement" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
 **2021-02-03** — closed issue [#1297](https://api.github.com/repos/square/moshi/issues/1297) on [square/moshi](https://api.github.com/repos/square/moshi): "kotlin: can't normal toJson and fromJson"
 
 **2021-02-03** — commented on [#1297](https://github.com/square/moshi/issues/1297#issuecomment-772682217) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-02** — pushed [`8518f47f`](https://github.com/square/moshi/commit/8518f47f52bdec6af5b604f2b046ea2952f77c06) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies (#1258)"
 
 **2021-02-02** — closed PR [#1258](https://api.github.com/repos/square/moshi/pulls/1258) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
-
-**2021-02-02** — commented on [#1258](https://github.com/square/moshi/pull/1258#issuecomment-771855509) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
