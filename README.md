@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — pushed [`f0a57b63`](https://github.com/slackhq/moshi-gson-interop/commit/f0a57b6384e66bebc6cc1c6708fc4bea052d17d4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
+
+**2021-02-04** — pushed [`3b75da56`](https://github.com/slackhq/moshi-gson-interop/commit/3b75da56172d890234768f5fd0cea911c27d4d8a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update comments"
+
+**2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
+
+**2021-02-04** — opened PR [#28](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/28) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding"
+
 **2021-02-04** — created branch "z/avoidElement" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-02-03** — closed issue [#1297](https://api.github.com/repos/square/moshi/issues/1297) on [square/moshi](https://api.github.com/repos/square/moshi): "kotlin: can't normal toJson and fromJson"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-02** — deleted branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-02** — pushed [`6e5bb3a2`](https://github.com/square/moshi/commit/6e5bb3a29bdfba6f08e96657168167fa2579050b) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration (#1257)"
-
-**2021-02-02** — closed PR [#1257](https://api.github.com/repos/square/moshi/pulls/1257) to [square/moshi](https://api.github.com/repos/square/moshi): "Prepare project for Kotlin migration"
-
-**2021-02-02** — deleted branch "z/okio9" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-02** — pushed [`8518f47f`](https://github.com/square/moshi/commit/8518f47f52bdec6af5b604f2b046ea2952f77c06) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies (#1258)"
-
-**2021-02-02** — closed PR [#1258](https://api.github.com/repos/square/moshi/pulls/1258) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
