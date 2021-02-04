@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — pushed [`23b7bf36`](https://github.com/slackhq/moshi-gson-interop/commit/23b7bf368a8b8082792103e466243dcf3d42721b) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding (#28)"
+
+**2021-02-04** — deleted branch "z/avoidElement" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-04** — closed PR [#28](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/28) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding"
+
+**2021-02-04** — pushed [`e034f4b5`](https://github.com/slackhq/moshi-gson-interop/commit/e034f4b5320ee93a60c7cb8769675603982c1be2) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Dangling sentence"
+
+**2021-02-04** — pushed [`e16432c9`](https://github.com/slackhq/moshi-gson-interop/commit/e16432c975f4ea7f3d2a989f1296f1655d6609c9) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add missing lenient setting"
+
 **2021-02-04** — pushed [`a2d1c52a`](https://github.com/slackhq/moshi-gson-interop/commit/a2d1c52a6342f59118793f93ebe99183963954b6) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Clean up the API a bit"
 
 **2021-02-04** — pushed [`f0a57b63`](https://github.com/slackhq/moshi-gson-interop/commit/f0a57b6384e66bebc6cc1c6708fc4bea052d17d4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 
 **2021-02-04** — opened PR [#28](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/28) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding"
-
-**2021-02-04** — created branch "z/avoidElement" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-02-03** — closed issue [#1297](https://api.github.com/repos/square/moshi/issues/1297) on [square/moshi](https://api.github.com/repos/square/moshi): "kotlin: can't normal toJson and fromJson"
-
-**2021-02-03** — commented on [#1297](https://github.com/square/moshi/issues/1297#issuecomment-772682217) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-03** — commented on [#1036](https://github.com/square/kotlinpoet/issues/1036#issuecomment-772324381) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-02-02** — deleted branch "z/japicmp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
