@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — opened PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
+
+**2021-02-04** — created branch "z/fixEncoding" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-04** — pushed 3 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
+
 **2021-02-04** — pushed [`23b7bf36`](https://github.com/slackhq/moshi-gson-interop/commit/23b7bf368a8b8082792103e466243dcf3d42721b) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding (#28)"
 
 **2021-02-04** — deleted branch "z/avoidElement" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-04** — pushed [`a2d1c52a`](https://github.com/slackhq/moshi-gson-interop/commit/a2d1c52a6342f59118793f93ebe99183963954b6) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Clean up the API a bit"
 
 **2021-02-04** — pushed [`f0a57b63`](https://github.com/slackhq/moshi-gson-interop/commit/f0a57b6384e66bebc6cc1c6708fc4bea052d17d4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
-
-**2021-02-04** — pushed [`3b75da56`](https://github.com/slackhq/moshi-gson-interop/commit/3b75da56172d890234768f5fd0cea911c27d4d8a) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update comments"
-
-**2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
-
-**2021-02-04** — opened PR [#28](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/28) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
