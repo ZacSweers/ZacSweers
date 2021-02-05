@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — created tag "0.4.1" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
+
 **2021-02-04** — deleted branch "z/updateVersion" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-02-04** — pushed [`32689f66`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/32689f665ad8fcfeb54264c982e16df1282d97e2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Kotlin 1.4.30 final (#46)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-04** — pushed [`02c75074`](https://github.com/slackhq/moshi-gson-interop/commit/02c75074b86271a7080da1f627b81c297fa9c3ff) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding (#29)"
 
 **2021-02-04** — closed PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
-
-**2021-02-04** — opened PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
-
-**2021-02-04** — created branch "z/fixEncoding" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
