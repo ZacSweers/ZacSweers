@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-05** — deleted branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-02-05** — pushed [`7032a924`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7032a92467156836596b43d9904c9b0dbc165223) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI (#47)"
+
+**2021-02-05** — closed PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
+
 **2021-02-05** — pushed [`9ceb735a`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ceb735aac1b4737e1212485943134d6ad782a09) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Ignore sample"
 
 **2021-02-05** — pushed [`ee89018e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ee89018ed79b99dacc96e92524ae885b0e27de38) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-add api"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — created tag "0.7.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-02-05** — pushed 6 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-02-04** — created tag "0.4.1" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
-
-**2021-02-04** — deleted branch "z/updateVersion" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
