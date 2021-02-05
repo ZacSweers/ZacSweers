@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-05** — pushed [`9ceb735a`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ceb735aac1b4737e1212485943134d6ad782a09) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Ignore sample"
+
+**2021-02-05** — pushed [`ee89018e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ee89018ed79b99dacc96e92524ae885b0e27de38) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-add api"
+
+**2021-02-05** — opened PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
+
+**2021-02-05** — created branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-02-05** — created tag "0.8.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-02-05** — created tag "0.7.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-02-05** — pushed 6 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
 **2021-02-04** — created tag "0.4.1" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-02-04** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
 
 **2021-02-04** — deleted branch "z/updateVersion" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-02-04** — pushed [`32689f66`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/32689f665ad8fcfeb54264c982e16df1282d97e2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Kotlin 1.4.30 final (#46)"
-
-**2021-02-04** — closed PR [#46](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/46) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Kotlin 1.4.30 final"
-
-**2021-02-04** — opened PR [#46](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/46) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Kotlin 1.4.30 final"
-
-**2021-02-04** — created branch "z/updateVersion" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-02-04** — deleted branch "z/fixEncoding" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-02-04** — pushed [`02c75074`](https://github.com/slackhq/moshi-gson-interop/commit/02c75074b86271a7080da1f627b81c297fa9c3ff) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding (#29)"
-
-**2021-02-04** — closed PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
