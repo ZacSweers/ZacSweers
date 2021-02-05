@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-04** — deleted branch "z/fixEncoding" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-04** — pushed [`02c75074`](https://github.com/slackhq/moshi-gson-interop/commit/02c75074b86271a7080da1f627b81c297fa9c3ff) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding (#29)"
+
+**2021-02-04** — closed PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
+
 **2021-02-04** — opened PR [#29](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/29) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Rework gson -> moshi reading to stream directly and protect encoding"
 
 **2021-02-04** — created branch "z/fixEncoding" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-04** — closed PR [#28](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/28) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Avoid JsonElement/JsonValue APIs to better preserve encoding"
 
 **2021-02-04** — pushed [`e034f4b5`](https://github.com/slackhq/moshi-gson-interop/commit/e034f4b5320ee93a60c7cb8769675603982c1be2) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Dangling sentence"
-
-**2021-02-04** — pushed [`e16432c9`](https://github.com/slackhq/moshi-gson-interop/commit/e16432c975f4ea7f3d2a989f1296f1655d6609c9) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add missing lenient setting"
-
-**2021-02-04** — pushed [`a2d1c52a`](https://github.com/slackhq/moshi-gson-interop/commit/a2d1c52a6342f59118793f93ebe99183963954b6) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Clean up the API a bit"
-
-**2021-02-04** — pushed [`f0a57b63`](https://github.com/slackhq/moshi-gson-interop/commit/f0a57b6384e66bebc6cc1c6708fc4bea052d17d4) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
