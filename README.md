@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-05** — deleted branch "z/ignoreAnnotated" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
+
 **2021-02-05** — deleted branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-02-05** — pushed [`7032a924`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7032a92467156836596b43d9904c9b0dbc165223) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI (#47)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — created tag "0.8.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-02-05** — created tag "0.7.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-02-05** — pushed 6 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
