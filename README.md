@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-07** — closed issue [#68](https://api.github.com/repos/uber/RxDogTag/issues/68) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add performance impact stats to README"
+
+**2021-02-07** — commented on [#68](https://github.com/uber/RxDogTag/issues/68#issuecomment-774724905) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-02-07** — commented on [#82](https://github.com/ZacSweers/MoshiX/issues/82#issuecomment-774634963) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-06** — commented on [#1299](https://github.com/square/moshi/pull/1299#issuecomment-774512898) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — closed PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
 
 **2021-02-05** — pushed [`9ceb735a`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ceb735aac1b4737e1212485943134d6ad782a09) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Ignore sample"
-
-**2021-02-05** — pushed [`ee89018e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ee89018ed79b99dacc96e92524ae885b0e27de38) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-add api"
-
-**2021-02-05** — opened PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
