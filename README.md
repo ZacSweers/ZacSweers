@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-07** — commented on [#82](https://github.com/ZacSweers/MoshiX/issues/82#issuecomment-774634963) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-02-06** — commented on [#1299](https://github.com/square/moshi/pull/1299#issuecomment-774512898) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-06** — closed PR [#1299](https://api.github.com/repos/square/moshi/pulls/1299) to [square/moshi](https://api.github.com/repos/square/moshi): "fix: removed an extra blank line."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — pushed [`ee89018e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ee89018ed79b99dacc96e92524ae885b0e27de38) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-add api"
 
 **2021-02-05** — opened PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
-
-**2021-02-05** — created branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
