@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-08** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-774981576) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-02-07** — closed issue [#68](https://api.github.com/repos/uber/RxDogTag/issues/68) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add performance impact stats to README"
 
 **2021-02-07** — commented on [#68](https://github.com/uber/RxDogTag/issues/68#issuecomment-774724905) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — pushed [`7032a924`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7032a92467156836596b43d9904c9b0dbc165223) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI (#47)"
 
 **2021-02-05** — closed PR [#47](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/47) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI"
-
-**2021-02-05** — pushed [`9ceb735a`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ceb735aac1b4737e1212485943134d6ad782a09) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Ignore sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
