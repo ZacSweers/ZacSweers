@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776109839) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-775733183) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-08** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-774981576) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-05** — deleted branch "z/ignoreAnnotated" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
 
 **2021-02-05** — deleted branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-02-05** — pushed [`7032a924`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7032a92467156836596b43d9904c9b0dbc165223) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Re-enable sample + fix plugin ABI (#47)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
