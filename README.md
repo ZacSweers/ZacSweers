@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — commented on [#83](https://github.com/ZacSweers/MoshiX/pull/83#issuecomment-776176469) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-02-09** — pushed [`78420c56`](https://github.com/ZacSweers/MoshiX/commit/78420c5692ed8cd690a73d1699223c69a4dfa963) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services (#83)"
+
+**2021-02-09** — closed PR [#83](https://api.github.com/repos/ZacSweers/MoshiX/pulls/83) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services"
+
+**2021-02-09** — closed issue [#82](https://api.github.com/repos/ZacSweers/MoshiX/issues/82) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `JsonString` to be used in Retrofit"
+
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776139136) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776109839) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-07** — closed issue [#68](https://api.github.com/repos/uber/RxDogTag/issues/68) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add performance impact stats to README"
 
 **2021-02-07** — commented on [#68](https://github.com/uber/RxDogTag/issues/68#issuecomment-774724905) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-07** — commented on [#82](https://github.com/ZacSweers/MoshiX/issues/82#issuecomment-774634963) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-06** — commented on [#1299](https://github.com/square/moshi/pull/1299#issuecomment-774512898) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-06** — closed PR [#1299](https://api.github.com/repos/square/moshi/pulls/1299) to [square/moshi](https://api.github.com/repos/square/moshi): "fix: removed an extra blank line."
-
-**2021-02-05** — deleted branch "z/ignoreAnnotated" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
