@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776139136) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776109839) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-775733183) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-06** — closed PR [#1299](https://api.github.com/repos/square/moshi/pulls/1299) to [square/moshi](https://api.github.com/repos/square/moshi): "fix: removed an extra blank line."
 
 **2021-02-05** — deleted branch "z/ignoreAnnotated" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
-
-**2021-02-05** — deleted branch "z/reenableSample" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
