@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — closed issue [#69](https://api.github.com/repos/uber/RxDogTag/issues/69) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add support for onError handler"
+
+**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776197223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-02-09** — commented on [#83](https://github.com/ZacSweers/MoshiX/pull/83#issuecomment-776176469) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-09** — pushed [`78420c56`](https://github.com/ZacSweers/MoshiX/commit/78420c5692ed8cd690a73d1699223c69a4dfa963) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services (#83)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-775733183) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-08** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-774981576) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-02-07** — closed issue [#68](https://api.github.com/repos/uber/RxDogTag/issues/68) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add performance impact stats to README"
-
-**2021-02-07** — commented on [#68](https://github.com/uber/RxDogTag/issues/68#issuecomment-774724905) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
