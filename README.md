@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — created branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
+**2021-02-09** — pushed 14 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
 **2021-02-09** — opened PR [#1](https://api.github.com/repos/benpious/Constraints/pulls/1) to [benpious/Constraints](https://api.github.com/repos/benpious/Constraints): "Add syntax highlighting in README"
 
 **2021-02-09** — pushed [`ed46a212`](https://github.com/ZacSweers/Constraints/commit/ed46a2129b37ad93981c0703b8bcc03092134692) to [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints): "Add syntax highlighting in README"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-09** — closed PR [#83](https://api.github.com/repos/ZacSweers/MoshiX/pulls/83) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services"
 
 **2021-02-09** — closed issue [#82](https://api.github.com/repos/ZacSweers/MoshiX/issues/82) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `JsonString` to be used in Retrofit"
-
-**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776139136) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776109839) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
