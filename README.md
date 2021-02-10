@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-09** — opened PR [#1](https://api.github.com/repos/benpious/Constraints/pulls/1) to [benpious/Constraints](https://api.github.com/repos/benpious/Constraints): "Add syntax highlighting in README"
+
+**2021-02-09** — pushed [`ed46a212`](https://github.com/ZacSweers/Constraints/commit/ed46a2129b37ad93981c0703b8bcc03092134692) to [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints): "Add syntax highlighting in README"
+
 **2021-02-09** — closed issue [#69](https://api.github.com/repos/uber/RxDogTag/issues/69) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add support for onError handler"
 
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776197223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776139136) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776109839) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-775733183) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-08** — commented on [#16](https://github.com/slackhq/EitherNet/issues/16#issuecomment-774981576) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
