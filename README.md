@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-10** — deleted branch "patch-1" on [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints)
+
+**2021-02-10** — commented on [#195](https://github.com/gradle/gradle-profiler/issues/195#issuecomment-776500459) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+
 **2021-02-09** — created branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-02-09** — pushed 14 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-09** — commented on [#83](https://github.com/ZacSweers/MoshiX/pull/83#issuecomment-776176469) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-09** — pushed [`78420c56`](https://github.com/ZacSweers/MoshiX/commit/78420c5692ed8cd690a73d1699223c69a4dfa963) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services (#83)"
-
-**2021-02-09** — closed PR [#83](https://api.github.com/repos/ZacSweers/MoshiX/pulls/83) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services"
-
-**2021-02-09** — closed issue [#82](https://api.github.com/repos/ZacSweers/MoshiX/issues/82) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `JsonString` to be used in Retrofit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
