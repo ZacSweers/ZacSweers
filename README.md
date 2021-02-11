@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-11** — commented on [#10](https://github.com/ZacSweers/auto-service-ksp/pull/10#issuecomment-777281721) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-02-11** — opened PR [#10](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/10) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
+
+**2021-02-11** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-02-11** — opened PR [#112](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/112) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.30-1.0.0-alpha02 and Kotlin to 1.4.30"
+
+**2021-02-11** — pushed [`98edafdc`](https://github.com/ZacSweers/kotlin-compile-testing/commit/98edafdcd957350fcb2ac71a4decd442b4c3e3b1) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update test for new multiple-rounds behavior"
+
+**2021-02-11** — pushed [`599908e7`](https://github.com/ZacSweers/kotlin-compile-testing/commit/599908e715523032dc3dce5a02f34fcdb6606ec0) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update kotlin to 1.4.30"
+
 **2021-02-10** — deleted branch "patch-1" on [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints)
 
 **2021-02-10** — commented on [#195](https://github.com/gradle/gradle-profiler/issues/195#issuecomment-776500459) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-09** — created branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-02-09** — pushed 14 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2021-02-09** — opened PR [#1](https://api.github.com/repos/benpious/Constraints/pulls/1) to [benpious/Constraints](https://api.github.com/repos/benpious/Constraints): "Add syntax highlighting in README"
-
-**2021-02-09** — pushed [`ed46a212`](https://github.com/ZacSweers/Constraints/commit/ed46a2129b37ad93981c0703b8bcc03092134692) to [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints): "Add syntax highlighting in README"
-
-**2021-02-09** — closed issue [#69](https://api.github.com/repos/uber/RxDogTag/issues/69) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Add support for onError handler"
-
-**2021-02-09** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-776197223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-09** — commented on [#83](https://github.com/ZacSweers/MoshiX/pull/83#issuecomment-776176469) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-09** — pushed [`78420c56`](https://github.com/ZacSweers/MoshiX/commit/78420c5692ed8cd690a73d1699223c69a4dfa963) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Allow `@JsonString` to be used in methods/functions eg in Retrofit services (#83)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
