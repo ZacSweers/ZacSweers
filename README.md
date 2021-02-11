@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833794) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833324) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-11** — opened PR [#84](https://api.github.com/repos/ZacSweers/MoshiX/pulls/84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2"
 
 **2021-02-11** — pushed [`30cdcd88`](https://github.com/ZacSweers/MoshiX/commit/30cdcd88d039b56a80a86d461354292ece0029cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP APIs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — pushed [`9a7702e6`](https://github.com/ZacSweers/auto-service-ksp/commit/9a7702e66e07bf99ff57a913fe198a40b7a34e02) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#10)"
 
 **2021-02-11** — closed PR [#10](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/10) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
-
-**2021-02-11** — pushed [`dba1e7d8`](https://github.com/ZacSweers/auto-service-ksp/commit/dba1e7d831cd74e7af8d9ee2f04435b912b888b2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Clear at the end"
-
-**2021-02-11** — commented on [#10](https://github.com/ZacSweers/auto-service-ksp/pull/10#issuecomment-777281721) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
