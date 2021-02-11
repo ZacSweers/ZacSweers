@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-11** — pushed [`c0f2a187`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c0f2a187c2fee02399e41500617eb907b5c3043c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update plugin ID"
+
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833794) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833324) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-02-11** — pushed [`9a7702e6`](https://github.com/ZacSweers/auto-service-ksp/commit/9a7702e66e07bf99ff57a913fe198a40b7a34e02) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#10)"
-
-**2021-02-11** — closed PR [#10](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/10) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
