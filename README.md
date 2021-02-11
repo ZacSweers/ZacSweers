@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-11** — created branch "z/1430" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-02-11** — created tag "0.3.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-02-11** — pushed [`a7132ffe`](https://github.com/ZacSweers/auto-service-ksp/commit/a7132ffeb985705cc01c66d3183a8e6ead555571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Prepare for release 0.3.2."
+
+**2021-02-11** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-02-11** — pushed [`9a7702e6`](https://github.com/ZacSweers/auto-service-ksp/commit/9a7702e66e07bf99ff57a913fe198a40b7a34e02) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#10)"
+
+**2021-02-11** — closed PR [#10](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/10) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
+
+**2021-02-11** — pushed [`dba1e7d8`](https://github.com/ZacSweers/auto-service-ksp/commit/dba1e7d831cd74e7af8d9ee2f04435b912b888b2) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Clear at the end"
+
 **2021-02-11** — commented on [#10](https://github.com/ZacSweers/auto-service-ksp/pull/10#issuecomment-777281721) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-02-11** — opened PR [#10](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/10) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
 **2021-02-11** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-02-11** — opened PR [#112](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/112) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.30-1.0.0-alpha02 and Kotlin to 1.4.30"
-
-**2021-02-11** — pushed [`98edafdc`](https://github.com/ZacSweers/kotlin-compile-testing/commit/98edafdcd957350fcb2ac71a4decd442b4c3e3b1) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update test for new multiple-rounds behavior"
-
-**2021-02-11** — pushed [`599908e7`](https://github.com/ZacSweers/kotlin-compile-testing/commit/599908e715523032dc3dce5a02f34fcdb6606ec0) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update kotlin to 1.4.30"
-
-**2021-02-10** — deleted branch "patch-1" on [ZacSweers/Constraints](https://api.github.com/repos/ZacSweers/Constraints)
-
-**2021-02-10** — commented on [#195](https://github.com/gradle/gradle-profiler/issues/195#issuecomment-776500459) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
-
-**2021-02-09** — created branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2021-02-09** — pushed 14 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
