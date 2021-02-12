@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-12** — closed issue [#1262](https://api.github.com/repos/square/moshi/issues/1262) on [square/moshi](https://api.github.com/repos/square/moshi): "Conflicts using `transient` (it is also used by other libraries)"
+
+**2021-02-12** — commented on [#1262](https://github.com/square/moshi/issues/1262#issuecomment-777976169) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777930533) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-11** — pushed [`c0f2a187`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c0f2a187c2fee02399e41500617eb907b5c3043c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update plugin ID"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — created branch "z/1430" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-11** — created tag "0.3.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-02-11** — pushed [`a7132ffe`](https://github.com/ZacSweers/auto-service-ksp/commit/a7132ffeb985705cc01c66d3183a8e6ead555571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Prepare for release 0.3.2."
-
-**2021-02-11** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
