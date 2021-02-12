@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-12** — closed issue [#1301](https://api.github.com/repos/square/moshi/issues/1301) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi needs an @JsonIgnore annotation, so fields can be independently excluded from serialization"
+
+**2021-02-12** — commented on [#1301](https://github.com/square/moshi/issues/1301#issuecomment-778369958) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-12** — closed issue [#1262](https://api.github.com/repos/square/moshi/issues/1262) on [square/moshi](https://api.github.com/repos/square/moshi): "Conflicts using `transient` (it is also used by other libraries)"
 
 **2021-02-12** — commented on [#1262](https://github.com/square/moshi/issues/1262#issuecomment-777976169) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — opened PR [#84](https://api.github.com/repos/ZacSweers/MoshiX/pulls/84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2"
 
 **2021-02-11** — pushed [`30cdcd88`](https://github.com/ZacSweers/MoshiX/commit/30cdcd88d039b56a80a86d461354292ece0029cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP APIs"
-
-**2021-02-11** — created branch "z/1430" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-11** — created tag "0.3.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
