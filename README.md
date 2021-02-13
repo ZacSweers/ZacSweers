@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-13** — commented on [#373](https://github.com/yschimke/okurl/pull/373#issuecomment-778680685) in [yschimke/okurl](https://api.github.com/repos/yschimke/okurl)
+
+**2021-02-13** — deleted branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
+
 **2021-02-12** — closed issue [#1301](https://api.github.com/repos/square/moshi/issues/1301) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi needs an @JsonIgnore annotation, so fields can be independently excluded from serialization"
 
 **2021-02-12** — commented on [#1301](https://github.com/square/moshi/issues/1301#issuecomment-778369958) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833794) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833324) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-11** — opened PR [#84](https://api.github.com/repos/ZacSweers/MoshiX/pulls/84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2"
-
-**2021-02-11** — pushed [`30cdcd88`](https://github.com/ZacSweers/MoshiX/commit/30cdcd88d039b56a80a86d461354292ece0029cc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
