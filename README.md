@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-13** — closed issue [#10](https://api.github.com/repos/ZacSweers/MoshiX/issues/10) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alternative API designs"
+
+**2021-02-13** — commented on [#10](https://github.com/ZacSweers/MoshiX/issues/10#issuecomment-778725220) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-02-13** — commented on [#373](https://github.com/yschimke/okurl/pull/373#issuecomment-778680685) in [yschimke/okurl](https://api.github.com/repos/yschimke/okurl)
 
 **2021-02-13** — deleted branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777930533) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-11** — pushed [`c0f2a187`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c0f2a187c2fee02399e41500617eb907b5c3043c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update plugin ID"
-
-**2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833794) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777833324) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
