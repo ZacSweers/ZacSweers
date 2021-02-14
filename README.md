@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — pushed [`014e34c1`](https://github.com/ZacSweers/MoshiX/commit/014e34c10563389c789fa2f6406ba4b2f1aaefb7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2 (#84)"
+
+**2021-02-14** — deleted branch "z/1430" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-02-14** — closed PR [#84](https://api.github.com/repos/ZacSweers/MoshiX/pulls/84) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2"
+
 **2021-02-14** — pushed [`821844a1`](https://github.com/ZacSweers/MoshiX/commit/821844a1b59bd5dadd723dc497bc6a0e68644448) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update testKsp refs"
 
 **2021-02-14** — pushed [`59c45d8a`](https://github.com/ZacSweers/MoshiX/commit/59c45d8a5037620bfb7540a78ca7d9dfaa5ae52c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix error() usage"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-13** — commented on [#373](https://github.com/yschimke/okurl/pull/373#issuecomment-778680685) in [yschimke/okurl](https://api.github.com/repos/yschimke/okurl)
 
 **2021-02-13** — deleted branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
-
-**2021-02-12** — closed issue [#1301](https://api.github.com/repos/square/moshi/issues/1301) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi needs an @JsonIgnore annotation, so fields can be independently excluded from serialization"
-
-**2021-02-12** — commented on [#1301](https://github.com/square/moshi/issues/1301#issuecomment-778369958) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-12** — closed issue [#1262](https://api.github.com/repos/square/moshi/issues/1262) on [square/moshi](https://api.github.com/repos/square/moshi): "Conflicts using `transient` (it is also used by other libraries)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
