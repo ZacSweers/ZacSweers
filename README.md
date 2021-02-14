@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — opened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
+
+**2021-02-14** — closed issue [#1300](https://api.github.com/repos/square/moshi/issues/1300) on [square/moshi](https://api.github.com/repos/square/moshi): "Combining DefaultOnDataMismatchAdapter with an adapter from PolymorphicJsonAdapterFactory throws a StackOverflowError"
+
+**2021-02-14** — commented on [#1300](https://github.com/square/moshi/issues/1300#issuecomment-778748467) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-14** — pushed [`014e34c1`](https://github.com/ZacSweers/MoshiX/commit/014e34c10563389c789fa2f6406ba4b2f1aaefb7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2 (#84)"
 
 **2021-02-14** — deleted branch "z/1430" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-14** — pushed [`ce4eda5c`](https://github.com/ZacSweers/MoshiX/commit/ce4eda5c927b0cf263a0531fd37aac25ab0189e3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update error handling APIs"
 
 **2021-02-13** — closed issue [#10](https://api.github.com/repos/ZacSweers/MoshiX/issues/10) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alternative API designs"
-
-**2021-02-13** — commented on [#10](https://github.com/ZacSweers/MoshiX/issues/10#issuecomment-778725220) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-13** — commented on [#373](https://github.com/yschimke/okurl/pull/373#issuecomment-778680685) in [yschimke/okurl](https://api.github.com/repos/yschimke/okurl)
-
-**2021-02-13** — deleted branch "z/moshiKtx" on [ZacSweers/okurl](https://api.github.com/repos/ZacSweers/okurl)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
