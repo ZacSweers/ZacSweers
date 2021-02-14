@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — pushed [`87145f1f`](https://github.com/ZacSweers/MoshiX/commit/87145f1f5d0485c84730483c02e8524bc8efe337) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix proguard file names"
+
 **2021-02-14** — opened PR [#315](https://api.github.com/repos/google/ksp/pulls/315) to [google/ksp](https://api.github.com/repos/google/ksp): "Make finish() have a default implementation"
 
 **2021-02-14** — created branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-14** — commented on [#1302](https://github.com/square/moshi/issues/1302#issuecomment-778755582) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-14** — opened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
-
-**2021-02-14** — closed issue [#1300](https://api.github.com/repos/square/moshi/issues/1300) on [square/moshi](https://api.github.com/repos/square/moshi): "Combining DefaultOnDataMismatchAdapter with an adapter from PolymorphicJsonAdapterFactory throws a StackOverflowError"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
