@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — pushed [`821844a1`](https://github.com/ZacSweers/MoshiX/commit/821844a1b59bd5dadd723dc497bc6a0e68644448) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update testKsp refs"
+
+**2021-02-14** — pushed [`59c45d8a`](https://github.com/ZacSweers/MoshiX/commit/59c45d8a5037620bfb7540a78ca7d9dfaa5ae52c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix error() usage"
+
+**2021-02-14** — pushed [`ce4eda5c`](https://github.com/ZacSweers/MoshiX/commit/ce4eda5c927b0cf263a0531fd37aac25ab0189e3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update error handling APIs"
+
 **2021-02-13** — closed issue [#10](https://api.github.com/repos/ZacSweers/MoshiX/issues/10) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alternative API designs"
 
 **2021-02-13** — commented on [#10](https://github.com/ZacSweers/MoshiX/issues/10#issuecomment-778725220) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-12** — commented on [#1301](https://github.com/square/moshi/issues/1301#issuecomment-778369958) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-12** — closed issue [#1262](https://api.github.com/repos/square/moshi/issues/1262) on [square/moshi](https://api.github.com/repos/square/moshi): "Conflicts using `transient` (it is also used by other libraries)"
-
-**2021-02-12** — commented on [#1262](https://github.com/square/moshi/issues/1262#issuecomment-777976169) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-11** — commented on [#1296](https://github.com/square/moshi/issues/1296#issuecomment-777930533) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-11** — pushed [`c0f2a187`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c0f2a187c2fee02399e41500617eb907b5c3043c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update plugin ID"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
