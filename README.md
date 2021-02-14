@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — closed issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
+
+**2021-02-14** — commented on [#1302](https://github.com/square/moshi/issues/1302#issuecomment-778755582) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-14** — opened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
 
 **2021-02-14** — closed issue [#1300](https://api.github.com/repos/square/moshi/issues/1300) on [square/moshi](https://api.github.com/repos/square/moshi): "Combining DefaultOnDataMismatchAdapter with an adapter from PolymorphicJsonAdapterFactory throws a StackOverflowError"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-14** — pushed [`821844a1`](https://github.com/ZacSweers/MoshiX/commit/821844a1b59bd5dadd723dc497bc6a0e68644448) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update testKsp refs"
 
 **2021-02-14** — pushed [`59c45d8a`](https://github.com/ZacSweers/MoshiX/commit/59c45d8a5037620bfb7540a78ca7d9dfaa5ae52c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix error() usage"
-
-**2021-02-14** — pushed [`ce4eda5c`](https://github.com/ZacSweers/MoshiX/commit/ce4eda5c927b0cf263a0531fd37aac25ab0189e3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update error handling APIs"
-
-**2021-02-13** — closed issue [#10](https://api.github.com/repos/ZacSweers/MoshiX/issues/10) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alternative API designs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
