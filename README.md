@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-14** — opened PR [#315](https://api.github.com/repos/google/ksp/pulls/315) to [google/ksp](https://api.github.com/repos/google/ksp): "Make finish() have a default implementation"
+
+**2021-02-14** — created branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-02-14** — commented on [#85](https://github.com/ZacSweers/MoshiX/pull/85#issuecomment-778827326) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-14** — pushed [`6c4ded1a`](https://github.com/ZacSweers/MoshiX/commit/6c4ded1ad6cf129a6bde11dbeabf409a5d763c34) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add kotlinx-metadata based reflect artifact for Moshi Sealed (#85)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-14** — opened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
 
 **2021-02-14** — closed issue [#1300](https://api.github.com/repos/square/moshi/issues/1300) on [square/moshi](https://api.github.com/repos/square/moshi): "Combining DefaultOnDataMismatchAdapter with an adapter from PolymorphicJsonAdapterFactory throws a StackOverflowError"
-
-**2021-02-14** — commented on [#1300](https://github.com/square/moshi/issues/1300#issuecomment-778748467) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-14** — pushed [`014e34c1`](https://github.com/ZacSweers/MoshiX/commit/014e34c10563389c789fa2f6406ba4b2f1aaefb7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.4.30 and KSP 1.4.30 alpha2 (#84)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
