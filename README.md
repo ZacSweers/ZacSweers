@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-15** — created branch "z/spotless" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-15** — pushed [`b31a1e62`](https://github.com/ZacSweers/MoshiX/commit/b31a1e62460c1e51550de0492de7686a7e0996bc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
-**2021-02-15** — pushed [`1d8b2102`](https://github.com/ZacSweers/MoshiX/commit/1d8b2102c7b3792d088be3197f796a1da73aa1b1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys (#88)"
+**2021-02-15** — created tag "0.9.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-15** — deleted branch "z/trackUnknown" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-15** — created tag "0.9.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-15** — closed PR [#88](https://api.github.com/repos/ZacSweers/MoshiX/pulls/88) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys"
+**2021-02-15** — pushed 5 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-02-15** — opened PR [#89](https://api.github.com/repos/ZacSweers/MoshiX/pulls/89) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names"
+**2021-02-15** — pushed [`4d35cb61`](https://github.com/ZacSweers/MoshiX/commit/4d35cb61a69db4836f1877661d5887c361a1a9af) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names (#89)"
 
-**2021-02-15** — opened PR [#88](https://api.github.com/repos/ZacSweers/MoshiX/pulls/88) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys"
+**2021-02-15** — deleted branch "z/suppressions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-15** — created branch "z/suppressions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-15** — closed PR [#89](https://api.github.com/repos/ZacSweers/MoshiX/pulls/89) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names"
 
-**2021-02-15** — created branch "z/trackUnknown" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-15** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-02-15** — pushed [`8c61a14f`](https://github.com/ZacSweers/MoshiX/commit/8c61a14f5bd9269d18432aa5016538938a65e96a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "WIP CHANGELOG updates"
+**2021-02-15** — pushed 5 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-02-15** — pushed [`e68be1c8`](https://github.com/ZacSweers/MoshiX/commit/e68be1c82bf6fb3f50096a553c9848cee54f25c3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "A wealth of improvements to sealed (#87)"
+**2021-02-15** — pushed [`df5b2ea2`](https://github.com/ZacSweers/MoshiX/commit/df5b2ea2fde0ae888a7b5b8e121e57be5819cb8d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mass format + spotless (#90)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
