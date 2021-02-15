@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-15** — commented on [#1308](https://github.com/square/moshi/pull/1308#issuecomment-778940672) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-14** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2021-02-14** — opened PR [#1308](https://api.github.com/repos/square/moshi/pulls/1308) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix private computed properties not being ignored"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-14** — created branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-14** — pushed [`f874cd2b`](https://github.com/ZacSweers/moshi/commit/f874cd2be0d61856dc188e242f1198d035968496) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
-
-**2021-02-14** — opened PR [#1305](https://api.github.com/repos/square/moshi/pulls/1305) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
