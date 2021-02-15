@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-15** — closed issue [#1270](https://api.github.com/repos/square/moshi/issues/1270) on [square/moshi](https://api.github.com/repos/square/moshi): "`newParameterizedType` is not respected for a polymorphic adapter"
+**2021-02-15** — created branch "z/spotless" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-15** — commented on [#1270](https://github.com/square/moshi/issues/1270#issuecomment-778969936) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-15** — pushed [`1d8b2102`](https://github.com/ZacSweers/MoshiX/commit/1d8b2102c7b3792d088be3197f796a1da73aa1b1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys (#88)"
 
-**2021-02-15** — commented on [#1308](https://github.com/square/moshi/pull/1308#issuecomment-778940672) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-15** — deleted branch "z/trackUnknown" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-14** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2021-02-15** — closed PR [#88](https://api.github.com/repos/ZacSweers/MoshiX/pulls/88) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys"
 
-**2021-02-14** — opened PR [#1308](https://api.github.com/repos/square/moshi/pulls/1308) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix private computed properties not being ignored"
+**2021-02-15** — opened PR [#89](https://api.github.com/repos/ZacSweers/MoshiX/pulls/89) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names"
 
-**2021-02-14** — created branch "z/fixComputedVars" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-02-15** — opened PR [#88](https://api.github.com/repos/ZacSweers/MoshiX/pulls/88) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement TrackUnknownKeys"
 
-**2021-02-14** — opened PR [#1307](https://api.github.com/repos/square/moshi/pulls/1307) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
+**2021-02-15** — created branch "z/suppressions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-14** — closed issue [#1264](https://api.github.com/repos/square/moshi/issues/1264) on [square/moshi](https://api.github.com/repos/square/moshi): "How do I handle error data returned from the server?"
+**2021-02-15** — created branch "z/trackUnknown" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-14** — created branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-02-15** — pushed [`8c61a14f`](https://github.com/ZacSweers/MoshiX/commit/8c61a14f5bd9269d18432aa5016538938a65e96a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "WIP CHANGELOG updates"
 
-**2021-02-14** — opened PR [#1306](https://api.github.com/repos/square/moshi/pulls/1306) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations"
+**2021-02-15** — pushed [`e68be1c8`](https://github.com/ZacSweers/MoshiX/commit/e68be1c82bf6fb3f50096a553c9848cee54f25c3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "A wealth of improvements to sealed (#87)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
