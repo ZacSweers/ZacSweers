@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-14** — pushed [`bd596906`](https://github.com/ZacSweers/MoshiX/commit/bd59690656ebc8cf2a13a7e372598bd267cef6e1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set (#86)"
+**2021-02-14** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
-**2021-02-14** — deleted branch "z/happyPathDefaults" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-14** — opened PR [#1308](https://api.github.com/repos/square/moshi/pulls/1308) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix private computed properties not being ignored"
 
-**2021-02-14** — closed PR [#86](https://api.github.com/repos/ZacSweers/MoshiX/pulls/86) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set"
+**2021-02-14** — created branch "z/fixComputedVars" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-02-14** — pushed [`d83520f5`](https://github.com/ZacSweers/MoshiX/commit/d83520f551bca7d431ccc1a6c6c59276fd81619a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add comment for readability"
+**2021-02-14** — opened PR [#1307](https://api.github.com/repos/square/moshi/pulls/1307) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
 
-**2021-02-14** — reopened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all params with defaults are set"
+**2021-02-14** — closed issue [#1264](https://api.github.com/repos/square/moshi/issues/1264) on [square/moshi](https://api.github.com/repos/square/moshi): "How do I handle error data returned from the server?"
 
-**2021-02-14** — commented on [#1302](https://github.com/square/moshi/issues/1302#issuecomment-778864582) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-14** — created branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-02-14** — opened PR [#86](https://api.github.com/repos/ZacSweers/MoshiX/pulls/86) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set"
+**2021-02-14** — opened PR [#1306](https://api.github.com/repos/square/moshi/pulls/1306) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations"
 
-**2021-02-14** — created branch "z/happyPathDefaults" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-14** — created branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-02-14** — opened PR [#1303](https://api.github.com/repos/square/moshi/pulls/1303) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters"
+**2021-02-14** — pushed [`f874cd2b`](https://github.com/ZacSweers/moshi/commit/f874cd2be0d61856dc188e242f1198d035968496) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
 
-**2021-02-14** — created branch "z/suppressVisibility" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-02-14** — opened PR [#1305](https://api.github.com/repos/square/moshi/pulls/1305) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
