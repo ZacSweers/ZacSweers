@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-15** — deleted branch "z/typenameCollection" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-02-15** — pushed [`99ebab66`](https://github.com/square/moshi/commit/99ebab66c0699a2777afa0072ded8b1d2415ac9f) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions (#1305)"
+
+**2021-02-15** — closed PR [#1305](https://api.github.com/repos/square/moshi/pulls/1305) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions"
+
+**2021-02-15** — closed issue [#1277](https://api.github.com/repos/square/moshi/issues/1277) on [square/moshi](https://api.github.com/repos/square/moshi): "Same name between nullable and null-initialized variable and it's type leads to an error in codegen"
+
+**2021-02-15** — deleted branch "z/suppressVisibility" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-02-15** — pushed [`6b09dc44`](https://github.com/square/moshi/commit/6b09dc443d3ede848eb5d4ecbcd26041b8276955) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters (#1303)"
+
+**2021-02-15** — closed PR [#1303](https://api.github.com/repos/square/moshi/pulls/1303) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters"
+
+**2021-02-15** — commented on [#1303](https://github.com/square/moshi/pull/1303#issuecomment-779376182) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-15** — pushed [`b31a1e62`](https://github.com/ZacSweers/MoshiX/commit/b31a1e62460c1e51550de0492de7686a7e0996bc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-02-15** — created tag "0.9.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-15** — created tag "0.9.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-15** — pushed 5 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-02-15** — pushed [`4d35cb61`](https://github.com/ZacSweers/MoshiX/commit/4d35cb61a69db4836f1877661d5887c361a1a9af) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names (#89)"
-
-**2021-02-15** — deleted branch "z/suppressions" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-15** — closed PR [#89](https://api.github.com/repos/ZacSweers/MoshiX/pulls/89) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add common suppressions to generated code + reserve names"
-
-**2021-02-15** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-02-15** — pushed 5 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-02-15** — pushed [`df5b2ea2`](https://github.com/ZacSweers/MoshiX/commit/df5b2ea2fde0ae888a7b5b8e121e57be5819cb8d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mass format + spotless (#90)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
