@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-14** — pushed [`87145f1f`](https://github.com/ZacSweers/MoshiX/commit/87145f1f5d0485c84730483c02e8524bc8efe337) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix proguard file names"
+**2021-02-14** — pushed [`bd596906`](https://github.com/ZacSweers/MoshiX/commit/bd59690656ebc8cf2a13a7e372598bd267cef6e1) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set (#86)"
 
-**2021-02-14** — opened PR [#315](https://api.github.com/repos/google/ksp/pulls/315) to [google/ksp](https://api.github.com/repos/google/ksp): "Make finish() have a default implementation"
+**2021-02-14** — deleted branch "z/happyPathDefaults" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-14** — created branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+**2021-02-14** — closed PR [#86](https://api.github.com/repos/ZacSweers/MoshiX/pulls/86) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set"
 
-**2021-02-14** — commented on [#85](https://github.com/ZacSweers/MoshiX/pull/85#issuecomment-778827326) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-02-14** — pushed [`d83520f5`](https://github.com/ZacSweers/MoshiX/commit/d83520f551bca7d431ccc1a6c6c59276fd81619a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add comment for readability"
 
-**2021-02-14** — pushed [`6c4ded1a`](https://github.com/ZacSweers/MoshiX/commit/6c4ded1ad6cf129a6bde11dbeabf409a5d763c34) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add kotlinx-metadata based reflect artifact for Moshi Sealed (#85)"
+**2021-02-14** — reopened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all params with defaults are set"
 
-**2021-02-14** — closed PR [#85](https://api.github.com/repos/ZacSweers/MoshiX/pulls/85) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add kotlinx-metadata based reflect artifact for Moshi Sealed"
+**2021-02-14** — commented on [#1302](https://github.com/square/moshi/issues/1302#issuecomment-778864582) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-02-14** — closed issue [#55](https://api.github.com/repos/ZacSweers/MoshiX/issues/55) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove Kotlin-reflect dependency from MoshiSealedJsonAdapterFactory"
+**2021-02-14** — opened PR [#86](https://api.github.com/repos/ZacSweers/MoshiX/pulls/86) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make adapters invoke constructors directly if all parameters with defaults are set"
 
-**2021-02-14** — closed issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
+**2021-02-14** — created branch "z/happyPathDefaults" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-14** — commented on [#1302](https://github.com/square/moshi/issues/1302#issuecomment-778755582) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-02-14** — opened PR [#1303](https://api.github.com/repos/square/moshi/pulls/1303) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters"
 
-**2021-02-14** — opened issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all mask params are fulfilled"
+**2021-02-14** — created branch "z/suppressVisibility" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
