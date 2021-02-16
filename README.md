@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-16** — commented on [#315](https://github.com/google/ksp/pull/315#issuecomment-779640508) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-02-16** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2021-02-15** — deleted branch "z/typenameCollection" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-15** — pushed [`99ebab66`](https://github.com/square/moshi/commit/99ebab66c0699a2777afa0072ded8b1d2415ac9f) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions (#1305)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-15** — closed PR [#1303](https://api.github.com/repos/square/moshi/pulls/1303) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters"
 
 **2021-02-15** — commented on [#1303](https://github.com/square/moshi/pull/1303#issuecomment-779376182) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-15** — pushed [`b31a1e62`](https://github.com/ZacSweers/MoshiX/commit/b31a1e62460c1e51550de0492de7686a7e0996bc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-02-15** — created tag "0.9.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
