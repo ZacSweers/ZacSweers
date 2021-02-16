@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-16** — commented on [#1307](https://github.com/square/moshi/pull/1307#issuecomment-779691293) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-02-16** — deleted branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-02-16** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-02-16** — commented on [#315](https://github.com/google/ksp/pull/315#issuecomment-779640508) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-15** — closed issue [#1277](https://api.github.com/repos/square/moshi/issues/1277) on [square/moshi](https://api.github.com/repos/square/moshi): "Same name between nullable and null-initialized variable and it's type leads to an error in codegen"
 
 **2021-02-15** — deleted branch "z/suppressVisibility" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-15** — pushed [`6b09dc44`](https://github.com/square/moshi/commit/6b09dc443d3ede848eb5d4ecbcd26041b8276955) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters (#1303)"
-
-**2021-02-15** — closed PR [#1303](https://api.github.com/repos/square/moshi/pulls/1303) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress RedundantVisibilityModifier in generated adapters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
