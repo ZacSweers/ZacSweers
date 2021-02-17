@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-16** — opened PR [#316](https://api.github.com/repos/google/ksp/pulls/316) to [google/ksp](https://api.github.com/repos/google/ksp): "Implement getSealedSubclasses API on KSClassDeclaration"
+
+**2021-02-16** — created branch "z/sealedSubClasses" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
+**2021-02-16** — closed issue [#267](https://api.github.com/repos/google/ksp/issues/267) on [google/ksp](https://api.github.com/repos/google/ksp): "Crash when Kotlin 1.4.30-RC is on the classpath"
+
+**2021-02-16** — commented on [#267](https://github.com/google/ksp/issues/267#issuecomment-780271999) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-02-16** — commented on [#1307](https://github.com/square/moshi/pull/1307#issuecomment-779691293) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-16** — deleted branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-16** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2021-02-15** — deleted branch "z/typenameCollection" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-15** — pushed [`99ebab66`](https://github.com/square/moshi/commit/99ebab66c0699a2777afa0072ded8b1d2415ac9f) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions (#1305)"
-
-**2021-02-15** — closed PR [#1305](https://api.github.com/repos/square/moshi/pulls/1305) to [square/moshi](https://api.github.com/repos/square/moshi): "Reserve simple type names referenced by properties to avoid collisions"
-
-**2021-02-15** — closed issue [#1277](https://api.github.com/repos/square/moshi/issues/1277) on [square/moshi](https://api.github.com/repos/square/moshi): "Same name between nullable and null-initialized variable and it's type leads to an error in codegen"
-
-**2021-02-15** — deleted branch "z/suppressVisibility" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
