@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-20** — commented on [#324](https://github.com/google/ksp/pull/324#issuecomment-782752289) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-02-20** — opened issue [#57](https://api.github.com/repos/sherter/google-java-format-gradle-plugin/issues/57) on [sherter/google-java-format-gradle-plugin](https://api.github.com/repos/sherter/google-java-format-gradle-plugin): "Is this project maintained?"
 
 **2021-02-18** — commented on [#63](https://github.com/gradle/gradle-profiler/issues/63#issuecomment-781524219) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-16** — commented on [#1307](https://github.com/square/moshi/pull/1307#issuecomment-779691293) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-16** — deleted branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-02-16** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
