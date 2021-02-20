@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-20** — commented on [#112](https://github.com/tschuchortdev/kotlin-compile-testing/pull/112#issuecomment-782755484) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2021-02-20** — pushed 5 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2021-02-20** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2021-02-20** — closed issue [#181](https://api.github.com/repos/rharter/auto-value-moshi/issues/181) on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "Failed to resolve: com.ryanharter.auto.value:auto-value-moshi-runtime:1.0.0"
+
+**2021-02-20** — commented on [#181](https://github.com/rharter/auto-value-moshi/issues/181#issuecomment-782753687) in [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
+
 **2021-02-20** — commented on [#324](https://github.com/google/ksp/pull/324#issuecomment-782752289) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-02-20** — opened issue [#57](https://api.github.com/repos/sherter/google-java-format-gradle-plugin/issues/57) on [sherter/google-java-format-gradle-plugin](https://api.github.com/repos/sherter/google-java-format-gradle-plugin): "Is this project maintained?"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-17** — commented on [#8](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/8#issuecomment-780739116) in [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin)
 
 **2021-02-16** — opened PR [#316](https://api.github.com/repos/google/ksp/pulls/316) to [google/ksp](https://api.github.com/repos/google/ksp): "Implement getSealedSubclasses API on KSClassDeclaration"
-
-**2021-02-16** — created branch "z/sealedSubClasses" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-02-16** — closed issue [#267](https://api.github.com/repos/google/ksp/issues/267) on [google/ksp](https://api.github.com/repos/google/ksp): "Crash when Kotlin 1.4.30-RC is on the classpath"
-
-**2021-02-16** — commented on [#267](https://github.com/google/ksp/issues/267#issuecomment-780271999) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-02-16** — commented on [#1307](https://github.com/square/moshi/pull/1307#issuecomment-779691293) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-16** — deleted branch "z/defaultFinish" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
