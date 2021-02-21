@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-20** — pushed [`e8e3c9fa`](https://github.com/oberstrike/kotlinpoet/commit/e8e3c9faf1792a5f11330b41ccdf6783b5083476) to [oberstrike/kotlinpoet](https://api.github.com/repos/oberstrike/kotlinpoet): "Braces"
+
 **2021-02-20** — commented on [#112](https://github.com/tschuchortdev/kotlin-compile-testing/pull/112#issuecomment-782755484) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-02-20** — pushed 5 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-18** — commented on [#63](https://github.com/gradle/gradle-profiler/issues/63#issuecomment-781524219) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-02-17** — commented on [#8](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/8#issuecomment-780739116) in [gmazzo/gradle-buildconfig-plugin](https://api.github.com/repos/gmazzo/gradle-buildconfig-plugin)
-
-**2021-02-16** — opened PR [#316](https://api.github.com/repos/google/ksp/pulls/316) to [google/ksp](https://api.github.com/repos/google/ksp): "Implement getSealedSubclasses API on KSClassDeclaration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
