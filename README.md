@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-21** — pushed 8 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
+
+**2021-02-21** — pushed 56 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
+
+**2021-02-21** — commented on [#57](https://github.com/sherter/google-java-format-gradle-plugin/issues/57#issuecomment-782934645) in [sherter/google-java-format-gradle-plugin](https://api.github.com/repos/sherter/google-java-format-gradle-plugin)
+
 **2021-02-21** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-782832040) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 
 **2021-02-21** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-782829874) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-20** — deleted branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-20** — pushed [`7f1e7e22`](https://github.com/square/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations (#1306)"
-
-**2021-02-20** — closed PR [#1306](https://api.github.com/repos/square/moshi/pulls/1306) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations"
-
-**2021-02-20** — deleted branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2021-02-20** — pushed [`344f0e27`](https://github.com/ZacSweers/moshi/commit/344f0e27c1f9d6c1eb1593cd4b8cea38bb7501f9) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "// Appropriate in this case"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
