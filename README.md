@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-21** — pushed [`7f1e7e22`](https://github.com/ZacSweers/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Suppress some poet deprecations (#1306)"
+
 **2021-02-20** — deleted branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-20** — pushed [`7f1e7e22`](https://github.com/square/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations (#1306)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-20** — pushed [`e8e3c9fa`](https://github.com/oberstrike/kotlinpoet/commit/e8e3c9faf1792a5f11330b41ccdf6783b5083476) to [oberstrike/kotlinpoet](https://api.github.com/repos/oberstrike/kotlinpoet): "Braces"
 
 **2021-02-20** — commented on [#112](https://github.com/tschuchortdev/kotlin-compile-testing/pull/112#issuecomment-782755484) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-02-20** — pushed 5 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
