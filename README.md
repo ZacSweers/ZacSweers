@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-21** — opened PR [#207](https://api.github.com/repos/square/anvil/pulls/207) to [square/anvil](https://api.github.com/repos/square/anvil): "Add support for registering generated dirs to sourceSets"
+
+**2021-02-21** — created branch "z/registerSourceDirs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-02-21** — pushed [`7f1e7e22`](https://github.com/ZacSweers/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Suppress some poet deprecations (#1306)"
 
 **2021-02-20** — deleted branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-20** — pushed [`fe6826e0`](https://github.com/square/kotlinpoet/commit/fe6826e06c667f51fa7029a97d59fbfdb3545752) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Issue#1036 adding the possibility to use the ReflectiveClassInspector… (#1037)"
 
 **2021-02-20** — closed PR [#1037](https://api.github.com/repos/square/kotlinpoet/pulls/1037) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Issue#1036 adding the possibility to use the ReflectiveClassInspector…"
-
-**2021-02-20** — pushed [`e8e3c9fa`](https://github.com/oberstrike/kotlinpoet/commit/e8e3c9faf1792a5f11330b41ccdf6783b5083476) to [oberstrike/kotlinpoet](https://api.github.com/repos/oberstrike/kotlinpoet): "Braces"
-
-**2021-02-20** — commented on [#112](https://github.com/tschuchortdev/kotlin-compile-testing/pull/112#issuecomment-782755484) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
