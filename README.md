@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-21** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-782832040) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
+**2021-02-21** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-782829874) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-02-21** — opened PR [#207](https://api.github.com/repos/square/anvil/pulls/207) to [square/anvil](https://api.github.com/repos/square/anvil): "Add support for registering generated dirs to sourceSets"
 
 **2021-02-21** — created branch "z/registerSourceDirs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-20** — deleted branch "z/ksp1430alpha2" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-02-20** — pushed [`344f0e27`](https://github.com/ZacSweers/moshi/commit/344f0e27c1f9d6c1eb1593cd4b8cea38bb7501f9) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "// Appropriate in this case"
-
-**2021-02-20** — pushed [`fe6826e0`](https://github.com/square/kotlinpoet/commit/fe6826e06c667f51fa7029a97d59fbfdb3545752) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Issue#1036 adding the possibility to use the ReflectiveClassInspector… (#1037)"
-
-**2021-02-20** — closed PR [#1037](https://api.github.com/repos/square/kotlinpoet/pulls/1037) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Issue#1036 adding the possibility to use the ReflectiveClassInspector…"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
