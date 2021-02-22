@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-22** — commented on [#1287](https://github.com/square/moshi/pull/1287#issuecomment-783163135) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-02-22** — pushed [`156b1f03`](https://github.com/square/moshi/commit/156b1f03656891d87f6b8d3bdd0fff2650fa9b8b) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix a crash when processing a parameter annotated with an annotation that placed in annotation package (#1287)"
+
+**2021-02-22** — closed PR [#1287](https://api.github.com/repos/square/moshi/pulls/1287) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix a crash when processing a parameter annotated with an annotation that placed in annotation package"
+
+**2021-02-22** — closed issue [#1203](https://api.github.com/repos/square/moshi/issues/1203) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi's generated adapaters do not support Explicit API mode"
+
 **2021-02-21** — pushed 8 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 
 **2021-02-21** — pushed 56 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-21** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-782829874) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-02-21** — opened PR [#207](https://api.github.com/repos/square/anvil/pulls/207) to [square/anvil](https://api.github.com/repos/square/anvil): "Add support for registering generated dirs to sourceSets"
-
-**2021-02-21** — created branch "z/registerSourceDirs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-02-21** — pushed [`7f1e7e22`](https://github.com/ZacSweers/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Suppress some poet deprecations (#1306)"
-
-**2021-02-20** — deleted branch "z/poetDeprecations" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-20** — pushed [`7f1e7e22`](https://github.com/square/moshi/commit/7f1e7e229e5c58506d9d11ded2605750d43aae22) to [square/moshi](https://api.github.com/repos/square/moshi): "Suppress some poet deprecations (#1306)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
