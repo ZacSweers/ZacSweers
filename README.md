@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-23** — pushed [`9ac54dd3`](https://github.com/ZacSweers/moshi/commit/9ac54dd33faa6d4865dfc6d807cf20daa78b27a9) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update dependencies (#1307)"
+
+**2021-02-23** — pushed [`c241976e`](https://github.com/ZacSweers/MoshiX/commit/c241976e86a7ad2a5e5007d00fdb8a42d0e412ad) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi (#91)"
+
+**2021-02-23** — deleted branch "z/portAnnotationPackageTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-02-23** — closed PR [#91](https://api.github.com/repos/ZacSweers/MoshiX/pulls/91) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi"
+
 **2021-02-23** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-02-23** — pushed [`9ac54dd3`](https://github.com/square/moshi/commit/9ac54dd33faa6d4865dfc6d807cf20daa78b27a9) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies (#1307)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-23** — pushed [`14966aa5`](https://github.com/ZacSweers/MoshiX/commit/14966aa5aa1af95d0af417d6639b9ff31e69e08e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix changelog spotless"
 
 **2021-02-23** — opened PR [#91](https://api.github.com/repos/ZacSweers/MoshiX/pulls/91) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi"
-
-**2021-02-23** — created branch "z/portAnnotationPackageTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-23** — pushed [`0825f4a4`](https://github.com/ZacSweers/moshi/commit/0825f4a4ba7990966e93ee81af457dcdfbb8c9e1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Gradle 6.8.3"
-
-**2021-02-23** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-02-23** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
