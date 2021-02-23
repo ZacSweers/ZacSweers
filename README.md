@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-23** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2021-02-23** — pushed 7 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2021-02-23** — pushed [`156b1f03`](https://github.com/ZacSweers/moshi/commit/156b1f03656891d87f6b8d3bdd0fff2650fa9b8b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix a crash when processing a parameter annotated with an annotation that placed in annotation package (#1287)"
+
 **2021-02-22** — commented on [#1287](https://github.com/square/moshi/pull/1287#issuecomment-783163135) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-02-22** — pushed [`156b1f03`](https://github.com/square/moshi/commit/156b1f03656891d87f6b8d3bdd0fff2650fa9b8b) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix a crash when processing a parameter annotated with an annotation that placed in annotation package (#1287)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-21** — pushed 56 commits to [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet).
 
 **2021-02-21** — commented on [#57](https://github.com/sherter/google-java-format-gradle-plugin/issues/57#issuecomment-782934645) in [sherter/google-java-format-gradle-plugin](https://api.github.com/repos/sherter/google-java-format-gradle-plugin)
-
-**2021-02-21** — commented on [#69](https://github.com/uber/RxDogTag/issues/69#issuecomment-782832040) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-02-21** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-782829874) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-02-21** — opened PR [#207](https://api.github.com/repos/square/anvil/pulls/207) to [square/anvil](https://api.github.com/repos/square/anvil): "Add support for registering generated dirs to sourceSets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
