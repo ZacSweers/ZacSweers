@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786244408) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
+
+**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786242751) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
+
 **2021-02-25** — pushed [`490c77f3`](https://github.com/slackhq/keeper/commit/490c77f3d3202fe19a0b40ba30be40fce7da2aff) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies  (#75)"
 
 **2021-02-25** — deleted branch "z/updates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-25** — created branch "z/reproExclusiveContentIssue" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-02-25** — opened PR [#75](https://api.github.com/repos/slackhq/keeper/pulls/75) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies "
-
-**2021-02-25** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-02-25** — created branch "z/updates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
