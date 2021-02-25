@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-25** — pushed [`490c77f3`](https://github.com/slackhq/keeper/commit/490c77f3d3202fe19a0b40ba30be40fce7da2aff) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies  (#75)"
+
+**2021-02-25** — deleted branch "z/updates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-02-25** — closed PR [#75](https://api.github.com/repos/slackhq/keeper/pulls/75) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies "
+
 **2021-02-25** — commented on [#30](https://github.com/slackhq/moshi-gson-interop/pull/30#issuecomment-785751642) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-785746184) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-25** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-02-25** — created branch "z/updates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-02-25** — pushed [`205193a1`](https://github.com/ZacSweers/MoshiX/commit/205193a182c963b019665cbec1d1eda10a48371c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03 (#92)"
-
-**2021-02-25** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-25** — closed PR [#92](https://api.github.com/repos/ZacSweers/MoshiX/pulls/92) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
