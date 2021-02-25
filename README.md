@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-25** — pushed [`205193a1`](https://github.com/ZacSweers/MoshiX/commit/205193a182c963b019665cbec1d1eda10a48371c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03 (#92)"
+
+**2021-02-25** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-02-25** — closed PR [#92](https://api.github.com/repos/ZacSweers/MoshiX/pulls/92) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03"
+
+**2021-02-25** — opened PR [#92](https://api.github.com/repos/ZacSweers/MoshiX/pulls/92) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03"
+
+**2021-02-25** — created branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-02-23** — pushed [`9ac54dd3`](https://github.com/ZacSweers/moshi/commit/9ac54dd33faa6d4865dfc6d807cf20daa78b27a9) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update dependencies (#1307)"
 
 **2021-02-23** — pushed [`c241976e`](https://github.com/ZacSweers/MoshiX/commit/c241976e86a7ad2a5e5007d00fdb8a42d0e412ad) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi (#91)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-23** — closed PR [#91](https://api.github.com/repos/ZacSweers/MoshiX/pulls/91) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi"
 
 **2021-02-23** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-02-23** — pushed [`9ac54dd3`](https://github.com/square/moshi/commit/9ac54dd33faa6d4865dfc6d807cf20daa78b27a9) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies (#1307)"
-
-**2021-02-23** — closed PR [#1307](https://api.github.com/repos/square/moshi/pulls/1307) to [square/moshi](https://api.github.com/repos/square/moshi): "Update dependencies"
-
-**2021-02-23** — commented on [#1307](https://github.com/square/moshi/pull/1307#issuecomment-783983010) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-23** — pushed [`14966aa5`](https://github.com/ZacSweers/MoshiX/commit/14966aa5aa1af95d0af417d6639b9ff31e69e08e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix changelog spotless"
-
-**2021-02-23** — opened PR [#91](https://api.github.com/repos/ZacSweers/MoshiX/pulls/91) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
