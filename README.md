@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-25** — commented on [#30](https://github.com/slackhq/moshi-gson-interop/pull/30#issuecomment-785751642) in [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-785746184) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
+
+**2021-02-25** — opened PR [#30](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Repro exclusiveContent issue"
+
+**2021-02-25** — created branch "z/reproExclusiveContentIssue" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-02-25** — opened PR [#75](https://api.github.com/repos/slackhq/keeper/pulls/75) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies "
+
+**2021-02-25** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-02-25** — created branch "z/updates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-02-25** — pushed [`205193a1`](https://github.com/ZacSweers/MoshiX/commit/205193a182c963b019665cbec1d1eda10a48371c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03 (#92)"
 
 **2021-02-25** — deleted branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-02-25** — closed PR [#92](https://api.github.com/repos/ZacSweers/MoshiX/pulls/92) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03"
-
-**2021-02-25** — opened PR [#92](https://api.github.com/repos/ZacSweers/MoshiX/pulls/92) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to alpha03"
-
-**2021-02-25** — created branch "z/updateKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-23** — pushed [`9ac54dd3`](https://github.com/ZacSweers/moshi/commit/9ac54dd33faa6d4865dfc6d807cf20daa78b27a9) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update dependencies (#1307)"
-
-**2021-02-23** — pushed [`c241976e`](https://github.com/ZacSweers/MoshiX/commit/c241976e86a7ad2a5e5007d00fdb8a42d0e412ad) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi (#91)"
-
-**2021-02-23** — deleted branch "z/portAnnotationPackageTest" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-02-23** — closed PR [#91](https://api.github.com/repos/ZacSweers/MoshiX/pulls/91) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port constructorParameterWithQualifierInAnnotationPackage test from Moshi"
-
-**2021-02-23** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
