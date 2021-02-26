@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786326000) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
+
+**2021-02-25** — opened issue [#91](https://api.github.com/repos/jraska/modules-graph-assert/issues/91) on [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert): "Please change the dependency coordinates"
+
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786244408) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786242751) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-785746184) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 
 **2021-02-25** — opened PR [#30](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Repro exclusiveContent issue"
-
-**2021-02-25** — created branch "z/reproExclusiveContentIssue" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-02-25** — opened PR [#75](https://api.github.com/repos/slackhq/keeper/pulls/75) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
