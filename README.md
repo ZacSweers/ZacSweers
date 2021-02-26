@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-26** — commented on [#4153](https://github.com/JetBrains/kotlin/pull/4153#issuecomment-786462691) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
+
 **2021-02-26** — pushed [`ad195a01`](https://github.com/ZacSweers/auto-service-ksp/commit/ad195a011233cbf29b15d6badedc9c3df5971425) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03 (#11)"
 
 **2021-02-26** — deleted branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786244408) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786242751) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
-
-**2021-02-25** — pushed [`490c77f3`](https://github.com/slackhq/keeper/commit/490c77f3d3202fe19a0b40ba30be40fce7da2aff) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies  (#75)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
