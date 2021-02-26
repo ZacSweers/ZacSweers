@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-26** — closed issue [#1309](https://api.github.com/repos/square/moshi/issues/1309) on [square/moshi](https://api.github.com/repos/square/moshi): "Generate JsonAdapter.Factory by moshi-kotlin-codegen"
+
+**2021-02-26** — commented on [#1309](https://github.com/square/moshi/issues/1309#issuecomment-786757487) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-02-26** — commented on [#4153](https://github.com/JetBrains/kotlin/pull/4153#issuecomment-786462691) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
 
 **2021-02-26** — pushed [`ad195a01`](https://github.com/ZacSweers/auto-service-ksp/commit/ad195a011233cbf29b15d6badedc9c3df5971425) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03 (#11)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786326000) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 
 **2021-02-25** — opened issue [#91](https://api.github.com/repos/jraska/modules-graph-assert/issues/91) on [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert): "Please change the dependency coordinates"
-
-**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786244408) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
-
-**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786242751) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
