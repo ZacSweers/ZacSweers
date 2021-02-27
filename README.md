@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-27** — pushed [`ebe4b4bd`](https://github.com/ZacSweers/MoshiX/commit/ebe4b4bdcd131ab381fb033f0584d066bbc83cc2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alpha04"
+
+**2021-02-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
+**2021-02-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
 **2021-02-26** — pushed 3 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 
 **2021-02-26** — closed issue [#1309](https://api.github.com/repos/square/moshi/issues/1309) on [square/moshi](https://api.github.com/repos/square/moshi): "Generate JsonAdapter.Factory by moshi-kotlin-codegen"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-26** — deleted branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-02-26** — closed PR [#11](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/11) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03"
-
-**2021-02-26** — opened PR [#11](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/11) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03"
-
-**2021-02-26** — created branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-02-25** — commented on [#70](https://github.com/JetBrains/markdown/issues/70#issuecomment-786326000) in [JetBrains/markdown](https://api.github.com/repos/JetBrains/markdown)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
