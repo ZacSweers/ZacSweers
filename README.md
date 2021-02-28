@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-28** — commented on [#2353](https://github.com/google/dagger/issues/2353#issuecomment-787403786) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-02-27** — pushed [`ebe4b4bd`](https://github.com/ZacSweers/MoshiX/commit/ebe4b4bdcd131ab381fb033f0584d066bbc83cc2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Alpha04"
 
 **2021-02-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-26** — pushed [`ad195a01`](https://github.com/ZacSweers/auto-service-ksp/commit/ad195a011233cbf29b15d6badedc9c3df5971425) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03 (#11)"
 
 **2021-02-26** — deleted branch "z/update" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-02-26** — closed PR [#11](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/11) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
