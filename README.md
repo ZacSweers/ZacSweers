@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-28** — commented on [#16344](https://github.com/gradle/gradle/issues/16344#issuecomment-787496793) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-02-28** — opened issue [#16345](https://api.github.com/repos/gradle/gradle/issues/16345) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Remove cap on Kotlin runtime version in Gradle"
 
 **2021-02-28** — opened issue [#16344](https://api.github.com/repos/gradle/gradle/issues/16344) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Proposal: Introduce a "--progressive" mode"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-26** — closed issue [#1309](https://api.github.com/repos/square/moshi/issues/1309) on [square/moshi](https://api.github.com/repos/square/moshi): "Generate JsonAdapter.Factory by moshi-kotlin-codegen"
 
 **2021-02-26** — commented on [#1309](https://github.com/square/moshi/issues/1309#issuecomment-786757487) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-02-26** — commented on [#4153](https://github.com/JetBrains/kotlin/pull/4153#issuecomment-786462691) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
