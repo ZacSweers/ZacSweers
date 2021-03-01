@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-02-28** — commented on [#452](https://github.com/uber/NullAway/issues/452#issuecomment-787610417) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
+
 **2021-02-28** — opened issue [#452](https://api.github.com/repos/uber/NullAway/issues/452) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "IncompatibleClassChangeError with 0.9.0, JDK 8, and error-prone 2.5.1"
 
 **2021-02-28** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-787535374) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-28** — pushed 12 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2021-02-28** — commented on [#16344](https://github.com/gradle/gradle/issues/16344#issuecomment-787496793) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-02-28** — opened issue [#16345](https://api.github.com/repos/gradle/gradle/issues/16345) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Remove cap on Kotlin runtime version in Gradle"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
