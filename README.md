@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-01** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-788312850) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-03-01** — created tag "0.9.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-03-01** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-01** — commented on [#1146](https://github.com/square/moshi/issues/1146#issuecomment-787774097) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-01** — commented on [#1218](https://github.com/square/moshi/issues/1218#issuecomment-787772671) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-01** — closed issue [#1243](https://api.github.com/repos/square/moshi/issues/1243) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated JSON adapter `fromJson` method always returns nullable type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
