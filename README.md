@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-02-28** — commented on [#452](https://github.com/uber/NullAway/issues/452#issuecomment-787610417) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
+**2021-03-01** — pushed [`775ca453`](https://github.com/ZacSweers/MoshiX/commit/775ca4535d2c3db8ad12fa3304501b5a8a614614) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix generic arrays in code gen (#93)"
 
-**2021-02-28** — opened issue [#452](https://api.github.com/repos/uber/NullAway/issues/452) on [uber/NullAway](https://api.github.com/repos/uber/NullAway): "IncompatibleClassChangeError with 0.9.0, JDK 8, and error-prone 2.5.1"
+**2021-03-01** — deleted branch "z/genericArrays" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-02-28** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-787535374) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-03-01** — closed PR [#93](https://api.github.com/repos/ZacSweers/MoshiX/pulls/93) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix generic arrays in code gen"
 
-**2021-02-28** — opened PR [#1041](https://api.github.com/repos/square/kotlinpoet/pulls/1041) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata"
+**2021-03-01** — pushed [`34eb96b3`](https://github.com/ZacSweers/moshi/commit/34eb96b3a4d7e93e94f3d7fc06a2de3ddd49e5f7) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistic update kotlin-compile-testing"
 
-**2021-02-28** — created branch "z/interopRestructure" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+**2021-03-01** — closed issue [#1273](https://api.github.com/repos/square/moshi/issues/1273) on [square/moshi](https://api.github.com/repos/square/moshi): "Feature Request: A more flexible PolymorphicJsonAdapter"
 
-**2021-02-28** — pushed [`9bc0473e`](https://github.com/ZacSweers/kotlin-compile-testing/commit/9bc0473e41745824da3434d66056ae8eb174e7e4) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update message tests for new error behavior"
+**2021-03-01** — commented on [#1273](https://github.com/square/moshi/issues/1273#issuecomment-787718893) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-02-28** — opened PR [#121](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/121) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.4.30-alpha04"
+**2021-03-01** — closed issue [#1284](https://api.github.com/repos/square/moshi/issues/1284) on [square/moshi](https://api.github.com/repos/square/moshi): "Using class delagation val keeps default value"
 
-**2021-02-28** — created branch "z/kspalpha4" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+**2021-03-01** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-787717826) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-02-28** — pushed 12 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+**2021-03-01** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-787715486) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-02-28** — commented on [#16344](https://github.com/gradle/gradle/issues/16344#issuecomment-787496793) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2021-03-01** — pushed [`ef39b5e5`](https://github.com/ZacSweers/MoshiX/commit/ef39b5e516a0661631c77913841b5fe035b6abdb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix block"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
