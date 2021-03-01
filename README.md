@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-01** — created tag "0.4.2" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-03-01** — deleted tag "X.Y.Z" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-03-01** — created tag "X.Y.Z" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-03-01** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
+
 **2021-03-01** — pushed [`34ed3754`](https://github.com/slackhq/moshi-gson-interop/commit/34ed375445f4e7fa3c20a3cc3e7346f402fc0b34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix fall-through serializer logic (#31)"
 
 **2021-03-01** — deleted branch "z/improvedLogic" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-01** — opened PR [#31](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/31) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix fall-through serializer logic"
 
 **2021-03-01** — pushed [`661746b5`](https://github.com/slackhq/moshi-gson-interop/commit/661746b5dabe54fd3301fe95676bf432bbb4dbc1) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Add test"
-
-**2021-03-01** — created branch "z/improvedLogic" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-03-01** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-788312850) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-03-01** — created tag "0.9.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-01** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
