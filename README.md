@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-01** — created tag "0.9.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-03-01** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-03-01** — created tag "0.3.3" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-03-01** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
+**2021-03-01** — pushed [`33680027`](https://github.com/ZacSweers/moshi/commit/33680027108cb64297ba97a49b5c8a09038f3900) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
+
+**2021-03-01** — opened PR [#1313](https://api.github.com/repos/square/moshi/pulls/1313) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods"
+
+**2021-03-01** — created branch "z/smallDocs" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-03-01** — commented on [#1146](https://github.com/square/moshi/issues/1146#issuecomment-787774097) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-01** — commented on [#1218](https://github.com/square/moshi/issues/1218#issuecomment-787772671) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-01** — closed issue [#1243](https://api.github.com/repos/square/moshi/issues/1243) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated JSON adapter `fromJson` method always returns nullable type"
-
-**2021-03-01** — pushed [`f73cd638`](https://github.com/ZacSweers/MoshiX/commit/f73cd638e6d31aa837ef252333d88f1bd41d8da4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in defaults constructor invocation (#95)"
-
-**2021-03-01** — deleted branch "z/readability" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-01** — closed PR [#95](https://api.github.com/repos/ZacSweers/MoshiX/pulls/95) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in constructor invoke"
-
-**2021-03-01** — opened PR [#1312](https://api.github.com/repos/square/moshi/pulls/1312) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve readability of constructor invocation params"
-
-**2021-03-01** — created branch "z/readability" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-01** — opened PR [#95](https://api.github.com/repos/ZacSweers/MoshiX/pulls/95) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in constructor invoke"
-
-**2021-03-01** — created branch "z/readability" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-01** — pushed [`8ca10dad`](https://github.com/ZacSweers/MoshiX/commit/8ca10dad8515d74725cd4cdc23c2fc38413f81d2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix support for function types as properties (#94)"
-
-**2021-03-01** — deleted branch "z/lambdaTypeNames" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
