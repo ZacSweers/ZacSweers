@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-03-01** — pushed [`775ca453`](https://github.com/ZacSweers/MoshiX/commit/775ca4535d2c3db8ad12fa3304501b5a8a614614) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix generic arrays in code gen (#93)"
+**2021-03-01** — closed issue [#1243](https://api.github.com/repos/square/moshi/issues/1243) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated JSON adapter `fromJson` method always returns nullable type"
 
-**2021-03-01** — deleted branch "z/genericArrays" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-03-01** — pushed [`f73cd638`](https://github.com/ZacSweers/MoshiX/commit/f73cd638e6d31aa837ef252333d88f1bd41d8da4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in defaults constructor invocation (#95)"
 
-**2021-03-01** — closed PR [#93](https://api.github.com/repos/ZacSweers/MoshiX/pulls/93) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix generic arrays in code gen"
+**2021-03-01** — deleted branch "z/readability" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-01** — pushed [`34eb96b3`](https://github.com/ZacSweers/moshi/commit/34eb96b3a4d7e93e94f3d7fc06a2de3ddd49e5f7) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Opportunistic update kotlin-compile-testing"
+**2021-03-01** — closed PR [#95](https://api.github.com/repos/ZacSweers/MoshiX/pulls/95) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in constructor invoke"
 
-**2021-03-01** — closed issue [#1273](https://api.github.com/repos/square/moshi/issues/1273) on [square/moshi](https://api.github.com/repos/square/moshi): "Feature Request: A more flexible PolymorphicJsonAdapter"
+**2021-03-01** — opened PR [#1312](https://api.github.com/repos/square/moshi/pulls/1312) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve readability of constructor invocation params"
 
-**2021-03-01** — commented on [#1273](https://github.com/square/moshi/issues/1273#issuecomment-787718893) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-01** — created branch "z/readability" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-01** — closed issue [#1284](https://api.github.com/repos/square/moshi/issues/1284) on [square/moshi](https://api.github.com/repos/square/moshi): "Using class delagation val keeps default value"
+**2021-03-01** — opened PR [#95](https://api.github.com/repos/ZacSweers/MoshiX/pulls/95) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generate parameter name hints for readability in constructor invoke"
 
-**2021-03-01** — commented on [#1284](https://github.com/square/moshi/issues/1284#issuecomment-787717826) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-01** — created branch "z/readability" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-01** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-787715486) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-01** — pushed [`8ca10dad`](https://github.com/ZacSweers/MoshiX/commit/8ca10dad8515d74725cd4cdc23c2fc38413f81d2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix support for function types as properties (#94)"
 
-**2021-03-01** — pushed [`ef39b5e5`](https://github.com/ZacSweers/MoshiX/commit/ef39b5e516a0661631c77913841b5fe035b6abdb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix block"
+**2021-03-01** — deleted branch "z/lambdaTypeNames" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
