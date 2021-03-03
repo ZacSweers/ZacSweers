@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-02** — deleted branch "z/fixTypeVarInAnnotations" on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
+
 **2021-03-02** — closed issue [#172](https://api.github.com/repos/rharter/auto-value-moshi/issues/172) on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "please upload new snapshot version to maven."
 
 **2021-03-02** — commented on [#172](https://github.com/rharter/auto-value-moshi/issues/172#issuecomment-789265506) in [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-01** — deleted branch "z/improvedLogic" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-03-01** — closed PR [#31](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/31) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix fall-through serializer logic"
-
-**2021-03-01** — pushed [`eb4defbd`](https://github.com/slackhq/moshi-gson-interop/commit/eb4defbd61ce038f74471e5587c90bcd5e002b0f) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Move comment up"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
