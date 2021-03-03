@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-03** — commented on [#540](https://github.com/johnrengelman/shadow/issues/540#issuecomment-789445714) in [johnrengelman/shadow](https://api.github.com/repos/johnrengelman/shadow)
+
 **2021-03-02** — opened PR [#182](https://api.github.com/repos/rharter/auto-value-moshi/pulls/182) to [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "Update dependencies"
 
 **2021-03-02** — created branch "z/updates" on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-01** — created tag "X.Y.Z" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-03-01** — pushed 2 commits to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop).
-
-**2021-03-01** — pushed [`34ed3754`](https://github.com/slackhq/moshi-gson-interop/commit/34ed375445f4e7fa3c20a3cc3e7346f402fc0b34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Fix fall-through serializer logic (#31)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
