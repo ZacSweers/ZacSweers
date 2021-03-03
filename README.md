@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-03** — commented on [#2158](https://github.com/cashapp/sqldelight/issues/2158#issuecomment-789488039) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+
+**2021-03-03** — commented on [#172](https://github.com/rharter/auto-value-moshi/issues/172#issuecomment-789486303) in [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
+
 **2021-03-03** — commented on [#2158](https://github.com/cashapp/sqldelight/issues/2158#issuecomment-789467498) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 
 **2021-03-03** — commented on [#1042](https://github.com/square/kotlinpoet/issues/1042#issuecomment-789466550) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-02** — deleted branch "z/fixTypeVarInAnnotations" on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
 
 **2021-03-02** — closed issue [#172](https://api.github.com/repos/rharter/auto-value-moshi/issues/172) on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "please upload new snapshot version to maven."
-
-**2021-03-02** — commented on [#172](https://github.com/rharter/auto-value-moshi/issues/172#issuecomment-789265506) in [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
-
-**2021-03-01** — created tag "0.4.2" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
