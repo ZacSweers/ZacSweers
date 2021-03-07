@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-06** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-792202060) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-04** — opened issue [#76](https://api.github.com/repos/slackhq/keeper/issues/76) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Gradle cache issue"
 
 **2021-03-03** — commented on [#2158](https://github.com/cashapp/sqldelight/issues/2158#issuecomment-789488039) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-02** — opened PR [#182](https://api.github.com/repos/rharter/auto-value-moshi/pulls/182) to [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "Update dependencies"
 
 **2021-03-02** — created branch "z/updates" on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
-
-**2021-03-02** — deleted branch "z/fixTypeVarInAnnotations" on [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
