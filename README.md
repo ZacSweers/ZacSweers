@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-07** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2021-03-07** — pushed [`e6a0bb8e`](https://github.com/slackhq/keeper/commit/e6a0bb8e14f9cd7ba2379cace3a519d003221a7c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use stable zipflinger 4.1.2 now"
+
+**2021-03-07** — pushed [`ea4396a7`](https://github.com/slackhq/keeper/commit/ea4396a7ba96ed98633ba236c69164b29123520f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Simplify CI matrix names"
+
+**2021-03-07** — pushed 4 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2021-03-07** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2021-03-07** — opened PR [#77](https://api.github.com/repos/slackhq/keeper/pulls/77) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task outputs unique per task"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-04** — opened issue [#76](https://api.github.com/repos/slackhq/keeper/issues/76) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Gradle cache issue"
 
 **2021-03-03** — commented on [#2158](https://github.com/cashapp/sqldelight/issues/2158#issuecomment-789488039) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
-
-**2021-03-03** — commented on [#172](https://github.com/rharter/auto-value-moshi/issues/172#issuecomment-789486303) in [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi)
-
-**2021-03-03** — commented on [#2158](https://github.com/cashapp/sqldelight/issues/2158#issuecomment-789467498) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
-
-**2021-03-03** — commented on [#1042](https://github.com/square/kotlinpoet/issues/1042#issuecomment-789466550) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-03** — pushed [`4ebc2745`](https://github.com/rharter/auto-value-moshi/commit/4ebc274585d2032b4a0c33505b00354262188e02) to [rharter/auto-value-moshi](https://api.github.com/repos/rharter/auto-value-moshi): "Update to maven publish plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
