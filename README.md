@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-08** — pushed [`6df66b81`](https://github.com/square/moshi/commit/6df66b81dce3d2151e90d01535742cfef2cae6b9) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix typo in PolymorphicJsonAdapterFactory.java (#1314)"
+
+**2021-03-08** — closed PR [#1314](https://api.github.com/repos/square/moshi/pulls/1314) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix typo in PolymorphicJsonAdapterFactory.java"
+
 **2021-03-07** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2021-03-07** — pushed [`24dbe325`](https://github.com/slackhq/keeper/commit/24dbe325c1be02ea1c872cc7b6c34a0281cbb311) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update name"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-07** — pushed [`ea4396a7`](https://github.com/slackhq/keeper/commit/ea4396a7ba96ed98633ba236c69164b29123520f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Simplify CI matrix names"
 
 **2021-03-07** — pushed 4 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-03-07** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-03-07** — opened PR [#77](https://api.github.com/repos/slackhq/keeper/pulls/77) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task outputs unique per task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
