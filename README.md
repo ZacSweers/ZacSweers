@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-11** — pushed [`5d2eb9b6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/5d2eb9b6971117009a5ae8ee8eb74c113d2de95c) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make AndroidManifestInfoReceiver extend task for easy filtering"
+
 **2021-03-11** — opened PR [#371](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/371) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Add versionCode property to AndroidManifestInfoReceiver"
 
 **2021-03-11** — created branch "z/versionCode" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-10** — pushed [`d354dc8a`](https://github.com/square/kotlinpoet/commit/d354dc8a55a5aa262f5c7ca88d2be57f228f5c3c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata (#1041)"
 
 **2021-03-10** — closed PR [#1041](https://api.github.com/repos/square/kotlinpoet/pulls/1041) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata"
-
-**2021-03-10** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-796368356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
