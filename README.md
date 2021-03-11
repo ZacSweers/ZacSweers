@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-10** — pushed 135 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
 **2021-03-10** — closed issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
 
 **2021-03-10** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-796399584) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-10** — closed issue [#1146](https://api.github.com/repos/square/moshi/issues/1146) on [square/moshi](https://api.github.com/repos/square/moshi): "IllegalArgumentException: 'data' has a constructor parameter of type Data? but a property of type Data?"
 
 **2021-03-10** — commented on [#1146](https://github.com/square/moshi/issues/1146#issuecomment-796366495) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-10** — closed issue [#1290](https://api.github.com/repos/square/moshi/issues/1290) on [square/moshi](https://api.github.com/repos/square/moshi): "NPE during adapter generation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
