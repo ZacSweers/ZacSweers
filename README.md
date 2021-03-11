@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-10** — deleted branch "z/interopRestructure" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
+
+**2021-03-10** — pushed [`d354dc8a`](https://github.com/square/kotlinpoet/commit/d354dc8a55a5aa262f5c7ca88d2be57f228f5c3c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata (#1041)"
+
+**2021-03-10** — closed PR [#1041](https://api.github.com/repos/square/kotlinpoet/pulls/1041) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata"
+
+**2021-03-10** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-796368356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-10** — closed issue [#1146](https://api.github.com/repos/square/moshi/issues/1146) on [square/moshi](https://api.github.com/repos/square/moshi): "IllegalArgumentException: 'data' has a constructor parameter of type Data? but a property of type Data?"
+
+**2021-03-10** — commented on [#1146](https://github.com/square/moshi/issues/1146#issuecomment-796366495) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-10** — closed issue [#1290](https://api.github.com/repos/square/moshi/issues/1290) on [square/moshi](https://api.github.com/repos/square/moshi): "NPE during adapter generation"
+
+**2021-03-10** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-796366292) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-10** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-796366111) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-08** — pushed [`6df66b81`](https://github.com/square/moshi/commit/6df66b81dce3d2151e90d01535742cfef2cae6b9) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix typo in PolymorphicJsonAdapterFactory.java (#1314)"
-
-**2021-03-08** — closed PR [#1314](https://api.github.com/repos/square/moshi/pulls/1314) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix typo in PolymorphicJsonAdapterFactory.java"
-
-**2021-03-07** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-03-07** — pushed [`24dbe325`](https://github.com/slackhq/keeper/commit/24dbe325c1be02ea1c872cc7b6c34a0281cbb311) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update name"
-
-**2021-03-07** — commented on [#15674](https://github.com/gradle/gradle/issues/15674#issuecomment-792401340) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-03-07** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-03-07** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-03-07** — pushed [`e6a0bb8e`](https://github.com/slackhq/keeper/commit/e6a0bb8e14f9cd7ba2379cace3a519d003221a7c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use stable zipflinger 4.1.2 now"
-
-**2021-03-07** — pushed [`ea4396a7`](https://github.com/slackhq/keeper/commit/ea4396a7ba96ed98633ba236c69164b29123520f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Simplify CI matrix names"
-
-**2021-03-07** — pushed 4 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
