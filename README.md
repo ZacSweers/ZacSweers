@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-11** — opened PR [#371](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/371) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Add versionCode property to AndroidManifestInfoReceiver"
+
+**2021-03-11** — created branch "z/versionCode" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
 **2021-03-10** — pushed 135 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
 **2021-03-10** — closed issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-10** — closed PR [#1041](https://api.github.com/repos/square/kotlinpoet/pulls/1041) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata"
 
 **2021-03-10** — commented on [#1041](https://github.com/square/kotlinpoet/pull/1041#issuecomment-796368356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-10** — closed issue [#1146](https://api.github.com/repos/square/moshi/issues/1146) on [square/moshi](https://api.github.com/repos/square/moshi): "IllegalArgumentException: 'data' has a constructor parameter of type Data? but a property of type Data?"
-
-**2021-03-10** — commented on [#1146](https://github.com/square/moshi/issues/1146#issuecomment-796366495) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
