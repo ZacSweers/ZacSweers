@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-11** — commented on [#371](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/371#issuecomment-797179208) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2021-03-11** — pushed [`9aa53e3b`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/9aa53e3b29028e107014acd6a9d8d371973be9eb) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make BugsnagFileUploadTask also a Task"
 
 **2021-03-11** — pushed [`5d2eb9b6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/5d2eb9b6971117009a5ae8ee8eb74c113d2de95c) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make AndroidManifestInfoReceiver extend task for easy filtering"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-10** — opened issue [#369](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/369) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with Gradle 7.0"
 
 **2021-03-10** — deleted branch "z/interopRestructure" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
-
-**2021-03-10** — pushed [`d354dc8a`](https://github.com/square/kotlinpoet/commit/d354dc8a55a5aa262f5c7ca88d2be57f228f5c3c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Restructure interop artifactst starting with kotlinx-metadata (#1041)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
