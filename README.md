@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-12** — pushed [`9072edc3`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/9072edc35bcdb1be57d27264c13bb522614a7363) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Remove any setting of the property for now"
+
+**2021-03-12** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
 **2021-03-11** — commented on [#371](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/371#issuecomment-797179208) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2021-03-11** — pushed [`9aa53e3b`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/9aa53e3b29028e107014acd6a9d8d371973be9eb) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make BugsnagFileUploadTask also a Task"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-10** — closed issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
 
 **2021-03-10** — commented on [#319](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/319#issuecomment-796399584) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2021-03-10** — opened issue [#369](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/369) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with Gradle 7.0"
-
-**2021-03-10** — deleted branch "z/interopRestructure" on [ZacSweers/kotlinpoet](https://api.github.com/repos/ZacSweers/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
