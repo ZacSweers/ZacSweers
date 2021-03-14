@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-03-12** — commented on [#371](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/371#issuecomment-797762769) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+**2021-03-13** — deleted branch "z/smallDocs" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-12** — pushed [`9072edc3`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/9072edc35bcdb1be57d27264c13bb522614a7363) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Remove any setting of the property for now"
+**2021-03-13** — pushed [`797140c5`](https://github.com/square/moshi/commit/797140c5cf0e376387b99fcaa8cc00988d1ffbb5) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods (#1313)"
 
-**2021-03-12** — pushed 2 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2021-03-13** — closed PR [#1313](https://api.github.com/repos/square/moshi/pulls/1313) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods"
 
-**2021-03-11** — commented on [#371](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/371#issuecomment-797179208) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+**2021-03-13** — closed issue [#1184](https://api.github.com/repos/square/moshi/issues/1184) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonAdapter fromJson throws JsonDataException"
 
-**2021-03-11** — pushed [`9aa53e3b`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/9aa53e3b29028e107014acd6a9d8d371973be9eb) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make BugsnagFileUploadTask also a Task"
+**2021-03-13** — deleted branch "z/readability" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-11** — pushed [`5d2eb9b6`](https://github.com/ZacSweers/bugsnag-android-gradle-plugin/commit/5d2eb9b6971117009a5ae8ee8eb74c113d2de95c) to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin): "Make AndroidManifestInfoReceiver extend task for easy filtering"
+**2021-03-13** — pushed [`103b6032`](https://github.com/square/moshi/commit/103b60328c3d2df9c7337fad5b4b1cc80cf5c133) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve readability of constructor invocation params (#1312)"
 
-**2021-03-11** — opened PR [#371](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/pulls/371) to [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Add versionCode property to AndroidManifestInfoReceiver"
+**2021-03-13** — closed PR [#1312](https://api.github.com/repos/square/moshi/pulls/1312) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve readability of constructor invocation params"
 
-**2021-03-11** — created branch "z/versionCode" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+**2021-03-13** — deleted branch "z/deepCopyLambdaTypeName" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-10** — pushed 135 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2021-03-13** — pushed [`3bc47519`](https://github.com/square/moshi/commit/3bc47519abb950dc09d8a0786e0bb05744c73f4d) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix reading property function types  (#1311)"
 
-**2021-03-10** — closed issue [#319](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/319) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "Incompatible with AGP 4.2.0"
+**2021-03-13** — closed PR [#1311](https://api.github.com/repos/square/moshi/pulls/1311) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix reading property function types "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
