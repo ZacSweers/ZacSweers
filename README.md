@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-15** — commented on [#1316](https://github.com/square/moshi/issues/1316#issuecomment-799130973) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-13** — deleted branch "z/smallDocs" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-03-13** — pushed [`797140c5`](https://github.com/square/moshi/commit/797140c5cf0e376387b99fcaa8cc00988d1ffbb5) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods (#1313)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-13** — deleted branch "z/deepCopyLambdaTypeName" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-03-13** — pushed [`3bc47519`](https://github.com/square/moshi/commit/3bc47519abb950dc09d8a0786e0bb05744c73f4d) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix reading property function types  (#1311)"
-
-**2021-03-13** — closed PR [#1311](https://api.github.com/repos/square/moshi/pulls/1311) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix reading property function types "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
