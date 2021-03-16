@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-15** — opened PR [#7214](https://api.github.com/repos/ReactiveX/RxJava/pulls/7214) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix POM_URL"
+
+**2021-03-15** — pushed [`0b50cdb5`](https://github.com/ZacSweers/RxJava/commit/0b50cdb5f074b1ac99e55730b1b77520d96a506f) to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava): "Fix POM_URL"
+
 **2021-03-15** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-799851023) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-03-15** — opened issue [#16543](https://api.github.com/repos/gradle/gradle/issues/16543) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add API for TaskProviders on tasks that don't exist _yet_"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-13** — closed PR [#1313](https://api.github.com/repos/square/moshi/pulls/1313) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods"
 
 **2021-03-13** — closed issue [#1184](https://api.github.com/repos/square/moshi/issues/1184) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonAdapter fromJson throws JsonDataException"
-
-**2021-03-13** — deleted branch "z/readability" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-13** — pushed [`103b6032`](https://github.com/square/moshi/commit/103b60328c3d2df9c7337fad5b4b1cc80cf5c133) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve readability of constructor invocation params (#1312)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
