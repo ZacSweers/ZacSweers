@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-17** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-800838592) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-16** — deleted branch "patch-1" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
 
 **2021-03-16** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-800352053) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-15** — commented on [#1316](https://github.com/square/moshi/issues/1316#issuecomment-799130973) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-13** — deleted branch "z/smallDocs" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-13** — pushed [`797140c5`](https://github.com/square/moshi/commit/797140c5cf0e376387b99fcaa8cc00988d1ffbb5) to [square/moshi](https://api.github.com/repos/square/moshi): "Add some short basic docs to JsonAdapter methods (#1313)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
