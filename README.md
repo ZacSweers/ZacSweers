@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802007492) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-17** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-801206170) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-17** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-800838592) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-15** — opened issue [#16543](https://api.github.com/repos/gradle/gradle/issues/16543) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add API for TaskProviders on tasks that don't exist _yet_"
 
 **2021-03-15** — commented on [#1405](https://github.com/Kotlin/dokka/issues/1405#issuecomment-799644660) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2021-03-15** — commented on [#1316](https://github.com/square/moshi/issues/1316#issuecomment-799130973) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
