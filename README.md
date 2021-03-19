@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-18** — opened PR [#96](https://api.github.com/repos/ZacSweers/MoshiX/pulls/96) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies"
+
+**2021-03-18** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802102951) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802098784) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-16** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-800352053) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-03-15** — opened PR [#7214](https://api.github.com/repos/ReactiveX/RxJava/pulls/7214) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix POM_URL"
-
-**2021-03-15** — pushed [`0b50cdb5`](https://github.com/ZacSweers/RxJava/commit/0b50cdb5f074b1ac99e55730b1b77520d96a506f) to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava): "Fix POM_URL"
-
-**2021-03-15** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-799851023) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
