@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-19** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-802559843) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-19** — pushed [`0db478fb`](https://github.com/ZacSweers/moshi/commit/0db478fba573440fdf3a36c5e7fb7b98787e83b4) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Tweak message"
+
+**2021-03-19** — opened PR [#1320](https://api.github.com/repos/square/moshi/pulls/1320) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert moshi-adapters to Kotlin"
+
+**2021-03-19** — created branch "z/convertAdapters" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2021-03-19** — closed issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
 
 **2021-03-19** — commented on [#68](https://github.com/ZacSweers/MoshiX/issues/68#issuecomment-802546933) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-19** — closed issue [#1](https://api.github.com/repos/ZacSweers/MoshiX/issues/1) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generics support in sealed"
 
 **2021-03-19** — commented on [#1](https://github.com/ZacSweers/MoshiX/issues/1#issuecomment-802546759) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-19** — pushed [`23c06217`](https://github.com/ZacSweers/MoshiX/commit/23c06217db38da396b8368b8df8dec472ea8015b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update spotless, maven publish, binary compatibility (#97)"
-
-**2021-03-19** — deleted branch "z/moreUpdates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-19** — closed PR [#97](https://api.github.com/repos/ZacSweers/MoshiX/pulls/97) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update spotless, maven publish, binary compatibility"
-
-**2021-03-19** — pushed [`69ff698a`](https://github.com/ZacSweers/MoshiX/commit/69ff698ac177c21172e4bd36c2a692127515a68f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Just disable again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
