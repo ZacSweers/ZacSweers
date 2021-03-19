@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-19** — commented on [#1317](https://github.com/square/moshi/issues/1317#issuecomment-802918961) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-19** — pushed [`f60c7da6`](https://github.com/square/kotlinpoet/commit/f60c7da64a21c6dfad24ff87df7a84e0a44bedaa) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (#1045)"
+
+**2021-03-19** — closed PR [#1045](https://api.github.com/repos/square/kotlinpoet/pulls/1045) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (fixes #1044)"
+
 **2021-03-19** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-802609729) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-03-19** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-802559843) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-19** — closed issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
 
 **2021-03-19** — commented on [#68](https://github.com/ZacSweers/MoshiX/issues/68#issuecomment-802546933) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-19** — closed issue [#78](https://api.github.com/repos/ZacSweers/MoshiX/issues/78) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support sealed interfaces in KSP"
-
-**2021-03-19** — commented on [#78](https://github.com/ZacSweers/MoshiX/issues/78#issuecomment-802546836) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-19** — closed issue [#1](https://api.github.com/repos/ZacSweers/MoshiX/issues/1) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generics support in sealed"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
