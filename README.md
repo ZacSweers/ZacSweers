@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-03-18** — opened PR [#96](https://api.github.com/repos/ZacSweers/MoshiX/pulls/96) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies"
+**2021-03-19** — closed issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
 
-**2021-03-18** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-03-19** — commented on [#68](https://github.com/ZacSweers/MoshiX/issues/68#issuecomment-802546933) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802102951) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-19** — closed issue [#78](https://api.github.com/repos/ZacSweers/MoshiX/issues/78) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support sealed interfaces in KSP"
 
-**2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802098784) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-19** — commented on [#78](https://github.com/ZacSweers/MoshiX/issues/78#issuecomment-802546836) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-18** — commented on [#1315](https://github.com/square/moshi/issues/1315#issuecomment-802007492) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-19** — closed issue [#1](https://api.github.com/repos/ZacSweers/MoshiX/issues/1) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generics support in sealed"
 
-**2021-03-17** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-801206170) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-19** — commented on [#1](https://github.com/ZacSweers/MoshiX/issues/1#issuecomment-802546759) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-17** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-800838592) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-03-19** — pushed [`23c06217`](https://github.com/ZacSweers/MoshiX/commit/23c06217db38da396b8368b8df8dec472ea8015b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update spotless, maven publish, binary compatibility (#97)"
 
-**2021-03-16** — deleted branch "patch-1" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
+**2021-03-19** — deleted branch "z/moreUpdates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-03-16** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-800352053) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2021-03-19** — closed PR [#97](https://api.github.com/repos/ZacSweers/MoshiX/pulls/97) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update spotless, maven publish, binary compatibility"
 
-**2021-03-15** — opened PR [#7214](https://api.github.com/repos/ReactiveX/RxJava/pulls/7214) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix POM_URL"
+**2021-03-19** — pushed [`69ff698a`](https://github.com/ZacSweers/MoshiX/commit/69ff698ac177c21172e4bd36c2a692127515a68f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Just disable again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
