@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-19** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-802609729) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-19** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-802559843) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-19** — pushed [`0db478fb`](https://github.com/ZacSweers/moshi/commit/0db478fba573440fdf3a36c5e7fb7b98787e83b4) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Tweak message"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-19** — commented on [#78](https://github.com/ZacSweers/MoshiX/issues/78#issuecomment-802546836) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-03-19** — closed issue [#1](https://api.github.com/repos/ZacSweers/MoshiX/issues/1) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Generics support in sealed"
-
-**2021-03-19** — commented on [#1](https://github.com/ZacSweers/MoshiX/issues/1#issuecomment-802546759) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
