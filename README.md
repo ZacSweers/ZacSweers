@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-20** — pushed [`71d1a541`](https://github.com/square/kotlinpoet/commit/71d1a5411378852a7a99394fe78f5c79d3bd6e34) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update deprecated API"
+
+**2021-03-20** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-803456871) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-20** — closed PR [#1048](https://api.github.com/repos/square/kotlinpoet/pulls/1048) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows"
 
 **2021-03-20** — pushed [`498d9045`](https://github.com/square/kotlinpoet/commit/498d90458ffbe4057bb4928008801102cd220075) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows (#1048)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-19** — pushed [`f60c7da6`](https://github.com/square/kotlinpoet/commit/f60c7da64a21c6dfad24ff87df7a84e0a44bedaa) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (#1045)"
 
 **2021-03-19** — closed PR [#1045](https://api.github.com/repos/square/kotlinpoet/pulls/1045) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (fixes #1044)"
-
-**2021-03-19** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-802609729) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-19** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-802559843) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
