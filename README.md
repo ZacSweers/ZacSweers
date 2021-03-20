@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-20** — closed PR [#1048](https://api.github.com/repos/square/kotlinpoet/pulls/1048) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows"
+
+**2021-03-20** — pushed [`498d9045`](https://github.com/square/kotlinpoet/commit/498d90458ffbe4057bb4928008801102cd220075) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows (#1048)"
+
+**2021-03-20** — deleted branch "dependabot/pip/dot-github/workflows/jinja2-2.11.3" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-20** — opened PR [#1049](https://api.github.com/repos/square/kotlinpoet/pulls/1049) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0"
+
+**2021-03-20** — created branch "z/metadata020" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-19** — commented on [#1317](https://github.com/square/moshi/issues/1317#issuecomment-802918961) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-19** — pushed [`f60c7da6`](https://github.com/square/kotlinpoet/commit/f60c7da64a21c6dfad24ff87df7a84e0a44bedaa) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (#1045)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-19** — commented on [#1044](https://github.com/square/kotlinpoet/issues/1044#issuecomment-802609729) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-03-19** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-802559843) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-19** — pushed [`0db478fb`](https://github.com/ZacSweers/moshi/commit/0db478fba573440fdf3a36c5e7fb7b98787e83b4) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Tweak message"
-
-**2021-03-19** — opened PR [#1320](https://api.github.com/repos/square/moshi/pulls/1320) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert moshi-adapters to Kotlin"
-
-**2021-03-19** — created branch "z/convertAdapters" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-19** — closed issue [#68](https://api.github.com/repos/ZacSweers/MoshiX/issues/68) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Integrate kotlin ABI validator"
-
-**2021-03-19** — commented on [#68](https://github.com/ZacSweers/MoshiX/issues/68#issuecomment-802546933) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
