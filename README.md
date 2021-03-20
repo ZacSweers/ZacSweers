@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-20** — commented on [#1278](https://github.com/square/moshi/issues/1278#issuecomment-803476334) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-20** — pushed [`6ddfadff`](https://github.com/square/kotlinpoet/commit/6ddfadffb581d4b22a8e83ee4fa3060c2a30d374) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0 (#1049)"
+
+**2021-03-20** — deleted branch "z/metadata020" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-20** — closed PR [#1049](https://api.github.com/repos/square/kotlinpoet/pulls/1049) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0"
+
 **2021-03-20** — opened PR [#1050](https://api.github.com/repos/square/kotlinpoet/pulls/1050) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VAL"
 
 **2021-03-20** — created branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — pushed [`71d1a541`](https://github.com/square/kotlinpoet/commit/71d1a5411378852a7a99394fe78f5c79d3bd6e34) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update deprecated API"
 
 **2021-03-20** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-803456871) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-20** — closed PR [#1048](https://api.github.com/repos/square/kotlinpoet/pulls/1048) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows"
-
-**2021-03-20** — pushed [`498d9045`](https://github.com/square/kotlinpoet/commit/498d90458ffbe4057bb4928008801102cd220075) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Bump jinja2 from 2.11.2 to 2.11.3 in /.github/workflows (#1048)"
-
-**2021-03-20** — deleted branch "dependabot/pip/dot-github/workflows/jinja2-2.11.3" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-20** — opened PR [#1049](https://api.github.com/repos/square/kotlinpoet/pulls/1049) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
