@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-20** — opened PR [#1050](https://api.github.com/repos/square/kotlinpoet/pulls/1050) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VAL"
+
+**2021-03-20** — created branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-20** — commented on [#1049](https://github.com/square/kotlinpoet/pull/1049#issuecomment-803466675) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-20** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-03-20** — pushed [`71d1a541`](https://github.com/square/kotlinpoet/commit/71d1a5411378852a7a99394fe78f5c79d3bd6e34) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update deprecated API"
 
 **2021-03-20** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-803456871) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — deleted branch "dependabot/pip/dot-github/workflows/jinja2-2.11.3" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-03-20** — opened PR [#1049](https://api.github.com/repos/square/kotlinpoet/pulls/1049) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0"
-
-**2021-03-20** — created branch "z/metadata020" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-19** — commented on [#1317](https://github.com/square/moshi/issues/1317#issuecomment-802918961) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-19** — pushed [`f60c7da6`](https://github.com/square/kotlinpoet/commit/f60c7da64a21c6dfad24ff87df7a84e0a44bedaa) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (#1045)"
-
-**2021-03-19** — closed PR [#1045](https://api.github.com/repos/square/kotlinpoet/pulls/1045) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make metadata .toMutable() methods completely lossless (fixes #1044)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
