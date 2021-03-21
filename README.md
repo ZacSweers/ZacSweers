@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-20** — commented on [#1050](https://github.com/square/kotlinpoet/pull/1050#issuecomment-803492092) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-20** — pushed [`6727739d`](https://github.com/square/kotlinpoet/commit/6727739d0589197986c9e16c25c8d73800a58843) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update tests"
+
+**2021-03-20** — commented on [#16592](https://github.com/gradle/gradle/issues/16592#issuecomment-803490968) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-03-20** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-03-20** — commented on [#1278](https://github.com/square/moshi/issues/1278#issuecomment-803476334) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-20** — pushed [`6ddfadff`](https://github.com/square/kotlinpoet/commit/6ddfadffb581d4b22a8e83ee4fa3060c2a30d374) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0 (#1049)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — opened PR [#1050](https://api.github.com/repos/square/kotlinpoet/pulls/1050) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VAL"
 
 **2021-03-20** — created branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-20** — commented on [#1049](https://github.com/square/kotlinpoet/pull/1049#issuecomment-803466675) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-20** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-03-20** — pushed [`71d1a541`](https://github.com/square/kotlinpoet/commit/71d1a5411378852a7a99394fe78f5c79d3bd6e34) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update deprecated API"
-
-**2021-03-20** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-803456871) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
