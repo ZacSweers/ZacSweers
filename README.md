@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803672717) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-03-21** — opened issue [#98](https://api.github.com/repos/ZacSweers/MoshiX/issues/98) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Java 16, make records non-preview"
 
 **2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803511875) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — pushed [`6ddfadff`](https://github.com/square/kotlinpoet/commit/6ddfadffb581d4b22a8e83ee4fa3060c2a30d374) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0 (#1049)"
 
 **2021-03-20** — deleted branch "z/metadata020" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-20** — closed PR [#1049](https://api.github.com/repos/square/kotlinpoet/pulls/1049) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
