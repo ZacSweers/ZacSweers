@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-22** — opened PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
+
+**2021-03-22** — created branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-22** — pushed [`6f5d08f0`](https://github.com/square/kotlinpoet/commit/6f5d08f0134268d044b816d01d6999f4cb9b5e77) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE (#1050)"
 
 **2021-03-22** — deleted branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — commented on [#1050](https://github.com/square/kotlinpoet/pull/1050#issuecomment-803492092) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-03-20** — pushed [`6727739d`](https://github.com/square/kotlinpoet/commit/6727739d0589197986c9e16c25c8d73800a58843) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update tests"
-
-**2021-03-20** — commented on [#16592](https://github.com/gradle/gradle/issues/16592#issuecomment-803490968) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-03-20** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
