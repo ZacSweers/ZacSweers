@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-22** — pushed [`6f5d08f0`](https://github.com/square/kotlinpoet/commit/6f5d08f0134268d044b816d01d6999f4cb9b5e77) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE (#1050)"
+
+**2021-03-22** — deleted branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-03-22** — closed PR [#1050](https://api.github.com/repos/square/kotlinpoet/pulls/1050) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE"
+
 **2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803672717) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-03-21** — opened issue [#98](https://api.github.com/repos/ZacSweers/MoshiX/issues/98) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Java 16, make records non-preview"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-20** — commented on [#16592](https://github.com/gradle/gradle/issues/16592#issuecomment-803490968) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-03-20** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-03-20** — commented on [#1278](https://github.com/square/moshi/issues/1278#issuecomment-803476334) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-20** — pushed [`6ddfadff`](https://github.com/square/kotlinpoet/commit/6ddfadffb581d4b22a8e83ee4fa3060c2a30d374) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.2.0 (#1049)"
-
-**2021-03-20** — deleted branch "z/metadata020" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
