@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-23** — commented on [#634](https://github.com/square/moshi/issues/634#issuecomment-804670996) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-22** — opened PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
 
 **2021-03-22** — created branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803511875) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-03-20** — commented on [#1050](https://github.com/square/kotlinpoet/pull/1050#issuecomment-803492092) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-20** — pushed [`6727739d`](https://github.com/square/kotlinpoet/commit/6727739d0589197986c9e16c25c8d73800a58843) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
