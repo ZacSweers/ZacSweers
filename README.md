@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-24** — opened PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
+
+**2021-03-24** — created branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-03-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-805505481) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-24** — closed issue [#1318](https://api.github.com/repos/square/moshi/issues/1318) on [square/moshi](https://api.github.com/repos/square/moshi): "@JsonQualifier annotation class can not be accessed from another module"
+
+**2021-03-24** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-805504442) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-23** — commented on [#634](https://github.com/square/moshi/issues/634#issuecomment-804670996) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-22** — opened PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-22** — pushed [`6f5d08f0`](https://github.com/square/kotlinpoet/commit/6f5d08f0134268d044b816d01d6999f4cb9b5e77) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE (#1050)"
 
 **2021-03-22** — deleted branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-22** — closed PR [#1050](https://api.github.com/repos/square/kotlinpoet/pulls/1050) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE"
-
-**2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803672717) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-03-21** — opened issue [#98](https://api.github.com/repos/ZacSweers/MoshiX/issues/98) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Java 16, make records non-preview"
-
-**2021-03-21** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-803511875) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-03-20** — commented on [#1050](https://github.com/square/kotlinpoet/pull/1050#issuecomment-803492092) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
