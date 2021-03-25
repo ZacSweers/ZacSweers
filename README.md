@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-24** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-806328836) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-24** — opened PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
 
 **2021-03-24** — created branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-22** — created branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-03-22** — pushed [`6f5d08f0`](https://github.com/square/kotlinpoet/commit/6f5d08f0134268d044b816d01d6999f4cb9b5e77) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE (#1050)"
-
-**2021-03-22** — deleted branch "z/val" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
