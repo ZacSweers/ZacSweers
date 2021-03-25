@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-25** — closed issue [#1055](https://api.github.com/repos/square/kotlinpoet/issues/1055) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "backticks in package names"
+
+**2021-03-25** — commented on [#1055](https://github.com/square/kotlinpoet/issues/1055#issuecomment-806625364) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-03-24** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-806328836) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-24** — opened PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-23** — commented on [#634](https://github.com/square/moshi/issues/634#issuecomment-804670996) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-22** — opened PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
-
-**2021-03-22** — created branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-22** — pushed [`6f5d08f0`](https://github.com/square/kotlinpoet/commit/6f5d08f0134268d044b816d01d6999f4cb9b5e77) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KModifier.VALUE (#1050)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
