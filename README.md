@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-25** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-807866192) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-25** — closed PR [#48](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/48) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README"
 
 **2021-03-25** — pushed [`46b06564`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/46b065644c1770cc61073e510f189258daa42107) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README (#48)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-805505481) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-24** — closed issue [#1318](https://api.github.com/repos/square/moshi/issues/1318) on [square/moshi](https://api.github.com/repos/square/moshi): "@JsonQualifier annotation class can not be accessed from another module"
-
-**2021-03-24** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-805504442) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
