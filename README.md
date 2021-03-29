@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-03-29** — pushed [`f5b05c35`](https://github.com/square/kotlinpoet/commit/f5b05c359bfdc490913c7c15fa2a1ebc08083a4c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Spotless"
+**2021-03-29** — pushed [`ca40cbed`](https://github.com/square/kotlinpoet/commit/ca40cbed50ea1ddb7d79a09e7c9a3b3c32fe49d5) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update changelog for 1.8.0 (#1053)"
 
-**2021-03-29** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-809454127) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-29** — deleted branch "egorand/210322/changelog-1.8.0" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-03-29** — pushed [`7ef4a32d`](https://github.com/square/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [square/moshi](https://api.github.com/repos/square/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+**2021-03-29** — closed PR [#1053](https://api.github.com/repos/square/kotlinpoet/pulls/1053) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update changelog for 1.8.0"
 
-**2021-03-29** — closed issue [#1324](https://api.github.com/repos/square/moshi/issues/1324) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin metadata error with Kotlin 1.5.0-M2"
+**2021-03-29** — deleted branch "z/versionCode" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
-**2021-03-29** — closed PR [#1325](https://api.github.com/repos/square/moshi/pulls/1325) to [square/moshi](https://api.github.com/repos/square/moshi): "Bump the Kotlin JVM metadata library to the latest release. "
+**2021-03-29** — deleted branch "z/cleanUpAbstractModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-03-28** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-809005681) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-29** — pushed [`1fb34d16`](https://github.com/square/kotlinpoet/commit/1fb34d16435f562fe8bf32e42a9fc12ece511273) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Omit redundant abstract modifiers on members where possible (#1057)"
 
-**2021-03-25** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-807866192) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-29** — closed PR [#1057](https://api.github.com/repos/square/kotlinpoet/pulls/1057) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Omit redundant abstract modifiers on members where possible"
 
-**2021-03-25** — closed PR [#48](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/48) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README"
+**2021-03-29** — pushed [`981a52ce`](https://github.com/square/kotlinpoet/commit/981a52ce11d72173b3f13c457773f2d11f58e3b4) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add metadata note"
 
-**2021-03-25** — pushed [`46b06564`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/46b065644c1770cc61073e510f189258daa42107) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README (#48)"
+**2021-03-29** — pushed [`95945f6f`](https://github.com/square/kotlinpoet/commit/95945f6f706917abd5f30590b37b7c7cfd11cdb0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
 
-**2021-03-25** — closed issue [#1055](https://api.github.com/repos/square/kotlinpoet/issues/1055) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "backticks in package names"
+**2021-03-29** — commented on [#1057](https://github.com/square/kotlinpoet/pull/1057#issuecomment-809542464) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
