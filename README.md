@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-28** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-809005681) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-03-25** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-807866192) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-25** — closed PR [#48](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/48) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-24** — created branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-03-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-805505481) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-24** — closed issue [#1318](https://api.github.com/repos/square/moshi/issues/1318) on [square/moshi](https://api.github.com/repos/square/moshi): "@JsonQualifier annotation class can not be accessed from another module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
