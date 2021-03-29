@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-29** — pushed [`f5b05c35`](https://github.com/square/kotlinpoet/commit/f5b05c359bfdc490913c7c15fa2a1ebc08083a4c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Spotless"
+
 **2021-03-29** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-809454127) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-29** — pushed [`7ef4a32d`](https://github.com/square/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [square/moshi](https://api.github.com/repos/square/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-25** — pushed [`46b06564`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/46b065644c1770cc61073e510f189258daa42107) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "remove VariantFilter example from README (#48)"
 
 **2021-03-25** — closed issue [#1055](https://api.github.com/repos/square/kotlinpoet/issues/1055) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "backticks in package names"
-
-**2021-03-25** — commented on [#1055](https://github.com/square/kotlinpoet/issues/1055#issuecomment-806625364) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
