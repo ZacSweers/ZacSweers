@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-29** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-809454127) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-29** — pushed [`7ef4a32d`](https://github.com/square/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [square/moshi](https://api.github.com/repos/square/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+
+**2021-03-29** — closed issue [#1324](https://api.github.com/repos/square/moshi/issues/1324) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin metadata error with Kotlin 1.5.0-M2"
+
+**2021-03-29** — closed PR [#1325](https://api.github.com/repos/square/moshi/pulls/1325) to [square/moshi](https://api.github.com/repos/square/moshi): "Bump the Kotlin JVM metadata library to the latest release. "
+
 **2021-03-28** — commented on [#1321](https://github.com/square/moshi/issues/1321#issuecomment-809005681) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-25** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-807866192) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-25** — closed issue [#1055](https://api.github.com/repos/square/kotlinpoet/issues/1055) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "backticks in package names"
 
 **2021-03-25** — commented on [#1055](https://github.com/square/kotlinpoet/issues/1055#issuecomment-806625364) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-24** — commented on [#1318](https://github.com/square/moshi/issues/1318#issuecomment-806328836) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-24** — opened PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
-
-**2021-03-24** — created branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-24** — commented on [#1290](https://github.com/square/moshi/issues/1290#issuecomment-805505481) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
