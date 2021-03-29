@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-29** — commented on [#452](https://github.com/uber/NullAway/issues/452#issuecomment-809623224) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
+
 **2021-03-29** — commented on [#1998](https://github.com/cashapp/sqldelight/issues/1998#issuecomment-809586750) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 
 **2021-03-29** — pushed [`ca40cbed`](https://github.com/square/kotlinpoet/commit/ca40cbed50ea1ddb7d79a09e7c9a3b3c32fe49d5) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update changelog for 1.8.0 (#1053)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-29** — closed PR [#1057](https://api.github.com/repos/square/kotlinpoet/pulls/1057) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Omit redundant abstract modifiers on members where possible"
 
 **2021-03-29** — pushed [`981a52ce`](https://github.com/square/kotlinpoet/commit/981a52ce11d72173b3f13c457773f2d11f58e3b4) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add metadata note"
-
-**2021-03-29** — pushed [`95945f6f`](https://github.com/square/kotlinpoet/commit/95945f6f706917abd5f30590b37b7c7cfd11cdb0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
