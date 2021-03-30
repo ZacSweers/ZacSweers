@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-03-29** — pushed [`37f34e16`](https://github.com/square/moshi/commit/37f34e16f0be1452926251a119d006decfc12747) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve KotlinJsonAdapter performance by invoke KFunction by "call". (#1286)"
+**2021-03-29** — opened issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
 
-**2021-03-29** — closed PR [#1286](https://api.github.com/repos/square/moshi/pulls/1286) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve KotlinJsonAdapter performance by invoke KFunction by "call"."
+**2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843662) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-03-29** — commented on [#1286](https://github.com/square/moshi/pull/1286#issuecomment-809820837) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-03-29** — deleted branch "z/shortcutConstructor" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-29** — deleted branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-03-29** — pushed [`7372baaa`](https://github.com/square/moshi/commit/7372baaaa0c4d305d533c5a12fdc3b5f165a5969) to [square/moshi](https://api.github.com/repos/square/moshi): "Invoke constructor directly if all params with default are set (#1326)"
 
-**2021-03-29** — pushed [`bcfce605`](https://github.com/square/moshi/commit/bcfce60577f5fb8642c88fcffa330e74bc22b7b6) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error (#1323)"
+**2021-03-29** — closed PR [#1326](https://api.github.com/repos/square/moshi/pulls/1326) to [square/moshi](https://api.github.com/repos/square/moshi): "Invoke constructor directly if all params with default are set"
 
-**2021-03-29** — closed PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
+**2021-03-29** — closed issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all params with defaults are set"
 
-**2021-03-29** — pushed [`7ef4a32d`](https://github.com/ZacSweers/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+**2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843057) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-03-29** — pushed [`7ef4a32d`](https://github.com/ZacSweers/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+**2021-03-29** — deleted branch "z/metadataUpdate" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-03-29** — commented on [#452](https://github.com/uber/NullAway/issues/452#issuecomment-809623224) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
+**2021-03-29** — pushed [`b33a94df`](https://github.com/square/moshi/commit/b33a94dfc171489125a2faa34e91f62194a34df2) to [square/moshi](https://api.github.com/repos/square/moshi): "Update more dependencies (#1319)"
 
-**2021-03-29** — commented on [#1998](https://github.com/cashapp/sqldelight/issues/1998#issuecomment-809586750) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+**2021-03-29** — closed PR [#1319](https://api.github.com/repos/square/moshi/pulls/1319) to [square/moshi](https://api.github.com/repos/square/moshi): "Update more dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
