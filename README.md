@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-29** — pushed [`37f34e16`](https://github.com/square/moshi/commit/37f34e16f0be1452926251a119d006decfc12747) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve KotlinJsonAdapter performance by invoke KFunction by "call". (#1286)"
+
+**2021-03-29** — closed PR [#1286](https://api.github.com/repos/square/moshi/pulls/1286) to [square/moshi](https://api.github.com/repos/square/moshi): "Improve KotlinJsonAdapter performance by invoke KFunction by "call"."
+
+**2021-03-29** — commented on [#1286](https://github.com/square/moshi/pull/1286#issuecomment-809820837) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-03-29** — deleted branch "z/fixNpe" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-03-29** — pushed [`bcfce605`](https://github.com/square/moshi/commit/bcfce60577f5fb8642c88fcffa330e74bc22b7b6) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error (#1323)"
+
+**2021-03-29** — closed PR [#1323](https://api.github.com/repos/square/moshi/pulls/1323) to [square/moshi](https://api.github.com/repos/square/moshi): "Warn on missing TypeElement rather than error"
+
+**2021-03-29** — pushed [`7ef4a32d`](https://github.com/ZacSweers/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+
+**2021-03-29** — pushed [`7ef4a32d`](https://github.com/ZacSweers/moshi/commit/7ef4a32d5224623028bfd4157856fc7960a08227) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Bump the Kotlin JVM metadata library to the latest release. This will avoid problems with Kotlin 1.5.0-M2. (#1325)"
+
 **2021-03-29** — commented on [#452](https://github.com/uber/NullAway/issues/452#issuecomment-809623224) in [uber/NullAway](https://api.github.com/repos/uber/NullAway)
 
 **2021-03-29** — commented on [#1998](https://github.com/cashapp/sqldelight/issues/1998#issuecomment-809586750) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
-
-**2021-03-29** — pushed [`ca40cbed`](https://github.com/square/kotlinpoet/commit/ca40cbed50ea1ddb7d79a09e7c9a3b3c32fe49d5) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update changelog for 1.8.0 (#1053)"
-
-**2021-03-29** — deleted branch "egorand/210322/changelog-1.8.0" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-29** — closed PR [#1053](https://api.github.com/repos/square/kotlinpoet/pulls/1053) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update changelog for 1.8.0"
-
-**2021-03-29** — deleted branch "z/versionCode" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2021-03-29** — deleted branch "z/cleanUpAbstractModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-03-29** — pushed [`1fb34d16`](https://github.com/square/kotlinpoet/commit/1fb34d16435f562fe8bf32e42a9fc12ece511273) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Omit redundant abstract modifiers on members where possible (#1057)"
-
-**2021-03-29** — closed PR [#1057](https://api.github.com/repos/square/kotlinpoet/pulls/1057) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Omit redundant abstract modifiers on members where possible"
-
-**2021-03-29** — pushed [`981a52ce`](https://github.com/square/kotlinpoet/commit/981a52ce11d72173b3f13c457773f2d11f58e3b4) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add metadata note"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
