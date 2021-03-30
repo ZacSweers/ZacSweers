@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-29** — pushed 110 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
+
 **2021-03-29** — opened issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
 
 **2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843662) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-29** — deleted branch "z/metadataUpdate" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-03-29** — pushed [`b33a94df`](https://github.com/square/moshi/commit/b33a94dfc171489125a2faa34e91f62194a34df2) to [square/moshi](https://api.github.com/repos/square/moshi): "Update more dependencies (#1319)"
-
-**2021-03-29** — closed PR [#1319](https://api.github.com/repos/square/moshi/pulls/1319) to [square/moshi](https://api.github.com/repos/square/moshi): "Update more dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
