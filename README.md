@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-30** — commented on [#3633](https://github.com/detekt/detekt/issues/3633#issuecomment-810499910) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809916530) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809898753) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-29** — closed PR [#1326](https://api.github.com/repos/square/moshi/pulls/1326) to [square/moshi](https://api.github.com/repos/square/moshi): "Invoke constructor directly if all params with default are set"
 
 **2021-03-29** — closed issue [#1302](https://api.github.com/repos/square/moshi/issues/1302) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen optimization: check if all params with defaults are set"
-
-**2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843057) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
