@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-31** — closed issue [#258](https://api.github.com/repos/rharter/auto-value-gson/issues/258) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Issue using @GenerateTypeAdapter with maven"
+
+**2021-03-31** — commented on [#258](https://github.com/rharter/auto-value-gson/issues/258#issuecomment-811128313) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
+
 **2021-03-31** — opened issue [#16682](https://api.github.com/repos/gradle/gradle/issues/16682) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Compilations are regularly out of date due to non-deterministic classpath ordering"
 
 **2021-03-30** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-810723063) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-29** — pushed 110 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
 
 **2021-03-29** — opened issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
-
-**2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843662) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-03-29** — deleted branch "z/shortcutConstructor" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
