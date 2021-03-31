@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-03-31** — opened issue [#16682](https://api.github.com/repos/gradle/gradle/issues/16682) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Compilations are regularly out of date due to non-deterministic classpath ordering"
+
 **2021-03-30** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-810723063) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-03-30** — commented on [#369](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/369#issuecomment-810567139) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-29** — commented on [#1326](https://github.com/square/moshi/pull/1326#issuecomment-809843662) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-03-29** — deleted branch "z/shortcutConstructor" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-03-29** — pushed [`7372baaa`](https://github.com/square/moshi/commit/7372baaaa0c4d305d533c5a12fdc3b5f165a5969) to [square/moshi](https://api.github.com/repos/square/moshi): "Invoke constructor directly if all params with default are set (#1326)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
