@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-01** — closed issue [#442](https://api.github.com/repos/uber/AutoDispose/issues/442) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Obseravable called twice when completable scope. #416"
+
+**2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811953500) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-03-31** — closed issue [#258](https://api.github.com/repos/rharter/auto-value-gson/issues/258) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Issue using @GenerateTypeAdapter with maven"
 
 **2021-03-31** — commented on [#258](https://github.com/rharter/auto-value-gson/issues/258#issuecomment-811128313) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809916530) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809898753) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-03-29** — pushed 110 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
-
-**2021-03-29** — opened issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
