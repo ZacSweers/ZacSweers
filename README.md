@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-01** — opened issue [#3643](https://api.github.com/repos/detekt/detekt/issues/3643) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Rename MayBeConst to MayBeConstant for consistency"
+
 **2021-04-01** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-812024439) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811957318) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-31** — opened issue [#16682](https://api.github.com/repos/gradle/gradle/issues/16682) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Compilations are regularly out of date due to non-deterministic classpath ordering"
 
 **2021-03-30** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-810723063) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-03-30** — commented on [#369](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/369#issuecomment-810567139) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
