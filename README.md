@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811957318) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811954296) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-04-01** — closed issue [#442](https://api.github.com/repos/uber/AutoDispose/issues/442) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Obseravable called twice when completable scope. #416"
 
 **2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811953500) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-03-30** — commented on [#369](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/369#issuecomment-810567139) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2021-03-30** — commented on [#3633](https://github.com/detekt/detekt/issues/3633#issuecomment-810499910) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809916530) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-03-30** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-809898753) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
