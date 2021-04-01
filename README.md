@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-01** — closed issue [#1328](https://api.github.com/repos/square/moshi/issues/1328) on [square/moshi](https://api.github.com/repos/square/moshi): "Document how to use Moshi with java.io.OutputStream & java.io.InputStream"
+
+**2021-04-01** — commented on [#1328](https://github.com/square/moshi/issues/1328#issuecomment-812147134) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-04-01** — commented on [#1329](https://github.com/square/moshi/issues/1329#issuecomment-812146773) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-01** — opened issue [#3643](https://api.github.com/repos/detekt/detekt/issues/3643) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Rename MayBeConst to MayBeConstant for consistency"
 
 **2021-04-01** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-812024439) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811953500) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-03-31** — closed issue [#258](https://api.github.com/repos/rharter/auto-value-gson/issues/258) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Issue using @GenerateTypeAdapter with maven"
-
-**2021-03-31** — commented on [#258](https://github.com/rharter/auto-value-gson/issues/258#issuecomment-811128313) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
-
-**2021-03-31** — opened issue [#16682](https://api.github.com/repos/gradle/gradle/issues/16682) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Compilations are regularly out of date due to non-deterministic classpath ordering"
-
-**2021-03-30** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-810723063) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
