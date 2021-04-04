@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-04** — closed issue [#1330](https://api.github.com/repos/square/moshi/issues/1330) on [square/moshi](https://api.github.com/repos/square/moshi): "(JSONArray issue) Working with generated Kotlin class using JsonToKotlinClass"
+
+**2021-04-04** — commented on [#1330](https://github.com/square/moshi/issues/1330#issuecomment-813062226) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-01** — commented on [#1328](https://github.com/square/moshi/issues/1328#issuecomment-812302764) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-01** — closed issue [#1329](https://api.github.com/repos/square/moshi/issues/1329) on [square/moshi](https://api.github.com/repos/square/moshi): "Support `Optional<T>`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-01** — opened issue [#3643](https://api.github.com/repos/detekt/detekt/issues/3643) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Rename MayBeConst to MayBeConstant for consistency"
 
 **2021-04-01** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-812024439) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811957318) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-04-01** — commented on [#442](https://github.com/uber/AutoDispose/issues/442#issuecomment-811954296) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
