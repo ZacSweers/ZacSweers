@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-04** — closed issue [#1331](https://api.github.com/repos/square/moshi/issues/1331) on [square/moshi](https://api.github.com/repos/square/moshi): "Link to updated javadocs and remove out-dated javadocs"
+
+**2021-04-04** — commented on [#1331](https://github.com/square/moshi/issues/1331#issuecomment-813119064) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-04-04** — pushed [`14341a0d`](https://github.com/square/moshi/commit/14341a0ddd4d88d8ee666c05d735746de4325a28) to [square/moshi](https://api.github.com/repos/square/moshi): "Update gh-pages with 1.12.0"
+
 **2021-04-04** — closed issue [#1330](https://api.github.com/repos/square/moshi/issues/1330) on [square/moshi](https://api.github.com/repos/square/moshi): "(JSONArray issue) Working with generated Kotlin class using JsonToKotlinClass"
 
 **2021-04-04** — commented on [#1330](https://github.com/square/moshi/issues/1330#issuecomment-813062226) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-01** — closed issue [#1328](https://api.github.com/repos/square/moshi/issues/1328) on [square/moshi](https://api.github.com/repos/square/moshi): "Document how to use Moshi with java.io.OutputStream & java.io.InputStream"
 
 **2021-04-01** — commented on [#1328](https://github.com/square/moshi/issues/1328#issuecomment-812147134) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-01** — commented on [#1329](https://github.com/square/moshi/issues/1329#issuecomment-812146773) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-01** — opened issue [#3643](https://api.github.com/repos/detekt/detekt/issues/3643) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "Rename MayBeConst to MayBeConstant for consistency"
-
-**2021-04-01** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-812024439) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
