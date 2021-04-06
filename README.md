@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-05** — pushed [`1654313f`](https://github.com/square/moshi/commit/1654313feed48ab09e6edfe7ebbef23a57869020) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README (#1332)"
+
+**2021-04-05** — closed PR [#1332](https://api.github.com/repos/square/moshi/pulls/1332) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README"
+
 **2021-04-05** — opened issue [#16712](https://api.github.com/repos/gradle/gradle/issues/16712) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Ignored input/output annotations error message is confusing on kotlin boolean properties"
 
 **2021-04-04** — closed issue [#1331](https://api.github.com/repos/square/moshi/issues/1331) on [square/moshi](https://api.github.com/repos/square/moshi): "Link to updated javadocs and remove out-dated javadocs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-01** — commented on [#1328](https://github.com/square/moshi/issues/1328#issuecomment-812302764) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-01** — closed issue [#1329](https://api.github.com/repos/square/moshi/issues/1329) on [square/moshi](https://api.github.com/repos/square/moshi): "Support `Optional<T>`"
-
-**2021-04-01** — commented on [#1329](https://github.com/square/moshi/issues/1329#issuecomment-812301954) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-01** — closed issue [#1328](https://api.github.com/repos/square/moshi/issues/1328) on [square/moshi](https://api.github.com/repos/square/moshi): "Document how to use Moshi with java.io.OutputStream & java.io.InputStream"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
