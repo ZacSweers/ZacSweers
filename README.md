@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-06** — commented on [#3643](https://github.com/detekt/detekt/issues/3643#issuecomment-814245695) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2021-04-05** — pushed [`1654313f`](https://github.com/square/moshi/commit/1654313feed48ab09e6edfe7ebbef23a57869020) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README (#1332)"
 
 **2021-04-05** — closed PR [#1332](https://api.github.com/repos/square/moshi/pulls/1332) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-04** — commented on [#1330](https://github.com/square/moshi/issues/1330#issuecomment-813062226) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-01** — commented on [#1328](https://github.com/square/moshi/issues/1328#issuecomment-812302764) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-01** — closed issue [#1329](https://api.github.com/repos/square/moshi/issues/1329) on [square/moshi](https://api.github.com/repos/square/moshi): "Support `Optional<T>`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
