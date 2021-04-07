@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-07** — opened issue [#6357](https://api.github.com/repos/robolectric/robolectric/issues/6357) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Proposal for improved android-all jars"
+
 **2021-04-07** — commented on [#1333](https://github.com/square/moshi/pull/1333#issuecomment-814966138) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-07** — pushed [`9c17bb82`](https://github.com/square/moshi/commit/9c17bb823fac16a00dd5af64bea0f0497678799e) to [square/moshi](https://api.github.com/repos/square/moshi): "fix version on readme (#1333)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-04** — closed issue [#1331](https://api.github.com/repos/square/moshi/issues/1331) on [square/moshi](https://api.github.com/repos/square/moshi): "Link to updated javadocs and remove out-dated javadocs"
 
 **2021-04-04** — commented on [#1331](https://github.com/square/moshi/issues/1331#issuecomment-813119064) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-04** — pushed [`14341a0d`](https://github.com/square/moshi/commit/14341a0ddd4d88d8ee666c05d735746de4325a28) to [square/moshi](https://api.github.com/repos/square/moshi): "Update gh-pages with 1.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
