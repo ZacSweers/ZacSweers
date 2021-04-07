@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-07** — created branch "z/improvedTracking" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2021-04-07** — pushed 24 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
 **2021-04-07** — pushed 153 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
 
 **2021-04-07** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815180999) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-06** — commented on [#3643](https://github.com/detekt/detekt/issues/3643#issuecomment-814245695) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-04-05** — pushed [`1654313f`](https://github.com/square/moshi/commit/1654313feed48ab09e6edfe7ebbef23a57869020) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README (#1332)"
-
-**2021-04-05** — closed PR [#1332](https://api.github.com/repos/square/moshi/pulls/1332) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README"
-
-**2021-04-05** — opened issue [#16712](https://api.github.com/repos/gradle/gradle/issues/16712) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Ignored input/output annotations error message is confusing on kotlin boolean properties"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
