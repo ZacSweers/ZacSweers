@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-07** — pushed 153 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+
+**2021-04-07** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815180999) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-04-07** — opened issue [#6357](https://api.github.com/repos/robolectric/robolectric/issues/6357) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Proposal for improved android-all jars"
 
 **2021-04-07** — commented on [#1333](https://github.com/square/moshi/pull/1333#issuecomment-814966138) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-05** — closed PR [#1332](https://api.github.com/repos/square/moshi/pulls/1332) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README"
 
 **2021-04-05** — opened issue [#16712](https://api.github.com/repos/gradle/gradle/issues/16712) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Ignored input/output annotations error message is confusing on kotlin boolean properties"
-
-**2021-04-04** — closed issue [#1331](https://api.github.com/repos/square/moshi/issues/1331) on [square/moshi](https://api.github.com/repos/square/moshi): "Link to updated javadocs and remove out-dated javadocs"
-
-**2021-04-04** — commented on [#1331](https://github.com/square/moshi/issues/1331#issuecomment-813119064) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
