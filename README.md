@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-08** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815915473) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-04-07** — created branch "z/improvedTracking" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
 
 **2021-04-07** — pushed 24 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-07** — closed PR [#1333](https://api.github.com/repos/square/moshi/pulls/1333) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix version on readme"
 
 **2021-04-06** — commented on [#3643](https://github.com/detekt/detekt/issues/3643#issuecomment-814245695) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-04-05** — pushed [`1654313f`](https://github.com/square/moshi/commit/1654313feed48ab09e6edfe7ebbef23a57869020) to [square/moshi](https://api.github.com/repos/square/moshi): "update version on README (#1332)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
