@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-09** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-816716509) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
+**2021-04-09** — commented on [#1276](https://github.com/square/moshi/issues/1276#issuecomment-816714982) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-08** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815915473) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-04-07** — created branch "z/improvedTracking" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-07** — commented on [#1333](https://github.com/square/moshi/pull/1333#issuecomment-814966138) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-07** — pushed [`9c17bb82`](https://github.com/square/moshi/commit/9c17bb823fac16a00dd5af64bea0f0497678799e) to [square/moshi](https://api.github.com/repos/square/moshi): "fix version on readme (#1333)"
-
-**2021-04-07** — closed PR [#1333](https://api.github.com/repos/square/moshi/pulls/1333) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix version on readme"
-
-**2021-04-06** — commented on [#3643](https://github.com/detekt/detekt/issues/3643#issuecomment-814245695) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
