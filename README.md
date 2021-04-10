@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-10** — pushed [`3ad3708f`](https://github.com/slackhq/EitherNet/commit/3ad3708fc39974414cc5a190d53faedf7ca7d148) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7 (#22)"
+
+**2021-04-10** — deleted branch "z/gradle7" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-04-10** — closed PR [#22](https://api.github.com/repos/slackhq/EitherNet/pulls/22) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7"
+
+**2021-04-10** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-04-10** — pushed [`45c8595b`](https://github.com/square/moshi/commit/45c8595bfa4fb03c91723d88d2a004d9832ae220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0 (#1334)"
+
+**2021-04-10** — closed PR [#1334](https://api.github.com/repos/square/moshi/pulls/1334) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0"
+
 **2021-04-10** — pushed [`96acf042`](https://github.com/slackhq/moshi-gson-interop/commit/96acf042f0f6774ac1402ef4b09a0918355cab53) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7 (#32)"
 
 **2021-04-10** — deleted branch "z/gradle7" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-10** — closed PR [#32](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/32) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7"
 
 **2021-04-09** — opened issue [#1833](https://api.github.com/repos/Kotlin/dokka/issues/1833) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Gradle 7 incompatibility"
-
-**2021-04-09** — pushed [`03ec05f7`](https://github.com/uber/AutoDispose/commit/03ec05f78c7c14ea0f8cddc8be316993a3793276) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project (#443)"
-
-**2021-04-09** — closed PR [#443](https://api.github.com/repos/uber/AutoDispose/pulls/443) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project"
-
-**2021-04-09** — pushed [`6a680456`](https://github.com/slackhq/keeper/commit/6a6804569f3a95a9481a1fcd5d3d2af57fe6f97c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update all the versions"
-
-**2021-04-09** — created tag "0.10.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-09** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-04-09** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
