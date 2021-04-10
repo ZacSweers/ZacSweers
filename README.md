@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-04-09** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-816716509) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+**2021-04-09** — pushed [`2277f4fb`](https://github.com/ZacSweers/auto-service-ksp/commit/2277f4fbe143c2227775eea8f03a0cf8eaee8d1b) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps (#12)"
 
-**2021-04-09** — commented on [#1276](https://github.com/square/moshi/issues/1276#issuecomment-816714982) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-04-09** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-04-08** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815915473) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+**2021-04-09** — closed PR [#12](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/12) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
 
-**2021-04-07** — created branch "z/improvedTracking" on [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin)
+**2021-04-09** — pushed [`a7bd9ab5`](https://github.com/ZacSweers/MoshiX/commit/a7bd9ab5b1807b314165048b6191f9585e6cfc99) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle missing primary constructor signatures"
 
-**2021-04-07** — pushed 24 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2021-04-09** — opened PR [#1334](https://api.github.com/repos/square/moshi/pulls/1334) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0"
 
-**2021-04-07** — pushed 153 commits to [ZacSweers/bugsnag-android-gradle-plugin](https://api.github.com/repos/ZacSweers/bugsnag-android-gradle-plugin).
+**2021-04-09** — pushed [`9f3a4488`](https://github.com/ZacSweers/auto-service-ksp/commit/9f3a44885c4fec3b06e530d2393411b6d0ba7fae) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Use https"
 
-**2021-04-07** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-815180999) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+**2021-04-09** — opened PR [#12](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/12) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
 
-**2021-04-07** — opened issue [#6357](https://api.github.com/repos/robolectric/robolectric/issues/6357) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Proposal for improved android-all jars"
+**2021-04-09** — pushed [`d92e3a65`](https://github.com/ZacSweers/MoshiX/commit/d92e3a65405f5e602d66c91438c6496955f2c469) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Okio APIs"
 
-**2021-04-07** — commented on [#1333](https://github.com/square/moshi/pull/1333#issuecomment-814966138) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-04-09** — opened PR [#100](https://api.github.com/repos/ZacSweers/MoshiX/pulls/100) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
 
-**2021-04-07** — pushed [`9c17bb82`](https://github.com/square/moshi/commit/9c17bb823fac16a00dd5af64bea0f0497678799e) to [square/moshi](https://api.github.com/repos/square/moshi): "fix version on readme (#1333)"
+**2021-04-09** — created branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
