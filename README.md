@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-09** — opened issue [#1833](https://api.github.com/repos/Kotlin/dokka/issues/1833) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Gradle 7 incompatibility"
+
+**2021-04-09** — pushed [`03ec05f7`](https://github.com/uber/AutoDispose/commit/03ec05f78c7c14ea0f8cddc8be316993a3793276) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project (#443)"
+
+**2021-04-09** — closed PR [#443](https://api.github.com/repos/uber/AutoDispose/pulls/443) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project"
+
 **2021-04-09** — pushed [`6a680456`](https://github.com/slackhq/keeper/commit/6a6804569f3a95a9481a1fcd5d3d2af57fe6f97c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update all the versions"
 
 **2021-04-09** — created tag "0.10.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-09** — closed PR [#49](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/49) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update deps and start testing 1.5"
 
 **2021-04-09** — pushed [`455ee0d1`](https://github.com/ZacSweers/MoshiX/commit/455ee0d174e87fd603ae56417f6867f9a900a0fe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp (#101)"
-
-**2021-04-09** — deleted branch "z/updateASKSP" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-09** — closed PR [#101](https://api.github.com/repos/ZacSweers/MoshiX/pulls/101) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp"
-
-**2021-04-09** — opened PR [#101](https://api.github.com/repos/ZacSweers/MoshiX/pulls/101) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
