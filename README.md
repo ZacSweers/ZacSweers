@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-10** — pushed [`96acf042`](https://github.com/slackhq/moshi-gson-interop/commit/96acf042f0f6774ac1402ef4b09a0918355cab53) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7 (#32)"
+
+**2021-04-10** — deleted branch "z/gradle7" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-04-10** — closed PR [#32](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/32) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7"
+
 **2021-04-09** — opened issue [#1833](https://api.github.com/repos/Kotlin/dokka/issues/1833) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Gradle 7 incompatibility"
 
 **2021-04-09** — pushed [`03ec05f7`](https://github.com/uber/AutoDispose/commit/03ec05f78c7c14ea0f8cddc8be316993a3793276) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project (#443)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-09** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-04-09** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-04-09** — pushed [`b7ddf7cd`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/b7ddf7cd3afdc27d04e6effc85db64c180bec576) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update deps and start testing 1.5 (#49)"
-
-**2021-04-09** — closed PR [#49](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/49) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update deps and start testing 1.5"
-
-**2021-04-09** — pushed [`455ee0d1`](https://github.com/ZacSweers/MoshiX/commit/455ee0d174e87fd603ae56417f6867f9a900a0fe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp (#101)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
