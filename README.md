@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-04-09** — pushed [`0181cc9e`](https://github.com/ZacSweers/MoshiX/commit/0181cc9ea70f13e76998dbbc607772e6d5cac9e2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps (#100)"
+**2021-04-09** — pushed [`6a680456`](https://github.com/slackhq/keeper/commit/6a6804569f3a95a9481a1fcd5d3d2af57fe6f97c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update all the versions"
 
-**2021-04-09** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-04-09** — created tag "0.10.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-04-09** — closed PR [#100](https://api.github.com/repos/ZacSweers/MoshiX/pulls/100) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update deps"
+**2021-04-09** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-04-09** — pushed [`6e9494e1`](https://github.com/ZacSweers/MoshiX/commit/6e9494e1f27c5127b1114840191b0221a7015c65) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI workflow"
+**2021-04-09** — deleted branch "z/updates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-04-09** — pushed [`2277f4fb`](https://github.com/ZacSweers/auto-service-ksp/commit/2277f4fbe143c2227775eea8f03a0cf8eaee8d1b) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps (#12)"
+**2021-04-09** — pushed [`b7ddf7cd`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/b7ddf7cd3afdc27d04e6effc85db64c180bec576) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update deps and start testing 1.5 (#49)"
 
-**2021-04-09** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-04-09** — closed PR [#49](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/49) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update deps and start testing 1.5"
 
-**2021-04-09** — closed PR [#12](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/12) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
+**2021-04-09** — pushed [`455ee0d1`](https://github.com/ZacSweers/MoshiX/commit/455ee0d174e87fd603ae56417f6867f9a900a0fe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp (#101)"
 
-**2021-04-09** — pushed [`a7bd9ab5`](https://github.com/ZacSweers/MoshiX/commit/a7bd9ab5b1807b314165048b6191f9585e6cfc99) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle missing primary constructor signatures"
+**2021-04-09** — deleted branch "z/updateASKSP" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-04-09** — opened PR [#1334](https://api.github.com/repos/square/moshi/pulls/1334) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0"
+**2021-04-09** — closed PR [#101](https://api.github.com/repos/ZacSweers/MoshiX/pulls/101) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp"
 
-**2021-04-09** — pushed [`9f3a4488`](https://github.com/ZacSweers/auto-service-ksp/commit/9f3a44885c4fec3b06e530d2393411b6d0ba7fae) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Use https"
+**2021-04-09** — opened PR [#101](https://api.github.com/repos/ZacSweers/MoshiX/pulls/101) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update auto-service-ksp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
