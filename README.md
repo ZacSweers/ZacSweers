@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-11** — closed issue [#1335](https://api.github.com/repos/square/moshi/issues/1335) on [square/moshi](https://api.github.com/repos/square/moshi): "Required value 'firstName' (JSON name 'first_name') missing at $"
+
+**2021-04-11** — commented on [#1335](https://github.com/square/moshi/issues/1335#issuecomment-817343462) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-11** — opened issue [#16779](https://api.github.com/repos/gradle/gradle/issues/16779) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add option to disable Kotlin version warnings in kotlin-dsl"
 
 **2021-04-10** — pushed [`3ad3708f`](https://github.com/slackhq/EitherNet/commit/3ad3708fc39974414cc5a190d53faedf7ca7d148) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7 (#22)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-10** — closed PR [#1334](https://api.github.com/repos/square/moshi/pulls/1334) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0"
 
 **2021-04-10** — pushed [`96acf042`](https://github.com/slackhq/moshi-gson-interop/commit/96acf042f0f6774ac1402ef4b09a0918355cab53) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7 (#32)"
-
-**2021-04-10** — deleted branch "z/gradle7" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-04-10** — closed PR [#32](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/32) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
