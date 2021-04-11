@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-11** — opened issue [#16779](https://api.github.com/repos/gradle/gradle/issues/16779) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add option to disable Kotlin version warnings in kotlin-dsl"
+
 **2021-04-10** — pushed [`3ad3708f`](https://github.com/slackhq/EitherNet/commit/3ad3708fc39974414cc5a190d53faedf7ca7d148) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7 (#22)"
 
 **2021-04-10** — deleted branch "z/gradle7" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-10** — deleted branch "z/gradle7" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-04-10** — closed PR [#32](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/32) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update to Gradle 7"
-
-**2021-04-09** — opened issue [#1833](https://api.github.com/repos/Kotlin/dokka/issues/1833) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Gradle 7 incompatibility"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
