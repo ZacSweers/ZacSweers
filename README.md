@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-12** — closed issue [#1336](https://api.github.com/repos/square/moshi/issues/1336) on [square/moshi](https://api.github.com/repos/square/moshi): "Documentation is years old ?????"
+
+**2021-04-12** — commented on [#1336](https://github.com/square/moshi/issues/1336#issuecomment-817499766) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-12** — opened PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
 
 **2021-04-12** — created branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-11** — opened issue [#16779](https://api.github.com/repos/gradle/gradle/issues/16779) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add option to disable Kotlin version warnings in kotlin-dsl"
 
 **2021-04-10** — pushed [`3ad3708f`](https://github.com/slackhq/EitherNet/commit/3ad3708fc39974414cc5a190d53faedf7ca7d148) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7 (#22)"
-
-**2021-04-10** — deleted branch "z/gradle7" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-04-10** — closed PR [#22](https://api.github.com/repos/slackhq/EitherNet/pulls/22) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
