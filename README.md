@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-12** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-818259973) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-12** — closed issue [#99](https://api.github.com/repos/ZacSweers/MoshiX/issues/99) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Unable to de/serialize sealed class of objects"
+
+**2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818259707) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-12** — pushed [`d130cf69`](https://github.com/ZacSweers/auto-service-ksp/commit/d130cf694e3030047094263661867979acf34eeb) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix kotlin version"
+
 **2021-04-12** — closed issue [#1336](https://api.github.com/repos/square/moshi/issues/1336) on [square/moshi](https://api.github.com/repos/square/moshi): "Documentation is years old ?????"
 
 **2021-04-12** — commented on [#1336](https://github.com/square/moshi/issues/1336#issuecomment-817499766) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-11** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-817398318) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-11** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-817356966) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2021-04-11** — closed issue [#1335](https://api.github.com/repos/square/moshi/issues/1335) on [square/moshi](https://api.github.com/repos/square/moshi): "Required value 'firstName' (JSON name 'first_name') missing at $"
-
-**2021-04-11** — commented on [#1335](https://github.com/square/moshi/issues/1335#issuecomment-817343462) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-11** — opened issue [#16779](https://api.github.com/repos/gradle/gradle/issues/16779) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Add option to disable Kotlin version warnings in kotlin-dsl"
-
-**2021-04-10** — pushed [`3ad3708f`](https://github.com/slackhq/EitherNet/commit/3ad3708fc39974414cc5a190d53faedf7ca7d148) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7 (#22)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
