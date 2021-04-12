@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-11** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-817398318) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-04-11** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-817356966) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 
 **2021-04-11** — closed issue [#1335](https://api.github.com/repos/square/moshi/issues/1335) on [square/moshi](https://api.github.com/repos/square/moshi): "Required value 'firstName' (JSON name 'first_name') missing at $"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-10** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-04-10** — pushed [`45c8595b`](https://github.com/square/moshi/commit/45c8595bfa4fb03c91723d88d2a004d9832ae220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0 (#1334)"
-
-**2021-04-10** — closed PR [#1334](https://api.github.com/repos/square/moshi/pulls/1334) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
