@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-12** — opened PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
+
+**2021-04-12** — created branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-04-11** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-817398318) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-11** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-817356966) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-10** — deleted branch "z/gradle7" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-04-10** — closed PR [#22](https://api.github.com/repos/slackhq/EitherNet/pulls/22) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update to Gradle 7"
-
-**2021-04-10** — deleted branch "z/updates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-04-10** — pushed [`45c8595b`](https://github.com/square/moshi/commit/45c8595bfa4fb03c91723d88d2a004d9832ae220) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0 (#1334)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
