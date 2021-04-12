@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818293888) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-12** — pushed [`e96caf26`](https://github.com/ZacSweers/MoshiX/commit/e96caf26e85a4c0034f1de774c2e82bd6b44369b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix README"
+
 **2021-04-12** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-818259973) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-12** — closed issue [#99](https://api.github.com/repos/ZacSweers/MoshiX/issues/99) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Unable to de/serialize sealed class of objects"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-12** — opened PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
 
 **2021-04-12** — created branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-04-11** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-817398318) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-04-11** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-817356966) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
