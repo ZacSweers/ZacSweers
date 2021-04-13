@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-12** — pushed [`04f4b8c3`](https://github.com/slackhq/keeper/commit/04f4b8c34658bb757949166429a701a1b06f29ca) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable logging for now because wtf?"
+
 **2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818293888) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-12** — pushed [`e96caf26`](https://github.com/ZacSweers/MoshiX/commit/e96caf26e85a4c0034f1de774c2e82bd6b44369b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix README"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-12** — commented on [#1336](https://github.com/square/moshi/issues/1336#issuecomment-817499766) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-04-12** — opened PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
-
-**2021-04-12** — created branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
