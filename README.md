@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-13** — pushed [`a86804a6`](https://github.com/ZacSweers/MoshiX/commit/a86804a60bb90186c77b1b98e59e2c18fb827e26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme (#102)"
+
+**2021-04-13** — closed PR [#102](https://api.github.com/repos/ZacSweers/MoshiX/pulls/102) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme"
+
+**2021-04-13** — commented on [#461](https://github.com/JLLeitschuh/ktlint-gradle/issues/461#issuecomment-818956396) in [JLLeitschuh/ktlint-gradle](https://api.github.com/repos/JLLeitschuh/ktlint-gradle)
+
 **2021-04-13** — deleted branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-04-13** — pushed [`e37f77db`](https://github.com/uber/AutoDispose/commit/e37f77db94b723aeb5438ed35c2d26a619653027) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject (#444)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-12** — pushed [`e96caf26`](https://github.com/ZacSweers/MoshiX/commit/e96caf26e85a4c0034f1de774c2e82bd6b44369b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix README"
 
 **2021-04-12** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-818259973) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-12** — closed issue [#99](https://api.github.com/repos/ZacSweers/MoshiX/issues/99) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Unable to de/serialize sealed class of objects"
-
-**2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818259707) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-12** — pushed [`d130cf69`](https://github.com/ZacSweers/auto-service-ksp/commit/d130cf694e3030047094263661867979acf34eeb) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix kotlin version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
