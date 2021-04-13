@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-13** — deleted branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-04-13** — pushed [`e37f77db`](https://github.com/uber/AutoDispose/commit/e37f77db94b723aeb5438ed35c2d26a619653027) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject (#444)"
+
+**2021-04-13** — closed PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
+
 **2021-04-12** — pushed [`04f4b8c3`](https://github.com/slackhq/keeper/commit/04f4b8c34658bb757949166429a701a1b06f29ca) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable logging for now because wtf?"
 
 **2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818293888) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818259707) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-12** — pushed [`d130cf69`](https://github.com/ZacSweers/auto-service-ksp/commit/d130cf694e3030047094263661867979acf34eeb) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix kotlin version"
-
-**2021-04-12** — closed issue [#1336](https://api.github.com/repos/square/moshi/issues/1336) on [square/moshi](https://api.github.com/repos/square/moshi): "Documentation is years old ?????"
-
-**2021-04-12** — commented on [#1336](https://github.com/square/moshi/issues/1336#issuecomment-817499766) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-12** — opened PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
