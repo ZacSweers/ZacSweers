@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-13** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-819012339) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-04-13** — pushed [`a86804a6`](https://github.com/ZacSweers/MoshiX/commit/a86804a60bb90186c77b1b98e59e2c18fb827e26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme (#102)"
 
 **2021-04-13** — closed PR [#102](https://api.github.com/repos/ZacSweers/MoshiX/pulls/102) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-12** — commented on [#99](https://github.com/ZacSweers/MoshiX/issues/99#issuecomment-818293888) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-12** — pushed [`e96caf26`](https://github.com/ZacSweers/MoshiX/commit/e96caf26e85a4c0034f1de774c2e82bd6b44369b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix README"
-
-**2021-04-12** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-818259973) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
