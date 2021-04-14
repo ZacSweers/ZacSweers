@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-14** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-819740287) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+
 **2021-04-14** — opened issue [#16843](https://api.github.com/repos/gradle/gradle/issues/16843) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle should have a way to compute/modify jvm arguments before the daemon is started"
 
 **2021-04-13** — opened issue [#16819](https://api.github.com/repos/gradle/gradle/issues/16819) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-13** — pushed [`e37f77db`](https://github.com/uber/AutoDispose/commit/e37f77db94b723aeb5438ed35c2d26a619653027) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject (#444)"
 
 **2021-04-13** — closed PR [#444](https://api.github.com/repos/uber/AutoDispose/pulls/444) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject"
-
-**2021-04-12** — pushed [`04f4b8c3`](https://github.com/slackhq/keeper/commit/04f4b8c34658bb757949166429a701a1b06f29ca) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Disable logging for now because wtf?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
