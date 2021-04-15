@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-15** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820787715) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-15** — closed issue [#445](https://api.github.com/repos/uber/AutoDispose/issues/445) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unusable with lint 7.0.0-alpha14 (Jetpack Compose project)"
+
+**2021-04-15** — commented on [#445](https://github.com/uber/AutoDispose/issues/445#issuecomment-820781170) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-04-15** — deleted branch "patch-1" on [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks)
 
 **2021-04-15** — opened PR [#536](https://api.github.com/repos/airbnb/mavericks/pulls/536) to [airbnb/mavericks](https://api.github.com/repos/airbnb/mavericks): "Fix syntax in README"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-14** — opened issue [#251](https://api.github.com/repos/square/anvil/issues/251) on [square/anvil](https://api.github.com/repos/square/anvil): "where clauses not handled correctly"
 
 **2021-04-14** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-819740287) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
-
-**2021-04-14** — opened issue [#16843](https://api.github.com/repos/gradle/gradle/issues/16843) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle should have a way to compute/modify jvm arguments before the daemon is started"
-
-**2021-04-13** — opened issue [#16819](https://api.github.com/repos/gradle/gradle/issues/16819) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
-
-**2021-04-13** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-819012339) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
