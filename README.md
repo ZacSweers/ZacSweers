@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-15** — deleted branch "patch-1" on [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks)
+
+**2021-04-15** — opened PR [#536](https://api.github.com/repos/airbnb/mavericks/pulls/536) to [airbnb/mavericks](https://api.github.com/repos/airbnb/mavericks): "Fix syntax in README"
+
+**2021-04-15** — pushed [`8b521b72`](https://github.com/ZacSweers/mavericks/commit/8b521b72a546f602d50ee7c24af81cc8b8e08418) to [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks): "Fix syntax in README"
+
+**2021-04-15** — commented on [#382](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/382#issuecomment-820549128) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
+**2021-04-15** — opened issue [#382](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/382) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "AGP 7 incompatibilities"
+
 **2021-04-14** — opened issue [#251](https://api.github.com/repos/square/anvil/issues/251) on [square/anvil](https://api.github.com/repos/square/anvil): "where clauses not handled correctly"
 
 **2021-04-14** — commented on [#1833](https://github.com/Kotlin/dokka/issues/1833#issuecomment-819740287) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-13** — opened issue [#16819](https://api.github.com/repos/gradle/gradle/issues/16819) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
 
 **2021-04-13** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-819012339) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-13** — pushed [`a86804a6`](https://github.com/ZacSweers/MoshiX/commit/a86804a60bb90186c77b1b98e59e2c18fb827e26) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme (#102)"
-
-**2021-04-13** — closed PR [#102](https://api.github.com/repos/ZacSweers/MoshiX/pulls/102) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add link to Moshi in Readme"
-
-**2021-04-13** — commented on [#461](https://github.com/JLLeitschuh/ktlint-gradle/issues/461#issuecomment-818956396) in [JLLeitschuh/ktlint-gradle](https://api.github.com/repos/JLLeitschuh/ktlint-gradle)
-
-**2021-04-13** — deleted branch "z/projectInsteadOfMain" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-04-13** — pushed [`e37f77db`](https://github.com/uber/AutoDispose/commit/e37f77db94b723aeb5438ed35c2d26a619653027) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Use project instead of mainProject (#444)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
