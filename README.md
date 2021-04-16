@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-16** — pushed [`a22acc80`](https://github.com/uber/RxDogTag/commit/a22acc80e831efd8bc3c8918628a83dd86af9f02) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README (#70)"
+
+**2021-04-16** — closed PR [#70](https://api.github.com/repos/uber/RxDogTag/pulls/70) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README"
+
 **2021-04-16** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820916053) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-15** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820787715) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-15** — pushed [`8b521b72`](https://github.com/ZacSweers/mavericks/commit/8b521b72a546f602d50ee7c24af81cc8b8e08418) to [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks): "Fix syntax in README"
 
 **2021-04-15** — commented on [#382](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/382#issuecomment-820549128) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2021-04-15** — opened issue [#382](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/382) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "AGP 7 incompatibilities"
-
-**2021-04-14** — opened issue [#251](https://api.github.com/repos/square/anvil/issues/251) on [square/anvil](https://api.github.com/repos/square/anvil): "where clauses not handled correctly"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
