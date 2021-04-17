@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-17** — commented on [#935](https://github.com/Triple-T/gradle-play-publisher/issues/935#issuecomment-821893979) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
+
+**2021-04-17** — opened issue [#384](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/384) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "versionCode is always resolved at configuration time"
+
+**2021-04-17** — opened issue [#935](https://api.github.com/repos/Triple-T/gradle-play-publisher/issues/935) on [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher): "Request: rename bootstrap task something more specific"
+
 **2021-04-17** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-821880395) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-17** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-821857356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-15** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820787715) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-15** — closed issue [#445](https://api.github.com/repos/uber/AutoDispose/issues/445) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Unusable with lint 7.0.0-alpha14 (Jetpack Compose project)"
-
-**2021-04-15** — commented on [#445](https://github.com/uber/AutoDispose/issues/445#issuecomment-820781170) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-04-15** — deleted branch "patch-1" on [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks)
-
-**2021-04-15** — opened PR [#536](https://api.github.com/repos/airbnb/mavericks/pulls/536) to [airbnb/mavericks](https://api.github.com/repos/airbnb/mavericks): "Fix syntax in README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
