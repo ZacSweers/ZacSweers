@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-17** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-821880395) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-04-17** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-821857356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-04-16** — pushed [`a22acc80`](https://github.com/uber/RxDogTag/commit/a22acc80e831efd8bc3c8918628a83dd86af9f02) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README (#70)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-15** — deleted branch "patch-1" on [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks)
 
 **2021-04-15** — opened PR [#536](https://api.github.com/repos/airbnb/mavericks/pulls/536) to [airbnb/mavericks](https://api.github.com/repos/airbnb/mavericks): "Fix syntax in README"
-
-**2021-04-15** — pushed [`8b521b72`](https://github.com/ZacSweers/mavericks/commit/8b521b72a546f602d50ee7c24af81cc8b8e08418) to [ZacSweers/mavericks](https://api.github.com/repos/ZacSweers/mavericks): "Fix syntax in README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
