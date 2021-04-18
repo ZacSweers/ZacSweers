@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822022149) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822021382) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-04-17** — commented on [#935](https://github.com/Triple-T/gradle-play-publisher/issues/935#issuecomment-821893979) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-16** — closed PR [#70](https://api.github.com/repos/uber/RxDogTag/pulls/70) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README"
 
 **2021-04-16** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820916053) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-15** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820787715) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
