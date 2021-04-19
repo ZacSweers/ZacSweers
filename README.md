@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-19** — pushed [`0e2c173f`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0e2c173f9fc25bfae91cc7282018455567f5b89b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update .github/workflows/ci.yml"
+
+**2021-04-19** — opened PR [#50](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/50) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC"
+
+**2021-04-19** — pushed [`038995be`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/038995be982893689a08384b6a1360318b9c25dc) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update setup-java action"
+
+**2021-04-19** — created branch "z/moreUpdates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822022149) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822021382) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-17** — opened issue [#935](https://api.github.com/repos/Triple-T/gradle-play-publisher/issues/935) on [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher): "Request: rename bootstrap task something more specific"
 
 **2021-04-17** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-821880395) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-04-17** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-821857356) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-16** — pushed [`a22acc80`](https://github.com/uber/RxDogTag/commit/a22acc80e831efd8bc3c8918628a83dd86af9f02) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README (#70)"
-
-**2021-04-16** — closed PR [#70](https://api.github.com/repos/uber/RxDogTag/pulls/70) to [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Fix broken link on README"
-
-**2021-04-16** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-820916053) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
