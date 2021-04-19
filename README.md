@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-19** — pushed [`effe6f07`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/effe6f0712d678ac79c57050e4af4e8b769fd21f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC (#50)"
+
+**2021-04-19** — deleted branch "z/moreUpdates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-04-19** — closed PR [#50](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/50) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC"
+
 **2021-04-19** — pushed [`0e2c173f`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0e2c173f9fc25bfae91cc7282018455567f5b89b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update .github/workflows/ci.yml"
 
 **2021-04-19** — opened PR [#50](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/50) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822021382) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-04-17** — commented on [#935](https://github.com/Triple-T/gradle-play-publisher/issues/935#issuecomment-821893979) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
-
-**2021-04-17** — opened issue [#384](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin/issues/384) on [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin): "versionCode is always resolved at configuration time"
-
-**2021-04-17** — opened issue [#935](https://api.github.com/repos/Triple-T/gradle-play-publisher/issues/935) on [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher): "Request: rename bootstrap task something more specific"
-
-**2021-04-17** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-821880395) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
