@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823002382) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823002081) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-04-19** — pushed [`effe6f07`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/effe6f0712d678ac79c57050e4af4e8b769fd21f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC (#50)"
 
 **2021-04-19** — deleted branch "z/moreUpdates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-19** — created branch "z/moreUpdates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822022149) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-18** — commented on [#1062](https://github.com/square/kotlinpoet/issues/1062#issuecomment-822021382) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-17** — commented on [#935](https://github.com/Triple-T/gradle-play-publisher/issues/935#issuecomment-821893979) in [Triple-T/gradle-play-publisher](https://api.github.com/repos/Triple-T/gradle-play-publisher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
