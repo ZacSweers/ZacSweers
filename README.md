@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-20** — commented on [#2893](https://github.com/JetBrains/kotlin/pull/2893#issuecomment-823575440) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
+
 **2021-04-20** — pushed [`c45415d1`](https://github.com/ZacSweers/MoshiX/commit/c45415d184ecbbcf0ba1429d6494a2483100cd73) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mention `com.google.devtools.ksp` in the KSP README (#105)"
 
 **2021-04-20** — closed PR [#105](https://api.github.com/repos/ZacSweers/MoshiX/pulls/105) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mention `com.google.devtools.ksp` in the KSP README"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823002081) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-19** — pushed [`effe6f07`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/effe6f0712d678ac79c57050e4af4e8b769fd21f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC (#50)"
-
-**2021-04-19** — deleted branch "z/moreUpdates" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
