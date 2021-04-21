@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823814136) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
+**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823811172) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
+**2021-04-21** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-823808991) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823808121) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+
 **2021-04-20** — commented on [#2893](https://github.com/JetBrains/kotlin/pull/2893#issuecomment-823575440) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
 
 **2021-04-20** — pushed [`c45415d1`](https://github.com/ZacSweers/MoshiX/commit/c45415d184ecbbcf0ba1429d6494a2483100cd73) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mention `com.google.devtools.ksp` in the KSP README (#105)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-20** — closed issue [#104](https://api.github.com/repos/ZacSweers/MoshiX/issues/104) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP generation fails for a class with no package"
 
 **2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823296467) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-20** — commented on [#1064](https://github.com/square/kotlinpoet/pull/1064#issuecomment-823295959) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823002382) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823002081) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-19** — pushed [`effe6f07`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/effe6f0712d678ac79c57050e4af4e8b769fd21f) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI testing to 1.5.0-RC (#50)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
