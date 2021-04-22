@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-22** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-825127098) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-04-22** — created tag "0.4.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-04-22** — pushed 3 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-22** — closed PR [#13](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/13) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs"
 
 **2021-04-22** — created branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2021-04-22** — deleted branch "z/kspUpdate" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
