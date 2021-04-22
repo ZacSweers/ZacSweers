@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823814136) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+**2021-04-22** — created tag "0.4.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823811172) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+**2021-04-22** — pushed 3 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-04-21** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-823808991) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2021-04-22** — created tag "0.4.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-04-21** — commented on [#3544](https://github.com/square/retrofit/pull/3544#issuecomment-823808121) in [square/retrofit](https://api.github.com/repos/square/retrofit)
+**2021-04-22** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-04-20** — commented on [#2893](https://github.com/JetBrains/kotlin/pull/2893#issuecomment-823575440) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
+**2021-04-22** — opened PR [#140](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/140) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to alpha08 and adopt new ProcessorProvider API"
 
-**2021-04-20** — pushed [`c45415d1`](https://github.com/ZacSweers/MoshiX/commit/c45415d184ecbbcf0ba1429d6494a2483100cd73) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mention `com.google.devtools.ksp` in the KSP README (#105)"
+**2021-04-22** — pushed [`8d42a000`](https://github.com/ZacSweers/auto-service-ksp/commit/8d42a000b54ea85b3fb891fa4f40c6c69cb4a7af) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs (#13)"
 
-**2021-04-20** — closed PR [#105](https://api.github.com/repos/ZacSweers/MoshiX/pulls/105) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Mention `com.google.devtools.ksp` in the KSP README"
+**2021-04-22** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-04-20** — pushed [`ec20ec61`](https://github.com/martinbonnin/MoshiX/commit/ec20ec61e070e87b2af261d9fa0ddd97da5430bf) to [martinbonnin/MoshiX](https://api.github.com/repos/martinbonnin/MoshiX): "Update moshi-ksp/README.md"
+**2021-04-22** — closed PR [#13](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/13) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs"
 
-**2021-04-20** — closed issue [#104](https://api.github.com/repos/ZacSweers/MoshiX/issues/104) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSP generation fails for a class with no package"
+**2021-04-22** — created branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
-**2021-04-20** — commented on [#104](https://github.com/ZacSweers/MoshiX/issues/104#issuecomment-823296467) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-04-22** — deleted branch "z/kspUpdate" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
