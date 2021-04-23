@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-23** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-825405963) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-04-23** — commented on [#2570](https://github.com/google/dagger/issues/2570#issuecomment-825398479) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-04-23** — opened issue [#2570](https://api.github.com/repos/google/dagger/issues/2570) on [google/dagger](https://api.github.com/repos/google/dagger): "Invalid code generated when combining (sub)component factories and assisted inject"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-22** — opened PR [#140](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/140) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to alpha08 and adopt new ProcessorProvider API"
 
 **2021-04-22** — pushed [`8d42a000`](https://github.com/ZacSweers/auto-service-ksp/commit/8d42a000b54ea85b3fb891fa4f40c6c69cb4a7af) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs (#13)"
-
-**2021-04-22** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
