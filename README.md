@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-23** — commented on [#2574](https://github.com/google/dagger/issues/2574#issuecomment-825881356) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-04-23** — commented on [#1064](https://github.com/square/kotlinpoet/pull/1064#issuecomment-825780732) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-04-23** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-825405963) in [google/dagger](https://api.github.com/repos/google/dagger)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-22** — created tag "0.4.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-04-22** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-04-22** — opened PR [#140](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/140) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to alpha08 and adopt new ProcessorProvider API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
