@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-23** — commented on [#2570](https://github.com/google/dagger/issues/2570#issuecomment-825398479) in [google/dagger](https://api.github.com/repos/google/dagger)
+
+**2021-04-23** — opened issue [#2570](https://api.github.com/repos/google/dagger/issues/2570) on [google/dagger](https://api.github.com/repos/google/dagger): "Invalid code generated when combining (sub)component factories and assisted inject"
+
 **2021-04-22** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-825127098) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-04-22** — created tag "0.4.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-22** — pushed [`8d42a000`](https://github.com/ZacSweers/auto-service-ksp/commit/8d42a000b54ea85b3fb891fa4f40c6c69cb4a7af) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs (#13)"
 
 **2021-04-22** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-04-22** — closed PR [#13](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/13) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KSP and use new provider APIs"
-
-**2021-04-22** — created branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
