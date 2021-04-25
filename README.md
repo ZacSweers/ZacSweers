@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-25** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-826376734) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-04-23** — commented on [#2574](https://github.com/google/dagger/issues/2574#issuecomment-825881356) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-04-23** — commented on [#1064](https://github.com/square/kotlinpoet/pull/1064#issuecomment-825780732) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-22** — pushed 3 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
 **2021-04-22** — created tag "0.4.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-04-22** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
