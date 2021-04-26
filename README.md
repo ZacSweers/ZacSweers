@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827008916) in [uber/stylist](https://api.github.com/repos/uber/stylist)
+
 **2021-04-26** — closed issue [#1071](https://api.github.com/repos/square/kotlinpoet/issues/1071) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Plugin version (1.4.32) is not the same as library version (1.4.10) "
 
 **2021-04-26** — commented on [#1071](https://github.com/square/kotlinpoet/issues/1071#issuecomment-826797804) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-23** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-825405963) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-04-23** — commented on [#2570](https://github.com/google/dagger/issues/2570#issuecomment-825398479) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-04-23** — opened issue [#2570](https://api.github.com/repos/google/dagger/issues/2570) on [google/dagger](https://api.github.com/repos/google/dagger): "Invalid code generated when combining (sub)component factories and assisted inject"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
