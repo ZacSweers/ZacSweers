@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-26** — closed issue [#1337](https://api.github.com/repos/square/moshi/issues/1337) on [square/moshi](https://api.github.com/repos/square/moshi): "1.5.0 kotlin does not compile"
+
+**2021-04-26** — commented on [#1337](https://github.com/square/moshi/issues/1337#issuecomment-827140824) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827046072) in [uber/stylist](https://api.github.com/repos/uber/stylist)
 
 **2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827008916) in [uber/stylist](https://api.github.com/repos/uber/stylist)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-25** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-826376734) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-23** — commented on [#2574](https://github.com/google/dagger/issues/2574#issuecomment-825881356) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-04-23** — commented on [#1064](https://github.com/square/kotlinpoet/pull/1064#issuecomment-825780732) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-23** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-825405963) in [google/dagger](https://api.github.com/repos/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
