@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-26** — closed issue [#1071](https://api.github.com/repos/square/kotlinpoet/issues/1071) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Plugin version (1.4.32) is not the same as library version (1.4.10) "
+
+**2021-04-26** — commented on [#1071](https://github.com/square/kotlinpoet/issues/1071#issuecomment-826797804) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-04-26** — opened issue [#258](https://api.github.com/repos/square/anvil/issues/258) on [square/anvil](https://api.github.com/repos/square/anvil): "Feature Request: Support generation-only mode"
 
 **2021-04-25** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-826395455) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-23** — commented on [#2570](https://github.com/google/dagger/issues/2570#issuecomment-825398479) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-04-23** — opened issue [#2570](https://api.github.com/repos/google/dagger/issues/2570) on [google/dagger](https://api.github.com/repos/google/dagger): "Invalid code generated when combining (sub)component factories and assisted inject"
-
-**2021-04-22** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-825127098) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-04-22** — created tag "0.4.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
