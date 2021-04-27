@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-27** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
+
 **2021-04-26** — closed issue [#1337](https://api.github.com/repos/square/moshi/issues/1337) on [square/moshi](https://api.github.com/repos/square/moshi): "1.5.0 kotlin does not compile"
 
 **2021-04-26** — commented on [#1337](https://github.com/square/moshi/issues/1337#issuecomment-827140824) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-25** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-826395455) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-04-25** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-826376734) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-04-23** — commented on [#2574](https://github.com/google/dagger/issues/2574#issuecomment-825881356) in [google/dagger](https://api.github.com/repos/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
