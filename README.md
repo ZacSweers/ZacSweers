@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-27** — closed issue [#7](https://api.github.com/repos/google/ksp/issues/7) on [google/ksp](https://api.github.com/repos/google/ksp): "Feature request: Logging APIs"
+
+**2021-04-27** — commented on [#7](https://github.com/google/ksp/issues/7#issuecomment-828023836) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-04-27** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-828022355) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-27** — opened issue [#403](https://api.github.com/repos/google/ksp/issues/403) on [google/ksp](https://api.github.com/repos/google/ksp): "Kotlin 1.5.0 support"
+
 **2021-04-27** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
 
 **2021-04-26** — closed issue [#1337](https://api.github.com/repos/square/moshi/issues/1337) on [square/moshi](https://api.github.com/repos/square/moshi): "1.5.0 kotlin does not compile"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827008916) in [uber/stylist](https://api.github.com/repos/uber/stylist)
 
 **2021-04-26** — closed issue [#1071](https://api.github.com/repos/square/kotlinpoet/issues/1071) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Plugin version (1.4.32) is not the same as library version (1.4.10) "
-
-**2021-04-26** — commented on [#1071](https://github.com/square/kotlinpoet/issues/1071#issuecomment-826797804) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-04-26** — opened issue [#258](https://api.github.com/repos/square/anvil/issues/258) on [square/anvil](https://api.github.com/repos/square/anvil): "Feature Request: Support generation-only mode"
-
-**2021-04-25** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-826395455) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-04-25** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-826376734) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
