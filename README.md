@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-27** — opened PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
+
+**2021-04-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-04-27** — pushed [`6919b752`](https://github.com/slackhq/EitherNet/commit/6919b75225ae7762242384238d8552fe9c3b51a7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update secrets"
+
+**2021-04-27** — pushed [`f2f22e75`](https://github.com/slackhq/moshi-gson-interop/commit/f2f22e75bab81667509bb2cc23004533c2cb2e30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update secrets"
+
+**2021-04-27** — deleted branch "z/reproExclusiveContentIssue" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-04-27** — closed PR [#30](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Repro exclusiveContent issue"
+
 **2021-04-27** — closed issue [#7](https://api.github.com/repos/google/ksp/issues/7) on [google/ksp](https://api.github.com/repos/google/ksp): "Feature request: Logging APIs"
 
 **2021-04-27** — commented on [#7](https://github.com/google/ksp/issues/7#issuecomment-828023836) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-27** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-828022355) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-27** — opened issue [#403](https://api.github.com/repos/google/ksp/issues/403) on [google/ksp](https://api.github.com/repos/google/ksp): "Kotlin 1.5.0 support"
-
-**2021-04-27** — deleted branch "patch-1" on [ZacSweers/detekt](https://api.github.com/repos/ZacSweers/detekt)
-
-**2021-04-26** — closed issue [#1337](https://api.github.com/repos/square/moshi/issues/1337) on [square/moshi](https://api.github.com/repos/square/moshi): "1.5.0 kotlin does not compile"
-
-**2021-04-26** — commented on [#1337](https://github.com/square/moshi/issues/1337#issuecomment-827140824) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827046072) in [uber/stylist](https://api.github.com/repos/uber/stylist)
-
-**2021-04-26** — commented on [#27](https://github.com/uber/stylist/pull/27#issuecomment-827008916) in [uber/stylist](https://api.github.com/repos/uber/stylist)
-
-**2021-04-26** — closed issue [#1071](https://api.github.com/repos/square/kotlinpoet/issues/1071) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Plugin version (1.4.32) is not the same as library version (1.4.10) "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
