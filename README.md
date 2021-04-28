@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-28** — commented on [#3610](https://github.com/JetBrains/kotlin/pull/3610#issuecomment-828435374) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
+
 **2021-04-28** — deleted branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-04-28** — opened PR [#406](https://api.github.com/repos/google/ksp/pulls/406) to [google/ksp](https://api.github.com/repos/google/ksp): "Add FUN and VALUE to Modifier.kt"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-04-27** — pushed [`6919b752`](https://github.com/slackhq/EitherNet/commit/6919b75225ae7762242384238d8552fe9c3b51a7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update secrets"
-
-**2021-04-27** — pushed [`f2f22e75`](https://github.com/slackhq/moshi-gson-interop/commit/f2f22e75bab81667509bb2cc23004533c2cb2e30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update secrets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
