@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-28** — deleted branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
+**2021-04-28** — opened PR [#406](https://api.github.com/repos/google/ksp/pulls/406) to [google/ksp](https://api.github.com/repos/google/ksp): "Add FUN and VALUE to Modifier.kt"
+
+**2021-04-28** — opened PR [#405](https://api.github.com/repos/google/ksp/pulls/405) to [google/ksp](https://api.github.com/repos/google/ksp): "Make SymbolProcessorProvider a fun interface"
+
+**2021-04-28** — created branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
+**2021-04-28** — created branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-04-28** — pushed 64 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
 
 **2021-04-27** — opened PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-27** — pushed [`6919b752`](https://github.com/slackhq/EitherNet/commit/6919b75225ae7762242384238d8552fe9c3b51a7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update secrets"
 
 **2021-04-27** — pushed [`f2f22e75`](https://github.com/slackhq/moshi-gson-interop/commit/f2f22e75bab81667509bb2cc23004533c2cb2e30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update secrets"
-
-**2021-04-27** — deleted branch "z/reproExclusiveContentIssue" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-04-27** — closed PR [#30](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/30) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Repro exclusiveContent issue"
-
-**2021-04-27** — closed issue [#7](https://api.github.com/repos/google/ksp/issues/7) on [google/ksp](https://api.github.com/repos/google/ksp): "Feature request: Logging APIs"
-
-**2021-04-27** — commented on [#7](https://github.com/google/ksp/issues/7#issuecomment-828023836) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-04-27** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-828022355) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
