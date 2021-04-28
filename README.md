@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-28** — commented on [#383](https://github.com/google/ksp/pull/383#issuecomment-828560735) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-04-28** — commented on [#3610](https://github.com/JetBrains/kotlin/pull/3610#issuecomment-828435374) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
 
 **2021-04-28** — deleted branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-27** — opened PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
 
 **2021-04-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-04-27** — pushed [`6919b752`](https://github.com/slackhq/EitherNet/commit/6919b75225ae7762242384238d8552fe9c3b51a7) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update secrets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
