@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-29** — pushed [`4d41c6fe`](https://github.com/ZacSweers/auto-service-ksp/commit/4d41c6fe42e9268d1f71fff2cd68b29832a2a0ce) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Cleanups"
+
+**2021-04-29** — pushed [`047fa322`](https://github.com/ZacSweers/auto-service-ksp/commit/047fa3220dbbf4ee1000d2daeb1b754510311c66) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Use auto-service-ksp in auto-service-ksp"
+
+**2021-04-29** — opened PR [#14](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/14) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to Kotlin 1.5.0"
+
+**2021-04-29** — created branch "z/150" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
 **2021-04-29** — closed issue [#78](https://api.github.com/repos/slackhq/keeper/issues/78) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Incompatible with androidx ActivityScenarioRule"
 
 **2021-04-29** — commented on [#78](https://github.com/slackhq/keeper/issues/78#issuecomment-829724919) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-28** — deleted branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-04-28** — opened PR [#406](https://api.github.com/repos/google/ksp/pulls/406) to [google/ksp](https://api.github.com/repos/google/ksp): "Add FUN and VALUE to Modifier.kt"
-
-**2021-04-28** — opened PR [#405](https://api.github.com/repos/google/ksp/pulls/405) to [google/ksp](https://api.github.com/repos/google/ksp): "Make SymbolProcessorProvider a fun interface"
-
-**2021-04-28** — created branch "z/funProvider" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-04-28** — created branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-04-28** — pushed 64 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
