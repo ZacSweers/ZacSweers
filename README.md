@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-04-29** — closed issue [#78](https://api.github.com/repos/slackhq/keeper/issues/78) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Incompatible with androidx ActivityScenarioRule"
+
+**2021-04-29** — commented on [#78](https://github.com/slackhq/keeper/issues/78#issuecomment-829724919) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-04-28** — commented on [#383](https://github.com/google/ksp/pull/383#issuecomment-828560735) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-04-28** — commented on [#3610](https://github.com/JetBrains/kotlin/pull/3610#issuecomment-828435374) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-28** — created branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-04-28** — pushed 64 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
-
-**2021-04-27** — opened PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
-
-**2021-04-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
