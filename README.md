@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-02** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-830925147) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
+
 **2021-05-01** — pushed [`45c8595b`](https://github.com/ZacSweers/moshi/commit/45c8595bfa4fb03c91723d88d2a004d9832ae220) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0 (#1334)"
 
 **2021-04-30** — created tag "0.5.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-29** — pushed [`4d41c6fe`](https://github.com/ZacSweers/auto-service-ksp/commit/4d41c6fe42e9268d1f71fff2cd68b29832a2a0ce) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Cleanups"
 
 **2021-04-29** — pushed [`047fa322`](https://github.com/ZacSweers/auto-service-ksp/commit/047fa3220dbbf4ee1000d2daeb1b754510311c66) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Use auto-service-ksp in auto-service-ksp"
-
-**2021-04-29** — opened PR [#14](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/14) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to Kotlin 1.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
