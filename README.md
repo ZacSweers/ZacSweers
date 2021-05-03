@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-03** — commented on [#108](https://github.com/ZacSweers/MoshiX/pull/108#issuecomment-831287811) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-03** — pushed [`d18e87e7`](https://github.com/ZacSweers/MoshiX/commit/d18e87e73d69fee81bbfb1aa5d10b4b620e3ed61) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README (#108)"
+
+**2021-05-03** — closed PR [#108](https://api.github.com/repos/ZacSweers/MoshiX/pulls/108) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README"
+
+**2021-05-03** — pushed [`ae4ec6d8`](https://github.com/eneim/MoshiX/commit/ae4ec6d89633edeb538f10c3a5be91e8a6940f4d) to [eneim/MoshiX](https://api.github.com/repos/eneim/MoshiX): "Update README.md"
+
 **2021-05-03** — pushed [`c2edb58a`](https://github.com/ZacSweers/MoshiX/commit/c2edb58a044620f7d3ec56a704d29a62cdbc45a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Set release version"
 
 **2021-05-03** — pushed [`5f543c7c`](https://github.com/ZacSweers/MoshiX/commit/5f543c7ce07de5d950c99eef0ab118ce7194cc31) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add value class test"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-03** — pushed [`01396eb7`](https://github.com/ZacSweers/MoshiX/commit/01396eb76385efabec75063083b5acd2dee80223) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI kotlin version"
 
 **2021-05-02** — pushed [`c13a014b`](https://github.com/ZacSweers/MoshiX/commit/c13a014bbb499b3a357397304013ea2fe9a4a82f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update target version"
-
-**2021-05-02** — pushed [`9a266d0b`](https://github.com/ZacSweers/MoshiX/commit/9a266d0bbcd8260465e57ba35112f3da7c0289b2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Promote kotlin sealed types to sample"
-
-**2021-05-02** — pushed 15 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-05-02** — opened issue [#603](https://api.github.com/repos/google/google-java-format/issues/603) on [google/google-java-format](https://api.github.com/repos/google/google-java-format): "Sealed classes - error: expected token: 'sealed'; generated class instead"
-
-**2021-05-02** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-830925147) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
