@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-02** — pushed [`c13a014b`](https://github.com/ZacSweers/MoshiX/commit/c13a014bbb499b3a357397304013ea2fe9a4a82f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update target version"
+
+**2021-05-02** — pushed [`9a266d0b`](https://github.com/ZacSweers/MoshiX/commit/9a266d0bbcd8260465e57ba35112f3da7c0289b2) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Promote kotlin sealed types to sample"
+
+**2021-05-02** — pushed 15 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-05-02** — opened issue [#603](https://api.github.com/repos/google/google-java-format/issues/603) on [google/google-java-format](https://api.github.com/repos/google/google-java-format): "Sealed classes - error: expected token: 'sealed'; generated class instead"
+
 **2021-05-02** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-830925147) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
 
 **2021-05-01** — pushed [`45c8595b`](https://github.com/ZacSweers/moshi/commit/45c8595bfa4fb03c91723d88d2a004d9832ae220) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Update to Gradle 7 + Kotlin 1.4.32 + AutoService 1.0 (#1334)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-04-29** — pushed [`3fad70ad`](https://github.com/ZacSweers/auto-service-ksp/commit/3fad70ad0cf48400b774cb51b3b277c07f893e1a) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to Kotlin 1.5.0 (#14)"
 
 **2021-04-29** — deleted branch "z/150" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-04-29** — closed PR [#14](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/14) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to Kotlin 1.5.0"
-
-**2021-04-29** — pushed [`00affb63`](https://github.com/ZacSweers/auto-service-ksp/commit/00affb631c81bd6b43172c399b26b2783f1c414a) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "CI cleanup"
-
-**2021-04-29** — pushed [`4d41c6fe`](https://github.com/ZacSweers/auto-service-ksp/commit/4d41c6fe42e9268d1f71fff2cd68b29832a2a0ce) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Cleanups"
-
-**2021-04-29** — pushed [`047fa322`](https://github.com/ZacSweers/auto-service-ksp/commit/047fa3220dbbf4ee1000d2daeb1b754510311c66) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Use auto-service-ksp in auto-service-ksp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
