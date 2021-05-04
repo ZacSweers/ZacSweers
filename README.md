@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
+**2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
+**2021-05-04** — opened PR [#51](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/51) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0"
+
+**2021-05-04** — created branch "z/kotlin150" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-05-03** — commented on [#108](https://github.com/ZacSweers/MoshiX/pull/108#issuecomment-831287811) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-03** — pushed [`d18e87e7`](https://github.com/ZacSweers/MoshiX/commit/d18e87e73d69fee81bbfb1aa5d10b4b620e3ed61) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README (#108)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-03** — pushed [`c2edb58a`](https://github.com/ZacSweers/MoshiX/commit/c2edb58a044620f7d3ec56a704d29a62cdbc45a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Set release version"
 
 **2021-05-03** — pushed [`5f543c7c`](https://github.com/ZacSweers/MoshiX/commit/5f543c7ce07de5d950c99eef0ab118ce7194cc31) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add value class test"
-
-**2021-05-03** — pushed [`e1c0eaec`](https://github.com/ZacSweers/MoshiX/commit/e1c0eaecf853f1d444ab92a70587f2f3234ee3fe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix test"
-
-**2021-05-03** — pushed [`d6fd09b0`](https://github.com/ZacSweers/MoshiX/commit/d6fd09b0650b28f6ec71f2252255accf6fd03d14) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix warnings"
-
-**2021-05-03** — pushed [`01396eb7`](https://github.com/ZacSweers/MoshiX/commit/01396eb76385efabec75063083b5acd2dee80223) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI kotlin version"
-
-**2021-05-02** — pushed [`c13a014b`](https://github.com/ZacSweers/MoshiX/commit/c13a014bbb499b3a357397304013ea2fe9a4a82f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update target version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
