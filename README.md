@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-04** — pushed [`2c53e2bf`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/2c53e2bf754b5ef324f029b09b973a37c9153f56) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0 (#51)"
+
+**2021-05-04** — deleted branch "z/kotlin150" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-05-04** — closed PR [#51](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/51) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0"
+
 **2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
 **2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-03** — pushed [`d18e87e7`](https://github.com/ZacSweers/MoshiX/commit/d18e87e73d69fee81bbfb1aa5d10b4b620e3ed61) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README (#108)"
 
 **2021-05-03** — closed PR [#108](https://api.github.com/repos/ZacSweers/MoshiX/pulls/108) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README"
-
-**2021-05-03** — pushed [`ae4ec6d8`](https://github.com/eneim/MoshiX/commit/ae4ec6d89633edeb538f10c3a5be91e8a6940f4d) to [eneim/MoshiX](https://api.github.com/repos/eneim/MoshiX): "Update README.md"
-
-**2021-05-03** — pushed [`c2edb58a`](https://github.com/ZacSweers/MoshiX/commit/c2edb58a044620f7d3ec56a704d29a62cdbc45a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Set release version"
-
-**2021-05-03** — pushed [`5f543c7c`](https://github.com/ZacSweers/MoshiX/commit/5f543c7ce07de5d950c99eef0ab118ce7194cc31) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add value class test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
