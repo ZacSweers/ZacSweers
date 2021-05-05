@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — pushed [`b597bfce`](https://github.com/ZacSweers/auto-service-kt/commit/b597bfcefb5f02092e31f76653074c987570b6a1) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rename test"
+
+**2021-05-05** — pushed [`a27dad8d`](https://github.com/ZacSweers/auto-service-kt/commit/a27dad8d6e217647c29867f62b48b02a63295dad) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Add missing files"
+
+**2021-05-05** — commented on [#23](https://github.com/slackhq/EitherNet/pull/23#issuecomment-832440198) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-05-05** — opened issue [#4](https://api.github.com/repos/ZacSweers/auto-service-kt/issues/4) on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Get it working with IR enabled"
+
+**2021-05-05** — opened issue [#3](https://api.github.com/repos/ZacSweers/auto-service-kt/issues/3) on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Modify existing resource files"
+
+**2021-05-05** — opened issue [#2](https://api.github.com/repos/ZacSweers/auto-service-kt/issues/2) on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Support verbose option"
+
+**2021-05-05** — opened issue [#1](https://api.github.com/repos/ZacSweers/auto-service-kt/issues/1) on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Support verify option"
+
+**2021-05-05** — created branch "main" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
+
+**2021-05-05** — created repository on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
+
 **2021-05-04** — commented on [#3683](https://github.com/google/guava/pull/3683#issuecomment-832142220) in [google/guava](https://api.github.com/repos/google/guava)
-
-**2021-05-04** — pushed [`2c53e2bf`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/2c53e2bf754b5ef324f029b09b973a37c9153f56) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0 (#51)"
-
-**2021-05-04** — deleted branch "z/kotlin150" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-05-04** — closed PR [#51](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/51) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0"
-
-**2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-05-04** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-05-04** — opened PR [#51](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/51) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.5.0"
-
-**2021-05-04** — created branch "z/kotlin150" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-05-03** — commented on [#108](https://github.com/ZacSweers/MoshiX/pull/108#issuecomment-831287811) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-03** — pushed [`d18e87e7`](https://github.com/ZacSweers/MoshiX/commit/d18e87e73d69fee81bbfb1aa5d10b4b620e3ed61) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix a typo in README (#108)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
