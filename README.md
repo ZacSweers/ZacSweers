@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — deleted branch "z/kotlin150" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
+
+**2021-05-05** — pushed [`c34f51b5`](https://github.com/ZacSweers/auto-service-kt/commit/c34f51b5a047193b478b3050c60916a260efc108) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0 (#5)"
+
+**2021-05-05** — closed PR [#5](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/5) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0"
+
+**2021-05-05** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
+
 **2021-05-05** — pushed [`1f66814e`](https://github.com/ZacSweers/auto-service-kt/commit/1f66814ec282b3350d0e29ca9dac27a680121e0b) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Don't fail-fast"
 
 **2021-05-05** — opened PR [#5](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/5) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — pushed [`bd1f4005`](https://github.com/slackhq/EitherNet/commit/bd1f40053ac126b5cbbd8bad9281ba4fc30fbb81) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "use plus operator from kotlin stdlib (#23)"
 
 **2021-05-05** — closed PR [#23](https://api.github.com/repos/slackhq/EitherNet/pulls/23) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "use plus operator from kotlin stdlib"
-
-**2021-05-05** — commented on [#1078](https://github.com/square/kotlinpoet/issues/1078#issuecomment-832751983) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-05-05** — pushed [`b597bfce`](https://github.com/ZacSweers/auto-service-kt/commit/b597bfcefb5f02092e31f76653074c987570b6a1) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rename test"
-
-**2021-05-05** — pushed [`a27dad8d`](https://github.com/ZacSweers/auto-service-kt/commit/a27dad8d6e217647c29867f62b48b02a63295dad) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Add missing files"
-
-**2021-05-05** — commented on [#23](https://github.com/slackhq/EitherNet/pull/23#issuecomment-832440198) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
