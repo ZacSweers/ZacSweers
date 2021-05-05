@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — pushed [`1b6b3424`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/1b6b3424ed5a694c977fad57b37a698b75408f75) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Readme tweaks"
+
+**2021-05-05** — pushed [`0f4192b8`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0f4192b89f38c970c3b4c2cd2b117c4acf07387c) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking (#3)"
+
+**2021-05-05** — deleted branch "z/tests" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-05** — closed PR [#3](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/3) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking"
+
+**2021-05-05** — pushed [`6d6126ff`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/6d6126ff861143b4a332b85f9d6279d03e98cfe9) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "No need to reclaim memory"
+
+**2021-05-05** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
+
+**2021-05-05** — opened PR [#3](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/3) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking"
+
+**2021-05-05** — created branch "z/tests" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
 **2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 
 **2021-05-05** — created branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-05** — pushed [`c498fba1`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/c498fba1f831093b0329d39d45a7aae3acd22ccb) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Check version at runtime (#2)"
-
-**2021-05-05** — closed PR [#2](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/2) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Check version at runtime"
-
-**2021-05-05** — pushed [`0d133311`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0d133311b96f2c85b75c68376b804c440cba02da) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Remove leftover"
-
-**2021-05-05** — deleted branch "z/kotlin150" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-05** — pushed [`c34f51b5`](https://github.com/ZacSweers/auto-service-kt/commit/c34f51b5a047193b478b3050c60916a260efc108) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0 (#5)"
-
-**2021-05-05** — closed PR [#5](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/5) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0"
-
-**2021-05-05** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
