@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-05** — created branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-05** — pushed [`c498fba1`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/c498fba1f831093b0329d39d45a7aae3acd22ccb) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Check version at runtime (#2)"
+
+**2021-05-05** — closed PR [#2](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/2) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Check version at runtime"
+
+**2021-05-05** — pushed [`0d133311`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0d133311b96f2c85b75c68376b804c440cba02da) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Remove leftover"
+
 **2021-05-05** — deleted branch "z/kotlin150" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
 **2021-05-05** — pushed [`c34f51b5`](https://github.com/ZacSweers/auto-service-kt/commit/c34f51b5a047193b478b3050c60916a260efc108) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0 (#5)"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — closed PR [#5](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/5) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0"
 
 **2021-05-05** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
-
-**2021-05-05** — pushed [`1f66814e`](https://github.com/ZacSweers/auto-service-kt/commit/1f66814ec282b3350d0e29ca9dac27a680121e0b) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Don't fail-fast"
-
-**2021-05-05** — opened PR [#5](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/5) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update to Kotlin 1.5.0"
-
-**2021-05-05** — created branch "z/kotlin150" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-05** — pushed [`bf4ee108`](https://github.com/ZacSweers/auto-service-kt/commit/bf4ee108abb32c09562b797b44971a8ba3a18190) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Ignore .DS_Store"
-
-**2021-05-05** — pushed [`bd1f4005`](https://github.com/slackhq/EitherNet/commit/bd1f40053ac126b5cbbd8bad9281ba4fc30fbb81) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "use plus operator from kotlin stdlib (#23)"
-
-**2021-05-05** — closed PR [#23](https://api.github.com/repos/slackhq/EitherNet/pulls/23) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "use plus operator from kotlin stdlib"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
