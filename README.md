@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — pushed [`3aafecf4`](https://github.com/ZacSweers/auto-service-kt/commit/3aafecf48ca3e7b8de6d57e39dcf9dcbf7b470af) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Fix secrets"
+
 **2021-05-05** — pushed [`1b6b3424`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/1b6b3424ed5a694c977fad57b37a698b75408f75) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Readme tweaks"
 
 **2021-05-05** — pushed [`0f4192b8`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0f4192b89f38c970c3b4c2cd2b117c4acf07387c) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking (#3)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — created branch "z/tests" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 
 **2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-05** — created branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
