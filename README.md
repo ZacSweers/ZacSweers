@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-05** — pushed [`3aafecf4`](https://github.com/ZacSweers/auto-service-kt/commit/3aafecf48ca3e7b8de6d57e39dcf9dcbf7b470af) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Fix secrets"
+**2021-05-05** — commented on [#4](https://github.com/ZacSweers/auto-service-kt/issues/4#issuecomment-833153346) in [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
-**2021-05-05** — pushed [`1b6b3424`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/1b6b3424ed5a694c977fad57b37a698b75408f75) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Readme tweaks"
+**2021-05-05** — opened PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Don't set useOldBackend to true in tests"
 
-**2021-05-05** — pushed [`0f4192b8`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0f4192b89f38c970c3b4c2cd2b117c4acf07387c) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking (#3)"
+**2021-05-05** — created branch "z/irTesting" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
-**2021-05-05** — deleted branch "z/tests" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+**2021-05-05** — pushed [`84e50f4e`](https://github.com/ZacSweers/auto-service-kt/commit/84e50f4e896df4577939675f7c60162346bf4798) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Nix println"
 
-**2021-05-05** — closed PR [#3](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/3) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking"
+**2021-05-05** — pushed [`2150fe6c`](https://github.com/ZacSweers/auto-service-kt/commit/2150fe6c3df69d5d31f81c3eb3f91fba5dad6e05) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update APIs"
 
-**2021-05-05** — pushed [`6d6126ff`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/6d6126ff861143b4a332b85f9d6279d03e98cfe9) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "No need to reclaim memory"
+**2021-05-05** — deleted branch "z/fixes" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
-**2021-05-05** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
+**2021-05-05** — pushed [`8b4c6ad8`](https://github.com/ZacSweers/auto-service-kt/commit/8b4c6ad8715f0deaacd8ffd5096a4f2cc360aae4) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes (#6)"
 
-**2021-05-05** — opened PR [#3](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/3) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add basic smoke tests for version checking"
+**2021-05-05** — closed PR [#6](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/6) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes"
 
-**2021-05-05** — created branch "z/tests" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+**2021-05-05** — opened PR [#6](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/6) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes"
 
-**2021-05-05** — deleted branch "z/checkVersion" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+**2021-05-05** — created branch "z/fixes" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
