@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-06** — commented on [#4](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/4#issuecomment-833208229) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-06** — created tag "1.0.1" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-06** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
+
+**2021-05-05** — pushed [`dd83f2b9`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/dd83f2b9dd4d3358d28fe55741d010c3a5011faf) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Fix incorrect condition in version check (#4)"
+
+**2021-05-05** — closed PR [#4](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/4) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Fix incorrect condition in version check"
+
 **2021-05-05** — pushed [`7ad48628`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/7ad4862822df27a1408fa51f2a5c149b7839c52a) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add caveat about configuration caching"
 
 **2021-05-05** — created tag "1.0.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — closed issue [#1338](https://api.github.com/repos/square/moshi/issues/1338) on [square/moshi](https://api.github.com/repos/square/moshi): "Build fails with Kotlin codegen"
 
 **2021-05-05** — commented on [#1338](https://github.com/square/moshi/issues/1338#issuecomment-833163417) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-05** — commented on [#4](https://github.com/ZacSweers/auto-service-kt/issues/4#issuecomment-833153346) in [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-05** — opened PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Don't set useOldBackend to true in tests"
-
-**2021-05-05** — created branch "z/irTesting" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-05** — pushed [`84e50f4e`](https://github.com/ZacSweers/auto-service-kt/commit/84e50f4e896df4577939675f7c60162346bf4798) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Nix println"
-
-**2021-05-05** — pushed [`2150fe6c`](https://github.com/ZacSweers/auto-service-kt/commit/2150fe6c3df69d5d31f81c3eb3f91fba5dad6e05) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
