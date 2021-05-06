@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-06** — opened issue [#1087](https://api.github.com/repos/google/auto/issues/1087) on [google/auto](https://api.github.com/repos/google/auto): "Feature request: implicitly exclude Kotlin `@Metadata` annotations from being copied"
+
 **2021-05-06** — pushed [`2c072cfb`](https://github.com/square/kotlinpoet/commit/2c072cfb2d06894a75ef5191315c3c19b561c011) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0 (#1079)"
 
 **2021-05-06** — deleted branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-06** — opened PR [#1079](https://api.github.com/repos/square/kotlinpoet/pulls/1079) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0"
 
 **2021-05-06** — pushed [`eb229eb4`](https://github.com/square/kotlinpoet/commit/eb229eb489770e026dc83efed481d4b04a09a8c6) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Co-locate concrete TypeName subtypes in their own files"
-
-**2021-05-06** — created branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
