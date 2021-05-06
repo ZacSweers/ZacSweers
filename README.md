@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — closed issue [#1338](https://api.github.com/repos/square/moshi/issues/1338) on [square/moshi](https://api.github.com/repos/square/moshi): "Build fails with Kotlin codegen"
+
+**2021-05-05** — commented on [#1338](https://github.com/square/moshi/issues/1338#issuecomment-833163417) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-05** — commented on [#4](https://github.com/ZacSweers/auto-service-kt/issues/4#issuecomment-833153346) in [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
 **2021-05-05** — opened PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Don't set useOldBackend to true in tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — pushed [`8b4c6ad8`](https://github.com/ZacSweers/auto-service-kt/commit/8b4c6ad8715f0deaacd8ffd5096a4f2cc360aae4) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes (#6)"
 
 **2021-05-05** — closed PR [#6](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/6) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes"
-
-**2021-05-05** — opened PR [#6](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/6) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes"
-
-**2021-05-05** — created branch "z/fixes" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
