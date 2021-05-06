@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-05** — pushed [`7ad48628`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/7ad4862822df27a1408fa51f2a5c149b7839c52a) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add caveat about configuration caching"
+
+**2021-05-05** — created tag "1.0.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-05** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
+
 **2021-05-05** — closed issue [#1338](https://api.github.com/repos/square/moshi/issues/1338) on [square/moshi](https://api.github.com/repos/square/moshi): "Build fails with Kotlin codegen"
 
 **2021-05-05** — commented on [#1338](https://github.com/square/moshi/issues/1338#issuecomment-833163417) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — pushed [`84e50f4e`](https://github.com/ZacSweers/auto-service-kt/commit/84e50f4e896df4577939675f7c60162346bf4798) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Nix println"
 
 **2021-05-05** — pushed [`2150fe6c`](https://github.com/ZacSweers/auto-service-kt/commit/2150fe6c3df69d5d31f81c3eb3f91fba5dad6e05) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update APIs"
-
-**2021-05-05** — deleted branch "z/fixes" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-05** — pushed [`8b4c6ad8`](https://github.com/ZacSweers/auto-service-kt/commit/8b4c6ad8715f0deaacd8ffd5096a4f2cc360aae4) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes (#6)"
-
-**2021-05-05** — closed PR [#6](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/6) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Misc cleanups and fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
