@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-06** — opened PR [#1079](https://api.github.com/repos/square/kotlinpoet/pulls/1079) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0"
+
+**2021-05-06** — pushed [`eb229eb4`](https://github.com/square/kotlinpoet/commit/eb229eb489770e026dc83efed481d4b04a09a8c6) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Co-locate concrete TypeName subtypes in their own files"
+
+**2021-05-06** — created branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-05-06** — commented on [#4](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/4#issuecomment-833208229) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 
 **2021-05-06** — created tag "1.0.1" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-05** — pushed [`7ad48628`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/7ad4862822df27a1408fa51f2a5c149b7839c52a) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add caveat about configuration caching"
 
 **2021-05-05** — created tag "1.0.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-05** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
-
-**2021-05-05** — closed issue [#1338](https://api.github.com/repos/square/moshi/issues/1338) on [square/moshi](https://api.github.com/repos/square/moshi): "Build fails with Kotlin codegen"
-
-**2021-05-05** — commented on [#1338](https://github.com/square/moshi/issues/1338#issuecomment-833163417) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
