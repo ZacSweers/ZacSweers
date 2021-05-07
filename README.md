@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-06** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-833972760) in [google/auto](https://api.github.com/repos/google/auto)
+
 **2021-05-06** — opened issue [#109](https://api.github.com/repos/ZacSweers/MoshiX/issues/109) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Kotlin inline/value classes"
 
 **2021-05-06** — commented on [#1170](https://github.com/square/moshi/issues/1170#issuecomment-833914570) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-06** — commented on [#382](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/382#issuecomment-833584145) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
 
 **2021-05-06** — opened PR [#1339](https://api.github.com/repos/square/moshi/pulls/1339) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps)"
-
-**2021-05-06** — created branch "z/kotlin15" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
