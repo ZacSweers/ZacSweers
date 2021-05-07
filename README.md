@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-07** — pushed [`e3437515`](https://github.com/square/moshi/commit/e3437515933f0a3a7e38da53dbf4cdfe4245fc89) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps) (#1339)"
+
+**2021-05-07** — deleted branch "z/kotlin15" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-05-07** — closed PR [#1339](https://api.github.com/repos/square/moshi/pulls/1339) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps)"
+
 **2021-05-06** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-833972760) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2021-05-06** — opened issue [#109](https://api.github.com/repos/ZacSweers/MoshiX/issues/109) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Kotlin inline/value classes"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-06** — deleted branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-05-06** — closed PR [#1079](https://api.github.com/repos/square/kotlinpoet/pulls/1079) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0"
-
-**2021-05-06** — commented on [#1079](https://github.com/square/kotlinpoet/pull/1079#issuecomment-833596124) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-05-06** — commented on [#382](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/382#issuecomment-833584145) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
-
-**2021-05-06** — opened PR [#1339](https://api.github.com/repos/square/moshi/pulls/1339) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
