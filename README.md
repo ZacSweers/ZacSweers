@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-07** — commented on [#1341](https://github.com/square/moshi/issues/1341#issuecomment-834961224) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-07** — pushed [`e3437515`](https://github.com/square/moshi/commit/e3437515933f0a3a7e38da53dbf4cdfe4245fc89) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps) (#1339)"
 
 **2021-05-07** — deleted branch "z/kotlin15" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-06** — pushed [`2c072cfb`](https://github.com/square/kotlinpoet/commit/2c072cfb2d06894a75ef5191315c3c19b561c011) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0 (#1079)"
 
 **2021-05-06** — deleted branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-05-06** — closed PR [#1079](https://api.github.com/repos/square/kotlinpoet/pulls/1079) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
