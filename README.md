@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-08** — pushed [`204a5a71`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/204a5a7156cfd819064e9bdbff31bfba4919b7f4) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Add an extra layer"
+
 **2021-05-08** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-835468400) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-05-08** — commented on [#16779](https://github.com/gradle/gradle/issues/16779#issuecomment-835468280) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
 
 **2021-05-08** — pushed [`0a2646ae`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0a2646ae7eb951eef596eb5e10c79e3afc884f92) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check (#6)"
-
-**2021-05-08** — deleted branch "z/optOut" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
