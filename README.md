@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-08** — closed issue [#1342](https://api.github.com/repos/square/moshi/issues/1342) on [square/moshi](https://api.github.com/repos/square/moshi): "Missing property even it exist in json string."
+
+**2021-05-08** — commented on [#1342](https://github.com/square/moshi/issues/1342#issuecomment-835365475) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-08** — commented on [#5](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/5#issuecomment-835109306) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 
 **2021-05-08** — pushed [`aa615493`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/aa615493d661de0e2bca2d115621148709013886) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Support Configuration Caching. (#5)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-07** — closed PR [#1339](https://api.github.com/repos/square/moshi/pulls/1339) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps)"
 
 **2021-05-06** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-833972760) in [google/auto](https://api.github.com/repos/google/auto)
-
-**2021-05-06** — opened issue [#109](https://api.github.com/repos/ZacSweers/MoshiX/issues/109) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Kotlin inline/value classes"
-
-**2021-05-06** — commented on [#1170](https://github.com/square/moshi/issues/1170#issuecomment-833914570) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
