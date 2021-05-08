@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-08** — created tag "1.1.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-08** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
+
+**2021-05-08** — pushed [`0a2646ae`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0a2646ae7eb951eef596eb5e10c79e3afc884f92) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check (#6)"
+
+**2021-05-08** — deleted branch "z/optOut" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-08** — closed PR [#6](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/6) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check"
+
 **2021-05-08** — opened PR [#6](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/6) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check"
 
 **2021-05-08** — created branch "z/optOut" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — commented on [#1342](https://github.com/square/moshi/issues/1342#issuecomment-835365475) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-08** — commented on [#5](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/5#issuecomment-835109306) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-08** — pushed [`aa615493`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/aa615493d661de0e2bca2d115621148709013886) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Support Configuration Caching. (#5)"
-
-**2021-05-08** — closed PR [#5](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/5) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Support Configuration Caching."
-
-**2021-05-07** — commented on [#1341](https://github.com/square/moshi/issues/1341#issuecomment-834961224) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-07** — pushed [`e3437515`](https://github.com/square/moshi/commit/e3437515933f0a3a7e38da53dbf4cdfe4245fc89) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps) (#1339)"
-
-**2021-05-07** — deleted branch "z/kotlin15" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
