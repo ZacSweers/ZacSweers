@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-08** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-835468400) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-05-08** — commented on [#16779](https://github.com/gradle/gradle/issues/16779#issuecomment-835468280) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-05-08** — opened PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
+
+**2021-05-08** — pushed [`915ae2ce`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/915ae2ced9c194c2263e2ad03433b7b1690fda3c) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Add a test"
+
+**2021-05-08** — created branch "z/propertyOptOut" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
+
+**2021-05-08** — pushed 49 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
+
 **2021-05-08** — created tag "1.1.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 
 **2021-05-08** — pushed 2 commits to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher).
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — pushed [`0a2646ae`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/0a2646ae7eb951eef596eb5e10c79e3afc884f92) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check (#6)"
 
 **2021-05-08** — deleted branch "z/optOut" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-08** — closed PR [#6](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/6) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check"
-
-**2021-05-08** — opened PR [#6](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/6) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Add opt-out for applicability check"
-
-**2021-05-08** — created branch "z/optOut" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
-
-**2021-05-08** — closed issue [#1342](https://api.github.com/repos/square/moshi/issues/1342) on [square/moshi](https://api.github.com/repos/square/moshi): "Missing property even it exist in json string."
-
-**2021-05-08** — commented on [#1342](https://github.com/square/moshi/issues/1342#issuecomment-835365475) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-08** — commented on [#5](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/5#issuecomment-835109306) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
