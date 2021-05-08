@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-08** — commented on [#5](https://github.com/ZacSweers/kgp-150-leak-patcher/pull/5#issuecomment-835109306) in [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
+
+**2021-05-08** — pushed [`aa615493`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/aa615493d661de0e2bca2d115621148709013886) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Support Configuration Caching. (#5)"
+
+**2021-05-08** — closed PR [#5](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/5) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Support Configuration Caching."
+
 **2021-05-07** — commented on [#1341](https://github.com/square/moshi/issues/1341#issuecomment-834961224) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-07** — pushed [`e3437515`](https://github.com/square/moshi/commit/e3437515933f0a3a7e38da53dbf4cdfe4245fc89) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Kotlin 1.5 (and associated deps) (#1339)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-06** — opened issue [#109](https://api.github.com/repos/ZacSweers/MoshiX/issues/109) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support Kotlin inline/value classes"
 
 **2021-05-06** — commented on [#1170](https://github.com/square/moshi/issues/1170#issuecomment-833914570) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-06** — opened issue [#1087](https://api.github.com/repos/google/auto/issues/1087) on [google/auto](https://api.github.com/repos/google/auto): "Feature request: implicitly exclude Kotlin `@Metadata` annotations from being copied"
-
-**2021-05-06** — pushed [`2c072cfb`](https://github.com/square/kotlinpoet/commit/2c072cfb2d06894a75ef5191315c3c19b561c011) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin + kotlinx-metadata to 1.5 and 0.3.0 (#1079)"
-
-**2021-05-06** — deleted branch "z/updates" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
