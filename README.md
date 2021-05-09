@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-09** — commented on [#406](https://github.com/google/ksp/pull/406#issuecomment-835838233) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-05-09** — deleted branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-05-09** — commented on [#1343](https://github.com/square/moshi/pull/1343#issuecomment-835664848) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-08** — pushed [`49acfafe`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/49acfafee06a90727d2795839c84b381bb8fa3bc) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Update the version in the README. (#7)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — opened PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
 
 **2021-05-08** — pushed [`915ae2ce`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/915ae2ced9c194c2263e2ad03433b7b1690fda3c) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Add a test"
-
-**2021-05-08** — created branch "z/propertyOptOut" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
-
-**2021-05-08** — pushed 49 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
