@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-09** — pushed [`29797aa3`](https://github.com/ZacSweers/CatchUp/commit/29797aa398678614c355f9046f159ac790eb8d9f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
+
 **2021-05-09** — commented on [#406](https://github.com/google/ksp/pull/406#issuecomment-835838233) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-05-09** — deleted branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — commented on [#16779](https://github.com/gradle/gradle/issues/16779#issuecomment-835468280) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-05-08** — opened PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
-
-**2021-05-08** — pushed [`915ae2ce`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/915ae2ced9c194c2263e2ad03433b7b1690fda3c) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Add a test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
