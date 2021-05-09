@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-09** — commented on [#1343](https://github.com/square/moshi/pull/1343#issuecomment-835664848) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-08** — pushed [`49acfafe`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/49acfafee06a90727d2795839c84b381bb8fa3bc) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Update the version in the README. (#7)"
 
 **2021-05-08** — closed PR [#7](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/7) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Update the version in the README."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — created branch "z/propertyOptOut" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
 
 **2021-05-08** — pushed 49 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
-
-**2021-05-08** — created tag "1.1.0" on [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
