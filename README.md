@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-09** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-835884790) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-05-09** — pushed [`29797aa3`](https://github.com/ZacSweers/CatchUp/commit/29797aa398678614c355f9046f159ac790eb8d9f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
 
 **2021-05-09** — commented on [#406](https://github.com/google/ksp/pull/406#issuecomment-835838233) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-08** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-835468400) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-05-08** — commented on [#16779](https://github.com/gradle/gradle/issues/16779#issuecomment-835468280) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-05-08** — opened PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
