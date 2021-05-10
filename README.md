@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-10** — pushed [`1c2f1244`](https://github.com/ZacSweers/auto-service-kt/commit/1c2f1244a2d3e97fca3196f6312c807f28fa8904) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update description"
+
+**2021-05-10** — pushed [`06cedb05`](https://github.com/ZacSweers/auto-service-kt/commit/06cedb05311edf2816d96205ad82198829637e04) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Add a README"
+
+**2021-05-10** — deleted branch "z/irTesting" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
+
+**2021-05-10** — pushed [`7a3a5b0a`](https://github.com/ZacSweers/auto-service-kt/commit/7a3a5b0a96d54271649b6f7c78fe2d688ff63e9b) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR (#7)"
+
+**2021-05-10** — closed PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR"
+
+**2021-05-10** — pushed [`6cc8cf47`](https://github.com/ZacSweers/auto-service-kt/commit/6cc8cf47966f8e82637d4e80bfcc14c3054f1fc7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update API"
+
+**2021-05-10** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
+
 **2021-05-09** — closed PR [#111](https://api.github.com/repos/ZacSweers/MoshiX/pulls/111) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Let @AdaptedBy support custom Adapter definition"
 
 **2021-05-09** — closed issue [#110](https://api.github.com/repos/ZacSweers/MoshiX/issues/110) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Using non-JsonAdapter/Factory in `@AdaptedBy`?"
 
 **2021-05-09** — commented on [#110](https://github.com/ZacSweers/MoshiX/issues/110#issuecomment-836099370) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-09** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-835884790) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-05-09** — pushed [`29797aa3`](https://github.com/ZacSweers/CatchUp/commit/29797aa398678614c355f9046f159ac790eb8d9f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More updates"
-
-**2021-05-09** — commented on [#406](https://github.com/google/ksp/pull/406#issuecomment-835838233) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-05-09** — deleted branch "z/newModifiers" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-05-09** — commented on [#1343](https://github.com/square/moshi/pull/1343#issuecomment-835664848) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-08** — pushed [`49acfafe`](https://github.com/ZacSweers/kgp-150-leak-patcher/commit/49acfafee06a90727d2795839c84b381bb8fa3bc) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Update the version in the README. (#7)"
-
-**2021-05-08** — closed PR [#7](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher/pulls/7) to [ZacSweers/kgp-150-leak-patcher](https://api.github.com/repos/ZacSweers/kgp-150-leak-patcher): "Update the version in the README."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
