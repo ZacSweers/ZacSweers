@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838669235) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-05-11** — closed issue [#52](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/52) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "NoSuchMethodError was thrown at: ToStringGenerator.generateToStringMethod(RedactedCodegenExtension.kt:229)"
+
+**2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838650409) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-05-10** — pushed [`1c2f1244`](https://github.com/ZacSweers/auto-service-kt/commit/1c2f1244a2d3e97fca3196f6312c807f28fa8904) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update description"
 
 **2021-05-10** — pushed [`06cedb05`](https://github.com/ZacSweers/auto-service-kt/commit/06cedb05311edf2816d96205ad82198829637e04) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Add a README"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-10** — pushed [`6cc8cf47`](https://github.com/ZacSweers/auto-service-kt/commit/6cc8cf47966f8e82637d4e80bfcc14c3054f1fc7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update API"
 
 **2021-05-10** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
-
-**2021-05-09** — closed PR [#111](https://api.github.com/repos/ZacSweers/MoshiX/pulls/111) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Let @AdaptedBy support custom Adapter definition"
-
-**2021-05-09** — closed issue [#110](https://api.github.com/repos/ZacSweers/MoshiX/issues/110) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Using non-JsonAdapter/Factory in `@AdaptedBy`?"
-
-**2021-05-09** — commented on [#110](https://github.com/ZacSweers/MoshiX/issues/110#issuecomment-836099370) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
