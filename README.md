@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-12** — commented on [#422](https://github.com/google/ksp/pull/422#issuecomment-839772270) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838669235) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-05-11** — closed issue [#52](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/52) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "NoSuchMethodError was thrown at: ToStringGenerator.generateToStringMethod(RedactedCodegenExtension.kt:229)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-10** — closed PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR"
 
 **2021-05-10** — pushed [`6cc8cf47`](https://github.com/ZacSweers/auto-service-kt/commit/6cc8cf47966f8e82637d4e80bfcc14c3054f1fc7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update API"
-
-**2021-05-10** — pushed 2 commits to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
