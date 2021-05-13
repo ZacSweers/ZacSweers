@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-13** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-840719179) in [google/auto](https://api.github.com/repos/google/auto)
+
 **2021-05-13** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-840648479) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2021-05-13** — opened issue [#7](https://api.github.com/repos/google/TestParameterInjector/issues/7) on [google/TestParameterInjector](https://api.github.com/repos/google/TestParameterInjector): "Consider keeping a changelog?"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838669235) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-05-11** — closed issue [#52](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/52) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "NoSuchMethodError was thrown at: ToStringGenerator.generateToStringMethod(RedactedCodegenExtension.kt:229)"
-
-**2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838650409) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
