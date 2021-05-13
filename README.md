@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-12** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-05-12** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-840131329) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 
 **2021-05-12** — commented on [#422](https://github.com/google/ksp/pull/422#issuecomment-839772270) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-10** — deleted branch "z/irTesting" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
 
 **2021-05-10** — pushed [`7a3a5b0a`](https://github.com/ZacSweers/auto-service-kt/commit/7a3a5b0a96d54271649b6f7c78fe2d688ff63e9b) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR (#7)"
-
-**2021-05-10** — closed PR [#7](https://api.github.com/repos/ZacSweers/auto-service-kt/pulls/7) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
