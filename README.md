@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-13** — opened issue [#7](https://api.github.com/repos/google/TestParameterInjector/issues/7) on [google/TestParameterInjector](https://api.github.com/repos/google/TestParameterInjector): "Consider keeping a changelog?"
+
+**2021-05-12** — closed issue [#1344](https://api.github.com/repos/square/moshi/issues/1344) on [square/moshi](https://api.github.com/repos/square/moshi): "moshi Json Multiple name "
+
+**2021-05-12** — commented on [#1344](https://github.com/square/moshi/issues/1344#issuecomment-840274232) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-12** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-05-12** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-840131329) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-11** — commented on [#52](https://github.com/ZacSweers/redacted-compiler-plugin/issues/52#issuecomment-838650409) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-05-10** — pushed [`1c2f1244`](https://github.com/ZacSweers/auto-service-kt/commit/1c2f1244a2d3e97fca3196f6312c807f28fa8904) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Update description"
-
-**2021-05-10** — pushed [`06cedb05`](https://github.com/ZacSweers/auto-service-kt/commit/06cedb05311edf2816d96205ad82198829637e04) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Add a README"
-
-**2021-05-10** — deleted branch "z/irTesting" on [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt)
-
-**2021-05-10** — pushed [`7a3a5b0a`](https://github.com/ZacSweers/auto-service-kt/commit/7a3a5b0a96d54271649b6f7c78fe2d688ff63e9b) to [ZacSweers/auto-service-kt](https://api.github.com/repos/ZacSweers/auto-service-kt): "Rework impl and support IR (#7)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
