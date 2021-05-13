@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-13** — commented on [#114](https://github.com/ZacSweers/MoshiX/issues/114#issuecomment-840857402) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-05-13** — commented on [#2304](https://github.com/facebook/flipper/issues/2304#issuecomment-840782606) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
 
 **2021-05-13** — opened issue [#2307](https://api.github.com/repos/facebook/flipper/issues/2307) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Last two android releases are missing"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-12** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-05-12** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-840131329) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
-
-**2021-05-12** — commented on [#422](https://github.com/google/ksp/pull/422#issuecomment-839772270) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
