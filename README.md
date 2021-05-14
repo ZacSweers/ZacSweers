@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-13** — commented on [#114](https://github.com/ZacSweers/MoshiX/issues/114#issuecomment-840857402) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-13** — pushed [`f42bccce`](https://github.com/ZacSweers/auto-service-ksp/commit/f42bccce112832fc86a5da2b41c6dbc8b82e3f2e) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix version"
 
-**2021-05-13** — commented on [#2304](https://github.com/facebook/flipper/issues/2304#issuecomment-840782606) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
+**2021-05-13** — pushed [`0c1b27c9`](https://github.com/ZacSweers/auto-service-ksp/commit/0c1b27c9e8bf9bffde54216606dc74ad963466be) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release (#16)"
 
-**2021-05-13** — opened issue [#2307](https://api.github.com/repos/facebook/flipper/issues/2307) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Last two android releases are missing"
+**2021-05-13** — deleted branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-13** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-840719179) in [google/auto](https://api.github.com/repos/google/auto)
+**2021-05-13** — closed PR [#16](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/16) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release"
 
-**2021-05-13** — commented on [#1087](https://github.com/google/auto/issues/1087#issuecomment-840648479) in [google/auto](https://api.github.com/repos/google/auto)
+**2021-05-13** — opened PR [#16](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/16) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release"
 
-**2021-05-13** — opened issue [#7](https://api.github.com/repos/google/TestParameterInjector/issues/7) on [google/TestParameterInjector](https://api.github.com/repos/google/TestParameterInjector): "Consider keeping a changelog?"
+**2021-05-13** — created branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-12** — closed issue [#1344](https://api.github.com/repos/square/moshi/issues/1344) on [square/moshi](https://api.github.com/repos/square/moshi): "moshi Json Multiple name "
+**2021-05-13** — created tag "0.5.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-12** — commented on [#1344](https://github.com/square/moshi/issues/1344#issuecomment-840274232) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-05-13** — pushed [`d23d8976`](https://github.com/ZacSweers/auto-service-ksp/commit/d23d89762953e33efcc1491b01842eea65068ba8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha10 (#15)"
 
-**2021-05-12** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2021-05-13** — deleted branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-12** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-840131329) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+**2021-05-13** — closed PR [#15](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/15) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
