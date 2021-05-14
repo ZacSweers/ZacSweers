@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-13** — opened issue [#264](https://api.github.com/repos/square/anvil/issues/264) on [square/anvil](https://api.github.com/repos/square/anvil): "Qualifiers on properties not preserved"
+
 **2021-05-13** — pushed [`f42bccce`](https://github.com/ZacSweers/auto-service-ksp/commit/f42bccce112832fc86a5da2b41c6dbc8b82e3f2e) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix version"
 
 **2021-05-13** — pushed [`0c1b27c9`](https://github.com/ZacSweers/auto-service-ksp/commit/0c1b27c9e8bf9bffde54216606dc74ad963466be) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release (#16)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-13** — pushed [`d23d8976`](https://github.com/ZacSweers/auto-service-ksp/commit/d23d89762953e33efcc1491b01842eea65068ba8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha10 (#15)"
 
 **2021-05-13** — deleted branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-13** — closed PR [#15](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/15) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
