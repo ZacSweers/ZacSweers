@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-14** — created branch "z/fixes" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-14** — created tag "0.11.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-14** — closed PR [#112](https://api.github.com/repos/ZacSweers/MoshiX/pulls/112) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add failing json type alias case"
+**2021-05-14** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-05-14** — commented on [#112](https://github.com/ZacSweers/MoshiX/pull/112#issuecomment-841020769) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-14** — pushed [`8407f0b9`](https://github.com/ZacSweers/MoshiX/commit/8407f0b982c21f114e5bb75b2312008d1ec663ce) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle KSTypeAlias in moshi-sealed ksp (#116)"
 
-**2021-05-14** — closed issue [#98](https://api.github.com/repos/ZacSweers/MoshiX/issues/98) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Java 16, make records non-preview"
+**2021-05-14** — deleted branch "z/typeAliasInsealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-14** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-841000671) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-14** — closed PR [#116](https://api.github.com/repos/ZacSweers/MoshiX/pulls/116) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle KSTypeAlias in moshi-sealed ksp"
 
-**2021-05-14** — pushed [`af3feb0e`](https://github.com/ZacSweers/MoshiX/commit/af3feb0e7b1ba3381b0fa89c94c48e895d5efccf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API (#107)"
+**2021-05-14** — commented on [#109](https://github.com/ZacSweers/MoshiX/issues/109#issuecomment-841033548) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-14** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-14** — opened PR [#116](https://api.github.com/repos/ZacSweers/MoshiX/pulls/116) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle KSTypeAlias in moshi-sealed ksp"
 
-**2021-05-14** — closed PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
+**2021-05-14** — created branch "z/typeAliasInsealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-14** — pushed 6 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+**2021-05-14** — closed issue [#103](https://api.github.com/repos/ZacSweers/MoshiX/issues/103) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSAnnotation.toAnnotationSpec() doesn't handle enum properties correctly"
 
-**2021-05-13** — opened issue [#264](https://api.github.com/repos/square/anvil/issues/264) on [square/anvil](https://api.github.com/repos/square/anvil): "Qualifiers on properties not preserved"
+**2021-05-14** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-841025848) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
