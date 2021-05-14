@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-14** — pushed 4 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-05-14** — pushed [`5ff097ae`](https://github.com/ZacSweers/anvil/commit/5ff097ae019d232a39764f0b5caf1c863624144a) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Formatting"
+
+**2021-05-14** — opened PR [#267](https://api.github.com/repos/square/anvil/pulls/267) to [square/anvil](https://api.github.com/repos/square/anvil): "Extract CodeGenerator to separate compiler-api module"
+
+**2021-05-14** — created branch "z/codeGeneratorApi" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-05-14** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-841499300) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-14** — opened PR [#266](https://api.github.com/repos/square/anvil/pulls/266) to [square/anvil](https://api.github.com/repos/square/anvil): "Copy over qualifiers in member injecttion"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-14** — pushed [`e266362e`](https://github.com/ZacSweers/anvil/commit/e266362e1b73d31c29022d3e0c8e383214a33ceb) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "If a provider function's name is mangled (usually when the function has internal visibility), then use the mangled name to generate the factory."
 
 **2021-05-14** — pushed [`d6a50b04`](https://github.com/ZacSweers/MoshiX/commit/d6a50b045ec3d20cab391d7ebf87ff06ea6e7217) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small changelog fixes"
-
-**2021-05-14** — created tag "0.11.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-14** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-05-14** — pushed [`8407f0b9`](https://github.com/ZacSweers/MoshiX/commit/8407f0b982c21f114e5bb75b2312008d1ec663ce) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle KSTypeAlias in moshi-sealed ksp (#116)"
-
-**2021-05-14** — deleted branch "z/typeAliasInsealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
