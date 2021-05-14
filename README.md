@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-14** — commented on [#264](https://github.com/square/anvil/issues/264#issuecomment-841478748) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-14** — pushed [`e266362e`](https://github.com/ZacSweers/anvil/commit/e266362e1b73d31c29022d3e0c8e383214a33ceb) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "If a provider function's name is mangled (usually when the function has internal visibility), then use the mangled name to generate the factory."
+
+**2021-05-14** — pushed [`d6a50b04`](https://github.com/ZacSweers/MoshiX/commit/d6a50b045ec3d20cab391d7ebf87ff06ea6e7217) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small changelog fixes"
+
 **2021-05-14** — created tag "0.11.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-14** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-14** — commented on [#109](https://github.com/ZacSweers/MoshiX/issues/109#issuecomment-841033548) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-14** — opened PR [#116](https://api.github.com/repos/ZacSweers/MoshiX/pulls/116) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Handle KSTypeAlias in moshi-sealed ksp"
-
-**2021-05-14** — created branch "z/typeAliasInsealed" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-14** — closed issue [#103](https://api.github.com/repos/ZacSweers/MoshiX/issues/103) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "KSAnnotation.toAnnotationSpec() doesn't handle enum properties correctly"
-
-**2021-05-14** — commented on [#103](https://github.com/ZacSweers/MoshiX/issues/103#issuecomment-841025848) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
