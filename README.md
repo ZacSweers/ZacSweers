@@ -4,23 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-14** — closed issue [#98](https://api.github.com/repos/ZacSweers/MoshiX/issues/98) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Java 16, make records non-preview"
+
+**2021-05-14** — commented on [#98](https://github.com/ZacSweers/MoshiX/issues/98#issuecomment-841000671) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-14** — pushed [`af3feb0e`](https://github.com/ZacSweers/MoshiX/commit/af3feb0e7b1ba3381b0fa89c94c48e895d5efccf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API (#107)"
+
+**2021-05-14** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-14** — closed PR [#107](https://api.github.com/repos/ZacSweers/MoshiX/pulls/107) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies and move to new provider API"
+
+**2021-05-14** — pushed 6 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-05-13** — opened issue [#264](https://api.github.com/repos/square/anvil/issues/264) on [square/anvil](https://api.github.com/repos/square/anvil): "Qualifiers on properties not preserved"
 
 **2021-05-13** — pushed [`f42bccce`](https://github.com/ZacSweers/auto-service-ksp/commit/f42bccce112832fc86a5da2b41c6dbc8b82e3f2e) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix version"
 
 **2021-05-13** — pushed [`0c1b27c9`](https://github.com/ZacSweers/auto-service-ksp/commit/0c1b27c9e8bf9bffde54216606dc74ad963466be) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release (#16)"
-
-**2021-05-13** — deleted branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-13** — closed PR [#16](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/16) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release"
-
-**2021-05-13** — opened PR [#16](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/16) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Pull in release"
-
-**2021-05-13** — created branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-13** — created tag "0.5.1" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-13** — pushed [`d23d8976`](https://github.com/ZacSweers/auto-service-ksp/commit/d23d89762953e33efcc1491b01842eea65068ba8) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to alpha10 (#15)"
 
 **2021-05-13** — deleted branch "z/asksp" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
