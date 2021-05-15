@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-15** — pushed [`c8899d26`](https://github.com/slackhq/keeper/commit/c8899d268d1695550d3c1895c8504656b944c79c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Drop Proguard support"
+
+**2021-05-15** — closed issue [#55](https://api.github.com/repos/slackhq/keeper/issues/55) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Support to DexGuard?"
+
+**2021-05-15** — commented on [#55](https://github.com/slackhq/keeper/issues/55#issuecomment-841698057) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-05-15** — pushed [`9eefffac`](https://github.com/slackhq/keeper/commit/9eefffacb1805438e21a6e71e5e21e508f03980e) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "androidTestUtil"
+
+**2021-05-15** — pushed [`4287afe8`](https://github.com/slackhq/keeper/commit/4287afe801fb83b9b494c0239816dd6044d2e4a7) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix version"
+
+**2021-05-15** — pushed [`c2531b06`](https://github.com/slackhq/keeper/commit/c2531b06c13bb1cfa1b036ce49a1d05c8fed6bb0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try updating test libs? I mean, idk what else to do"
+
+**2021-05-15** — pushed [`f2dd7e0a`](https://github.com/slackhq/keeper/commit/f2dd7e0a0fddc23c9083eb20a0cadce397157154) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update more things"
+
 **2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841608601) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-15** — opened issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
 
 **2021-05-15** — opened issue [#17200](https://api.github.com/repos/gradle/gradle/issues/17200) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Provider has no value: map(provider(?)) exception when configuration cache is enabled"
-
-**2021-05-15** — pushed [`5090430c`](https://github.com/ZacSweers/anvil/commit/5090430cec229dae8df332473fdbe79147660dc4) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Lazily evaluate property descriptors"
-
-**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841603172) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841602925) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-15** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841602667) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-14** — pushed [`1802d4d7`](https://github.com/ZacSweers/anvil/commit/1802d4d79653443dad127ff951f3df5840d34f58) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Update compiler-api/gradle.properties"
-
-**2021-05-14** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841540502) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-14** — commented on [#265](https://github.com/square/anvil/issues/265#issuecomment-841538619) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
