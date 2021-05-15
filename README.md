@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841603172) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841602925) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-15** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841602667) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-05-14** — pushed [`1802d4d7`](https://github.com/ZacSweers/anvil/commit/1802d4d79653443dad127ff951f3df5840d34f58) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Update compiler-api/gradle.properties"
 
 **2021-05-14** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841540502) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-14** — opened PR [#267](https://api.github.com/repos/square/anvil/pulls/267) to [square/anvil](https://api.github.com/repos/square/anvil): "Extract CodeGenerator to separate compiler-api module"
 
 **2021-05-14** — created branch "z/codeGeneratorApi" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-05-14** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-841499300) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-14** — opened PR [#266](https://api.github.com/repos/square/anvil/pulls/266) to [square/anvil](https://api.github.com/repos/square/anvil): "Copy over qualifiers in member injecttion"
-
-**2021-05-14** — created branch "z/qualifiers" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
