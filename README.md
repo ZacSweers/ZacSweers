@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-14** — pushed [`1802d4d7`](https://github.com/ZacSweers/anvil/commit/1802d4d79653443dad127ff951f3df5840d34f58) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Update compiler-api/gradle.properties"
+
 **2021-05-14** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841540502) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-14** — commented on [#265](https://github.com/square/anvil/issues/265#issuecomment-841538619) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-14** — opened PR [#266](https://api.github.com/repos/square/anvil/pulls/266) to [square/anvil](https://api.github.com/repos/square/anvil): "Copy over qualifiers in member injecttion"
 
 **2021-05-14** — created branch "z/qualifiers" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-05-14** — commented on [#264](https://github.com/square/anvil/issues/264#issuecomment-841478748) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
