@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841608601) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-15** — opened issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
+
+**2021-05-15** — opened issue [#17200](https://api.github.com/repos/gradle/gradle/issues/17200) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Provider has no value: map(provider(?)) exception when configuration cache is enabled"
+
+**2021-05-15** — pushed [`5090430c`](https://github.com/ZacSweers/anvil/commit/5090430cec229dae8df332473fdbe79147660dc4) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Lazily evaluate property descriptors"
+
 **2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841603172) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841602925) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-14** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841540502) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-14** — commented on [#265](https://github.com/square/anvil/issues/265#issuecomment-841538619) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-14** — pushed 4 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-05-14** — pushed [`5ff097ae`](https://github.com/ZacSweers/anvil/commit/5ff097ae019d232a39764f0b5caf1c863624144a) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Formatting"
-
-**2021-05-14** — opened PR [#267](https://api.github.com/repos/square/anvil/pulls/267) to [square/anvil](https://api.github.com/repos/square/anvil): "Extract CodeGenerator to separate compiler-api module"
-
-**2021-05-14** — created branch "z/codeGeneratorApi" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
