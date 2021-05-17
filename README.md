@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842645452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842643058) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-05-17** — commented on [#13302](https://github.com/gradle/gradle/issues/13302#issuecomment-842549409) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-05-17** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-842542200) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — commented on [#77](https://github.com/slackhq/keeper/pull/77#issuecomment-842011574) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-17** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2021-05-17** — pushed 3 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
-
-**2021-05-17** — closed PR [#2](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Modernize project"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
