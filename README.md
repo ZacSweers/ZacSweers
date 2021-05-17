@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — commented on [#77](https://github.com/slackhq/keeper/pull/77#issuecomment-842011574) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-05-17** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 
 **2021-05-17** — pushed 3 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — opened PR [#269](https://api.github.com/repos/square/anvil/pulls/269) to [square/anvil](https://api.github.com/repos/square/anvil): "Add anvil configuration for picking up custom code generators"
 
 **2021-05-17** — created branch "z/anvilConfiguration" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-05-17** — pushed [`011def93`](https://github.com/ZacSweers/anvil/commit/011def939d7983033f11613cd1db8b4401d3c975) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
