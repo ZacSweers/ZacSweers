@@ -15,24 +15,9 @@
  */
 
 pluginManagement {
-  resolutionStrategy {
-    eachPlugin {
-      switch (requested.id.id) {
-        case 'com.diffplug.gradle.spotless':
-          useModule("com.diffplug.spotless:spotless-plugin-gradle:4.5.0")
-          break
-        case 'org.jetbrains.kotlin.jvm':
-          useModule("org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.0")
-          break
-        case 'org.jetbrains.kotlin.kapt':
-          useModule("org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.0")
-          break
-      }
-    }
-  }
   repositories {
-    gradlePluginPortal()
     mavenCentral()
+    gradlePluginPortal()
   }
 }
 
