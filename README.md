@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
+**2021-05-17** — pushed 3 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
+
+**2021-05-17** — closed PR [#2](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Modernize project"
+
 **2021-05-17** — opened PR [#2](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Modernize project"
 
 **2021-05-17** — created branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — created branch "z/anvilConfiguration" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-05-17** — pushed [`011def93`](https://github.com/ZacSweers/anvil/commit/011def939d7983033f11613cd1db8b4401d3c975) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
-
-**2021-05-17** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841983480) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-17** — pushed [`3cefe2fd`](https://github.com/ZacSweers/anvil/commit/3cefe2fd1ddbd2c9eb59cb0a63e695122876463a) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
-
-**2021-05-17** — pushed [`1642ee9f`](https://github.com/ZacSweers/anvil/commit/1642ee9f8dde0d07ab8d68f1dd0f86a853786196) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
