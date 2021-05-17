@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — opened PR [#2](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Modernize project"
+
+**2021-05-17** — created branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
 **2021-05-17** — pushed [`1d1d99cd`](https://github.com/ZacSweers/anvil/commit/1d1d99cd2dd7f542faa3c24a617787ee640039e7) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Add anvil configuration for picking up custom code generators"
 
 **2021-05-17** — pushed [`92c9c534`](https://github.com/ZacSweers/anvil/commit/92c9c5340de6f2e0e6cd8ace20e21a5506990281) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — pushed [`3cefe2fd`](https://github.com/ZacSweers/anvil/commit/3cefe2fd1ddbd2c9eb59cb0a63e695122876463a) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
 
 **2021-05-17** — pushed [`1642ee9f`](https://github.com/ZacSweers/anvil/commit/1642ee9f8dde0d07ab8d68f1dd0f86a853786196) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
-
-**2021-05-16** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-841962239) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-05-16** — deleted branch "cleanup" on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
