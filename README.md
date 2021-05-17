@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — pushed [`1d1d99cd`](https://github.com/ZacSweers/anvil/commit/1d1d99cd2dd7f542faa3c24a617787ee640039e7) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Add anvil configuration for picking up custom code generators"
+
+**2021-05-17** — pushed [`92c9c534`](https://github.com/ZacSweers/anvil/commit/92c9c5340de6f2e0e6cd8ace20e21a5506990281) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
+
+**2021-05-17** — opened PR [#269](https://api.github.com/repos/square/anvil/pulls/269) to [square/anvil](https://api.github.com/repos/square/anvil): "Add anvil configuration for picking up custom code generators"
+
+**2021-05-17** — created branch "z/anvilConfiguration" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-05-17** — pushed [`011def93`](https://github.com/ZacSweers/anvil/commit/011def939d7983033f11613cd1db8b4401d3c975) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
+
+**2021-05-17** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841983480) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-17** — pushed [`3cefe2fd`](https://github.com/ZacSweers/anvil/commit/3cefe2fd1ddbd2c9eb59cb0a63e695122876463a) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
+
+**2021-05-17** — pushed [`1642ee9f`](https://github.com/ZacSweers/anvil/commit/1642ee9f8dde0d07ab8d68f1dd0f86a853786196) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Extract CodeGenerator to separate compiler-api module"
+
 **2021-05-16** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-841962239) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-05-16** — deleted branch "cleanup" on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
-
-**2021-05-16** — deleted branch "z/propertyOptOut" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
-
-**2021-05-16** — closed PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
-
-**2021-05-16** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-841951946) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
-
-**2021-05-16** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841851716) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-15** — pushed [`aace3254`](https://github.com/slackhq/keeper/commit/aace3254e67bd5ac8cec38c1a92a152ee0d4bb88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Restore version"
-
-**2021-05-15** — pushed [`c8899d26`](https://github.com/slackhq/keeper/commit/c8899d268d1695550d3c1895c8504656b944c79c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Drop Proguard support"
-
-**2021-05-15** — closed issue [#55](https://api.github.com/repos/slackhq/keeper/issues/55) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Support to DexGuard?"
-
-**2021-05-15** — commented on [#55](https://github.com/slackhq/keeper/issues/55#issuecomment-841698057) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
