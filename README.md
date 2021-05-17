@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-16** — deleted branch "cleanup" on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+
+**2021-05-16** — deleted branch "z/propertyOptOut" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
+
+**2021-05-16** — closed PR [#245](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/245) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Gate automatic maven central enablement behind a property"
+
+**2021-05-16** — commented on [#245](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/245#issuecomment-841951946) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+
 **2021-05-16** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-841851716) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-15** — pushed [`aace3254`](https://github.com/slackhq/keeper/commit/aace3254e67bd5ac8cec38c1a92a152ee0d4bb88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Restore version"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-15** — commented on [#55](https://github.com/slackhq/keeper/issues/55#issuecomment-841698057) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-15** — pushed [`9eefffac`](https://github.com/slackhq/keeper/commit/9eefffacb1805438e21a6e71e5e21e508f03980e) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "androidTestUtil"
-
-**2021-05-15** — pushed [`4287afe8`](https://github.com/slackhq/keeper/commit/4287afe801fb83b9b494c0239816dd6044d2e4a7) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix version"
-
-**2021-05-15** — pushed [`c2531b06`](https://github.com/slackhq/keeper/commit/c2531b06c13bb1cfa1b036ce49a1d05c8fed6bb0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try updating test libs? I mean, idk what else to do"
-
-**2021-05-15** — pushed [`f2dd7e0a`](https://github.com/slackhq/keeper/commit/f2dd7e0a0fddc23c9083eb20a0cadce397157154) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update more things"
-
-**2021-05-15** — commented on [#266](https://github.com/square/anvil/pull/266#issuecomment-841608601) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
