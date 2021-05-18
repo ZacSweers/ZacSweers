@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-17** — closed issue [#117](https://api.github.com/repos/ZacSweers/MoshiX/issues/117) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support for nested sealed classes?"
+
+**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842752444) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-17** — closed issue [#1346](https://api.github.com/repos/square/moshi/issues/1346) on [square/moshi](https://api.github.com/repos/square/moshi): "Custom field name is not allowed?"
+
+**2021-05-17** — commented on [#1346](https://github.com/square/moshi/issues/1346#issuecomment-842749422) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842645452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842643058) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-842542163) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-17** — pushed [`b612a746`](https://github.com/ZacSweers/anvil/commit/b612a746d81c16a8fd5ef7dfe7b5e292f365c9e2) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Merge pull request #261 from square/ralf/update-test"
-
-**2021-05-17** — pushed [`8c87df5d`](https://github.com/ZacSweers/anvil/commit/8c87df5dae3c5736043abe11eb180df2af86d622) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Upgrade the compile testing library and test the old compiler backend properly again."
-
-**2021-05-17** — pushed 7 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-05-17** — commented on [#77](https://github.com/slackhq/keeper/pull/77#issuecomment-842011574) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-17** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
