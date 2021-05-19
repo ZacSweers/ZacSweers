@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-18** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-843653927) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-05-17** — closed issue [#117](https://api.github.com/repos/ZacSweers/MoshiX/issues/117) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support for nested sealed classes?"
 
 **2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842752444) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-842542200) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-17** — commented on [#267](https://github.com/square/anvil/pull/267#issuecomment-842542163) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-17** — pushed [`b612a746`](https://github.com/ZacSweers/anvil/commit/b612a746d81c16a8fd5ef7dfe7b5e292f365c9e2) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Merge pull request #261 from square/ralf/update-test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
