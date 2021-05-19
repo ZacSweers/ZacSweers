@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-19** — pushed [`e68f2965`](https://github.com/slackhq/keeper/commit/e68f2965e84f39587ad0aefd2c635b214a24fa5c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "verify"
+
 **2021-05-19** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2021-05-18** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-843653927) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842643058) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-17** — commented on [#13302](https://github.com/gradle/gradle/issues/13302#issuecomment-842549409) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-05-17** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-842542200) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
