@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-19** — commented on [#2122](https://github.com/google/error-prone/issues/2122#issuecomment-844473932) in [google/error-prone](https://api.github.com/repos/google/error-prone)
+
+**2021-05-19** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2021-05-19** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
 **2021-05-19** — pushed [`e68f2965`](https://github.com/slackhq/keeper/commit/e68f2965e84f39587ad0aefd2c635b214a24fa5c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "verify"
 
 **2021-05-19** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — closed issue [#1346](https://api.github.com/repos/square/moshi/issues/1346) on [square/moshi](https://api.github.com/repos/square/moshi): "Custom field name is not allowed?"
 
 **2021-05-17** — commented on [#1346](https://github.com/square/moshi/issues/1346#issuecomment-842749422) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842645452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842643058) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-17** — commented on [#13302](https://github.com/gradle/gradle/issues/13302#issuecomment-842549409) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
