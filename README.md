@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-19** — commented on [#392](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/392#issuecomment-844661803) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2021-05-19** — opened issue [#2634](https://api.github.com/repos/google/dagger/issues/2634) on [google/dagger](https://api.github.com/repos/google/dagger): "Hilt Gradle plugin is incompatible with AGP 7.1.0-alpha01"
 
 **2021-05-19** — commented on [#2122](https://github.com/google/error-prone/issues/2122#issuecomment-844473932) in [google/error-prone](https://api.github.com/repos/google/error-prone)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-17** — closed issue [#117](https://api.github.com/repos/ZacSweers/MoshiX/issues/117) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support for nested sealed classes?"
 
 **2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842752444) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-17** — closed issue [#1346](https://api.github.com/repos/square/moshi/issues/1346) on [square/moshi](https://api.github.com/repos/square/moshi): "Custom field name is not allowed?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
