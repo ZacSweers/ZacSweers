@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-19** — commented on [#392](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/392#issuecomment-844661803) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2021-05-20** — opened PR [#79](https://api.github.com/repos/slackhq/keeper/pulls/79) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator"
 
-**2021-05-19** — opened issue [#2634](https://api.github.com/repos/google/dagger/issues/2634) on [google/dagger](https://api.github.com/repos/google/dagger): "Hilt Gradle plugin is incompatible with AGP 7.1.0-alpha01"
+**2021-05-20** — created branch "z/abi" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-05-19** — commented on [#2122](https://github.com/google/error-prone/issues/2122#issuecomment-844473932) in [google/error-prone](https://api.github.com/repos/google/error-prone)
+**2021-05-20** — pushed [`1c15d195`](https://github.com/slackhq/keeper/commit/1c15d19548d90bee4d04270391c4962046d15ab0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 7318c7f with MkDocs version: 1.1.2"
 
-**2021-05-19** — pushed 3 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2021-05-20** — pushed [`7318c7fd`](https://github.com/slackhq/keeper/commit/7318c7fde9ac6c0bb15f9248fecb2006b23d8dd4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Small doc updates"
 
-**2021-05-19** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2021-05-20** — pushed [`07f9a395`](https://github.com/slackhq/keeper/commit/07f9a3955a4eb2f1318b794de6baede08bf50626) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 2385570 with MkDocs version: 1.1.2"
 
-**2021-05-19** — pushed [`e68f2965`](https://github.com/slackhq/keeper/commit/e68f2965e84f39587ad0aefd2c635b214a24fa5c) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "verify"
+**2021-05-20** — created tag "0.9.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-05-19** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2021-05-20** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
-**2021-05-18** — commented on [#6324](https://github.com/robolectric/robolectric/pull/6324#issuecomment-843653927) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+**2021-05-20** — pushed [`8161b1ec`](https://github.com/slackhq/keeper/commit/8161b1ec0524790cb3243416ed17275ea4a715d4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task output dirs unique per task (#77)"
 
-**2021-05-17** — closed issue [#117](https://api.github.com/repos/ZacSweers/MoshiX/issues/117) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support for nested sealed classes?"
+**2021-05-20** — deleted branch "z/moreUpdates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-05-17** — commented on [#117](https://github.com/ZacSweers/MoshiX/issues/117#issuecomment-842752444) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-20** — closed PR [#77](https://api.github.com/repos/slackhq/keeper/pulls/77) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task output dirs unique per task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
