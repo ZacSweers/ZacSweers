@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-21** — pushed [`bbe34b44`](https://github.com/ZacSweers/CatchUp/commit/bbe34b440fdd3b23356e3c5399b691513327b010) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup CI gradle properties"
+
+**2021-05-21** — pushed [`ffaa4943`](https://github.com/ZacSweers/CatchUp/commit/ffaa4943ceb9ea97795c727f69cdf670467a0406) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "CI fixes and more updates"
+
+**2021-05-21** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2021-05-20** — opened PR [#79](https://api.github.com/repos/slackhq/keeper/pulls/79) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator"
 
 **2021-05-20** — created branch "z/abi" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-20** — created tag "0.9.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-20** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-05-20** — pushed [`8161b1ec`](https://github.com/slackhq/keeper/commit/8161b1ec0524790cb3243416ed17275ea4a715d4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task output dirs unique per task (#77)"
-
-**2021-05-20** — deleted branch "z/moreUpdates" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-20** — closed PR [#77](https://api.github.com/repos/slackhq/keeper/pulls/77) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update deps and make task output dirs unique per task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
