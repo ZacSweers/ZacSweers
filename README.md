@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-23** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846502032) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-23** — pushed [`7b30713a`](https://github.com/ZacSweers/anvil/commit/7b30713a9c5723e2814f6efff1de2d95a18201ea) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Ok actually clean it up"
+
 **2021-05-22** — pushed [`3305c73a`](https://github.com/ZacSweers/anvil/commit/3305c73a3b6dae89c4556be3f6af1deaf77efc68) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Clean up annotation check logic"
 
 **2021-05-22** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846496385) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-21** — pushed [`b5fe0fa7`](https://github.com/slackhq/keeper/commit/b5fe0fa70601d0b95eeed2fbf335f4e4b3494e42) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator (#79)"
 
 **2021-05-21** — closed PR [#79](https://api.github.com/repos/slackhq/keeper/pulls/79) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator"
-
-**2021-05-21** — pushed [`bbe34b44`](https://github.com/ZacSweers/CatchUp/commit/bbe34b440fdd3b23356e3c5399b691513327b010) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup CI gradle properties"
-
-**2021-05-21** — pushed [`ffaa4943`](https://github.com/ZacSweers/CatchUp/commit/ffaa4943ceb9ea97795c727f69cdf670467a0406) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "CI fixes and more updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
