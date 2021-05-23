@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-22** — pushed [`3305c73a`](https://github.com/ZacSweers/anvil/commit/3305c73a3b6dae89c4556be3f6af1deaf77efc68) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Clean up annotation check logic"
+
+**2021-05-22** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846496385) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-22** — opened PR [#273](https://api.github.com/repos/square/anvil/pulls/273) to [square/anvil](https://api.github.com/repos/square/anvil): "Implement generation-only mode"
+
+**2021-05-22** — created branch "z/generationOnly" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-05-21** — closed issue [#71](https://api.github.com/repos/slackhq/keeper/issues/71) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Integrate Kotlin ABI validator"
 
 **2021-05-21** — deleted branch "z/abi" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-21** — pushed [`bbe34b44`](https://github.com/ZacSweers/CatchUp/commit/bbe34b440fdd3b23356e3c5399b691513327b010) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup CI gradle properties"
 
 **2021-05-21** — pushed [`ffaa4943`](https://github.com/ZacSweers/CatchUp/commit/ffaa4943ceb9ea97795c727f69cdf670467a0406) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "CI fixes and more updates"
-
-**2021-05-21** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-05-20** — opened PR [#79](https://api.github.com/repos/slackhq/keeper/pulls/79) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator"
-
-**2021-05-20** — created branch "z/abi" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-20** — pushed [`1c15d195`](https://github.com/slackhq/keeper/commit/1c15d19548d90bee4d04270391c4962046d15ab0) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 7318c7f with MkDocs version: 1.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
