@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-23** — pushed [`dc3e2fd9`](https://github.com/ZacSweers/CatchUp/commit/dc3e2fd98db1d0aafa64aa0ded1618c92d8d144d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixups"
+
+**2021-05-23** — pushed [`153d4fb1`](https://github.com/ZacSweers/CatchUp/commit/153d4fb15978861e82381943093f7f9e28485947) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Support jdk 16"
+
+**2021-05-23** — pushed [`bb0d176e`](https://github.com/ZacSweers/CatchUp/commit/bb0d176ed55cc49527c9720dd1f8447a1c047fb8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "All the fixes"
+
 **2021-05-23** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846502032) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-23** — pushed [`7b30713a`](https://github.com/ZacSweers/anvil/commit/7b30713a9c5723e2814f6efff1de2d95a18201ea) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Ok actually clean it up"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-22** — created branch "z/generationOnly" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-05-21** — closed issue [#71](https://api.github.com/repos/slackhq/keeper/issues/71) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Integrate Kotlin ABI validator"
-
-**2021-05-21** — deleted branch "z/abi" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-21** — pushed [`b5fe0fa7`](https://github.com/slackhq/keeper/commit/b5fe0fa70601d0b95eeed2fbf335f4e4b3494e42) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator (#79)"
-
-**2021-05-21** — closed PR [#79](https://api.github.com/repos/slackhq/keeper/pulls/79) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add kotlin abi validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
