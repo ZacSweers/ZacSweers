@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-24** — opened PR [#263](https://api.github.com/repos/ZacSweers/CatchUp/pulls/263) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api"
+
+**2021-05-24** — created branch "z/roomKsp" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-05-24** — pushed [`d639f972`](https://github.com/ZacSweers/CatchUp/commit/d639f972eb8634ec8477604f547ad197f61e5114) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "README updates"
+
+**2021-05-24** — deleted branch "z/testingMoreoijfsdkjf" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-05-24** — closed PR [#241](https://api.github.com/repos/ZacSweers/CatchUp/pulls/241) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test commit"
+
+**2021-05-24** — pushed [`ce0c6407`](https://github.com/ZacSweers/CatchUp/commit/ce0c6407444a44de459f2e0a823e58a793f7e6b2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things (#262)"
+
+**2021-05-24** — deleted branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-05-24** — closed PR [#262](https://api.github.com/repos/ZacSweers/CatchUp/pulls/262) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
+
+**2021-05-24** — pushed [`1e6b5d9d`](https://github.com/ZacSweers/CatchUp/commit/1e6b5d9d906eb43b134a24f587b0a27d4d41dd46) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish setting up namespaced resources"
+
 **2021-05-23** — pushed [`7a09b603`](https://github.com/ZacSweers/CatchUp/commit/7a09b603d9fc1e2cf483f22dbf0b463f12d1fee2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Only run lintRelease"
-
-**2021-05-23** — pushed [`cc5087dc`](https://github.com/ZacSweers/CatchUp/commit/cc5087dcf910ac0b65dd84c7e612c91926eaded5) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Don't abort on error for now"
-
-**2021-05-23** — pushed [`e339e8ec`](https://github.com/ZacSweers/CatchUp/commit/e339e8ec370ba8c8a275800b6b28ba5bc6942b93) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More cleanup"
-
-**2021-05-23** — pushed [`e294407b`](https://github.com/ZacSweers/CatchUp/commit/e294407ba3e7d7e8c83496eda70fedd00c82a7b7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
-
-**2021-05-23** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-05-23** — pushed [`dc3e2fd9`](https://github.com/ZacSweers/CatchUp/commit/dc3e2fd98db1d0aafa64aa0ded1618c92d8d144d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixups"
-
-**2021-05-23** — pushed [`153d4fb1`](https://github.com/ZacSweers/CatchUp/commit/153d4fb15978861e82381943093f7f9e28485947) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Support jdk 16"
-
-**2021-05-23** — pushed [`bb0d176e`](https://github.com/ZacSweers/CatchUp/commit/bb0d176ed55cc49527c9720dd1f8447a1c047fb8) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "All the fixes"
-
-**2021-05-23** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846502032) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-23** — pushed [`7b30713a`](https://github.com/ZacSweers/anvil/commit/7b30713a9c5723e2814f6efff1de2d95a18201ea) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Ok actually clean it up"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
