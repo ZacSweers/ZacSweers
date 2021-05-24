@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-23** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2021-05-23** — pushed [`dc3e2fd9`](https://github.com/ZacSweers/CatchUp/commit/dc3e2fd98db1d0aafa64aa0ded1618c92d8d144d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixups"
 
 **2021-05-23** — pushed [`153d4fb1`](https://github.com/ZacSweers/CatchUp/commit/153d4fb15978861e82381943093f7f9e28485947) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Support jdk 16"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-22** — opened PR [#273](https://api.github.com/repos/square/anvil/pulls/273) to [square/anvil](https://api.github.com/repos/square/anvil): "Implement generation-only mode"
 
 **2021-05-22** — created branch "z/generationOnly" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-05-21** — closed issue [#71](https://api.github.com/repos/slackhq/keeper/issues/71) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Integrate Kotlin ABI validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
