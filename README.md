@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-23** — pushed [`7a09b603`](https://github.com/ZacSweers/CatchUp/commit/7a09b603d9fc1e2cf483f22dbf0b463f12d1fee2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Only run lintRelease"
+
+**2021-05-23** — pushed [`cc5087dc`](https://github.com/ZacSweers/CatchUp/commit/cc5087dcf910ac0b65dd84c7e612c91926eaded5) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Don't abort on error for now"
+
 **2021-05-23** — pushed [`e339e8ec`](https://github.com/ZacSweers/CatchUp/commit/e339e8ec370ba8c8a275800b6b28ba5bc6942b93) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More cleanup"
 
 **2021-05-23** — pushed [`e294407b`](https://github.com/ZacSweers/CatchUp/commit/e294407ba3e7d7e8c83496eda70fedd00c82a7b7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-23** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846502032) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-23** — pushed [`7b30713a`](https://github.com/ZacSweers/anvil/commit/7b30713a9c5723e2814f6efff1de2d95a18201ea) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Ok actually clean it up"
-
-**2021-05-22** — pushed [`3305c73a`](https://github.com/ZacSweers/anvil/commit/3305c73a3b6dae89c4556be3f6af1deaf77efc68) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Clean up annotation check logic"
-
-**2021-05-22** — commented on [#273](https://github.com/square/anvil/pull/273#issuecomment-846496385) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
