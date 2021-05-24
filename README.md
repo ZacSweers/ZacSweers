@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-24** — opened PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
+
+**2021-05-24** — created branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-05-24** — pushed [`2f19921a`](https://github.com/ZacSweers/CatchUp/commit/2f19921a92407fd1b4334d9ede3be5495d8a08b3) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Kotlin to 1.5.10"
 
 **2021-05-24** — opened PR [#263](https://api.github.com/repos/ZacSweers/CatchUp/pulls/263) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-24** — pushed [`ce0c6407`](https://github.com/ZacSweers/CatchUp/commit/ce0c6407444a44de459f2e0a823e58a793f7e6b2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things (#262)"
 
 **2021-05-24** — deleted branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-05-24** — closed PR [#262](https://api.github.com/repos/ZacSweers/CatchUp/pulls/262) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
-
-**2021-05-24** — pushed [`1e6b5d9d`](https://github.com/ZacSweers/CatchUp/commit/1e6b5d9d906eb43b134a24f587b0a27d4d41dd46) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish setting up namespaced resources"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
