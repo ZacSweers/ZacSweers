@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-24** — opened PR [#1099](https://api.github.com/repos/google/auto/pulls/1099) to [google/auto](https://api.github.com/repos/google/auto): "Implicitly exclude Kotlin `@Metadata` annotations from `@CopyAnnotations`"
+
+**2021-05-24** — created branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
+
+**2021-05-24** — pushed [`7d931728`](https://github.com/ZacSweers/anvil/commit/7d931728228eeb26e8455641244f0542fc7c0753) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "No braces needed"
+
 **2021-05-24** — opened PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
 
 **2021-05-24** — created branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-24** — pushed [`d639f972`](https://github.com/ZacSweers/CatchUp/commit/d639f972eb8634ec8477604f547ad197f61e5114) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "README updates"
 
 **2021-05-24** — deleted branch "z/testingMoreoijfsdkjf" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-05-24** — closed PR [#241](https://api.github.com/repos/ZacSweers/CatchUp/pulls/241) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test commit"
-
-**2021-05-24** — pushed [`ce0c6407`](https://github.com/ZacSweers/CatchUp/commit/ce0c6407444a44de459f2e0a823e58a793f7e6b2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things (#262)"
-
-**2021-05-24** — deleted branch "z/updateDeps" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
