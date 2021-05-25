@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-25** — opened issue [#6507](https://api.github.com/repos/robolectric/robolectric/issues/6507) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric 4.6 Injector attempts to load now-deleted InstrumentationProvider class"
+
 **2021-05-25** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-848227631) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-05-25** — pushed [`9a14a969`](https://github.com/ZacSweers/anvil/commit/9a14a9695c9b39c588e937f340d14e1353d59a6e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support Kotlin multiplatform projects."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-25** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-847534595) in [github/linguist](https://api.github.com/repos/github/linguist)
 
 **2021-05-25** — opened PR [#5384](https://api.github.com/repos/github/linguist/pulls/5384) to [github/linguist](https://api.github.com/repos/github/linguist): "Improve the Java language color + match modern branding"
-
-**2021-05-25** — pushed [`31bcc815`](https://github.com/ZacSweers/linguist/commit/31bcc815076a68476000c398b80d506753b29f8d) to [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist): "Improve the Java language color + match modern branding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
