@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-24** — pushed [`0fbccbb3`](https://github.com/ZacSweers/anvil/commit/0fbccbb335e956ae849ab802a439f4e283b9c6db) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to disableComponentMerging semantics"
+
 **2021-05-24** — opened PR [#1099](https://api.github.com/repos/google/auto/pulls/1099) to [google/auto](https://api.github.com/repos/google/auto): "Implicitly exclude Kotlin `@Metadata` annotations from `@CopyAnnotations`"
 
 **2021-05-24** — created branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-24** — created branch "z/roomKsp" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-05-24** — pushed [`d639f972`](https://github.com/ZacSweers/CatchUp/commit/d639f972eb8634ec8477604f547ad197f61e5114) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "README updates"
-
-**2021-05-24** — deleted branch "z/testingMoreoijfsdkjf" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
