@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-25** — pushed [`9a14a969`](https://github.com/ZacSweers/anvil/commit/9a14a9695c9b39c588e937f340d14e1353d59a6e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support Kotlin multiplatform projects."
+
+**2021-05-25** — pushed [`9a14a969`](https://github.com/ZacSweers/anvil/commit/9a14a9695c9b39c588e937f340d14e1353d59a6e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support Kotlin multiplatform projects."
+
+**2021-05-25** — deleted branch "z/qualifiers" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-05-25** — commented on [#5383](https://github.com/github/linguist/pull/5383#issuecomment-847554599) in [github/linguist](https://api.github.com/repos/github/linguist)
 
 **2021-05-25** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-847550635) in [github/linguist](https://api.github.com/repos/github/linguist)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-25** — pushed [`31bcc815`](https://github.com/ZacSweers/linguist/commit/31bcc815076a68476000c398b80d506753b29f8d) to [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist): "Improve the Java language color + match modern branding"
 
 **2021-05-25** — opened PR [#5383](https://api.github.com/repos/github/linguist/pulls/5383) to [github/linguist](https://api.github.com/repos/github/linguist): "Improve the Kotlin language color + match modern branding"
-
-**2021-05-25** — pushed [`2b83aab5`](https://github.com/ZacSweers/linguist/commit/2b83aab5dd93cafc0dadb2ab34e6707892a72908) to [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist): "Improve the Kotlin language color"
-
-**2021-05-24** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-847509883) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-05-24** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-847507156) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
