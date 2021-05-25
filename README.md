@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-25** — opened PR [#5384](https://api.github.com/repos/github/linguist/pulls/5384) to [github/linguist](https://api.github.com/repos/github/linguist): "Improve the Java language color + match modern branding"
+
+**2021-05-25** — pushed [`31bcc815`](https://github.com/ZacSweers/linguist/commit/31bcc815076a68476000c398b80d506753b29f8d) to [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist): "Improve the Java language color + match modern branding"
+
+**2021-05-25** — opened PR [#5383](https://api.github.com/repos/github/linguist/pulls/5383) to [github/linguist](https://api.github.com/repos/github/linguist): "Improve the Kotlin language color + match modern branding"
+
+**2021-05-25** — pushed [`2b83aab5`](https://github.com/ZacSweers/linguist/commit/2b83aab5dd93cafc0dadb2ab34e6707892a72908) to [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist): "Improve the Kotlin language color"
+
+**2021-05-24** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-847509883) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
+
 **2021-05-24** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-847507156) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-24** — pushed [`7ed29f1f`](https://github.com/ZacSweers/anvil/commit/7ed29f1f1fe02a6fb3e3402facc667f3b7395494) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Respect qualifiers when checking whether there is a duplicate binding."
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-24** — pushed 4 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-05-24** — pushed [`7806c030`](https://github.com/ZacSweers/anvil/commit/7806c030f7b6f603f3042367bc26619c320801b7) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Why doesn't ktlint handle imports"
-
-**2021-05-24** — deleted branch "z/generationOnly" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-05-24** — pushed [`eddc572f`](https://github.com/ZacSweers/anvil/commit/eddc572f2822304c8a7867657b53f4a83e6ffffe) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Implement generation-only mode"
-
-**2021-05-24** — pushed [`0fbccbb3`](https://github.com/ZacSweers/anvil/commit/0fbccbb335e956ae849ab802a439f4e283b9c6db) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to disableComponentMerging semantics"
-
-**2021-05-24** — opened PR [#1099](https://api.github.com/repos/google/auto/pulls/1099) to [google/auto](https://api.github.com/repos/google/auto): "Implicitly exclude Kotlin `@Metadata` annotations from `@CopyAnnotations`"
-
-**2021-05-24** — created branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
