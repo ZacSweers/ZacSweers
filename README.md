@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-24** — commented on [#269](https://github.com/square/anvil/pull/269#issuecomment-847507156) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-05-24** — pushed [`7ed29f1f`](https://github.com/ZacSweers/anvil/commit/7ed29f1f1fe02a6fb3e3402facc667f3b7395494) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Respect qualifiers when checking whether there is a duplicate binding."
+
+**2021-05-24** — pushed [`7ed29f1f`](https://github.com/ZacSweers/anvil/commit/7ed29f1f1fe02a6fb3e3402facc667f3b7395494) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Respect qualifiers when checking whether there is a duplicate binding."
+
+**2021-05-24** — pushed 4 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-05-24** — pushed [`7806c030`](https://github.com/ZacSweers/anvil/commit/7806c030f7b6f603f3042367bc26619c320801b7) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Why doesn't ktlint handle imports"
+
+**2021-05-24** — deleted branch "z/generationOnly" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-05-24** — pushed [`eddc572f`](https://github.com/ZacSweers/anvil/commit/eddc572f2822304c8a7867657b53f4a83e6ffffe) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Implement generation-only mode"
+
 **2021-05-24** — pushed [`0fbccbb3`](https://github.com/ZacSweers/anvil/commit/0fbccbb335e956ae849ab802a439f4e283b9c6db) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to disableComponentMerging semantics"
 
 **2021-05-24** — opened PR [#1099](https://api.github.com/repos/google/auto/pulls/1099) to [google/auto](https://api.github.com/repos/google/auto): "Implicitly exclude Kotlin `@Metadata` annotations from `@CopyAnnotations`"
 
 **2021-05-24** — created branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
-
-**2021-05-24** — pushed [`7d931728`](https://github.com/ZacSweers/anvil/commit/7d931728228eeb26e8455641244f0542fc7c0753) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "No braces needed"
-
-**2021-05-24** — opened PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
-
-**2021-05-24** — created branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-05-24** — pushed [`2f19921a`](https://github.com/ZacSweers/CatchUp/commit/2f19921a92407fd1b4334d9ede3be5495d8a08b3) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update Kotlin to 1.5.10"
-
-**2021-05-24** — opened PR [#263](https://api.github.com/repos/ZacSweers/CatchUp/pulls/263) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api"
-
-**2021-05-24** — created branch "z/roomKsp" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-05-24** — pushed [`d639f972`](https://github.com/ZacSweers/CatchUp/commit/d639f972eb8634ec8477604f547ad197f61e5114) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "README updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
