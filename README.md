@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-26** — deleted branch "z/anvilConfiguration" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-05-25** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-848422305) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-05-25** — opened issue [#6507](https://api.github.com/repos/robolectric/robolectric/issues/6507) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric 4.6 Injector attempts to load now-deleted InstrumentationProvider class"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-25** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-847550635) in [github/linguist](https://api.github.com/repos/github/linguist)
 
 **2021-05-25** — commented on [#5383](https://github.com/github/linguist/pull/5383#issuecomment-847540024) in [github/linguist](https://api.github.com/repos/github/linguist)
-
-**2021-05-25** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-847534595) in [github/linguist](https://api.github.com/repos/github/linguist)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
