@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-27** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-849925777) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-05-27** — pushed [`a755d53d`](https://github.com/ZacSweers/MoshiX/commit/a755d53db3371c6ba0f9ed01b131fc15385adf21) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs (#118)"
+
+**2021-05-27** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-27** — closed PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
+
+**2021-05-27** — pushed [`c06da6d7`](https://github.com/ZacSweers/MoshiX/commit/c06da6d70da68823647172b18df6417bcb87036d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "API update"
+
+**2021-05-27** — pushed [`a66460e9`](https://github.com/ZacSweers/MoshiX/commit/a66460e949b4e2884eccbc3e6aa9a33156aa987e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+
 **2021-05-27** — opened PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
 
 **2021-05-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — created tag "0.5.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-05-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-05-27** — pushed [`71fe5d7b`](https://github.com/ZacSweers/auto-service-ksp/commit/71fe5d7b3c064140b7b9fcbda7e451d55016dd46) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01 (#17)"
-
-**2021-05-27** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-27** — closed PR [#17](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/17) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01"
-
-**2021-05-27** — pushed [`04f16f10`](https://github.com/ZacSweers/auto-service-ksp/commit/04f16f100989e4e5957b3271545d0a6990f377bb) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Remove JDK 9 and 10 because wtf"
-
-**2021-05-27** — opened PR [#17](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/17) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01"
-
-**2021-05-27** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
