@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-26** — opened PR [#284](https://api.github.com/repos/square/anvil/pulls/284) to [square/anvil](https://api.github.com/repos/square/anvil): "Adopt Gradle Property APIs and deprecate non-Property analogues"
+
+**2021-05-26** — created branch "z/gradleProperties" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-05-26** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-849236191) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-05-26** — pushed 10 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-05-26** — commented on [#5383](https://github.com/github/linguist/pull/5383#issuecomment-849063584) in [github/linguist](https://api.github.com/repos/github/linguist)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-25** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-848422305) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-05-25** — opened issue [#6507](https://api.github.com/repos/robolectric/robolectric/issues/6507) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric 4.6 Injector attempts to load now-deleted InstrumentationProvider class"
-
-**2021-05-25** — commented on [#6357](https://github.com/robolectric/robolectric/issues/6357#issuecomment-848227631) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-05-25** — pushed [`9a14a969`](https://github.com/ZacSweers/anvil/commit/9a14a9695c9b39c588e937f340d14e1353d59a6e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support Kotlin multiplatform projects."
-
-**2021-05-25** — pushed [`9a14a969`](https://github.com/ZacSweers/anvil/commit/9a14a9695c9b39c588e937f340d14e1353d59a6e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support Kotlin multiplatform projects."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
