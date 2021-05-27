@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-27** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-849854798) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
+**2021-05-27** — opened PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
 
-**2021-05-27** — commented on [#288](https://github.com/square/anvil/pull/288#issuecomment-849853777) in [square/anvil](https://api.github.com/repos/square/anvil)
+**2021-05-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-27** — opened PR [#288](https://api.github.com/repos/square/anvil/pulls/288) to [square/anvil](https://api.github.com/repos/square/anvil): "Use conventions in Gradle extension properties"
+**2021-05-27** — created tag "0.5.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-27** — created branch "z/followups" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+**2021-05-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-05-27** — pushed 10 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+**2021-05-27** — pushed [`71fe5d7b`](https://github.com/ZacSweers/auto-service-ksp/commit/71fe5d7b3c064140b7b9fcbda7e451d55016dd46) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01 (#17)"
 
-**2021-05-27** — deleted branch "z/gradleProperties" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+**2021-05-27** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-05-27** — pushed 2 commits to [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto).
+**2021-05-27** — closed PR [#17](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/17) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01"
 
-**2021-05-27** — pushed [`e6bcdf83`](https://github.com/uber/AutoDispose/commit/e6bcdf83c5b22b4929555ee6403da63400cfbca5) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update deps again"
+**2021-05-27** — pushed [`04f16f10`](https://github.com/ZacSweers/auto-service-ksp/commit/04f16f100989e4e5957b3271545d0a6990f377bb) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Remove JDK 9 and 10 because wtf"
 
-**2021-05-27** — pushed [`03ec05f7`](https://github.com/uber/AutoDispose/commit/03ec05f78c7c14ea0f8cddc8be316993a3793276) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project (#443)"
+**2021-05-27** — opened PR [#17](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/17) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to 1.5.10-1.0.0-beta01"
 
-**2021-05-27** — commented on [#284](https://github.com/square/anvil/pull/284#issuecomment-849814797) in [square/anvil](https://api.github.com/repos/square/anvil)
+**2021-05-27** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
