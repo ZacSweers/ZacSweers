@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-27** — created tag "0.11.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-27** — pushed [`1056ca3f`](https://github.com/ZacSweers/MoshiX/commit/1056ca3feec2c1e5dafe7af0eee990de3cf00bdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.11.1."
+
 **2021-05-27** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-849925777) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-05-27** — pushed [`a755d53d`](https://github.com/ZacSweers/MoshiX/commit/a755d53db3371c6ba0f9ed01b131fc15385adf21) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs (#118)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — opened PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
 
 **2021-05-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-27** — created tag "0.5.2" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-05-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
