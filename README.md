@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-28** — pushed 5 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
 **2021-05-28** — closed issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
 
 **2021-05-28** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-850473961) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — closed PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
 
 **2021-05-27** — pushed [`c06da6d7`](https://github.com/ZacSweers/MoshiX/commit/c06da6d70da68823647172b18df6417bcb87036d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "API update"
-
-**2021-05-27** — pushed [`a66460e9`](https://github.com/ZacSweers/MoshiX/commit/a66460e949b4e2884eccbc3e6aa9a33156aa987e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
