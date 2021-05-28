@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-28** — closed issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
+
+**2021-05-28** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-850473961) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
+
 **2021-05-27** — created tag "0.11.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-27** — pushed [`1056ca3f`](https://github.com/ZacSweers/MoshiX/commit/1056ca3feec2c1e5dafe7af0eee990de3cf00bdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.11.1."
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — pushed [`c06da6d7`](https://github.com/ZacSweers/MoshiX/commit/c06da6d70da68823647172b18df6417bcb87036d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "API update"
 
 **2021-05-27** — pushed [`a66460e9`](https://github.com/ZacSweers/MoshiX/commit/a66460e949b4e2884eccbc3e6aa9a33156aa987e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-05-27** — opened PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
-
-**2021-05-27** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
