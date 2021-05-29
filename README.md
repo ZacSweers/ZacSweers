@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-29** — pushed [`3a52a962`](https://github.com/square/kotlinpoet/commit/3a52a962ea355ccace6b332ef4b4ed3cf2584e93) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Grammar fix"
+
 **2021-05-28** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-850763436) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-05-28** — pushed 5 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — pushed [`a755d53d`](https://github.com/ZacSweers/MoshiX/commit/a755d53db3371c6ba0f9ed01b131fc15385adf21) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs (#118)"
 
 **2021-05-27** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-27** — closed PR [#118](https://api.github.com/repos/ZacSweers/MoshiX/pulls/118) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
