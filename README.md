@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — opened issue [#54](https://api.github.com/repos/drewhamilton/Poko/issues/54) on [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko): "Publish a Gradle plugin marker"
+
 **2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851055039) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851054795) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-30** — deleted branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-05-30** — closed PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
-
-**2021-05-29** — pushed [`3a52a962`](https://github.com/square/kotlinpoet/commit/3a52a962ea355ccace6b332ef4b4ed3cf2584e93) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Grammar fix"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
