@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — pushed [`5395a8e2`](https://github.com/square/kotlinpoet/commit/5395a8e2e0ef0f9e7d0ae044b66c5ef3e06db925) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi (#1088)"
+
+**2021-05-30** — deleted branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-05-30** — closed PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
+
 **2021-05-29** — pushed [`3a52a962`](https://github.com/square/kotlinpoet/commit/3a52a962ea355ccace6b332ef4b4ed3cf2584e93) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Grammar fix"
 
 **2021-05-28** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-850763436) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-27** — created tag "0.11.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-27** — pushed [`1056ca3f`](https://github.com/ZacSweers/MoshiX/commit/1056ca3feec2c1e5dafe7af0eee990de3cf00bdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.11.1."
-
-**2021-05-27** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-849925777) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-05-27** — pushed [`a755d53d`](https://github.com/ZacSweers/MoshiX/commit/a755d53db3371c6ba0f9ed01b131fc15385adf21) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to new APIs (#118)"
-
-**2021-05-27** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
