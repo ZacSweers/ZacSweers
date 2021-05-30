@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851055039) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851054795) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-05-30** — opened issue [#80](https://api.github.com/repos/slackhq/keeper/issues/80) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try sourcing the androidTest-generated configuration file"
+
+**2021-05-30** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-851054055) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-05-30** — closed issue [#66](https://api.github.com/repos/slackhq/keeper/issues/66) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add better troubleshooting docs for PrintUses assertion errors"
+
+**2021-05-30** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-851053994) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-05-30** — pushed [`5395a8e2`](https://github.com/square/kotlinpoet/commit/5395a8e2e0ef0f9e7d0ae044b66c5ef3e06db925) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi (#1088)"
 
 **2021-05-30** — deleted branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-30** — closed PR [#1088](https://api.github.com/repos/square/kotlinpoet/pulls/1088) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi"
 
 **2021-05-29** — pushed [`3a52a962`](https://github.com/square/kotlinpoet/commit/3a52a962ea355ccace6b332ef4b4ed3cf2584e93) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Grammar fix"
-
-**2021-05-28** — commented on [#207](https://github.com/square/anvil/pull/207#issuecomment-850763436) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-05-28** — pushed 5 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-05-28** — closed issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
-
-**2021-05-28** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-850473961) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-05-27** — created tag "0.11.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-27** — pushed [`1056ca3f`](https://github.com/ZacSweers/MoshiX/commit/1056ca3feec2c1e5dafe7af0eee990de3cf00bdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prepare for release 0.11.1."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
