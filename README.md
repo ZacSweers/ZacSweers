@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-31** — commented on [#257](https://github.com/rharter/auto-value-gson/issues/257#issuecomment-851683925) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
+
+**2021-05-31** — pushed 18 commits to [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto).
+
 **2021-05-31** — commented on [#120](https://github.com/ZacSweers/MoshiX/issues/120#issuecomment-851678837) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-05-31** — created tag "0.11.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-31** — closed PR [#1350](https://api.github.com/repos/square/moshi/pulls/1350) to [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource javadoc"
 
 **2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851673017) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851671681) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-31** — opened issue [#464](https://api.github.com/repos/google/ksp/issues/464) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated proguard files in resources are not seen by AGP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
