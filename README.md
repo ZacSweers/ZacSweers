@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-31** — pushed [`355b8aa8`](https://github.com/ZacSweers/MoshiX/commit/355b8aa84ff3f01f5a143039a4de90d4305e4e05) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Report node correctly"
+
+**2021-05-31** — opened PR [#122](https://api.github.com/repos/ZacSweers/MoshiX/pulls/122) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reproduce #119 annotation null value"
+
+**2021-05-31** — commented on [#463](https://github.com/google/ksp/issues/463#issuecomment-851654314) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-05-31** — commented on [#119](https://github.com/ZacSweers/MoshiX/issues/119#issuecomment-851654235) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-31** — opened issue [#463](https://api.github.com/repos/google/ksp/issues/463) on [google/ksp](https://api.github.com/repos/google/ksp): "Unexpected null annotation member value"
+
+**2021-05-31** — created branch "z/nullValueRepro" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-05-31** — pushed [`634c1723`](https://github.com/ZacSweers/MoshiX/commit/634c172392169757a9499305a0512749b50d9de9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make null annotation value error more detailed"
+
+**2021-05-31** — commented on [#54](https://github.com/drewhamilton/Poko/issues/54#issuecomment-851645637) in [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko)
+
 **2021-05-31** — commented on [#63](https://github.com/gradle/gradle-profiler/issues/63#issuecomment-851622053) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-05-30** — deleted branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
-
-**2021-05-30** — pushed [`19745ed2`](https://github.com/slackhq/keeper/commit/19745ed2929919b911c374985e787a3d807a06b5) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Handle AGP 7 API"
-
-**2021-05-30** — pushed [`efd0f410`](https://github.com/slackhq/keeper/commit/efd0f410a21de3b671b5588adb610e1a2ec38bb4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Uh groovy"
-
-**2021-05-30** — pushed [`358e4295`](https://github.com/slackhq/keeper/commit/358e4295a56f52ae6ed92060d8e39e7b096d5bac) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update task name"
-
-**2021-05-30** — opened PR [#81](https://api.github.com/repos/slackhq/keeper/pulls/81) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app"
-
-**2021-05-30** — pushed [`7c297d77`](https://github.com/slackhq/keeper/commit/7c297d779bd2f33e2c3e481a584e1e60afeaf946) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add simple smoke test to samples"
-
-**2021-05-30** — created branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-30** — commented on [#1349](https://github.com/square/moshi/issues/1349#issuecomment-851073659) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-30** — opened issue [#54](https://api.github.com/repos/drewhamilton/Poko/issues/54) on [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko): "Publish a Gradle plugin marker"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
