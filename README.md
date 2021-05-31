@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — deleted branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
+
+**2021-05-30** — pushed [`19745ed2`](https://github.com/slackhq/keeper/commit/19745ed2929919b911c374985e787a3d807a06b5) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Handle AGP 7 API"
+
 **2021-05-30** — pushed [`efd0f410`](https://github.com/slackhq/keeper/commit/efd0f410a21de3b671b5588adb610e1a2ec38bb4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Uh groovy"
 
 **2021-05-30** — pushed [`358e4295`](https://github.com/slackhq/keeper/commit/358e4295a56f52ae6ed92060d8e39e7b096d5bac) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update task name"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-30** — opened issue [#54](https://api.github.com/repos/drewhamilton/Poko/issues/54) on [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko): "Publish a Gradle plugin marker"
 
 **2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851055039) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851054795) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-30** — opened issue [#80](https://api.github.com/repos/slackhq/keeper/issues/80) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try sourcing the androidTest-generated configuration file"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
