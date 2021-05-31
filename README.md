@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — pushed [`efd0f410`](https://github.com/slackhq/keeper/commit/efd0f410a21de3b671b5588adb610e1a2ec38bb4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Uh groovy"
+
+**2021-05-30** — pushed [`358e4295`](https://github.com/slackhq/keeper/commit/358e4295a56f52ae6ed92060d8e39e7b096d5bac) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update task name"
+
+**2021-05-30** — opened PR [#81](https://api.github.com/repos/slackhq/keeper/pulls/81) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app"
+
+**2021-05-30** — pushed [`7c297d77`](https://github.com/slackhq/keeper/commit/7c297d779bd2f33e2c3e481a584e1e60afeaf946) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add simple smoke test to samples"
+
 **2021-05-30** — created branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-30** — commented on [#1349](https://github.com/square/moshi/issues/1349#issuecomment-851073659) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-30** — commented on [#80](https://github.com/slackhq/keeper/issues/80#issuecomment-851054795) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-30** — opened issue [#80](https://api.github.com/repos/slackhq/keeper/issues/80) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try sourcing the androidTest-generated configuration file"
-
-**2021-05-30** — commented on [#66](https://github.com/slackhq/keeper/issues/66#issuecomment-851054055) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-30** — closed issue [#66](https://api.github.com/repos/slackhq/keeper/issues/66) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add better troubleshooting docs for PrintUses assertion errors"
-
-**2021-05-30** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-851053994) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-05-30** — pushed [`5395a8e2`](https://github.com/square/kotlinpoet/commit/5395a8e2e0ef0f9e7d0ae044b66c5ef3e06db925) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi (#1088)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
