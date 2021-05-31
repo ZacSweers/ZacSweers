@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-30** — created branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-05-30** — commented on [#1349](https://github.com/square/moshi/issues/1349#issuecomment-851073659) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-30** — opened issue [#54](https://api.github.com/repos/drewhamilton/Poko/issues/54) on [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko): "Publish a Gradle plugin marker"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-30** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-851053994) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-05-30** — pushed [`5395a8e2`](https://github.com/square/kotlinpoet/commit/5395a8e2e0ef0f9e7d0ae044b66c5ef3e06db925) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Proposal PR: Add DelicateKotlinPoetApi (#1088)"
-
-**2021-05-30** — deleted branch "z/DelicateKotlinPoetApi" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
