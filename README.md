@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-05-31** — pushed [`355b8aa8`](https://github.com/ZacSweers/MoshiX/commit/355b8aa84ff3f01f5a143039a4de90d4305e4e05) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Report node correctly"
+**2021-05-31** — commented on [#120](https://github.com/ZacSweers/MoshiX/issues/120#issuecomment-851678837) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-31** — opened PR [#122](https://api.github.com/repos/ZacSweers/MoshiX/pulls/122) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reproduce #119 annotation null value"
+**2021-05-31** — created tag "0.11.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-31** — commented on [#463](https://github.com/google/ksp/issues/463#issuecomment-851654314) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-05-31** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-05-31** — commented on [#119](https://github.com/ZacSweers/MoshiX/issues/119#issuecomment-851654235) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-31** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-851675572) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-05-31** — opened issue [#463](https://api.github.com/repos/google/ksp/issues/463) on [google/ksp](https://api.github.com/repos/google/ksp): "Unexpected null annotation member value"
+**2021-05-31** — commented on [#1350](https://github.com/square/moshi/pull/1350#issuecomment-851673974) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-05-31** — created branch "z/nullValueRepro" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-05-31** — pushed [`3c108919`](https://github.com/square/moshi/commit/3c108919ee1cce88a433ffda04eeeddc0341eae7) to [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource javadoc (#1350)"
 
-**2021-05-31** — pushed [`634c1723`](https://github.com/ZacSweers/MoshiX/commit/634c172392169757a9499305a0512749b50d9de9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Make null annotation value error more detailed"
+**2021-05-31** — closed PR [#1350](https://api.github.com/repos/square/moshi/pulls/1350) to [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource javadoc"
 
-**2021-05-31** — commented on [#54](https://github.com/drewhamilton/Poko/issues/54#issuecomment-851645637) in [drewhamilton/Poko](https://api.github.com/repos/drewhamilton/Poko)
+**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851673017) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-31** — commented on [#63](https://github.com/gradle/gradle-profiler/issues/63#issuecomment-851622053) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851671681) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-05-30** — deleted branch "z/metadata" on [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto)
+**2021-05-31** — opened issue [#464](https://api.github.com/repos/google/ksp/issues/464) on [google/ksp](https://api.github.com/repos/google/ksp): "Generated proguard files in resources are not seen by AGP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
