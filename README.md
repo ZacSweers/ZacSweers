@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-01** — closed issue [#245](https://api.github.com/repos/rharter/auto-value-gson/issues/245) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Allow custom opt-in annotation for factory"
+
+**2021-06-01** — pushed [`881b7d31`](https://github.com/rharter/auto-value-gson/commit/881b7d3141503469b464f92c68462fd9e794fc18) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "use canonical class name for sorting elements (#260)"
+
+**2021-06-01** — closed PR [#260](https://api.github.com/repos/rharter/auto-value-gson/pulls/260) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "use canonical class name for sorting elements"
+
+**2021-06-01** — closed issue [#257](https://api.github.com/repos/rharter/auto-value-gson/issues/257) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Non-deterministic generation of TypeAdapterFactory"
+
+**2021-06-01** — deleted branch "patch-1" on [ZacSweers/linguist](https://api.github.com/repos/ZacSweers/linguist)
+
 **2021-06-01** — commented on [#2143](https://github.com/google/dagger/issues/2143#issuecomment-852108334) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-05-31** — closed issue [#463](https://api.github.com/repos/google/ksp/issues/463) on [google/ksp](https://api.github.com/repos/google/ksp): "Unexpected null annotation member value"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-31** — closed issue [#1352](https://api.github.com/repos/square/moshi/issues/1352) on [square/moshi](https://api.github.com/repos/square/moshi): "Migration when the structure of the data class changes."
 
 **2021-05-31** — commented on [#1352](https://github.com/square/moshi/issues/1352#issuecomment-851779395) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-31** — commented on [#464](https://github.com/google/ksp/issues/464#issuecomment-851774300) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851773800) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-05-31** — commented on [#1351](https://github.com/square/moshi/issues/1351#issuecomment-851763801) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-31** — commented on [#1351](https://github.com/square/moshi/issues/1351#issuecomment-851761657) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-31** — commented on [#1351](https://github.com/square/moshi/issues/1351#issuecomment-851761090) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
