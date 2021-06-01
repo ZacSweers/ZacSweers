@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-05-31** — pushed [`632d4a88`](https://github.com/rharter/auto-value-gson/commit/632d4a88a95fd0e52b7f7a8578fcea23b30cb7f2) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Generalize support for setting properties with builders. (#259)"
+
+**2021-05-31** — closed PR [#259](https://api.github.com/repos/rharter/auto-value-gson/pulls/259) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Generalize support for setting properties with builders."
+
+**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851724872) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-05-31** — commented on [#257](https://github.com/rharter/auto-value-gson/issues/257#issuecomment-851683925) in [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson)
 
 **2021-05-31** — pushed 18 commits to [ZacSweers/auto](https://api.github.com/repos/ZacSweers/auto).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-31** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-851675572) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-31** — commented on [#1350](https://github.com/square/moshi/pull/1350#issuecomment-851673974) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-31** — pushed [`3c108919`](https://github.com/square/moshi/commit/3c108919ee1cce88a433ffda04eeeddc0341eae7) to [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource javadoc (#1350)"
-
-**2021-05-31** — closed PR [#1350](https://api.github.com/repos/square/moshi/pulls/1350) to [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource javadoc"
-
-**2021-05-31** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-851673017) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
