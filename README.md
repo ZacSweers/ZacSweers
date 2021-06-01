@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-01** — commented on [#1345](https://github.com/square/moshi/issues/1345#issuecomment-852379496) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-06-01** — closed issue [#245](https://api.github.com/repos/rharter/auto-value-gson/issues/245) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Allow custom opt-in annotation for factory"
 
 **2021-06-01** — pushed [`881b7d31`](https://github.com/rharter/auto-value-gson/commit/881b7d3141503469b464f92c68462fd9e794fc18) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "use canonical class name for sorting elements (#260)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-31** — commented on [#463](https://github.com/google/ksp/issues/463#issuecomment-851781900) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-05-31** — closed issue [#1352](https://api.github.com/repos/square/moshi/issues/1352) on [square/moshi](https://api.github.com/repos/square/moshi): "Migration when the structure of the data class changes."
-
-**2021-05-31** — commented on [#1352](https://github.com/square/moshi/issues/1352#issuecomment-851779395) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
