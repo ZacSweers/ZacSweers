@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-01** — commented on [#2143](https://github.com/google/dagger/issues/2143#issuecomment-852108334) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-05-31** — closed issue [#463](https://api.github.com/repos/google/ksp/issues/463) on [google/ksp](https://api.github.com/repos/google/ksp): "Unexpected null annotation member value"
 
 **2021-05-31** — commented on [#463](https://github.com/google/ksp/issues/463#issuecomment-851781900) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-05-31** — commented on [#1351](https://github.com/square/moshi/issues/1351#issuecomment-851761657) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-05-31** — commented on [#1351](https://github.com/square/moshi/issues/1351#issuecomment-851761090) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-05-31** — pushed [`632d4a88`](https://github.com/rharter/auto-value-gson/commit/632d4a88a95fd0e52b7f7a8578fcea23b30cb7f2) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Generalize support for setting properties with builders. (#259)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
