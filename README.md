@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-01** — pushed [`baff19ac`](https://github.com/slackhq/keeper/commit/baff19ac6e5e135065ed697b290dcae68bcb5ccf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app (#81)"
+
+**2021-06-01** — deleted branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-06-01** — closed PR [#81](https://api.github.com/repos/slackhq/keeper/pulls/81) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app"
+
+**2021-06-01** — closed issue [#80](https://api.github.com/repos/slackhq/keeper/issues/80) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try sourcing the androidTest-generated configuration file"
+
 **2021-06-01** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-852412920) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-06-01** — commented on [#466](https://github.com/google/ksp/issues/466#issuecomment-852407365) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-01** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-852399961) in [github/linguist](https://api.github.com/repos/github/linguist)
 
 **2021-06-01** — commented on [#1345](https://github.com/square/moshi/issues/1345#issuecomment-852379496) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-06-01** — closed issue [#245](https://api.github.com/repos/rharter/auto-value-gson/issues/245) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Allow custom opt-in annotation for factory"
-
-**2021-06-01** — pushed [`881b7d31`](https://github.com/rharter/auto-value-gson/commit/881b7d3141503469b464f92c68462fd9e794fc18) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "use canonical class name for sorting elements (#260)"
-
-**2021-06-01** — closed PR [#260](https://api.github.com/repos/rharter/auto-value-gson/pulls/260) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "use canonical class name for sorting elements"
-
-**2021-06-01** — closed issue [#257](https://api.github.com/repos/rharter/auto-value-gson/issues/257) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Non-deterministic generation of TypeAdapterFactory"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
