@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-03** — closed issue [#1356](https://api.github.com/repos/square/moshi/issues/1356) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated adapter misses fields outside of a constructor"
+
+**2021-06-03** — commented on [#1356](https://github.com/square/moshi/issues/1356#issuecomment-853968593) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-06-02** — pushed [`9b074585`](https://github.com/ZacSweers/ksp/commit/9b074585fa0b0267dc62597bebb2bda224092793) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Use files() instead of fileTree()"
 
 **2021-06-01** — pushed [`baff19ac`](https://github.com/slackhq/keeper/commit/baff19ac6e5e135065ed697b290dcae68bcb5ccf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app (#81)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-01** — commented on [#466](https://github.com/google/ksp/issues/466#issuecomment-852407365) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-06-01** — opened PR [#467](https://api.github.com/repos/google/ksp/pulls/467) to [google/ksp](https://api.github.com/repos/google/ksp): "Register resources to variant postJavacGeneratedBytecode"
-
-**2021-06-01** — created branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-06-01** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-852399961) in [github/linguist](https://api.github.com/repos/github/linguist)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
