@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-03** — deleted branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-06-03** — deleted branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-06-03** — opened PR [#306](https://api.github.com/repos/square/anvil/pulls/306) to [square/anvil](https://api.github.com/repos/square/anvil): "Add rawTypeFilter to KotlinType.asTypeName()"
 
 **2021-06-03** — created branch "z/shortCircuitTypeArgs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-03** — created branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-06-03** — opened PR [#303](https://api.github.com/repos/square/anvil/pulls/303) to [square/anvil](https://api.github.com/repos/square/anvil): "Introduce KClass<*>.fqName helper extension"
-
-**2021-06-03** — pushed [`a05b3e68`](https://github.com/ZacSweers/anvil/commit/a05b3e680ddcf0773183413d86af50cf207bf2fa) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Introduce KClass<*>.fqName helper extension"
-
-**2021-06-03** — created branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
