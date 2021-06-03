@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-03** — deleted branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-06-03** — deleted branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-06-03** — deleted branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-03** — opened PR [#304](https://api.github.com/repos/square/anvil/pulls/304) to [square/anvil](https://api.github.com/repos/square/anvil): "Add a workingDir param to anvilCompile for test folder access"
 
 **2021-06-03** — created branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-06-03** — opened PR [#303](https://api.github.com/repos/square/anvil/pulls/303) to [square/anvil](https://api.github.com/repos/square/anvil): "Introduce KClass<*>.fqName helper extension"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
