@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-06-03** — closed issue [#1356](https://api.github.com/repos/square/moshi/issues/1356) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated adapter misses fields outside of a constructor"
+**2021-06-03** — opened PR [#306](https://api.github.com/repos/square/anvil/pulls/306) to [square/anvil](https://api.github.com/repos/square/anvil): "Add rawTypeFilter to KotlinType.asTypeName()"
 
-**2021-06-03** — commented on [#1356](https://github.com/square/moshi/issues/1356#issuecomment-853968593) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-06-03** — created branch "z/shortCircuitTypeArgs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
-**2021-06-02** — pushed [`9b074585`](https://github.com/ZacSweers/ksp/commit/9b074585fa0b0267dc62597bebb2bda224092793) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Use files() instead of fileTree()"
+**2021-06-03** — opened PR [#305](https://api.github.com/repos/square/anvil/pulls/305) to [square/anvil](https://api.github.com/repos/square/anvil): "Add generatorComment parameter to buildFile + use canonical KotlinPoet API"
 
-**2021-06-01** — pushed [`baff19ac`](https://github.com/slackhq/keeper/commit/baff19ac6e5e135065ed697b290dcae68bcb5ccf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app (#81)"
+**2021-06-03** — created branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
-**2021-06-01** — deleted branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-06-03** — commented on [#304](https://github.com/square/anvil/pull/304#issuecomment-854138792) in [square/anvil](https://api.github.com/repos/square/anvil)
 
-**2021-06-01** — closed PR [#81](https://api.github.com/repos/slackhq/keeper/pulls/81) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app"
+**2021-06-03** — opened PR [#304](https://api.github.com/repos/square/anvil/pulls/304) to [square/anvil](https://api.github.com/repos/square/anvil): "Add a workingDir param to anvilCompile for test folder access"
 
-**2021-06-01** — closed issue [#80](https://api.github.com/repos/slackhq/keeper/issues/80) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Try sourcing the androidTest-generated configuration file"
+**2021-06-03** — created branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
-**2021-06-01** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-852412920) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-06-03** — opened PR [#303](https://api.github.com/repos/square/anvil/pulls/303) to [square/anvil](https://api.github.com/repos/square/anvil): "Introduce KClass<*>.fqName helper extension"
 
-**2021-06-01** — commented on [#466](https://github.com/google/ksp/issues/466#issuecomment-852407365) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-06-03** — pushed [`a05b3e68`](https://github.com/ZacSweers/anvil/commit/a05b3e680ddcf0773183413d86af50cf207bf2fa) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Introduce KClass<*>.fqName helper extension"
 
-**2021-06-01** — opened PR [#467](https://api.github.com/repos/google/ksp/pulls/467) to [google/ksp](https://api.github.com/repos/google/ksp): "Register resources to variant postJavacGeneratedBytecode"
+**2021-06-03** — created branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
