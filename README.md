@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-02** — pushed [`9b074585`](https://github.com/ZacSweers/ksp/commit/9b074585fa0b0267dc62597bebb2bda224092793) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Use files() instead of fileTree()"
+
 **2021-06-01** — pushed [`baff19ac`](https://github.com/slackhq/keeper/commit/baff19ac6e5e135065ed697b290dcae68bcb5ccf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Include androidTest proguard files in target app (#81)"
 
 **2021-06-01** — deleted branch "z/includeTestProguardFiles" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-01** — created branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-06-01** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-852399961) in [github/linguist](https://api.github.com/repos/github/linguist)
-
-**2021-06-01** — commented on [#1345](https://github.com/square/moshi/issues/1345#issuecomment-852379496) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
