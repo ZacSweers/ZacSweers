@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-04** — closed issue [#71](https://api.github.com/repos/uber/RxDogTag/issues/71) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Common crash report for all crashes - Rx v3.0.4 + RxDogTag v2.0.1"
+
+**2021-06-04** — commented on [#71](https://github.com/uber/RxDogTag/issues/71#issuecomment-854400952) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-06-03** — deleted branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-06-03** — deleted branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-03** — created branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-06-03** — commented on [#304](https://github.com/square/anvil/pull/304#issuecomment-854138792) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-06-03** — opened PR [#304](https://api.github.com/repos/square/anvil/pulls/304) to [square/anvil](https://api.github.com/repos/square/anvil): "Add a workingDir param to anvilCompile for test folder access"
-
-**2021-06-03** — created branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
