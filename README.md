@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-06** — opened PR [#83](https://api.github.com/repos/slackhq/keeper/pulls/83) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks"
+
+**2021-06-06** — created branch "z/excludeModuleInfo" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-06-06** — opened issue [#82](https://api.github.com/repos/slackhq/keeper/issues/82) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class from duplicate classes checks"
+
 **2021-06-04** — closed issue [#71](https://api.github.com/repos/uber/RxDogTag/issues/71) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Common crash report for all crashes - Rx v3.0.4 + RxDogTag v2.0.1"
 
 **2021-06-04** — commented on [#71](https://github.com/uber/RxDogTag/issues/71#issuecomment-854400952) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-03** — opened PR [#306](https://api.github.com/repos/square/anvil/pulls/306) to [square/anvil](https://api.github.com/repos/square/anvil): "Add rawTypeFilter to KotlinType.asTypeName()"
 
 **2021-06-03** — created branch "z/shortCircuitTypeArgs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-06-03** — opened PR [#305](https://api.github.com/repos/square/anvil/pulls/305) to [square/anvil](https://api.github.com/repos/square/anvil): "Add generatorComment parameter to buildFile + use canonical KotlinPoet API"
-
-**2021-06-03** — created branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-06-03** — commented on [#304](https://github.com/square/anvil/pull/304#issuecomment-854138792) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
