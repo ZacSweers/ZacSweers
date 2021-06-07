@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-06** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855553305) in [android/android-test](https://api.github.com/repos/android/android-test)
+
+**2021-06-06** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855552357) in [android/android-test](https://api.github.com/repos/android/android-test)
+
+**2021-06-06** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855551943) in [android/android-test](https://api.github.com/repos/android/android-test)
+
 **2021-06-06** — opened PR [#83](https://api.github.com/repos/slackhq/keeper/pulls/83) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks"
 
 **2021-06-06** — created branch "z/excludeModuleInfo" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-03** — deleted branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-06-03** — deleted branch "z/fqName" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-06-03** — deleted branch "z/workingDirParam" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-06-03** — opened PR [#306](https://api.github.com/repos/square/anvil/pulls/306) to [square/anvil](https://api.github.com/repos/square/anvil): "Add rawTypeFilter to KotlinType.asTypeName()"
-
-**2021-06-03** — created branch "z/shortCircuitTypeArgs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
