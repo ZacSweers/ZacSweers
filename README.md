@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-07** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-856023891) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-06-07** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855564144) in [android/android-test](https://api.github.com/repos/android/android-test)
 
 **2021-06-06** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855553305) in [android/android-test](https://api.github.com/repos/android/android-test)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-04** — closed issue [#71](https://api.github.com/repos/uber/RxDogTag/issues/71) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Common crash report for all crashes - Rx v3.0.4 + RxDogTag v2.0.1"
 
 **2021-06-04** — commented on [#71](https://github.com/uber/RxDogTag/issues/71#issuecomment-854400952) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-06-03** — deleted branch "z/generatorString" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
