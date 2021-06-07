@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-07** — pushed [`4522ccaa`](https://github.com/slackhq/keeper/commit/4522ccaa816a7c87b9c90e5de473bb3876a0b20f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks (#83)"
+
+**2021-06-07** — deleted branch "z/excludeModuleInfo" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-06-07** — closed PR [#83](https://api.github.com/repos/slackhq/keeper/pulls/83) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks"
+
+**2021-06-07** — closed issue [#82](https://api.github.com/repos/slackhq/keeper/issues/82) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class from duplicate classes checks"
+
 **2021-06-07** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-856023891) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-06-07** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855564144) in [android/android-test](https://api.github.com/repos/android/android-test)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-06** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-855551943) in [android/android-test](https://api.github.com/repos/android/android-test)
 
 **2021-06-06** — opened PR [#83](https://api.github.com/repos/slackhq/keeper/pulls/83) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks"
-
-**2021-06-06** — created branch "z/excludeModuleInfo" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-06-06** — opened issue [#82](https://api.github.com/repos/slackhq/keeper/issues/82) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class from duplicate classes checks"
-
-**2021-06-04** — closed issue [#71](https://api.github.com/repos/uber/RxDogTag/issues/71) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "Common crash report for all crashes - Rx v3.0.4 + RxDogTag v2.0.1"
-
-**2021-06-04** — commented on [#71](https://github.com/uber/RxDogTag/issues/71#issuecomment-854400952) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
