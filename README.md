@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-09** — pushed [`101c2371`](https://github.com/slackhq/keeper/commit/101c23717e4fde275079f843a623f1009aec6bfe) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed c2196c1 with MkDocs version: 1.1.2"
+
+**2021-06-09** — created tag "0.10.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-06-09** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2021-06-09** — pushed [`1610a45b`](https://github.com/slackhq/keeper/commit/1610a45bdeb6cd641a2d07b66434d77e1dc9b40d) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed de41153 with MkDocs version: 1.1.2"
+
 **2021-06-09** — pushed [`de41153a`](https://github.com/slackhq/keeper/commit/de41153abf14c05b899669f793f2f1f12def26d4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support (#84)"
 
 **2021-06-09** — deleted branch "z/l8Support" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-09** — pushed [`bf47f9b2`](https://github.com/slackhq/keeper/commit/bf47f9b2b828bbe2fc914afe83fdae150a56bc41) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Apply suggestions from code review"
 
 **2021-06-09** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-857364669) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-06-08** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-856487274) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-06-08** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-06-08** — pushed [`526b7419`](https://github.com/slackhq/keeper/commit/526b74194020e9c81421cb8b6b6255267a8860e2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add interpolateL8TaskName and fix lookup"
-
-**2021-06-08** — pushed [`e313243d`](https://github.com/slackhq/keeper/commit/e313243d6487483bc17f52d48bde46abcfa6ea7f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update name in test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
