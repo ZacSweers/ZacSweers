@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-09** — pushed [`de41153a`](https://github.com/slackhq/keeper/commit/de41153abf14c05b899669f793f2f1f12def26d4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support (#84)"
+
+**2021-06-09** — deleted branch "z/l8Support" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-06-09** — closed PR [#84](https://api.github.com/repos/slackhq/keeper/pulls/84) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support"
+
+**2021-06-09** — closed issue [#67](https://api.github.com/repos/slackhq/keeper/issues/67) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Some desugared java.time classes are not kept"
+
 **2021-06-09** — pushed [`bf47f9b2`](https://github.com/slackhq/keeper/commit/bf47f9b2b828bbe2fc914afe83fdae150a56bc41) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Apply suggestions from code review"
 
 **2021-06-09** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-857364669) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-08** — pushed [`526b7419`](https://github.com/slackhq/keeper/commit/526b74194020e9c81421cb8b6b6255267a8860e2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Add interpolateL8TaskName and fix lookup"
 
 **2021-06-08** — pushed [`e313243d`](https://github.com/slackhq/keeper/commit/e313243d6487483bc17f52d48bde46abcfa6ea7f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update name in test"
-
-**2021-06-08** — opened PR [#84](https://api.github.com/repos/slackhq/keeper/pulls/84) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support"
-
-**2021-06-08** — created branch "z/l8Support" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-06-07** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-856354577) in [android/android-test](https://api.github.com/repos/android/android-test)
-
-**2021-06-07** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-856187796) in [android/android-test](https://api.github.com/repos/android/android-test)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
