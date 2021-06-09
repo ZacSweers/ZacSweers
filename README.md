@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-09** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-857364669) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-06-08** — commented on [#67](https://github.com/slackhq/keeper/issues/67#issuecomment-856487274) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-06-08** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-07** — commented on [#968](https://github.com/android/android-test/issues/968#issuecomment-856187796) in [android/android-test](https://api.github.com/repos/android/android-test)
 
 **2021-06-07** — pushed [`4522ccaa`](https://github.com/slackhq/keeper/commit/4522ccaa816a7c87b9c90e5de473bb3876a0b20f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Exclude module-info.class files from duplicate classes checks (#83)"
-
-**2021-06-07** — deleted branch "z/excludeModuleInfo" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
