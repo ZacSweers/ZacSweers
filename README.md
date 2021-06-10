@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-09** — opened PR [#35](https://api.github.com/repos/cashapp/licensee/pulls/35) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Use configureEach rather than all"
+
+**2021-06-09** — created branch "z/configureEach" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
+
 **2021-06-09** — pushed 81 commits to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger).
 
 **2021-06-09** — pushed [`101c2371`](https://github.com/slackhq/keeper/commit/101c23717e4fde275079f843a623f1009aec6bfe) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed c2196c1 with MkDocs version: 1.1.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-09** — deleted branch "z/l8Support" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-06-09** — closed PR [#84](https://api.github.com/repos/slackhq/keeper/pulls/84) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support"
-
-**2021-06-09** — closed issue [#67](https://api.github.com/repos/slackhq/keeper/issues/67) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Some desugared java.time classes are not kept"
-
-**2021-06-09** — pushed [`bf47f9b2`](https://github.com/slackhq/keeper/commit/bf47f9b2b828bbe2fc914afe83fdae150a56bc41) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
