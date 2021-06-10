@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859082742) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859065806) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-06-10** — pushed 6 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
 
 **2021-06-10** — pushed [`86a62f0a`](https://github.com/ZacSweers/licensee/commit/86a62f0aab575acc16953a2aea0cc0b23f250949) to [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee): "Nix leftover nullcheck"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-10** — opened issue [#17420](https://api.github.com/repos/gradle/gradle/issues/17420) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle task execution hangs when gradle home dir is an input"
 
 **2021-06-10** — opened PR [#36](https://api.github.com/repos/cashapp/licensee/pulls/36) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Add scm url if present"
-
-**2021-06-10** — created branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
-
-**2021-06-09** — deleted branch "z/configureEach" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
