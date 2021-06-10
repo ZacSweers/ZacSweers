@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-858830290) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-06-10** — opened issue [#17420](https://api.github.com/repos/gradle/gradle/issues/17420) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle task execution hangs when gradle home dir is an input"
+
 **2021-06-10** — opened PR [#36](https://api.github.com/repos/cashapp/licensee/pulls/36) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Add scm url if present"
 
 **2021-06-10** — created branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-09** — pushed [`101c2371`](https://github.com/slackhq/keeper/commit/101c23717e4fde275079f843a623f1009aec6bfe) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed c2196c1 with MkDocs version: 1.1.2"
 
 **2021-06-09** — created tag "0.10.0" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-06-09** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-06-09** — pushed [`1610a45b`](https://github.com/slackhq/keeper/commit/1610a45bdeb6cd641a2d07b66434d77e1dc9b40d) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed de41153 with MkDocs version: 1.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
