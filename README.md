@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-10** — opened PR [#36](https://api.github.com/repos/cashapp/licensee/pulls/36) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Add scm url if present"
+
+**2021-06-10** — created branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
+
 **2021-06-09** — deleted branch "z/configureEach" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
 
 **2021-06-09** — opened PR [#35](https://api.github.com/repos/cashapp/licensee/pulls/35) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Use configureEach rather than all"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-09** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2021-06-09** — pushed [`1610a45b`](https://github.com/slackhq/keeper/commit/1610a45bdeb6cd641a2d07b66434d77e1dc9b40d) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed de41153 with MkDocs version: 1.1.2"
-
-**2021-06-09** — pushed [`de41153a`](https://github.com/slackhq/keeper/commit/de41153abf14c05b899669f793f2f1f12def26d4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Complete L8 support (#84)"
-
-**2021-06-09** — deleted branch "z/l8Support" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
