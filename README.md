@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-11** — commented on [#91](https://github.com/jraska/modules-graph-assert/issues/91#issuecomment-859260584) in [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert)
+
 **2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859082742) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859065806) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-858830290) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-06-10** — opened issue [#17420](https://api.github.com/repos/gradle/gradle/issues/17420) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Gradle task execution hangs when gradle home dir is an input"
-
-**2021-06-10** — opened PR [#36](https://api.github.com/repos/cashapp/licensee/pulls/36) to [cashapp/licensee](https://api.github.com/repos/cashapp/licensee): "Add scm url if present"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
