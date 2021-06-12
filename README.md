@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-12** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-859993510) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-06-12** — reopened PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
+
+**2021-06-12** — closed PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
+
+**2021-06-11** — pushed [`7f8d599e`](https://github.com/rharter/auto-value-gson/commit/7f8d599e0dac92f6b05e1e1cfc1b63c2ba155f81) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Fix `TYPE_USE` annotations on nested types. (#262)"
+
+**2021-06-11** — closed PR [#262](https://api.github.com/repos/rharter/auto-value-gson/pulls/262) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Fix `TYPE_USE` annotations on nested types."
+
+**2021-06-11** — closed issue [#261](https://api.github.com/repos/rharter/auto-value-gson/issues/261) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "`@Nullable` doesn't work correctly with nested types"
+
 **2021-06-11** — opened issue [#162](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/162) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "JDK 16 support requires extra arguments for kapt"
 
 **2021-06-11** — commented on [#222](https://github.com/google/compile-testing/issues/222#issuecomment-859899634) in [google/compile-testing](https://api.github.com/repos/google/compile-testing)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-11** — commented on [#91](https://github.com/jraska/modules-graph-assert/issues/91#issuecomment-859260584) in [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert)
 
 **2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859082742) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859065806) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-06-10** — pushed 6 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
-
-**2021-06-10** — pushed [`86a62f0a`](https://github.com/ZacSweers/licensee/commit/86a62f0aab575acc16953a2aea0cc0b23f250949) to [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee): "Nix leftover nullcheck"
-
-**2021-06-10** — pushed [`2cf332b9`](https://github.com/ZacSweers/licensee/commit/2cf332b99410e197d830af8c840b674805da91d7) to [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee): "Fold into existing tests"
-
-**2021-06-10** — commented on [#17420](https://github.com/gradle/gradle/issues/17420#issuecomment-858966146) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-858851551) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
