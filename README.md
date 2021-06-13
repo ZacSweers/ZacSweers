@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-13** — pushed [`aaaaded1`](https://github.com/ZacSweers/CatchUp/commit/aaaaded1e65b95daac646f8e624524ed2ad679fb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to SharedFlow"
+
 **2021-06-12** — opened PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
 
 **2021-06-12** — created branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-11** — closed PR [#262](https://api.github.com/repos/rharter/auto-value-gson/pulls/262) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Fix `TYPE_USE` annotations on nested types."
 
 **2021-06-11** — closed issue [#261](https://api.github.com/repos/rharter/auto-value-gson/issues/261) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "`@Nullable` doesn't work correctly with nested types"
-
-**2021-06-11** — opened issue [#162](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/162) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "JDK 16 support requires extra arguments for kapt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
