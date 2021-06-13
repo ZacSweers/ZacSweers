@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-13** — pushed [`30b4d538`](https://github.com/ZacSweers/CatchUp/commit/30b4d538949be485bc01d78a4006cf0131146644) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update CI main ref"
+
+**2021-06-13** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-860267269) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-06-13** — pushed 3 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
+
 **2021-06-13** — pushed [`aaaaded1`](https://github.com/ZacSweers/CatchUp/commit/aaaaded1e65b95daac646f8e624524ed2ad679fb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to SharedFlow"
 
 **2021-06-12** — opened PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-12** — reopened PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
 
 **2021-06-12** — closed PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
-
-**2021-06-11** — pushed [`7f8d599e`](https://github.com/rharter/auto-value-gson/commit/7f8d599e0dac92f6b05e1e1cfc1b63c2ba155f81) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Fix `TYPE_USE` annotations on nested types. (#262)"
-
-**2021-06-11** — closed PR [#262](https://api.github.com/repos/rharter/auto-value-gson/pulls/262) to [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "Fix `TYPE_USE` annotations on nested types."
-
-**2021-06-11** — closed issue [#261](https://api.github.com/repos/rharter/auto-value-gson/issues/261) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "`@Nullable` doesn't work correctly with nested types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
