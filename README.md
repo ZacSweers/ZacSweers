@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-12** — opened PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
+
+**2021-06-12** — created branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-06-12** — opened issue [#481](https://api.github.com/repos/google/ksp/issues/481) on [google/ksp](https://api.github.com/repos/google/ksp): "Incompatible with Kotlin 1.5.20-M1"
+
 **2021-06-12** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-859993510) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-06-12** — reopened PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-11** — closed issue [#261](https://api.github.com/repos/rharter/auto-value-gson/issues/261) on [rharter/auto-value-gson](https://api.github.com/repos/rharter/auto-value-gson): "`@Nullable` doesn't work correctly with nested types"
 
 **2021-06-11** — opened issue [#162](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/162) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "JDK 16 support requires extra arguments for kapt"
-
-**2021-06-11** — commented on [#222](https://github.com/google/compile-testing/issues/222#issuecomment-859899634) in [google/compile-testing](https://api.github.com/repos/google/compile-testing)
-
-**2021-06-11** — commented on [#91](https://github.com/jraska/modules-graph-assert/issues/91#issuecomment-859260584) in [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert)
-
-**2021-06-10** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-859082742) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
