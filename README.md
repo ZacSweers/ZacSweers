@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-14** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-860374874) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-06-13** — pushed [`a7dbab7d`](https://github.com/ZacSweers/CatchUp/commit/a7dbab7df2a3009f12202b5a0f778569962a37d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use beforeVariants for filtering"
 
 **2021-06-13** — pushed [`30b4d538`](https://github.com/ZacSweers/CatchUp/commit/30b4d538949be485bc01d78a4006cf0131146644) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update CI main ref"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-12** — opened issue [#481](https://api.github.com/repos/google/ksp/issues/481) on [google/ksp](https://api.github.com/repos/google/ksp): "Incompatible with Kotlin 1.5.20-M1"
 
 **2021-06-12** — commented on [#1092](https://github.com/square/kotlinpoet/pull/1092#issuecomment-859993510) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-06-12** — reopened PR [#1092](https://api.github.com/repos/square/kotlinpoet/pulls/1092) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
