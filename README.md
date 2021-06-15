@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-15** — pushed [`62fa980f`](https://github.com/ZacSweers/ksp/commit/62fa980f8a2736850359fd75817521c425c1f8b1) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Assert merged rules contain generated ones"
+
+**2021-06-15** — pushed [`0d17b2c1`](https://github.com/ZacSweers/ksp/commit/0d17b2c1523a474300a33f091c2320e1f0fd0e27) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix extension"
+
 **2021-06-15** — pushed [`5d6004f0`](https://github.com/square/kotlinpoet/commit/5d6004f025c93eb0b41b1ad03bffe78fe5810c8f) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts` (#1096)"
 
 **2021-06-15** — closed PR [#1096](https://api.github.com/repos/square/kotlinpoet/pulls/1096) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-13** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-860267269) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-06-13** — pushed 3 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
-
-**2021-06-13** — pushed [`aaaaded1`](https://github.com/ZacSweers/CatchUp/commit/aaaaded1e65b95daac646f8e624524ed2ad679fb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to SharedFlow"
-
-**2021-06-12** — opened PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
