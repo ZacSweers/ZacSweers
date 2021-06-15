@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-15** — pushed [`5d6004f0`](https://github.com/square/kotlinpoet/commit/5d6004f025c93eb0b41b1ad03bffe78fe5810c8f) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts` (#1096)"
+
+**2021-06-15** — closed PR [#1096](https://api.github.com/repos/square/kotlinpoet/pulls/1096) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts`"
+
 **2021-06-14** — commented on [#162](https://github.com/tschuchortdev/kotlin-compile-testing/issues/162#issuecomment-861035847) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-06-14** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-860374874) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-13** — pushed [`aaaaded1`](https://github.com/ZacSweers/CatchUp/commit/aaaaded1e65b95daac646f8e624524ed2ad679fb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to SharedFlow"
 
 **2021-06-12** — opened PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
-
-**2021-06-12** — created branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-06-12** — opened issue [#481](https://api.github.com/repos/google/ksp/issues/481) on [google/ksp](https://api.github.com/repos/google/ksp): "Incompatible with Kotlin 1.5.20-M1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
