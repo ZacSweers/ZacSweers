@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-16** — deleted branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-06-15** — pushed [`5235f091`](https://github.com/ZacSweers/anvil/commit/5235f09145cfba7e814e5fee4d7e80a882ef495f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to asTypeNameOrNull"
 
 **2021-06-15** — pushed [`2e3a1da7`](https://github.com/ZacSweers/ksp/commit/2e3a1da74652ec52a8fb88f5415f5b977ae215ab) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix names"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-14** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-860374874) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-06-13** — pushed [`a7dbab7d`](https://github.com/ZacSweers/CatchUp/commit/a7dbab7df2a3009f12202b5a0f778569962a37d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use beforeVariants for filtering"
-
-**2021-06-13** — pushed [`30b4d538`](https://github.com/ZacSweers/CatchUp/commit/30b4d538949be485bc01d78a4006cf0131146644) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update CI main ref"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
