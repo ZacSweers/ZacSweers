@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-15** — pushed [`5235f091`](https://github.com/ZacSweers/anvil/commit/5235f09145cfba7e814e5fee4d7e80a882ef495f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to asTypeNameOrNull"
+
+**2021-06-15** — pushed [`2e3a1da7`](https://github.com/ZacSweers/ksp/commit/2e3a1da74652ec52a8fb88f5415f5b977ae215ab) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix names"
+
 **2021-06-15** — pushed [`62fa980f`](https://github.com/ZacSweers/ksp/commit/62fa980f8a2736850359fd75817521c425c1f8b1) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Assert merged rules contain generated ones"
 
 **2021-06-15** — pushed [`0d17b2c1`](https://github.com/ZacSweers/ksp/commit/0d17b2c1523a474300a33f091c2320e1f0fd0e27) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix extension"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-13** — pushed [`a7dbab7d`](https://github.com/ZacSweers/CatchUp/commit/a7dbab7df2a3009f12202b5a0f778569962a37d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use beforeVariants for filtering"
 
 **2021-06-13** — pushed [`30b4d538`](https://github.com/ZacSweers/CatchUp/commit/30b4d538949be485bc01d78a4006cf0131146644) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update CI main ref"
-
-**2021-06-13** — commented on [#467](https://github.com/google/ksp/pull/467#issuecomment-860267269) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-06-13** — pushed 3 commits to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
