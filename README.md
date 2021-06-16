@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-16** — commented on [#1095](https://github.com/square/kotlinpoet/pull/1095#issuecomment-862460152) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-06-16** — deleted branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-06-15** — pushed [`5235f091`](https://github.com/ZacSweers/anvil/commit/5235f09145cfba7e814e5fee4d7e80a882ef495f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to asTypeNameOrNull"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-14** — commented on [#162](https://github.com/tschuchortdev/kotlin-compile-testing/issues/162#issuecomment-861035847) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-06-14** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-860374874) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-06-13** — pushed [`a7dbab7d`](https://github.com/ZacSweers/CatchUp/commit/a7dbab7df2a3009f12202b5a0f778569962a37d2) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Use beforeVariants for filtering"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
