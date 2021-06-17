@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-17** — deleted branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
+
 **2021-06-16** — commented on [#1095](https://github.com/square/kotlinpoet/pull/1095#issuecomment-862460152) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-06-16** — deleted branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-15** — closed PR [#1096](https://api.github.com/repos/square/kotlinpoet/pulls/1096) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts`"
 
 **2021-06-14** — commented on [#162](https://github.com/tschuchortdev/kotlin-compile-testing/issues/162#issuecomment-861035847) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-06-14** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-860374874) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
