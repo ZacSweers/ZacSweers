@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-17** — deleted branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+
+**2021-06-17** — closed PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
+
+**2021-06-17** — commented on [#1860](https://github.com/square/wire/pull/1860#issuecomment-863398350) in [square/wire](https://api.github.com/repos/square/wire)
+
 **2021-06-17** — deleted branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
 
 **2021-06-16** — commented on [#1095](https://github.com/square/kotlinpoet/pull/1095#issuecomment-862460152) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-15** — pushed [`62fa980f`](https://github.com/ZacSweers/ksp/commit/62fa980f8a2736850359fd75817521c425c1f8b1) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Assert merged rules contain generated ones"
 
 **2021-06-15** — pushed [`0d17b2c1`](https://github.com/ZacSweers/ksp/commit/0d17b2c1523a474300a33f091c2320e1f0fd0e27) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix extension"
-
-**2021-06-15** — pushed [`5d6004f0`](https://github.com/square/kotlinpoet/commit/5d6004f025c93eb0b41b1ad03bffe78fe5810c8f) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts` (#1096)"
-
-**2021-06-15** — closed PR [#1096](https://api.github.com/repos/square/kotlinpoet/pulls/1096) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Modify build.yml for `Upload Artifacts`"
-
-**2021-06-14** — commented on [#162](https://github.com/tschuchortdev/kotlin-compile-testing/issues/162#issuecomment-861035847) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
