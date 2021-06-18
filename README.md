@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864235983) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-06-17** — deleted branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2021-06-17** — closed PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-15** — pushed [`2e3a1da7`](https://github.com/ZacSweers/ksp/commit/2e3a1da74652ec52a8fb88f5415f5b977ae215ab) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix names"
 
 **2021-06-15** — pushed [`62fa980f`](https://github.com/ZacSweers/ksp/commit/62fa980f8a2736850359fd75817521c425c1f8b1) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Assert merged rules contain generated ones"
-
-**2021-06-15** — pushed [`0d17b2c1`](https://github.com/ZacSweers/ksp/commit/0d17b2c1523a474300a33f091c2320e1f0fd0e27) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix extension"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
