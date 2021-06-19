@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-18** — closed issue [#53](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/53) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): " java.lang.AssertionError: dev.zacsweers.redacted.compiler.RedactedSyntheticResolveExtension caused LinkageError"
+
+**2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864329467) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864235983) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-06-17** — deleted branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-16** — deleted branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-06-15** — pushed [`5235f091`](https://github.com/ZacSweers/anvil/commit/5235f09145cfba7e814e5fee4d7e80a882ef495f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to asTypeNameOrNull"
-
-**2021-06-15** — pushed [`2e3a1da7`](https://github.com/ZacSweers/ksp/commit/2e3a1da74652ec52a8fb88f5415f5b977ae215ab) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix names"
-
-**2021-06-15** — pushed [`62fa980f`](https://github.com/ZacSweers/ksp/commit/62fa980f8a2736850359fd75817521c425c1f8b1) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Assert merged rules contain generated ones"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
