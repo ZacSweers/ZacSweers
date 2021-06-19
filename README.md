@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-19** — commented on [#4823](https://github.com/gradle/gradle/issues/4823#issuecomment-864414771) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-06-19** — commented on [#1099](https://github.com/square/kotlinpoet/pull/1099#issuecomment-864362072) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-06-19** — closed PR [#1099](https://api.github.com/repos/square/kotlinpoet/pulls/1099) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add .editorconfig & remove ktLint rules"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-17** — commented on [#1860](https://github.com/square/wire/pull/1860#issuecomment-863398350) in [square/wire](https://api.github.com/repos/square/wire)
 
 **2021-06-17** — deleted branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
-
-**2021-06-16** — commented on [#1095](https://github.com/square/kotlinpoet/pull/1095#issuecomment-862460152) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
