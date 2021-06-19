@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-19** — commented on [#1099](https://github.com/square/kotlinpoet/pull/1099#issuecomment-864362072) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-06-19** — closed PR [#1099](https://api.github.com/repos/square/kotlinpoet/pulls/1099) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add .editorconfig & remove ktLint rules"
+
 **2021-06-18** — closed issue [#53](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/53) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): " java.lang.AssertionError: dev.zacsweers.redacted.compiler.RedactedSyntheticResolveExtension caused LinkageError"
 
 **2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864329467) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-17** — deleted branch "z/urlInJson" on [ZacSweers/licensee](https://api.github.com/repos/ZacSweers/licensee)
 
 **2021-06-16** — commented on [#1095](https://github.com/square/kotlinpoet/pull/1095#issuecomment-862460152) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-06-16** — deleted branch "z/fixResources" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-06-15** — pushed [`5235f091`](https://github.com/ZacSweers/anvil/commit/5235f09145cfba7e814e5fee4d7e80a882ef495f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Rename to asTypeNameOrNull"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
