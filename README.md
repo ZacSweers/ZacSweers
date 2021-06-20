@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-06-19** — commented on [#4823](https://github.com/gradle/gradle/issues/4823#issuecomment-864442846) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2021-06-20** — closed issue [#34](https://api.github.com/repos/uber/motif/issues/34) on [uber/motif](https://api.github.com/repos/uber/motif): "Support gradle incremental annotation processing"
 
-**2021-06-19** — commented on [#4823](https://github.com/gradle/gradle/issues/4823#issuecomment-864414771) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+**2021-06-20** — closed issue [#908](https://api.github.com/repos/google/error-prone/issues/908) on [google/error-prone](https://api.github.com/repos/google/error-prone): "Checking for the "end" of a compilation?"
 
-**2021-06-19** — commented on [#1099](https://github.com/square/kotlinpoet/pull/1099#issuecomment-864362072) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-06-20** — closed issue [#765](https://api.github.com/repos/google/error-prone/issues/765) on [google/error-prone](https://api.github.com/repos/google/error-prone): "Proposal: VisibleForAccessors"
 
-**2021-06-19** — closed PR [#1099](https://api.github.com/repos/square/kotlinpoet/pulls/1099) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add .editorconfig & remove ktLint rules"
+**2021-06-20** — closed issue [#454](https://api.github.com/repos/google/auto/issues/454) on [google/auto](https://api.github.com/repos/google/auto): "Why do nested builders need to be NonNull?"
 
-**2021-06-18** — closed issue [#53](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/53) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): " java.lang.AssertionError: dev.zacsweers.redacted.compiler.RedactedSyntheticResolveExtension caused LinkageError"
+**2021-06-20** — closed issue [#613](https://api.github.com/repos/google/dagger/issues/613) on [google/dagger](https://api.github.com/repos/google/dagger): "Cycles between @Module.subcomponents and @Subcomponent.modules"
 
-**2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864329467) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-06-20** — closed issue [#1615](https://api.github.com/repos/laurencedawson/reddit-sync-development/issues/1615) on [laurencedawson/reddit-sync-development](https://api.github.com/repos/laurencedawson/reddit-sync-development): "Incognito mode shouldn't use chrome custom tabs"
 
-**2021-06-18** — commented on [#53](https://github.com/ZacSweers/redacted-compiler-plugin/issues/53#issuecomment-864235983) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-06-20** — closed issue [#409](https://api.github.com/repos/google/auto/issues/409) on [google/auto](https://api.github.com/repos/google/auto): "Should annotations also propagate to generated builders?"
 
-**2021-06-17** — deleted branch "z/cacheFix" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+**2021-06-20** — closed issue [#1](https://api.github.com/repos/remind101/auto-value-realm/issues/1) on [remind101/auto-value-realm](https://api.github.com/repos/remind101/auto-value-realm): "README could use some details"
 
-**2021-06-17** — closed PR [#1860](https://api.github.com/repos/square/wire/pulls/1860) to [square/wire](https://api.github.com/repos/square/wire): "Use WireOutput for task property"
+**2021-06-20** — closed issue [#410](https://api.github.com/repos/facebook/infer/issues/410) on [facebook/infer](https://api.github.com/repos/facebook/infer): "Infer should support Contract annotations in Java"
 
-**2021-06-17** — commented on [#1860](https://github.com/square/wire/pull/1860#issuecomment-863398350) in [square/wire](https://api.github.com/repos/square/wire)
+**2021-06-20** — closed issue [#39](https://api.github.com/repos/mattprecious/telescope/issues/39) on [mattprecious/telescope](https://api.github.com/repos/mattprecious/telescope): "Undefined behavior when another app is using the screen record API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
