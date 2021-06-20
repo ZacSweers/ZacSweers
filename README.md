@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-20** — opened PR [#165](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/165) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Use canonical `java.specification.version` for java version"
+
+**2021-06-20** — created branch "z/jdk16" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
 **2021-06-20** — opened issue [#274](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/274) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Plugin still attempts to make `uploadArchives` depend on maven central publish task even if central is disabled"
 
 **2021-06-20** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — closed issue [#454](https://api.github.com/repos/google/auto/issues/454) on [google/auto](https://api.github.com/repos/google/auto): "Why do nested builders need to be NonNull?"
 
 **2021-06-20** — closed issue [#613](https://api.github.com/repos/google/dagger/issues/613) on [google/dagger](https://api.github.com/repos/google/dagger): "Cycles between @Module.subcomponents and @Subcomponent.modules"
-
-**2021-06-20** — closed issue [#1615](https://api.github.com/repos/laurencedawson/reddit-sync-development/issues/1615) on [laurencedawson/reddit-sync-development](https://api.github.com/repos/laurencedawson/reddit-sync-development): "Incognito mode shouldn't use chrome custom tabs"
-
-**2021-06-20** — closed issue [#409](https://api.github.com/repos/google/auto/issues/409) on [google/auto](https://api.github.com/repos/google/auto): "Should annotations also propagate to generated builders?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
