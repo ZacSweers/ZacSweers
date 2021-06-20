@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-20** — deleted branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
+
 **2021-06-20** — closed issue [#34](https://api.github.com/repos/uber/motif/issues/34) on [uber/motif](https://api.github.com/repos/uber/motif): "Support gradle incremental annotation processing"
 
 **2021-06-20** — closed issue [#908](https://api.github.com/repos/google/error-prone/issues/908) on [google/error-prone](https://api.github.com/repos/google/error-prone): "Checking for the "end" of a compilation?"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — closed issue [#1](https://api.github.com/repos/remind101/auto-value-realm/issues/1) on [remind101/auto-value-realm](https://api.github.com/repos/remind101/auto-value-realm): "README could use some details"
 
 **2021-06-20** — closed issue [#410](https://api.github.com/repos/facebook/infer/issues/410) on [facebook/infer](https://api.github.com/repos/facebook/infer): "Infer should support Contract annotations in Java"
-
-**2021-06-20** — closed issue [#39](https://api.github.com/repos/mattprecious/telescope/issues/39) on [mattprecious/telescope](https://api.github.com/repos/mattprecious/telescope): "Undefined behavior when another app is using the screen record API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
