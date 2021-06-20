@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-20** — opened issue [#274](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/274) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Plugin still attempts to make `uploadArchives` depend on maven central publish task even if central is disabled"
+
+**2021-06-20** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
+
 **2021-06-20** — deleted branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-06-20** — closed issue [#34](https://api.github.com/repos/uber/motif/issues/34) on [uber/motif](https://api.github.com/repos/uber/motif): "Support gradle incremental annotation processing"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — closed issue [#1615](https://api.github.com/repos/laurencedawson/reddit-sync-development/issues/1615) on [laurencedawson/reddit-sync-development](https://api.github.com/repos/laurencedawson/reddit-sync-development): "Incognito mode shouldn't use chrome custom tabs"
 
 **2021-06-20** — closed issue [#409](https://api.github.com/repos/google/auto/issues/409) on [google/auto](https://api.github.com/repos/google/auto): "Should annotations also propagate to generated builders?"
-
-**2021-06-20** — closed issue [#1](https://api.github.com/repos/remind101/auto-value-realm/issues/1) on [remind101/auto-value-realm](https://api.github.com/repos/remind101/auto-value-realm): "README could use some details"
-
-**2021-06-20** — closed issue [#410](https://api.github.com/repos/facebook/infer/issues/410) on [facebook/infer](https://api.github.com/repos/facebook/infer): "Infer should support Contract annotations in Java"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
