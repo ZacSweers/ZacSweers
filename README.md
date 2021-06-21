@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-21** — commented on [#274](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/274#issuecomment-865228922) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
+
+**2021-06-21** — pushed [`b6bbb183`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/b6bbb18332426b78be13bb2c6ff8849ead416922) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Remove leftover import"
+
 **2021-06-21** — opened PR [#276](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/276) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Remove uploadArchives and installArchives"
 
 **2021-06-21** — created branch "z/uploadArchives" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — opened issue [#274](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/274) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Plugin still attempts to make `uploadArchives` depend on maven central publish task even if central is disabled"
 
 **2021-06-20** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
-
-**2021-06-20** — deleted branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2021-06-20** — closed issue [#34](https://api.github.com/repos/uber/motif/issues/34) on [uber/motif](https://api.github.com/repos/uber/motif): "Support gradle incremental annotation processing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
