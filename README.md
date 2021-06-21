@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-21** — opened PR [#276](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/276) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Remove uploadArchives and installArchives"
+
+**2021-06-21** — created branch "z/uploadArchives" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
+
+**2021-06-21** — pushed 13 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
+
 **2021-06-20** — commented on [#165](https://github.com/tschuchortdev/kotlin-compile-testing/pull/165#issuecomment-864628832) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-06-20** — opened PR [#165](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/165) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Use canonical `java.specification.version` for java version"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — deleted branch "z/alpha08" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-06-20** — closed issue [#34](https://api.github.com/repos/uber/motif/issues/34) on [uber/motif](https://api.github.com/repos/uber/motif): "Support gradle incremental annotation processing"
-
-**2021-06-20** — closed issue [#908](https://api.github.com/repos/google/error-prone/issues/908) on [google/error-prone](https://api.github.com/repos/google/error-prone): "Checking for the "end" of a compilation?"
-
-**2021-06-20** — closed issue [#765](https://api.github.com/repos/google/error-prone/issues/765) on [google/error-prone](https://api.github.com/repos/google/error-prone): "Proposal: VisibleForAccessors"
-
-**2021-06-20** — closed issue [#454](https://api.github.com/repos/google/auto/issues/454) on [google/auto](https://api.github.com/repos/google/auto): "Why do nested builders need to be NonNull?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
