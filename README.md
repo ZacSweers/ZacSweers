@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-23** — closed issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
+
+**2021-06-23** — commented on [#3895](https://github.com/detekt/detekt/issues/3895#issuecomment-867141968) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2021-06-23** — opened issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
 
 **2021-06-23** — closed issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-21** — commented on [#274](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/274#issuecomment-865228922) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
 
 **2021-06-21** — pushed [`b6bbb183`](https://github.com/ZacSweers/gradle-maven-publish-plugin/commit/b6bbb18332426b78be13bb2c6ff8849ead416922) to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin): "Remove leftover import"
-
-**2021-06-21** — opened PR [#276](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/276) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Remove uploadArchives and installArchives"
-
-**2021-06-21** — created branch "z/uploadArchives" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
