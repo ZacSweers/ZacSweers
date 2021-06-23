@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-23** — commented on [#1358](https://github.com/square/moshi/issues/1358#issuecomment-867091815) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-06-22** — commented on [#332](https://github.com/gradle/gradle-profiler/issues/332#issuecomment-866495641) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-06-22** — opened issue [#332](https://api.github.com/repos/gradle/gradle-profiler/issues/332) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "0.16.0 prebuilt artifact link 404s"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-21** — pushed 13 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
 
 **2021-06-20** — commented on [#165](https://github.com/tschuchortdev/kotlin-compile-testing/pull/165#issuecomment-864628832) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-06-20** — opened PR [#165](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/165) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Use canonical `java.specification.version` for java version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
