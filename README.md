@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-22** — commented on [#332](https://github.com/gradle/gradle-profiler/issues/332#issuecomment-866495641) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+
+**2021-06-22** — opened issue [#332](https://api.github.com/repos/gradle/gradle-profiler/issues/332) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "0.16.0 prebuilt artifact link 404s"
+
 **2021-06-21** — deleted branch "z/uploadArchives" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
 
 **2021-06-21** — commented on [#274](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/274#issuecomment-865228922) in [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-20** — commented on [#165](https://github.com/tschuchortdev/kotlin-compile-testing/pull/165#issuecomment-864628832) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-06-20** — opened PR [#165](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/165) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Use canonical `java.specification.version` for java version"
-
-**2021-06-20** — created branch "z/jdk16" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
-
-**2021-06-20** — opened issue [#274](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/issues/274) on [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Plugin still attempts to make `uploadArchives` depend on maven central publish task even if central is disabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
