@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-23** — opened issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
+
+**2021-06-23** — closed issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
+
 **2021-06-23** — commented on [#1358](https://github.com/square/moshi/issues/1358#issuecomment-867091815) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-06-22** — commented on [#332](https://github.com/gradle/gradle-profiler/issues/332#issuecomment-866495641) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-21** — opened PR [#276](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin/pulls/276) to [vanniktech/gradle-maven-publish-plugin](https://api.github.com/repos/vanniktech/gradle-maven-publish-plugin): "Remove uploadArchives and installArchives"
 
 **2021-06-21** — created branch "z/uploadArchives" on [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin)
-
-**2021-06-21** — pushed 13 commits to [ZacSweers/gradle-maven-publish-plugin](https://api.github.com/repos/ZacSweers/gradle-maven-publish-plugin).
-
-**2021-06-20** — commented on [#165](https://github.com/tschuchortdev/kotlin-compile-testing/pull/165#issuecomment-864628832) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
