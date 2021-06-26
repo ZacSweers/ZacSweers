@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-26** — commented on [#19](https://github.com/ZacSweers/auto-service-ksp/pull/19#issuecomment-869055692) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-06-26** — opened issue [#20](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/20) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Support merging existing resources"
+
+**2021-06-26** — commented on [#493](https://github.com/google/ksp/issues/493#issuecomment-869055269) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-06-26** — commented on [#128](https://github.com/ZacSweers/MoshiX/pull/128#issuecomment-869055016) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-06-26** — opened issue [#494](https://api.github.com/repos/google/ksp/issues/494) on [google/ksp](https://api.github.com/repos/google/ksp): "WorkValidationException thrown with 1.5.20-1.0.0-beta03"
+
 **2021-06-26** — pushed [`9a8780a9`](https://github.com/ZacSweers/MoshiX/commit/9a8780a992469e90fbec6ea8352951d203d2af78) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-06-26** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-869015507) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-26** — opened PR [#128](https://api.github.com/repos/ZacSweers/MoshiX/pulls/128) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp"
 
 **2021-06-26** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-06-25** — closed issue [#1219](https://api.github.com/repos/facebook/flipper/issues/1219) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Flipper leaks context in Android"
-
-**2021-06-25** — commented on [#1219](https://github.com/facebook/flipper/issues/1219#issuecomment-868935715) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
-
-**2021-06-24** — reopened issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
-
-**2021-06-24** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-867351243) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-06-23** — closed issue [#1359](https://api.github.com/repos/square/moshi/issues/1359) on [square/moshi](https://api.github.com/repos/square/moshi): "Expected an int but was BOOLEAN with proguard enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
