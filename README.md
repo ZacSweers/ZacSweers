@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-26** — pushed [`9a8780a9`](https://github.com/ZacSweers/MoshiX/commit/9a8780a992469e90fbec6ea8352951d203d2af78) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+
+**2021-06-26** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-869015507) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
+
+**2021-06-26** — pushed [`29bf7958`](https://github.com/ZacSweers/MoshiX/commit/29bf7958a5b954fa77d9cef93a181a3523ce487f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI workflow"
+
+**2021-06-26** — opened PR [#128](https://api.github.com/repos/ZacSweers/MoshiX/pulls/128) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp"
+
+**2021-06-26** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-06-25** — closed issue [#1219](https://api.github.com/repos/facebook/flipper/issues/1219) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Flipper leaks context in Android"
 
 **2021-06-25** — commented on [#1219](https://github.com/facebook/flipper/issues/1219#issuecomment-868935715) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-24** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-867351243) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 
 **2021-06-23** — closed issue [#1359](https://api.github.com/repos/square/moshi/issues/1359) on [square/moshi](https://api.github.com/repos/square/moshi): "Expected an int but was BOOLEAN with proguard enabled"
-
-**2021-06-23** — commented on [#1359](https://github.com/square/moshi/issues/1359#issuecomment-867275118) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-06-23** — closed issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
-
-**2021-06-23** — commented on [#3895](https://github.com/detekt/detekt/issues/3895#issuecomment-867141968) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-06-23** — opened issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
-
-**2021-06-23** — closed issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
