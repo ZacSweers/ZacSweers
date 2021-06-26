@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-25** — closed issue [#1219](https://api.github.com/repos/facebook/flipper/issues/1219) on [facebook/flipper](https://api.github.com/repos/facebook/flipper): "Flipper leaks context in Android"
+
+**2021-06-25** — commented on [#1219](https://github.com/facebook/flipper/issues/1219#issuecomment-868935715) in [facebook/flipper](https://api.github.com/repos/facebook/flipper)
+
 **2021-06-24** — reopened issue [#40](https://api.github.com/repos/gradle/wrapper-validation-action/issues/40) on [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action): "Action fails regularly due to ETIMEDOUT and ECONNRESET"
 
 **2021-06-24** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-867351243) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-23** — opened issue [#3895](https://api.github.com/repos/detekt/detekt/issues/3895) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "CLI incompatible with JDK 16"
 
 **2021-06-23** — closed issue [#3633](https://api.github.com/repos/detekt/detekt/issues/3633) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ZipException when attempting to use the 1.16.0 CLI jar"
-
-**2021-06-23** — commented on [#1358](https://github.com/square/moshi/issues/1358#issuecomment-867091815) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-06-22** — commented on [#332](https://github.com/gradle/gradle-profiler/issues/332#issuecomment-866495641) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
