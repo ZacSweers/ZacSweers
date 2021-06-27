@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-26** — commented on [#930](https://github.com/square/moshi/issues/930#issuecomment-869074390) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-06-26** — closed issue [#1360](https://api.github.com/repos/square/moshi/issues/1360) on [square/moshi](https://api.github.com/repos/square/moshi): "Wrong generated class #930"
+
 **2021-06-26** — commented on [#19](https://github.com/ZacSweers/auto-service-ksp/pull/19#issuecomment-869055692) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-06-26** — opened issue [#20](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/20) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Support merging existing resources"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-26** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-869015507) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 
 **2021-06-26** — pushed [`29bf7958`](https://github.com/ZacSweers/MoshiX/commit/29bf7958a5b954fa77d9cef93a181a3523ce487f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI workflow"
-
-**2021-06-26** — opened PR [#128](https://api.github.com/repos/ZacSweers/MoshiX/pulls/128) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp"
-
-**2021-06-26** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
