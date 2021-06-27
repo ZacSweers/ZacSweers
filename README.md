@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-27** — closed issue [#1361](https://api.github.com/repos/square/moshi/issues/1361) on [square/moshi](https://api.github.com/repos/square/moshi): "2021-06-27 12:00:00"
+
+**2021-06-27** — commented on [#1361](https://github.com/square/moshi/issues/1361#issuecomment-869174649) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-06-26** — commented on [#930](https://github.com/square/moshi/issues/930#issuecomment-869074390) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-06-26** — closed issue [#1360](https://api.github.com/repos/square/moshi/issues/1360) on [square/moshi](https://api.github.com/repos/square/moshi): "Wrong generated class #930"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-26** — opened issue [#494](https://api.github.com/repos/google/ksp/issues/494) on [google/ksp](https://api.github.com/repos/google/ksp): "WorkValidationException thrown with 1.5.20-1.0.0-beta03"
 
 **2021-06-26** — pushed [`9a8780a9`](https://github.com/ZacSweers/MoshiX/commit/9a8780a992469e90fbec6ea8352951d203d2af78) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-06-26** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-869015507) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-06-26** — pushed [`29bf7958`](https://github.com/ZacSweers/MoshiX/commit/29bf7958a5b954fa77d9cef93a181a3523ce487f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update CI workflow"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
