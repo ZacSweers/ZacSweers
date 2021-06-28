@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-28** — pushed [`c5bd9195`](https://github.com/ZacSweers/MoshiX/commit/c5bd91959d650313100b347ec2f22a6accd06076) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp (#128)"
+
+**2021-06-28** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-06-28** — closed PR [#128](https://api.github.com/repos/ZacSweers/MoshiX/pulls/128) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp"
+
+**2021-06-28** — pushed [`c8775570`](https://github.com/ZacSweers/MoshiX/commit/c8775570064a5c72dd613414cc08cdf20345d343) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beta04"
+
 **2021-06-28** — closed issue [#446](https://api.github.com/repos/uber/AutoDispose/issues/446) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "How to use it in MVVM？"
 
 **2021-06-28** — commented on [#446](https://github.com/uber/AutoDispose/issues/446#issuecomment-869717654) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-26** — commented on [#930](https://github.com/square/moshi/issues/930#issuecomment-869074390) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-06-26** — closed issue [#1360](https://api.github.com/repos/square/moshi/issues/1360) on [square/moshi](https://api.github.com/repos/square/moshi): "Wrong generated class #930"
-
-**2021-06-26** — commented on [#19](https://github.com/ZacSweers/auto-service-ksp/pull/19#issuecomment-869055692) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-06-26** — opened issue [#20](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/20) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Support merging existing resources"
-
-**2021-06-26** — commented on [#493](https://github.com/google/ksp/issues/493#issuecomment-869055269) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-06-26** — commented on [#128](https://github.com/ZacSweers/MoshiX/pull/128#issuecomment-869055016) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
