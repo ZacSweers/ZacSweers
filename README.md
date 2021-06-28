@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-28** — closed issue [#446](https://api.github.com/repos/uber/AutoDispose/issues/446) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "How to use it in MVVM？"
+
+**2021-06-28** — commented on [#446](https://github.com/uber/AutoDispose/issues/446#issuecomment-869717654) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-06-27** — closed issue [#1361](https://api.github.com/repos/square/moshi/issues/1361) on [square/moshi](https://api.github.com/repos/square/moshi): "2021-06-27 12:00:00"
 
 **2021-06-27** — commented on [#1361](https://github.com/square/moshi/issues/1361#issuecomment-869174649) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-26** — commented on [#493](https://github.com/google/ksp/issues/493#issuecomment-869055269) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-06-26** — commented on [#128](https://github.com/ZacSweers/MoshiX/pull/128#issuecomment-869055016) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-06-26** — opened issue [#494](https://api.github.com/repos/google/ksp/issues/494) on [google/ksp](https://api.github.com/repos/google/ksp): "WorkValidationException thrown with 1.5.20-1.0.0-beta03"
-
-**2021-06-26** — pushed [`9a8780a9`](https://github.com/ZacSweers/MoshiX/commit/9a8780a992469e90fbec6ea8352951d203d2af78) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
