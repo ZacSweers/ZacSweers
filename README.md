@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-28** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-870206727) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-06-28** — closed issue [#121](https://api.github.com/repos/ZacSweers/MoshiX/issues/121) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "moshi-ksp not working with Proguard/R8. Fails to find JsonAdapters at runtime"
 
 **2021-06-28** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-870037360) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-28** — commented on [#446](https://github.com/uber/AutoDispose/issues/446#issuecomment-869717654) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-06-27** — closed issue [#1361](https://api.github.com/repos/square/moshi/issues/1361) on [square/moshi](https://api.github.com/repos/square/moshi): "2021-06-27 12:00:00"
-
-**2021-06-27** — commented on [#1361](https://github.com/square/moshi/issues/1361#issuecomment-869174649) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
