@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-06-30** — commented on [#1105](https://github.com/square/kotlinpoet/pull/1105#issuecomment-871499649) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-06-29** — commented on [#392](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/392#issuecomment-871054152) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2021-06-28** — commented on [#121](https://github.com/ZacSweers/MoshiX/issues/121#issuecomment-870206727) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-28** — pushed [`c8775570`](https://github.com/ZacSweers/MoshiX/commit/c8775570064a5c72dd613414cc08cdf20345d343) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beta04"
 
 **2021-06-28** — closed issue [#446](https://api.github.com/repos/uber/AutoDispose/issues/446) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "How to use it in MVVM？"
-
-**2021-06-28** — commented on [#446](https://github.com/uber/AutoDispose/issues/446#issuecomment-869717654) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
