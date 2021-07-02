@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-01** — commented on [#1593](https://github.com/google/dagger/issues/1593#issuecomment-872690820) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-07-01** — pushed 5 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2021-06-30** — commented on [#1105](https://github.com/square/kotlinpoet/pull/1105#issuecomment-871499649) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-28** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-06-28** — closed PR [#128](https://api.github.com/repos/ZacSweers/MoshiX/pulls/128) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update gradle, kp, kotlin, and ksp"
-
-**2021-06-28** — pushed [`c8775570`](https://github.com/ZacSweers/MoshiX/commit/c8775570064a5c72dd613414cc08cdf20345d343) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Beta04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
