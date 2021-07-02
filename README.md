@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872778593) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872768109) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-07-02** — pushed [`28f055d4`](https://github.com/ZacSweers/anvil/commit/28f055d4ad84d160e642bff777eef0f93ec103a6) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support property setters"
+
+**2021-07-02** — opened PR [#345](https://api.github.com/repos/square/anvil/pulls/345) to [square/anvil](https://api.github.com/repos/square/anvil): "Account for member injection in assisted types"
+
+**2021-07-02** — created branch "z/assistedMemberInjection" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-07-02** — pushed 68 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-07-02** — opened issue [#344](https://api.github.com/repos/square/anvil/issues/344) on [square/anvil](https://api.github.com/repos/square/anvil): "`Provider<Lazy<...>>` is not handled correctly"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-02** — opened issue [#342](https://api.github.com/repos/square/anvil/issues/342) on [square/anvil](https://api.github.com/repos/square/anvil): "AssistedInject-annotated classes's factories don't account for member injection"
 
 **2021-07-02** — opened issue [#341](https://api.github.com/repos/square/anvil/issues/341) on [square/anvil](https://api.github.com/repos/square/anvil): "MembersInjectorGenerator will generate nullable type args for nullable injections"
-
-**2021-07-02** — opened issue [#340](https://api.github.com/repos/square/anvil/issues/340) on [square/anvil](https://api.github.com/repos/square/anvil): "MembersInjectorGenerator doesn't account for annotated property setters"
-
-**2021-07-02** — opened issue [#339](https://api.github.com/repos/square/anvil/issues/339) on [square/anvil](https://api.github.com/repos/square/anvil): "MembersInjectorGenerator doesn't support method injection"
-
-**2021-07-01** — commented on [#1593](https://github.com/google/dagger/issues/1593#issuecomment-872690820) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-07-01** — pushed 5 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2021-06-30** — commented on [#1105](https://github.com/square/kotlinpoet/pull/1105#issuecomment-871499649) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
