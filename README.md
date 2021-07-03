@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-03** — commented on [#334](https://github.com/gradle/gradle-profiler/issues/334#issuecomment-873470213) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+
+**2021-07-03** — opened issue [#334](https://api.github.com/repos/gradle/gradle-profiler/issues/334) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Cannot parse a simple android resource integers file"
+
 **2021-07-03** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-873465808) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-03** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-02** — opened PR [#345](https://api.github.com/repos/square/anvil/pulls/345) to [square/anvil](https://api.github.com/repos/square/anvil): "Account for member injection in assisted types"
 
 **2021-07-02** — created branch "z/assistedMemberInjection" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-07-02** — pushed 68 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-07-02** — opened issue [#344](https://api.github.com/repos/square/anvil/issues/344) on [square/anvil](https://api.github.com/repos/square/anvil): "`Provider<Lazy<...>>` is not handled correctly"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
