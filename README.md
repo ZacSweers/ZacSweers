@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-03** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-873465808) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-07-03** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-07-03** — pushed [`cc66813c`](https://github.com/ZacSweers/anvil/commit/cc66813c720db263390c7170aa3a541ba5b9b41e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Use use()"
+
 **2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872778593) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872768109) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-02** — pushed 68 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-07-02** — opened issue [#344](https://api.github.com/repos/square/anvil/issues/344) on [square/anvil](https://api.github.com/repos/square/anvil): "`Provider<Lazy<...>>` is not handled correctly"
-
-**2021-07-02** — opened issue [#343](https://api.github.com/repos/square/anvil/issues/343) on [square/anvil](https://api.github.com/repos/square/anvil): "Member injection does not account for superclass injections"
-
-**2021-07-02** — opened issue [#342](https://api.github.com/repos/square/anvil/issues/342) on [square/anvil](https://api.github.com/repos/square/anvil): "AssistedInject-annotated classes's factories don't account for member injection"
-
-**2021-07-02** — opened issue [#341](https://api.github.com/repos/square/anvil/issues/341) on [square/anvil](https://api.github.com/repos/square/anvil): "MembersInjectorGenerator will generate nullable type args for nullable injections"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
