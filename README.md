@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-04** — commented on [#1107](https://github.com/square/kotlinpoet/pull/1107#issuecomment-873669236) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-07-04** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-873669106) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-07-04** — closed issue [#1358](https://api.github.com/repos/square/moshi/issues/1358) on [square/moshi](https://api.github.com/repos/square/moshi): "Automatically serialize nulls when a nullable property has a non-null default value"
+
 **2021-07-03** — commented on [#334](https://github.com/gradle/gradle-profiler/issues/334#issuecomment-873470213) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-07-03** — opened issue [#334](https://api.github.com/repos/gradle/gradle-profiler/issues/334) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Cannot parse a simple android resource integers file"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872778593) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-02** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-872768109) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-07-02** — pushed [`28f055d4`](https://github.com/ZacSweers/anvil/commit/28f055d4ad84d160e642bff777eef0f93ec103a6) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Support property setters"
-
-**2021-07-02** — opened PR [#345](https://api.github.com/repos/square/anvil/pulls/345) to [square/anvil](https://api.github.com/repos/square/anvil): "Account for member injection in assisted types"
-
-**2021-07-02** — created branch "z/assistedMemberInjection" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
