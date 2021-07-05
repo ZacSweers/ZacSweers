@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-05** — pushed [`37ec2837`](https://github.com/slmlt/MoshiX/commit/37ec283734c5674c3cfc6a8ced33bf5a8392080b) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update build.gradle.kts"
+
 **2021-07-04** — commented on [#14](https://github.com/ZacSweers/json-serialization-benchmarking/issues/14#issuecomment-873744274) in [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
 
 **2021-07-04** — closed issue [#14](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/issues/14) on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "kotlin serialization 1.2.1 benchmark"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-03** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-873465808) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-03** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-07-03** — pushed [`cc66813c`](https://github.com/ZacSweers/anvil/commit/cc66813c720db263390c7170aa3a541ba5b9b41e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Use use()"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
