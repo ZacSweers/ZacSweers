@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-05** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-874347244) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-07-05** — pushed [`02d4603c`](https://github.com/ZacSweers/MoshiX/commit/02d4603c28e94fe0850e71761e8d1709bcbe54f0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue (#130)"
+
+**2021-07-05** — closed PR [#130](https://api.github.com/repos/ZacSweers/MoshiX/pulls/130) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue"
+
 **2021-07-05** — commented on [#335](https://github.com/gradle/gradle-profiler/issues/335#issuecomment-874298746) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-07-05** — opened issue [#335](https://api.github.com/repos/gradle/gradle-profiler/issues/335) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Feature request: a `run` mutation"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-04** — closed issue [#14](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/issues/14) on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "kotlin serialization 1.2.1 benchmark"
 
 **2021-07-04** — commented on [#1107](https://github.com/square/kotlinpoet/pull/1107#issuecomment-873669236) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-07-04** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-873669106) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-04** — closed issue [#1358](https://api.github.com/repos/square/moshi/issues/1358) on [square/moshi](https://api.github.com/repos/square/moshi): "Automatically serialize nulls when a nullable property has a non-null default value"
-
-**2021-07-03** — commented on [#334](https://github.com/gradle/gradle-profiler/issues/334#issuecomment-873470213) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
