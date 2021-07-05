@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-05** — commented on [#335](https://github.com/gradle/gradle-profiler/issues/335#issuecomment-874298746) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+
+**2021-07-05** — opened issue [#335](https://api.github.com/repos/gradle/gradle-profiler/issues/335) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Feature request: a `run` mutation"
+
 **2021-07-05** — commented on [#1362](https://github.com/square/moshi/issues/1362#issuecomment-874293817) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-07-05** — pushed [`37ec2837`](https://github.com/slmlt/MoshiX/commit/37ec283734c5674c3cfc6a8ced33bf5a8392080b) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update build.gradle.kts"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-04** — closed issue [#1358](https://api.github.com/repos/square/moshi/issues/1358) on [square/moshi](https://api.github.com/repos/square/moshi): "Automatically serialize nulls when a nullable property has a non-null default value"
 
 **2021-07-03** — commented on [#334](https://github.com/gradle/gradle-profiler/issues/334#issuecomment-873470213) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
-
-**2021-07-03** — opened issue [#334](https://api.github.com/repos/gradle/gradle-profiler/issues/334) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Cannot parse a simple android resource integers file"
-
-**2021-07-03** — commented on [#345](https://github.com/square/anvil/pull/345#issuecomment-873465808) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
