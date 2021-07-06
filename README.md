@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-05** — commented on [#439](https://github.com/uber/AutoDispose/pull/439#issuecomment-874397483) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-07-05** — pushed [`c39f91d7`](https://github.com/uber/AutoDispose/commit/c39f91d7310e55ceb171bfe0800a79f2e6a3e75a) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions  (#439)"
+
+**2021-07-05** — closed PR [#439](https://api.github.com/repos/uber/AutoDispose/pulls/439) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions "
+
 **2021-07-05** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-874347244) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-05** — pushed [`02d4603c`](https://github.com/ZacSweers/MoshiX/commit/02d4603c28e94fe0850e71761e8d1709bcbe54f0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue (#130)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-05** — commented on [#1362](https://github.com/square/moshi/issues/1362#issuecomment-874293817) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-07-05** — pushed [`37ec2837`](https://github.com/slmlt/MoshiX/commit/37ec283734c5674c3cfc6a8ced33bf5a8392080b) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update build.gradle.kts"
-
-**2021-07-04** — commented on [#14](https://github.com/ZacSweers/json-serialization-benchmarking/issues/14#issuecomment-873744274) in [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking)
-
-**2021-07-04** — closed issue [#14](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking/issues/14) on [ZacSweers/json-serialization-benchmarking](https://api.github.com/repos/ZacSweers/json-serialization-benchmarking): "kotlin serialization 1.2.1 benchmark"
-
-**2021-07-04** — commented on [#1107](https://github.com/square/kotlinpoet/pull/1107#issuecomment-873669236) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
