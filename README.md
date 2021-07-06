@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-06** — opened PR [#85](https://api.github.com/repos/slackhq/keeper/pulls/85) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name"
+
+**2021-07-06** — created branch "z/fixName" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-07-06** — opened issue [#540](https://api.github.com/repos/ben-manes/gradle-versions-plugin/issues/540) on [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin): "Incompatible with Gradle configuration caching"
 
 **2021-07-05** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-874422333) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-05** — pushed [`02d4603c`](https://github.com/ZacSweers/MoshiX/commit/02d4603c28e94fe0850e71761e8d1709bcbe54f0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue (#130)"
 
 **2021-07-05** — closed PR [#130](https://api.github.com/repos/ZacSweers/MoshiX/pulls/130) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue"
-
-**2021-07-05** — commented on [#335](https://github.com/gradle/gradle-profiler/issues/335#issuecomment-874298746) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
-
-**2021-07-05** — opened issue [#335](https://api.github.com/repos/gradle/gradle-profiler/issues/335) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Feature request: a `run` mutation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
