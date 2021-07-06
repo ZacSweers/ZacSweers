@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-05** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-874422333) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-07-05** — commented on [#439](https://github.com/uber/AutoDispose/pull/439#issuecomment-874397483) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-07-05** — pushed [`c39f91d7`](https://github.com/uber/AutoDispose/commit/c39f91d7310e55ceb171bfe0800a79f2e6a3e75a) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions  (#439)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-05** — opened issue [#335](https://api.github.com/repos/gradle/gradle-profiler/issues/335) on [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler): "Feature request: a `run` mutation"
 
 **2021-07-05** — commented on [#1362](https://github.com/square/moshi/issues/1362#issuecomment-874293817) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-07-05** — pushed [`37ec2837`](https://github.com/slmlt/MoshiX/commit/37ec283734c5674c3cfc6a8ced33bf5a8392080b) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update build.gradle.kts"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
