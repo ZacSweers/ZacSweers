@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-08** — closed issue [#1363](https://api.github.com/repos/square/moshi/issues/1363) on [square/moshi](https://api.github.com/repos/square/moshi): "Why Moshi Can't parser Json with generic types?"
+
+**2021-07-08** — commented on [#1363](https://github.com/square/moshi/issues/1363#issuecomment-876470706) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-07-06** — opened PR [#85](https://api.github.com/repos/slackhq/keeper/pulls/85) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name"
 
 **2021-07-06** — created branch "z/fixName" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-05** — closed PR [#439](https://api.github.com/repos/uber/AutoDispose/pulls/439) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions "
 
 **2021-07-05** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-874347244) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-05** — pushed [`02d4603c`](https://github.com/ZacSweers/MoshiX/commit/02d4603c28e94fe0850e71761e8d1709bcbe54f0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue (#130)"
-
-**2021-07-05** — closed PR [#130](https://api.github.com/repos/ZacSweers/MoshiX/pulls/130) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Fix duplicated META-INF/*.kotlin_module  issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
