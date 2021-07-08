@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-08** — pushed [`4b1f3687`](https://github.com/slackhq/keeper/commit/4b1f3687116e037cee5af96ea6c84bae48756c41) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name (#85)"
+
+**2021-07-08** — deleted branch "z/fixName" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-07-08** — closed PR [#85](https://api.github.com/repos/slackhq/keeper/pulls/85) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name"
+
 **2021-07-08** — closed issue [#1363](https://api.github.com/repos/square/moshi/issues/1363) on [square/moshi](https://api.github.com/repos/square/moshi): "Why Moshi Can't parser Json with generic types?"
 
 **2021-07-08** — commented on [#1363](https://github.com/square/moshi/issues/1363#issuecomment-876470706) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-05** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-874422333) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-05** — commented on [#439](https://github.com/uber/AutoDispose/pull/439#issuecomment-874397483) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-07-05** — pushed [`c39f91d7`](https://github.com/uber/AutoDispose/commit/c39f91d7310e55ceb171bfe0800a79f2e6a3e75a) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions  (#439)"
-
-**2021-07-05** — closed PR [#439](https://api.github.com/repos/uber/AutoDispose/pulls/439) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Add lint check support for kotlin extensions "
-
-**2021-07-05** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-874347244) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
