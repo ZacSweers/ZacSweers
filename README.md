@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-15** — commented on [#447](https://github.com/uber/AutoDispose/issues/447#issuecomment-880383897) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-07-14** — commented on [#310](https://github.com/gradle/gradle-profiler/pull/310#issuecomment-879905650) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
 
 **2021-07-14** — commented on [#335](https://github.com/gradle/gradle-profiler/issues/335#issuecomment-879903394) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-08** — closed PR [#85](https://api.github.com/repos/slackhq/keeper/pulls/85) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name"
 
 **2021-07-08** — closed issue [#1363](https://api.github.com/repos/square/moshi/issues/1363) on [square/moshi](https://api.github.com/repos/square/moshi): "Why Moshi Can't parser Json with generic types?"
-
-**2021-07-08** — commented on [#1363](https://github.com/square/moshi/issues/1363#issuecomment-876470706) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
