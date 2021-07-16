@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-07-15** — commented on [#1099](https://github.com/google/auto/pull/1099#issuecomment-881072780) in [google/auto](https://api.github.com/repos/google/auto)
+**2021-07-15** — opened PR [#132](https://api.github.com/repos/ZacSweers/MoshiX/pulls/132) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Misc cleanups and updates"
 
-**2021-07-15** — commented on [#447](https://github.com/uber/AutoDispose/issues/447#issuecomment-880383897) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-07-15** — created branch "z/moreNewDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-07-14** — commented on [#310](https://github.com/gradle/gradle-profiler/pull/310#issuecomment-879905650) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+**2021-07-15** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-881115074) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-07-14** — commented on [#335](https://github.com/gradle/gradle-profiler/issues/335#issuecomment-879903394) in [gradle/gradle-profiler](https://api.github.com/repos/gradle/gradle-profiler)
+**2021-07-15** — closed PR [#21](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/21) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
-**2021-07-14** — closed issue [#447](https://api.github.com/repos/uber/AutoDispose/issues/447) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "gradle 7.1 and AGP 7.0.0-beta05"
+**2021-07-15** — pushed [`ccd11f41`](https://github.com/ZacSweers/auto-service-ksp/commit/ccd11f417c429094a7bc950ca5b321c7097ab102) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#21)"
 
-**2021-07-14** — commented on [#447](https://github.com/uber/AutoDispose/issues/447#issuecomment-879901454) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-07-15** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-07-12** — closed PR [#1364](https://api.github.com/repos/square/moshi/pulls/1364) to [square/moshi](https://api.github.com/repos/square/moshi): "set Gitignore: ignore local.properties"
+**2021-07-15** — pushed [`72f464bb`](https://github.com/square/moshi/commit/72f464bbdc5d9a127ee3d5f2138de1221284b723) to [square/moshi](https://api.github.com/repos/square/moshi): "Add an argument to be disable proguard code generating (#1353)"
 
-**2021-07-08** — pushed [`4b1f3687`](https://github.com/slackhq/keeper/commit/4b1f3687116e037cee5af96ea6c84bae48756c41) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name (#85)"
+**2021-07-15** — closed PR [#1353](https://api.github.com/repos/square/moshi/pulls/1353) to [square/moshi](https://api.github.com/repos/square/moshi): "Add an argument to be disable proguard code generating"
 
-**2021-07-08** — deleted branch "z/fixName" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-07-15** — pushed 3 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-07-08** — closed PR [#85](https://api.github.com/repos/slackhq/keeper/pulls/85) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Fix wrong property name"
+**2021-07-15** — pushed [`4897c5c8`](https://github.com/ZacSweers/MoshiX/commit/4897c5c82c69d17d5cba624cf698ed6b0030a0ec) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix property"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
