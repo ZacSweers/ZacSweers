@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-15** — closed issue [#1351](https://api.github.com/repos/square/moshi/issues/1351) on [square/moshi](https://api.github.com/repos/square/moshi): "Make proguard optional during creating jsonadapter"
+
+**2021-07-15** — created tag "0.12.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-07-15** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-07-15** — pushed [`704ee9ee`](https://github.com/ZacSweers/auto-service-ksp/commit/704ee9eee366c38145b611c087f5a16b89b5a210) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Sentences"
 
 **2021-07-15** — pushed [`7b7476cf`](https://github.com/ZacSweers/auto-service-ksp/commit/7b7476cf672873b66496c4f02450772ec3e85571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Mention KP"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-15** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-881129016) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 
 **2021-07-15** — pushed [`6e44328f`](https://github.com/ZacSweers/MoshiX/commit/6e44328fcac07413ebba4b975896dad78c5d3bbf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-07-15** — pushed [`15a3cd66`](https://github.com/ZacSweers/MoshiX/commit/15a3cd66f348e3c56fbb9bb2a08122db66bfa201) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-07-15** — closed PR [#124](https://api.github.com/repos/ZacSweers/MoshiX/pulls/124) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating"
-
-**2021-07-15** — commented on [#124](https://github.com/ZacSweers/MoshiX/pull/124#issuecomment-881127403) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
