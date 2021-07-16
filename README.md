@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-07-15** — opened PR [#132](https://api.github.com/repos/ZacSweers/MoshiX/pulls/132) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Misc cleanups and updates"
+**2021-07-15** — pushed [`704ee9ee`](https://github.com/ZacSweers/auto-service-ksp/commit/704ee9eee366c38145b611c087f5a16b89b5a210) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Sentences"
 
-**2021-07-15** — created branch "z/moreNewDeps" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-07-15** — pushed [`7b7476cf`](https://github.com/ZacSweers/auto-service-ksp/commit/7b7476cf672873b66496c4f02450772ec3e85571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Mention KP"
 
-**2021-07-15** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-881115074) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-07-15** — pushed [`f6a2b2c4`](https://github.com/ZacSweers/MoshiX/commit/f6a2b2c464abb07df98631baf7a0fa1c3a3676a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating (#133)"
 
-**2021-07-15** — closed PR [#21](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/21) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
+**2021-07-15** — deleted branch "SeongUgJung-disable_proguard_codegen" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-07-15** — pushed [`ccd11f41`](https://github.com/ZacSweers/auto-service-ksp/commit/ccd11f417c429094a7bc950ca5b321c7097ab102) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#21)"
+**2021-07-15** — closed PR [#133](https://api.github.com/repos/ZacSweers/MoshiX/pulls/133) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating"
 
-**2021-07-15** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-07-15** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-881129016) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 
-**2021-07-15** — pushed [`72f464bb`](https://github.com/square/moshi/commit/72f464bbdc5d9a127ee3d5f2138de1221284b723) to [square/moshi](https://api.github.com/repos/square/moshi): "Add an argument to be disable proguard code generating (#1353)"
+**2021-07-15** — pushed [`6e44328f`](https://github.com/ZacSweers/MoshiX/commit/6e44328fcac07413ebba4b975896dad78c5d3bbf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
-**2021-07-15** — closed PR [#1353](https://api.github.com/repos/square/moshi/pulls/1353) to [square/moshi](https://api.github.com/repos/square/moshi): "Add an argument to be disable proguard code generating"
+**2021-07-15** — pushed [`15a3cd66`](https://github.com/ZacSweers/MoshiX/commit/15a3cd66f348e3c56fbb9bb2a08122db66bfa201) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
-**2021-07-15** — pushed 3 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+**2021-07-15** — closed PR [#124](https://api.github.com/repos/ZacSweers/MoshiX/pulls/124) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating"
 
-**2021-07-15** — pushed [`4897c5c8`](https://github.com/ZacSweers/MoshiX/commit/4897c5c82c69d17d5cba624cf698ed6b0030a0ec) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix property"
+**2021-07-15** — commented on [#124](https://github.com/ZacSweers/MoshiX/pull/124#issuecomment-881127403) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
