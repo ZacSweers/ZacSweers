@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-16** — pushed [`ce45a68c`](https://github.com/square/moshi/commit/ce45a68cc35a6a6676fe31674d780e51c3f675b8) to [square/moshi](https://api.github.com/repos/square/moshi): "Small grammar and naming followups for proguard gen (#1365)"
+
+**2021-07-16** — deleted branch "z/tweak" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-07-16** — closed PR [#1365](https://api.github.com/repos/square/moshi/pulls/1365) to [square/moshi](https://api.github.com/repos/square/moshi): "Small grammar and naming followups for proguard gen"
+
+**2021-07-16** — commented on [#1365](https://github.com/square/moshi/pull/1365#issuecomment-881227139) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-07-15** — closed issue [#1351](https://api.github.com/repos/square/moshi/issues/1351) on [square/moshi](https://api.github.com/repos/square/moshi): "Make proguard optional during creating jsonadapter"
 
 **2021-07-15** — created tag "0.12.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-15** — pushed [`7b7476cf`](https://github.com/ZacSweers/auto-service-ksp/commit/7b7476cf672873b66496c4f02450772ec3e85571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Mention KP"
 
 **2021-07-15** — pushed [`f6a2b2c4`](https://github.com/ZacSweers/MoshiX/commit/f6a2b2c464abb07df98631baf7a0fa1c3a3676a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating (#133)"
-
-**2021-07-15** — deleted branch "SeongUgJung-disable_proguard_codegen" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-15** — closed PR [#133](https://api.github.com/repos/ZacSweers/MoshiX/pulls/133) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating"
-
-**2021-07-15** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-881129016) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-07-15** — pushed [`6e44328f`](https://github.com/ZacSweers/MoshiX/commit/6e44328fcac07413ebba4b975896dad78c5d3bbf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
