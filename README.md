@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-16** — commented on [#1111](https://github.com/square/kotlinpoet/pull/1111#issuecomment-881609986) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-07-16** — pushed [`ce45a68c`](https://github.com/square/moshi/commit/ce45a68cc35a6a6676fe31674d780e51c3f675b8) to [square/moshi](https://api.github.com/repos/square/moshi): "Small grammar and naming followups for proguard gen (#1365)"
 
 **2021-07-16** — deleted branch "z/tweak" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-15** — pushed [`704ee9ee`](https://github.com/ZacSweers/auto-service-ksp/commit/704ee9eee366c38145b611c087f5a16b89b5a210) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Sentences"
 
 **2021-07-15** — pushed [`7b7476cf`](https://github.com/ZacSweers/auto-service-ksp/commit/7b7476cf672873b66496c4f02450772ec3e85571) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Mention KP"
-
-**2021-07-15** — pushed [`f6a2b2c4`](https://github.com/ZacSweers/MoshiX/commit/f6a2b2c464abb07df98631baf7a0fa1c3a3676a6) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add an argument to be disable proguard code generating (#133)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
