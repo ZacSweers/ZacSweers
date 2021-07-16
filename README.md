@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-16** — closed issue [#1366](https://api.github.com/repos/square/moshi/issues/1366) on [square/moshi](https://api.github.com/repos/square/moshi): "Ability To Skip Invalid Objects When Parsing a List"
+
+**2021-07-16** — commented on [#1366](https://github.com/square/moshi/issues/1366#issuecomment-881740857) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-07-16** — pushed [`97ecaf33`](https://github.com/slackhq/EitherNet/commit/97ecaf33bc08b8f6d03eb052593c7ae33035e7b6) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Go away detekt"
+
+**2021-07-16** — opened PR [#24](https://api.github.com/repos/slackhq/EitherNet/pulls/24) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface"
+
+**2021-07-16** — created branch "z/updatesSealed" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-07-16** — commented on [#1099](https://github.com/google/auto/pull/1099#issuecomment-881635721) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2021-07-16** — commented on [#1099](https://github.com/google/auto/pull/1099#issuecomment-881615683) in [google/auto](https://api.github.com/repos/google/auto)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-16** — commented on [#344](https://github.com/square/anvil/issues/344#issuecomment-881610938) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-16** — commented on [#1111](https://github.com/square/kotlinpoet/pull/1111#issuecomment-881609986) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-07-16** — pushed [`ce45a68c`](https://github.com/square/moshi/commit/ce45a68cc35a6a6676fe31674d780e51c3f675b8) to [square/moshi](https://api.github.com/repos/square/moshi): "Small grammar and naming followups for proguard gen (#1365)"
-
-**2021-07-16** — deleted branch "z/tweak" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-07-16** — closed PR [#1365](https://api.github.com/repos/square/moshi/pulls/1365) to [square/moshi](https://api.github.com/repos/square/moshi): "Small grammar and naming followups for proguard gen"
-
-**2021-07-16** — commented on [#1365](https://github.com/square/moshi/pull/1365#issuecomment-881227139) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-07-15** — closed issue [#1351](https://api.github.com/repos/square/moshi/issues/1351) on [square/moshi](https://api.github.com/repos/square/moshi): "Make proguard optional during creating jsonadapter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
