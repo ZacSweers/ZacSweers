@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-17** — commented on [#134](https://github.com/ZacSweers/MoshiX/pull/134#issuecomment-881945628) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-07-17** — pushed [`bf2beb32`](https://github.com/ZacSweers/MoshiX/commit/bf2beb32be0eb8560fdb7ee21fa60ad453c4644e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings (#134)"
+
+**2021-07-17** — closed PR [#134](https://api.github.com/repos/ZacSweers/MoshiX/pulls/134) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings"
+
+**2021-07-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-07-17** — pushed [`d4362786`](https://github.com/slmlt/MoshiX/commit/d4362786d84e47f7d8be04aceec4bc8e6b917aec) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update access"
+
 **2021-07-17** — pushed [`73e9dc5f`](https://github.com/uber/AutoDispose/commit/73e9dc5f160c37a1d1a4224e61d52dea7626f086) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More JDK 16 compat"
 
 **2021-07-17** — pushed [`96ab3fb0`](https://github.com/uber/AutoDispose/commit/96ab3fb0fea47e6928ea9be6be251a06804f492e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update publishing and binary validator"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-17** — pushed [`42062002`](https://github.com/uber/AutoDispose/commit/42062002022e6a003ee89f04d68b28808440c90e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "These are the defaults when no filter is set"
 
 **2021-07-17** — pushed [`d3a8e6e4`](https://github.com/uber/AutoDispose/commit/d3a8e6e4041834963b857a96afdb98fcd377c990) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Android 12 fixes"
-
-**2021-07-17** — pushed [`94ff6cf4`](https://github.com/ZacSweers/auto-service-ksp/commit/94ff6cf495da47b1bc9e3bfee3fec96918268ce1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update credential property names"
-
-**2021-07-17** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-07-17** — pushed 3 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-07-16** — closed issue [#1366](https://api.github.com/repos/square/moshi/issues/1366) on [square/moshi](https://api.github.com/repos/square/moshi): "Ability To Skip Invalid Objects When Parsing a List"
-
-**2021-07-16** — commented on [#1366](https://github.com/square/moshi/issues/1366#issuecomment-881740857) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
