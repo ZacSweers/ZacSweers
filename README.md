@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-17** — pushed [`73e9dc5f`](https://github.com/uber/AutoDispose/commit/73e9dc5f160c37a1d1a4224e61d52dea7626f086) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More JDK 16 compat"
+
+**2021-07-17** — pushed [`96ab3fb0`](https://github.com/uber/AutoDispose/commit/96ab3fb0fea47e6928ea9be6be251a06804f492e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update publishing and binary validator"
+
+**2021-07-17** — pushed [`cccb1daf`](https://github.com/ZacSweers/auto-service-ksp/commit/cccb1daf55d6dbb07632b47fe560ace53f9809e7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix publish command"
+
+**2021-07-17** — pushed [`42062002`](https://github.com/uber/AutoDispose/commit/42062002022e6a003ee89f04d68b28808440c90e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "These are the defaults when no filter is set"
+
+**2021-07-17** — pushed [`d3a8e6e4`](https://github.com/uber/AutoDispose/commit/d3a8e6e4041834963b857a96afdb98fcd377c990) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Android 12 fixes"
+
+**2021-07-17** — pushed [`94ff6cf4`](https://github.com/ZacSweers/auto-service-ksp/commit/94ff6cf495da47b1bc9e3bfee3fec96918268ce1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update credential property names"
+
+**2021-07-17** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-07-17** — pushed 3 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
 **2021-07-16** — closed issue [#1366](https://api.github.com/repos/square/moshi/issues/1366) on [square/moshi](https://api.github.com/repos/square/moshi): "Ability To Skip Invalid Objects When Parsing a List"
 
 **2021-07-16** — commented on [#1366](https://github.com/square/moshi/issues/1366#issuecomment-881740857) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-07-16** — pushed [`97ecaf33`](https://github.com/slackhq/EitherNet/commit/97ecaf33bc08b8f6d03eb052593c7ae33035e7b6) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Go away detekt"
-
-**2021-07-16** — opened PR [#24](https://api.github.com/repos/slackhq/EitherNet/pulls/24) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface"
-
-**2021-07-16** — created branch "z/updatesSealed" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-16** — commented on [#1099](https://github.com/google/auto/pull/1099#issuecomment-881635721) in [google/auto](https://api.github.com/repos/google/auto)
-
-**2021-07-16** — commented on [#1099](https://github.com/google/auto/pull/1099#issuecomment-881615683) in [google/auto](https://api.github.com/repos/google/auto)
-
-**2021-07-16** — commented on [#130](https://github.com/ZacSweers/MoshiX/pull/130#issuecomment-881611443) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-16** — commented on [#344](https://github.com/square/anvil/issues/344#issuecomment-881610938) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-07-16** — commented on [#1111](https://github.com/square/kotlinpoet/pull/1111#issuecomment-881609986) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
