@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-17** — commented on [#1112](https://github.com/square/kotlinpoet/pull/1112#issuecomment-881966960) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-07-17** — opened issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
+
+**2021-07-17** — commented on [#127](https://github.com/ZacSweers/MoshiX/issues/127#issuecomment-881963210) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-07-17** — closed issue [#129](https://api.github.com/repos/ZacSweers/MoshiX/issues/129) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Moshi-sealed-runtime: More than one file was found with OS independent path 'META-INF/runtime.kotlin_module'"
+
+**2021-07-17** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-881963181) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-07-17** — commented on [#134](https://github.com/ZacSweers/MoshiX/pull/134#issuecomment-881945628) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-17** — pushed [`bf2beb32`](https://github.com/ZacSweers/MoshiX/commit/bf2beb32be0eb8560fdb7ee21fa60ad453c4644e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings (#134)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 
 **2021-07-17** — pushed [`d4362786`](https://github.com/slmlt/MoshiX/commit/d4362786d84e47f7d8be04aceec4bc8e6b917aec) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update access"
-
-**2021-07-17** — pushed [`73e9dc5f`](https://github.com/uber/AutoDispose/commit/73e9dc5f160c37a1d1a4224e61d52dea7626f086) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More JDK 16 compat"
-
-**2021-07-17** — pushed [`96ab3fb0`](https://github.com/uber/AutoDispose/commit/96ab3fb0fea47e6928ea9be6be251a06804f492e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update publishing and binary validator"
-
-**2021-07-17** — pushed [`cccb1daf`](https://github.com/ZacSweers/auto-service-ksp/commit/cccb1daf55d6dbb07632b47fe560ace53f9809e7) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Fix publish command"
-
-**2021-07-17** — pushed [`42062002`](https://github.com/uber/AutoDispose/commit/42062002022e6a003ee89f04d68b28808440c90e) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "These are the defaults when no filter is set"
-
-**2021-07-17** — pushed [`d3a8e6e4`](https://github.com/uber/AutoDispose/commit/d3a8e6e4041834963b857a96afdb98fcd377c990) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Android 12 fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
