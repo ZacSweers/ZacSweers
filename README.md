@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-18** — closed issue [#1113](https://api.github.com/repos/square/kotlinpoet/issues/1113) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "auto import error type"
+
+**2021-07-18** — commented on [#1113](https://github.com/square/kotlinpoet/issues/1113#issuecomment-882079619) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-07-17** — commented on [#1112](https://github.com/square/kotlinpoet/pull/1112#issuecomment-881966960) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-07-17** — opened issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-17** — pushed [`bf2beb32`](https://github.com/ZacSweers/MoshiX/commit/bf2beb32be0eb8560fdb7ee21fa60ad453c4644e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings (#134)"
 
 **2021-07-17** — closed PR [#134](https://api.github.com/repos/ZacSweers/MoshiX/pulls/134) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings"
-
-**2021-07-17** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-07-17** — pushed [`d4362786`](https://github.com/slmlt/MoshiX/commit/d4362786d84e47f7d8be04aceec4bc8e6b917aec) to [slmlt/MoshiX](https://api.github.com/repos/slmlt/MoshiX): "Update access"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
