@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-19** — pushed [`a6944c92`](https://github.com/uber/AutoDispose/commit/a6944c92ea1b42088788c8d76aff6a384e9caa14) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway (#448)"
+
+**2021-07-19** — closed PR [#448](https://api.github.com/repos/uber/AutoDispose/pulls/448) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway"
+
 **2021-07-18** — closed issue [#1113](https://api.github.com/repos/square/kotlinpoet/issues/1113) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "auto import error type"
 
 **2021-07-18** — commented on [#1113](https://github.com/square/kotlinpoet/issues/1113#issuecomment-882079619) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-17** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-881963181) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-17** — commented on [#134](https://github.com/ZacSweers/MoshiX/pull/134#issuecomment-881945628) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-17** — pushed [`bf2beb32`](https://github.com/ZacSweers/MoshiX/commit/bf2beb32be0eb8560fdb7ee21fa60ad453c4644e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings (#134)"
-
-**2021-07-17** — closed PR [#134](https://api.github.com/repos/ZacSweers/MoshiX/pulls/134) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[Issue #129] Use kotlinOptions instead of freeCompilerArgs to avoid warnings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
