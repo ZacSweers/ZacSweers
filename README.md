@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-19** — pushed [`2fb6048c`](https://github.com/slackhq/EitherNet/commit/2fb6048ce8962ca6511846b5b5476610cadbbdb8) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface (#24)"
+
+**2021-07-19** — closed PR [#24](https://api.github.com/repos/slackhq/EitherNet/pulls/24) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface"
+
+**2021-07-19** — deleted branch "z/updatesSealed" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-07-19** — pushed [`a6944c92`](https://github.com/uber/AutoDispose/commit/a6944c92ea1b42088788c8d76aff6a384e9caa14) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway (#448)"
 
 **2021-07-19** — closed PR [#448](https://api.github.com/repos/uber/AutoDispose/pulls/448) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-17** — opened issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
 
 **2021-07-17** — commented on [#127](https://github.com/ZacSweers/MoshiX/issues/127#issuecomment-881963210) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-17** — closed issue [#129](https://api.github.com/repos/ZacSweers/MoshiX/issues/129) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Moshi-sealed-runtime: More than one file was found with OS independent path 'META-INF/runtime.kotlin_module'"
-
-**2021-07-17** — commented on [#129](https://github.com/ZacSweers/MoshiX/issues/129#issuecomment-881963181) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-17** — commented on [#134](https://github.com/ZacSweers/MoshiX/pull/134#issuecomment-881945628) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
