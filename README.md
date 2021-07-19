@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-19** — pushed [`63613fa6`](https://github.com/slackhq/EitherNet/commit/63613fa68852c9b77f9836eca211a68ba2782f17) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
+
+**2021-07-19** — pushed [`fec8a942`](https://github.com/slackhq/EitherNet/commit/fec8a942ab832adfd4ae1c47ac53d7f0690ea633) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add disclaimer"
+
+**2021-07-19** — created tag "1.0.0-rc01" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-07-19** — pushed 4 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
+**2021-07-19** — closed issue [#21](https://api.github.com/repos/slackhq/EitherNet/issues/21) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Integrate Kotlin ABI validator"
+
+**2021-07-19** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-882629999) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-07-19** — pushed [`c4ee6120`](https://github.com/slackhq/EitherNet/commit/c4ee6120ad5e51802d383028caabdb91e60ba55b) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix publishing script"
+
+**2021-07-19** — pushed [`59f5054b`](https://github.com/ZacSweers/CatchUp/commit/59f5054bc25b7f70b857e0d9e8310c94953486d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
+
 **2021-07-19** — pushed [`2fb6048c`](https://github.com/slackhq/EitherNet/commit/2fb6048ce8962ca6511846b5b5476610cadbbdb8) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface (#24)"
 
 **2021-07-19** — closed PR [#24](https://api.github.com/repos/slackhq/EitherNet/pulls/24) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface"
-
-**2021-07-19** — deleted branch "z/updatesSealed" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-19** — pushed [`a6944c92`](https://github.com/uber/AutoDispose/commit/a6944c92ea1b42088788c8d76aff6a384e9caa14) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway (#448)"
-
-**2021-07-19** — closed PR [#448](https://api.github.com/repos/uber/AutoDispose/pulls/448) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update annotated packages for NullAway"
-
-**2021-07-18** — closed issue [#1113](https://api.github.com/repos/square/kotlinpoet/issues/1113) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "auto import error type"
-
-**2021-07-18** — commented on [#1113](https://github.com/square/kotlinpoet/issues/1113#issuecomment-882079619) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-07-17** — commented on [#1112](https://github.com/square/kotlinpoet/pull/1112#issuecomment-881966960) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-07-17** — opened issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
-
-**2021-07-17** — commented on [#127](https://github.com/ZacSweers/MoshiX/issues/127#issuecomment-881963210) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
