@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-20** — opened issue [#2765](https://api.github.com/repos/google/dagger/issues/2765) on [google/dagger](https://api.github.com/repos/google/dagger): "XBasicAnnotationProcessor not fully shaded and confuses kotlinc in 2.38"
+
 **2021-07-20** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-07-19** — pushed [`63613fa6`](https://github.com/slackhq/EitherNet/commit/63613fa68852c9b77f9836eca211a68ba2782f17) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-19** — pushed [`c4ee6120`](https://github.com/slackhq/EitherNet/commit/c4ee6120ad5e51802d383028caabdb91e60ba55b) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix publishing script"
 
 **2021-07-19** — pushed [`59f5054b`](https://github.com/ZacSweers/CatchUp/commit/59f5054bc25b7f70b857e0d9e8310c94953486d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
-
-**2021-07-19** — pushed [`2fb6048c`](https://github.com/slackhq/EitherNet/commit/2fb6048ce8962ca6511846b5b5476610cadbbdb8) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies and switch to sealed interface (#24)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
