@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-21** — deleted branch "z/tags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-07-21** — pushed [`35e9d1dd`](https://github.com/slackhq/EitherNet/commit/35e9d1ddaab5f9077bc8f42eb6f74e5adb412694) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add tags API and tighten up general API (#25)"
+
+**2021-07-21** — closed PR [#25](https://api.github.com/repos/slackhq/EitherNet/pulls/25) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add tags API and tighten up general API"
+
+**2021-07-21** — pushed [`8e661b64`](https://github.com/slackhq/EitherNet/commit/8e661b647f64231d0dffea8d57c5f88323df37e3) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Suppress"
+
+**2021-07-21** — opened PR [#25](https://api.github.com/repos/slackhq/EitherNet/pulls/25) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add tags API and tighten up general API"
+
+**2021-07-21** — created branch "z/tags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-07-20** — opened issue [#2765](https://api.github.com/repos/google/dagger/issues/2765) on [google/dagger](https://api.github.com/repos/google/dagger): "XBasicAnnotationProcessor not fully shaded and confuses kotlinc in 2.38"
 
 **2021-07-20** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-19** — pushed [`63613fa6`](https://github.com/slackhq/EitherNet/commit/63613fa68852c9b77f9836eca211a68ba2782f17) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
 
 **2021-07-19** — pushed [`fec8a942`](https://github.com/slackhq/EitherNet/commit/fec8a942ab832adfd4ae1c47ac53d7f0690ea633) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add disclaimer"
-
-**2021-07-19** — created tag "1.0.0-rc01" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-19** — pushed 4 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2021-07-19** — closed issue [#21](https://api.github.com/repos/slackhq/EitherNet/issues/21) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Integrate Kotlin ABI validator"
-
-**2021-07-19** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-882629999) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-19** — pushed [`c4ee6120`](https://github.com/slackhq/EitherNet/commit/c4ee6120ad5e51802d383028caabdb91e60ba55b) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix publishing script"
-
-**2021-07-19** — pushed [`59f5054b`](https://github.com/ZacSweers/CatchUp/commit/59f5054bc25b7f70b857e0d9e8310c94953486d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the things"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
