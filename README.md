@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-22** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2021-07-22** — commented on [#17812](https://github.com/gradle/gradle/issues/17812#issuecomment-885189423) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-07-21** — deleted branch "z/tags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-20** — opened issue [#2765](https://api.github.com/repos/google/dagger/issues/2765) on [google/dagger](https://api.github.com/repos/google/dagger): "XBasicAnnotationProcessor not fully shaded and confuses kotlinc in 2.38"
 
 **2021-07-20** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-07-19** — pushed [`63613fa6`](https://github.com/slackhq/EitherNet/commit/63613fa68852c9b77f9836eca211a68ba2782f17) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
