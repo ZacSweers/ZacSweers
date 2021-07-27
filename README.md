@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-27** — commented on [#17826](https://github.com/gradle/gradle/issues/17826#issuecomment-887718077) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-07-27** — commented on [#1589](https://github.com/detekt/detekt/issues/1589#issuecomment-887655300) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-07-23** — deleted branch "patch-1" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-22** — commented on [#17812](https://github.com/gradle/gradle/issues/17812#issuecomment-885189423) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-07-21** — deleted branch "z/tags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-21** — pushed [`35e9d1dd`](https://github.com/slackhq/EitherNet/commit/35e9d1ddaab5f9077bc8f42eb6f74e5adb412694) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add tags API and tighten up general API (#25)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
