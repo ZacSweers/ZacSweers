@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-28** — commented on [#1114](https://github.com/square/kotlinpoet/issues/1114#issuecomment-888400157) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-07-28** — commented on [#353](https://github.com/square/anvil/pull/353#issuecomment-888032467) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-28** — commented on [#353](https://github.com/square/anvil/pull/353#issuecomment-888028547) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-27** — commented on [#17826](https://github.com/gradle/gradle/issues/17826#issuecomment-887718077) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-07-27** — commented on [#1589](https://github.com/detekt/detekt/issues/1589#issuecomment-887655300) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-07-23** — deleted branch "patch-1" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
