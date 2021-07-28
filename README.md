@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-27** — opened issue [#136](https://api.github.com/repos/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
+
 **2021-07-27** — commented on [#17826](https://github.com/gradle/gradle/issues/17826#issuecomment-887718077) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-07-27** — commented on [#1589](https://github.com/detekt/detekt/issues/1589#issuecomment-887655300) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-22** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-07-22** — commented on [#17812](https://github.com/gradle/gradle/issues/17812#issuecomment-885189423) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-07-21** — deleted branch "z/tags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
