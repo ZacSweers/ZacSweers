@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-28** — commented on [#353](https://github.com/square/anvil/pull/353#issuecomment-888032467) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-07-28** — commented on [#353](https://github.com/square/anvil/pull/353#issuecomment-888028547) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-07-28** — opened PR [#353](https://api.github.com/repos/square/anvil/pulls/353) to [square/anvil](https://api.github.com/repos/square/anvil): "Replace JavaPluginConvention with JavaPluginExtension"
+
+**2021-07-28** — created branch "z/javaPluginStuff" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-07-28** — pushed [`8f754c41`](https://github.com/ZacSweers/anvil/commit/8f754c41d32bb81467e10616c7a5d55694a0e995) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Normalize setter name and also don't add field signature annotation for it"
 
 **2021-07-28** — created branch "z/nullability" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-27** — commented on [#1589](https://github.com/detekt/detekt/issues/1589#issuecomment-887655300) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-07-23** — deleted branch "patch-1" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
-
-**2021-07-23** — commented on [#7303](https://github.com/ReactiveX/RxJava/pull/7303#issuecomment-885674519) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-07-23** — pushed [`677eafe3`](https://github.com/ZacSweers/RxJava/commit/677eafe35a83f4134566b0d4af4533498aba6ca8) to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava): "Update src/main/java/io/reactivex/rxjava3/core/Observable.java"
-
-**2021-07-22** — opened PR [#7302](https://api.github.com/repos/ReactiveX/RxJava/pulls/7302) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix missing NonNull on Observable.map"
-
-**2021-07-22** — pushed [`0680a456`](https://github.com/ZacSweers/RxJava/commit/0680a45690500a92f48cdc774bd351c8f1b94097) to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava): "Fix missing NonNull on Observable.map"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
