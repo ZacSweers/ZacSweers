@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-28** — pushed [`8f754c41`](https://github.com/ZacSweers/anvil/commit/8f754c41d32bb81467e10616c7a5d55694a0e995) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Normalize setter name and also don't add field signature annotation for it"
+
+**2021-07-28** — created branch "z/nullability" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-07-27** — opened issue [#136](https://api.github.com/repos/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
 
 **2021-07-27** — commented on [#17826](https://github.com/gradle/gradle/issues/17826#issuecomment-887718077) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-22** — opened PR [#7302](https://api.github.com/repos/ReactiveX/RxJava/pulls/7302) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix missing NonNull on Observable.map"
 
 **2021-07-22** — pushed [`0680a456`](https://github.com/ZacSweers/RxJava/commit/0680a45690500a92f48cdc774bd351c8f1b94097) to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava): "Fix missing NonNull on Observable.map"
-
-**2021-07-22** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-07-22** — commented on [#17812](https://github.com/gradle/gradle/issues/17812#issuecomment-885189423) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
