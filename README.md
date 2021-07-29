@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-28** — pushed [`44d419ff`](https://github.com/slackhq/keeper/commit/44d419fffb12baef9cc7cb8c669a04a1ddac524e) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update ABI"
+
+**2021-07-28** — opened PR [#86](https://api.github.com/repos/slackhq/keeper/pulls/86) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update dependencies and APIs for AGP 7"
+
 **2021-07-28** — opened issue [#1485](https://api.github.com/repos/AzureAD/microsoft-authentication-library-common-for-android/issues/1485) on [AzureAD/microsoft-authentication-library-common-for-android](https://api.github.com/repos/AzureAD/microsoft-authentication-library-common-for-android): "Anonymous TypeToken instance to get Type instances is unsafe"
 
 **2021-07-28** — created branch "z/updateDepsAndAPIs" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-28** — commented on [#353](https://github.com/square/anvil/pull/353#issuecomment-888028547) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-07-28** — opened PR [#353](https://api.github.com/repos/square/anvil/pulls/353) to [square/anvil](https://api.github.com/repos/square/anvil): "Replace JavaPluginConvention with JavaPluginExtension"
-
-**2021-07-28** — created branch "z/javaPluginStuff" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-07-28** — pushed [`8f754c41`](https://github.com/ZacSweers/anvil/commit/8f754c41d32bb81467e10616c7a5d55694a0e995) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Normalize setter name and also don't add field signature annotation for it"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
