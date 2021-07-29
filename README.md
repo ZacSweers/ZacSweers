@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-28** — created branch "z/updateDepsAndAPIs" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-07-28** — commented on [#382](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/382#issuecomment-888722636) in [bugsnag/bugsnag-android-gradle-plugin](https://api.github.com/repos/bugsnag/bugsnag-android-gradle-plugin)
+
 **2021-07-28** — commented on [#1114](https://github.com/square/kotlinpoet/issues/1114#issuecomment-888535040) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-07-28** — commented on [#1114](https://github.com/square/kotlinpoet/issues/1114#issuecomment-888400157) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-28** — pushed [`8f754c41`](https://github.com/ZacSweers/anvil/commit/8f754c41d32bb81467e10616c7a5d55694a0e995) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Normalize setter name and also don't add field signature annotation for it"
 
 **2021-07-28** — created branch "z/nullability" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-07-27** — opened issue [#136](https://api.github.com/repos/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
-
-**2021-07-27** — commented on [#17826](https://github.com/gradle/gradle/issues/17826#issuecomment-887718077) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
