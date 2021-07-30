@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-07-30** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-889643855) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-07-29** — pushed [`cb5fb637`](https://github.com/uber/AutoDispose/commit/cb5fb63740168217cffaf09ae560ad6220017f01) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More updates"
 
 **2021-07-29** — opened PR [#138](https://api.github.com/repos/ZacSweers/MoshiX/pulls/138) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prototype sealed indirection"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-29** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-29** — pushed [`5bbf48c7`](https://github.com/slackhq/keeper/commit/5bbf48c70504a346fb329253bf28809bdd7b691f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 01429a9 with MkDocs version: 1.2.2"
-
-**2021-07-29** — pushed [`01429a96`](https://github.com/slackhq/keeper/commit/01429a96fd73b8a5fb17ae03913a72897a3775bf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Formatting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
