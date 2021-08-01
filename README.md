@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-01** — closed issue [#1367](https://api.github.com/repos/square/moshi/issues/1367) on [square/moshi](https://api.github.com/repos/square/moshi): "Polymorphic class that has member with the same name as the labelKey will have labelKey serialized twice"
+
+**2021-08-01** — commented on [#1367](https://github.com/square/moshi/issues/1367#issuecomment-890569482) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-01** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-890569190) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-07-30** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-889643855) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-29** — pushed [`cb5fb637`](https://github.com/uber/AutoDispose/commit/cb5fb63740168217cffaf09ae560ad6220017f01) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More updates"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-29** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-07-29** — closed PR [#137](https://api.github.com/repos/ZacSweers/MoshiX/pulls/137) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies"
-
-**2021-07-29** — opened PR [#137](https://api.github.com/repos/ZacSweers/MoshiX/pulls/137) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies"
-
-**2021-07-29** — created branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-29** — pushed [`5bbf48c7`](https://github.com/slackhq/keeper/commit/5bbf48c70504a346fb329253bf28809bdd7b691f) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 01429a9 with MkDocs version: 1.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
