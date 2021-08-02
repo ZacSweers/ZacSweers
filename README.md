@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-02** — commented on [#1189](https://github.com/pinterest/ktlint/issues/1189#issuecomment-891274585) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
 **2021-08-01** — closed issue [#1367](https://api.github.com/repos/square/moshi/issues/1367) on [square/moshi](https://api.github.com/repos/square/moshi): "Polymorphic class that has member with the same name as the labelKey will have labelKey serialized twice"
 
 **2021-08-01** — commented on [#1367](https://github.com/square/moshi/issues/1367#issuecomment-890569482) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-29** — pushed [`45a9ce18`](https://github.com/ZacSweers/MoshiX/commit/45a9ce1838da0542cf42e4b99bac9fc139589aad) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies (#137)"
 
 **2021-07-29** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-29** — closed PR [#137](https://api.github.com/repos/ZacSweers/MoshiX/pulls/137) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
