@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-03** — closed issue [#72](https://api.github.com/repos/uber/RxDogTag/issues/72) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "How can I make a jar file of this Project?"
+
+**2021-08-03** — commented on [#72](https://github.com/uber/RxDogTag/issues/72#issuecomment-891847223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
+
 **2021-08-02** — commented on [#1189](https://github.com/pinterest/ktlint/issues/1189#issuecomment-891274585) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 
 **2021-08-01** — closed issue [#1367](https://api.github.com/repos/square/moshi/issues/1367) on [square/moshi](https://api.github.com/repos/square/moshi): "Polymorphic class that has member with the same name as the labelKey will have labelKey serialized twice"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-29** — opened PR [#138](https://api.github.com/repos/ZacSweers/MoshiX/pulls/138) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prototype sealed indirection"
 
 **2021-07-29** — created branch "z/sealedIndirection" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-29** — pushed [`45a9ce18`](https://github.com/ZacSweers/MoshiX/commit/45a9ce1838da0542cf42e4b99bac9fc139589aad) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update dependencies (#137)"
-
-**2021-07-29** — deleted branch "z/updates" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
