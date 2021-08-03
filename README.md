@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-03** — commented on [#37](https://github.com/google/Accessibility-Test-Framework-for-Android/pull/37#issuecomment-891992266) in [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android)
+
+**2021-08-03** — closed issue [#1369](https://api.github.com/repos/square/moshi/issues/1369) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonDataException with raw json data"
+
+**2021-08-03** — commented on [#1369](https://github.com/square/moshi/issues/1369#issuecomment-891979884) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-03** — closed issue [#72](https://api.github.com/repos/uber/RxDogTag/issues/72) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "How can I make a jar file of this Project?"
 
 **2021-08-03** — commented on [#72](https://github.com/uber/RxDogTag/issues/72#issuecomment-891847223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-01** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-890569190) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-07-30** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-889643855) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-07-29** — pushed [`cb5fb637`](https://github.com/uber/AutoDispose/commit/cb5fb63740168217cffaf09ae560ad6220017f01) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More updates"
-
-**2021-07-29** — opened PR [#138](https://api.github.com/repos/ZacSweers/MoshiX/pulls/138) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Prototype sealed indirection"
-
-**2021-07-29** — created branch "z/sealedIndirection" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
