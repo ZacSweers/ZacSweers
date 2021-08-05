@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-05** — opened PR [#28](https://api.github.com/repos/slackhq/EitherNet/pulls/28) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Don't allow nullable type variables"
+
+**2021-08-05** — pushed [`fff36cc5`](https://github.com/slackhq/EitherNet/commit/fff36cc555b54b2d33dddb5b21c43f3fe05b66fa) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add proguard rule to keep ApiResult (#27)"
+
+**2021-08-05** — closed PR [#27](https://api.github.com/repos/slackhq/EitherNet/pulls/27) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add proguard rule to keep ApiResult"
+
+**2021-08-05** — closed issue [#26](https://api.github.com/repos/slackhq/EitherNet/issues/26) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "ClassCastException in ApiResultConverterFactory when minify is enabled"
+
+**2021-08-05** — commented on [#27](https://github.com/slackhq/EitherNet/pull/27#issuecomment-893666690) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-08-05** — pushed [`be481914`](https://github.com/okamayana-tinyspeck/EitherNet/commit/be481914d3597821a0cea4af8c993e3e085323f0) to [okamayana-tinyspeck/EitherNet](https://api.github.com/repos/okamayana-tinyspeck/EitherNet): "Elaborate comment"
+
 **2021-08-03** — commented on [#37](https://github.com/google/Accessibility-Test-Framework-for-Android/pull/37#issuecomment-891992266) in [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android)
 
 **2021-08-03** — closed issue [#1369](https://api.github.com/repos/square/moshi/issues/1369) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonDataException with raw json data"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-03** — commented on [#1369](https://github.com/square/moshi/issues/1369#issuecomment-891979884) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-03** — closed issue [#72](https://api.github.com/repos/uber/RxDogTag/issues/72) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "How can I make a jar file of this Project?"
-
-**2021-08-03** — commented on [#72](https://github.com/uber/RxDogTag/issues/72#issuecomment-891847223) in [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag)
-
-**2021-08-02** — commented on [#1189](https://github.com/pinterest/ktlint/issues/1189#issuecomment-891274585) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2021-08-01** — closed issue [#1367](https://api.github.com/repos/square/moshi/issues/1367) on [square/moshi](https://api.github.com/repos/square/moshi): "Polymorphic class that has member with the same name as the labelKey will have labelKey serialized twice"
-
-**2021-08-01** — commented on [#1367](https://github.com/square/moshi/issues/1367#issuecomment-890569482) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-01** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-890569190) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-07-30** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-889643855) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
