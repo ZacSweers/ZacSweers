@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-05** — pushed [`cbadfa40`](https://github.com/slackhq/EitherNet/commit/cbadfa40209b2591950e03757c2760fc17b6f410) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Don't allow nullable type variables (#28)"
+
+**2021-08-05** — deleted branch "z/nullability" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-08-05** — closed PR [#28](https://api.github.com/repos/slackhq/EitherNet/pulls/28) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Don't allow nullable type variables"
+
 **2021-08-05** — opened PR [#28](https://api.github.com/repos/slackhq/EitherNet/pulls/28) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Don't allow nullable type variables"
 
 **2021-08-05** — pushed [`fff36cc5`](https://github.com/slackhq/EitherNet/commit/fff36cc555b54b2d33dddb5b21c43f3fe05b66fa) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add proguard rule to keep ApiResult (#27)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-05** — pushed [`be481914`](https://github.com/okamayana-tinyspeck/EitherNet/commit/be481914d3597821a0cea4af8c993e3e085323f0) to [okamayana-tinyspeck/EitherNet](https://api.github.com/repos/okamayana-tinyspeck/EitherNet): "Elaborate comment"
 
 **2021-08-03** — commented on [#37](https://github.com/google/Accessibility-Test-Framework-for-Android/pull/37#issuecomment-891992266) in [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android)
-
-**2021-08-03** — closed issue [#1369](https://api.github.com/repos/square/moshi/issues/1369) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonDataException with raw json data"
-
-**2021-08-03** — commented on [#1369](https://github.com/square/moshi/issues/1369#issuecomment-891979884) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-03** — closed issue [#72](https://api.github.com/repos/uber/RxDogTag/issues/72) on [uber/RxDogTag](https://api.github.com/repos/uber/RxDogTag): "How can I make a jar file of this Project?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
