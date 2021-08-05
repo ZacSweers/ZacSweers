@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-05** — closed issue [#1370](https://api.github.com/repos/square/moshi/issues/1370) on [square/moshi](https://api.github.com/repos/square/moshi): "error @JsonClass can't be applied to com.app.FooClass supertype androidx.databinding.BaseObservable is not a Kotlin type"
+
+**2021-08-05** — commented on [#1370](https://github.com/square/moshi/issues/1370#issuecomment-893730773) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-05** — pushed [`cbadfa40`](https://github.com/slackhq/EitherNet/commit/cbadfa40209b2591950e03757c2760fc17b6f410) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Don't allow nullable type variables (#28)"
 
 **2021-08-05** — deleted branch "z/nullability" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-05** — closed issue [#26](https://api.github.com/repos/slackhq/EitherNet/issues/26) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "ClassCastException in ApiResultConverterFactory when minify is enabled"
 
 **2021-08-05** — commented on [#27](https://github.com/slackhq/EitherNet/pull/27#issuecomment-893666690) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-08-05** — pushed [`be481914`](https://github.com/okamayana-tinyspeck/EitherNet/commit/be481914d3597821a0cea4af8c993e3e085323f0) to [okamayana-tinyspeck/EitherNet](https://api.github.com/repos/okamayana-tinyspeck/EitherNet): "Elaborate comment"
-
-**2021-08-03** — commented on [#37](https://github.com/google/Accessibility-Test-Framework-for-Android/pull/37#issuecomment-891992266) in [google/Accessibility-Test-Framework-for-Android](https://api.github.com/repos/google/Accessibility-Test-Framework-for-Android)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
