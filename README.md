@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-06** — commented on [#1189](https://github.com/pinterest/ktlint/issues/1189#issuecomment-894545067) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
 **2021-08-06** — commented on [#139](https://github.com/ZacSweers/MoshiX/issues/139#issuecomment-894447762) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-08-05** — closed issue [#1370](https://api.github.com/repos/square/moshi/issues/1370) on [square/moshi](https://api.github.com/repos/square/moshi): "error @JsonClass can't be applied to com.app.FooClass supertype androidx.databinding.BaseObservable is not a Kotlin type"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-05** — pushed [`fff36cc5`](https://github.com/slackhq/EitherNet/commit/fff36cc555b54b2d33dddb5b21c43f3fe05b66fa) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add proguard rule to keep ApiResult (#27)"
 
 **2021-08-05** — closed PR [#27](https://api.github.com/repos/slackhq/EitherNet/pulls/27) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add proguard rule to keep ApiResult"
-
-**2021-08-05** — closed issue [#26](https://api.github.com/repos/slackhq/EitherNet/issues/26) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "ClassCastException in ApiResultConverterFactory when minify is enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
