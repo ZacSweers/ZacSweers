@@ -15,10 +15,11 @@
  */
 
 plugins {
-  id 'org.jetbrains.kotlin.jvm' version "1.5.0"
-  id 'org.jetbrains.kotlin.kapt' version "1.5.0"
+  id 'org.jetbrains.kotlin.jvm' version "1.5.30-M1"
+  id 'org.jetbrains.kotlin.kapt' version "1.5.30-M1"
   id 'application'
-  id 'com.diffplug.spotless' version "5.12.5"
+  id 'com.diffplug.spotless' version "5.14.2"
+  id "com.github.ben-manes.versions" version "0.39.0"
 }
 
 repositories {
@@ -74,25 +75,22 @@ jar {
 
 dependencies {
   kapt "com.squareup.moshi:moshi-kotlin-codegen:1.12.0"
-  kapt "dev.zacsweers.moshix:moshi-sealed-codegen:0.11.0"
+  kapt "dev.zacsweers.moshix:moshi-sealed-codegen:0.12.0"
   kapt 'com.tickaroo.tikxml:processor:0.8.13'
 
-  implementation "com.github.ajalt:clikt:2.7.1"
-  implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.0"
-  implementation "com.squareup.okio:okio:2.9.0"
-  implementation "com.squareup.okhttp3:okhttp:4.9.1"
+  implementation "com.github.ajalt:clikt:2.8.0"
+  implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.1"
+  implementation "com.squareup.okio:okio:3.0.0-alpha.9"
+  implementation "com.squareup.okhttp3:okhttp:5.0.0-alpha.2"
   implementation "com.squareup.retrofit2:retrofit:2.9.0"
   implementation "com.squareup.retrofit2:converter-moshi:2.9.0"
   implementation "com.squareup.moshi:moshi:1.12.0"
   implementation "com.squareup.moshi:moshi-adapters:1.12.0"
-  implementation "dev.zacsweers.moshix:moshi-sealed-runtime:0.11.0"
+  implementation "dev.zacsweers.moshix:moshi-sealed-runtime:0.12.0"
 
   // XML serialization
   implementation 'com.tickaroo.tikxml:annotation:0.8.13'
   implementation 'com.tickaroo.tikxml:core:0.8.13'
   implementation 'com.tickaroo.tikxml:retrofit-converter:0.8.13'
   implementation 'com.tickaroo.tikxml:converter-htmlescape:0.8.13'
-
-  testImplementation "junit:junit:4.13.2"
-  testImplementation "com.google.truth:truth:1.1.2"
 }
