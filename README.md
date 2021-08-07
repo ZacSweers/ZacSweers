@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-06** — opened PR [#4](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/4) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps"
+
+**2021-08-06** — created branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
+**2021-08-06** — deleted branch "z/prBodyNullable" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
+
+**2021-08-06** — pushed [`0f7107b8`](https://github.com/ZacSweers/ZacSweers/commit/0f7107b8ec42c5292c9556a13185419b5c73c3e7) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "PullRequest.body is nullable (#3)"
+
+**2021-08-06** — closed PR [#3](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/3) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "PullRequest.body is nullable"
+
 **2021-08-06** — opened PR [#3](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/3) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "PullRequest.body is nullable"
 
 **2021-08-06** — created branch "z/prBodyNullable" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-06** — created branch "z/updaterefs" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-06** — closed issue [#449](https://api.github.com/repos/uber/AutoDispose/issues/449) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Snapshots and Building from source"
-
-**2021-08-06** — commented on [#449](https://github.com/uber/AutoDispose/issues/449#issuecomment-894573981) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-06** — commented on [#445](https://github.com/uber/AutoDispose/issues/445#issuecomment-894562678) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-06** — commented on [#1189](https://github.com/pinterest/ktlint/issues/1189#issuecomment-894545067) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2021-08-06** — commented on [#139](https://github.com/ZacSweers/MoshiX/issues/139#issuecomment-894447762) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-05** — closed issue [#1370](https://api.github.com/repos/square/moshi/issues/1370) on [square/moshi](https://api.github.com/repos/square/moshi): "error @JsonClass can't be applied to com.app.FooClass supertype androidx.databinding.BaseObservable is not a Kotlin type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
