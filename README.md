@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-08** — commented on [#140](https://github.com/ZacSweers/MoshiX/pull/140#issuecomment-894807720) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-08-08** — pushed [`d87f2913`](https://github.com/ZacSweers/MoshiX/commit/d87f29130b18f9c0379bd026bfd125c0730e5053) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "add OptIn annotation when object adapters are used (#140)"
+
+**2021-08-08** — closed PR [#140](https://api.github.com/repos/ZacSweers/MoshiX/pulls/140) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "add OptIn annotation when object adapters are used"
+
+**2021-08-08** — closed issue [#139](https://api.github.com/repos/ZacSweers/MoshiX/issues/139) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "OptIn to ExperimentStdlibApi in generated adapters"
+
 **2021-08-06** — pushed [`bc484ede`](https://github.com/ZacSweers/ZacSweers/commit/bc484ede43f89bad88346f341889527dfc0655e3) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Only push on main"
 
 **2021-08-06** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-06** — pushed [`de68c89a`](https://github.com/ZacSweers/ZacSweers/commit/de68c89a72b26e68e9f7e77baf5ba0a3b1c571ea) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Updated content"
 
 **2021-08-06** — opened PR [#4](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/4) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps"
-
-**2021-08-06** — created branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2021-08-06** — deleted branch "z/prBodyNullable" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2021-08-06** — pushed [`0f7107b8`](https://github.com/ZacSweers/ZacSweers/commit/0f7107b8ec42c5292c9556a13185419b5c73c3e7) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "PullRequest.body is nullable (#3)"
-
-**2021-08-06** — closed PR [#3](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/3) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "PullRequest.body is nullable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
