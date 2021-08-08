@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-08** — pushed [`ee7ee05b`](https://github.com/uber/AutoDispose/commit/ee7ee05b7dc0756681e4d1ebb3e2b73258604f39) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Don't fail fast"
+
+**2021-08-08** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
 **2021-08-08** — commented on [#140](https://github.com/ZacSweers/MoshiX/pull/140#issuecomment-894807720) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-08-08** — pushed [`d87f2913`](https://github.com/ZacSweers/MoshiX/commit/d87f29130b18f9c0379bd026bfd125c0730e5053) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "add OptIn annotation when object adapters are used (#140)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-06** — pushed [`010ddbe6`](https://github.com/ZacSweers/ZacSweers/commit/010ddbe60cb2ec57db44013cde2cd0d7d14c6bc1) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps (#4)"
 
 **2021-08-06** — closed PR [#4](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/4) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps"
-
-**2021-08-06** — pushed [`de68c89a`](https://github.com/ZacSweers/ZacSweers/commit/de68c89a72b26e68e9f7e77baf5ba0a3b1c571ea) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Updated content"
-
-**2021-08-06** — opened PR [#4](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/4) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
