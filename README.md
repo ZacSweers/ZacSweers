@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-08** — pushed [`a7cef99a`](https://github.com/uber/AutoDispose/commit/a7cef99afdd9e3f7a475309a9a6fa6ad1a27b2af) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove 17-ea for now"
+
+**2021-08-08** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-08-08** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-08-08** — pushed [`70a95fc2`](https://github.com/uber/AutoDispose/commit/70a95fc25cccb4dd724c14c1ca44687125e45da8) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "More misc and downgrade lint again"
+
 **2021-08-08** — pushed [`ee7ee05b`](https://github.com/uber/AutoDispose/commit/ee7ee05b7dc0756681e4d1ebb3e2b73258604f39) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Don't fail fast"
 
 **2021-08-08** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-08** — closed PR [#140](https://api.github.com/repos/ZacSweers/MoshiX/pulls/140) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "add OptIn annotation when object adapters are used"
 
 **2021-08-08** — closed issue [#139](https://api.github.com/repos/ZacSweers/MoshiX/issues/139) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "OptIn to ExperimentStdlibApi in generated adapters"
-
-**2021-08-06** — pushed [`bc484ede`](https://github.com/ZacSweers/ZacSweers/commit/bc484ede43f89bad88346f341889527dfc0655e3) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Only push on main"
-
-**2021-08-06** — deleted branch "z/updates" on [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers)
-
-**2021-08-06** — pushed [`010ddbe6`](https://github.com/ZacSweers/ZacSweers/commit/010ddbe60cb2ec57db44013cde2cd0d7d14c6bc1) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps (#4)"
-
-**2021-08-06** — closed PR [#4](https://api.github.com/repos/ZacSweers/ZacSweers/pulls/4) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Update deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
