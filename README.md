@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-09** — opened issue [#54](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/54) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Incompatible with Kotlin 1.6.0 snapshots"
+
+**2021-08-09** — opened PR [#29](https://api.github.com/repos/slackhq/EitherNet/pulls/29) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Try Kotlin 1.5.30-RC with instantiating annotations"
+
+**2021-08-09** — created branch "z/try1530rc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-08-09** — opened PR [#455](https://api.github.com/repos/uber/AutoDispose/pulls/455) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Don't use an env at all in snapshot uploading"
 
 **2021-08-09** — created branch "z/fixSnapshots" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-09** — deleted branch "z/moreDocCleanup" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-09** — pushed [`c8f37596`](https://github.com/uber/AutoDispose/commit/c8f3759609360b8e2baf127bcc4cc166a2c4e474) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav (#452)"
-
-**2021-08-09** — closed PR [#452](https://api.github.com/repos/uber/AutoDispose/pulls/452) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav"
-
-**2021-08-09** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-895260640) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-08-09** — opened PR [#454](https://api.github.com/repos/uber/AutoDispose/pulls/454) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
