@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-08** — pushed 4 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+**2021-08-08** — commented on [#40](https://github.com/gradle/gradle-build-action/issues/40#issuecomment-894929631) in [gradle/gradle-build-action](https://api.github.com/repos/gradle/gradle-build-action)
 
-**2021-08-08** — opened PR [#451](https://api.github.com/repos/uber/AutoDispose/pulls/451) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix snapshots if check"
+**2021-08-08** — commented on [#448](https://github.com/uber/AutoDispose/pull/448#issuecomment-894926503) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
-**2021-08-08** — created branch "z/snapshotsIfCheck" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-08-08** — deleted branch "z/snapshotsIfCheck" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
-**2021-08-08** — pushed [`03ec05f7`](https://github.com/uber/AutoDispose/commit/03ec05f78c7c14ea0f8cddc8be316993a3793276) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove jcenter() repository from project (#443)"
+**2021-08-08** — opened PR [#453](https://api.github.com/repos/uber/AutoDispose/pulls/453) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Improve nullability in generics + update to RxJava 3.1.0"
 
-**2021-08-08** — deleted branch "z/updaterefs" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-08-08** — opened PR [#452](https://api.github.com/repos/uber/AutoDispose/pulls/452) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav"
 
-**2021-08-08** — pushed [`226367a6`](https://github.com/uber/AutoDispose/commit/226367a664345a241b6ba488019880d496e72d9d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update 2.x refs in index.md (#450)"
+**2021-08-08** — pushed [`599ef7ae`](https://github.com/uber/AutoDispose/commit/599ef7aefaf2a77fc3325c0088255d7903ab2f3c) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Opportunistic suppress a deprecation"
 
-**2021-08-08** — closed PR [#450](https://api.github.com/repos/uber/AutoDispose/pulls/450) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update 2.x refs in index.md"
+**2021-08-08** — created branch "z/nullabilityPass" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
-**2021-08-08** — deleted branch "z/updates2" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-08-08** — created branch "z/moreDocCleanup" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
-**2021-08-08** — pushed [`f33c1856`](https://github.com/uber/AutoDispose/commit/f33c1856028e4ef92cb3407666972f6678ea9bf5) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Misc updates (#438)"
+**2021-08-08** — deleted branch "z/deprecate" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
-**2021-08-08** — closed issue [#437](https://api.github.com/repos/uber/AutoDispose/issues/437) on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Integrate kotlin ABI validator"
+**2021-08-08** — pushed [`e5b4c328`](https://github.com/uber/AutoDispose/commit/e5b4c3281db9b7b7241d88642a2e1c053d803fa7) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deprecate TestLifecycleOwner  (#433)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
