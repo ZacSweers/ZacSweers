@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-09** — opened PR [#454](https://api.github.com/repos/uber/AutoDispose/pulls/454) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30"
+
+**2021-08-09** — created branch "z/updateLint" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-08-08** — commented on [#40](https://github.com/gradle/gradle-build-action/issues/40#issuecomment-894929631) in [gradle/gradle-build-action](https://api.github.com/repos/gradle/gradle-build-action)
 
 **2021-08-08** — commented on [#448](https://github.com/uber/AutoDispose/pull/448#issuecomment-894926503) in [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-08** — created branch "z/nullabilityPass" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-08** — created branch "z/moreDocCleanup" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-08** — deleted branch "z/deprecate" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-08** — pushed [`e5b4c328`](https://github.com/uber/AutoDispose/commit/e5b4c3281db9b7b7241d88642a2e1c053d803fa7) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deprecate TestLifecycleOwner  (#433)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
