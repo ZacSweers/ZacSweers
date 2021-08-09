@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-09** — pushed [`a8e575d8`](https://github.com/uber/AutoDispose/commit/a8e575d83c1b2316f3987e16eb2dce27043b849d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed 8bd9a35 with MkDocs version: 1.1.2"
+
+**2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-08-09** — created tag "2.1.0" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-08-09** — deleted branch "z/updateLint" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-08-09** — pushed [`311aa3cc`](https://github.com/uber/AutoDispose/commit/311aa3cce8e30ea4f524343d201409b28e51d8f1) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30 (#454)"
+
+**2021-08-09** — closed PR [#454](https://api.github.com/repos/uber/AutoDispose/pulls/454) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30"
+
 **2021-08-09** — commented on [#537](https://github.com/google/tink/pull/537#issuecomment-895437806) in [google/tink](https://api.github.com/repos/google/tink)
 
 **2021-08-09** — deleted branch "z/fixSnapshots" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-09** — pushed [`a4539c54`](https://github.com/uber/AutoDispose/commit/a4539c543da72d1e6bbd262b3810dc8b73e7b597) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Don't use an env at all in snapshot uploading (#455)"
-
-**2021-08-09** — closed PR [#455](https://api.github.com/repos/uber/AutoDispose/pulls/455) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Don't use an env at all in snapshot uploading"
-
-**2021-08-09** — deleted branch "z/nullabilityPass" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-09** — pushed [`2e7cee92`](https://github.com/uber/AutoDispose/commit/2e7cee92c21c32b1c575dcaab393a4a16cb9f511) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Improve nullability in generics + update to RxJava 3.1.0 (#453)"
-
-**2021-08-09** — closed PR [#453](https://api.github.com/repos/uber/AutoDispose/pulls/453) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Improve nullability in generics + update to RxJava 3.1.0"
-
-**2021-08-09** — opened issue [#54](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/54) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Incompatible with Kotlin 1.6.0 snapshots"
-
-**2021-08-09** — opened PR [#29](https://api.github.com/repos/slackhq/EitherNet/pulls/29) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Try Kotlin 1.5.30-RC with instantiating annotations"
-
-**2021-08-09** — created branch "z/try1530rc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
