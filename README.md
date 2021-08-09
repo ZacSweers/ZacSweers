@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-09** — deleted branch "z/moreDocCleanup" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-08-09** — pushed [`c8f37596`](https://github.com/uber/AutoDispose/commit/c8f3759609360b8e2baf127bcc4cc166a2c4e474) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav (#452)"
+
+**2021-08-09** — closed PR [#452](https://api.github.com/repos/uber/AutoDispose/pulls/452) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav"
+
+**2021-08-09** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-895260640) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-08-09** — opened PR [#454](https://api.github.com/repos/uber/AutoDispose/pulls/454) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30"
 
 **2021-08-09** — created branch "z/updateLint" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-08** — deleted branch "z/snapshotsIfCheck" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-08** — opened PR [#453](https://api.github.com/repos/uber/AutoDispose/pulls/453) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Improve nullability in generics + update to RxJava 3.1.0"
-
-**2021-08-08** — opened PR [#452](https://api.github.com/repos/uber/AutoDispose/pulls/452) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove androidx-lifecycle-test ref in nav"
-
-**2021-08-08** — pushed [`599ef7ae`](https://github.com/uber/AutoDispose/commit/599ef7aefaf2a77fc3325c0088255d7903ab2f3c) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Opportunistic suppress a deprecation"
-
-**2021-08-08** — created branch "z/nullabilityPass" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-08** — created branch "z/moreDocCleanup" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
