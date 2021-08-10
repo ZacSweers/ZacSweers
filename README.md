@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-896168844) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-08-10** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 
 **2021-08-09** — pushed [`3bf063f1`](https://github.com/uber/AutoDispose/commit/3bf063f1a2b7b178c36c717a732814f54b5404ba) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed e4e537d with MkDocs version: 1.1.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-09** — deleted branch "z/updateLint" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-08-09** — pushed [`311aa3cc`](https://github.com/uber/AutoDispose/commit/311aa3cce8e30ea4f524343d201409b28e51d8f1) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30 (#454)"
-
-**2021-08-09** — closed PR [#454](https://api.github.com/repos/uber/AutoDispose/pulls/454) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Lint to API 30"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
