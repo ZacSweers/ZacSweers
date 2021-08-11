@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2021-08-11** — commented on [#2582](https://github.com/google/dagger/issues/2582#issuecomment-897063159) in [google/dagger](https://api.github.com/repos/google/dagger)
+
+**2021-08-11** — pushed [`6f928cdf`](https://github.com/ZacSweers/CatchUp/commit/6f928cdf074068f25f9390c66c09d0bb5725a1f9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable release tests on app"
+
+**2021-08-11** — pushed [`a3f354cb`](https://github.com/ZacSweers/CatchUp/commit/a3f354cbc1171659054dc5c1b8946340abb3b388) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Drop JDK 11"
+
+**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2021-08-11** — commented on [#552](https://github.com/google/ksp/issues/552#issuecomment-897025499) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2021-08-11** — opened issue [#552](https://api.github.com/repos/google/ksp/issues/552) on [google/ksp](https://api.github.com/repos/google/ksp): "KspTaskJvm.useClasspathSnapshot sometimes missing a value"
+
 **2021-08-11** — pushed [`39f93bce`](https://github.com/ZacSweers/CatchUp/commit/39f93bcea02927ee3901b9aef300012ffdf946d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update deps again"
 
 **2021-08-11** — closed issue [#1371](https://api.github.com/repos/square/moshi/issues/1371) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi + kotlin.UInt"
-
-**2021-08-11** — commented on [#1371](https://github.com/square/moshi/issues/1371#issuecomment-896871895) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-896466540) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-08-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-896168844) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-08-10** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2021-08-09** — pushed [`3bf063f1`](https://github.com/uber/AutoDispose/commit/3bf063f1a2b7b178c36c717a732814f54b5404ba) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed e4e537d with MkDocs version: 1.1.2"
-
-**2021-08-09** — pushed [`e4e537d9`](https://github.com/uber/AutoDispose/commit/e4e537d952d8ea62850bcb3cfedc96b1c19a9d7a) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Remove 1.x docs and fix html links"
-
-**2021-08-09** — pushed [`a8e575d8`](https://github.com/uber/AutoDispose/commit/a8e575d83c1b2316f3987e16eb2dce27043b849d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed 8bd9a35 with MkDocs version: 1.1.2"
-
-**2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
