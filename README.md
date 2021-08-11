@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-11** — pushed [`725fd01a`](https://github.com/ZacSweers/CatchUp/commit/725fd01a2957508bde3d9aff21a252e7bc20dbcb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates (#265)"
+
+**2021-08-11** — closed PR [#265](https://api.github.com/repos/ZacSweers/CatchUp/pulls/265) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates"
+
+**2021-08-11** — opened PR [#265](https://api.github.com/repos/ZacSweers/CatchUp/pulls/265) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates"
+
+**2021-08-11** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-08-11** — closed issue [#17200](https://api.github.com/repos/gradle/gradle/issues/17200) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Provider has no value: map(provider(?)) exception when configuration cache is enabled"
 
 **2021-08-11** — commented on [#17200](https://github.com/gradle/gradle/issues/17200#issuecomment-897080123) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — commented on [#18002](https://github.com/gradle/gradle/issues/18002#issuecomment-897076287) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-08-11** — pushed [`7ba3d6c7`](https://github.com/ZacSweers/aak/commit/7ba3d6c7b62c547864619e9a3d75e1f581bc26e5) to [ZacSweers/aak](https://api.github.com/repos/ZacSweers/aak): "Update README.md"
-
-**2021-08-11** — pushed [`28e1da1f`](https://github.com/ZacSweers/CatchUp/commit/28e1da1ffcfbc023eb243b4c552a2cc90db685ac) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps (#264)"
-
-**2021-08-11** — deleted branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — closed PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
-
-**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-08-11** — commented on [#2582](https://github.com/google/dagger/issues/2582#issuecomment-897063159) in [google/dagger](https://api.github.com/repos/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
