@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — pushed [`39f93bce`](https://github.com/ZacSweers/CatchUp/commit/39f93bcea02927ee3901b9aef300012ffdf946d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update deps again"
+
 **2021-08-11** — closed issue [#1371](https://api.github.com/repos/square/moshi/issues/1371) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi + kotlin.UInt"
 
 **2021-08-11** — commented on [#1371](https://github.com/square/moshi/issues/1371#issuecomment-896871895) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-09** — pushed [`a8e575d8`](https://github.com/uber/AutoDispose/commit/a8e575d83c1b2316f3987e16eb2dce27043b849d) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed 8bd9a35 with MkDocs version: 1.1.2"
 
 **2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-08-09** — created tag "2.1.0" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
