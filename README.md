@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — created branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-11** — closed PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
+
+**2021-08-11** — pushed [`814375f2`](https://github.com/ZacSweers/CatchUp/commit/814375f2234b033b452f38eff46b3b1d5454c519) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3 (#266)"
+
+**2021-08-11** — deleted branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-11** — opened PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
+
+**2021-08-11** — created branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-08-11** — pushed [`288a6ed7`](https://github.com/ZacSweers/CatchUp/commit/288a6ed70c1387ada26a5c0cd2a933d0101a940b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix missing export"
 
 **2021-08-11** — pushed [`5bdee797`](https://github.com/ZacSweers/CatchUp/commit/5bdee79758270dd6ef745661f5bd7a23ad0d3370) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api (#263)"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — deleted branch "z/roomKsp" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — closed PR [#263](https://api.github.com/repos/ZacSweers/CatchUp/pulls/263) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api"
-
-**2021-08-11** — pushed 5 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-08-11** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — pushed [`725fd01a`](https://github.com/ZacSweers/CatchUp/commit/725fd01a2957508bde3d9aff21a252e7bc20dbcb) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates (#265)"
-
-**2021-08-11** — closed PR [#265](https://api.github.com/repos/ZacSweers/CatchUp/pulls/265) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates"
-
-**2021-08-11** — opened PR [#265](https://api.github.com/repos/ZacSweers/CatchUp/pulls/265) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "More smaller updates"
-
-**2021-08-11** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
