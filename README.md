@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — closed issue [#1371](https://api.github.com/repos/square/moshi/issues/1371) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi + kotlin.UInt"
+
+**2021-08-11** — commented on [#1371](https://github.com/square/moshi/issues/1371#issuecomment-896871895) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-896466540) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-08-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-896168844) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 
 **2021-08-09** — created tag "2.1.0" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-08-09** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-08-09** — deleted branch "z/updateLint" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
