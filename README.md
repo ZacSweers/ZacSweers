@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — closed issue [#17200](https://api.github.com/repos/gradle/gradle/issues/17200) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Provider has no value: map(provider(?)) exception when configuration cache is enabled"
+
+**2021-08-11** — commented on [#17200](https://github.com/gradle/gradle/issues/17200#issuecomment-897080123) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-08-11** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-897078135) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-08-11** — commented on [#18002](https://github.com/gradle/gradle/issues/18002#issuecomment-897076287) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
+**2021-08-11** — pushed [`7ba3d6c7`](https://github.com/ZacSweers/aak/commit/7ba3d6c7b62c547864619e9a3d75e1f581bc26e5) to [ZacSweers/aak](https://api.github.com/repos/ZacSweers/aak): "Update README.md"
+
+**2021-08-11** — pushed [`28e1da1f`](https://github.com/ZacSweers/CatchUp/commit/28e1da1ffcfbc023eb243b4c552a2cc90db685ac) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps (#264)"
+
+**2021-08-11** — deleted branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-11** — closed PR [#264](https://api.github.com/repos/ZacSweers/CatchUp/pulls/264) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update various deps"
+
 **2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-08-11** — commented on [#2582](https://github.com/google/dagger/issues/2582#issuecomment-897063159) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-08-11** — pushed [`6f928cdf`](https://github.com/ZacSweers/CatchUp/commit/6f928cdf074068f25f9390c66c09d0bb5725a1f9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable release tests on app"
-
-**2021-08-11** — pushed [`a3f354cb`](https://github.com/ZacSweers/CatchUp/commit/a3f354cbc1171659054dc5c1b8946340abb3b388) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Drop JDK 11"
-
-**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-08-11** — commented on [#552](https://github.com/google/ksp/issues/552#issuecomment-897025499) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-08-11** — pushed 3 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-08-11** — opened issue [#552](https://api.github.com/repos/google/ksp/issues/552) on [google/ksp](https://api.github.com/repos/google/ksp): "KspTaskJvm.useClasspathSnapshot sometimes missing a value"
-
-**2021-08-11** — pushed [`39f93bce`](https://github.com/ZacSweers/CatchUp/commit/39f93bcea02927ee3901b9aef300012ffdf946d7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update deps again"
-
-**2021-08-11** — closed issue [#1371](https://api.github.com/repos/square/moshi/issues/1371) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi + kotlin.UInt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
