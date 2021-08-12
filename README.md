@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-11** — pushed [`ddde8b2b`](https://github.com/ZacSweers/CatchUp/commit/ddde8b2b6be3bf4d5857e0dfc8ede3f3ecea965d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3 (#267)"
+
+**2021-08-11** — deleted branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-11** — closed PR [#267](https://api.github.com/repos/ZacSweers/CatchUp/pulls/267) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3"
+
+**2021-08-11** — opened PR [#267](https://api.github.com/repos/ZacSweers/CatchUp/pulls/267) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3"
+
 **2021-08-11** — created branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — closed PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — opened PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
 
 **2021-08-11** — created branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — pushed [`288a6ed7`](https://github.com/ZacSweers/CatchUp/commit/288a6ed70c1387ada26a5c0cd2a933d0101a940b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix missing export"
-
-**2021-08-11** — pushed [`5bdee797`](https://github.com/ZacSweers/CatchUp/commit/5bdee79758270dd6ef745661f5bd7a23ad0d3370) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api (#263)"
-
-**2021-08-11** — deleted branch "z/roomKsp" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — closed PR [#263](https://api.github.com/repos/ZacSweers/CatchUp/pulls/263) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Switch to room KSP in gemoji and service-api"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
