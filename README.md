@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — pushed [`d00fea62`](https://github.com/ZacSweers/CatchUp/commit/d00fea626c847c575b3fe3d854824fa803dd430b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes (#268)"
+
+**2021-08-13** — deleted branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-08-13** — closed PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
+
 **2021-08-13** — opened PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
 
 **2021-08-13** — pushed [`efd7ad6d`](https://github.com/ZacSweers/CatchUp/commit/efd7ad6d3ab2a203cf12543dbd844097c9193c3e) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable auto-init"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — deleted branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — closed PR [#267](https://api.github.com/repos/ZacSweers/CatchUp/pulls/267) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3"
-
-**2021-08-11** — opened PR [#267](https://api.github.com/repos/ZacSweers/CatchUp/pulls/267) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3"
-
-**2021-08-11** — created branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — closed PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
