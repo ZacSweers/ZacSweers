@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — pushed 6 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2021-08-13** — created branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — pushed [`ddde8b2b`](https://github.com/ZacSweers/CatchUp/commit/ddde8b2b6be3bf4d5857e0dfc8ede3f3ecea965d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3 (#267)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — pushed [`814375f2`](https://github.com/ZacSweers/CatchUp/commit/814375f2234b033b452f38eff46b3b1d5454c519) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3 (#266)"
 
 **2021-08-11** — deleted branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-11** — opened PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
