@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — created branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-08-11** — pushed [`ddde8b2b`](https://github.com/ZacSweers/CatchUp/commit/ddde8b2b6be3bf4d5857e0dfc8ede3f3ecea965d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finish moving over to rxjava 3 (#267)"
 
 **2021-08-11** — deleted branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — deleted branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — opened PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
-
-**2021-08-11** — created branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
