@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — opened PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
+
+**2021-08-13** — pushed [`efd7ad6d`](https://github.com/ZacSweers/CatchUp/commit/efd7ad6d3ab2a203cf12543dbd844097c9193c3e) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable auto-init"
+
 **2021-08-13** — pushed 6 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-08-13** — created branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-11** — created branch "z/rx3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-08-11** — closed PR [#266](https://api.github.com/repos/ZacSweers/CatchUp/pulls/266) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3"
-
-**2021-08-11** — pushed [`814375f2`](https://github.com/ZacSweers/CatchUp/commit/814375f2234b033b452f38eff46b3b1d5454c519) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to Apollo 3 (#266)"
-
-**2021-08-11** — deleted branch "z/apollo3" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
