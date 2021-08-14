@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
 **2021-08-13** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-898794452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-08-13** — opened PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-13** — opened PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
 
 **2021-08-13** — pushed [`efd7ad6d`](https://github.com/ZacSweers/CatchUp/commit/efd7ad6d3ab2a203cf12543dbd844097c9193c3e) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable auto-init"
-
-**2021-08-13** — pushed 6 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
