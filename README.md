@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-13** — closed PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
+
+**2021-08-13** — pushed [`19db0138`](https://github.com/ZacSweers/CatchUp/commit/19db0138df0a633b0c42a04ebdad87e32a34b861) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness (#269)"
+
+**2021-08-13** — deleted branch "z/testingClickiness" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-08-13** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-08-13** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-898794452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-13** — pushed [`d00fea62`](https://github.com/ZacSweers/CatchUp/commit/d00fea626c847c575b3fe3d854824fa803dd430b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes (#268)"
 
 **2021-08-13** — deleted branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-13** — closed PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
-
-**2021-08-13** — opened PR [#268](https://api.github.com/repos/ZacSweers/CatchUp/pulls/268) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes"
-
-**2021-08-13** — pushed [`efd7ad6d`](https://github.com/ZacSweers/CatchUp/commit/efd7ad6d3ab2a203cf12543dbd844097c9193c3e) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Disable auto-init"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
