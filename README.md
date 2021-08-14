@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-14** — pushed 2 commits to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary).
+
+**2021-08-14** — opened PR [#2158](https://api.github.com/repos/square/leakcanary/pulls/2158) to [square/leakcanary](https://api.github.com/repos/square/leakcanary): "Modernize build a bit"
+
+**2021-08-14** — created branch "z/androidSSupport" on [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary)
+
+**2021-08-14** — commented on [#2123](https://github.com/square/leakcanary/issues/2123#issuecomment-898964094) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+
 **2021-08-13** — closed PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
 
 **2021-08-13** — pushed [`19db0138`](https://github.com/ZacSweers/CatchUp/commit/19db0138df0a633b0c42a04ebdad87e32a34b861) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness (#269)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-13** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-898794452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-08-13** — opened PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
-
-**2021-08-13** — created branch "z/testingClickiness" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-13** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-898771762) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-08-13** — pushed [`d00fea62`](https://github.com/ZacSweers/CatchUp/commit/d00fea626c847c575b3fe3d854824fa803dd430b) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc fixes (#268)"
-
-**2021-08-13** — deleted branch "z/moreModern" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
