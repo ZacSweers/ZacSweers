@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-15** — pushed [`127c487e`](https://github.com/slackhq/keeper/commit/127c487e4efa4ae0cf3a4f1884433f3903326fb7) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 6a5b62d with MkDocs version: 1.2.2"
+
+**2021-08-15** — pushed [`6a5b62df`](https://github.com/slackhq/keeper/commit/6a5b62dfd953a04c22e4481e6feb2608701822b4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update compatibility info"
+
+**2021-08-15** — opened issue [#2074](https://api.github.com/repos/Kotlin/dokka/issues/2074) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "GFM: Code blocks are not supported"
+
 **2021-08-14** — pushed [`ebc72ed5`](https://github.com/ZacSweers/leakcanary/commit/ebc72ed570a7b9b777553c96485654959d6b3bf4) to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary): "Simplify internal package mapping"
 
 **2021-08-14** — pushed [`1ca5e6ed`](https://github.com/uber/AutoDispose/commit/1ca5e6eded7a30c5ac27ee61765fee3584ec0420) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed 2c32177 with MkDocs version: 1.2.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-14** — opened issue [#2072](https://api.github.com/repos/Kotlin/dokka/issues/2072) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Javadoc links are mangled"
 
 **2021-08-14** — opened issue [#2071](https://api.github.com/repos/Kotlin/dokka/issues/2071) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "GFM: Constructor annotations rendered poorly"
-
-**2021-08-14** — pushed [`6d2b87a0`](https://github.com/slackhq/keeper/commit/6d2b87a0d88a483117f44784dc15ca8b146f4be2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 5fac214 with MkDocs version: 1.2.2"
-
-**2021-08-14** — pushed [`5fac2142`](https://github.com/slackhq/keeper/commit/5fac21429dbbb922d33600e28ef0c0c29ee64b8a) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Switch to GFM for embedded markdown docs"
-
-**2021-08-14** — pushed 2 commits to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
