@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-14** — pushed [`ebc72ed5`](https://github.com/ZacSweers/leakcanary/commit/ebc72ed570a7b9b777553c96485654959d6b3bf4) to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary): "Simplify internal package mapping"
+
+**2021-08-14** — pushed [`1ca5e6ed`](https://github.com/uber/AutoDispose/commit/1ca5e6eded7a30c5ac27ee61765fee3584ec0420) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed 2c32177 with MkDocs version: 1.2.2"
+
+**2021-08-14** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-08-14** — commented on [#2072](https://github.com/Kotlin/dokka/issues/2072#issuecomment-898981496) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
+
+**2021-08-14** — opened issue [#2073](https://api.github.com/repos/Kotlin/dokka/issues/2073) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Feature request: Add option to exclude platform tags from GFM"
+
+**2021-08-14** — opened issue [#2072](https://api.github.com/repos/Kotlin/dokka/issues/2072) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Javadoc links are mangled"
+
+**2021-08-14** — opened issue [#2071](https://api.github.com/repos/Kotlin/dokka/issues/2071) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "GFM: Constructor annotations rendered poorly"
+
+**2021-08-14** — pushed [`6d2b87a0`](https://github.com/slackhq/keeper/commit/6d2b87a0d88a483117f44784dc15ca8b146f4be2) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 5fac214 with MkDocs version: 1.2.2"
+
+**2021-08-14** — pushed [`5fac2142`](https://github.com/slackhq/keeper/commit/5fac21429dbbb922d33600e28ef0c0c29ee64b8a) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Switch to GFM for embedded markdown docs"
+
 **2021-08-14** — pushed 2 commits to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary).
-
-**2021-08-14** — opened PR [#2158](https://api.github.com/repos/square/leakcanary/pulls/2158) to [square/leakcanary](https://api.github.com/repos/square/leakcanary): "Modernize build a bit"
-
-**2021-08-14** — created branch "z/androidSSupport" on [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary)
-
-**2021-08-14** — commented on [#2123](https://github.com/square/leakcanary/issues/2123#issuecomment-898964094) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
-
-**2021-08-13** — closed PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
-
-**2021-08-13** — pushed [`19db0138`](https://github.com/ZacSweers/CatchUp/commit/19db0138df0a633b0c42a04ebdad87e32a34b861) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness (#269)"
-
-**2021-08-13** — deleted branch "z/testingClickiness" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-08-13** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-08-13** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-898794452) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-13** — opened PR [#269](https://api.github.com/repos/ZacSweers/CatchUp/pulls/269) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Test clickiness"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
