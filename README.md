@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-15** — commented on [#2158](https://github.com/square/leakcanary/pull/2158#issuecomment-899169173) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+
 **2021-08-15** — pushed [`73887980`](https://github.com/ZacSweers/leakcanary/commit/73887980fa119832266d7f122f1343810132c795) to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary): "Increase margins"
 
 **2021-08-15** — pushed [`127c487e`](https://github.com/slackhq/keeper/commit/127c487e4efa4ae0cf3a4f1884433f3903326fb7) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 6a5b62d with MkDocs version: 1.2.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-14** — commented on [#2072](https://github.com/Kotlin/dokka/issues/2072#issuecomment-898981496) in [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka)
 
 **2021-08-14** — opened issue [#2073](https://api.github.com/repos/Kotlin/dokka/issues/2073) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Feature request: Add option to exclude platform tags from GFM"
-
-**2021-08-14** — opened issue [#2072](https://api.github.com/repos/Kotlin/dokka/issues/2072) on [Kotlin/dokka](https://api.github.com/repos/Kotlin/dokka): "Javadoc links are mangled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
