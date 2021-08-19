@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-19** — pushed [`edc5994c`](https://github.com/ZacSweers/MoshiX/commit/edc5994cf8344858646c65fedc40d124749e9284) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+
+**2021-08-19** — closed issue [#119](https://api.github.com/repos/ZacSweers/MoshiX/issues/119) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Custom Annotations require Retention value to be set"
+
+**2021-08-19** — commented on [#119](https://github.com/ZacSweers/MoshiX/issues/119#issuecomment-902234539) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-08-19** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-08-19** — created tag "0.12.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-08-19** — pushed [`2c07ed71`](https://github.com/ZacSweers/MoshiX/commit/2c07ed710c34569f4fa3474e26db441e9e79083d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix skipping annotated java classes with custom generators (#142)"
 
 **2021-08-19** — deleted branch "z/javaGenerators" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-19** — opened PR [#142](https://api.github.com/repos/ZacSweers/MoshiX/pulls/142) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix skipping annotated java classes with custom generators"
 
 **2021-08-19** — created branch "z/javaGenerators" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-19** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-902195514) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-19** — closed issue [#1114](https://api.github.com/repos/square/kotlinpoet/issues/1114) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.3.0"
-
-**2021-08-19** — pushed 13 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-08-15** — commented on [#2158](https://github.com/square/leakcanary/pull/2158#issuecomment-899169173) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
-
-**2021-08-15** — pushed [`73887980`](https://github.com/ZacSweers/leakcanary/commit/73887980fa119832266d7f122f1343810132c795) to [ZacSweers/leakcanary](https://api.github.com/repos/ZacSweers/leakcanary): "Increase margins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
