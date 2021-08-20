@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-20** — created branch "z/records" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2021-08-19** — pushed [`edc5994c`](https://github.com/ZacSweers/MoshiX/commit/edc5994cf8344858646c65fedc40d124749e9284) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-08-19** — closed issue [#119](https://api.github.com/repos/ZacSweers/MoshiX/issues/119) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Custom Annotations require Retention value to be set"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-19** — closed PR [#142](https://api.github.com/repos/ZacSweers/MoshiX/pulls/142) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix skipping annotated java classes with custom generators"
 
 **2021-08-19** — opened PR [#142](https://api.github.com/repos/ZacSweers/MoshiX/pulls/142) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix skipping annotated java classes with custom generators"
-
-**2021-08-19** — created branch "z/javaGenerators" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
