@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-20** — pushed [`2cbf1a2e`](https://github.com/ZacSweers/kotlin-compile-testing/commit/2cbf1a2e25bba443f3c75ce6df4ec9d968814d8e) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Fix formatting"
+**2021-08-20** — pushed [`e4c42ac9`](https://github.com/ZacSweers/MoshiX/commit/e4c42ac96f9aa0b693051f1087bfdbf0114ba4c7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small records fixes (#143)"
 
-**2021-08-20** — pushed [`76a6bb84`](https://github.com/ZacSweers/moshi/commit/76a6bb84fc520e396dab489333d366e8ec772f18) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix KCT tests + upgrade it"
+**2021-08-20** — deleted branch "z/recordsFixes" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-20** — opened PR [#188](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/188) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Fix JDK 16+ recommendations"
+**2021-08-20** — closed PR [#143](https://api.github.com/repos/ZacSweers/MoshiX/pulls/143) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small records fixes"
 
-**2021-08-20** — pushed [`6f8b720c`](https://github.com/ZacSweers/kotlin-compile-testing/commit/6f8b720c182dc5161232a7f3fc670df06e54c0cb) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Fix JDK 16+ recommendations"
+**2021-08-20** — opened PR [#143](https://api.github.com/repos/ZacSweers/MoshiX/pulls/143) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small records fixes"
 
-**2021-08-20** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2021-08-20** — created branch "z/recordsFixes" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-20** — pushed 6 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2021-08-20** — pushed [`68fcc689`](https://github.com/ZacSweers/moshi/commit/68fcc689cec06fbb15f769dc23af1509c106afaf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Ensure constructor is accessible"
 
-**2021-08-20** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-902951489) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-08-20** — pushed [`ef41c63d`](https://github.com/ZacSweers/moshi/commit/ef41c63dceb56f52404a2086dd01c81bddba8fa1) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add JsonQualifier and Json(name) tests + fix qualifiers"
 
-**2021-08-20** — opened PR [#1381](https://api.github.com/repos/square/moshi/pulls/1381) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records"
+**2021-08-20** — pushed [`360179f0`](https://github.com/ZacSweers/moshi/commit/360179f0d56a8c62f9663513ec7df63bfa7d7c39) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Disable 17-ea for now until kotlin 1.5.30"
 
-**2021-08-20** — created branch "z/records" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-08-20** — pushed [`c49b1191`](https://github.com/ZacSweers/moshi/commit/c49b11916f204d01e7177bdd6630cbfbc577d71e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Try explicit kotlin daemon args for java 17?"
 
-**2021-08-19** — pushed [`edc5994c`](https://github.com/ZacSweers/MoshiX/commit/edc5994cf8344858646c65fedc40d124749e9284) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+**2021-08-20** — pushed [`66687957`](https://github.com/ZacSweers/moshi/commit/6668795737a9550931bc1cf3dfb7b860b660c72e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Cover another"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
