@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-21** — pushed [`c68005f9`](https://github.com/ZacSweers/moshi/commit/c68005f98b6d479028c07542af609aec6122e60c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove comment"
+
+**2021-08-21** — pushed [`82d22e97`](https://github.com/ZacSweers/moshi/commit/82d22e97fe0f6ff5bc33161acf4676b817af59d3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add complex smoke test"
+
+**2021-08-21** — pushed [`5d746811`](https://github.com/ZacSweers/moshi/commit/5d7468110ab4da768829fb18fd38430e1501f5c5) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fixup records tests to play nice with modules"
+
+**2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903151749) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-21** — pushed [`3863c9b2`](https://github.com/ZacSweers/moshi/commit/3863c9b2a9a7956802c706df8fd98eebd889776b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Make IDE happy about modules access"
+
+**2021-08-21** — pushed [`d025c15a`](https://github.com/ZacSweers/moshi/commit/d025c15a39453edb237ffcf9c6f3fc54cf429995) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "*actually* fix GJF, which wasn't getting applied before"
+
 **2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903148881) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-21** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
@@ -11,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903147533) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-21** — pushed [`b15d6585`](https://github.com/ZacSweers/MoshiX/commit/b15d658518f14ccd92b052dca977da83f49dbb98) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs (#145)"
-
-**2021-08-21** — deleted branch "z/catalogs" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-21** — closed PR [#145](https://api.github.com/repos/ZacSweers/MoshiX/pulls/145) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs"
-
-**2021-08-21** — opened PR [#145](https://api.github.com/repos/ZacSweers/MoshiX/pulls/145) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs"
-
-**2021-08-21** — created branch "z/catalogs" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-20** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
