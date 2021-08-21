@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-20** — opened issue [#582](https://api.github.com/repos/google/ksp/issues/582) on [google/ksp](https://api.github.com/repos/google/ksp): "TypeAlias generics are not visible"
+
 **2021-08-20** — pushed [`e4c42ac9`](https://github.com/ZacSweers/MoshiX/commit/e4c42ac96f9aa0b693051f1087bfdbf0114ba4c7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Small records fixes (#143)"
 
 **2021-08-20** — deleted branch "z/recordsFixes" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-20** — pushed [`360179f0`](https://github.com/ZacSweers/moshi/commit/360179f0d56a8c62f9663513ec7df63bfa7d7c39) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Disable 17-ea for now until kotlin 1.5.30"
 
 **2021-08-20** — pushed [`c49b1191`](https://github.com/ZacSweers/moshi/commit/c49b11916f204d01e7177bdd6630cbfbc577d71e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Try explicit kotlin daemon args for java 17?"
-
-**2021-08-20** — pushed [`66687957`](https://github.com/ZacSweers/moshi/commit/6668795737a9550931bc1cf3dfb7b860b660c72e) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Cover another"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
