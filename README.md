@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-20** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903044345) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-20** — pushed [`4bea4a3f`](https://github.com/ZacSweers/MoshiX/commit/4bea4a3fc792c4205928d636d8b97dd0bae22f51) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Typo fix"
+
+**2021-08-20** — created tag "0.12.2" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-08-20** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-08-20** — pushed [`103678fb`](https://github.com/ZacSweers/MoshiX/commit/103678fb7d405c37e99cd7ee75473cb4c7849154) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reenable JsonClassSymbolProcessorTest (#144)"
 
 **2021-08-20** — closed PR [#144](https://api.github.com/repos/ZacSweers/MoshiX/pulls/144) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reenable JsonClassSymbolProcessorTest"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-20** — pushed [`74c2ef77`](https://github.com/ZacSweers/MoshiX/commit/74c2ef77019cd04fbf2a02a086941ee76546ce8d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Re-ignore"
 
 **2021-08-20** — opened PR [#144](https://api.github.com/repos/ZacSweers/MoshiX/pulls/144) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Reenable JsonClassSymbolProcessorTest"
-
-**2021-08-20** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-903040242) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-08-20** — created branch "z/typealiasFixes" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-20** — commented on [#427](https://github.com/google/ksp/issues/427#issuecomment-903038889) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-08-20** — commented on [#582](https://github.com/google/ksp/issues/582#issuecomment-903035102) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
