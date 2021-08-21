@@ -4,9 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-20** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+**2021-08-21** — opened PR [#145](https://api.github.com/repos/ZacSweers/MoshiX/pulls/145) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs"
 
-**2021-08-20** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903044345) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-08-21** — created branch "z/catalogs" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-08-20** — pushed 5 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
