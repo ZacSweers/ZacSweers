@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-21** — pushed [`b15d6585`](https://github.com/ZacSweers/MoshiX/commit/b15d658518f14ccd92b052dca977da83f49dbb98) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs (#145)"
+
+**2021-08-21** — deleted branch "z/catalogs" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-08-21** — closed PR [#145](https://api.github.com/repos/ZacSweers/MoshiX/pulls/145) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs"
+
 **2021-08-21** — opened PR [#145](https://api.github.com/repos/ZacSweers/MoshiX/pulls/145) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs"
 
 **2021-08-21** — created branch "z/catalogs" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
