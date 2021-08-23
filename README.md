@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-23** — pushed [`95250b03`](https://github.com/ZacSweers/moshi/commit/95250b035922af323352917a9b49b0b867c4ae01) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Implement reflective support for Java Records (#1381)"
+
+**2021-08-23** — deleted branch "z/records" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-08-23** — pushed [`95250b03`](https://github.com/square/moshi/commit/95250b035922af323352917a9b49b0b867c4ae01) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records (#1381)"
+
+**2021-08-23** — closed PR [#1381](https://api.github.com/repos/square/moshi/pulls/1381) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records"
+
+**2021-08-23** — closed issue [#1278](https://api.github.com/repos/square/moshi/issues/1278) on [square/moshi](https://api.github.com/repos/square/moshi): "Support Java record classes when they are stable"
+
 **2021-08-21** — pushed [`c68005f9`](https://github.com/ZacSweers/moshi/commit/c68005f98b6d479028c07542af609aec6122e60c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove comment"
 
 **2021-08-21** — pushed [`82d22e97`](https://github.com/ZacSweers/moshi/commit/82d22e97fe0f6ff5bc33161acf4676b817af59d3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add complex smoke test"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903151749) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-21** — pushed [`3863c9b2`](https://github.com/ZacSweers/moshi/commit/3863c9b2a9a7956802c706df8fd98eebd889776b) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Make IDE happy about modules access"
-
-**2021-08-21** — pushed [`d025c15a`](https://github.com/ZacSweers/moshi/commit/d025c15a39453edb237ffcf9c6f3fc54cf429995) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "*actually* fix GJF, which wasn't getting applied before"
-
-**2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903148881) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-21** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903147533) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-21** — pushed [`b15d6585`](https://github.com/ZacSweers/MoshiX/commit/b15d658518f14ccd92b052dca977da83f49dbb98) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Switch to using Gradle Catalogs (#145)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
