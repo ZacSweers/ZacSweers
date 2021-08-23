@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-23** — closed issue [#1384](https://api.github.com/repos/square/moshi/issues/1384) on [square/moshi](https://api.github.com/repos/square/moshi): "Support missing label value for PolymorphicJsonAdapterFactory "
+
+**2021-08-23** — commented on [#1384](https://github.com/square/moshi/issues/1384#issuecomment-904017849) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-23** — opened PR [#1383](https://api.github.com/repos/square/moshi/pulls/1383) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit"
+
+**2021-08-23** — created branch "z/buildUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
 **2021-08-23** — opened issue [#1382](https://api.github.com/repos/square/moshi/issues/1382) on [square/moshi](https://api.github.com/repos/square/moshi): "Directly instantiate qualifier annotations in Kotlin 1.6+"
 
 **2021-08-23** — pushed [`95250b03`](https://github.com/ZacSweers/moshi/commit/95250b035922af323352917a9b49b0b867c4ae01) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Implement reflective support for Java Records (#1381)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-23** — closed PR [#1381](https://api.github.com/repos/square/moshi/pulls/1381) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records"
 
 **2021-08-23** — closed issue [#1278](https://api.github.com/repos/square/moshi/issues/1278) on [square/moshi](https://api.github.com/repos/square/moshi): "Support Java record classes when they are stable"
-
-**2021-08-21** — pushed [`c68005f9`](https://github.com/ZacSweers/moshi/commit/c68005f98b6d479028c07542af609aec6122e60c) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove comment"
-
-**2021-08-21** — pushed [`82d22e97`](https://github.com/ZacSweers/moshi/commit/82d22e97fe0f6ff5bc33161acf4676b817af59d3) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add complex smoke test"
-
-**2021-08-21** — pushed [`5d746811`](https://github.com/ZacSweers/moshi/commit/5d7468110ab4da768829fb18fd38430e1501f5c5) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fixup records tests to play nice with modules"
-
-**2021-08-21** — commented on [#1381](https://github.com/square/moshi/pull/1381#issuecomment-903151749) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
