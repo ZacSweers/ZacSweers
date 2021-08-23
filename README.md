@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-23** — pushed [`6947ab00`](https://github.com/square/moshi/commit/6947ab00d0e111dd317c6249447dc389e6f6a007) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit (#1383)"
+
+**2021-08-23** — deleted branch "z/buildUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-08-23** — closed PR [#1383](https://api.github.com/repos/square/moshi/pulls/1383) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit"
+
 **2021-08-23** — closed issue [#1384](https://api.github.com/repos/square/moshi/issues/1384) on [square/moshi](https://api.github.com/repos/square/moshi): "Support missing label value for PolymorphicJsonAdapterFactory "
 
 **2021-08-23** — commented on [#1384](https://github.com/square/moshi/issues/1384#issuecomment-904017849) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-23** — pushed [`95250b03`](https://github.com/ZacSweers/moshi/commit/95250b035922af323352917a9b49b0b867c4ae01) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Implement reflective support for Java Records (#1381)"
 
 **2021-08-23** — deleted branch "z/records" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-08-23** — pushed [`95250b03`](https://github.com/square/moshi/commit/95250b035922af323352917a9b49b0b867c4ae01) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records (#1381)"
-
-**2021-08-23** — closed PR [#1381](https://api.github.com/repos/square/moshi/pulls/1381) to [square/moshi](https://api.github.com/repos/square/moshi): "Implement reflective support for Java Records"
-
-**2021-08-23** — closed issue [#1278](https://api.github.com/repos/square/moshi/issues/1278) on [square/moshi](https://api.github.com/repos/square/moshi): "Support Java record classes when they are stable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
