@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-23** — opened PR [#146](https://api.github.com/repos/ZacSweers/MoshiX/pulls/146) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Enable GJF again with 1.11.0"
+**2021-08-23** — deleted branch "z/recordsUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-23** — created branch "z/gjf" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-08-23** — closed PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
 
-**2021-08-23** — pushed [`6947ab00`](https://github.com/ZacSweers/moshi/commit/6947ab00d0e111dd317c6249447dc389e6f6a007) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Modernize build a bit (#1383)"
+**2021-08-23** — pushed [`5aaff5e9`](https://github.com/ZacSweers/MoshiX/commit/5aaff5e9cb9889bfa62c1d2db2adb32797f968cf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version (#148)"
 
-**2021-08-23** — pushed [`6947ab00`](https://github.com/square/moshi/commit/6947ab00d0e111dd317c6249447dc389e6f6a007) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit (#1383)"
+**2021-08-23** — pushed [`f7234c6e`](https://github.com/ZacSweers/MoshiX/commit/f7234c6ec8eb365b81ee3f6e053bf6c0450ada7b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock (#147)"
 
-**2021-08-23** — deleted branch "z/buildUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-08-23** — closed PR [#147](https://api.github.com/repos/ZacSweers/MoshiX/pulls/147) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock"
 
-**2021-08-23** — closed PR [#1383](https://api.github.com/repos/square/moshi/pulls/1383) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit"
+**2021-08-23** — deleted branch "z/sealedCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-23** — closed issue [#1384](https://api.github.com/repos/square/moshi/issues/1384) on [square/moshi](https://api.github.com/repos/square/moshi): "Support missing label value for PolymorphicJsonAdapterFactory "
+**2021-08-23** — opened PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
 
-**2021-08-23** — commented on [#1384](https://github.com/square/moshi/issues/1384#issuecomment-904017849) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-08-23** — opened PR [#147](https://api.github.com/repos/ZacSweers/MoshiX/pulls/147) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock"
 
-**2021-08-23** — opened PR [#1383](https://api.github.com/repos/square/moshi/pulls/1383) to [square/moshi](https://api.github.com/repos/square/moshi): "Modernize build a bit"
+**2021-08-23** — created branch "z/recordsUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-23** — created branch "z/buildUpdates" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-08-23** — created branch "z/sealedCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
