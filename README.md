@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-24** — pushed [`f331d530`](https://github.com/square/kotlinpoet/commit/f331d53048bcf0ee4b65fca23e09e1c5e9ceeec5) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies (#1135)"
+
+**2021-08-24** — closed PR [#1135](https://api.github.com/repos/square/kotlinpoet/pulls/1135) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
+
 **2021-08-23** — deleted branch "z/recordsUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-08-23** — closed PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-23** — opened PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
 
 **2021-08-23** — opened PR [#147](https://api.github.com/repos/ZacSweers/MoshiX/pulls/147) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock"
-
-**2021-08-23** — created branch "z/recordsUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-23** — created branch "z/sealedCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
