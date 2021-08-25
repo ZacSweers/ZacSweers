@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-24** — pushed [`0fa5d7a4`](https://github.com/slackhq/keeper/commit/0fa5d7a45db950dad363a6d8a4329250adc2d9c4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC (#87)"
+
+**2021-08-24** — deleted branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-08-24** — closed PR [#87](https://api.github.com/repos/slackhq/keeper/pulls/87) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC"
+
 **2021-08-24** — pushed [`1d8ecff4`](https://github.com/slackhq/EitherNet/commit/1d8ecff434da07e54474a86396ac5cbc64713b50) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC (#30)"
 
 **2021-08-24** — deleted branch "z/llc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-24** — closed PR [#33](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/33) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC"
 
 **2021-08-24** — pushed [`ac9e0d6f`](https://github.com/ZacSweers/MoshiX/commit/ac9e0d6fb86d45b5c1056dd7e4e5e6f548523582) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Try zulu? iono"
-
-**2021-08-24** — opened PR [#87](https://api.github.com/repos/slackhq/keeper/pulls/87) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC"
-
-**2021-08-24** — created branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-08-24** — opened PR [#30](https://api.github.com/repos/slackhq/EitherNet/pulls/30) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
