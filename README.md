@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-24** — pushed [`f331d530`](https://github.com/square/kotlinpoet/commit/f331d53048bcf0ee4b65fca23e09e1c5e9ceeec5) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies (#1135)"
+**2021-08-24** — pushed [`1d8ecff4`](https://github.com/slackhq/EitherNet/commit/1d8ecff434da07e54474a86396ac5cbc64713b50) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC (#30)"
 
-**2021-08-24** — closed PR [#1135](https://api.github.com/repos/square/kotlinpoet/pulls/1135) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update dependencies"
+**2021-08-24** — deleted branch "z/llc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
-**2021-08-23** — deleted branch "z/recordsUpdate" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-08-24** — closed PR [#30](https://api.github.com/repos/slackhq/EitherNet/pulls/30) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC"
 
-**2021-08-23** — closed PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
+**2021-08-24** — pushed [`473ca0f9`](https://github.com/slackhq/moshi-gson-interop/commit/473ca0f9f10b16c80c88ce2f37a632c52150b31e) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC (#33)"
 
-**2021-08-23** — pushed [`5aaff5e9`](https://github.com/ZacSweers/MoshiX/commit/5aaff5e9cb9889bfa62c1d2db2adb32797f968cf) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version (#148)"
+**2021-08-24** — deleted branch "z/llc" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
-**2021-08-23** — pushed [`f7234c6e`](https://github.com/ZacSweers/MoshiX/commit/f7234c6ec8eb365b81ee3f6e053bf6c0450ada7b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock (#147)"
+**2021-08-24** — closed PR [#33](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/33) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC"
 
-**2021-08-23** — closed PR [#147](https://api.github.com/repos/ZacSweers/MoshiX/pulls/147) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock"
+**2021-08-24** — pushed [`ac9e0d6f`](https://github.com/ZacSweers/MoshiX/commit/ac9e0d6fb86d45b5c1056dd7e4e5e6f548523582) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Try zulu? iono"
 
-**2021-08-23** — deleted branch "z/sealedCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-08-24** — opened PR [#87](https://api.github.com/repos/slackhq/keeper/pulls/87) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC"
 
-**2021-08-23** — opened PR [#148](https://api.github.com/repos/ZacSweers/MoshiX/pulls/148) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Align records with upstreamed version"
+**2021-08-24** — created branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
-**2021-08-23** — opened PR [#147](https://api.github.com/repos/ZacSweers/MoshiX/pulls/147) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Avoid converting elements to classnames in codeblock"
+**2021-08-24** — opened PR [#30](https://api.github.com/repos/slackhq/EitherNet/pulls/30) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
