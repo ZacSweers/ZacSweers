@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905678860) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-08-24** — pushed [`0fa5d7a4`](https://github.com/slackhq/keeper/commit/0fa5d7a45db950dad363a6d8a4329250adc2d9c4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC (#87)"
 
 **2021-08-24** — deleted branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-24** — deleted branch "z/llc" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-08-24** — closed PR [#33](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/33) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC"
-
-**2021-08-24** — pushed [`ac9e0d6f`](https://github.com/ZacSweers/MoshiX/commit/ac9e0d6fb86d45b5c1056dd7e4e5e6f548523582) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Try zulu? iono"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
