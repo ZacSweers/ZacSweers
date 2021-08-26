@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-25** — pushed 186 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
+
 **2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905981484) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-08-25** — opened PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-24** — pushed [`1d8ecff4`](https://github.com/slackhq/EitherNet/commit/1d8ecff434da07e54474a86396ac5cbc64713b50) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC (#30)"
 
 **2021-08-24** — deleted branch "z/llc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-08-24** — closed PR [#30](https://api.github.com/repos/slackhq/EitherNet/pulls/30) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
