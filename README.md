@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-26** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-906512204) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-08-26** — pushed [`95d0ede7`](https://github.com/ZacSweers/MoshiX/commit/95d0ede719ac36292ec5dcc1a4ee1e7cadd49715) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Disable worker API for now"
+
+**2021-08-26** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-906495198) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-08-25** — pushed 186 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
 
 **2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905981484) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-24** — pushed [`0fa5d7a4`](https://github.com/slackhq/keeper/commit/0fa5d7a45db950dad363a6d8a4329250adc2d9c4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC (#87)"
 
 **2021-08-24** — deleted branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-08-24** — closed PR [#87](https://api.github.com/repos/slackhq/keeper/pulls/87) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC"
-
-**2021-08-24** — pushed [`1d8ecff4`](https://github.com/slackhq/EitherNet/commit/1d8ecff434da07e54474a86396ac5cbc64713b50) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC (#30)"
-
-**2021-08-24** — deleted branch "z/llc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
