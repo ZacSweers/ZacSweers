@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905981484) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-08-25** — opened PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
+
+**2021-08-25** — created branch "z/delicate" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905678860) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-08-24** — pushed [`0fa5d7a4`](https://github.com/slackhq/keeper/commit/0fa5d7a45db950dad363a6d8a4329250adc2d9c4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC (#87)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-24** — deleted branch "z/llc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-08-24** — closed PR [#30](https://api.github.com/repos/slackhq/EitherNet/pulls/30) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update copyright headers to LLC"
-
-**2021-08-24** — pushed [`473ca0f9`](https://github.com/slackhq/moshi-gson-interop/commit/473ca0f9f10b16c80c88ce2f37a632c52150b31e) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC (#33)"
-
-**2021-08-24** — deleted branch "z/llc" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-08-24** — closed PR [#33](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/33) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update license headers to LLC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
