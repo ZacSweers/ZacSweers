@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — created tag "0.5.4" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-08-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+
+**2021-08-27** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
+**2021-08-27** — pushed [`d5b60cad`](https://github.com/ZacSweers/auto-service-ksp/commit/d5b60cad159bc6b9ed22407f7bdb0f693bcfc4b9) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps (#22)"
+
+**2021-08-27** — closed PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
+
+**2021-08-27** — pushed [`94ff6cf4`](https://github.com/ZacSweers/auto-service-ksp/commit/94ff6cf495da47b1bc9e3bfee3fec96918268ce1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update credential property names"
+
+**2021-08-27** — pushed [`ea18a6fc`](https://github.com/ZacSweers/auto-service-ksp/commit/ea18a6fc7c9994fc438f9f3204552196041a60ae) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update CI bits"
+
+**2021-08-27** — opened PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
+
+**2021-08-27** — created branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+
 **2021-08-27** — pushed [`213fb330`](https://github.com/square/moshi/commit/213fb3301277af5a900f91d9beee671bd1e0553a) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots (#1385)"
-
-**2021-08-27** — deleted branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — closed PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
-
-**2021-08-27** — pushed [`a9755a46`](https://github.com/square/kotlinpoet/commit/a9755a467d3255d00af8d323970cf106518da819) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing (#1137)"
-
-**2021-08-27** — deleted branch "z/selfRefs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-08-27** — closed PR [#1137](https://api.github.com/repos/square/kotlinpoet/pulls/1137) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing"
-
-**2021-08-27** — pushed [`f9289f35`](https://github.com/square/kotlinpoet/commit/f9289f351df24f09ae8c2d44a2ef0d797c3307c8) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update interop/kotlinx-metadata/specs/src/main/kotlin/com/squareup/kotlinpoet/metadata/specs/internal/KmTypes.kt"
-
-**2021-08-27** — pushed [`a287ca3e`](https://github.com/ZacSweers/MoshiX/commit/a287ca3eb4d22946983074110da3fda84b9c215c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-08-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-08-27** — pushed [`710b9db2`](https://github.com/square/moshi/commit/710b9db267f3328bf644a394712c3a0926d2db1a) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
