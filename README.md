@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — pushed [`f9289f35`](https://github.com/square/kotlinpoet/commit/f9289f351df24f09ae8c2d44a2ef0d797c3307c8) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update interop/kotlinx-metadata/specs/src/main/kotlin/com/squareup/kotlinpoet/metadata/specs/internal/KmTypes.kt"
+
 **2021-08-27** — pushed [`a287ca3e`](https://github.com/ZacSweers/MoshiX/commit/a287ca3eb4d22946983074110da3fda84b9c215c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-08-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — closed issue [#1138](https://api.github.com/repos/square/kotlinpoet/issues/1138) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Custom line wrap length"
 
 **2021-08-27** — commented on [#1138](https://github.com/square/kotlinpoet/issues/1138#issuecomment-907203763) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-08-27** — pushed [`cb220636`](https://github.com/square/kotlinpoet/commit/cb2206364437b56888e2c16b1f82a43e94b11417) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones (#1136)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
