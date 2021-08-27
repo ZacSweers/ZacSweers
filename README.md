@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907210101) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-27** — commented on [#1370](https://github.com/square/moshi/issues/1370#issuecomment-907205279) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-27** — closed issue [#1138](https://api.github.com/repos/square/kotlinpoet/issues/1138) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Custom line wrap length"
+
+**2021-08-27** — commented on [#1138](https://github.com/square/kotlinpoet/issues/1138#issuecomment-907203763) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-08-27** — pushed [`cb220636`](https://github.com/square/kotlinpoet/commit/cb2206364437b56888e2c16b1f82a43e94b11417) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones (#1136)"
 
 **2021-08-27** — closed PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — commented on [#1378](https://github.com/square/moshi/pull/1378#issuecomment-906924435) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-27** — opened PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
-
-**2021-08-27** — created branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — commented on [#1383](https://github.com/square/moshi/pull/1383#issuecomment-906916603) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — opened PR [#1137](https://api.github.com/repos/square/kotlinpoet/pulls/1137) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing"
-
-**2021-08-27** — created branch "z/selfRefs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
