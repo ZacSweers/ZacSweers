@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-08-26** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-906512204) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-08-27** — opened PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
 
-**2021-08-26** — pushed [`95d0ede7`](https://github.com/ZacSweers/MoshiX/commit/95d0ede719ac36292ec5dcc1a4ee1e7cadd49715) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Disable worker API for now"
+**2021-08-27** — created branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-08-26** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-906495198) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-08-27** — commented on [#1383](https://github.com/square/moshi/pull/1383#issuecomment-906916603) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-08-25** — pushed 186 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
+**2021-08-27** — opened PR [#1137](https://api.github.com/repos/square/kotlinpoet/pulls/1137) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing"
 
-**2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905981484) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-08-27** — created branch "z/selfRefs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-08-25** — opened PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
+**2021-08-27** — pushed [`c347319a`](https://github.com/ZacSweers/MoshiX/commit/c347319af91a90207cbe03d52fdf6b4f9db4e873) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars (#151)"
 
-**2021-08-25** — created branch "z/delicate" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-08-27** — closed PR [#151](https://api.github.com/repos/ZacSweers/MoshiX/pulls/151) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars"
 
-**2021-08-25** — commented on [#1108](https://github.com/square/kotlinpoet/issues/1108#issuecomment-905678860) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-08-27** — deleted branch "z/selfReferencing" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-08-24** — pushed [`0fa5d7a4`](https://github.com/slackhq/keeper/commit/0fa5d7a45db950dad363a6d8a4329250adc2d9c4) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update copyright headers to LLC (#87)"
+**2021-08-27** — closed issue [#125](https://api.github.com/repos/ZacSweers/MoshiX/issues/125) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "self referencing type parameters w/ more than 1 type parameter does not work"
 
-**2021-08-24** — deleted branch "z/llc" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-08-27** — opened PR [#151](https://api.github.com/repos/ZacSweers/MoshiX/pulls/151) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
