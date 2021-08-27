@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — pushed [`213fb330`](https://github.com/square/moshi/commit/213fb3301277af5a900f91d9beee671bd1e0553a) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots (#1385)"
+
+**2021-08-27** — deleted branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-27** — closed PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
+
+**2021-08-27** — pushed [`a9755a46`](https://github.com/square/kotlinpoet/commit/a9755a467d3255d00af8d323970cf106518da819) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing (#1137)"
+
+**2021-08-27** — deleted branch "z/selfRefs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-08-27** — closed PR [#1137](https://api.github.com/repos/square/kotlinpoet/pulls/1137) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing"
+
 **2021-08-27** — pushed [`f9289f35`](https://github.com/square/kotlinpoet/commit/f9289f351df24f09ae8c2d44a2ef0d797c3307c8) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update interop/kotlinx-metadata/specs/src/main/kotlin/com/squareup/kotlinpoet/metadata/specs/internal/KmTypes.kt"
 
 **2021-08-27** — pushed [`a287ca3e`](https://github.com/ZacSweers/MoshiX/commit/a287ca3eb4d22946983074110da3fda84b9c215c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-08-27** — pushed [`710b9db2`](https://github.com/square/moshi/commit/710b9db267f3328bf644a394712c3a0926d2db1a) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
-
-**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907225616) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907224591) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907210101) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — commented on [#1370](https://github.com/square/moshi/issues/1370#issuecomment-907205279) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — closed issue [#1138](https://api.github.com/repos/square/kotlinpoet/issues/1138) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Custom line wrap length"
-
-**2021-08-27** — commented on [#1138](https://github.com/square/kotlinpoet/issues/1138#issuecomment-907203763) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
