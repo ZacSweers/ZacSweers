@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — pushed [`710b9db2`](https://github.com/square/moshi/commit/710b9db267f3328bf644a394712c3a0926d2db1a) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
+
+**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907225616) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907224591) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-27** — commented on [#1385](https://github.com/square/moshi/pull/1385#issuecomment-907210101) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-27** — commented on [#1370](https://github.com/square/moshi/issues/1370#issuecomment-907205279) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — closed PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
 
 **2021-08-27** — deleted branch "z/delicate" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-08-27** — closed issue [#1108](https://api.github.com/repos/square/kotlinpoet/issues/1108) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Warning logged when using ImmutableKmClass.toTypeSpec"
-
-**2021-08-27** — commented on [#1378](https://github.com/square/moshi/pull/1378#issuecomment-906924435) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — opened PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
