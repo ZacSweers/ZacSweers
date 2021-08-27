@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — pushed [`cb220636`](https://github.com/square/kotlinpoet/commit/cb2206364437b56888e2c16b1f82a43e94b11417) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones (#1136)"
+
+**2021-08-27** — closed PR [#1136](https://api.github.com/repos/square/kotlinpoet/pulls/1136) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use delicate APIs rather than noisy logging ones"
+
+**2021-08-27** — deleted branch "z/delicate" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-08-27** — closed issue [#1108](https://api.github.com/repos/square/kotlinpoet/issues/1108) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Warning logged when using ImmutableKmClass.toTypeSpec"
+
+**2021-08-27** — commented on [#1378](https://github.com/square/moshi/pull/1378#issuecomment-906924435) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-27** — opened PR [#1385](https://api.github.com/repos/square/moshi/pulls/1385) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots"
 
 **2021-08-27** — created branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — opened PR [#1137](https://api.github.com/repos/square/kotlinpoet/pulls/1137) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix self-referencing type variables in metadata parsing"
 
 **2021-08-27** — created branch "z/selfRefs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-08-27** — pushed [`c347319a`](https://github.com/ZacSweers/MoshiX/commit/c347319af91a90207cbe03d52fdf6b4f9db4e873) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars (#151)"
-
-**2021-08-27** — closed PR [#151](https://api.github.com/repos/ZacSweers/MoshiX/pulls/151) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars"
-
-**2021-08-27** — deleted branch "z/selfReferencing" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-27** — closed issue [#125](https://api.github.com/repos/ZacSweers/MoshiX/issues/125) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "self referencing type parameters w/ more than 1 type parameter does not work"
-
-**2021-08-27** — opened PR [#151](https://api.github.com/repos/ZacSweers/MoshiX/pulls/151) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix self-referencing typevars"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
