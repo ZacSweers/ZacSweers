@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-27** — closed issue [#1386](https://api.github.com/repos/square/moshi/issues/1386) on [square/moshi](https://api.github.com/repos/square/moshi): "How to fix "Nesting too deep at""
+
+**2021-08-27** — commented on [#1386](https://github.com/square/moshi/issues/1386#issuecomment-907557008) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-27** — created tag "0.5.4" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-08-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — pushed [`ea18a6fc`](https://github.com/ZacSweers/auto-service-ksp/commit/ea18a6fc7c9994fc438f9f3204552196041a60ae) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update CI bits"
 
 **2021-08-27** — opened PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
-
-**2021-08-27** — created branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-08-27** — pushed [`213fb330`](https://github.com/square/moshi/commit/213fb3301277af5a900f91d9beee671bd1e0553a) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix snapshots (#1385)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
