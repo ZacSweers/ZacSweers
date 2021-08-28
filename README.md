@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-28** — opened PR [#2831](https://api.github.com/repos/google/dagger/pulls/2831) to [google/dagger](https://api.github.com/repos/google/dagger): "Proposal: Add `TYPE` target to `ClassKey`"
+
+**2021-08-28** — pushed [`82c3b642`](https://github.com/ZacSweers/dagger/commit/82c3b6425edd7ef6b9e6d5fb9d8932ba65903526) to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger): "Proposal: Add TYPE target to ClassKey"
+
 **2021-08-27** — closed issue [#1386](https://api.github.com/repos/square/moshi/issues/1386) on [square/moshi](https://api.github.com/repos/square/moshi): "How to fix "Nesting too deep at""
 
 **2021-08-27** — commented on [#1386](https://github.com/square/moshi/issues/1386#issuecomment-907557008) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — closed PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
 
 **2021-08-27** — pushed [`94ff6cf4`](https://github.com/ZacSweers/auto-service-ksp/commit/94ff6cf495da47b1bc9e3bfee3fec96918268ce1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update credential property names"
-
-**2021-08-27** — pushed [`ea18a6fc`](https://github.com/ZacSweers/auto-service-ksp/commit/ea18a6fc7c9994fc438f9f3204552196041a60ae) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update CI bits"
-
-**2021-08-27** — opened PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
