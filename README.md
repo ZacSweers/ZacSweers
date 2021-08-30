@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-30** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-908462227) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
+
+**2021-08-30** — commented on [#152](https://github.com/ZacSweers/MoshiX/issues/152#issuecomment-908461748) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-08-28** — opened PR [#2831](https://api.github.com/repos/google/dagger/pulls/2831) to [google/dagger](https://api.github.com/repos/google/dagger): "Proposal: Add `TYPE` target to `ClassKey`"
 
 **2021-08-28** — pushed [`82c3b642`](https://github.com/ZacSweers/dagger/commit/82c3b6425edd7ef6b9e6d5fb9d8932ba65903526) to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger): "Proposal: Add TYPE target to ClassKey"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-08-27** — pushed [`d5b60cad`](https://github.com/ZacSweers/auto-service-ksp/commit/d5b60cad159bc6b9ed22407f7bdb0f693bcfc4b9) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps (#22)"
-
-**2021-08-27** — closed PR [#22](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/22) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps"
-
-**2021-08-27** — pushed [`94ff6cf4`](https://github.com/ZacSweers/auto-service-ksp/commit/94ff6cf495da47b1bc9e3bfee3fec96918268ce1) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update credential property names"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
