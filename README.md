@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-31** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-909608412) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-08-31** — pushed [`9cab04bc`](https://github.com/slackhq/keeper/commit/9cab04bca8802606a64e1c64f153be6d6170bc74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 2267430 with MkDocs version: 1.1.2"
 
 **2021-08-31** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-31** — opened PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
 
 **2021-08-31** — created branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-08-30** — deleted branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
