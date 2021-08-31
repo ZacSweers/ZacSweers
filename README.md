@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-30** — deleted branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-08-30** — opened PR [#363](https://api.github.com/repos/square/anvil/pulls/363) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix #362"
 
 **2021-08-30** — created branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-28** — opened PR [#2831](https://api.github.com/repos/google/dagger/pulls/2831) to [google/dagger](https://api.github.com/repos/google/dagger): "Proposal: Add `TYPE` target to `ClassKey`"
 
 **2021-08-28** — pushed [`82c3b642`](https://github.com/ZacSweers/dagger/commit/82c3b6425edd7ef6b9e6d5fb9d8932ba65903526) to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger): "Proposal: Add TYPE target to ClassKey"
-
-**2021-08-27** — closed issue [#1386](https://api.github.com/repos/square/moshi/issues/1386) on [square/moshi](https://api.github.com/repos/square/moshi): "How to fix "Nesting too deep at""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
