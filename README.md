@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-31** — pushed [`9cab04bc`](https://github.com/slackhq/keeper/commit/9cab04bca8802606a64e1c64f153be6d6170bc74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 2267430 with MkDocs version: 1.1.2"
+
+**2021-08-31** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2021-08-31** — created tag "0.11.1" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-08-31** — pushed [`be9f2b6d`](https://github.com/slackhq/keeper/commit/be9f2b6dc618aa32282e9e2f1d5f4e72273ce8bf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs (#88)"
+
+**2021-08-31** — deleted branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-08-31** — closed PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
+
 **2021-08-31** — pushed [`c2dd335d`](https://github.com/slackhq/keeper/commit/c2dd335db9e9b90234c535281ec899f39b861c73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Imports are hard"
 
 **2021-08-31** — opened PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-31** — created branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-08-30** — deleted branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-08-30** — opened PR [#363](https://api.github.com/repos/square/anvil/pulls/363) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix #362"
-
-**2021-08-30** — created branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-08-30** — pushed 37 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-08-30** — opened issue [#362](https://api.github.com/repos/square/anvil/issues/362) on [square/anvil](https://api.github.com/repos/square/anvil): "Generated factories use wrong function name for calling setter members"
-
-**2021-08-30** — opened issue [#464](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin/issues/464) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin): "Gradle intrinsics are reported as null"
-
-**2021-08-30** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-908462227) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
