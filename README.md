@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-30** — pushed 37 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-08-30** — opened issue [#362](https://api.github.com/repos/square/anvil/issues/362) on [square/anvil](https://api.github.com/repos/square/anvil): "Generated factories use wrong function name for calling setter members"
+
+**2021-08-30** — opened issue [#464](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin/issues/464) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin): "Gradle intrinsics are reported as null"
+
 **2021-08-30** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-908462227) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
 
 **2021-08-30** — commented on [#152](https://github.com/ZacSweers/MoshiX/issues/152#issuecomment-908461748) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-27** — commented on [#1386](https://github.com/square/moshi/issues/1386#issuecomment-907557008) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-08-27** — created tag "0.5.4" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-08-27** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-08-27** — deleted branch "z/updateDeps" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-08-27** — pushed [`d5b60cad`](https://github.com/ZacSweers/auto-service-ksp/commit/d5b60cad159bc6b9ed22407f7bdb0f693bcfc4b9) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update deps (#22)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
