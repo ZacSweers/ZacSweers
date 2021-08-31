@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-30** — opened PR [#363](https://api.github.com/repos/square/anvil/pulls/363) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix #362"
+
+**2021-08-30** — created branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-08-30** — pushed 37 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-08-30** — opened issue [#362](https://api.github.com/repos/square/anvil/issues/362) on [square/anvil](https://api.github.com/repos/square/anvil): "Generated factories use wrong function name for calling setter members"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-28** — pushed [`82c3b642`](https://github.com/ZacSweers/dagger/commit/82c3b6425edd7ef6b9e6d5fb9d8932ba65903526) to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger): "Proposal: Add TYPE target to ClassKey"
 
 **2021-08-27** — closed issue [#1386](https://api.github.com/repos/square/moshi/issues/1386) on [square/moshi](https://api.github.com/repos/square/moshi): "How to fix "Nesting too deep at""
-
-**2021-08-27** — commented on [#1386](https://github.com/square/moshi/issues/1386#issuecomment-907557008) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-08-27** — created tag "0.5.4" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
