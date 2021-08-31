@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-08-31** — pushed [`c2dd335d`](https://github.com/slackhq/keeper/commit/c2dd335db9e9b90234c535281ec899f39b861c73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Imports are hard"
+
+**2021-08-31** — opened PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
+
+**2021-08-31** — created branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-08-30** — deleted branch "z/fix362" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-08-30** — opened PR [#363](https://api.github.com/repos/square/anvil/pulls/363) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix #362"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-30** — opened issue [#464](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin/issues/464) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin): "Gradle intrinsics are reported as null"
 
 **2021-08-30** — commented on [#40](https://github.com/gradle/wrapper-validation-action/issues/40#issuecomment-908462227) in [gradle/wrapper-validation-action](https://api.github.com/repos/gradle/wrapper-validation-action)
-
-**2021-08-30** — commented on [#152](https://github.com/ZacSweers/MoshiX/issues/152#issuecomment-908461748) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-08-28** — opened PR [#2831](https://api.github.com/repos/google/dagger/pulls/2831) to [google/dagger](https://api.github.com/repos/google/dagger): "Proposal: Add `TYPE` target to `ClassKey`"
-
-**2021-08-28** — pushed [`82c3b642`](https://github.com/ZacSweers/dagger/commit/82c3b6425edd7ef6b9e6d5fb9d8932ba65903526) to [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger): "Proposal: Add TYPE target to ClassKey"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
