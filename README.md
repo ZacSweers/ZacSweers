@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-01** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-910329176) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-08-31** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-909608412) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-08-31** — pushed [`9cab04bc`](https://github.com/slackhq/keeper/commit/9cab04bca8802606a64e1c64f153be6d6170bc74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 2267430 with MkDocs version: 1.1.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-08-31** — pushed [`c2dd335d`](https://github.com/slackhq/keeper/commit/c2dd335db9e9b90234c535281ec899f39b861c73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Imports are hard"
 
 **2021-08-31** — opened PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
-
-**2021-08-31** — created branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
