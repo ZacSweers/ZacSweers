@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-01** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-910329176) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-02** — commented on [#18](https://github.com/ZacSweers/auto-service-ksp/issues/18#issuecomment-912002079) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-08-31** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-909608412) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-02** — created tag "0.5.5" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-08-31** — pushed [`9cab04bc`](https://github.com/slackhq/keeper/commit/9cab04bca8802606a64e1c64f153be6d6170bc74) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Deployed 2267430 with MkDocs version: 1.1.2"
+**2021-09-02** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-08-31** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+**2021-09-02** — pushed [`d2f400a8`](https://github.com/ZacSweers/auto-service-ksp/commit/d2f400a834297e820f50059214d48bcc33416397) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class (#24)"
 
-**2021-08-31** — created tag "0.11.1" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-09-02** — deleted branch "ganadist-java_compatibility" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-08-31** — pushed [`be9f2b6d`](https://github.com/slackhq/keeper/commit/be9f2b6dc618aa32282e9e2f1d5f4e72273ce8bf) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs (#88)"
+**2021-09-02** — closed PR [#24](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/24) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
 
-**2021-08-31** — deleted branch "z/classpathFixes" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-09-02** — closed issue [#18](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/18) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "auto-service-ksp raise error while processing java source"
 
-**2021-08-31** — closed PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
+**2021-09-02** — closed PR [#19](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/19) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
 
-**2021-08-31** — pushed [`c2dd335d`](https://github.com/slackhq/keeper/commit/c2dd335db9e9b90234c535281ec899f39b861c73) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Imports are hard"
+**2021-09-02** — commented on [#19](https://github.com/ZacSweers/auto-service-ksp/pull/19#issuecomment-911996964) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-08-31** — opened PR [#88](https://api.github.com/repos/slackhq/keeper/pulls/88) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Rework artifact inputs"
+**2021-09-02** — opened PR [#24](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/24) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
