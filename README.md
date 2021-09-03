@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-02** — pushed [`92bb7ba0`](https://github.com/ZacSweers/MoshiX/commit/92bb7ba0100b607ec3f7da44404b6abfd2fd6568) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp (#154)"
+
+**2021-09-02** — pushed [`92bb7ba0`](https://github.com/ZacSweers/MoshiX/commit/92bb7ba0100b607ec3f7da44404b6abfd2fd6568) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp (#154)"
+
+**2021-09-02** — closed PR [#154](https://api.github.com/repos/ZacSweers/MoshiX/pulls/154) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp"
+
 **2021-09-02** — commented on [#18](https://github.com/ZacSweers/auto-service-ksp/issues/18#issuecomment-912002079) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
 **2021-09-02** — created tag "0.5.5" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-02** — closed PR [#24](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/24) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
 
 **2021-09-02** — closed issue [#18](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/18) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "auto-service-ksp raise error while processing java source"
-
-**2021-09-02** — closed PR [#19](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/19) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
-
-**2021-09-02** — commented on [#19](https://github.com/ZacSweers/auto-service-ksp/pull/19#issuecomment-911996964) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-09-02** — opened PR [#24](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/24) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
