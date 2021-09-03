@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-03** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
 **2021-09-03** — closed PR [#126](https://api.github.com/repos/ZacSweers/MoshiX/pulls/126) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[NOT A REAL PR] repro for self referencing type problem"
 
 **2021-09-03** — pushed [`f4ca5c76`](https://github.com/ZacSweers/MoshiX/commit/f4ca5c76106210b3f4e7aa598f30d73eda7a2c9f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Inline sealed KSP support to the main codegen artifact (#156)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-02** — deleted branch "z/kct144" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-09-02** — closed PR [#155](https://api.github.com/repos/ZacSweers/MoshiX/pulls/155) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT"
-
-**2021-09-02** — closed PR [#25](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/25) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KCT to 1.4.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
