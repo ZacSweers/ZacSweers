@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-02** — pushed [`92bb7ba0`](https://github.com/ZacSweers/MoshiX/commit/92bb7ba0100b607ec3f7da44404b6abfd2fd6568) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp (#154)"
+**2021-09-02** — pushed [`1481db0d`](https://github.com/ZacSweers/MoshiX/commit/1481db0d90c5acd04e2f26df6e36ffc0663daefe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT (#155)"
 
-**2021-09-02** — pushed [`92bb7ba0`](https://github.com/ZacSweers/MoshiX/commit/92bb7ba0100b607ec3f7da44404b6abfd2fd6568) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp (#154)"
+**2021-09-02** — deleted branch "z/kct144" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-09-02** — closed PR [#154](https://api.github.com/repos/ZacSweers/MoshiX/pulls/154) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update project path to moshi-ksp"
+**2021-09-02** — closed PR [#155](https://api.github.com/repos/ZacSweers/MoshiX/pulls/155) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT"
 
-**2021-09-02** — commented on [#18](https://github.com/ZacSweers/auto-service-ksp/issues/18#issuecomment-912002079) in [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-09-02** — closed PR [#25](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/25) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KCT to 1.4.4"
 
-**2021-09-02** — created tag "0.5.5" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-09-02** — pushed [`7fb51c74`](https://github.com/ZacSweers/auto-service-ksp/commit/7fb51c74b2db71300f73bcbb5e907bdcfee040e0) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KCT to 1.4.4 (#25)"
 
-**2021-09-02** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
+**2021-09-02** — deleted branch "z/kct144" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-02** — pushed [`d2f400a8`](https://github.com/ZacSweers/auto-service-ksp/commit/d2f400a834297e820f50059214d48bcc33416397) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class (#24)"
+**2021-09-02** — pushed [`db799e1d`](https://github.com/ZacSweers/auto-service-ksp/commit/db799e1ddfd24871de9b053221dd0f34a505c26d) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update buildSrc/src/main/kotlin/Dependencies.kt"
 
-**2021-09-02** — deleted branch "ganadist-java_compatibility" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
+**2021-09-02** — opened PR [#25](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/25) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update KCT to 1.4.4"
 
-**2021-09-02** — closed PR [#24](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/24) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Try to cast argument value to single KSType for java class"
+**2021-09-02** — created branch "z/kct144" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-02** — closed issue [#18](https://api.github.com/repos/ZacSweers/auto-service-ksp/issues/18) on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "auto-service-ksp raise error while processing java source"
+**2021-09-02** — opened PR [#155](https://api.github.com/repos/ZacSweers/MoshiX/pulls/155) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
