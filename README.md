@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-04** — created branch "z/prototypeAnnotationInstantiation" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-09-03** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-09-03** — closed PR [#126](https://api.github.com/repos/ZacSweers/MoshiX/pulls/126) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[NOT A REAL PR] repro for self referencing type problem"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-02** — pushed [`1481db0d`](https://github.com/ZacSweers/MoshiX/commit/1481db0d90c5acd04e2f26df6e36ffc0663daefe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT (#155)"
 
 **2021-09-02** — deleted branch "z/kct144" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-02** — closed PR [#155](https://api.github.com/repos/ZacSweers/MoshiX/pulls/155) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
