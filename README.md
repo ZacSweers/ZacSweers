@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-04** — created branch "z/prototypeAnnotationInstantiation" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-04** — commented on [#1382](https://github.com/square/moshi/issues/1382#issuecomment-913043748) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-03** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+**2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913043650) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
-**2021-09-03** — closed PR [#126](https://api.github.com/repos/ZacSweers/MoshiX/pulls/126) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[NOT A REAL PR] repro for self referencing type problem"
+**2021-09-04** — pushed [`2b425d57`](https://github.com/square/moshi/commit/2b425d572e011761af8ddbd05729818a16174d24) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up jvm args"
 
-**2021-09-03** — pushed [`f4ca5c76`](https://github.com/ZacSweers/MoshiX/commit/f4ca5c76106210b3f4e7aa598f30d73eda7a2c9f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Inline sealed KSP support to the main codegen artifact (#156)"
+**2021-09-04** — opened PR [#1390](https://api.github.com/repos/square/moshi/pulls/1390) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6"
 
-**2021-09-03** — deleted branch "z/inlineKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-09-04** — pushed [`4b8f323c`](https://github.com/square/moshi/commit/4b8f323cc420e69fe6eef13304e2d8193043faec) to [square/moshi](https://api.github.com/repos/square/moshi): "Support language version in CI"
 
-**2021-09-03** — closed PR [#156](https://api.github.com/repos/ZacSweers/MoshiX/pulls/156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Inline sealed KSP support to the main codegen artifact"
+**2021-09-04** — pushed [`b80fccaf`](https://github.com/square/moshi/commit/b80fccafd672814ebc0aa40655f508c96312acca) to [square/moshi](https://api.github.com/repos/square/moshi): "Add a toe-hold for language version testing"
 
-**2021-09-02** — opened PR [#156](https://api.github.com/repos/ZacSweers/MoshiX/pulls/156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Inline sealed KSP support to the main codegen artifact"
+**2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913042582) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
-**2021-09-02** — created branch "z/inlineKsp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-09-04** — opened issue [#196](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/196) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Passing in `-language-version` to `kotlincArguments` fails to parse"
 
-**2021-09-02** — pushed [`1481db0d`](https://github.com/ZacSweers/MoshiX/commit/1481db0d90c5acd04e2f26df6e36ffc0663daefe) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KCT (#155)"
+**2021-09-04** — pushed [`61abbbf3`](https://github.com/square/moshi/commit/61abbbf3ddeb629c2dc675cddc8d4c3d6ee1c093) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KCT to 1.4.4"
 
-**2021-09-02** — deleted branch "z/kct144" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-09-04** — pushed [`12810b50`](https://github.com/square/moshi/commit/12810b5068b2ce0bbc9e68512e03fa8f8c8b06bd) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't require FIELD access"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
