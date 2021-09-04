@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913047799) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913046347) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-09-04** — commented on [#1382](https://github.com/square/moshi/issues/1382#issuecomment-913043748) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913043650) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913042582) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-09-04** — opened issue [#196](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/196) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Passing in `-language-version` to `kotlincArguments` fails to parse"
-
-**2021-09-04** — pushed [`61abbbf3`](https://github.com/square/moshi/commit/61abbbf3ddeb629c2dc675cddc8d4c3d6ee1c093) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KCT to 1.4.4"
-
-**2021-09-04** — pushed [`12810b50`](https://github.com/square/moshi/commit/12810b5068b2ce0bbc9e68512e03fa8f8c8b06bd) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't require FIELD access"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
