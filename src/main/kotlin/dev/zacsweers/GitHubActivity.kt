@@ -127,7 +127,7 @@ data class IssuesEventPayload(
 @JsonClass(generateAdapter = true)
 data class Issue(
   val title: String,
-  val body: String,
+  val body: String? = null,
   val url: String,
   val number: Int
 )
