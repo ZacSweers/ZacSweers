@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913234660) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
 **2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913210448) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
 
 **2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913208281) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913181554) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
 
 **2021-09-05** — opened issue [#7330](https://api.github.com/repos/ReactiveX/RxJava/issues/7330) on [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Confusing nullability on `subscribe(BiConsumer)`"
-
-**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913180905) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
