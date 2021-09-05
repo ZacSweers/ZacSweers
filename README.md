@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913210448) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
+**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913208281) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
 **2021-09-05** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-913190704) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-09-05** — pushed 2 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-05** — opened issue [#7330](https://api.github.com/repos/ReactiveX/RxJava/issues/7330) on [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Confusing nullability on `subscribe(BiConsumer)`"
 
 **2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913180905) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-04** — closed issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
-
-**2021-09-04** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-913080456) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
