@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-913190704) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-09-05** — pushed 2 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
 
 **2021-09-05** — pushed [`e90ba58b`](https://github.com/ZacSweers/CatchUp/commit/e90ba58bafbcce79a1cc2f098e6b318d8fe81eaf) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup various jvm args"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-04** — closed issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
 
 **2021-09-04** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-913080456) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-04** — closed issue [#19](https://api.github.com/repos/slackhq/EitherNet/issues/19) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Unable to create converter for class com.slack.eithernet.ApiResult when using Nothing with Moshi"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
