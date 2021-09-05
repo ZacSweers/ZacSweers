@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-04** — closed issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
+
+**2021-09-04** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-913080456) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-04** — closed issue [#19](https://api.github.com/repos/slackhq/EitherNet/issues/19) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Unable to create converter for class com.slack.eithernet.ApiResult when using Nothing with Moshi"
+
+**2021-09-04** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-913080416) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913047799) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913046347) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-04** — pushed [`2b425d57`](https://github.com/square/moshi/commit/2b425d572e011761af8ddbd05729818a16174d24) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up jvm args"
 
 **2021-09-04** — opened PR [#1390](https://api.github.com/repos/square/moshi/pulls/1390) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6"
-
-**2021-09-04** — pushed [`4b8f323c`](https://github.com/square/moshi/commit/4b8f323cc420e69fe6eef13304e2d8193043faec) to [square/moshi](https://api.github.com/repos/square/moshi): "Support language version in CI"
-
-**2021-09-04** — pushed [`b80fccaf`](https://github.com/square/moshi/commit/b80fccafd672814ebc0aa40655f508c96312acca) to [square/moshi](https://api.github.com/repos/square/moshi): "Add a toe-hold for language version testing"
-
-**2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913042582) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-09-04** — opened issue [#196](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/issues/196) on [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Passing in `-language-version` to `kotlincArguments` fails to parse"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
