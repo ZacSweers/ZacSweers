@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — pushed 2 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
+
+**2021-09-05** — pushed [`e90ba58b`](https://github.com/ZacSweers/CatchUp/commit/e90ba58bafbcce79a1cc2f098e6b318d8fe81eaf) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup various jvm args"
+
+**2021-09-05** — opened PR [#270](https://api.github.com/repos/ZacSweers/CatchUp/pulls/270) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
+
+**2021-09-05** — created branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913181554) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
+**2021-09-05** — opened issue [#7330](https://api.github.com/repos/ReactiveX/RxJava/issues/7330) on [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Confusing nullability on `subscribe(BiConsumer)`"
+
+**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913180905) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
 **2021-09-04** — closed issue [#14](https://api.github.com/repos/slackhq/EitherNet/issues/14) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Support interop with other call adapters"
 
 **2021-09-04** — commented on [#14](https://github.com/slackhq/EitherNet/issues/14#issuecomment-913080456) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-04** — closed issue [#19](https://api.github.com/repos/slackhq/EitherNet/issues/19) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Unable to create converter for class com.slack.eithernet.ApiResult when using Nothing with Moshi"
-
-**2021-09-04** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-913080416) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913047799) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-04** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-913046347) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-04** — commented on [#1382](https://github.com/square/moshi/issues/1382#issuecomment-913043748) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-04** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-913043650) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-09-04** — pushed [`2b425d57`](https://github.com/square/moshi/commit/2b425d572e011761af8ddbd05729818a16174d24) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up jvm args"
-
-**2021-09-04** — opened PR [#1390](https://api.github.com/repos/square/moshi/pulls/1390) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
