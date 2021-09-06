@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — pushed 2 commits to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava).
+
+**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913270464) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
+**2021-09-05** — opened PR [#7332](https://api.github.com/repos/ReactiveX/RxJava/pulls/7332) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Add module-info.java"
+
+**2021-09-05** — created branch "z/moduleMRJar" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
+
 **2021-09-05** — opened PR [#7331](https://api.github.com/repos/ReactiveX/RxJava/pulls/7331) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix missing nullability on Single.subscribe(BiConsumer)"
 
 **2021-09-05** — created branch "z/nullabilityFix" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-05** — pushed 74 commits to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava).
 
 **2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913234660) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913210448) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913208281) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-913190704) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-09-05** — pushed 2 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
