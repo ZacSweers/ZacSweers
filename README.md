@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-05** — opened PR [#7331](https://api.github.com/repos/ReactiveX/RxJava/pulls/7331) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix missing nullability on Single.subscribe(BiConsumer)"
+
+**2021-09-05** — created branch "z/nullabilityFix" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
+
+**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913252464) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
+**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913252414) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
+
+**2021-09-05** — pushed 74 commits to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava).
+
 **2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913234660) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
 
 **2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913210448) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-05** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-913190704) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-09-05** — pushed 2 commits to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers).
-
-**2021-09-05** — pushed [`e90ba58b`](https://github.com/ZacSweers/CatchUp/commit/e90ba58bafbcce79a1cc2f098e6b318d8fe81eaf) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fixup various jvm args"
-
-**2021-09-05** — opened PR [#270](https://api.github.com/repos/ZacSweers/CatchUp/pulls/270) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
-
-**2021-09-05** — created branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-09-05** — commented on [#7330](https://github.com/ReactiveX/RxJava/issues/7330#issuecomment-913181554) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — opened issue [#7330](https://api.github.com/repos/ReactiveX/RxJava/issues/7330) on [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Confusing nullability on `subscribe(BiConsumer)`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
