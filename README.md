@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-06** — pushed [`2f7c207a`](https://github.com/slackhq/EitherNet/commit/2f7c207a08cb06086fe45c6dd8b76f97b368fdeb) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Restore sealed interfaces and move tags internally"
+
+**2021-09-06** — opened PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
+
+**2021-09-06** — created branch "z/improvedTags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-09-06** — deleted branch "z/nullabilityFix" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
 
 **2021-09-06** — pushed [`1ace38a2`](https://github.com/square/kotlinpoet/commit/1ace38a2666589ac9480f66b3fad8196994b97f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Do not use reflection for Unit (#1142)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-05** — pushed 2 commits to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava).
 
 **2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913270464) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — opened PR [#7332](https://api.github.com/repos/ReactiveX/RxJava/pulls/7332) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Add module-info.java"
-
-**2021-09-05** — created branch "z/moduleMRJar" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
-
-**2021-09-05** — opened PR [#7331](https://api.github.com/repos/ReactiveX/RxJava/pulls/7331) to [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava): "Fix missing nullability on Single.subscribe(BiConsumer)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
