@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-06** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+
+**2021-09-06** — pushed [`a117f8f5`](https://github.com/uber/AutoDispose/commit/a117f8f595db46a4b7bb69378610d313cb0c0be0) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Kotlin and error-prone while we're at it"
+
+**2021-09-06** — opened PR [#457](https://api.github.com/repos/uber/AutoDispose/pulls/457) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability"
+
+**2021-09-06** — created branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-09-06** — pushed [`2f7c207a`](https://github.com/slackhq/EitherNet/commit/2f7c207a08cb06086fe45c6dd8b76f97b368fdeb) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Restore sealed interfaces and move tags internally"
 
 **2021-09-06** — opened PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-06** — pushed [`1ace38a2`](https://github.com/square/kotlinpoet/commit/1ace38a2666589ac9480f66b3fad8196994b97f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Do not use reflection for Unit (#1142)"
 
 **2021-09-06** — closed PR [#1142](https://api.github.com/repos/square/kotlinpoet/pulls/1142) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Do not use reflection for kotlin.Unit"
-
-**2021-09-06** — deleted branch "z/moduleMRJar" on [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava)
-
-**2021-09-06** — commented on [#7332](https://github.com/ReactiveX/RxJava/pull/7332#issuecomment-913676009) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
-
-**2021-09-05** — pushed 2 commits to [ZacSweers/RxJava](https://api.github.com/repos/ZacSweers/RxJava).
-
-**2021-09-05** — commented on [#7241](https://github.com/ReactiveX/RxJava/pull/7241#issuecomment-913270464) in [ReactiveX/RxJava](https://api.github.com/repos/ReactiveX/RxJava)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
