@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-06** — deleted branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
+**2021-09-06** — pushed [`91a4fdb1`](https://github.com/uber/AutoDispose/commit/91a4fdb15bbc26990241ea58b4055f23d79833ff) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability (#457)"
+
+**2021-09-06** — closed PR [#457](https://api.github.com/repos/uber/AutoDispose/pulls/457) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability"
+
 **2021-09-06** — commented on [#51](https://github.com/ZacSweers/ticktock/pull/51#issuecomment-913939671) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-09-06** — pushed [`39ae0744`](https://github.com/ZacSweers/ticktock/commit/39ae07445a7fe839db1614c9cb1d5d55d85c1ae3) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "wtf"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-06** — created branch "z/refreshProject" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-09-06** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
-
-**2021-09-06** — pushed [`a117f8f5`](https://github.com/uber/AutoDispose/commit/a117f8f595db46a4b7bb69378610d313cb0c0be0) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update Kotlin and error-prone while we're at it"
-
-**2021-09-06** — opened PR [#457](https://api.github.com/repos/uber/AutoDispose/pulls/457) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability"
-
-**2021-09-06** — created branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
