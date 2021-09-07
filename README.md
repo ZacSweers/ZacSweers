@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-06** — commented on [#51](https://github.com/ZacSweers/ticktock/pull/51#issuecomment-913939671) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-09-06** — pushed [`39ae0744`](https://github.com/ZacSweers/ticktock/commit/39ae07445a7fe839db1614c9cb1d5d55d85c1ae3) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "wtf"
+
 **2021-09-06** — pushed [`357d2601`](https://github.com/ZacSweers/ticktock/commit/357d26014edc143e0f8085e54fdc8ac628a68e68) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Simplify android sdk handling"
 
 **2021-09-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-06** — opened PR [#457](https://api.github.com/repos/uber/AutoDispose/pulls/457) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability"
 
 **2021-09-06** — created branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-09-06** — pushed [`2f7c207a`](https://github.com/slackhq/EitherNet/commit/2f7c207a08cb06086fe45c6dd8b76f97b368fdeb) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Restore sealed interfaces and move tags internally"
-
-**2021-09-06** — opened PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
