@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — commented on [#271](https://github.com/ZacSweers/CatchUp/issues/271#issuecomment-914323058) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-09-07** — pushed [`9a9ac8f8`](https://github.com/uber/AutoDispose/commit/9a9ac8f893c3462eaa3b73528fd0d5cdcea3da56) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed d55e7c8 with MkDocs version: 1.1.2"
 
 **2021-09-07** — created tag "2.1.1" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — opened PR [#458](https://api.github.com/repos/uber/AutoDispose/pulls/458) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version"
 
 **2021-09-07** — created branch "z/doNotMock" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
-
-**2021-09-06** — deleted branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
