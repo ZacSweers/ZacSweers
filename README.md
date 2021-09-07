@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — commented on [#31](https://github.com/slackhq/EitherNet/pull/31#issuecomment-914518579) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-07** — opened issue [#611](https://api.github.com/repos/google/ksp/issues/611) on [google/ksp](https://api.github.com/repos/google/ksp): "Consider exposing language version, api version, and jvm target as options"
+
 **2021-09-07** — commented on [#271](https://github.com/ZacSweers/CatchUp/issues/271#issuecomment-914323058) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-09-07** — pushed [`9a9ac8f8`](https://github.com/uber/AutoDispose/commit/9a9ac8f893c3462eaa3b73528fd0d5cdcea3da56) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed d55e7c8 with MkDocs version: 1.1.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — closed PR [#458](https://api.github.com/repos/uber/AutoDispose/pulls/458) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version"
 
 **2021-09-07** — pushed [`ee475fc5`](https://github.com/uber/AutoDispose/commit/ee475fc5c7488c013c13c63ef404f841f7105ca4) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update API"
-
-**2021-09-07** — opened PR [#458](https://api.github.com/repos/uber/AutoDispose/pulls/458) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version"
-
-**2021-09-07** — created branch "z/doNotMock" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
