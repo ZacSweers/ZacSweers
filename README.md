@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — opened PR [#458](https://api.github.com/repos/uber/AutoDispose/pulls/458) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version"
+
+**2021-09-07** — created branch "z/doNotMock" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+
 **2021-09-06** — deleted branch "z/nullabilityFix" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
 
 **2021-09-06** — pushed [`91a4fdb1`](https://github.com/uber/AutoDispose/commit/91a4fdb15bbc26990241ea58b4055f23d79833ff) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Fix BiConsumer nullability (#457)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
 
 **2021-09-06** — opened PR [#51](https://api.github.com/repos/ZacSweers/ticktock/pulls/51) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project"
-
-**2021-09-06** — created branch "z/refreshProject" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-09-06** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
