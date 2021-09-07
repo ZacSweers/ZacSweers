@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — pushed [`63c74a16`](https://github.com/ZacSweers/MoshiX/commit/63c74a16d3d382917dfe9e81fa1c35ad583e8ddb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+
+**2021-09-07** — created tag "0.14.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-09-07** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-09-07** — pushed [`31f0a626`](https://github.com/ZacSweers/MoshiX/commit/31f0a626c10f7974079331bd3298e6362b798ffd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0 (#157)"
 
 **2021-09-07** — deleted branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — pushed [`427cde37`](https://github.com/ZacSweers/auto-service-ksp/commit/427cde37ba65a2e1a8bed54cb3d27f9852033bd6) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to KSP 1.0 (#26)"
 
 **2021-09-07** — deleted branch "z/ksp10" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-09-07** — closed PR [#26](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/26) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to KSP 1.0"
-
-**2021-09-07** — opened PR [#157](https://api.github.com/repos/ZacSweers/MoshiX/pulls/157) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0"
-
-**2021-09-07** — created branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
