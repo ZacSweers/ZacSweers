@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-07** — commented on [#31](https://github.com/slackhq/EitherNet/pull/31#issuecomment-914518579) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2021-09-07** — pushed [`31f0a626`](https://github.com/ZacSweers/MoshiX/commit/31f0a626c10f7974079331bd3298e6362b798ffd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0 (#157)"
 
-**2021-09-07** — opened issue [#611](https://api.github.com/repos/google/ksp/issues/611) on [google/ksp](https://api.github.com/repos/google/ksp): "Consider exposing language version, api version, and jvm target as options"
+**2021-09-07** — deleted branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-09-07** — commented on [#271](https://github.com/ZacSweers/CatchUp/issues/271#issuecomment-914323058) in [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+**2021-09-07** — closed PR [#157](https://api.github.com/repos/ZacSweers/MoshiX/pulls/157) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0"
 
-**2021-09-07** — pushed [`9a9ac8f8`](https://github.com/uber/AutoDispose/commit/9a9ac8f893c3462eaa3b73528fd0d5cdcea3da56) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Deployed d55e7c8 with MkDocs version: 1.1.2"
+**2021-09-07** — created tag "1.0.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-07** — created tag "2.1.1" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-09-07** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
 
-**2021-09-07** — pushed 2 commits to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose).
+**2021-09-07** — pushed [`427cde37`](https://github.com/ZacSweers/auto-service-ksp/commit/427cde37ba65a2e1a8bed54cb3d27f9852033bd6) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to KSP 1.0 (#26)"
 
-**2021-09-07** — deleted branch "z/doNotMock" on [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose)
+**2021-09-07** — deleted branch "z/ksp10" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-07** — pushed [`18d01dac`](https://github.com/uber/AutoDispose/commit/18d01dac60172f4aa1d1101f15aced77248e5197) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version (#458)"
+**2021-09-07** — closed PR [#26](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/26) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to KSP 1.0"
 
-**2021-09-07** — closed PR [#458](https://api.github.com/repos/uber/AutoDispose/pulls/458) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Swap `@DoNotMock` for error-prone's version"
+**2021-09-07** — opened PR [#157](https://api.github.com/repos/ZacSweers/MoshiX/pulls/157) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0"
 
-**2021-09-07** — pushed [`ee475fc5`](https://github.com/uber/AutoDispose/commit/ee475fc5c7488c013c13c63ef404f841f7105ca4) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Update API"
+**2021-09-07** — created branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
