@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — commented on [#16](https://github.com/ZacSweers/redacted-compiler-plugin/issues/16#issuecomment-914812615) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-09-07** — closed PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
 
 **2021-09-07** — pushed [`8a130bf6`](https://github.com/slackhq/EitherNet/commit/8a130bf67c60283bf00d90b883fa748387acce08) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API (#31)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — pushed [`31f0a626`](https://github.com/ZacSweers/MoshiX/commit/31f0a626c10f7974079331bd3298e6362b798ffd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0 (#157)"
 
 **2021-09-07** — deleted branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-07** — closed PR [#157](https://api.github.com/repos/ZacSweers/MoshiX/pulls/157) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
