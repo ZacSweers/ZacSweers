@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-08** — commented on [#30](https://github.com/google/ksp/issues/30#issuecomment-915301065) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-08** — closed issue [#552](https://api.github.com/repos/google/ksp/issues/552) on [google/ksp](https://api.github.com/repos/google/ksp): "`KspTaskJvm.useClasspathSnapshot` sometimes missing a value in Kotlin 1.5.30-RC"
+
+**2021-09-08** — commented on [#552](https://github.com/google/ksp/issues/552#issuecomment-915299396) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-09-07** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-914859156) in [google/dagger](https://api.github.com/repos/google/dagger)
 
 **2021-09-07** — commented on [#16](https://github.com/ZacSweers/redacted-compiler-plugin/issues/16#issuecomment-914812615) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — commented on [#9](https://github.com/ZacSweers/redacted-compiler-plugin/issues/9#issuecomment-914792067) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-09-07** — pushed [`63c74a16`](https://github.com/ZacSweers/MoshiX/commit/63c74a16d3d382917dfe9e81fa1c35ad583e8ddb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-09-07** — created tag "0.14.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-07** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-09-07** — pushed [`31f0a626`](https://github.com/ZacSweers/MoshiX/commit/31f0a626c10f7974079331bd3298e6362b798ffd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0 (#157)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
