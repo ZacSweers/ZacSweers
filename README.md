@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-07** — closed PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
+
+**2021-09-07** — pushed [`8a130bf6`](https://github.com/slackhq/EitherNet/commit/8a130bf67c60283bf00d90b883fa748387acce08) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API (#31)"
+
+**2021-09-07** — deleted branch "z/improvedTags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-07** — commented on [#9](https://github.com/ZacSweers/redacted-compiler-plugin/issues/9#issuecomment-914792067) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-09-07** — pushed [`63c74a16`](https://github.com/ZacSweers/MoshiX/commit/63c74a16d3d382917dfe9e81fa1c35ad583e8ddb) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-09-07** — created tag "0.14.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — deleted branch "z/ksp1.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-09-07** — closed PR [#157](https://api.github.com/repos/ZacSweers/MoshiX/pulls/157) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update KSP to 1.0"
-
-**2021-09-07** — created tag "1.0.0" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-09-07** — pushed 2 commits to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp).
-
-**2021-09-07** — pushed [`427cde37`](https://github.com/ZacSweers/auto-service-ksp/commit/427cde37ba65a2e1a8bed54cb3d27f9852033bd6) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update to KSP 1.0 (#26)"
-
-**2021-09-07** — deleted branch "z/ksp10" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
