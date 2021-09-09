@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-09** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-916136607) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-09-08** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-915563785) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-09-08** — commented on [#30](https://github.com/google/ksp/issues/30#issuecomment-915301065) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-07** — pushed [`8a130bf6`](https://github.com/slackhq/EitherNet/commit/8a130bf67c60283bf00d90b883fa748387acce08) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API (#31)"
 
 **2021-09-07** — deleted branch "z/improvedTags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-07** — commented on [#9](https://github.com/ZacSweers/redacted-compiler-plugin/issues/9#issuecomment-914792067) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
