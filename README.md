@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-09** — pushed [`852d070a`](https://github.com/slackhq/EitherNet/commit/852d070a753631fe22751b5eac6d4c963fee11f1) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update CHANGELOG"
+
+**2021-09-09** — created tag "1.0.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-09** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
+**2021-09-09** — pushed [`e05dc7b3`](https://github.com/slackhq/EitherNet/commit/e05dc7b31b003c492d44719f8c33737b2b1b1e5d) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Remove deprecated API (#32)"
+
+**2021-09-09** — deleted branch "z/removeDeprecation" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-09** — closed PR [#32](https://api.github.com/repos/slackhq/EitherNet/pulls/32) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Remove deprecated API"
+
+**2021-09-09** — opened PR [#32](https://api.github.com/repos/slackhq/EitherNet/pulls/32) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Remove deprecated API"
+
+**2021-09-09** — created branch "z/removeDeprecation" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-09** — opened issue [#90](https://api.github.com/repos/slackhq/keeper/issues/90) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP variants API"
+
 **2021-09-09** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-916136607) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-08** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-915563785) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-09-08** — commented on [#30](https://github.com/google/ksp/issues/30#issuecomment-915301065) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-08** — closed issue [#552](https://api.github.com/repos/google/ksp/issues/552) on [google/ksp](https://api.github.com/repos/google/ksp): "`KspTaskJvm.useClasspathSnapshot` sometimes missing a value in Kotlin 1.5.30-RC"
-
-**2021-09-08** — commented on [#552](https://github.com/google/ksp/issues/552#issuecomment-915299396) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-07** — commented on [#2349](https://github.com/google/dagger/issues/2349#issuecomment-914859156) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-09-07** — commented on [#16](https://github.com/ZacSweers/redacted-compiler-plugin/issues/16#issuecomment-914812615) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-09-07** — closed PR [#31](https://api.github.com/repos/slackhq/EitherNet/pulls/31) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API"
-
-**2021-09-07** — pushed [`8a130bf6`](https://github.com/slackhq/EitherNet/commit/8a130bf67c60283bf00d90b883fa748387acce08) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Simplify tags around plain OkHttp request/response rather than mixing + clean up API (#31)"
-
-**2021-09-07** — deleted branch "z/improvedTags" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
