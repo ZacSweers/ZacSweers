@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-09** — pushed [`7fa2d028`](https://github.com/slackhq/EitherNet/commit/7fa2d0281c4bb4c1f441e728429cc41bd287f0db) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add missing note"
+
 **2021-09-09** — pushed [`852d070a`](https://github.com/slackhq/EitherNet/commit/852d070a753631fe22751b5eac6d4c963fee11f1) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update CHANGELOG"
 
 **2021-09-09** — created tag "1.0.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-09** — created branch "z/removeDeprecation" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-09** — opened issue [#90](https://api.github.com/repos/slackhq/keeper/issues/90) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP variants API"
-
-**2021-09-09** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-916136607) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
