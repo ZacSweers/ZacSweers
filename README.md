@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-10** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-917159395) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-10** — pushed [`fbfe97c9`](https://github.com/ZacSweers/CatchUp/commit/fbfe97c92ad075a533fa32a11b4dbd284ba0f418) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update gradle.properties"
+
 **2021-09-10** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-916672240) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-10** — pushed [`624ef3d3`](https://github.com/ZacSweers/moshi/commit/624ef3d337cd75800cc266b885e2db7814a7beef) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Misc cleanups"
 
 **2021-09-10** — commented on [#618](https://github.com/google/ksp/issues/618#issuecomment-916652300) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-10** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-09-10** — opened issue [#621](https://api.github.com/repos/google/ksp/issues/621) on [google/ksp](https://api.github.com/repos/google/ksp): "`Descriptor wasn't found for declaration CLASS` when processing generated code in a later round"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
