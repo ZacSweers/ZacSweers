@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-10** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-916672240) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
 
 **2021-09-10** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-916663147) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-10** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2021-09-10** — opened issue [#621](https://api.github.com/repos/google/ksp/issues/621) on [google/ksp](https://api.github.com/repos/google/ksp): "`Descriptor wasn't found for declaration CLASS` when processing generated code in a later round"
-
-**2021-09-09** — pushed [`c2c4c7ae`](https://github.com/slackhq/EitherNet/commit/c2c4c7ae77cefd07133a525b8edcdf16118b3523) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Disable publish action in forked repository (#33)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
