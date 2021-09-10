@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
+
+**2021-09-10** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-916663147) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-10** — closed issue [#1389](https://api.github.com/repos/square/moshi/issues/1389) on [square/moshi](https://api.github.com/repos/square/moshi): "Suddenly json keys converted to alphabetic order. "
+
+**2021-09-10** — commented on [#1389](https://github.com/square/moshi/issues/1389#issuecomment-916662311) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-10** — pushed [`5226b3ca`](https://github.com/ZacSweers/moshi/commit/5226b3ca88a3890300527d8903f7976ca28cc9bd) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Extract and share Options"
+
+**2021-09-10** — pushed [`624ef3d3`](https://github.com/ZacSweers/moshi/commit/624ef3d337cd75800cc266b885e2db7814a7beef) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Misc cleanups"
+
+**2021-09-10** — commented on [#618](https://github.com/google/ksp/issues/618#issuecomment-916652300) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-10** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2021-09-10** — opened issue [#621](https://api.github.com/repos/google/ksp/issues/621) on [google/ksp](https://api.github.com/repos/google/ksp): "`Descriptor wasn't found for declaration CLASS` when processing generated code in a later round"
+
 **2021-09-09** — pushed [`c2c4c7ae`](https://github.com/slackhq/EitherNet/commit/c2c4c7ae77cefd07133a525b8edcdf16118b3523) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Disable publish action in forked repository (#33)"
-
-**2021-09-09** — closed PR [#33](https://api.github.com/repos/slackhq/EitherNet/pulls/33) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Disable publish action in forked repository"
-
-**2021-09-09** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-916595727) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-09** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-09-09** — pushed [`72e9da25`](https://github.com/ZacSweers/moshi/commit/72e9da254980fd3557b3c0a3a9b9f58bd2bb4b37) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
-
-**2021-09-09** — opened PR [#1393](https://api.github.com/repos/square/moshi/pulls/1393) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation"
-
-**2021-09-09** — created branch "z/upstreamKsp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-09-09** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-09-09** — pushed [`5756136a`](https://github.com/square/moshi/commit/5756136a727a8317a23bb9bbd013d888dad50606) to [square/moshi](https://api.github.com/repos/square/moshi): "Move apt-specific classes to apt package (#1392)"
-
-**2021-09-09** — deleted branch "z/aptSubpackage" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
