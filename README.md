@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-09** — pushed [`c2c4c7ae`](https://github.com/slackhq/EitherNet/commit/c2c4c7ae77cefd07133a525b8edcdf16118b3523) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Disable publish action in forked repository (#33)"
+
+**2021-09-09** — closed PR [#33](https://api.github.com/repos/slackhq/EitherNet/pulls/33) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Disable publish action in forked repository"
+
+**2021-09-09** — commented on [#1348](https://github.com/square/moshi/issues/1348#issuecomment-916595727) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-09** — pushed 2 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2021-09-09** — pushed [`72e9da25`](https://github.com/ZacSweers/moshi/commit/72e9da254980fd3557b3c0a3a9b9f58bd2bb4b37) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Spotless"
 
 **2021-09-09** — opened PR [#1393](https://api.github.com/repos/square/moshi/pulls/1393) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-09** — pushed [`5756136a`](https://github.com/square/moshi/commit/5756136a727a8317a23bb9bbd013d888dad50606) to [square/moshi](https://api.github.com/repos/square/moshi): "Move apt-specific classes to apt package (#1392)"
 
 **2021-09-09** — deleted branch "z/aptSubpackage" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-09-09** — closed PR [#1392](https://api.github.com/repos/square/moshi/pulls/1392) to [square/moshi](https://api.github.com/repos/square/moshi): "Move apt-specific classes to apt package"
-
-**2021-09-09** — opened PR [#1392](https://api.github.com/repos/square/moshi/pulls/1392) to [square/moshi](https://api.github.com/repos/square/moshi): "Move apt-specific classes to apt package"
-
-**2021-09-09** — created branch "z/aptSubpackage" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-09-09** — created branch "z/ksp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
