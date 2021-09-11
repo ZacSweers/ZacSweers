@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-11** — opened PR [#91](https://api.github.com/repos/slackhq/keeper/pulls/91) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 7 variant APIs"
+
+**2021-09-11** — created branch "z/agp71" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-09-11** — commented on [#196](https://github.com/tschuchortdev/kotlin-compile-testing/issues/196#issuecomment-917479907) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2021-09-11** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-917478557) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-09-11** — commented on [#90](https://github.com/slackhq/keeper/issues/90#issuecomment-917475695) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-09-11** — closed PR [#34](https://api.github.com/repos/slackhq/EitherNet/pulls/34) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Bump gradle to 7.2"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-11** — commented on [#35](https://github.com/slackhq/EitherNet/pull/35#issuecomment-917353636) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-11** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-917338798) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-10** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-917159395) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-10** — pushed [`fbfe97c9`](https://github.com/ZacSweers/CatchUp/commit/fbfe97c92ad075a533fa32a11b4dbd284ba0f418) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update gradle.properties"
-
-**2021-09-10** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-916672240) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
