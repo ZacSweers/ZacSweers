@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-11** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-917338798) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-10** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-917159395) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-09-10** — pushed [`fbfe97c9`](https://github.com/ZacSweers/CatchUp/commit/fbfe97c92ad075a533fa32a11b4dbd284ba0f418) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update gradle.properties"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-10** — pushed [`5226b3ca`](https://github.com/ZacSweers/moshi/commit/5226b3ca88a3890300527d8903f7976ca28cc9bd) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Extract and share Options"
 
 **2021-09-10** — pushed [`624ef3d3`](https://github.com/ZacSweers/moshi/commit/624ef3d337cd75800cc266b885e2db7814a7beef) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Misc cleanups"
-
-**2021-09-10** — commented on [#618](https://github.com/google/ksp/issues/618#issuecomment-916652300) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
