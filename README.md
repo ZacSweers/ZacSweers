@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-11** — closed PR [#34](https://api.github.com/repos/slackhq/EitherNet/pulls/34) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Bump gradle to 7.2"
+
+**2021-09-11** — commented on [#34](https://github.com/slackhq/EitherNet/pull/34#issuecomment-917353697) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-09-11** — closed PR [#35](https://api.github.com/repos/slackhq/EitherNet/pulls/35) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies"
+
+**2021-09-11** — commented on [#35](https://github.com/slackhq/EitherNet/pull/35#issuecomment-917353636) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-09-11** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-917338798) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-10** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-917159395) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
 
 **2021-09-10** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-916663147) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-10** — closed issue [#1389](https://api.github.com/repos/square/moshi/issues/1389) on [square/moshi](https://api.github.com/repos/square/moshi): "Suddenly json keys converted to alphabetic order. "
-
-**2021-09-10** — commented on [#1389](https://github.com/square/moshi/issues/1389#issuecomment-916662311) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-10** — pushed [`5226b3ca`](https://github.com/ZacSweers/moshi/commit/5226b3ca88a3890300527d8903f7976ca28cc9bd) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Extract and share Options"
-
-**2021-09-10** — pushed [`624ef3d3`](https://github.com/ZacSweers/moshi/commit/624ef3d337cd75800cc266b885e2db7814a7beef) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Misc cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
