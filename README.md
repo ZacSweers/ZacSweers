@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-11** — commented on [#90](https://github.com/slackhq/keeper/issues/90#issuecomment-917475695) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-09-11** — closed PR [#34](https://api.github.com/repos/slackhq/EitherNet/pulls/34) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Bump gradle to 7.2"
 
 **2021-09-11** — commented on [#34](https://github.com/slackhq/EitherNet/pull/34#issuecomment-917353697) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-10** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-916672240) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-09-10** — closed issue [#1349](https://api.github.com/repos/square/moshi/issues/1349) on [square/moshi](https://api.github.com/repos/square/moshi): "JsonReader.nextSource small documentation error"
-
-**2021-09-10** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-916663147) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
