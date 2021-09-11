@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-11** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
+
+**2021-09-11** — commented on [#646](https://github.com/square/moshi/issues/646#issuecomment-917486646) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-09-11** — opened PR [#91](https://api.github.com/repos/slackhq/keeper/pulls/91) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 7 variant APIs"
 
 **2021-09-11** — created branch "z/agp71" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-11** — commented on [#34](https://github.com/slackhq/EitherNet/pull/34#issuecomment-917353697) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-11** — closed PR [#35](https://api.github.com/repos/slackhq/EitherNet/pulls/35) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update dependencies"
-
-**2021-09-11** — commented on [#35](https://github.com/slackhq/EitherNet/pull/35#issuecomment-917353636) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-11** — commented on [#1140](https://github.com/square/kotlinpoet/pull/1140#issuecomment-917338798) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
