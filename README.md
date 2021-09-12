@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917692438) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917686097) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917685134) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-11** — pushed [`52cc3f23`](https://github.com/slackhq/keeper/commit/52cc3f234b6c1780e43b013fb4f3fe7ae847b4bc) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update test APIs"
 
 **2021-09-11** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-09-11** — commented on [#646](https://github.com/square/moshi/issues/646#issuecomment-917486646) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
