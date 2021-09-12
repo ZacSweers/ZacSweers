@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917686097) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917685134) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-12** — commented on [#91](https://github.com/slackhq/keeper/pull/91#issuecomment-917552612) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-09-11** — pushed [`6b03f177`](https://github.com/slackhq/keeper/commit/6b03f17738d7736bb7bd536dd5ac6fe2add0c3bb) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update configuration details"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-11** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 
 **2021-09-11** — commented on [#646](https://github.com/square/moshi/issues/646#issuecomment-917486646) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-11** — opened PR [#91](https://api.github.com/repos/slackhq/keeper/pulls/91) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new AGP 7 variant APIs"
-
-**2021-09-11** — created branch "z/agp71" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
