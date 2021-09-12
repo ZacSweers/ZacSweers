@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-12** — commented on [#1147](https://github.com/square/kotlinpoet/pull/1147#issuecomment-917710345) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — opened PR [#1147](https://api.github.com/repos/square/kotlinpoet/pulls/1147) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic JavaPoet interop module"
+
+**2021-09-12** — created branch "z/javaPoetInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — opened PR [#1146](https://api.github.com/repos/square/kotlinpoet/pulls/1146) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop"
+
+**2021-09-12** — pushed [`029c9ec1`](https://github.com/square/kotlinpoet/commit/029c9ec1d44400ac3aadeb85de2b0dc6d1f5b880) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make the API compileOnly"
+
+**2021-09-12** — created branch "z/kspInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917692438) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917686097) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917685134) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-12** — commented on [#91](https://github.com/slackhq/keeper/pull/91#issuecomment-917552612) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-09-11** — pushed [`6b03f177`](https://github.com/slackhq/keeper/commit/6b03f17738d7736bb7bd536dd5ac6fe2add0c3bb) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update configuration details"
-
-**2021-09-11** — opened issue [#92](https://api.github.com/repos/slackhq/keeper/issues/92) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Enable Spotless on the repo"
-
-**2021-09-11** — commented on [#91](https://github.com/slackhq/keeper/pull/91#issuecomment-917505739) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-09-11** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
-
-**2021-09-11** — pushed [`52cc3f23`](https://github.com/slackhq/keeper/commit/52cc3f234b6c1780e43b013fb4f3fe7ae847b4bc) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Update test APIs"
-
-**2021-09-11** — pushed 2 commits to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
