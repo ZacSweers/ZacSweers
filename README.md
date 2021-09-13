@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-13** — opened PR [#93](https://api.github.com/repos/slackhq/keeper/pulls/93) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Raise min Gradle version to 7.0"
+
+**2021-09-13** — created branch "z/raiseMinGradle" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
+**2021-09-13** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-918360683) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-13** — pushed [`9616b4a8`](https://github.com/ZacSweers/moshi/commit/9616b4a8870b1669b1f9738f45450b1a399a58a7) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix double extension in ProguardRules"
+
 **2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-918251352) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-09-13** — closed issue [#621](https://api.github.com/repos/google/ksp/issues/621) on [google/ksp](https://api.github.com/repos/google/ksp): "`Descriptor wasn't found for declaration CLASS` when processing generated code in a later round"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-13** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-917860631) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-13** — pushed [`fca49734`](https://github.com/square/kotlinpoet/commit/fca497341c05fc008afafe4486a7e5c2ff2e5590) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch out todo with error to avoid IDE hints"
-
-**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917856978) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-13** — opened PR [#1148](https://api.github.com/repos/square/kotlinpoet/pulls/1148) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic tests for KSP"
-
-**2021-09-13** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917847793) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
