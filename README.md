@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-13** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
+**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917847793) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-13** — created branch "z/kspTests" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-12** — commented on [#1147](https://github.com/square/kotlinpoet/pull/1147#issuecomment-917814140) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-12** — pushed [`9952ddcd`](https://github.com/square/kotlinpoet/commit/9952ddcd5095a1fd09c86b9fb07faa347a4c04f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop (#1146)"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-09-12** — commented on [#1146](https://github.com/square/kotlinpoet/pull/1146#issuecomment-917809562) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-09-12** — deleted branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — closed PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
