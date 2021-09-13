@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-13** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-917860631) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-13** — pushed [`fca49734`](https://github.com/square/kotlinpoet/commit/fca497341c05fc008afafe4486a7e5c2ff2e5590) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch out todo with error to avoid IDE hints"
+
+**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917856978) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-13** — opened PR [#1148](https://api.github.com/repos/square/kotlinpoet/pulls/1148) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic tests for KSP"
+
 **2021-09-13** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917847793) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-12** — pushed [`9952ddcd`](https://github.com/square/kotlinpoet/commit/9952ddcd5095a1fd09c86b9fb07faa347a4c04f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop (#1146)"
 
 **2021-09-12** — deleted branch "z/kspInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — closed PR [#1146](https://api.github.com/repos/square/kotlinpoet/pulls/1146) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop"
-
-**2021-09-12** — pushed [`8b4eda11`](https://github.com/square/kotlinpoet/commit/8b4eda1178d26cc1a14990789c547750899a5b11) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement wildcardtypename support"
-
-**2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-09-12** — commented on [#1146](https://github.com/square/kotlinpoet/pull/1146#issuecomment-917809562) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
