@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-12** — commented on [#1147](https://github.com/square/kotlinpoet/pull/1147#issuecomment-917814140) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — pushed [`9952ddcd`](https://github.com/square/kotlinpoet/commit/9952ddcd5095a1fd09c86b9fb07faa347a4c04f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop (#1146)"
+
+**2021-09-12** — deleted branch "z/kspInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — closed PR [#1146](https://api.github.com/repos/square/kotlinpoet/pulls/1146) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop"
+
+**2021-09-12** — pushed [`8b4eda11`](https://github.com/square/kotlinpoet/commit/8b4eda1178d26cc1a14990789c547750899a5b11) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement wildcardtypename support"
+
 **2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-09-12** — commented on [#1146](https://github.com/square/kotlinpoet/pull/1146#issuecomment-917809562) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-12** — deleted branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-12** — closed PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
-
-**2021-09-12** — commented on [#1054](https://github.com/square/kotlinpoet/pull/1054#issuecomment-917806805) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — pushed 13 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-09-12** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-917791134) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-12** — pushed [`a7eb5007`](https://github.com/square/moshi/commit/a7eb5007c539908137103bd27a2afa1bc0f1b7a8) to [square/moshi](https://api.github.com/repos/square/moshi): "(test) Try with 1.6 M1 from kotlin-dev repo"
-
-**2021-09-12** — pushed [`886506a9`](https://github.com/square/moshi/commit/886506a9b93f00f6fce6b25c1f5a1ea90bac73ee) to [square/moshi](https://api.github.com/repos/square/moshi): "(test) Try with 1.6 M1 from kotlin-dev repo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
