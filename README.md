@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-12** — commented on [#1147](https://github.com/square/kotlinpoet/pull/1147#issuecomment-917710345) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — pushed [`670787e3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/670787e3f29472b19058a260ead2ed912068784b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix"
 
-**2021-09-12** — opened PR [#1147](https://api.github.com/repos/square/kotlinpoet/pulls/1147) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic JavaPoet interop module"
+**2021-09-12** — pushed [`5bf557d1`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/5bf557d16a41f27b4954ce60c15ec2482d18ed22) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Add CI support for string concat"
 
-**2021-09-12** — created branch "z/javaPoetInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — pushed [`993f3b70`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/993f3b705adc49527e4016f0f699b8ae0993df0d) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove snapshots testing"
 
-**2021-09-12** — opened PR [#1146](https://api.github.com/repos/square/kotlinpoet/pulls/1146) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop"
+**2021-09-12** — opened PR [#57](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/57) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Modernize build a bit"
 
-**2021-09-12** — pushed [`029c9ec1`](https://github.com/square/kotlinpoet/commit/029c9ec1d44400ac3aadeb85de2b0dc6d1f5b880) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make the API compileOnly"
+**2021-09-12** — created branch "z/modernize" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-09-12** — created branch "z/kspInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917761734) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917692438) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — closed PR [#1145](https://api.github.com/repos/square/kotlinpoet/pulls/1145) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Rearrange kdoc of MemberName"
 
-**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917686097) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917759796) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917685134) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917757018) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-12** — commented on [#91](https://github.com/slackhq/keeper/pull/91#issuecomment-917552612) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-09-12** — commented on [#1145](https://github.com/square/kotlinpoet/pull/1145#issuecomment-917755663) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
