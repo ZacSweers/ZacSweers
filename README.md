@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
+**2021-09-12** — commented on [#1146](https://github.com/square/kotlinpoet/pull/1146#issuecomment-917809562) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
+**2021-09-12** — deleted branch "z/consolidatemetadata" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — closed PR [#1054](https://api.github.com/repos/square/kotlinpoet/pulls/1054) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate kotlinx-metadata artifacts into one"
+
+**2021-09-12** — commented on [#1054](https://github.com/square/kotlinpoet/pull/1054#issuecomment-917806805) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-12** — pushed 13 commits to [square/moshi](https://api.github.com/repos/square/moshi).
+
+**2021-09-12** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-917791134) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-09-12** — pushed [`a7eb5007`](https://github.com/square/moshi/commit/a7eb5007c539908137103bd27a2afa1bc0f1b7a8) to [square/moshi](https://api.github.com/repos/square/moshi): "(test) Try with 1.6 M1 from kotlin-dev repo"
 
 **2021-09-12** — pushed [`886506a9`](https://github.com/square/moshi/commit/886506a9b93f00f6fce6b25c1f5a1ea90bac73ee) to [square/moshi](https://api.github.com/repos/square/moshi): "(test) Try with 1.6 M1 from kotlin-dev repo"
-
-**2021-09-12** — pushed [`54927ec9`](https://github.com/square/kotlinpoet/commit/54927ec9ee44cd758641af2f2fed6f083ac7752a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update settings.gradle.kts"
-
-**2021-09-12** — pushed [`82cf431f`](https://github.com/square/kotlinpoet/commit/82cf431f46c63078388b472ea4e83226623fbcf7) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update interop/ksp/build.gradle.kts"
-
-**2021-09-12** — pushed [`2cfb33f6`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/2cfb33f6918852d515412742dcad5b417f3e8eeb) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix config"
-
-**2021-09-12** — pushed [`a38dc7a9`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/a38dc7a96eaa97f5f5aa4c276759d1427c0b39dd) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "API update"
-
-**2021-09-12** — opened PR [#58](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/58) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Test Kotlin 1.6.0-M1-8"
-
-**2021-09-12** — created branch "z/test16" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-09-12** — pushed [`1b2987b2`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/1b2987b2c9180752a1eefab21bf065edf2e210b2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix ref"
-
-**2021-09-12** — pushed [`88cf38cd`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/88cf38cd1155908967f1d25a00c9c2a2e077d4ec) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix ref"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
