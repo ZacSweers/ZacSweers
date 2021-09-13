@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-918251352) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-13** — closed issue [#621](https://api.github.com/repos/google/ksp/issues/621) on [google/ksp](https://api.github.com/repos/google/ksp): "`Descriptor wasn't found for declaration CLASS` when processing generated code in a later round"
+
+**2021-09-13** — pushed [`0bde8067`](https://github.com/ZacSweers/moshi/commit/0bde8067e929aeccfd3f6c1919076a47dadf6711) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Un-ignore tests and force latest KSP impl in tests"
+
+**2021-09-13** — pushed [`b0394bcb`](https://github.com/square/kotlinpoet/commit/b0394bcb3e0a517af5411d57112d3fe9dc1446a2) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix lower KSP dep in tests"
+
 **2021-09-13** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-917860631) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-13** — pushed [`fca49734`](https://github.com/square/kotlinpoet/commit/fca497341c05fc008afafe4486a7e5c2ff2e5590) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch out todo with error to avoid IDE hints"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-13** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-917847793) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-09-13** — created branch "z/kspTests" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — commented on [#1147](https://github.com/square/kotlinpoet/pull/1147#issuecomment-917814140) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-12** — pushed [`9952ddcd`](https://github.com/square/kotlinpoet/commit/9952ddcd5095a1fd09c86b9fb07faa347a4c04f0) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic KSP interop (#1146)"
-
-**2021-09-12** — deleted branch "z/kspInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
