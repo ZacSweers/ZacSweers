@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-13** — commented on [#621](https://github.com/google/ksp/issues/621#issuecomment-918456539) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-09-13** — pushed [`1220bf30`](https://github.com/slackhq/moshi-gson-interop/commit/1220bf30e58bb211c1c39bae8d4ff95ecc04f60d) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Suppress detekt issues"
 
 **2021-09-13** — opened PR [#34](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-13** — commented on [#91](https://github.com/slackhq/keeper/pull/91#issuecomment-918375974) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-09-13** — opened PR [#93](https://api.github.com/repos/slackhq/keeper/pulls/93) to [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Raise min Gradle version to 7.0"
-
-**2021-09-13** — created branch "z/raiseMinGradle" on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
