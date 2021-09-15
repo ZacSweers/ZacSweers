@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-15** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-919717460) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-09-15** — opened PR [#1150](https://api.github.com/repos/square/kotlinpoet/pulls/1150) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs"
 
 **2021-09-15** — created branch "z/jpDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-15** — closed PR [#1147](https://api.github.com/repos/square/kotlinpoet/pulls/1147) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic JavaPoet interop module"
 
 **2021-09-15** — deleted branch "z/javaPoetInterop" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-15** — closed issue [#417](https://api.github.com/repos/square/kotlinpoet/issues/417) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "JavaPoet Interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
