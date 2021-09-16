@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-15** — opened PR [#169](https://api.github.com/repos/runningcode/gradle-doctor/pulls/169) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Use java.specification.version for java version"
+
+**2021-09-15** — pushed [`d90140b2`](https://github.com/ZacSweers/gradle-doctor/commit/d90140b27dca6b3751c0df0cce32340a9cde46fa) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Use java.specification.version for java version"
+
 **2021-09-15** — opened issue [#168](https://api.github.com/repos/runningcode/gradle-doctor/issues/168) on [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Testing with Java 17-ea results in an exception"
 
 **2021-09-15** — closed PR [#459](https://api.github.com/repos/uber/AutoDispose/pulls/459) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Koustubh Modified"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-15** — pushed [`abfbbf2b`](https://github.com/square/kotlinpoet/commit/abfbbf2b1607ff66a781f7be265c1411e9bbee2c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix mkdoc ref"
 
 **2021-09-15** — opened PR [#1149](https://api.github.com/repos/square/kotlinpoet/pulls/1149) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs"
-
-**2021-09-15** — created branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-15** — pushed [`0d1030d6`](https://github.com/square/kotlinpoet/commit/0d1030d6c71d41213555b560868604a4bfd23361) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic JavaPoet interop module (#1147)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
