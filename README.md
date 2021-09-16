@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-16** — pushed [`f368e5c1`](https://github.com/square/kotlinpoet/commit/f368e5c14ec21ad9ed5232071d5e6551f869fd3b) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs (#1150)"
+
+**2021-09-16** — deleted branch "z/jpDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-16** — closed PR [#1150](https://api.github.com/repos/square/kotlinpoet/pulls/1150) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs"
+
+**2021-09-16** — pushed [`39834a77`](https://github.com/square/kotlinpoet/commit/39834a7752af5ae332eb9f4a52399b2892d412a1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix ref"
+
+**2021-09-16** — pushed [`3afababd`](https://github.com/square/kotlinpoet/commit/3afababd17e940c980168732e021a3e75dab8dad) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Tweak formatting"
+
+**2021-09-16** — pushed [`5444f85f`](https://github.com/square/kotlinpoet/commit/5444f85f9fe6a329717043c3233abecd5c8181a7) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
+
+**2021-09-16** — pushed [`64823839`](https://github.com/square/kotlinpoet/commit/64823839df885173060924efbb3fbdd922ad0f50) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
+
 **2021-09-15** — opened PR [#169](https://api.github.com/repos/runningcode/gradle-doctor/pulls/169) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Use java.specification.version for java version"
 
 **2021-09-15** — pushed [`d90140b2`](https://github.com/ZacSweers/gradle-doctor/commit/d90140b27dca6b3751c0df0cce32340a9cde46fa) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Use java.specification.version for java version"
 
 **2021-09-15** — opened issue [#168](https://api.github.com/repos/runningcode/gradle-doctor/issues/168) on [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Testing with Java 17-ea results in an exception"
-
-**2021-09-15** — closed PR [#459](https://api.github.com/repos/uber/AutoDispose/pulls/459) to [uber/AutoDispose](https://api.github.com/repos/uber/AutoDispose): "Koustubh Modified"
-
-**2021-09-15** — commented on [#2831](https://github.com/google/dagger/pull/2831#issuecomment-919717460) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-09-15** — opened PR [#1150](https://api.github.com/repos/square/kotlinpoet/pulls/1150) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs"
-
-**2021-09-15** — created branch "z/jpDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-15** — pushed [`1ec28e5a`](https://github.com/square/kotlinpoet/commit/1ec28e5ad5f51b7ddbce6411555d39cd39ce4657) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add back html API ref"
-
-**2021-09-15** — pushed [`abfbbf2b`](https://github.com/square/kotlinpoet/commit/abfbbf2b1607ff66a781f7be265c1411e9bbee2c) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix mkdoc ref"
-
-**2021-09-15** — opened PR [#1149](https://api.github.com/repos/square/kotlinpoet/pulls/1149) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
