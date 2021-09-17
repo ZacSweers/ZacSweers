@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-17** — pushed [`b45df6a1`](https://github.com/slackhq/EitherNet/commit/b45df6a12a3703aa83c73b735c2470a8c4552e9e) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add docs to README"
+
+**2021-09-17** — opened PR [#36](https://api.github.com/repos/slackhq/EitherNet/pulls/36) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Upstream EitherNetControllers API as test fixtures"
+
+**2021-09-17** — pushed [`4dc915f7`](https://github.com/slackhq/EitherNet/commit/4dc915f7a92b98d624442d295056a5f7b5743757) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update API"
+
+**2021-09-17** — created branch "z/fixtures" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-09-16** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-921424697) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-09-16** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-921423761) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-16** — commented on [#593](https://github.com/google/ksp/issues/593#issuecomment-921404220) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-09-16** — deleted branch "z/generated" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-16** — pushed [`6ca41739`](https://github.com/ZacSweers/MoshiX/commit/6ca41739a2507cce9556b0e115aa004121f64cdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11 (#158)"
-
-**2021-09-16** — closed PR [#158](https://api.github.com/repos/ZacSweers/MoshiX/pulls/158) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11"
-
-**2021-09-16** — opened PR [#158](https://api.github.com/repos/ZacSweers/MoshiX/pulls/158) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11"
-
-**2021-09-16** — created branch "z/generated" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
