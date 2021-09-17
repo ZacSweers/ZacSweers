@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-16** — pushed 18 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
+**2021-09-16** — commented on [#593](https://github.com/google/ksp/issues/593#issuecomment-921404220) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-09-16** — deleted branch "z/generated" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-09-16** — pushed [`6ca41739`](https://github.com/ZacSweers/MoshiX/commit/6ca41739a2507cce9556b0e115aa004121f64cdd) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11 (#158)"
+
+**2021-09-16** — closed PR [#158](https://api.github.com/repos/ZacSweers/MoshiX/pulls/158) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11"
+
+**2021-09-16** — opened PR [#158](https://api.github.com/repos/ZacSweers/MoshiX/pulls/158) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11"
+
+**2021-09-16** — created branch "z/generated" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-09-16** — opened issue [#6721](https://api.github.com/repos/robolectric/robolectric/issues/6721) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work with JDK 17"
+
 **2021-09-16** — pushed [`d0fcadcc`](https://github.com/square/kotlinpoet/commit/d0fcadcccc8353b50e84ef0d90a7f57732ee6c9a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs (#1149)"
 
 **2021-09-16** — deleted branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-16** — closed PR [#1149](https://api.github.com/repos/square/kotlinpoet/pulls/1149) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs"
-
-**2021-09-16** — pushed 6 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-09-16** — pushed [`f368e5c1`](https://github.com/square/kotlinpoet/commit/f368e5c14ec21ad9ed5232071d5e6551f869fd3b) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs (#1150)"
-
-**2021-09-16** — deleted branch "z/jpDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-16** — closed PR [#1150](https://api.github.com/repos/square/kotlinpoet/pulls/1150) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs"
-
-**2021-09-16** — pushed [`39834a77`](https://github.com/square/kotlinpoet/commit/39834a7752af5ae332eb9f4a52399b2892d412a1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix ref"
-
-**2021-09-16** — pushed [`3afababd`](https://github.com/square/kotlinpoet/commit/3afababd17e940c980168732e021a3e75dab8dad) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Tweak formatting"
-
-**2021-09-16** — pushed [`5444f85f`](https://github.com/square/kotlinpoet/commit/5444f85f9fe6a329717043c3233abecd5c8181a7) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
