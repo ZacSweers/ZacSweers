@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-16** — pushed [`d0fcadcc`](https://github.com/square/kotlinpoet/commit/d0fcadcccc8353b50e84ef0d90a7f57732ee6c9a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs (#1149)"
+
+**2021-09-16** — deleted branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-16** — closed PR [#1149](https://api.github.com/repos/square/kotlinpoet/pulls/1149) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs"
+
+**2021-09-16** — pushed 6 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-09-16** — pushed [`f368e5c1`](https://github.com/square/kotlinpoet/commit/f368e5c14ec21ad9ed5232071d5e6551f869fd3b) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add JavaPoet interop docs (#1150)"
 
 **2021-09-16** — deleted branch "z/jpDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-16** — pushed [`3afababd`](https://github.com/square/kotlinpoet/commit/3afababd17e940c980168732e021a3e75dab8dad) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Tweak formatting"
 
 **2021-09-16** — pushed [`5444f85f`](https://github.com/square/kotlinpoet/commit/5444f85f9fe6a329717043c3233abecd5c8181a7) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
-
-**2021-09-16** — pushed [`64823839`](https://github.com/square/kotlinpoet/commit/64823839df885173060924efbb3fbdd922ad0f50) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Apply suggestions from code review"
-
-**2021-09-15** — opened PR [#169](https://api.github.com/repos/runningcode/gradle-doctor/pulls/169) to [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Use java.specification.version for java version"
-
-**2021-09-15** — pushed [`d90140b2`](https://github.com/ZacSweers/gradle-doctor/commit/d90140b27dca6b3751c0df0cce32340a9cde46fa) to [ZacSweers/gradle-doctor](https://api.github.com/repos/ZacSweers/gradle-doctor): "Use java.specification.version for java version"
-
-**2021-09-15** — opened issue [#168](https://api.github.com/repos/runningcode/gradle-doctor/issues/168) on [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Testing with Java 17-ea results in an exception"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
