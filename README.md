@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-16** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-921424697) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
+**2021-09-16** — commented on [#1148](https://github.com/square/kotlinpoet/pull/1148#issuecomment-921423761) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-16** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-09-16** — pushed 18 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-09-16** — commented on [#593](https://github.com/google/ksp/issues/593#issuecomment-921404220) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-16** — opened PR [#158](https://api.github.com/repos/ZacSweers/MoshiX/pulls/158) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add back generated and default to 11"
 
 **2021-09-16** — created branch "z/generated" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-16** — opened issue [#6721](https://api.github.com/repos/robolectric/robolectric/issues/6721) on [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric): "Robolectric does not work with JDK 17"
-
-**2021-09-16** — pushed [`d0fcadcc`](https://github.com/square/kotlinpoet/commit/d0fcadcccc8353b50e84ef0d90a7f57732ee6c9a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add KSP docs (#1149)"
-
-**2021-09-16** — deleted branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
