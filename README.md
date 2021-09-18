@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-17** — opened PR [#1151](https://api.github.com/repos/square/kotlinpoet/pulls/1151) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop"
+
+**2021-09-17** — created branch "z/consolidateInteropV2" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-17** — pushed [`e8ce40dc`](https://github.com/slackhq/EitherNet/commit/e8ce40dcddd4d6705041305426be888af11d5abd) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Upstream EitherNetControllers API as test fixtures (#36)"
 
 **2021-09-17** — deleted branch "z/fixtures" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-17** — closed PR [#1148](https://api.github.com/repos/square/kotlinpoet/pulls/1148) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic tests for KSP"
 
 **2021-09-17** — pushed [`f8e4b9ed`](https://github.com/square/kotlinpoet/commit/f8e4b9ed17ef7724db236f21f24cc687641e231b) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Copyright"
-
-**2021-09-17** — pushed [`be05dd70`](https://github.com/slackhq/EitherNet/commit/be05dd703010983836f748ed8a4030fb56a66862) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add validator information"
-
-**2021-09-17** — pushed [`b45df6a1`](https://github.com/slackhq/EitherNet/commit/b45df6a12a3703aa83c73b735c2470a8c4552e9e) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add docs to README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
