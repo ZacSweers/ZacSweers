@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — deleted branch "z/kp1100" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-09-20** — pushed [`de8bbf12`](https://github.com/square/moshi/commit/de8bbf12f5ed45015c11f8e4fe03b383e8d60f78) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0 (#1396)"
+
+**2021-09-20** — closed PR [#1396](https://api.github.com/repos/square/moshi/pulls/1396) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0"
+
 **2021-09-20** — commented on [#1161](https://github.com/square/kotlinpoet/pull/1161#issuecomment-923218287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-20** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-20** — opened PR [#27](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/27) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
 **2021-09-20** — opened PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
-
-**2021-09-20** — created branch "z/kpksp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-20** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-09-20** — pushed [`0116b794`](https://github.com/ZacSweers/moshi/commit/0116b794616ebd99353828040f6e75dbf98c26cc) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add guava dep for autocommon"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
