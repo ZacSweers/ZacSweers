@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-20** — closed PR [#1140](https://api.github.com/repos/square/kotlinpoet/pulls/1140) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Allow copying a ParameterizedTypeName with new type arguments"
+**2021-09-20** — opened issue [#1156](https://api.github.com/repos/square/kotlinpoet/issues/1156) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "1.10.0 release notes prep"
 
-**2021-09-20** — pushed [`6d2f2e4f`](https://github.com/square/kotlinpoet/commit/6d2f2e4f24c85f6ba3f19a49fe1f3637a5be78c1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Allow copying a ParameterizedTypeName with new type arguments (#1140)"
+**2021-09-20** — opened PR [#1155](https://api.github.com/repos/square/kotlinpoet/pulls/1155) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin, Dokka, and Spotless to latest"
 
-**2021-09-20** — closed issue [#1139](https://api.github.com/repos/square/kotlinpoet/issues/1139) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Support copying a ParameterizedTypeName with different type arguments"
+**2021-09-20** — created branch "z/updateDependencies" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-922985226) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — pushed [`575c4691`](https://github.com/square/kotlinpoet/commit/575c4691c62685fc290c3888725491d7ba18859a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP (#1152)"
 
-**2021-09-20** — deleted branch "z/reproJavaxIssue" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-09-20** — deleted branch "z/TypeNameAliasTag" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — closed PR [#150](https://api.github.com/repos/ZacSweers/MoshiX/pulls/150) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Repro missing Generated annotation"
+**2021-09-20** — closed PR [#1152](https://api.github.com/repos/square/kotlinpoet/pulls/1152) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP"
 
-**2021-09-20** — pushed [`8b080e3e`](https://github.com/ZacSweers/MoshiX/commit/8b080e3ed996dd19f8833a139f11eb52c1775b25) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17 (#159)"
+**2021-09-20** — pushed 6 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
-**2021-09-20** — deleted branch "z/jdk17" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-09-20** — pushed [`ce6c8731`](https://github.com/square/kotlinpoet/commit/ce6c873198d90ea07100daf1ede5b56d515e21df) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop (#1151)"
 
-**2021-09-20** — closed PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
+**2021-09-20** — deleted branch "z/consolidateInteropV2" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — commented on [#1394](https://github.com/square/moshi/pull/1394#issuecomment-922658271) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-20** — closed PR [#1151](https://api.github.com/repos/square/kotlinpoet/pulls/1151) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
