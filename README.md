@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-20** — opened PR [#1396](https://api.github.com/repos/square/moshi/pulls/1396) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0"
+**2021-09-20** — commented on [#1161](https://github.com/square/kotlinpoet/pull/1161#issuecomment-923218287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — created branch "z/kp1100" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+**2021-09-20** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-09-20** — opened PR [#1160](https://api.github.com/repos/square/kotlinpoet/pulls/1160) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Mention removal of immutables in changelog"
+**2021-09-20** — closed PR [#27](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/27) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
-**2021-09-20** — created branch "z/removeImmutables" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — pushed [`02bc8dab`](https://github.com/ZacSweers/auto-service-ksp/commit/02bc8dab237e6d5503e11074694841ad0090da44) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#27)"
 
-**2021-09-20** — commented on [#1395](https://github.com/square/moshi/issues/1395#issuecomment-923124257) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-20** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-20** — commented on [#1156](https://github.com/square/kotlinpoet/issues/1156#issuecomment-923123245) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — opened PR [#27](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/27) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
 
-**2021-09-20** — pushed [`536f93c5`](https://github.com/square/kotlinpoet/commit/536f93c563fad1e0355aedf366d095155fa9ed78) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs (#1159)"
+**2021-09-20** — opened PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
 
-**2021-09-20** — deleted branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — created branch "z/kpksp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-09-20** — closed PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
+**2021-09-20** — created branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
 
-**2021-09-20** — opened PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
+**2021-09-20** — pushed [`0116b794`](https://github.com/ZacSweers/moshi/commit/0116b794616ebd99353828040f6e75dbf98c26cc) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Add guava dep for autocommon"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
