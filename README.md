@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — opened PR [#1396](https://api.github.com/repos/square/moshi/pulls/1396) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0"
+
+**2021-09-20** — created branch "z/kp1100" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-09-20** — opened PR [#1160](https://api.github.com/repos/square/kotlinpoet/pulls/1160) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Mention removal of immutables in changelog"
+
+**2021-09-20** — created branch "z/removeImmutables" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-20** — commented on [#1395](https://github.com/square/moshi/issues/1395#issuecomment-923124257) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-09-20** — commented on [#1156](https://github.com/square/kotlinpoet/issues/1156#issuecomment-923123245) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-20** — closed PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
 
 **2021-09-20** — opened PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
-
-**2021-09-20** — created branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-20** — opened PR [#1157](https://api.github.com/repos/square/kotlinpoet/pulls/1157) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add repro case for #1076"
-
-**2021-09-20** — created branch "z/typeNamesLines" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-20** — commented on [#1076](https://github.com/square/kotlinpoet/issues/1076#issuecomment-923108033) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
