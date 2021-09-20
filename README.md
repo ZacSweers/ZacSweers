@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-922985226) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-20** — deleted branch "z/reproJavaxIssue" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-09-20** — closed PR [#150](https://api.github.com/repos/ZacSweers/MoshiX/pulls/150) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Repro missing Generated annotation"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-20** — opened PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
 
 **2021-09-20** — created branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-20** — created branch "z/jdk17" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
