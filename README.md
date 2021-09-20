@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-20** — opened issue [#1156](https://api.github.com/repos/square/kotlinpoet/issues/1156) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "1.10.0 release notes prep"
+**2021-09-20** — commented on [#1395](https://github.com/square/moshi/issues/1395#issuecomment-923124257) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-20** — opened PR [#1155](https://api.github.com/repos/square/kotlinpoet/pulls/1155) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update Kotlin, Dokka, and Spotless to latest"
+**2021-09-20** — commented on [#1156](https://github.com/square/kotlinpoet/issues/1156#issuecomment-923123245) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — created branch "z/updateDependencies" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — pushed [`536f93c5`](https://github.com/square/kotlinpoet/commit/536f93c563fad1e0355aedf366d095155fa9ed78) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs (#1159)"
 
-**2021-09-20** — pushed [`575c4691`](https://github.com/square/kotlinpoet/commit/575c4691c62685fc290c3888725491d7ba18859a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP (#1152)"
+**2021-09-20** — deleted branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — deleted branch "z/TypeNameAliasTag" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — closed PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
 
-**2021-09-20** — closed PR [#1152](https://api.github.com/repos/square/kotlinpoet/pulls/1152) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP"
+**2021-09-20** — opened PR [#1159](https://api.github.com/repos/square/kotlinpoet/pulls/1159) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add a couple tweaks to interop-ksp docs"
 
-**2021-09-20** — pushed 6 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+**2021-09-20** — created branch "z/kspDocs" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — pushed [`ce6c8731`](https://github.com/square/kotlinpoet/commit/ce6c873198d90ea07100daf1ede5b56d515e21df) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop (#1151)"
+**2021-09-20** — opened PR [#1157](https://api.github.com/repos/square/kotlinpoet/pulls/1157) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add repro case for #1076"
 
-**2021-09-20** — deleted branch "z/consolidateInteropV2" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — created branch "z/typeNamesLines" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-20** — closed PR [#1151](https://api.github.com/repos/square/kotlinpoet/pulls/1151) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop"
+**2021-09-20** — commented on [#1076](https://github.com/square/kotlinpoet/issues/1076#issuecomment-923108033) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
