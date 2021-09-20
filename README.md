@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — closed PR [#1140](https://api.github.com/repos/square/kotlinpoet/pulls/1140) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Allow copying a ParameterizedTypeName with new type arguments"
+
+**2021-09-20** — pushed [`6d2f2e4f`](https://github.com/square/kotlinpoet/commit/6d2f2e4f24c85f6ba3f19a49fe1f3637a5be78c1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Allow copying a ParameterizedTypeName with new type arguments (#1140)"
+
+**2021-09-20** — closed issue [#1139](https://api.github.com/repos/square/kotlinpoet/issues/1139) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Support copying a ParameterizedTypeName with different type arguments"
+
 **2021-09-20** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-922985226) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-20** — deleted branch "z/reproJavaxIssue" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-20** — closed PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
 
 **2021-09-20** — commented on [#1394](https://github.com/square/moshi/pull/1394#issuecomment-922658271) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-20** — opened PR [#1394](https://api.github.com/repos/square/moshi/pulls/1394) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17"
-
-**2021-09-20** — opened PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
-
-**2021-09-20** — created branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
