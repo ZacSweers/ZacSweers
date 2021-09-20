@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-20** — pushed [`44b80834`](https://github.com/square/kotlinpoet/commit/44b8083479db62db8d5faf558dd27e43ac41a2fe) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "I am once again asking IntelliJ to actually rename imports"
+**2021-09-20** — deleted branch "z/reproJavaxIssue" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-09-20** — commented on [#1152](https://github.com/square/kotlinpoet/pull/1152#issuecomment-922623322) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — closed PR [#150](https://api.github.com/repos/ZacSweers/MoshiX/pulls/150) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Repro missing Generated annotation"
 
-**2021-09-20** — opened PR [#1152](https://api.github.com/repos/square/kotlinpoet/pulls/1152) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP"
+**2021-09-20** — pushed [`8b080e3e`](https://github.com/ZacSweers/MoshiX/commit/8b080e3ed996dd19f8833a139f11eb52c1775b25) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17 (#159)"
 
-**2021-09-20** — created branch "z/TypeNameAliasTag" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — deleted branch "z/jdk17" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-09-18** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-922330337) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — closed PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
 
-**2021-09-18** — pushed [`fb5c62eb`](https://github.com/square/kotlinpoet/commit/fb5c62ebf516764465dc0b8ec53e23f636c0bf13) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Doc fixes"
+**2021-09-20** — commented on [#1394](https://github.com/square/moshi/pull/1394#issuecomment-922658271) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-17** — opened PR [#1151](https://api.github.com/repos/square/kotlinpoet/pulls/1151) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consolidate and simplify kotlinx-metadata interop"
+**2021-09-20** — opened PR [#1394](https://api.github.com/repos/square/moshi/pulls/1394) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17"
 
-**2021-09-17** — created branch "z/consolidateInteropV2" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-20** — opened PR [#159](https://api.github.com/repos/ZacSweers/MoshiX/pulls/159) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to JDK 17"
 
-**2021-09-17** — pushed [`e8ce40dc`](https://github.com/slackhq/EitherNet/commit/e8ce40dcddd4d6705041305426be888af11d5abd) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Upstream EitherNetControllers API as test fixtures (#36)"
+**2021-09-20** — created branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-17** — deleted branch "z/fixtures" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2021-09-20** — created branch "z/jdk17" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
