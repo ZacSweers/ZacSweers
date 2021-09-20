@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-20** — pushed [`44b80834`](https://github.com/square/kotlinpoet/commit/44b8083479db62db8d5faf558dd27e43ac41a2fe) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "I am once again asking IntelliJ to actually rename imports"
+
+**2021-09-20** — commented on [#1152](https://github.com/square/kotlinpoet/pull/1152#issuecomment-922623322) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-20** — opened PR [#1152](https://api.github.com/repos/square/kotlinpoet/pulls/1152) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unify `TypeAliasTag` API between metadata and KSP"
+
+**2021-09-20** — created branch "z/TypeNameAliasTag" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-18** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-922330337) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-18** — pushed [`fb5c62eb`](https://github.com/square/kotlinpoet/commit/fb5c62ebf516764465dc0b8ec53e23f636c0bf13) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Doc fixes"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-17** — pushed [`e8ce40dc`](https://github.com/slackhq/EitherNet/commit/e8ce40dcddd4d6705041305426be888af11d5abd) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Upstream EitherNetControllers API as test fixtures (#36)"
 
 **2021-09-17** — deleted branch "z/fixtures" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-17** — closed PR [#36](https://api.github.com/repos/slackhq/EitherNet/pulls/36) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Upstream EitherNetControllers API as test fixtures"
-
-**2021-09-17** — opened issue [#71](https://api.github.com/repos/JetBrains-Research/reflekt/issues/71) on [JetBrains-Research/reflekt](https://api.github.com/repos/JetBrains-Research/reflekt): "Feature request: support retrieving sealed subclasses"
-
-**2021-09-17** — pushed [`b42fa6d7`](https://github.com/square/kotlinpoet/commit/b42fa6d75656881fc6975e455e9d7498319f3858) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic tests for KSP (#1148)"
-
-**2021-09-17** — deleted branch "z/kspTests" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
