@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-21** — closed issue [#1397](https://api.github.com/repos/square/moshi/issues/1397) on [square/moshi](https://api.github.com/repos/square/moshi): "Deserialize sealed Class not working as expected"
+
+**2021-09-21** — commented on [#1397](https://github.com/square/moshi/issues/1397#issuecomment-924089216) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-09-21** — deleted branch "z/missingresolver" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-21** — pushed [`d5eed920`](https://github.com/square/kotlinpoet/commit/d5eed920c7ca5cb12a3e8e83df5fbd299ea593f9) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY (#1163)"
+
+**2021-09-21** — closed PR [#1163](https://api.github.com/repos/square/kotlinpoet/pulls/1163) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY"
+
 **2021-09-21** — opened PR [#1163](https://api.github.com/repos/square/kotlinpoet/pulls/1163) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY"
 
 **2021-09-21** — created branch "z/missingresolver" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — closed PR [#1162](https://api.github.com/repos/square/kotlinpoet/pulls/1162) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Correct generation of typealiases with type args"
 
 **2021-09-21** — pushed [`b6d718d0`](https://github.com/evant/kotlinpoet/commit/b6d718d0952c55cc91ad1f6decbb87e610906966) to [evant/kotlinpoet](https://api.github.com/repos/evant/kotlinpoet): "Split internal/public"
-
-**2021-09-20** — deleted branch "z/kp1100" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-09-20** — pushed [`de8bbf12`](https://github.com/square/moshi/commit/de8bbf12f5ed45015c11f8e4fe03b383e8d60f78) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0 (#1396)"
-
-**2021-09-20** — closed PR [#1396](https://api.github.com/repos/square/moshi/pulls/1396) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0"
-
-**2021-09-20** — commented on [#1161](https://github.com/square/kotlinpoet/pull/1161#issuecomment-923218287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-20** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
