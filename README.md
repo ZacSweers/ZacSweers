@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-21** — opened PR [#1163](https://api.github.com/repos/square/kotlinpoet/pulls/1163) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY"
+
+**2021-09-21** — created branch "z/missingresolver" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-21** — pushed [`9d378ff4`](https://github.com/square/kotlinpoet/commit/9d378ff431ff68d5300c5829e85602f3d1ff3eb8) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Correct generation of typealiases with type args (#1162)"
+
+**2021-09-21** — closed PR [#1162](https://api.github.com/repos/square/kotlinpoet/pulls/1162) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Correct generation of typealiases with type args"
+
+**2021-09-21** — pushed [`b6d718d0`](https://github.com/evant/kotlinpoet/commit/b6d718d0952c55cc91ad1f6decbb87e610906966) to [evant/kotlinpoet](https://api.github.com/repos/evant/kotlinpoet): "Split internal/public"
+
 **2021-09-20** — deleted branch "z/kp1100" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
 **2021-09-20** — pushed [`de8bbf12`](https://github.com/square/moshi/commit/de8bbf12f5ed45015c11f8e4fe03b383e8d60f78) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0 (#1396)"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-20** — commented on [#1161](https://github.com/square/kotlinpoet/pull/1161#issuecomment-923218287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-20** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-09-20** — closed PR [#27](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/27) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
-
-**2021-09-20** — pushed [`02bc8dab`](https://github.com/ZacSweers/auto-service-ksp/commit/02bc8dab237e6d5503e11074694841ad0090da44) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies (#27)"
-
-**2021-09-20** — deleted branch "z/updates" on [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp)
-
-**2021-09-20** — opened PR [#27](https://api.github.com/repos/ZacSweers/auto-service-ksp/pulls/27) to [ZacSweers/auto-service-ksp](https://api.github.com/repos/ZacSweers/auto-service-ksp): "Update dependencies"
-
-**2021-09-20** — opened PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
