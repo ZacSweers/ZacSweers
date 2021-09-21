@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-21** — pushed [`2ff6eec2`](https://github.com/ZacSweers/MoshiX/commit/2ff6eec2208757fdfed10ac0fd94e9f129f1d008) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update + deep copy"
+
 **2021-09-21** — closed issue [#1397](https://api.github.com/repos/square/moshi/issues/1397) on [square/moshi](https://api.github.com/repos/square/moshi): "Deserialize sealed Class not working as expected"
 
 **2021-09-21** — commented on [#1397](https://github.com/square/moshi/issues/1397#issuecomment-924089216) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — pushed [`9d378ff4`](https://github.com/square/kotlinpoet/commit/9d378ff431ff68d5300c5829e85602f3d1ff3eb8) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Correct generation of typealiases with type args (#1162)"
 
 **2021-09-21** — closed PR [#1162](https://api.github.com/repos/square/kotlinpoet/pulls/1162) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Correct generation of typealiases with type args"
-
-**2021-09-21** — pushed [`b6d718d0`](https://github.com/evant/kotlinpoet/commit/b6d718d0952c55cc91ad1f6decbb87e610906966) to [evant/kotlinpoet](https://api.github.com/repos/evant/kotlinpoet): "Split internal/public"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
