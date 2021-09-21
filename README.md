@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-21** — pushed [`0612cc51`](https://github.com/ZacSweers/MoshiX/commit/0612cc517ec5c496d504da9513e8493128045228) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
+
+**2021-09-21** — created tag "0.14.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-09-21** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
 **2021-09-21** — commented on [#16857](https://github.com/gradle/gradle/issues/16857#issuecomment-924308482) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-09-21** — closed PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — closed issue [#1397](https://api.github.com/repos/square/moshi/issues/1397) on [square/moshi](https://api.github.com/repos/square/moshi): "Deserialize sealed Class not working as expected"
 
 **2021-09-21** — commented on [#1397](https://github.com/square/moshi/issues/1397#issuecomment-924089216) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-21** — deleted branch "z/missingresolver" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-21** — pushed [`d5eed920`](https://github.com/square/kotlinpoet/commit/d5eed920c7ca5cb12a3e8e83df5fbd299ea593f9) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY (#1163)"
-
-**2021-09-21** — closed PR [#1163](https://api.github.com/repos/square/kotlinpoet/pulls/1163) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add missing default TypeParameterResolver.EMPTY"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
