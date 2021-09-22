@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-21** — commented on [#1164](https://github.com/square/kotlinpoet/pull/1164#issuecomment-924535087) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-21** — pushed [`0612cc51`](https://github.com/ZacSweers/MoshiX/commit/0612cc517ec5c496d504da9513e8493128045228) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
 
 **2021-09-21** — created tag "0.14.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — pushed [`2ff6eec2`](https://github.com/ZacSweers/MoshiX/commit/2ff6eec2208757fdfed10ac0fd94e9f129f1d008) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update + deep copy"
 
 **2021-09-21** — closed issue [#1397](https://api.github.com/repos/square/moshi/issues/1397) on [square/moshi](https://api.github.com/repos/square/moshi): "Deserialize sealed Class not working as expected"
-
-**2021-09-21** — commented on [#1397](https://github.com/square/moshi/issues/1397#issuecomment-924089216) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
