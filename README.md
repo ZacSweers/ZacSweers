@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-24** — pushed [`3a004f7f`](https://github.com/square/moshi/commit/3a004f7fd8ec18c819a92afcd42fb59a6ee73191) to [square/moshi](https://api.github.com/repos/square/moshi): "One more fix"
+
+**2021-09-24** — pushed [`cf901d87`](https://github.com/square/moshi/commit/cf901d87fe47bf7a9fa7447b1acf1de9578bf8e6) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix CI versions"
+
+**2021-09-24** — pushed [`95109d80`](https://github.com/square/moshi/commit/95109d803c4a90deb462624c695ca8ddf0177f57) to [square/moshi](https://api.github.com/repos/square/moshi): "Rewire CI for 1.6 milestone"
+
+**2021-09-24** — pushed 12 commits to [square/moshi](https://api.github.com/repos/square/moshi).
+
+**2021-09-24** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2021-09-24** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-926335055) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-22** — created tag "1.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — commented on [#1164](https://github.com/square/kotlinpoet/pull/1164#issuecomment-924535087) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-21** — pushed [`0612cc51`](https://github.com/ZacSweers/MoshiX/commit/0612cc517ec5c496d504da9513e8493128045228) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Spotless"
-
-**2021-09-21** — created tag "0.14.1" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-09-21** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-09-21** — commented on [#16857](https://github.com/gradle/gradle/issues/16857#issuecomment-924308482) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-09-21** — closed PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
-
-**2021-09-21** — pushed [`92972738`](https://github.com/ZacSweers/MoshiX/commit/9297273875e282ba1e6c2423f1cd4e575f75d1a3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others (#160)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
