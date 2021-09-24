@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-24** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-926335055) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-22** — created tag "1.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-22** — pushed 3 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-21** — closed PR [#160](https://api.github.com/repos/ZacSweers/MoshiX/pulls/160) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others"
 
 **2021-09-21** — pushed [`92972738`](https://github.com/ZacSweers/MoshiX/commit/9297273875e282ba1e6c2423f1cd4e575f75d1a3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Kotlinpoet to 1.10 + others (#160)"
-
-**2021-09-21** — deleted branch "z/kpksp" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
