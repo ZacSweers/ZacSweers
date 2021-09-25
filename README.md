@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-24** — pushed 26 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
 **2021-09-24** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-926877042) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-09-24** — pushed [`3a004f7f`](https://github.com/square/moshi/commit/3a004f7fd8ec18c819a92afcd42fb59a6ee73191) to [square/moshi](https://api.github.com/repos/square/moshi): "One more fix"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-22** — created tag "1.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-09-22** — pushed 3 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2021-09-21** — commented on [#1164](https://github.com/square/kotlinpoet/pull/1164#issuecomment-924535087) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
