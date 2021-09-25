@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-25** — pushed [`56711356`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/56711356d1f25aa016cb95278b9d1f8052f6a34c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Match kotlin version in gradle plugin too"
+
+**2021-09-25** — pushed [`ccd152fb`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ccd152fbb55b39492046c9426493854691aa54a2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17 (#59)"
+
+**2021-09-25** — deleted branch "z/k1531" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-09-25** — closed PR [#59](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/59) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17"
+
+**2021-09-25** — opened PR [#59](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/59) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17"
+
+**2021-09-25** — created branch "z/k1531" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-09-25** — closed issue [#1166](https://api.github.com/repos/square/kotlinpoet/issues/1166) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "primaryConstructor of TypeSpec created from KmClass is always null"
 
 **2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927139333) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-25** — closed issue [#1165](https://api.github.com/repos/square/kotlinpoet/issues/1165) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make all KotlinPoetMetadataSpec extension functions public"
 
 **2021-09-25** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-927134866) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-24** — pushed [`07faa9f1`](https://github.com/ZacSweers/moshi/commit/07faa9f1905d6b71c179bb19c5b7eb268a4160bf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove leftover comment"
-
-**2021-09-24** — pushed [`ff8c8d4d`](https://github.com/ZacSweers/moshi/commit/ff8c8d4d1aacd2e8a28816f4fd50605194ad61c8) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix + enable the complex self-referencing typevar test"
-
-**2021-09-24** — pushed 26 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-09-24** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-926877042) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-09-24** — pushed [`3a004f7f`](https://github.com/square/moshi/commit/3a004f7fd8ec18c819a92afcd42fb59a6ee73191) to [square/moshi](https://api.github.com/repos/square/moshi): "One more fix"
-
-**2021-09-24** — pushed [`cf901d87`](https://github.com/square/moshi/commit/cf901d87fe47bf7a9fa7447b1acf1de9578bf8e6) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix CI versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
