@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-24** — pushed [`07faa9f1`](https://github.com/ZacSweers/moshi/commit/07faa9f1905d6b71c179bb19c5b7eb268a4160bf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove leftover comment"
+
+**2021-09-24** — pushed [`ff8c8d4d`](https://github.com/ZacSweers/moshi/commit/ff8c8d4d1aacd2e8a28816f4fd50605194ad61c8) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix + enable the complex self-referencing typevar test"
+
 **2021-09-24** — pushed 26 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2021-09-24** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-926877042) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-24** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
 
 **2021-09-24** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-926335055) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-22** — created tag "1.1.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-09-22** — pushed 3 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
