@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-25** — closed issue [#1166](https://api.github.com/repos/square/kotlinpoet/issues/1166) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "primaryConstructor of TypeSpec created from KmClass is always null"
+
+**2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927139333) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-25** — closed issue [#1165](https://api.github.com/repos/square/kotlinpoet/issues/1165) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make all KotlinPoetMetadataSpec extension functions public"
 
 **2021-09-25** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-927134866) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-24** — pushed [`3a004f7f`](https://github.com/square/moshi/commit/3a004f7fd8ec18c819a92afcd42fb59a6ee73191) to [square/moshi](https://api.github.com/repos/square/moshi): "One more fix"
 
 **2021-09-24** — pushed [`cf901d87`](https://github.com/square/moshi/commit/cf901d87fe47bf7a9fa7447b1acf1de9578bf8e6) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix CI versions"
-
-**2021-09-24** — pushed [`95109d80`](https://github.com/square/moshi/commit/95109d803c4a90deb462624c695ca8ddf0177f57) to [square/moshi](https://api.github.com/repos/square/moshi): "Rewire CI for 1.6 milestone"
-
-**2021-09-24** — pushed 12 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
