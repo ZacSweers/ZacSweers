@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-25** — closed issue [#1165](https://api.github.com/repos/square/kotlinpoet/issues/1165) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make all KotlinPoetMetadataSpec extension functions public"
+
+**2021-09-25** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-927134866) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-24** — pushed [`07faa9f1`](https://github.com/ZacSweers/moshi/commit/07faa9f1905d6b71c179bb19c5b7eb268a4160bf) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Remove leftover comment"
 
 **2021-09-24** — pushed [`ff8c8d4d`](https://github.com/ZacSweers/moshi/commit/ff8c8d4d1aacd2e8a28816f4fd50605194ad61c8) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Fix + enable the complex self-referencing typevar test"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-24** — pushed [`95109d80`](https://github.com/square/moshi/commit/95109d803c4a90deb462624c695ca8ddf0177f57) to [square/moshi](https://api.github.com/repos/square/moshi): "Rewire CI for 1.6 milestone"
 
 **2021-09-24** — pushed 12 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-09-24** — pushed 3 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
-
-**2021-09-24** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-926335055) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
