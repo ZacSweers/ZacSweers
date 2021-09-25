@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927181406) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-25** — pushed [`56711356`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/56711356d1f25aa016cb95278b9d1f8052f6a34c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Match kotlin version in gradle plugin too"
 
 **2021-09-25** — pushed [`ccd152fb`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ccd152fbb55b39492046c9426493854691aa54a2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17 (#59)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927139333) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-25** — closed issue [#1165](https://api.github.com/repos/square/kotlinpoet/issues/1165) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make all KotlinPoetMetadataSpec extension functions public"
-
-**2021-09-25** — commented on [#1165](https://github.com/square/kotlinpoet/issues/1165#issuecomment-927134866) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
