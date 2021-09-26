@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372159) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-09-26** — opened issue [#1168](https://api.github.com/repos/square/kotlinpoet/issues/1168) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consider testing elements metadata tests via Kapt"
+
+**2021-09-26** — commented on [#1167](https://github.com/square/kotlinpoet/pull/1167#issuecomment-927370200) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-09-26** — opened PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
 
 **2021-09-26** — created branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-26** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 
 **2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927348791) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927348048) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — reopened issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
-
-**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927345951) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
