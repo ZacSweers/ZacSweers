@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927181406) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-26** — closed issue [#1347](https://api.github.com/repos/square/moshi/issues/1347) on [square/moshi](https://api.github.com/repos/square/moshi): "Support for recursive PolymorphicJsonAdapterFactory"
 
-**2021-09-25** — pushed [`56711356`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/56711356d1f25aa016cb95278b9d1f8052f6a34c) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Match kotlin version in gradle plugin too"
+**2021-09-26** — commented on [#1347](https://github.com/square/moshi/issues/1347#issuecomment-927341714) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-25** — pushed [`ccd152fb`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ccd152fbb55b39492046c9426493854691aa54a2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17 (#59)"
+**2021-09-26** — closed issue [#1372](https://api.github.com/repos/square/moshi/issues/1372) on [square/moshi](https://api.github.com/repos/square/moshi): "Codegen and Reflection handling JsonQualifier annotations differently"
 
-**2021-09-25** — deleted branch "z/k1531" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-09-26** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-927341618) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-25** — closed PR [#59](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/59) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17"
+**2021-09-26** — closed issue [#1391](https://api.github.com/repos/square/moshi/issues/1391) on [square/moshi](https://api.github.com/repos/square/moshi): "Allow Number as a valid return type of a @ToJson function"
 
-**2021-09-25** — opened PR [#59](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/59) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update Kotlin to 1.5.31 + Dokka 1.5.30 + JDK 17"
+**2021-09-26** — commented on [#1391](https://github.com/square/moshi/issues/1391#issuecomment-927341543) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-25** — created branch "z/k1531" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-09-26** — closed issue [#1395](https://api.github.com/repos/square/moshi/issues/1395) on [square/moshi](https://api.github.com/repos/square/moshi): ""Unable to create converter ..." after upgrade to JDK 11 & AGP 7.0.0"
 
-**2021-09-25** — closed issue [#1166](https://api.github.com/repos/square/kotlinpoet/issues/1166) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "primaryConstructor of TypeSpec created from KmClass is always null"
+**2021-09-26** — commented on [#1395](https://github.com/square/moshi/issues/1395#issuecomment-927340868) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-09-25** — commented on [#1166](https://github.com/square/kotlinpoet/issues/1166#issuecomment-927139333) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-09-26** — closed issue [#1398](https://api.github.com/repos/square/moshi/issues/1398) on [square/moshi](https://api.github.com/repos/square/moshi): "Register custom Adapters based on class"
 
-**2021-09-25** — closed issue [#1165](https://api.github.com/repos/square/kotlinpoet/issues/1165) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Make all KotlinPoetMetadataSpec extension functions public"
+**2021-09-26** — commented on [#1398](https://github.com/square/moshi/issues/1398#issuecomment-927340563) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
