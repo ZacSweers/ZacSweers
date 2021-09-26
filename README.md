@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-09-26** — closed issue [#1347](https://api.github.com/repos/square/moshi/issues/1347) on [square/moshi](https://api.github.com/repos/square/moshi): "Support for recursive PolymorphicJsonAdapterFactory"
+**2021-09-26** — opened PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
 
-**2021-09-26** — commented on [#1347](https://github.com/square/moshi/issues/1347#issuecomment-927341714) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-26** — created branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-26** — closed issue [#1372](https://api.github.com/repos/square/moshi/issues/1372) on [square/moshi](https://api.github.com/repos/square/moshi): "Codegen and Reflection handling JsonQualifier annotations differently"
+**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927349564) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-26** — commented on [#1372](https://github.com/square/moshi/issues/1372#issuecomment-927341618) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-26** — reopened issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 
-**2021-09-26** — closed issue [#1391](https://api.github.com/repos/square/moshi/issues/1391) on [square/moshi](https://api.github.com/repos/square/moshi): "Allow Number as a valid return type of a @ToJson function"
+**2021-09-26** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 
-**2021-09-26** — commented on [#1391](https://github.com/square/moshi/issues/1391#issuecomment-927341543) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927348791) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-26** — closed issue [#1395](https://api.github.com/repos/square/moshi/issues/1395) on [square/moshi](https://api.github.com/repos/square/moshi): ""Unable to create converter ..." after upgrade to JDK 11 & AGP 7.0.0"
+**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927348048) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-26** — commented on [#1395](https://github.com/square/moshi/issues/1395#issuecomment-927340868) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-26** — reopened issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 
-**2021-09-26** — closed issue [#1398](https://api.github.com/repos/square/moshi/issues/1398) on [square/moshi](https://api.github.com/repos/square/moshi): "Register custom Adapters based on class"
+**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927345951) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
-**2021-09-26** — commented on [#1398](https://github.com/square/moshi/issues/1398#issuecomment-927340563) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-09-26** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
