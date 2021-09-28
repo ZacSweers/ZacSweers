@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-28** — closed issue [#272](https://api.github.com/repos/ZacSweers/CatchUp/issues/272) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Compiling the Project"
+
 **2021-09-27** — closed issue [#94](https://api.github.com/repos/slackhq/keeper/issues/94) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Could not create task :app:inferDebugAndroidTestKeepRulesForKeeper"
 
 **2021-09-27** — commented on [#94](https://github.com/slackhq/keeper/issues/94#issuecomment-927887531) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-26** — created branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927349564) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — reopened issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
