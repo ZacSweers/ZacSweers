@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-09-29** — deleted branch "patch-1" on [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger)
+
 **2021-09-28** — closed issue [#272](https://api.github.com/repos/ZacSweers/CatchUp/issues/272) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Compiling the Project"
 
 **2021-09-27** — closed issue [#94](https://api.github.com/repos/slackhq/keeper/issues/94) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Could not create task :app:inferDebugAndroidTestKeepRulesForKeeper"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-26** — opened PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
 
 **2021-09-26** — created branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — commented on [#1046](https://github.com/square/kotlinpoet/issues/1046#issuecomment-927349564) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
