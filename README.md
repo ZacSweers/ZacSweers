@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-01** — closed PR [#40](https://api.github.com/repos/slackhq/EitherNet/pulls/40) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add exception to ApiResult.Failure"
+
 **2021-09-30** — commented on [#38](https://github.com/ZacSweers/redacted-compiler-plugin/issues/38#issuecomment-931851292) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-09-29** — deleted branch "patch-1" on [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-26** — opened issue [#1168](https://api.github.com/repos/square/kotlinpoet/issues/1168) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consider testing elements metadata tests via Kapt"
 
 **2021-09-26** — commented on [#1167](https://github.com/square/kotlinpoet/pull/1167#issuecomment-927370200) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — opened PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
