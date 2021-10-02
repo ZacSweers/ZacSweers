@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-01** — opened issue [#647](https://api.github.com/repos/google/ksp/issues/647) on [google/ksp](https://api.github.com/repos/google/ksp): "Enabling both KSP and Kapt in the same module breaks incremental compilation"
+
 **2021-10-01** — opened issue [#1176](https://api.github.com/repos/google/auto/issues/1176) on [google/auto](https://api.github.com/repos/google/auto): "Non-deterministic ordering for annotations in generated AutoValue_ classes"
 
 **2021-10-01** — closed PR [#40](https://api.github.com/repos/slackhq/EitherNet/pulls/40) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add exception to ApiResult.Failure"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372159) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-09-26** — opened issue [#1168](https://api.github.com/repos/square/kotlinpoet/issues/1168) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Consider testing elements metadata tests via Kapt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
