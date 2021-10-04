@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933660017) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933579578) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933578260) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-03** — deleted branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
 **2021-10-03** — pushed [`6005ff77`](https://github.com/ZacSweers/CatchUp/commit/6005ff771b8664f128f050da1b277e88ec37ac52) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues (#270)"
-
-**2021-10-03** — closed PR [#270](https://api.github.com/repos/ZacSweers/CatchUp/pulls/270) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
