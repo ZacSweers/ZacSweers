@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-01** — opened issue [#647](https://api.github.com/repos/google/ksp/issues/647) on [google/ksp](https://api.github.com/repos/google/ksp): "Enabling both KSP and Kapt in the same module breaks incremental compilation"
+**2021-10-03** — pushed [`7a405930`](https://github.com/ZacSweers/CatchUp/commit/7a40593015f0d911ce363155c3809ddfc95f00de) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
 
-**2021-10-01** — opened issue [#1176](https://api.github.com/repos/google/auto/issues/1176) on [google/auto](https://api.github.com/repos/google/auto): "Non-deterministic ordering for annotations in generated AutoValue_ classes"
+**2021-10-03** — opened PR [#274](https://api.github.com/repos/ZacSweers/CatchUp/pulls/274) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
 
-**2021-10-01** — closed PR [#40](https://api.github.com/repos/slackhq/EitherNet/pulls/40) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add exception to ApiResult.Failure"
+**2021-10-03** — pushed [`fa6f224e`](https://github.com/ZacSweers/CatchUp/commit/fa6f224ee711e6b12135ce2dfb24f05420938b9d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
 
-**2021-09-30** — commented on [#38](https://github.com/ZacSweers/redacted-compiler-plugin/issues/38#issuecomment-931851292) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-03** — closed PR [#273](https://api.github.com/repos/ZacSweers/CatchUp/pulls/273) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
 
-**2021-09-29** — deleted branch "patch-1" on [ZacSweers/dagger](https://api.github.com/repos/ZacSweers/dagger)
+**2021-10-03** — pushed 1 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
-**2021-09-28** — closed issue [#272](https://api.github.com/repos/ZacSweers/CatchUp/issues/272) on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Compiling the Project"
+**2021-10-03** — deleted branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 
-**2021-09-27** — closed issue [#94](https://api.github.com/repos/slackhq/keeper/issues/94) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Could not create task :app:inferDebugAndroidTestKeepRulesForKeeper"
+**2021-10-03** — pushed [`6005ff77`](https://github.com/ZacSweers/CatchUp/commit/6005ff771b8664f128f050da1b277e88ec37ac52) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues (#270)"
 
-**2021-09-27** — commented on [#94](https://github.com/slackhq/keeper/issues/94#issuecomment-927887531) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+**2021-10-03** — closed PR [#270](https://api.github.com/repos/ZacSweers/CatchUp/pulls/270) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
 
-**2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372287) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-10-03** — opened PR [#273](https://api.github.com/repos/ZacSweers/CatchUp/pulls/273) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
 
-**2021-09-26** — commented on [#1168](https://github.com/square/kotlinpoet/issues/1168#issuecomment-927372159) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-10-03** — created branch "z/icBugRepro" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
