@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-07** — commented on [#416](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/416#issuecomment-938130265) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2021-10-07** — opened issue [#379](https://api.github.com/repos/square/anvil/issues/379) on [square/anvil](https://api.github.com/repos/square/anvil): "2.3.5 treats all constant references in qualifiers as enums"
+
+**2021-10-07** — commented on [#18002](https://github.com/gradle/gradle/issues/18002#issuecomment-938107928) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-10-05** — commented on [#1176](https://github.com/google/auto/issues/1176#issuecomment-935005719) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933660017) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-03** — opened PR [#274](https://api.github.com/repos/ZacSweers/CatchUp/pulls/274) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
 
 **2021-10-03** — pushed [`fa6f224e`](https://github.com/ZacSweers/CatchUp/commit/fa6f224ee711e6b12135ce2dfb24f05420938b9d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
-
-**2021-10-03** — closed PR [#273](https://api.github.com/repos/ZacSweers/CatchUp/pulls/273) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies and fix misc nullability issues"
-
-**2021-10-03** — pushed 1 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-10-03** — deleted branch "z/updates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
