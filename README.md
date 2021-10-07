@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-07** — opened PR [#382](https://api.github.com/repos/square/anvil/pulls/382) to [square/anvil](https://api.github.com/repos/square/anvil): "Use updated `temurin` distro on CI"
+
+**2021-10-07** — opened PR [#381](https://api.github.com/repos/square/anvil/pulls/381) to [square/anvil](https://api.github.com/repos/square/anvil): "Support JDK 16+ in project"
+
+**2021-10-07** — created branch "z/ciTweak" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-10-07** — created branch "z/jdk16Support" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-10-07** — pushed 17 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
 **2021-10-07** — commented on [#416](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/416#issuecomment-938130265) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2021-10-07** — opened issue [#379](https://api.github.com/repos/square/anvil/issues/379) on [square/anvil](https://api.github.com/repos/square/anvil): "2.3.5 treats all constant references in qualifiers as enums"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-05** — commented on [#1176](https://github.com/google/auto/issues/1176#issuecomment-935005719) in [google/auto](https://api.github.com/repos/google/auto)
 
 **2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933660017) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933579578) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-10-04** — commented on [#647](https://github.com/google/ksp/issues/647#issuecomment-933578260) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-10-03** — pushed [`7a405930`](https://github.com/ZacSweers/CatchUp/commit/7a40593015f0d911ce363155c3809ddfc95f00de) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
-
-**2021-10-03** — opened PR [#274](https://api.github.com/repos/ZacSweers/CatchUp/pulls/274) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
-
-**2021-10-03** — pushed [`fa6f224e`](https://github.com/ZacSweers/CatchUp/commit/fa6f224ee711e6b12135ce2dfb24f05420938b9d) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Repro kotlin IC bug"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
