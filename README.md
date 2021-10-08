@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-08** — deleted branch "z/jdk16Support" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-10-08** — commented on [#1170](https://github.com/square/kotlinpoet/pull/1170#issuecomment-938700183) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-10-07** — opened PR [#382](https://api.github.com/repos/square/anvil/pulls/382) to [square/anvil](https://api.github.com/repos/square/anvil): "Use updated `temurin` distro on CI"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-07** — opened issue [#379](https://api.github.com/repos/square/anvil/issues/379) on [square/anvil](https://api.github.com/repos/square/anvil): "2.3.5 treats all constant references in qualifiers as enums"
 
 **2021-10-07** — commented on [#18002](https://github.com/gradle/gradle/issues/18002#issuecomment-938107928) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-10-05** — commented on [#1176](https://github.com/google/auto/issues/1176#issuecomment-935005719) in [google/auto](https://api.github.com/repos/google/auto)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
