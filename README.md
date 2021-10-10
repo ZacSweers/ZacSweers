@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-939509220) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-10-09** — commented on [#1](https://github.com/slackhq/.github/pull/1#issuecomment-939394694) in [slackhq/.github](https://api.github.com/repos/slackhq/.github)
 
 **2021-10-09** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-939384043) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-07** — opened PR [#381](https://api.github.com/repos/square/anvil/pulls/381) to [square/anvil](https://api.github.com/repos/square/anvil): "Support JDK 16+ in project"
 
 **2021-10-07** — created branch "z/ciTweak" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-10-07** — created branch "z/jdk16Support" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
