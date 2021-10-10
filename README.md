@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-09** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-939383609) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-10-08** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-939194518) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-08** — deleted branch "z/jdk16Support" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-07** — pushed 17 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-07** — commented on [#416](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/416#issuecomment-938130265) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://api.github.com/repos/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2021-10-07** — opened issue [#379](https://api.github.com/repos/square/anvil/issues/379) on [square/anvil](https://api.github.com/repos/square/anvil): "2.3.5 treats all constant references in qualifiers as enums"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
