@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-11** — pushed [`3d9c1033`](https://github.com/ZacSweers/anvil/commit/3d9c1033a4399fb554d272bdc86d9f8d13fa4c51) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "ktlint is confused"
+
+**2021-10-11** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-10-11** — opened PR [#384](https://api.github.com/repos/square/anvil/pulls/384) to [square/anvil](https://api.github.com/repos/square/anvil): "Add more test cases"
+
+**2021-10-11** — created branch "z/fixMemberRefs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-10-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-939509220) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-10-09** — commented on [#1](https://github.com/slackhq/.github/pull/1#issuecomment-939394694) in [slackhq/.github](https://api.github.com/repos/slackhq/.github)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-08** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-939194518) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-08** — deleted branch "z/jdk16Support" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-10-08** — commented on [#1170](https://github.com/square/kotlinpoet/pull/1170#issuecomment-938700183) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-07** — opened PR [#382](https://api.github.com/repos/square/anvil/pulls/382) to [square/anvil](https://api.github.com/repos/square/anvil): "Use updated `temurin` distro on CI"
-
-**2021-10-07** — opened PR [#381](https://api.github.com/repos/square/anvil/pulls/381) to [square/anvil](https://api.github.com/repos/square/anvil): "Support JDK 16+ in project"
-
-**2021-10-07** — created branch "z/ciTweak" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
