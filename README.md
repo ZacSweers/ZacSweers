@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-12** — pushed [`87efec6a`](https://github.com/slackhq/EitherNet/commit/87efec6a78b6dc9f10adca792fe7c282a0a07852) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Add link"
+
+**2021-10-12** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-941309218) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-12** — pushed [`b5a6ae2a`](https://github.com/square/moshi/commit/b5a6ae2a05dc040273b132d41b6bc6a43dd377aa) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to 1.6.0-RC"
+
 **2021-10-12** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-941109214) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-12** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-941104835) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-11** — created branch "z/useProjectDependency" on [ZacSweers/modules-graph-assert](https://api.github.com/repos/ZacSweers/modules-graph-assert)
 
 **2021-10-11** — commented on [#384](https://github.com/square/anvil/pull/384#issuecomment-940388007) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-10-11** — pushed [`3d9c1033`](https://github.com/ZacSweers/anvil/commit/3d9c1033a4399fb554d272bdc86d9f8d13fa4c51) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "ktlint is confused"
-
-**2021-10-11** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-10-11** — opened PR [#384](https://api.github.com/repos/square/anvil/pulls/384) to [square/anvil](https://api.github.com/repos/square/anvil): "Add more test cases"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
