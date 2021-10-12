@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
+**2021-10-12** — opened PR [#386](https://api.github.com/repos/square/anvil/pulls/386) to [square/anvil](https://api.github.com/repos/square/anvil): "Split anvil compilation test util into underlying `AnvilCompilation`"
+
+**2021-10-12** — created branch "z/compilationDsl" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-10-12** — pushed 17 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 
 **2021-10-12** — deleted branch "z/test16" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-12** — pushed 9 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-10-12** — created tag "0.8.1" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-10-12** — pushed [`9d27e32e`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9d27e32ea69106758fe333607c40dbe4a4f775c5) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.6.0-RC (#60)"
-
-**2021-10-12** — deleted branch "z/16RC" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
