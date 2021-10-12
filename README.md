@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-11** — opened PR [#123](https://api.github.com/repos/jraska/modules-graph-assert/pulls/123) to [jraska/modules-graph-assert](https://api.github.com/repos/jraska/modules-graph-assert): "Use ProjectDependency"
+
+**2021-10-11** — created branch "z/useProjectDependency" on [ZacSweers/modules-graph-assert](https://api.github.com/repos/ZacSweers/modules-graph-assert)
+
 **2021-10-11** — commented on [#384](https://github.com/square/anvil/pull/384#issuecomment-940388007) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-10-11** — pushed [`3d9c1033`](https://github.com/ZacSweers/anvil/commit/3d9c1033a4399fb554d272bdc86d9f8d13fa4c51) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "ktlint is confused"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-09** — commented on [#1](https://github.com/slackhq/.github/pull/1#issuecomment-939394694) in [slackhq/.github](https://api.github.com/repos/slackhq/.github)
 
 **2021-10-09** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-939384043) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-09** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-939383609) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-10-08** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-939194518) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
