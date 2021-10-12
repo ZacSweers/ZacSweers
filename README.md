@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-12** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-941109214) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-12** — commented on [#1399](https://github.com/square/moshi/issues/1399#issuecomment-941104835) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-12** — commented on [#384](https://github.com/square/anvil/pull/384#issuecomment-941071189) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-10-12** — deleted branch "z/useProjectDependency" on [ZacSweers/modules-graph-assert](https://api.github.com/repos/ZacSweers/modules-graph-assert)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-11** — pushed 2 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-11** — opened PR [#384](https://api.github.com/repos/square/anvil/pulls/384) to [square/anvil](https://api.github.com/repos/square/anvil): "Add more test cases"
-
-**2021-10-11** — created branch "z/fixMemberRefs" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-10-10** — commented on [#16345](https://github.com/gradle/gradle/issues/16345#issuecomment-939509220) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
