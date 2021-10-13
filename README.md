@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-13** — pushed [`8b980016`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/8b980016daf6ef4b4941bbd8ff541bda642b264b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix task name"
+
+**2021-10-13** — pushed [`aad13022`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/aad130228fdc8f68070990e521ea5b92fac072c2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update maven publish plugins"
+
 **2021-10-12** — created tag "0.8.2" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-12** — pushed [`acccf771`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/acccf771e71fbd798603705c93523ac1b2160a44) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Set up configuration for included build in sample"
 
 **2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-10-12** — opened PR [#386](https://api.github.com/repos/square/anvil/pulls/386) to [square/anvil](https://api.github.com/repos/square/anvil): "Split anvil compilation test util into underlying `AnvilCompilation`"
-
-**2021-10-12** — created branch "z/compilationDsl" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
