@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-14** — closed issue [#1171](https://api.github.com/repos/square/kotlinpoet/issues/1171) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement interface with suspend modifier"
+
+**2021-10-14** — commented on [#1171](https://github.com/square/kotlinpoet/issues/1171#issuecomment-943430901) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-13** — pushed [`8b980016`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/8b980016daf6ef4b4941bbd8ff541bda642b264b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix task name"
 
 **2021-10-13** — pushed [`aad13022`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/aad130228fdc8f68070990e521ea5b92fac072c2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update maven publish plugins"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-12** — closed PR [#61](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/61) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Use included build for sample + fix missing autoservice"
 
 **2021-10-12** — pushed [`4b09a4bc`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/4b09a4bc0c6444dbd621dbcc54290f22d315d36d) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix missing autoservice"
-
-**2021-10-12** — pushed [`acccf771`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/acccf771e71fbd798603705c93523ac1b2160a44) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Set up configuration for included build in sample"
-
-**2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
