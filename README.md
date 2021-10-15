@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-15** — commented on [#836](https://github.com/square/moshi/issues/836#issuecomment-944020754) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-14** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-943959715) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-14** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
 **2021-10-12** — pushed [`05970f63`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/05970f63dbcb84f8df86dff3ae0f054cced21ebc) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Use included build for sample + fix missing autoservice (#61)"
-
-**2021-10-12** — deleted branch "z/sample081" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
