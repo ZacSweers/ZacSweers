@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-15** — deleted branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-10-15** — pushed 41 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
 
-**2021-10-15** — pushed [`43de7084`](https://github.com/square/kotlinpoet/commit/43de7084390504c637f9d12c8beab51aa4c0e388) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations (#1167)"
+**2021-10-15** — created tag "0.8.3" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-10-15** — closed PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
+**2021-10-15** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
-**2021-10-15** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
+**2021-10-15** — pushed [`9ec63d74`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ec63d74642f4004aed4ba71b004aae77efc2a53) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin (#64)"
 
-**2021-10-15** — commented on [#1167](https://github.com/square/kotlinpoet/pull/1167#issuecomment-944393978) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-10-15** — deleted branch "z/fixAgain" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-10-15** — commented on [#62](https://github.com/ZacSweers/redacted-compiler-plugin/issues/62#issuecomment-944393116) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-15** — closed PR [#64](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/64) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin"
 
-**2021-10-15** — commented on [#836](https://github.com/square/moshi/issues/836#issuecomment-944020754) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-15** — opened PR [#64](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/64) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin"
 
-**2021-10-14** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-943959715) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-15** — created branch "z/fixAgain" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-10-14** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+**2021-10-15** — commented on [#63](https://github.com/ZacSweers/redacted-compiler-plugin/pull/63#issuecomment-944623090) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-10-14** — closed issue [#1171](https://api.github.com/repos/square/kotlinpoet/issues/1171) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement interface with suspend modifier"
+**2021-10-15** — pushed [`f4d13cb2`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/f4d13cb2a26e83ee476fbe4d67f1eb8dd16bc96e) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Add missing jvmTarget and java version setting to gradle plugin (#63)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
