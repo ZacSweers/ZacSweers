@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-15** — deleted branch "z/deprecationFix" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-15** — pushed [`43de7084`](https://github.com/square/kotlinpoet/commit/43de7084390504c637f9d12c8beab51aa4c0e388) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations (#1167)"
+
+**2021-10-15** — closed PR [#1167](https://api.github.com/repos/square/kotlinpoet/pulls/1167) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Ignore java deprecated annotations on synthetic methods for annotations"
+
+**2021-10-15** — closed issue [#1046](https://api.github.com/repos/square/kotlinpoet/issues/1046) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "@Deprecated annotation added on a property"
+
+**2021-10-15** — commented on [#1167](https://github.com/square/kotlinpoet/pull/1167#issuecomment-944393978) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-15** — commented on [#62](https://github.com/ZacSweers/redacted-compiler-plugin/issues/62#issuecomment-944393116) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-10-15** — commented on [#836](https://github.com/square/moshi/issues/836#issuecomment-944020754) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-14** — commented on [#1320](https://github.com/square/moshi/pull/1320#issuecomment-943959715) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-14** — pushed 3 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-14** — closed issue [#1171](https://api.github.com/repos/square/kotlinpoet/issues/1171) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement interface with suspend modifier"
-
-**2021-10-14** — commented on [#1171](https://github.com/square/kotlinpoet/issues/1171#issuecomment-943430901) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-13** — pushed [`8b980016`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/8b980016daf6ef4b4941bbd8ff541bda642b264b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix task name"
-
-**2021-10-13** — pushed [`aad13022`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/aad130228fdc8f68070990e521ea5b92fac072c2) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update maven publish plugins"
-
-**2021-10-12** — created tag "0.8.2" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-10-12** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-10-12** — pushed [`05970f63`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/05970f63dbcb84f8df86dff3ae0f054cced21ebc) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Use included build for sample + fix missing autoservice (#61)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
