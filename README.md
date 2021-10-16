@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944958055) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-16** — closed issue [#1403](https://api.github.com/repos/square/moshi/issues/1403) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi doesn't delegate field initialization to parent class"
+
+**2021-10-16** — commented on [#1403](https://github.com/square/moshi/issues/1403#issuecomment-944957622) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-16** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-944953034) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-16** — closed issue [#1402](https://api.github.com/repos/square/moshi/issues/1402) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi doesn't delegate field initialization to parent class"
 
 **2021-10-16** — pushed [`17fb7a8b`](https://github.com/square/moshi/commit/17fb7a8ba2f584d137c7dc5b6fa51feb9d8cdb1c) to [square/moshi](https://api.github.com/repos/square/moshi): "Why is this so fickle"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944920492) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-16** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-16** — pushed 15 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-16** — pushed [`862ff7dd`](https://github.com/square/moshi/commit/862ff7ddcd3ff5805e6bd15966113b851d251886) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17 (#1394)"
-
-**2021-10-16** — deleted branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
