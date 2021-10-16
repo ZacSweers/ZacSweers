@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-15** — pushed 41 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
+**2021-10-15** — pushed [`d808086f`](https://github.com/ZacSweers/moshi/commit/d808086f9485d33ff5ea611f5a8e4f5b1004f907) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use toKModifier helper"
 
-**2021-10-15** — created tag "0.8.3" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-15** — pushed [`ef61021e`](https://github.com/ZacSweers/ksp/commit/ef61021ed8540e0e8febb313fbcb850cbd235ee3) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Simplify"
 
-**2021-10-15** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-10-15** — pushed [`0eef2a2e`](https://github.com/ZacSweers/moshi/commit/0eef2a2e3b720d8862a453f3d7d929932e62f6be) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Simplify"
 
-**2021-10-15** — pushed [`9ec63d74`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/9ec63d74642f4004aed4ba71b004aae77efc2a53) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin (#64)"
+**2021-10-15** — commented on [#685](https://github.com/google/ksp/pull/685#issuecomment-944820601) in [google/ksp](https://api.github.com/repos/google/ksp)
 
-**2021-10-15** — deleted branch "z/fixAgain" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-15** — pushed [`68834df3`](https://github.com/ZacSweers/ksp/commit/68834df36cb739ac6ed4510a3acf4d3b350b0822) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Check type rather than assume"
 
-**2021-10-15** — closed PR [#64](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/64) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin"
+**2021-10-15** — pushed [`7e8374ed`](https://github.com/ZacSweers/moshi/commit/7e8374eddaf012f68aa404a54a643fcc29fa43c2) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Another fix"
 
-**2021-10-15** — opened PR [#64](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/64) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Fix the actual gradle plugin"
+**2021-10-15** — pushed [`4fbcb6d5`](https://github.com/ZacSweers/ksp/commit/4fbcb6d52aacc494c5af12c386186262b16906cb) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Formatting"
 
-**2021-10-15** — created branch "z/fixAgain" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-15** — pushed [`5d1792a2`](https://github.com/ZacSweers/moshi/commit/5d1792a24dc69c1f9171154abc1a8ad88a4315d4) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Switch to shaded utils for experimental KSP APIs"
 
-**2021-10-15** — commented on [#63](https://github.com/ZacSweers/redacted-compiler-plugin/pull/63#issuecomment-944623090) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-10-15** — opened PR [#685](https://api.github.com/repos/google/ksp/pulls/685) to [google/ksp](https://api.github.com/repos/google/ksp): "Fix enum lookup in annotation proxies"
 
-**2021-10-15** — pushed [`f4d13cb2`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/f4d13cb2a26e83ee476fbe4d67f1eb8dd16bc96e) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Add missing jvmTarget and java version setting to gradle plugin (#63)"
+**2021-10-15** — pushed [`061abce9`](https://github.com/ZacSweers/ksp/commit/061abce9708c6003f394190c404b409c38c37f1c) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Fix enum lookup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
