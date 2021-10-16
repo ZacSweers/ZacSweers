@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-16** — deleted branch "z/ccFriendly" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+
 **2021-10-16** — deleted branch "z/checkResolvable" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 
 **2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944958055) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — pushed [`684ab6a8`](https://github.com/square/moshi/commit/684ab6a8a7e7443d0cd9990ea72021343113fa17) to [square/moshi](https://api.github.com/repos/square/moshi): "Make the test all work safely on diff versions"
 
 **2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944920492) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
