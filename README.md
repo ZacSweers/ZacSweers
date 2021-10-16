@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944920492) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-16** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
 **2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-944862685) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-16** — pushed [`2db351f8`](https://github.com/square/moshi/commit/2db351f8ed54a83da7f849b0c0c8624b0ab88807) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation (#1393)"
-
-**2021-10-16** — deleted branch "z/upstreamKsp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
