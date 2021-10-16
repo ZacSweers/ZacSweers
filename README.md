@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-16** — closed issue [#1402](https://api.github.com/repos/square/moshi/issues/1402) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi doesn't delegate field initialization to parent class"
+
+**2021-10-16** — pushed [`17fb7a8b`](https://github.com/square/moshi/commit/17fb7a8ba2f584d137c7dc5b6fa51feb9d8cdb1c) to [square/moshi](https://api.github.com/repos/square/moshi): "Why is this so fickle"
+
+**2021-10-16** — pushed [`684ab6a8`](https://github.com/square/moshi/commit/684ab6a8a7e7443d0cd9990ea72021343113fa17) to [square/moshi](https://api.github.com/repos/square/moshi): "Make the test all work safely on diff versions"
+
+**2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
+
 **2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944920492) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-16** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — pushed [`862ff7dd`](https://github.com/square/moshi/commit/862ff7ddcd3ff5805e6bd15966113b851d251886) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17 (#1394)"
 
 **2021-10-16** — deleted branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-16** — closed PR [#1394](https://api.github.com/repos/square/moshi/pulls/1394) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17"
-
-**2021-10-16** — pushed [`de8bbf12`](https://github.com/square/moshi/commit/de8bbf12f5ed45015c11f8e4fe03b383e8d60f78) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0 (#1396)"
-
-**2021-10-16** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-944862685) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-16** — pushed [`2db351f8`](https://github.com/square/moshi/commit/2db351f8ed54a83da7f849b0c0c8624b0ab88807) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation (#1393)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
