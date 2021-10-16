@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-16** — opened PR [#390](https://api.github.com/repos/square/anvil/pulls/390) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix logic for directly imported members and implicitly imported members"
+**2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
-**2021-10-16** — created branch "z/checkResolvable" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+**2021-10-16** — pushed 15 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
-**2021-10-15** — pushed [`53658ff4`](https://github.com/ZacSweers/wire/commit/53658ff481e78a2e84e57f87167abfe3bebc03a5) to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire): "Move back to setup because of tmpFolder 🤡"
+**2021-10-16** — pushed [`862ff7dd`](https://github.com/square/moshi/commit/862ff7ddcd3ff5805e6bd15966113b851d251886) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17 (#1394)"
 
-**2021-10-15** — opened PR [#2088](https://api.github.com/repos/square/wire/pulls/2088) to [square/wire](https://api.github.com/repos/square/wire): "Modernize WireTask APIs to use more modern Gradle APIs and be configuration caching friendly"
+**2021-10-16** — deleted branch "z/jdk17" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-10-15** — created branch "z/ccFriendly" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
+**2021-10-16** — closed PR [#1394](https://api.github.com/repos/square/moshi/pulls/1394) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to JDK 17"
 
-**2021-10-15** — pushed [`d808086f`](https://github.com/ZacSweers/moshi/commit/d808086f9485d33ff5ea611f5a8e4f5b1004f907) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Use toKModifier helper"
+**2021-10-16** — pushed [`de8bbf12`](https://github.com/square/moshi/commit/de8bbf12f5ed45015c11f8e4fe03b383e8d60f78) to [square/moshi](https://api.github.com/repos/square/moshi): "Update KotlinPoet to 1.10.0 (#1396)"
 
-**2021-10-15** — pushed [`ef61021e`](https://github.com/ZacSweers/ksp/commit/ef61021ed8540e0e8febb313fbcb850cbd235ee3) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Simplify"
+**2021-10-16** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-944862685) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-10-15** — pushed [`0eef2a2e`](https://github.com/ZacSweers/moshi/commit/0eef2a2e3b720d8862a453f3d7d929932e62f6be) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Simplify"
+**2021-10-16** — pushed [`2db351f8`](https://github.com/square/moshi/commit/2db351f8ed54a83da7f849b0c0c8624b0ab88807) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation (#1393)"
 
-**2021-10-15** — commented on [#685](https://github.com/google/ksp/pull/685#issuecomment-944820601) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-10-16** — deleted branch "z/upstreamKsp" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
 
-**2021-10-15** — pushed [`68834df3`](https://github.com/ZacSweers/ksp/commit/68834df36cb739ac6ed4510a3acf4d3b350b0822) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Check type rather than assume"
+**2021-10-16** — closed PR [#1393](https://api.github.com/repos/square/moshi/pulls/1393) to [square/moshi](https://api.github.com/repos/square/moshi): "Upstream KSP implementation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
