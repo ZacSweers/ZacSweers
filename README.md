@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-16** — opened PR [#390](https://api.github.com/repos/square/anvil/pulls/390) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix logic for directly imported members and implicitly imported members"
+
+**2021-10-16** — created branch "z/checkResolvable" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-10-15** — pushed [`53658ff4`](https://github.com/ZacSweers/wire/commit/53658ff481e78a2e84e57f87167abfe3bebc03a5) to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire): "Move back to setup because of tmpFolder 🤡"
 
 **2021-10-15** — opened PR [#2088](https://api.github.com/repos/square/wire/pulls/2088) to [square/wire](https://api.github.com/repos/square/wire): "Modernize WireTask APIs to use more modern Gradle APIs and be configuration caching friendly"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-15** — commented on [#685](https://github.com/google/ksp/pull/685#issuecomment-944820601) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-10-15** — pushed [`68834df3`](https://github.com/ZacSweers/ksp/commit/68834df36cb739ac6ed4510a3acf4d3b350b0822) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Check type rather than assume"
-
-**2021-10-15** — pushed [`7e8374ed`](https://github.com/ZacSweers/moshi/commit/7e8374eddaf012f68aa404a54a643fcc29fa43c2) to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi): "Another fix"
-
-**2021-10-15** — pushed [`4fbcb6d5`](https://github.com/ZacSweers/ksp/commit/4fbcb6d52aacc494c5af12c386186262b16906cb) to [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp): "Formatting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
