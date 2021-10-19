@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-19** — opened PR [#1175](https://api.github.com/repos/square/kotlinpoet/pulls/1175) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use more portable arrayOf() syntax"
+
+**2021-10-19** — created branch "z/arrayOf" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-16** — deleted branch "z/ccFriendly" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2021-10-16** — deleted branch "z/checkResolvable" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — closed issue [#1402](https://api.github.com/repos/square/moshi/issues/1402) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi doesn't delegate field initialization to parent class"
 
 **2021-10-16** — pushed [`17fb7a8b`](https://github.com/square/moshi/commit/17fb7a8ba2f584d137c7dc5b6fa51feb9d8cdb1c) to [square/moshi](https://api.github.com/repos/square/moshi): "Why is this so fickle"
-
-**2021-10-16** — pushed [`684ab6a8`](https://github.com/square/moshi/commit/684ab6a8a7e7443d0cd9990ea72021343113fa17) to [square/moshi](https://api.github.com/repos/square/moshi): "Make the test all work safely on diff versions"
-
-**2021-10-16** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
