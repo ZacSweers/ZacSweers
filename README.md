@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-19** — opened issue [#395](https://api.github.com/repos/square/anvil/issues/395) on [square/anvil](https://api.github.com/repos/square/anvil): "Regression in 2.3.7 with generic assisted factories"
+
 **2021-10-19** — pushed [`8742e07c`](https://github.com/square/kotlinpoet/commit/8742e07c809adde749bfcd790f54ee86474a5d98) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use safer arrayOf() syntax (#1175)"
 
 **2021-10-19** — deleted branch "z/arrayOf" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944958055) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-16** — closed issue [#1403](https://api.github.com/repos/square/moshi/issues/1403) on [square/moshi](https://api.github.com/repos/square/moshi): "Moshi doesn't delegate field initialization to parent class"
-
-**2021-10-16** — commented on [#1403](https://github.com/square/moshi/issues/1403#issuecomment-944957622) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
