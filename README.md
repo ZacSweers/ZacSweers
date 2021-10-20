@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-20** — pushed [`cfd44f68`](https://github.com/slackhq/EitherNet/commit/cfd44f68bed0ac408084fb5bde6e436abdfcf54d) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Make tests safer"
+
 **2021-10-19** — commented on [#387](https://github.com/square/anvil/issues/387#issuecomment-947243860) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-10-19** — opened issue [#395](https://api.github.com/repos/square/anvil/issues/395) on [square/anvil](https://api.github.com/repos/square/anvil): "Regression in 2.3.7 with generic assisted factories"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-16** — deleted branch "z/ccFriendly" on [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire)
 
 **2021-10-16** — deleted branch "z/checkResolvable" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-10-16** — commented on [#1402](https://github.com/square/moshi/issues/1402#issuecomment-944958055) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
