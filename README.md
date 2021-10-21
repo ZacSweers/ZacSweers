@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-21** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-948915699) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-21** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-948634221) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-21** — closed issue [#1404](https://api.github.com/repos/square/moshi/issues/1404) on [square/moshi](https://api.github.com/repos/square/moshi): "KotlinJsonAdapter throws IllegalArgumentException: No property for required constructor parameter #0 id of fun <init> exception when proguard enabled on AGP7+"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-19** — deleted branch "z/arrayOf" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-10-19** — closed PR [#1175](https://api.github.com/repos/square/kotlinpoet/pulls/1175) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use more portable arrayOf() syntax"
-
-**2021-10-19** — opened PR [#1175](https://api.github.com/repos/square/kotlinpoet/pulls/1175) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use more portable arrayOf() syntax"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
