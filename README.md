@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-22** — opened PR [#1407](https://api.github.com/repos/square/moshi/pulls/1407) to [square/moshi](https://api.github.com/repos/square/moshi): "Parameterize kotlin test infra on CI"
+
+**2021-10-22** — created branch "z/testInfra" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-22** — deleted branch "z/prototypeAnnotationInstantiation" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-22** — pushed [`b8fbe381`](https://github.com/square/moshi/commit/b8fbe381186e330982548ea8c282c983ffaa8280) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6 (#1390)"
+
+**2021-10-22** — closed PR [#1390](https://api.github.com/repos/square/moshi/pulls/1390) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6"
+
+**2021-10-22** — closed issue [#1382](https://api.github.com/repos/square/moshi/issues/1382) on [square/moshi](https://api.github.com/repos/square/moshi): "Directly instantiate qualifier annotations in Kotlin 1.6+"
+
+**2021-10-22** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-949839206) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-22** — pushed [`b80a7f4f`](https://github.com/square/moshi/commit/b80a7f4fdd807c093b0197192a8852239b8009d9) to [square/moshi](https://api.github.com/repos/square/moshi): "Use arrayOf in KSP too"
 
 **2021-10-22** — pushed [`9e772001`](https://github.com/square/moshi/commit/9e7720012e7aef45dec29cccb4bc6d812142d904) to [square/moshi](https://api.github.com/repos/square/moshi): "Add explanatory comment"
 
 **2021-10-22** — pushed 4 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-22** — pushed [`a9eaa849`](https://github.com/square/moshi/commit/a9eaa849e58bd476ce80c30e4e4ed7788c97202e) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present (#1405)"
-
-**2021-10-22** — deleted branch "z/settersTweak" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-22** — closed PR [#1405](https://api.github.com/repos/square/moshi/pulls/1405) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present"
-
-**2021-10-22** — pushed [`3a88349f`](https://github.com/square/moshi/commit/3a88349f34a9230a7745c79c3c0ac43d8315c3ec) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing (#1406)"
-
-**2021-10-22** — deleted branch "z/stacktracePublishing" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-22** — closed PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
-
-**2021-10-22** — opened PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
