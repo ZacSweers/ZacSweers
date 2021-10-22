@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-22** — pushed [`7dd3b393`](https://github.com/square/moshi/commit/7dd3b3937618afa23a2ca38ae03cd9d8a4a7782f) to [square/moshi](https://api.github.com/repos/square/moshi): "Expose maven gradle props as env instead (#1408)"
+**2021-10-22** — pushed [`64b3e2ac`](https://github.com/slackhq/auto-value-kotlin/commit/64b3e2acf885d148f2b50c3cd6b3aa33e368b83e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties (#5)"
 
-**2021-10-22** — deleted branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — deleted branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-10-22** — closed PR [#1408](https://api.github.com/repos/square/moshi/pulls/1408) to [square/moshi](https://api.github.com/repos/square/moshi): "Expose maven gradle props as env instead"
+**2021-10-22** — closed PR [#5](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties"
 
-**2021-10-22** — opened PR [#1408](https://api.github.com/repos/square/moshi/pulls/1408) to [square/moshi](https://api.github.com/repos/square/moshi): "Expose maven gradle props as env instead"
+**2021-10-22** — pushed [`b9811389`](https://github.com/square/moshi/commit/b98113891bf0ff0c20f55f8d98861e4993bf1f0c) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix qualified names"
 
-**2021-10-22** — created branch "z/fixSnapshots" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — pushed [`160e949c`](https://github.com/slackhq/auto-value-kotlin/commit/160e949c64ac8f23d304cef9cd47dd1c89b49089) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Detekt is kinda pointless IMO"
 
-**2021-10-22** — opened PR [#1407](https://api.github.com/repos/square/moshi/pulls/1407) to [square/moshi](https://api.github.com/repos/square/moshi): "Parameterize kotlin test infra on CI"
+**2021-10-22** — opened PR [#5](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties"
 
-**2021-10-22** — created branch "z/testInfra" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — created branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-10-22** — deleted branch "z/prototypeAnnotationInstantiation" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
-**2021-10-22** — pushed [`b8fbe381`](https://github.com/square/moshi/commit/b8fbe381186e330982548ea8c282c983ffaa8280) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6 (#1390)"
+**2021-10-22** — pushed 9 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
-**2021-10-22** — closed PR [#1390](https://api.github.com/repos/square/moshi/pulls/1390) to [square/moshi](https://api.github.com/repos/square/moshi): "Support direct annotation instantiation in code gen on Kotlin 1.6"
+**2021-10-22** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
