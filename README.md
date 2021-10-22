@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-22** — pushed [`b80a7f4f`](https://github.com/square/moshi/commit/b80a7f4fdd807c093b0197192a8852239b8009d9) to [square/moshi](https://api.github.com/repos/square/moshi): "Use arrayOf in KSP too"
+
+**2021-10-22** — pushed [`9e772001`](https://github.com/square/moshi/commit/9e7720012e7aef45dec29cccb4bc6d812142d904) to [square/moshi](https://api.github.com/repos/square/moshi): "Add explanatory comment"
+
+**2021-10-22** — pushed 4 commits to [square/moshi](https://api.github.com/repos/square/moshi).
+
 **2021-10-22** — pushed [`a9eaa849`](https://github.com/square/moshi/commit/a9eaa849e58bd476ce80c30e4e4ed7788c97202e) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present (#1405)"
 
 **2021-10-22** — deleted branch "z/settersTweak" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-22** — closed PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
 
 **2021-10-22** — opened PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
-
-**2021-10-22** — pushed [`9c82c688`](https://github.com/square/moshi/commit/9c82c68832be885388cac65ce0c2e9a579533195) to [square/moshi](https://api.github.com/repos/square/moshi): "Spotless"
-
-**2021-10-22** — created branch "z/stacktracePublishing" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-22** — opened PR [#1405](https://api.github.com/repos/square/moshi/pulls/1405) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
