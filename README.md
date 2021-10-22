@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-21** — commented on [#1390](https://github.com/square/moshi/pull/1390#issuecomment-948915699) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — pushed [`a9eaa849`](https://github.com/square/moshi/commit/a9eaa849e58bd476ce80c30e4e4ed7788c97202e) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present (#1405)"
 
-**2021-10-21** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-948634221) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — deleted branch "z/settersTweak" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-10-21** — closed issue [#1404](https://api.github.com/repos/square/moshi/issues/1404) on [square/moshi](https://api.github.com/repos/square/moshi): "KotlinJsonAdapter throws IllegalArgumentException: No property for required constructor parameter #0 id of fun <init> exception when proguard enabled on AGP7+"
+**2021-10-22** — closed PR [#1405](https://api.github.com/repos/square/moshi/pulls/1405) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present"
 
-**2021-10-21** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-948625409) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-10-22** — pushed [`3a88349f`](https://github.com/square/moshi/commit/3a88349f34a9230a7745c79c3c0ac43d8315c3ec) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing (#1406)"
 
-**2021-10-20** — pushed [`cfd44f68`](https://github.com/slackhq/EitherNet/commit/cfd44f68bed0ac408084fb5bde6e436abdfcf54d) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Make tests safer"
+**2021-10-22** — deleted branch "z/stacktracePublishing" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-10-19** — commented on [#387](https://github.com/square/anvil/issues/387#issuecomment-947243860) in [square/anvil](https://api.github.com/repos/square/anvil)
+**2021-10-22** — closed PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
 
-**2021-10-19** — opened issue [#395](https://api.github.com/repos/square/anvil/issues/395) on [square/anvil](https://api.github.com/repos/square/anvil): "Regression in 2.3.7 with generic assisted factories"
+**2021-10-22** — opened PR [#1406](https://api.github.com/repos/square/moshi/pulls/1406) to [square/moshi](https://api.github.com/repos/square/moshi): "Add --stacktrace to snapshot publishing"
 
-**2021-10-19** — pushed [`8742e07c`](https://github.com/square/kotlinpoet/commit/8742e07c809adde749bfcd790f54ee86474a5d98) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use safer arrayOf() syntax (#1175)"
+**2021-10-22** — pushed [`9c82c688`](https://github.com/square/moshi/commit/9c82c68832be885388cac65ce0c2e9a579533195) to [square/moshi](https://api.github.com/repos/square/moshi): "Spotless"
 
-**2021-10-19** — deleted branch "z/arrayOf" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-10-22** — created branch "z/stacktracePublishing" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-10-19** — closed PR [#1175](https://api.github.com/repos/square/kotlinpoet/pulls/1175) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Switch AnnotationSpec.get() to use more portable arrayOf() syntax"
+**2021-10-22** — opened PR [#1405](https://api.github.com/repos/square/moshi/pulls/1405) to [square/moshi](https://api.github.com/repos/square/moshi): "Only assign setters if present"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
