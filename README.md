@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-22** — created tag "1.0.1" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-10-22** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+
 **2021-10-22** — pushed [`64b3e2ac`](https://github.com/slackhq/auto-value-kotlin/commit/64b3e2acf885d148f2b50c3cd6b3aa33e368b83e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties (#5)"
 
 **2021-10-22** — deleted branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-22** — opened PR [#5](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties"
 
 **2021-10-22** — created branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-22** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
-
-**2021-10-22** — pushed 9 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 
 **2021-10-22** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
