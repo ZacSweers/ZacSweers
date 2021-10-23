@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-10-22** — created tag "1.0.1" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-22** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
-
-**2021-10-22** — pushed [`64b3e2ac`](https://github.com/slackhq/auto-value-kotlin/commit/64b3e2acf885d148f2b50c3cd6b3aa33e368b83e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties (#5)"
-
-**2021-10-22** — deleted branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-22** — closed PR [#5](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties"
-
-**2021-10-22** — pushed [`b9811389`](https://github.com/square/moshi/commit/b98113891bf0ff0c20f55f8d98861e4993bf1f0c) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix qualified names"
-
-**2021-10-22** — pushed [`160e949c`](https://github.com/slackhq/auto-value-kotlin/commit/160e949c64ac8f23d304cef9cd47dd1c89b49089) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Detekt is kinda pointless IMO"
-
-**2021-10-22** — opened PR [#5](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Make more experimental APIs public + overridable properties"
-
-**2021-10-22** — created branch "z/cleanups" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-22** — pushed 3 commits to [square/moshi](https://api.github.com/repos/square/moshi).
+**2021-10-23** — pushed [`a90b2d21`](https://github.com/sangeetds/moshi/commit/a90b2d2105aab7479008d022646a4f3681020d87) to [sangeetds/moshi](https://api.github.com/repos/sangeetds/moshi): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
