@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-23** — pushed [`60259ed5`](https://github.com/slackhq/auto-value-kotlin/commit/60259ed54fed31ba492e1169bc7e92d300696a7e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Skip implicit kotlin.* imports"
+
 **2021-10-23** — opened PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
 
 **2021-10-23** — created branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
