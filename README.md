@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-24** — pushed [`3ee06036`](https://github.com/slackhq/auto-value-kotlin/commit/3ee06036a0aa62f81e2e560e0cc037738269adaa) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Don't exclude imported nested elements"
+
 **2021-10-24** — pushed 6 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
 
 **2021-10-23** — pushed [`60259ed5`](https://github.com/slackhq/auto-value-kotlin/commit/60259ed54fed31ba492e1169bc7e92d300696a7e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Skip implicit kotlin.* imports"
