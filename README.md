@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-23** — opened PR [#6](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking"
+
+**2021-10-23** — created branch "z/moreApiWork" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
 **2021-10-23** — pushed [`a90b2d21`](https://github.com/sangeetds/moshi/commit/a90b2d2105aab7479008d022646a4f3681020d87) to [sangeetds/moshi](https://api.github.com/repos/sangeetds/moshi): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
