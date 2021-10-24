@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-23** — opened PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
+
+**2021-10-23** — created branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-23** — opened issue [#1176](https://api.github.com/repos/square/kotlinpoet/issues/1176) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Class delegation codeblocks always use toString() representation"
+
 **2021-10-23** — opened PR [#6](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking"
 
 **2021-10-23** — created branch "z/moreApiWork" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
