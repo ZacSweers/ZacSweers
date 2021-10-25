@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-24** — pushed [`a95cfca5`](https://github.com/square/kotlinpoet/commit/a95cfca528b3171a8156c75b2b537c5d0561c879) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes (#1179)"
+
+**2021-10-24** — deleted branch "z/kspErrorType" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-24** — closed PR [#1179](https://api.github.com/repos/square/kotlinpoet/pulls/1179) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes"
+
+**2021-10-24** — closed issue [#1178](https://api.github.com/repos/square/kotlinpoet/issues/1178) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unclear error message when attepting to generate from a KSP error type"
+
+**2021-10-24** — opened PR [#1179](https://api.github.com/repos/square/kotlinpoet/pulls/1179) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes"
+
+**2021-10-24** — created branch "z/kspErrorType" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-24** — pushed [`3ee06036`](https://github.com/slackhq/auto-value-kotlin/commit/3ee06036a0aa62f81e2e560e0cc037738269adaa) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Don't exclude imported nested elements"
 
 **2021-10-24** — pushed 6 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
@@ -11,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-23** — pushed [`60259ed5`](https://github.com/slackhq/auto-value-kotlin/commit/60259ed54fed31ba492e1169bc7e92d300696a7e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Skip implicit kotlin.* imports"
 
 **2021-10-23** — opened PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
-
-**2021-10-23** — created branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-23** — opened issue [#1176](https://api.github.com/repos/square/kotlinpoet/issues/1176) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Class delegation codeblocks always use toString() representation"
-
-**2021-10-23** — opened PR [#6](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking"
-
-**2021-10-23** — created branch "z/moreApiWork" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-23** — pushed [`a90b2d21`](https://github.com/sangeetds/moshi/commit/a90b2d2105aab7479008d022646a4f3681020d87) to [sangeetds/moshi](https://api.github.com/repos/sangeetds/moshi): "Apply suggestions from code review"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
