@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-25** — opened PR [#1180](https://api.github.com/repos/square/kotlinpoet/pulls/1180) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too"
+
+**2021-10-25** — created branch "z/assertMessageToo" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-25** — pushed [`4f522fea`](https://github.com/square/kotlinpoet/commit/4f522fea1f1803e6dffd0e03e98722086fb9248e) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation (#1177)"
 
 **2021-10-25** — deleted branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-25** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
 
 **2021-10-25** — pushed [`c635505b`](https://github.com/slackhq/auto-value-kotlin/commit/c635505b789dc007fc528e37967c8c52d4db42a4) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking (#6)"
-
-**2021-10-25** — deleted branch "z/moreApiWork" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-25** — closed PR [#6](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
