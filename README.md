@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-25** — pushed [`313683fa`](https://github.com/square/moshi/commit/313683fa980bf2a7e21b084bba712b331b84b1a7) to [square/moshi](https://api.github.com/repos/square/moshi): "Parameterize kotlin test infra on CI (#1407)"
+
+**2021-10-25** — deleted branch "z/testInfra" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-24** — pushed [`a95cfca5`](https://github.com/square/kotlinpoet/commit/a95cfca528b3171a8156c75b2b537c5d0561c879) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes (#1179)"
 
 **2021-10-24** — deleted branch "z/kspErrorType" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-24** — pushed [`3ee06036`](https://github.com/slackhq/auto-value-kotlin/commit/3ee06036a0aa62f81e2e560e0cc037738269adaa) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Don't exclude imported nested elements"
 
 **2021-10-24** — pushed 6 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
-
-**2021-10-23** — pushed [`60259ed5`](https://github.com/slackhq/auto-value-kotlin/commit/60259ed54fed31ba492e1169bc7e92d300696a7e) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Skip implicit kotlin.* imports"
-
-**2021-10-23** — opened PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
