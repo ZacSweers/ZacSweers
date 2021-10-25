@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-25** — pushed [`4f522fea`](https://github.com/square/kotlinpoet/commit/4f522fea1f1803e6dffd0e03e98722086fb9248e) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation (#1177)"
+
+**2021-10-25** — deleted branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-25** — closed PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
+
+**2021-10-25** — closed issue [#1176](https://api.github.com/repos/square/kotlinpoet/issues/1176) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Class delegation codeblocks always use toString() representation"
+
+**2021-10-25** — pushed [`562b4580`](https://github.com/square/kotlinpoet/commit/562b458027cf6cc2ebb1255ceece5fb521b48113) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix another test"
+
+**2021-10-25** — created tag "1.0.2" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-10-25** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+
 **2021-10-25** — pushed [`c635505b`](https://github.com/slackhq/auto-value-kotlin/commit/c635505b789dc007fc528e37967c8c52d4db42a4) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking (#6)"
 
 **2021-10-25** — deleted branch "z/moreApiWork" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-10-25** — closed PR [#6](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More API tweaking"
-
-**2021-10-25** — opened PR [#1410](https://api.github.com/repos/square/moshi/pulls/1410) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation"
-
-**2021-10-25** — created branch "z/internalApi" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-25** — opened issue [#1409](https://api.github.com/repos/square/moshi/issues/1409) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen should report an error if property in supertype is fulfilled by non-property parameter in subtype"
-
-**2021-10-25** — closed issue [#1362](https://api.github.com/repos/square/moshi/issues/1362) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated Adapter fails to compile when using child classes in List<> parameter"
-
-**2021-10-25** — commented on [#1362](https://github.com/square/moshi/issues/1362#issuecomment-951099132) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-25** — closed issue [#1215](https://api.github.com/repos/square/moshi/issues/1215) on [square/moshi](https://api.github.com/repos/square/moshi): "@Transient annotation results in generated adapter causing Kotlin compiler warning"
-
-**2021-10-25** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-951084845) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
