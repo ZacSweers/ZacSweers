@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-25** — opened issue [#1409](https://api.github.com/repos/square/moshi/issues/1409) on [square/moshi](https://api.github.com/repos/square/moshi): "Code gen should report an error if property in supertype is fulfilled by non-property parameter in subtype"
+
+**2021-10-25** — closed issue [#1362](https://api.github.com/repos/square/moshi/issues/1362) on [square/moshi](https://api.github.com/repos/square/moshi): "Generated Adapter fails to compile when using child classes in List<> parameter"
+
+**2021-10-25** — commented on [#1362](https://github.com/square/moshi/issues/1362#issuecomment-951099132) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-25** — closed issue [#1215](https://api.github.com/repos/square/moshi/issues/1215) on [square/moshi](https://api.github.com/repos/square/moshi): "@Transient annotation results in generated adapter causing Kotlin compiler warning"
+
+**2021-10-25** — commented on [#1215](https://github.com/square/moshi/issues/1215#issuecomment-951084845) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-25** — commented on [#1170](https://github.com/square/moshi/issues/1170#issuecomment-951080401) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-25** — pushed [`313683fa`](https://github.com/square/moshi/commit/313683fa980bf2a7e21b084bba712b331b84b1a7) to [square/moshi](https://api.github.com/repos/square/moshi): "Parameterize kotlin test infra on CI (#1407)"
 
 **2021-10-25** — deleted branch "z/testInfra" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-24** — pushed [`a95cfca5`](https://github.com/square/kotlinpoet/commit/a95cfca528b3171a8156c75b2b537c5d0561c879) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes (#1179)"
 
 **2021-10-24** — deleted branch "z/kspErrorType" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-24** — closed PR [#1179](https://api.github.com/repos/square/kotlinpoet/pulls/1179) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes"
-
-**2021-10-24** — closed issue [#1178](https://api.github.com/repos/square/kotlinpoet/issues/1178) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Unclear error message when attepting to generate from a KSP error type"
-
-**2021-10-24** — opened PR [#1179](https://api.github.com/repos/square/kotlinpoet/pulls/1179) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Error when converting error KSTypes"
-
-**2021-10-24** — created branch "z/kspErrorType" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-24** — pushed [`3ee06036`](https://github.com/slackhq/auto-value-kotlin/commit/3ee06036a0aa62f81e2e560e0cc037738269adaa) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Don't exclude imported nested elements"
-
-**2021-10-24** — pushed 6 commits to [ZacSweers/wire](https://api.github.com/repos/ZacSweers/wire).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
