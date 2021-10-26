@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-25** — closed issue [#540](https://api.github.com/repos/ben-manes/gradle-versions-plugin/issues/540) on [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin): "Incompatible with Gradle configuration caching"
+
+**2021-10-25** — commented on [#540](https://github.com/ben-manes/gradle-versions-plugin/issues/540#issuecomment-951533997) in [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin)
+
 **2021-10-25** — pushed [`53cb4138`](https://github.com/square/kotlinpoet/commit/53cb4138d4a74ce69a752cf85c324a650f63baf9) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too (#1180)"
 
 **2021-10-25** — deleted branch "z/assertMessageToo" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-25** — deleted branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-10-25** — closed PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
-
-**2021-10-25** — closed issue [#1176](https://api.github.com/repos/square/kotlinpoet/issues/1176) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Class delegation codeblocks always use toString() representation"
-
-**2021-10-25** — pushed [`562b4580`](https://github.com/square/kotlinpoet/commit/562b458027cf6cc2ebb1255ceece5fb521b48113) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix another test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
