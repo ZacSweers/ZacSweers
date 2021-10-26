@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-26** — opened issue [#400](https://api.github.com/repos/square/anvil/issues/400) on [square/anvil](https://api.github.com/repos/square/anvil): "Wildcard assisted parameters regression in 2.3.7"
+
 **2021-10-25** — closed issue [#540](https://api.github.com/repos/ben-manes/gradle-versions-plugin/issues/540) on [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin): "Incompatible with Gradle configuration caching"
 
 **2021-10-25** — commented on [#540](https://github.com/ben-manes/gradle-versions-plugin/issues/540#issuecomment-951533997) in [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-25** — pushed [`4f522fea`](https://github.com/square/kotlinpoet/commit/4f522fea1f1803e6dffd0e03e98722086fb9248e) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation (#1177)"
 
 **2021-10-25** — deleted branch "z/fix1176" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-25** — closed PR [#1177](https://api.github.com/repos/square/kotlinpoet/pulls/1177) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fix toString()'d codeblocks in class delegation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
