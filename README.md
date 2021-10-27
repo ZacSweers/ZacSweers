@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-27** — commented on [#1181](https://github.com/square/kotlinpoet/issues/1181#issuecomment-953344066) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-26** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-952406243) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-10-26** — opened issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-25** — closed PR [#1180](https://api.github.com/repos/square/kotlinpoet/pulls/1180) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too"
 
 **2021-10-25** — opened PR [#1180](https://api.github.com/repos/square/kotlinpoet/pulls/1180) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too"
-
-**2021-10-25** — created branch "z/assertMessageToo" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
