@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-28** — opened PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
+
+**2021-10-28** — created branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-10-27** — opened issue [#7](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/7) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Finish supporting autoBuild vs build"
 
 **2021-10-27** — commented on [#1181](https://github.com/square/kotlinpoet/issues/1181#issuecomment-953344066) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-25** — commented on [#540](https://github.com/ben-manes/gradle-versions-plugin/issues/540#issuecomment-951533997) in [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin)
 
 **2021-10-25** — pushed [`53cb4138`](https://github.com/square/kotlinpoet/commit/53cb4138d4a74ce69a752cf85c324a650f63baf9) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too (#1180)"
-
-**2021-10-25** — deleted branch "z/assertMessageToo" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-25** — closed PR [#1180](https://api.github.com/repos/square/kotlinpoet/pulls/1180) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
