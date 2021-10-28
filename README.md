@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-28** — pushed [`28f977b5`](https://github.com/square/kotlinpoet/commit/28f977b5f7890555da5966a03734426927525a2d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs (#1182)"
+
+**2021-10-28** — deleted branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-10-28** — closed PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
+
 **2021-10-28** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-953915736) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-10-28** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-953906352) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-27** — opened issue [#7](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/7) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Finish supporting autoBuild vs build"
 
 **2021-10-27** — commented on [#1181](https://github.com/square/kotlinpoet/issues/1181#issuecomment-953344066) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-26** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-952406243) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-10-26** — opened issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
-
-**2021-10-26** — opened issue [#400](https://api.github.com/repos/square/anvil/issues/400) on [square/anvil](https://api.github.com/repos/square/anvil): "Wildcard assisted parameters regression in 2.3.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
