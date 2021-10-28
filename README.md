@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-28** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-953915736) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-10-28** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-953906352) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-28** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-953903537) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-26** — opened issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
 
 **2021-10-26** — opened issue [#400](https://api.github.com/repos/square/anvil/issues/400) on [square/anvil](https://api.github.com/repos/square/anvil): "Wildcard assisted parameters regression in 2.3.7"
-
-**2021-10-25** — closed issue [#540](https://api.github.com/repos/ben-manes/gradle-versions-plugin/issues/540) on [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin): "Incompatible with Gradle configuration caching"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
