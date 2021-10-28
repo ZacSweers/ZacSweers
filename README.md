@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-28** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-953906352) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-28** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-953903537) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-28** — opened PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
 
 **2021-10-28** — created branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-26** — opened issue [#400](https://api.github.com/repos/square/anvil/issues/400) on [square/anvil](https://api.github.com/repos/square/anvil): "Wildcard assisted parameters regression in 2.3.7"
 
 **2021-10-25** — closed issue [#540](https://api.github.com/repos/ben-manes/gradle-versions-plugin/issues/540) on [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin): "Incompatible with Gradle configuration caching"
-
-**2021-10-25** — commented on [#540](https://github.com/ben-manes/gradle-versions-plugin/issues/540#issuecomment-951533997) in [ben-manes/gradle-versions-plugin](https://api.github.com/repos/ben-manes/gradle-versions-plugin)
-
-**2021-10-25** — pushed [`53cb4138`](https://github.com/square/kotlinpoet/commit/53cb4138d4a74ce69a752cf85c324a650f63baf9) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Assert error message in KS error types test too (#1180)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
