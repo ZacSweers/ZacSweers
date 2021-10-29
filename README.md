@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-29** — commented on [#1400](https://github.com/square/moshi/pull/1400#issuecomment-954896032) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-28** — pushed [`28f977b5`](https://github.com/square/kotlinpoet/commit/28f977b5f7890555da5966a03734426927525a2d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs (#1182)"
 
 **2021-10-28** — deleted branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-28** — created branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-10-27** — opened issue [#7](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/7) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Finish supporting autoBuild vs build"
-
-**2021-10-27** — commented on [#1181](https://github.com/square/kotlinpoet/issues/1181#issuecomment-953344066) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
