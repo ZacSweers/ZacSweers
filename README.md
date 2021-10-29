@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-29** — opened issue [#9](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/9) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Support parsing `{@link TimeFormatter#getDateTimeString(SlackDateTime)}` doc format"
+
+**2021-10-29** — opened PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
+
+**2021-10-29** — pushed [`0d542791`](https://github.com/slackhq/auto-value-kotlin/commit/0d54279101ddd65edcdbadbe46773b45e69e88f9) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Opportunistic remove jvmModifiers from params"
+
+**2021-10-29** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+
 **2021-10-29** — created branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-10-29** — commented on [#1400](https://github.com/square/moshi/pull/1400#issuecomment-954896032) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-28** — closed PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
 
 **2021-10-28** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-953915736) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-10-28** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-953906352) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-28** — commented on [#1404](https://github.com/square/moshi/issues/1404#issuecomment-953903537) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-28** — opened PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
-
-**2021-10-28** — created branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
