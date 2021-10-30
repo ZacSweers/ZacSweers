@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-30** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
+
+**2021-10-30** — pushed [`9018c1f4`](https://github.com/ZacSweers/CatchUp/commit/9018c1f474a8a05c6accf869510ee4e0ec42356c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Try lowering anvil to 2.3.6-1-6-0-RC-1"
+
 **2021-10-30** — pushed [`c288ad61`](https://github.com/square/moshi/commit/c288ad61334a1cd5dec0ba977c0897fdf75251a4) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation (#1410)"
 
 **2021-10-30** — deleted branch "z/internalApi" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-29** — opened PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
 
 **2021-10-29** — pushed [`0d542791`](https://github.com/slackhq/auto-value-kotlin/commit/0d54279101ddd65edcdbadbe46773b45e69e88f9) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Opportunistic remove jvmModifiers from params"
-
-**2021-10-29** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
-
-**2021-10-29** — created branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
