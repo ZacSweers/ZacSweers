@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-30** — pushed [`c288ad61`](https://github.com/square/moshi/commit/c288ad61334a1cd5dec0ba977c0897fdf75251a4) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation (#1410)"
+
+**2021-10-30** — deleted branch "z/internalApi" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-30** — closed PR [#1410](https://api.github.com/repos/square/moshi/pulls/1410) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation"
+
 **2021-10-30** — opened PR [#275](https://api.github.com/repos/ZacSweers/CatchUp/pulls/275) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
 
 **2021-10-30** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-29** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
 
 **2021-10-29** — created branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-10-29** — commented on [#1400](https://github.com/square/moshi/pull/1400#issuecomment-954896032) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-28** — pushed [`28f977b5`](https://github.com/square/kotlinpoet/commit/28f977b5f7890555da5966a03734426927525a2d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs (#1182)"
-
-**2021-10-28** — deleted branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
