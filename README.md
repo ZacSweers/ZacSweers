@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-30** — opened PR [#275](https://api.github.com/repos/ZacSweers/CatchUp/pulls/275) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
+
+**2021-10-30** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-10-29** — opened issue [#9](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/9) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Support parsing `{@link TimeFormatter#getDateTimeString(SlackDateTime)}` doc format"
 
 **2021-10-29** — opened PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-28** — pushed [`28f977b5`](https://github.com/square/kotlinpoet/commit/28f977b5f7890555da5966a03734426927525a2d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs (#1182)"
 
 **2021-10-28** — deleted branch "z/parameterModifiers" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-10-28** — closed PR [#1182](https://api.github.com/repos/square/kotlinpoet/pulls/1182) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Enforce only allowed parameter modifiers in ParameterSpecs"
-
-**2021-10-28** — commented on [#400](https://github.com/square/anvil/issues/400#issuecomment-953915736) in [square/anvil](https://api.github.com/repos/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
