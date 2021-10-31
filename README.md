@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed [`e9b98bdb`](https://github.com/ZacSweers/ticktock/commit/e9b98bdb45c5f4cec913fb239645dd5fb2281822) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update more"
+
 **2021-10-31** — pushed 31 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-31** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955791474) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-30** — pushed [`a0fe826a`](https://github.com/square/moshi/commit/a0fe826a351b8743dbe025da7cfe979f168c91fe) to [square/moshi](https://api.github.com/repos/square/moshi): "Rework to demo AbsenceHandler API instead"
 
 **2021-10-30** — opened PR [#1412](https://api.github.com/repos/square/moshi/pulls/1412) to [square/moshi](https://api.github.com/repos/square/moshi): "Prototype support for Optional"
-
-**2021-10-30** — created branch "z/prototypeOptional" on [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
