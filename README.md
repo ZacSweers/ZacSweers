@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — commented on [#1355](https://github.com/square/moshi/pull/1355#issuecomment-955786078) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-31** — pushed [`92add003`](https://github.com/square/moshi/commit/92add003fe9b1357a6866f0f2e6776bd938e1ede) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README.md to include Kotlin Examples (#1355)"
+
+**2021-10-31** — closed PR [#1355](https://api.github.com/repos/square/moshi/pulls/1355) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README.md to include Kotlin Examples"
+
 **2021-10-30** — pushed [`94328ac7`](https://github.com/square/moshi/commit/94328ac7b0a5f56e3cf4d202f02dbdd8c40f2056) to [square/moshi](https://api.github.com/repos/square/moshi): "More small cleanups"
 
 **2021-10-30** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955612588) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-30** — pushed [`3bac254f`](https://github.com/ZacSweers/CatchUp/commit/3bac254f5268d0b734090baddbddc63b8df5af42) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
 
 **2021-10-30** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-10-30** — pushed [`9018c1f4`](https://github.com/ZacSweers/CatchUp/commit/9018c1f474a8a05c6accf869510ee4e0ec42356c) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Try lowering anvil to 2.3.6-1-6-0-RC-1"
-
-**2021-10-30** — pushed [`c288ad61`](https://github.com/square/moshi/commit/c288ad61334a1cd5dec0ba977c0897fdf75251a4) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation (#1410)"
-
-**2021-10-30** — deleted branch "z/internalApi" on [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
