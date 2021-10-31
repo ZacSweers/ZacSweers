@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-30** — pushed [`94328ac7`](https://github.com/square/moshi/commit/94328ac7b0a5f56e3cf4d202f02dbdd8c40f2056) to [square/moshi](https://api.github.com/repos/square/moshi): "More small cleanups"
+
+**2021-10-30** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955612588) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-10-30** — pushed [`a0fe826a`](https://github.com/square/moshi/commit/a0fe826a351b8743dbe025da7cfe979f168c91fe) to [square/moshi](https://api.github.com/repos/square/moshi): "Rework to demo AbsenceHandler API instead"
+
+**2021-10-30** — opened PR [#1412](https://api.github.com/repos/square/moshi/pulls/1412) to [square/moshi](https://api.github.com/repos/square/moshi): "Prototype support for Optional"
+
+**2021-10-30** — created branch "z/prototypeOptional" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-30** — pushed [`3bac254f`](https://github.com/ZacSweers/CatchUp/commit/3bac254f5268d0b734090baddbddc63b8df5af42) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
 
 **2021-10-30** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-30** — pushed [`c288ad61`](https://github.com/square/moshi/commit/c288ad61334a1cd5dec0ba977c0897fdf75251a4) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation (#1410)"
 
 **2021-10-30** — deleted branch "z/internalApi" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-30** — closed PR [#1410](https://api.github.com/repos/square/moshi/pulls/1410) to [square/moshi](https://api.github.com/repos/square/moshi): "Switch from internal to experimental internal annotation"
-
-**2021-10-30** — opened PR [#275](https://api.github.com/repos/ZacSweers/CatchUp/pulls/275) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Misc updates"
-
-**2021-10-30** — created branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
-
-**2021-10-29** — opened issue [#9](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/9) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Support parsing `{@link TimeFormatter#getDateTimeString(SlackDateTime)}` doc format"
-
-**2021-10-29** — opened PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
