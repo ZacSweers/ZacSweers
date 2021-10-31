@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed 31 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-10-31** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955791474) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-10-31** — commented on [#1355](https://github.com/square/moshi/pull/1355#issuecomment-955786078) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-10-31** — pushed [`92add003`](https://github.com/square/moshi/commit/92add003fe9b1357a6866f0f2e6776bd938e1ede) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README.md to include Kotlin Examples (#1355)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-30** — opened PR [#1412](https://api.github.com/repos/square/moshi/pulls/1412) to [square/moshi](https://api.github.com/repos/square/moshi): "Prototype support for Optional"
 
 **2021-10-30** — created branch "z/prototypeOptional" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-30** — pushed [`3bac254f`](https://github.com/ZacSweers/CatchUp/commit/3bac254f5268d0b734090baddbddc63b8df5af42) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Spotless"
-
-**2021-10-30** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
