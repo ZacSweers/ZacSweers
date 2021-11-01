@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — closed issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
+
+**2021-11-01** — commented on [#401](https://github.com/square/anvil/issues/401#issuecomment-956404155) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-11-01** — deleted branch "z/modernizeBuild" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
 
 **2021-11-01** — pushed [`4608a447`](https://github.com/slackhq/moshi-gson-interop/commit/4608a447a99f583dbfadd1fc1f72b30e7c477743) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit (#34)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-31** — opened issue [#71](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/71) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Ignore synthetic annotation classes produced by directly instantiated annotations"
 
 **2021-10-31** — pushed [`e9b98bdb`](https://github.com/ZacSweers/ticktock/commit/e9b98bdb45c5f4cec913fb239645dd5fb2281822) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update more"
-
-**2021-10-31** — pushed 31 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-10-31** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955791474) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
