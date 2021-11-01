@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-10-31** — pushed 5 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
+**2021-10-31** — opened issue [#71](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/71) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Ignore synthetic annotation classes produced by directly instantiated annotations"
+
 **2021-10-31** — pushed [`e9b98bdb`](https://github.com/ZacSweers/ticktock/commit/e9b98bdb45c5f4cec913fb239645dd5fb2281822) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update more"
 
 **2021-10-31** — pushed 31 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-30** — pushed [`94328ac7`](https://github.com/square/moshi/commit/94328ac7b0a5f56e3cf4d202f02dbdd8c40f2056) to [square/moshi](https://api.github.com/repos/square/moshi): "More small cleanups"
 
 **2021-10-30** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955612588) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-30** — pushed [`a0fe826a`](https://github.com/square/moshi/commit/a0fe826a351b8743dbe025da7cfe979f168c91fe) to [square/moshi](https://api.github.com/repos/square/moshi): "Rework to demo AbsenceHandler API instead"
-
-**2021-10-30** — opened PR [#1412](https://api.github.com/repos/square/moshi/pulls/1412) to [square/moshi](https://api.github.com/repos/square/moshi): "Prototype support for Optional"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
