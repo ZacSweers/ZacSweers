@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — deleted branch "z/modernizeBuild" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
+
+**2021-11-01** — pushed [`4608a447`](https://github.com/slackhq/moshi-gson-interop/commit/4608a447a99f583dbfadd1fc1f72b30e7c477743) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit (#34)"
+
+**2021-11-01** — closed PR [#34](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit"
+
+**2021-11-01** — pushed [`e8ed7cf2`](https://github.com/slackhq/moshi-gson-interop/commit/e8ed7cf2e5dec874e2f4cb788d4cf446f53f12cf) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update build.gradle.kts"
+
+**2021-11-01** — pushed [`093b475c`](https://github.com/slackhq/moshi-gson-interop/commit/093b475ce447b37e7d1b5a695af45465632b9048) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Apply suggestions from code review"
+
 **2021-10-31** — pushed 5 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
 
 **2021-10-31** — opened issue [#71](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/71) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Ignore synthetic annotation classes produced by directly instantiated annotations"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-10-31** — pushed 31 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-10-31** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955791474) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-31** — commented on [#1355](https://github.com/square/moshi/pull/1355#issuecomment-955786078) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-10-31** — pushed [`92add003`](https://github.com/square/moshi/commit/92add003fe9b1357a6866f0f2e6776bd938e1ede) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README.md to include Kotlin Examples (#1355)"
-
-**2021-10-31** — closed PR [#1355](https://api.github.com/repos/square/moshi/pulls/1355) to [square/moshi](https://api.github.com/repos/square/moshi): "Update README.md to include Kotlin Examples"
-
-**2021-10-30** — pushed [`94328ac7`](https://github.com/square/moshi/commit/94328ac7b0a5f56e3cf4d202f02dbdd8c40f2056) to [square/moshi](https://api.github.com/repos/square/moshi): "More small cleanups"
-
-**2021-10-30** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-955612588) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
