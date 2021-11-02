@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — pushed [`f1fcfe1e`](https://github.com/ZacSweers/ticktock/commit/f1fcfe1e90fb54b9fc4449e4cf7de318a3c5eba9) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021e (#53)"
+
+**2021-11-01** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-01** — closed PR [#53](https://api.github.com/repos/ZacSweers/ticktock/pulls/53) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021e"
+
+**2021-11-01** — commented on [#52](https://github.com/ZacSweers/ticktock/pull/52#issuecomment-957059546) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-01** — deleted branch "z/2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-01** — closed PR [#52](https://api.github.com/repos/ZacSweers/ticktock/pulls/52) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2021e"
+
 **2021-11-01** — opened PR [#52](https://api.github.com/repos/ZacSweers/ticktock/pulls/52) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2021e"
 
 **2021-11-01** — created branch "z/2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-01** — pushed [`3c8bc4cf`](https://github.com/ZacSweers/ticktock/commit/3c8bc4cfe08bfc31fd57498c3067b96eb12bb000) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project (#51)"
 
 **2021-11-01** — deleted branch "z/refreshProject" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-11-01** — closed PR [#51](https://api.github.com/repos/ZacSweers/ticktock/pulls/51) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project"
-
-**2021-11-01** — closed issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
-
-**2021-11-01** — commented on [#401](https://github.com/square/anvil/issues/401#issuecomment-956404155) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-11-01** — deleted branch "z/modernizeBuild" on [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop)
-
-**2021-11-01** — pushed [`4608a447`](https://github.com/slackhq/moshi-gson-interop/commit/4608a447a99f583dbfadd1fc1f72b30e7c477743) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit (#34)"
-
-**2021-11-01** — closed PR [#34](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
