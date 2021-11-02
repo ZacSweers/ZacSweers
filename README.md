@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-02** — closed issue [#1414](https://api.github.com/repos/square/moshi/issues/1414) on [square/moshi](https://api.github.com/repos/square/moshi): "Unable to generate JSON"
+
+**2021-11-02** — commented on [#1414](https://github.com/square/moshi/issues/1414#issuecomment-957715374) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-01** — pushed [`f1fcfe1e`](https://github.com/ZacSweers/ticktock/commit/f1fcfe1e90fb54b9fc4449e4cf7de318a3c5eba9) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021e (#53)"
 
 **2021-11-01** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-01** — opened PR [#52](https://api.github.com/repos/ZacSweers/ticktock/pulls/52) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2021e"
 
 **2021-11-01** — created branch "z/2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-11-01** — pushed [`3c8bc4cf`](https://github.com/ZacSweers/ticktock/commit/3c8bc4cfe08bfc31fd57498c3067b96eb12bb000) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project (#51)"
-
-**2021-11-01** — deleted branch "z/refreshProject" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
