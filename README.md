@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-02** — commented on [#2006](https://github.com/square/wire/issues/2006#issuecomment-957885933) in [square/wire](https://api.github.com/repos/square/wire)
+
 **2021-11-02** — commented on [#1345](https://github.com/square/moshi/issues/1345#issuecomment-957766377) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-02** — closed issue [#1345](https://api.github.com/repos/square/moshi/issues/1345) on [square/moshi](https://api.github.com/repos/square/moshi): "Proposal: Add Kotlin examples to the README.md "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-01** — commented on [#52](https://github.com/ZacSweers/ticktock/pull/52#issuecomment-957059546) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-11-01** — deleted branch "z/2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-11-01** — closed PR [#52](https://api.github.com/repos/ZacSweers/ticktock/pulls/52) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2021e"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
