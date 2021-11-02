@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-01** — opened PR [#52](https://api.github.com/repos/ZacSweers/ticktock/pulls/52) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update to 2021e"
+
+**2021-11-01** — created branch "z/2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-01** — pushed [`3c8bc4cf`](https://github.com/ZacSweers/ticktock/commit/3c8bc4cfe08bfc31fd57498c3067b96eb12bb000) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project (#51)"
+
+**2021-11-01** — deleted branch "z/refreshProject" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-01** — closed PR [#51](https://api.github.com/repos/ZacSweers/ticktock/pulls/51) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Refresh project"
+
 **2021-11-01** — closed issue [#401](https://api.github.com/repos/square/anvil/issues/401) on [square/anvil](https://api.github.com/repos/square/anvil): "Fully qualified member reference fails to resolve in `KtExpression.requireFqName()`"
 
 **2021-11-01** — commented on [#401](https://github.com/square/anvil/issues/401#issuecomment-956404155) in [square/anvil](https://api.github.com/repos/square/anvil)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-01** — pushed [`4608a447`](https://github.com/slackhq/moshi-gson-interop/commit/4608a447a99f583dbfadd1fc1f72b30e7c477743) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit (#34)"
 
 **2021-11-01** — closed PR [#34](https://api.github.com/repos/slackhq/moshi-gson-interop/pulls/34) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Modernize build a bit"
-
-**2021-11-01** — pushed [`e8ed7cf2`](https://github.com/slackhq/moshi-gson-interop/commit/e8ed7cf2e5dec874e2f4cb788d4cf446f53f12cf) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Update build.gradle.kts"
-
-**2021-11-01** — pushed [`093b475c`](https://github.com/slackhq/moshi-gson-interop/commit/093b475ce447b37e7d1b5a695af45465632b9048) to [slackhq/moshi-gson-interop](https://api.github.com/repos/slackhq/moshi-gson-interop): "Apply suggestions from code review"
-
-**2021-10-31** — pushed 5 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2021-10-31** — opened issue [#71](https://api.github.com/repos/Kotlin/binary-compatibility-validator/issues/71) on [Kotlin/binary-compatibility-validator](https://api.github.com/repos/Kotlin/binary-compatibility-validator): "Ignore synthetic annotation classes produced by directly instantiated annotations"
-
-**2021-10-31** — pushed [`e9b98bdb`](https://github.com/ZacSweers/ticktock/commit/e9b98bdb45c5f4cec913fb239645dd5fb2281822) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update more"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
