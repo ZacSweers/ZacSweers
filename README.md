@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-02** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-958080800) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2021-11-02** — opened issue [#1268](https://api.github.com/repos/pinterest/ktlint/issues/1268) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "Trailing assignments on next line are missing continuation indent in 0.43.0"
+
+**2021-11-02** — opened issue [#1267](https://api.github.com/repos/pinterest/ktlint/issues/1267) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "Split type arguments break 0.43.0"
+
 **2021-11-02** — commented on [#1415](https://github.com/square/moshi/issues/1415#issuecomment-958015676) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-02** — commented on [#1415](https://github.com/square/moshi/issues/1415#issuecomment-958012657) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-02** — closed issue [#1414](https://api.github.com/repos/square/moshi/issues/1414) on [square/moshi](https://api.github.com/repos/square/moshi): "Unable to generate JSON"
 
 **2021-11-02** — commented on [#1414](https://github.com/square/moshi/issues/1414#issuecomment-957715374) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-01** — pushed [`f1fcfe1e`](https://github.com/ZacSweers/ticktock/commit/f1fcfe1e90fb54b9fc4449e4cf7de318a3c5eba9) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021e (#53)"
-
-**2021-11-01** — deleted branch "bot/update-tzdata" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
-
-**2021-11-01** — closed PR [#53](https://api.github.com/repos/ZacSweers/ticktock/pulls/53) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Update TZDATA to 2021e"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
