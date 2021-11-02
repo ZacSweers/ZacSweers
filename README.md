@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-02** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-958080800) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+**2021-11-02** — pushed [`7693782a`](https://github.com/slackhq/auto-value-kotlin/commit/7693782af1d6fb11a7027f8f8309b5ae127343e6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Spotless"
 
-**2021-11-02** — opened issue [#1268](https://api.github.com/repos/pinterest/ktlint/issues/1268) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "Trailing assignments on next line are missing continuation indent in 0.43.0"
+**2021-11-02** — created tag "1.1.0" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-11-02** — opened issue [#1267](https://api.github.com/repos/pinterest/ktlint/issues/1267) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "Split type arguments break 0.43.0"
+**2021-11-02** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
 
-**2021-11-02** — commented on [#1415](https://github.com/square/moshi/issues/1415#issuecomment-958015676) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-02** — pushed [`42e8ed75`](https://github.com/slackhq/auto-value-kotlin/commit/42e8ed75af72e61ff449cdfbbf1d6bfd88c752c5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes (#8)"
 
-**2021-11-02** — commented on [#1415](https://github.com/square/moshi/issues/1415#issuecomment-958012657) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-02** — deleted branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-11-02** — commented on [#2006](https://github.com/square/wire/issues/2006#issuecomment-957885933) in [square/wire](https://api.github.com/repos/square/wire)
+**2021-11-02** — closed PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
 
-**2021-11-02** — commented on [#1345](https://github.com/square/moshi/issues/1345#issuecomment-957766377) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-02** — pushed [`2a1d16e3`](https://github.com/slackhq/slack-lints/commit/2a1d16e3c583f68571caded99b76385b378cfa74) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI (#7)"
 
-**2021-11-02** — closed issue [#1345](https://api.github.com/repos/square/moshi/issues/1345) on [square/moshi](https://api.github.com/repos/square/moshi): "Proposal: Add Kotlin examples to the README.md "
+**2021-11-02** — deleted branch "z/addAutoIncrement" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
 
-**2021-11-02** — closed issue [#1414](https://api.github.com/repos/square/moshi/issues/1414) on [square/moshi](https://api.github.com/repos/square/moshi): "Unable to generate JSON"
+**2021-11-02** — closed PR [#7](https://api.github.com/repos/slackhq/slack-lints/pulls/7) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI"
 
-**2021-11-02** — commented on [#1414](https://github.com/square/moshi/issues/1414#issuecomment-957715374) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-02** — opened PR [#7](https://api.github.com/repos/slackhq/slack-lints/pulls/7) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
