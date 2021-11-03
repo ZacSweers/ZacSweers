@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-03** — opened PR [#1416](https://api.github.com/repos/square/moshi/pulls/1416) to [square/moshi](https://api.github.com/repos/square/moshi): "Support externally-compiled transient property recognition in KSP"
+
+**2021-11-03** — created branch "z/transienceFix" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-03** — commented on [#710](https://github.com/google/ksp/issues/710#issuecomment-959763939) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-11-03** — opened issue [#710](https://api.github.com/repos/google/ksp/issues/710) on [google/ksp](https://api.github.com/repos/google/ksp): "JVM modifiers from externally-compiled classes are not modeled in KSModifierListOwner.modifiers"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-02** — deleted branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-02** — closed PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
-
-**2021-11-02** — pushed [`2a1d16e3`](https://github.com/slackhq/slack-lints/commit/2a1d16e3c583f68571caded99b76385b378cfa74) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI (#7)"
-
-**2021-11-02** — deleted branch "z/addAutoIncrement" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
