@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-03** — opened PR [#1416](https://api.github.com/repos/square/moshi/pulls/1416) to [square/moshi](https://api.github.com/repos/square/moshi): "Support externally-compiled transient property recognition in KSP"
+**2021-11-03** — pushed [`6828051b`](https://github.com/slackhq/slack-lints/commit/6828051b5110e4bf7c0416d0569ac29f8d4aafb4) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Aaaaand another"
 
-**2021-11-03** — created branch "z/transienceFix" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-03** — pushed [`a7c70d87`](https://github.com/slackhq/slack-lints/commit/a7c70d87aa43e32b257cff996bc84f8b881bf3fa) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix another"
 
-**2021-11-03** — commented on [#710](https://github.com/google/ksp/issues/710#issuecomment-959763939) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-11-03** — pushed [`47c673c6`](https://github.com/slackhq/slack-lints/commit/47c673c66476cdf5181094df69cadd2df4ea606a) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Back to original name"
 
-**2021-11-03** — opened issue [#710](https://api.github.com/repos/google/ksp/issues/710) on [google/ksp](https://api.github.com/repos/google/ksp): "JVM modifiers from externally-compiled classes are not modeled in KSModifierListOwner.modifiers"
+**2021-11-03** — pushed [`dbba7722`](https://github.com/slackhq/slack-lints/commit/dbba77228ff83ef9721f736194512e8c008b0b0f) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Try without dots"
 
-**2021-11-02** — pushed [`7693782a`](https://github.com/slackhq/auto-value-kotlin/commit/7693782af1d6fb11a7027f8f8309b5ae127343e6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Spotless"
+**2021-11-03** — pushed [`48e6dd3f`](https://github.com/square/moshi/commit/48e6dd3f03fb54dac51cc26487d66c4977d1543b) to [square/moshi](https://api.github.com/repos/square/moshi): "Support externally-compiled transient property recognition in KSP (#1416)"
 
-**2021-11-02** — created tag "1.1.0" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+**2021-11-03** — deleted branch "z/transienceFix" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-02** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+**2021-11-03** — closed PR [#1416](https://api.github.com/repos/square/moshi/pulls/1416) to [square/moshi](https://api.github.com/repos/square/moshi): "Support externally-compiled transient property recognition in KSP"
 
-**2021-11-02** — pushed [`42e8ed75`](https://github.com/slackhq/auto-value-kotlin/commit/42e8ed75af72e61ff449cdfbbf1d6bfd88c752c5) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes (#8)"
+**2021-11-03** — pushed [`173d19f7`](https://github.com/slackhq/slack-lints/commit/173d19f79b9f9bf20c2911b5508edf0d90674140) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Remove superfluous echo"
 
-**2021-11-02** — deleted branch "z/nestedClasses" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+**2021-11-03** — pushed [`91dfc716`](https://github.com/slackhq/slack-lints/commit/91dfc7160a8e1e965963a8d18cddf1c0f59a98b4) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Rename to just Slack"
 
-**2021-11-02** — closed PR [#8](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/8) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Rework implementation to support nested classes"
+**2021-11-03** — pushed [`eccb3e1d`](https://github.com/slackhq/slack-lints/commit/eccb3e1d91e81ab851e4a91ce885fa0183b74a4e) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add scriptUtil"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
