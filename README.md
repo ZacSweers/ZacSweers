@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-03** — commented on [#710](https://github.com/google/ksp/issues/710#issuecomment-959763939) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-11-03** — opened issue [#710](https://api.github.com/repos/google/ksp/issues/710) on [google/ksp](https://api.github.com/repos/google/ksp): "JVM modifiers from externally-compiled classes are not modeled in KSModifierListOwner.modifiers"
+
 **2021-11-02** — pushed [`7693782a`](https://github.com/slackhq/auto-value-kotlin/commit/7693782af1d6fb11a7027f8f8309b5ae127343e6) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Spotless"
 
 **2021-11-02** — created tag "1.1.0" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-02** — pushed [`2a1d16e3`](https://github.com/slackhq/slack-lints/commit/2a1d16e3c583f68571caded99b76385b378cfa74) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI (#7)"
 
 **2021-11-02** — deleted branch "z/addAutoIncrement" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
-
-**2021-11-02** — closed PR [#7](https://api.github.com/repos/slackhq/slack-lints/pulls/7) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI"
-
-**2021-11-02** — opened PR [#7](https://api.github.com/repos/slackhq/slack-lints/pulls/7) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Add increment_version.sh for CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
