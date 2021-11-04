@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-04** — commented on [#1267](https://github.com/pinterest/ktlint/issues/1267#issuecomment-961344101) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2021-11-04** — commented on [#1274](https://github.com/pinterest/ktlint/issues/1274#issuecomment-961341537) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2021-11-04** — opened issue [#1274](https://api.github.com/repos/pinterest/ktlint/issues/1274) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "KtLint 0.43.0 is missing requisite `--add-opens` to work in JDK 16+"
+
+**2021-11-04** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-961338916) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
+
+**2021-11-04** — pushed [`117fbbca`](https://github.com/slackhq/auto-value-kotlin/commit/117fbbca8809a79c4693d8ac056fa5d549a2930c) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix logic by abstracting and not returning early"
+
+**2021-11-04** — pushed [`3fa39891`](https://github.com/slackhq/auto-value-kotlin/commit/3fa3989164897edd6aec99277f871cb5e4cc4fa2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update refs"
+
+**2021-11-04** — pushed [`db9320c4`](https://github.com/slackhq/auto-value-kotlin/commit/db9320c4e71363fbc836ef37773f7189d87d8bad) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Detekt"
+
+**2021-11-04** — pushed [`db52bba6`](https://github.com/slackhq/auto-value-kotlin/commit/db52bba684c810eb762ffd332ec5ea6ad0e58067) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Use AVExtension's classloader for loading"
+
 **2021-11-04** — opened PR [#11](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/11) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options"
 
 **2021-11-04** — created branch "z/moreFixes" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-03** — created tag "1.1.1" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-03** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
-
-**2021-11-03** — pushed [`4d5d4404`](https://github.com/slackhq/slack-lints/commit/4d5d44042a0e548e111e3390f569180c610a3e69) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update contributing"
-
-**2021-11-03** — deleted branch "z/fixMissingOptions" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-03** — pushed [`26ae75e6`](https://github.com/slackhq/auto-value-kotlin/commit/26ae75e6aac381c0c5938395dc8edef8b73b3592) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add missing supported options to AVK processor (#10)"
-
-**2021-11-03** — closed PR [#10](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/10) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add missing supported options to AVK processor"
-
-**2021-11-03** — opened PR [#10](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/10) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add missing supported options to AVK processor"
-
-**2021-11-03** — created branch "z/fixMissingOptions" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
