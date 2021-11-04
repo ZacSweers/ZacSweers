@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-04** — opened PR [#11](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/11) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options"
+
+**2021-11-04** — created branch "z/moreFixes" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
 **2021-11-03** — created tag "1.1.1" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-03** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-03** — opened PR [#10](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/10) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add missing supported options to AVK processor"
 
 **2021-11-03** — created branch "z/fixMissingOptions" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-03** — pushed [`6828051b`](https://github.com/slackhq/slack-lints/commit/6828051b5110e4bf7c0416d0569ac29f8d4aafb4) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Aaaaand another"
-
-**2021-11-03** — pushed [`a7c70d87`](https://github.com/slackhq/slack-lints/commit/a7c70d87aa43e32b257cff996bc84f8b881bf3fa) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix another"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
