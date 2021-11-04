@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-04** — pushed [`926d3340`](https://github.com/slackhq/slack-lints/commit/926d33404c1d0e88f5fe8ceb1a965b742973aff3) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix wording"
+
 **2021-11-04** — commented on [#4227](https://github.com/detekt/detekt/pull/4227#issuecomment-961391997) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-11-04** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-961390502) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-04** — pushed [`3fa39891`](https://github.com/slackhq/auto-value-kotlin/commit/3fa3989164897edd6aec99277f871cb5e4cc4fa2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update refs"
 
 **2021-11-04** — pushed [`db9320c4`](https://github.com/slackhq/auto-value-kotlin/commit/db9320c4e71363fbc836ef37773f7189d87d8bad) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Detekt"
-
-**2021-11-04** — pushed [`db52bba6`](https://github.com/slackhq/auto-value-kotlin/commit/db52bba684c810eb762ffd332ec5ea6ad0e58067) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Use AVExtension's classloader for loading"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
