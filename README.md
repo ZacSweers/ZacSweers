@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — closed PR [#1153](https://api.github.com/repos/square/moshi/pulls/1153) to [square/moshi](https://api.github.com/repos/square/moshi): "Codegen: Ignore properties without backing fields"
+
+**2021-11-05** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-962233294) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-05** — opened PR [#1417](https://api.github.com/repos/square/moshi/pulls/1417) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore` "
+
+**2021-11-05** — created branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962201819) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962164659) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — opened PR [#416](https://api.github.com/repos/square/anvil/pulls/416) to [square/anvil](https://api.github.com/repos/square/anvil): "Check for function bodies in assisted functions"
 
 **2021-11-05** — created branch "z/defaultsFix" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-11-05** — pushed 14 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
-
-**2021-11-05** — opened issue [#415](https://api.github.com/repos/square/anvil/issues/415) on [square/anvil](https://api.github.com/repos/square/anvil): "Assisted factory generation doesn't filter out functions with defaults"
-
-**2021-11-05** — opened PR [#414](https://api.github.com/repos/square/anvil/pulls/414) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix ordering of compileAnvil calls"
-
-**2021-11-05** — pushed [`d77decd5`](https://github.com/ZacSweers/anvil/commit/d77decd54b342926f8d8461f8094540d18b0bd1e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Fix ordering of compileAnvil calls"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
