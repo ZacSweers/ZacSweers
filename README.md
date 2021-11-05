@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — created tag "1.1.2" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-05** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+
+**2021-11-05** — pushed [`12c86f6f`](https://github.com/slackhq/auto-value-kotlin/commit/12c86f6f509854efde9e86843253c8c5c3fbaacc) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options (#11)"
+
+**2021-11-05** — deleted branch "z/moreFixes" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-05** — closed PR [#11](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/11) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options"
+
 **2021-11-05** — closed PR [#1153](https://api.github.com/repos/square/moshi/pulls/1153) to [square/moshi](https://api.github.com/repos/square/moshi): "Codegen: Ignore properties without backing fields"
 
 **2021-11-05** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-962233294) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — created branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962201819) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962164659) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-05** — pushed [`97954c81`](https://github.com/ZacSweers/anvil/commit/97954c81939a0c1486f91bc2050da366d405bc1f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Remove dupe"
-
-**2021-11-05** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-962038840) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-05** — opened PR [#416](https://api.github.com/repos/square/anvil/pulls/416) to [square/anvil](https://api.github.com/repos/square/anvil): "Check for function bodies in assisted functions"
-
-**2021-11-05** — created branch "z/defaultsFix" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
