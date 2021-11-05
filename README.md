@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-962038840) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-11-05** — opened PR [#416](https://api.github.com/repos/square/anvil/pulls/416) to [square/anvil](https://api.github.com/repos/square/anvil): "Check for function bodies in assisted functions"
 
 **2021-11-05** — created branch "z/defaultsFix" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-04** — commented on [#4227](https://github.com/detekt/detekt/pull/4227#issuecomment-961391997) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-11-04** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-961390502) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2021-11-04** — commented on [#1267](https://github.com/pinterest/ktlint/issues/1267#issuecomment-961344101) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
