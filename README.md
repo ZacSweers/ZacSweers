@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962201819) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962164659) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-05** — pushed [`97954c81`](https://github.com/ZacSweers/anvil/commit/97954c81939a0c1486f91bc2050da366d405bc1f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Remove dupe"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — opened PR [#414](https://api.github.com/repos/square/anvil/pulls/414) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix ordering of compileAnvil calls"
 
 **2021-11-05** — pushed [`d77decd5`](https://github.com/ZacSweers/anvil/commit/d77decd54b342926f8d8461f8094540d18b0bd1e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Fix ordering of compileAnvil calls"
-
-**2021-11-04** — pushed [`926d3340`](https://github.com/slackhq/slack-lints/commit/926d33404c1d0e88f5fe8ceb1a965b742973aff3) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix wording"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
