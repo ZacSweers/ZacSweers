@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — opened issue [#415](https://api.github.com/repos/square/anvil/issues/415) on [square/anvil](https://api.github.com/repos/square/anvil): "Assisted factory generation doesn't filter out functions with defaults"
+
 **2021-11-05** — opened PR [#414](https://api.github.com/repos/square/anvil/pulls/414) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix ordering of compileAnvil calls"
 
 **2021-11-05** — pushed [`d77decd5`](https://github.com/ZacSweers/anvil/commit/d77decd54b342926f8d8461f8094540d18b0bd1e) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Fix ordering of compileAnvil calls"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-04** — opened issue [#1274](https://api.github.com/repos/pinterest/ktlint/issues/1274) on [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint): "KtLint 0.43.0 is missing requisite `--add-opens` to work in JDK 16+"
 
 **2021-11-04** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-961338916) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
-
-**2021-11-04** — pushed [`117fbbca`](https://github.com/slackhq/auto-value-kotlin/commit/117fbbca8809a79c4693d8ac056fa5d549a2930c) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix logic by abstracting and not returning early"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
