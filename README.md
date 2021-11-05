@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — pushed [`97954c81`](https://github.com/ZacSweers/anvil/commit/97954c81939a0c1486f91bc2050da366d405bc1f) to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil): "Remove dupe"
+
 **2021-11-05** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-962038840) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-05** — opened PR [#416](https://api.github.com/repos/square/anvil/pulls/416) to [square/anvil](https://api.github.com/repos/square/anvil): "Check for function bodies in assisted functions"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-04** — pushed [`926d3340`](https://github.com/slackhq/slack-lints/commit/926d33404c1d0e88f5fe8ceb1a965b742973aff3) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix wording"
 
 **2021-11-04** — commented on [#4227](https://github.com/detekt/detekt/pull/4227#issuecomment-961391997) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
-
-**2021-11-04** — commented on [#1268](https://github.com/pinterest/ktlint/issues/1268#issuecomment-961390502) in [pinterest/ktlint](https://api.github.com/repos/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
