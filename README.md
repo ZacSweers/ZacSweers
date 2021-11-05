@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962261115) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-11-05** — created tag "1.1.2" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-05** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — opened PR [#1417](https://api.github.com/repos/square/moshi/pulls/1417) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore` "
 
 **2021-11-05** — created branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962201819) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
