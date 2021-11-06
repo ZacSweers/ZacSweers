@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-06** — commented on [#1418](https://github.com/square/moshi/issues/1418#issuecomment-962519128) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-06** — created tag "1.2.0-2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-11-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — pushed [`12c86f6f`](https://github.com/slackhq/auto-value-kotlin/commit/12c86f6f509854efde9e86843253c8c5c3fbaacc) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options (#11)"
 
 **2021-11-05** — deleted branch "z/moreFixes" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-05** — closed PR [#11](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/11) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
