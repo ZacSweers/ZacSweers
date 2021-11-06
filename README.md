@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-06** — created tag "1.2.0-2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
+**2021-11-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+
 **2021-11-06** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
 
 **2021-11-06** — pushed [`246dcd37`](https://github.com/square/moshi/commit/246dcd37877837490e73ffdf7c953711854e1567) to [square/moshi](https://api.github.com/repos/square/moshi): "Update old non-working transient example test"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — deleted branch "z/moreFixes" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-05** — closed PR [#11](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/11) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options"
-
-**2021-11-05** — closed PR [#1153](https://api.github.com/repos/square/moshi/pulls/1153) to [square/moshi](https://api.github.com/repos/square/moshi): "Codegen: Ignore properties without backing fields"
-
-**2021-11-05** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-962233294) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
