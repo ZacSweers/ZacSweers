@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-08** — pushed [`d4db52b9`](https://github.com/ZacSweers/CatchUp/commit/d4db52b9cf442e7d43c12d031edca0a107456982) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.6.0-RC2"
+
+**2021-11-08** — closed issue [#161](https://api.github.com/repos/ZacSweers/MoshiX/issues/161) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Interest check: Gson to Moshi migration helper tools"
+
+**2021-11-08** — commented on [#161](https://github.com/ZacSweers/MoshiX/issues/161#issuecomment-963269977) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-11-08** — commented on [#161](https://github.com/ZacSweers/MoshiX/issues/161#issuecomment-963259048) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-11-07** — closed issue [#38](https://api.github.com/repos/ZacSweers/ticktock/issues/38) on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "TickTock not works with R8 minifyEnabled true"
 
 **2021-11-07** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-962764321) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-06** — created tag "1.2.0-2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
 
 **2021-11-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
-
-**2021-11-06** — pushed 2 commits to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp).
-
-**2021-11-06** — pushed [`246dcd37`](https://github.com/square/moshi/commit/246dcd37877837490e73ffdf7c953711854e1567) to [square/moshi](https://api.github.com/repos/square/moshi): "Update old non-working transient example test"
-
-**2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962261115) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-05** — created tag "1.1.2" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
