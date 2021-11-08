@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-08** — pushed [`d4db52b9`](https://github.com/ZacSweers/CatchUp/commit/d4db52b9cf442e7d43c12d031edca0a107456982) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.6.0-RC2"
+**2021-11-08** — pushed [`954ca46b`](https://github.com/square/moshi/commit/954ca46b9ed994e6e52a9fc613b2dc80a9da4b98) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore`  (#1417)"
 
-**2021-11-08** — closed issue [#161](https://api.github.com/repos/ZacSweers/MoshiX/issues/161) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Interest check: Gson to Moshi migration helper tools"
+**2021-11-08** — deleted branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-08** — commented on [#161](https://github.com/ZacSweers/MoshiX/issues/161#issuecomment-963269977) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-11-08** — closed PR [#1417](https://api.github.com/repos/square/moshi/pulls/1417) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore` "
 
-**2021-11-08** — commented on [#161](https://github.com/ZacSweers/MoshiX/issues/161#issuecomment-963259048) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-11-08** — closed issue [#1151](https://api.github.com/repos/square/moshi/issues/1151) on [square/moshi](https://api.github.com/repos/square/moshi): "Codegen Adapters trying to set properties without backing fields"
 
-**2021-11-07** — closed issue [#38](https://api.github.com/repos/ZacSweers/ticktock/issues/38) on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "TickTock not works with R8 minifyEnabled true"
+**2021-11-08** — closed issue [#1259](https://api.github.com/repos/square/moshi/issues/1259) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin codegen causes compile error for private computed val"
 
-**2021-11-07** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-962764321) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2021-11-08** — closed issue [#609](https://api.github.com/repos/square/moshi/issues/609) on [square/moshi](https://api.github.com/repos/square/moshi): "Exclude property without backing field from deserialization"
 
-**2021-11-07** — pushed [`8542f4ea`](https://github.com/ZacSweers/ticktock/commit/8542f4eafd7db36638e97e70748dfd9bad265064) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Simplify RELEASING"
+**2021-11-08** — pushed [`7df94a04`](https://github.com/ZacSweers/CatchUp/commit/7df94a04160bfd084dcbe06b70201ad6aac88659) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "omg"
 
-**2021-11-06** — commented on [#1418](https://github.com/square/moshi/issues/1418#issuecomment-962519128) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-08** — pushed [`716c7e04`](https://github.com/ZacSweers/CatchUp/commit/716c7e0452ab1b17baea882970cb915012e50fd7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix anvil version"
 
-**2021-11-06** — created tag "1.2.0-2021e" on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+**2021-11-08** — pushed [`e47d0cdc`](https://github.com/square/moshi/commit/e47d0cdc8e28b5d3353a0a050172ff80d2907796) to [square/moshi](https://api.github.com/repos/square/moshi): "Use field on both"
 
-**2021-11-06** — pushed 2 commits to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock).
+**2021-11-08** — pushed [`307f835d`](https://github.com/square/moshi/commit/307f835df7691463e11ad5ff93ef320979552d11) to [square/moshi](https://api.github.com/repos/square/moshi): "Synthetic holders"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
