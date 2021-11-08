@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-07** — closed issue [#38](https://api.github.com/repos/ZacSweers/ticktock/issues/38) on [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "TickTock not works with R8 minifyEnabled true"
+
+**2021-11-07** — commented on [#38](https://github.com/ZacSweers/ticktock/issues/38#issuecomment-962764321) in [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock)
+
 **2021-11-07** — pushed [`8542f4ea`](https://github.com/ZacSweers/ticktock/commit/8542f4eafd7db36638e97e70748dfd9bad265064) to [ZacSweers/ticktock](https://api.github.com/repos/ZacSweers/ticktock): "Simplify RELEASING"
 
 **2021-11-06** — commented on [#1418](https://github.com/square/moshi/issues/1418#issuecomment-962519128) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-05** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-962261115) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-05** — created tag "1.1.2" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-05** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
-
-**2021-11-05** — pushed [`12c86f6f`](https://github.com/slackhq/auto-value-kotlin/commit/12c86f6f509854efde9e86843253c8c5c3fbaacc) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "More little cleanups and consolidating options (#11)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
