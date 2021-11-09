@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-09** — created branch "z/lintIssueRepro" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
+
+**2021-11-09** — pushed [`48b7e0e2`](https://github.com/slackhq/slack-lints/commit/48b7e0e25d6c1899c79aa76a44232be9807ac3cb) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix CI concurrency"
+
+**2021-11-09** — pushed [`0ef58741`](https://github.com/slackhq/slack-lints/commit/0ef587411557343fa3ac0328b1555c5d3e099c98) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Support newer lint versions (#8)"
+
+**2021-11-09** — deleted branch "z/newVersions" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
+
+**2021-11-09** — closed PR [#8](https://api.github.com/repos/slackhq/slack-lints/pulls/8) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Support newer lint versions"
+
 **2021-11-09** — pushed [`df463ecb`](https://github.com/slackhq/slack-lints/commit/df463ecb500487f7e6fe8444241a062d9024e1e1) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update build.gradle.kts"
 
 **2021-11-08** — opened PR [#8](https://api.github.com/repos/slackhq/slack-lints/pulls/8) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Support newer lint versions"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-08** — pushed [`954ca46b`](https://github.com/square/moshi/commit/954ca46b9ed994e6e52a9fc613b2dc80a9da4b98) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore`  (#1417)"
 
 **2021-11-08** — deleted branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-08** — closed PR [#1417](https://api.github.com/repos/square/moshi/pulls/1417) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore` "
-
-**2021-11-08** — closed issue [#1151](https://api.github.com/repos/square/moshi/issues/1151) on [square/moshi](https://api.github.com/repos/square/moshi): "Codegen Adapters trying to set properties without backing fields"
-
-**2021-11-08** — closed issue [#1259](https://api.github.com/repos/square/moshi/issues/1259) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin codegen causes compile error for private computed val"
-
-**2021-11-08** — closed issue [#609](https://api.github.com/repos/square/moshi/issues/609) on [square/moshi](https://api.github.com/repos/square/moshi): "Exclude property without backing field from deserialization"
-
-**2021-11-08** — pushed [`7df94a04`](https://github.com/ZacSweers/CatchUp/commit/7df94a04160bfd084dcbe06b70201ad6aac88659) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "omg"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
