@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-08** — opened PR [#8](https://api.github.com/repos/slackhq/slack-lints/pulls/8) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Support newer lint versions"
+
+**2021-11-08** — created branch "z/newVersions" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
+
 **2021-11-08** — pushed [`954ca46b`](https://github.com/square/moshi/commit/954ca46b9ed994e6e52a9fc613b2dc80a9da4b98) to [square/moshi](https://api.github.com/repos/square/moshi): "Add `@Json.ignore`  (#1417)"
 
 **2021-11-08** — deleted branch "z/jsonIgnore" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-08** — pushed [`7df94a04`](https://github.com/ZacSweers/CatchUp/commit/7df94a04160bfd084dcbe06b70201ad6aac88659) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "omg"
 
 **2021-11-08** — pushed [`716c7e04`](https://github.com/ZacSweers/CatchUp/commit/716c7e0452ab1b17baea882970cb915012e50fd7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Fix anvil version"
-
-**2021-11-08** — pushed [`e47d0cdc`](https://github.com/square/moshi/commit/e47d0cdc8e28b5d3353a0a050172ff80d2907796) to [square/moshi](https://api.github.com/repos/square/moshi): "Use field on both"
-
-**2021-11-08** — pushed [`307f835d`](https://github.com/square/moshi/commit/307f835df7691463e11ad5ff93ef320979552d11) to [square/moshi](https://api.github.com/repos/square/moshi): "Synthetic holders"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
