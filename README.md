@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-10** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-965607050) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
+
 **2021-11-10** — pushed [`f2581bae`](https://github.com/slackhq/slack-lints/commit/f2581bae4a6777eff915d16104ee2032e02959b2) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Link blog post"
 
 **2021-11-10** — opened issue [#15](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/15) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Parents referencing wrong child classes"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-09** — deleted branch "z/fixEnumJsonClass" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-09** — closed PR [#12](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/12) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate"
-
-**2021-11-09** — deleted branch "z/spotless6" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
