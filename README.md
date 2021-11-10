@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-10** — closed issue [#1421](https://api.github.com/repos/square/moshi/issues/1421) on [square/moshi](https://api.github.com/repos/square/moshi): "Changing the suffix of generated adapters"
+
+**2021-11-10** — commented on [#1421](https://github.com/square/moshi/issues/1421#issuecomment-965741674) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-10** — opened PR [#2467](https://api.github.com/repos/material-components/material-components-android/pulls/2467) to [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android): "[Sliders] Make `BaseOnChangeListener` public"
+
+**2021-11-10** — pushed [`75702c85`](https://github.com/ZacSweers/material-components-android/commit/75702c85636d7fe4e7a2712c81e2a90c429927ad) to [ZacSweers/material-components-android](https://api.github.com/repos/ZacSweers/material-components-android): "Make BaseOnChangeListener public"
+
 **2021-11-10** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-965607050) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-10** — pushed [`f2581bae`](https://github.com/slackhq/slack-lints/commit/f2581bae4a6777eff915d16104ee2032e02959b2) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Link blog post"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-10** — commented on [#1186](https://github.com/square/kotlinpoet/issues/1186#issuecomment-965312170) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-10** — closed issue [#1420](https://api.github.com/repos/square/moshi/issues/1420) on [square/moshi](https://api.github.com/repos/square/moshi): "Fail to parse 0, 1, null to optional Boolean (Boolean?) use custom adapter"
-
-**2021-11-10** — commented on [#1420](https://github.com/square/moshi/issues/1420#issuecomment-965289159) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-09** — pushed [`a41fb6fa`](https://github.com/slackhq/auto-value-kotlin/commit/a41fb6fabd4ae1fe9cc1c9cf90c9c5824cb2a7c3) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate (#12)"
-
-**2021-11-09** — deleted branch "z/fixEnumJsonClass" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-09** — closed PR [#12](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/12) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
