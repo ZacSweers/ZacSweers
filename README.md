@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-10** — pushed [`f2581bae`](https://github.com/slackhq/slack-lints/commit/f2581bae4a6777eff915d16104ee2032e02959b2) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Link blog post"
+
+**2021-11-10** — opened issue [#15](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/15) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Parents referencing wrong child classes"
+
+**2021-11-10** — closed issue [#1186](https://api.github.com/repos/square/kotlinpoet/issues/1186) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Is there currently a way to parse a raw ClassName from a textual representation, or a KtTypeReference?"
+
+**2021-11-10** — commented on [#1186](https://github.com/square/kotlinpoet/issues/1186#issuecomment-965312170) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-10** — closed issue [#1420](https://api.github.com/repos/square/moshi/issues/1420) on [square/moshi](https://api.github.com/repos/square/moshi): "Fail to parse 0, 1, null to optional Boolean (Boolean?) use custom adapter"
+
+**2021-11-10** — commented on [#1420](https://github.com/square/moshi/issues/1420#issuecomment-965289159) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-09** — pushed [`a41fb6fa`](https://github.com/slackhq/auto-value-kotlin/commit/a41fb6fabd4ae1fe9cc1c9cf90c9c5824cb2a7c3) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate (#12)"
 
 **2021-11-09** — deleted branch "z/fixEnumJsonClass" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-09** — closed PR [#12](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/12) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate"
 
 **2021-11-09** — deleted branch "z/spotless6" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-09** — pushed [`23c970aa`](https://github.com/slackhq/auto-value-kotlin/commit/23c970aacb736690e418218ea5f78f43742a6483) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update spotless and dokka to latest (#13)"
-
-**2021-11-09** — closed PR [#13](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/13) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update spotless and dokka to latest"
-
-**2021-11-09** — pushed [`4546c22b`](https://github.com/slackhq/auto-value-kotlin/commit/4546c22b61027e013497f7175b1b886033ad11c2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update to Gradle 7.3 (#14)"
-
-**2021-11-09** — deleted branch "z/gradle73" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-09** — closed PR [#14](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/14) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update to Gradle 7.3"
-
-**2021-11-09** — pushed [`dd7af557`](https://github.com/ZacSweers/MoshiX/commit/dd7af5575dbae7c5987f85b671066b1b145ed609) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fixup version handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
