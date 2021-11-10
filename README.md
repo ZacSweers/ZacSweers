@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-09** — pushed [`a41fb6fa`](https://github.com/slackhq/auto-value-kotlin/commit/a41fb6fabd4ae1fe9cc1c9cf90c9c5824cb2a7c3) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate (#12)"
+
+**2021-11-09** — deleted branch "z/fixEnumJsonClass" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-09** — closed PR [#12](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/12) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Add JsonClass annotations to enums where appropriate"
+
+**2021-11-09** — deleted branch "z/spotless6" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-09** — pushed [`23c970aa`](https://github.com/slackhq/auto-value-kotlin/commit/23c970aacb736690e418218ea5f78f43742a6483) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update spotless and dokka to latest (#13)"
+
+**2021-11-09** — closed PR [#13](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/13) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update spotless and dokka to latest"
+
+**2021-11-09** — pushed [`4546c22b`](https://github.com/slackhq/auto-value-kotlin/commit/4546c22b61027e013497f7175b1b886033ad11c2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update to Gradle 7.3 (#14)"
+
+**2021-11-09** — deleted branch "z/gradle73" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-09** — closed PR [#14](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/14) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update to Gradle 7.3"
+
 **2021-11-09** — pushed [`dd7af557`](https://github.com/ZacSweers/MoshiX/commit/dd7af5575dbae7c5987f85b671066b1b145ed609) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fixup version handling"
-
-**2021-11-09** — opened PR [#9](https://api.github.com/repos/slackhq/slack-lints/pulls/9) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update to Gradle 7.3 + Java 17"
-
-**2021-11-09** — created branch "z/gradle73" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
-
-**2021-11-09** — opened PR [#1419](https://api.github.com/repos/square/moshi/pulls/1419) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7.3"
-
-**2021-11-09** — created branch "z/gradle73" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-09** — opened PR [#41](https://api.github.com/repos/slackhq/EitherNet/pulls/41) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Gradle 7.3 and Java 17"
-
-**2021-11-09** — created branch "z/gradle73" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-11-09** — opened PR [#14](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/14) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Update to Gradle 7.3"
-
-**2021-11-09** — created branch "z/gradle73" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-09** — opened PR [#162](https://api.github.com/repos/ZacSweers/MoshiX/pulls/162) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Gradle to 7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
