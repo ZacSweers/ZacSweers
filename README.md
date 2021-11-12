@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-12** — opened issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
+
 **2021-11-10** — closed issue [#1421](https://api.github.com/repos/square/moshi/issues/1421) on [square/moshi](https://api.github.com/repos/square/moshi): "Changing the suffix of generated adapters"
 
 **2021-11-10** — commented on [#1421](https://github.com/square/moshi/issues/1421#issuecomment-965741674) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-10** — closed issue [#1186](https://api.github.com/repos/square/kotlinpoet/issues/1186) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Is there currently a way to parse a raw ClassName from a textual representation, or a KtTypeReference?"
 
 **2021-11-10** — commented on [#1186](https://github.com/square/kotlinpoet/issues/1186#issuecomment-965312170) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-10** — closed issue [#1420](https://api.github.com/repos/square/moshi/issues/1420) on [square/moshi](https://api.github.com/repos/square/moshi): "Fail to parse 0, 1, null to optional Boolean (Boolean?) use custom adapter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
