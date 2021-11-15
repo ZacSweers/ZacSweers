@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-15** — opened PR [#223](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/223) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.0.1"
+
+**2021-11-15** — pushed [`b1459750`](https://github.com/ZacSweers/kotlin-compile-testing/commit/b14597501572d9b0d634194a33567505b0971148) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update KSP to 1.0.1"
+
+**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-968568497) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-15** — commented on [#222](https://github.com/tschuchortdev/kotlin-compile-testing/issues/222#issuecomment-968567721) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2021-11-15** — opened PR [#1422](https://api.github.com/repos/square/moshi/pulls/1422) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API"
+
+**2021-11-15** — created branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-14** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-968505793) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
 
 **2021-11-12** — opened issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-10** — closed issue [#1421](https://api.github.com/repos/square/moshi/issues/1421) on [square/moshi](https://api.github.com/repos/square/moshi): "Changing the suffix of generated adapters"
 
 **2021-11-10** — commented on [#1421](https://github.com/square/moshi/issues/1421#issuecomment-965741674) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-10** — opened PR [#2467](https://api.github.com/repos/material-components/material-components-android/pulls/2467) to [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android): "[Sliders] Make `BaseOnChangeListener` public"
-
-**2021-11-10** — pushed [`75702c85`](https://github.com/ZacSweers/material-components-android/commit/75702c85636d7fe4e7a2712c81e2a90c429927ad) to [ZacSweers/material-components-android](https://api.github.com/repos/ZacSweers/material-components-android): "Make BaseOnChangeListener public"
-
-**2021-11-10** — commented on [#6311](https://github.com/robolectric/robolectric/issues/6311#issuecomment-965607050) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-10** — pushed [`f2581bae`](https://github.com/slackhq/slack-lints/commit/f2581bae4a6777eff915d16104ee2032e02959b2) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Link blog post"
-
-**2021-11-10** — opened issue [#15](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/15) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Parents referencing wrong child classes"
-
-**2021-11-10** — closed issue [#1186](https://api.github.com/repos/square/kotlinpoet/issues/1186) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Is there currently a way to parse a raw ClassName from a textual representation, or a KtTypeReference?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
