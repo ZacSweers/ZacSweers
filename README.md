@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-15** — created tag "1.1.3" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
+
+**2021-11-15** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
+
 **2021-11-15** — pushed [`4eb0947f`](https://github.com/slackhq/auto-value-kotlin/commit/4eb0947f9db130d736e66bd578ba68f5f09aa8af) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix nested enums getting shared across multiple classes (#17)"
 
 **2021-11-15** — deleted branch "z/fixEnums" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-15** — closed PR [#18](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/18) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable"
 
 **2021-11-15** — closed issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
-
-**2021-11-15** — opened PR [#18](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/18) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable"
-
-**2021-11-15** — created branch "z/fixDefaults" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
