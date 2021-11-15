@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-969033538) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-15** — pushed [`ee26d9e4`](https://github.com/square/moshi/commit/ee26d9e419d27624c887a14401f68f0575b11086) to [square/moshi](https://api.github.com/repos/square/moshi): "Copy in KSP-supported KCT for now"
+
+**2021-11-15** — pushed [`74e9a96b`](https://github.com/ZacSweers/kotlin-compile-testing/commit/74e9a96b2ae8ecff5a56468ce1a155ddc8404189) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Ksp prefix"
+
+**2021-11-15** — pushed [`a32c2beb`](https://github.com/ZacSweers/kotlin-compile-testing/commit/a32c2beb22c95b03453835e35f80213e21a83270) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Add support for allWarningsAsErrors"
+
 **2021-11-15** — opened PR [#223](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/223) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.0.1"
 
 **2021-11-15** — pushed [`b1459750`](https://github.com/ZacSweers/kotlin-compile-testing/commit/b14597501572d9b0d634194a33567505b0971148) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update KSP to 1.0.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-15** — opened PR [#1422](https://api.github.com/repos/square/moshi/pulls/1422) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API"
 
 **2021-11-15** — created branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-14** — commented on [#6721](https://github.com/robolectric/robolectric/issues/6721#issuecomment-968505793) in [robolectric/robolectric](https://api.github.com/repos/robolectric/robolectric)
-
-**2021-11-12** — opened issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
-
-**2021-11-10** — closed issue [#1421](https://api.github.com/repos/square/moshi/issues/1421) on [square/moshi](https://api.github.com/repos/square/moshi): "Changing the suffix of generated adapters"
-
-**2021-11-10** — commented on [#1421](https://github.com/square/moshi/issues/1421#issuecomment-965741674) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
