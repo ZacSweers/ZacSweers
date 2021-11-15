@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-15** — closed issue [#65](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/65) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Adding redacted plugin causing failure in `kaptGenerateStubsKotlin` step."
+
+**2021-11-15** — commented on [#65](https://github.com/ZacSweers/redacted-compiler-plugin/issues/65#issuecomment-969326247) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-11-15** — opened PR [#66](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/66) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Upgrade to Kotlin 1.6"
+
+**2021-11-15** — created branch "z/kotlin16" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-11-15** — pushed [`9440e5c7`](https://github.com/square/moshi/commit/9440e5c7d0b72eea05d8c5c2868f3dbf6377d129) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API (#1422)"
 
 **2021-11-15** — deleted branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-969072624) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-15** — pushed [`83c82862`](https://github.com/square/moshi/commit/83c82862170cc38e732a443bbfdc683b114d0776) to [square/moshi](https://api.github.com/repos/square/moshi): "Try regular RC?"
-
-**2021-11-15** — pushed [`f0151685`](https://github.com/square/moshi/commit/f0151685cae061d8aaabed6312414aba6cda8748) to [square/moshi](https://api.github.com/repos/square/moshi): "Move up transient check to the right place"
-
-**2021-11-15** — pushed [`85ba5bf1`](https://github.com/square/moshi/commit/85ba5bf188196268c4ae30192dec19986729a8e4) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7.3 (#1419)"
-
-**2021-11-15** — deleted branch "z/gradle73" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-15** — closed PR [#1419](https://api.github.com/repos/square/moshi/pulls/1419) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
