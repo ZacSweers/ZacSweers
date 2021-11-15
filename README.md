@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-969033538) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-15** — pushed [`9440e5c7`](https://github.com/square/moshi/commit/9440e5c7d0b72eea05d8c5c2868f3dbf6377d129) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API (#1422)"
 
-**2021-11-15** — pushed [`ee26d9e4`](https://github.com/square/moshi/commit/ee26d9e419d27624c887a14401f68f0575b11086) to [square/moshi](https://api.github.com/repos/square/moshi): "Copy in KSP-supported KCT for now"
+**2021-11-15** — deleted branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-15** — pushed [`74e9a96b`](https://github.com/ZacSweers/kotlin-compile-testing/commit/74e9a96b2ae8ecff5a56468ce1a155ddc8404189) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Ksp prefix"
+**2021-11-15** — closed PR [#1422](https://api.github.com/repos/square/moshi/pulls/1422) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API"
 
-**2021-11-15** — pushed [`a32c2beb`](https://github.com/ZacSweers/kotlin-compile-testing/commit/a32c2beb22c95b03453835e35f80213e21a83270) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Add support for allWarningsAsErrors"
+**2021-11-15** — pushed [`5555079b`](https://github.com/square/moshi/commit/5555079b4158f74762ee036c7266ebc531a16a85) to [square/moshi](https://api.github.com/repos/square/moshi): "Skip that matrix for now"
 
-**2021-11-15** — opened PR [#223](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/223) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update KSP to 1.0.1"
+**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-969072624) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-15** — pushed [`b1459750`](https://github.com/ZacSweers/kotlin-compile-testing/commit/b14597501572d9b0d634194a33567505b0971148) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update KSP to 1.0.1"
+**2021-11-15** — pushed [`83c82862`](https://github.com/square/moshi/commit/83c82862170cc38e732a443bbfdc683b114d0776) to [square/moshi](https://api.github.com/repos/square/moshi): "Try regular RC?"
 
-**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-968568497) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-15** — pushed [`f0151685`](https://github.com/square/moshi/commit/f0151685cae061d8aaabed6312414aba6cda8748) to [square/moshi](https://api.github.com/repos/square/moshi): "Move up transient check to the right place"
 
-**2021-11-15** — commented on [#222](https://github.com/tschuchortdev/kotlin-compile-testing/issues/222#issuecomment-968567721) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+**2021-11-15** — pushed [`85ba5bf1`](https://github.com/square/moshi/commit/85ba5bf188196268c4ae30192dec19986729a8e4) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7.3 (#1419)"
 
-**2021-11-15** — opened PR [#1422](https://api.github.com/repos/square/moshi/pulls/1422) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API"
+**2021-11-15** — deleted branch "z/gradle73" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-15** — created branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-15** — closed PR [#1419](https://api.github.com/repos/square/moshi/pulls/1419) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to Gradle 7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
