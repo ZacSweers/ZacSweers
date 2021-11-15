@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-15** — closed issue [#65](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/65) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Adding redacted plugin causing failure in `kaptGenerateStubsKotlin` step."
+**2021-11-15** — pushed [`4eb0947f`](https://github.com/slackhq/auto-value-kotlin/commit/4eb0947f9db130d736e66bd578ba68f5f09aa8af) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix nested enums getting shared across multiple classes (#17)"
 
-**2021-11-15** — commented on [#65](https://github.com/ZacSweers/redacted-compiler-plugin/issues/65#issuecomment-969326247) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-15** — deleted branch "z/fixEnums" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-11-15** — opened PR [#66](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/66) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Upgrade to Kotlin 1.6"
+**2021-11-15** — closed PR [#17](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/17) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix nested enums getting shared across multiple classes"
 
-**2021-11-15** — created branch "z/kotlin16" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-15** — closed issue [#15](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/15) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Parents referencing wrong child classes"
 
-**2021-11-15** — pushed [`9440e5c7`](https://github.com/square/moshi/commit/9440e5c7d0b72eea05d8c5c2868f3dbf6377d129) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API (#1422)"
+**2021-11-15** — pushed [`fa2f8e71`](https://github.com/slackhq/auto-value-kotlin/commit/fa2f8e71a3b38c27f5567fc2962ad24f9702dad2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable (#18)"
 
-**2021-11-15** — deleted branch "z/kspUpdate" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-15** — deleted branch "z/fixDefaults" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
-**2021-11-15** — closed PR [#1422](https://api.github.com/repos/square/moshi/pulls/1422) to [square/moshi](https://api.github.com/repos/square/moshi): "Update to KSP 1.0.1 and use new jvm modifiers resolver API"
+**2021-11-15** — closed PR [#18](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/18) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable"
 
-**2021-11-15** — pushed [`5555079b`](https://github.com/square/moshi/commit/5555079b4158f74762ee036c7266ebc531a16a85) to [square/moshi](https://api.github.com/repos/square/moshi): "Skip that matrix for now"
+**2021-11-15** — closed issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
 
-**2021-11-15** — commented on [#1422](https://github.com/square/moshi/pull/1422#issuecomment-969072624) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-15** — opened PR [#18](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/18) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable"
 
-**2021-11-15** — pushed [`83c82862`](https://github.com/square/moshi/commit/83c82862170cc38e732a443bbfdc683b114d0776) to [square/moshi](https://api.github.com/repos/square/moshi): "Try regular RC?"
+**2021-11-15** — created branch "z/fixDefaults" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
