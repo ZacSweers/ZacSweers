@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970590420) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970588202) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-16** — created branch "z/kotlin16" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-16** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-970442997) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-16** — closed issue [#1423](https://api.github.com/repos/square/moshi/issues/1423) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin 1.6 with target version 1.5 : Annotation class cannot be instantiated"
 
 **2021-11-16** — commented on [#1423](https://github.com/square/moshi/issues/1423#issuecomment-970435454) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-16** — closed issue [#95](https://api.github.com/repos/slackhq/keeper/issues/95) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Keeper throw AssertionError because of excluded dependency"
-
-**2021-11-16** — commented on [#95](https://github.com/slackhq/keeper/issues/95#issuecomment-970390752) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
