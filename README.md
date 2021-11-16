@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-970442997) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970440237) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-16** — closed issue [#1424](https://api.github.com/repos/square/moshi/issues/1424) on [square/moshi](https://api.github.com/repos/square/moshi): "`Record requires ASM8` when using `1.13.0-SNAPSHOT` "
+
+**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970439374) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-16** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-970436684) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-16** — closed issue [#1423](https://api.github.com/repos/square/moshi/issues/1423) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin 1.6 with target version 1.5 : Annotation class cannot be instantiated"
+
+**2021-11-16** — commented on [#1423](https://github.com/square/moshi/issues/1423#issuecomment-970435454) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-16** — closed issue [#95](https://api.github.com/repos/slackhq/keeper/issues/95) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Keeper throw AssertionError because of excluded dependency"
 
 **2021-11-16** — commented on [#95](https://github.com/slackhq/keeper/issues/95#issuecomment-970390752) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
 
 **2021-11-15** — created tag "1.1.3" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-15** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
-
-**2021-11-15** — pushed [`4eb0947f`](https://github.com/slackhq/auto-value-kotlin/commit/4eb0947f9db130d736e66bd578ba68f5f09aa8af) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix nested enums getting shared across multiple classes (#17)"
-
-**2021-11-15** — deleted branch "z/fixEnums" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-15** — closed PR [#17](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/17) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Fix nested enums getting shared across multiple classes"
-
-**2021-11-15** — closed issue [#15](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/15) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Parents referencing wrong child classes"
-
-**2021-11-15** — pushed [`fa2f8e71`](https://github.com/slackhq/auto-value-kotlin/commit/fa2f8e71a3b38c27f5567fc2962ad24f9702dad2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable (#18)"
-
-**2021-11-15** — deleted branch "z/fixDefaults" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
