@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — created tag "1.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-11-16** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
+
+**2021-11-16** — created tag "0.9.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-11-16** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
+**2021-11-16** — commented on [#223](https://github.com/tschuchortdev/kotlin-compile-testing/pull/223#issuecomment-970745113) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2021-11-16** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2021-11-16** — commented on [#4651](https://github.com/JetBrains/kotlin/pull/4651#issuecomment-970743163) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
+
+**2021-11-16** — pushed [`1f28e6ea`](https://github.com/ZacSweers/kotlin/commit/1f28e6ea7ccfe3a6472c827c1e411f5247ea59a5) to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin): "Fix another"
+
 **2021-11-16** — pushed [`ebb89c72`](https://github.com/ZacSweers/kotlin/commit/ebb89c725601f0130f86ceda48db02bedfcf65f3) to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin): "Fix incorrect kapt classpath error message"
 
 **2021-11-16** — opened PR [#4651](https://api.github.com/repos/JetBrains/kotlin/pulls/4651) to [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin): "Fix incorrect kapt classpath error message"
-
-**2021-11-16** — pushed [`59f00ad5`](https://github.com/square/moshi/commit/59f00ad54ed175efe52fe6e24c92599de9ab5ba7) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove one more stale flag"
-
-**2021-11-16** — pushed 96 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2021-11-16** — pushed [`42d4270a`](https://github.com/square/moshi/commit/42d4270aafe8ee260e6b2ebad8e2c3197ed3e4d2) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up jvm args"
-
-**2021-11-16** — pushed [`5d1c8ec0`](https://github.com/slackhq/EitherNet/commit/5d1c8ec064ab4e9d645b394e3bd07364bbe8001a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Kotlin 1.6 w/ direct instantiation of annotations (#29)"
-
-**2021-11-16** — deleted branch "z/try1530rc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-11-16** — closed PR [#29](https://api.github.com/repos/slackhq/EitherNet/pulls/29) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Kotlin 1.6 w/ direct instantiation of annotations"
-
-**2021-11-16** — closed issue [#54](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/54) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Incompatible with Kotlin 1.6.0 snapshots"
-
-**2021-11-16** — pushed [`cb3eb9e7`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/cb3eb9e7003d32342c9220e84dbe570c1804971b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Upgrade to Kotlin 1.6 (#66)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
