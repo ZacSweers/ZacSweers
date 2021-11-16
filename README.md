@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-16** — commented on [#29](https://github.com/slackhq/EitherNet/pull/29#issuecomment-970653649) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+**2021-11-16** — pushed [`ebb89c72`](https://github.com/ZacSweers/kotlin/commit/ebb89c725601f0130f86ceda48db02bedfcf65f3) to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin): "Fix incorrect kapt classpath error message"
 
-**2021-11-16** — pushed [`f8035b23`](https://github.com/slackhq/EitherNet/commit/f8035b23b6ca6392bd5bbac836925d48c211e737) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "1.6.0 final"
+**2021-11-16** — opened PR [#4651](https://api.github.com/repos/JetBrains/kotlin/pulls/4651) to [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin): "Fix incorrect kapt classpath error message"
 
-**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970590420) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — pushed [`59f00ad5`](https://github.com/square/moshi/commit/59f00ad54ed175efe52fe6e24c92599de9ab5ba7) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove one more stale flag"
 
-**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970588202) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — pushed 96 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
-**2021-11-16** — created branch "z/kotlin16" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — pushed [`42d4270a`](https://github.com/square/moshi/commit/42d4270aafe8ee260e6b2ebad8e2c3197ed3e4d2) to [square/moshi](https://api.github.com/repos/square/moshi): "Clean up jvm args"
 
-**2021-11-16** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-970442997) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — pushed [`5d1c8ec0`](https://github.com/slackhq/EitherNet/commit/5d1c8ec064ab4e9d645b394e3bd07364bbe8001a) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Kotlin 1.6 w/ direct instantiation of annotations (#29)"
 
-**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970440237) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — deleted branch "z/try1530rc" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
-**2021-11-16** — closed issue [#1424](https://api.github.com/repos/square/moshi/issues/1424) on [square/moshi](https://api.github.com/repos/square/moshi): "`Record requires ASM8` when using `1.13.0-SNAPSHOT` "
+**2021-11-16** — closed PR [#29](https://api.github.com/repos/slackhq/EitherNet/pulls/29) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Kotlin 1.6 w/ direct instantiation of annotations"
 
-**2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970439374) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — closed issue [#54](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/54) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Incompatible with Kotlin 1.6.0 snapshots"
 
-**2021-11-16** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-970436684) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-16** — pushed [`cb3eb9e7`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/cb3eb9e7003d32342c9220e84dbe570c1804971b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Upgrade to Kotlin 1.6 (#66)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
