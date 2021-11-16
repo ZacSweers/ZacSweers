@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — commented on [#29](https://github.com/slackhq/EitherNet/pull/29#issuecomment-970653649) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-11-16** — pushed [`f8035b23`](https://github.com/slackhq/EitherNet/commit/f8035b23b6ca6392bd5bbac836925d48c211e737) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "1.6.0 final"
+
 **2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970590420) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970588202) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-16** — commented on [#1424](https://github.com/square/moshi/issues/1424#issuecomment-970439374) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-16** — commented on [#1324](https://github.com/square/moshi/issues/1324#issuecomment-970436684) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-16** — closed issue [#1423](https://api.github.com/repos/square/moshi/issues/1423) on [square/moshi](https://api.github.com/repos/square/moshi): "Kotlin 1.6 with target version 1.5 : Annotation class cannot be instantiated"
-
-**2021-11-16** — commented on [#1423](https://github.com/square/moshi/issues/1423#issuecomment-970435454) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
