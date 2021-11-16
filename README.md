@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — closed issue [#95](https://api.github.com/repos/slackhq/keeper/issues/95) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Keeper throw AssertionError because of excluded dependency"
+
+**2021-11-16** — commented on [#95](https://github.com/slackhq/keeper/issues/95#issuecomment-970390752) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
+
 **2021-11-15** — created tag "1.1.3" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
 
 **2021-11-15** — pushed 2 commits to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-15** — pushed [`fa2f8e71`](https://github.com/slackhq/auto-value-kotlin/commit/fa2f8e71a3b38c27f5567fc2962ad24f9702dad2) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable (#18)"
 
 **2021-11-15** — deleted branch "z/fixDefaults" on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin)
-
-**2021-11-15** — closed PR [#18](https://api.github.com/repos/slackhq/auto-value-kotlin/pulls/18) to [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Generate constructor defaults when serializable"
-
-**2021-11-15** — closed issue [#16](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/16) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Default values should be duplicated in constructors when using moshi"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
