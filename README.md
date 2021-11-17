@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — pushed [`4709ded2`](https://github.com/slackhq/EitherNet/commit/4709ded2fdf231d8dbbaec642e4e82df2c7479b2) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snapshots"
+
+**2021-11-16** — closed issue [#42](https://api.github.com/repos/slackhq/EitherNet/issues/42) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Automatic snapshot publishing always skipped"
+
+**2021-11-16** — commented on [#42](https://github.com/slackhq/EitherNet/issues/42#issuecomment-971122193) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-11-16** — created tag "1.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 
 **2021-11-16** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-16** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2021-11-16** — commented on [#4651](https://github.com/JetBrains/kotlin/pull/4651#issuecomment-970743163) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
-
-**2021-11-16** — pushed [`1f28e6ea`](https://github.com/ZacSweers/kotlin/commit/1f28e6ea7ccfe3a6472c827c1e411f5247ea59a5) to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin): "Fix another"
-
-**2021-11-16** — pushed [`ebb89c72`](https://github.com/ZacSweers/kotlin/commit/ebb89c725601f0130f86ceda48db02bedfcf65f3) to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin): "Fix incorrect kapt classpath error message"
-
-**2021-11-16** — opened PR [#4651](https://api.github.com/repos/JetBrains/kotlin/pulls/4651) to [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin): "Fix incorrect kapt classpath error message"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
