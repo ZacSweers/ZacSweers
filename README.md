@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — pushed [`73553286`](https://github.com/square/moshi/commit/73553286fb482040990c9efadd829faf849b676e) to [square/moshi](https://api.github.com/repos/square/moshi): "Upgrade to Kotlin 1.6 + always instantiate annotations (#1425)"
+
+**2021-11-17** — closed PR [#1425](https://api.github.com/repos/square/moshi/pulls/1425) to [square/moshi](https://api.github.com/repos/square/moshi): "Upgrade to Kotlin 1.6 + always instantiate annotations"
+
+**2021-11-17** — deleted branch "z/kotlin16" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-17** — pushed [`8a700ef2`](https://github.com/square/moshi/commit/8a700ef2a6abbc6b19333912e53fd8c0cf4bf58e) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
 
 **2021-11-17** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-971694156) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — commented on [#222](https://github.com/tschuchortdev/kotlin-compile-testing/issues/222#issuecomment-971687397) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 
 **2021-11-17** — deleted branch "z/fixDefinitelyNotNullType" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
-
-**2021-11-17** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971214550) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-11-17** — commented on [#426](https://github.com/square/anvil/pull/426#issuecomment-971213716) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-11-17** — opened PR [#426](https://api.github.com/repos/square/anvil/pulls/426) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix DefinitelyNotNullTye"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
