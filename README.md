@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-16** — pushed 20 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
+
+**2021-11-16** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971155130) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-11-16** — pushed [`4709ded2`](https://github.com/slackhq/EitherNet/commit/4709ded2fdf231d8dbbaec642e4e82df2c7479b2) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fix snapshots"
 
 **2021-11-16** — closed issue [#42](https://api.github.com/repos/slackhq/EitherNet/issues/42) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Automatic snapshot publishing always skipped"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-16** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
 **2021-11-16** — commented on [#223](https://github.com/tschuchortdev/kotlin-compile-testing/pull/223#issuecomment-970745113) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-11-16** — pushed 2 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2021-11-16** — commented on [#4651](https://github.com/JetBrains/kotlin/pull/4651#issuecomment-970743163) in [JetBrains/kotlin](https://api.github.com/repos/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
