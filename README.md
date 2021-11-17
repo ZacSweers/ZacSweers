@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — deleted branch "z/fixDefinitelyNotNullType" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
+**2021-11-17** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971214550) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-11-17** — commented on [#426](https://github.com/square/anvil/pull/426#issuecomment-971213716) in [square/anvil](https://api.github.com/repos/square/anvil)
+
+**2021-11-17** — opened PR [#426](https://api.github.com/repos/square/anvil/pulls/426) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix DefinitelyNotNullTye"
+
+**2021-11-17** — created branch "z/fixDefinitelyNotNullType" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-11-16** — pushed 20 commits to [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil).
 
 **2021-11-16** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971155130) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-16** — closed issue [#42](https://api.github.com/repos/slackhq/EitherNet/issues/42) on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Automatic snapshot publishing always skipped"
 
 **2021-11-16** — commented on [#42](https://github.com/slackhq/EitherNet/issues/42#issuecomment-971122193) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-11-16** — created tag "1.2.0" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-11-16** — pushed 2 commits to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet).
-
-**2021-11-16** — created tag "0.9.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-11-16** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
-
-**2021-11-16** — commented on [#223](https://github.com/tschuchortdev/kotlin-compile-testing/pull/223#issuecomment-970745113) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
