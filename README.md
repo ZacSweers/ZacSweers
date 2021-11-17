@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — pushed [`8a700ef2`](https://github.com/square/moshi/commit/8a700ef2a6abbc6b19333912e53fd8c0cf4bf58e) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
+
 **2021-11-17** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-971694156) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-17** — closed issue [#1426](https://api.github.com/repos/square/moshi/issues/1426) on [square/moshi](https://api.github.com/repos/square/moshi): "Doesn't work with Kotlin 1.6"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — commented on [#426](https://github.com/square/anvil/pull/426#issuecomment-971213716) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-11-17** — opened PR [#426](https://api.github.com/repos/square/anvil/pulls/426) to [square/anvil](https://api.github.com/repos/square/anvil): "Fix DefinitelyNotNullTye"
-
-**2021-11-17** — created branch "z/fixDefinitelyNotNullType" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
