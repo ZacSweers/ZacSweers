@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-17** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972419999) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-17** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-11-17** — pushed [`73553286`](https://github.com/square/moshi/commit/73553286fb482040990c9efadd829faf849b676e) to [square/moshi](https://api.github.com/repos/square/moshi): "Upgrade to Kotlin 1.6 + always instantiate annotations (#1425)"
 
 **2021-11-17** — closed PR [#1425](https://api.github.com/repos/square/moshi/pulls/1425) to [square/moshi](https://api.github.com/repos/square/moshi): "Upgrade to Kotlin 1.6 + always instantiate annotations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — commented on [#1426](https://github.com/square/moshi/issues/1426#issuecomment-971689864) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-17** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971689466) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-11-17** — commented on [#222](https://github.com/tschuchortdev/kotlin-compile-testing/issues/222#issuecomment-971687397) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
-
-**2021-11-17** — deleted branch "z/fixDefinitelyNotNullType" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
