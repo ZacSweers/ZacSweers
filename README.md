@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-18** — closed issue [#1428](https://api.github.com/repos/square/moshi/issues/1428) on [square/moshi](https://api.github.com/repos/square/moshi): "Expand available adapters to common platform types"
+
+**2021-11-18** — commented on [#1428](https://github.com/square/moshi/issues/1428#issuecomment-972542936) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-17** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972419999) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-17** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-971694156) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-17** — closed issue [#1426](https://api.github.com/repos/square/moshi/issues/1426) on [square/moshi](https://api.github.com/repos/square/moshi): "Doesn't work with Kotlin 1.6"
-
-**2021-11-17** — commented on [#1426](https://github.com/square/moshi/issues/1426#issuecomment-971689864) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-17** — commented on [#723](https://github.com/google/ksp/issues/723#issuecomment-971689466) in [google/ksp](https://api.github.com/repos/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
