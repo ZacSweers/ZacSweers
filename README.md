@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-18** — commented on [#1418](https://github.com/square/moshi/issues/1418#issuecomment-973287447) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-18** — commented on [#823](https://github.com/square/javapoet/issues/823#issuecomment-973161440) in [square/javapoet](https://api.github.com/repos/square/javapoet)
 
 **2021-11-18** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972913064) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972419999) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-17** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-11-17** — pushed [`73553286`](https://github.com/square/moshi/commit/73553286fb482040990c9efadd829faf849b676e) to [square/moshi](https://api.github.com/repos/square/moshi): "Upgrade to Kotlin 1.6 + always instantiate annotations (#1425)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
