@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-18** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972578010) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-18** — closed issue [#1190](https://api.github.com/repos/square/kotlinpoet/issues/1190) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Wny Kotlinpoet not support to add comment for propertySpec or typeSpec? "
+
 **2021-11-18** — closed issue [#1428](https://api.github.com/repos/square/moshi/issues/1428) on [square/moshi](https://api.github.com/repos/square/moshi): "Expand available adapters to common platform types"
 
 **2021-11-18** — commented on [#1428](https://github.com/square/moshi/issues/1428#issuecomment-972542936) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-17** — deleted branch "z/kotlin16" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-17** — pushed [`8a700ef2`](https://github.com/square/moshi/commit/8a700ef2a6abbc6b19333912e53fd8c0cf4bf58e) to [square/moshi](https://api.github.com/repos/square/moshi): "Update .github/workflows/build.yml"
-
-**2021-11-17** — commented on [#1412](https://github.com/square/moshi/pull/1412#issuecomment-971694156) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-17** — closed issue [#1426](https://api.github.com/repos/square/moshi/issues/1426) on [square/moshi](https://api.github.com/repos/square/moshi): "Doesn't work with Kotlin 1.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
