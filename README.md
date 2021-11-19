@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-19** — created branch "z/kotlin16" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-11-19** — opened issue [#96](https://api.github.com/repos/slackhq/keeper/issues/96) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new ArtifactCollection APIs in Gradle 7.4"
 
 **2021-11-19** — opened issue [#19](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/19) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Nested classes should check parent class for targets"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-18** — closed issue [#1190](https://api.github.com/repos/square/kotlinpoet/issues/1190) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Wny Kotlinpoet not support to add comment for propertySpec or typeSpec? "
 
 **2021-11-18** — closed issue [#1428](https://api.github.com/repos/square/moshi/issues/1428) on [square/moshi](https://api.github.com/repos/square/moshi): "Expand available adapters to common platform types"
-
-**2021-11-18** — commented on [#1428](https://github.com/square/moshi/issues/1428#issuecomment-972542936) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
