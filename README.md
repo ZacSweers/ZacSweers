@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-20** — pushed [`86dc9494`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/86dc9494818d9acd28fc21d67638ac2425d4b778) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Add missing kotlin-reflect dep to plugin tests"
+
+**2021-11-20** — pushed [`83b863d1`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/83b863d1fe1aa16c771c69614a22060504985542) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Spotless again"
+
+**2021-11-20** — pushed [`60bd6307`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/60bd6307470364a14c31b38e1b26314c1d0609fc) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove ratchets"
+
+**2021-11-20** — pushed [`6271ba5a`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/6271ba5a4cdd134064c1eb2ad7e5f6cbb9da1f6b) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update CI"
+
+**2021-11-20** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+
+**2021-11-20** — pushed [`0b0bcf91`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/0b0bcf91336cf809765af578b5797a930dd68875) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Don't need withJava()"
+
+**2021-11-20** — commented on [#68](https://github.com/ZacSweers/redacted-compiler-plugin/pull/68#issuecomment-974715661) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-11-20** — opened PR [#68](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/68) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Multiplatform"
+
+**2021-11-20** — created branch "z/kmp" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-11-20** — pushed [`22e7981b`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/22e7981bfc3ecd80b583ed8f7d0eb1600bf5a7e8) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project (#67)"
-
-**2021-11-20** — deleted branch "z/irOnly" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-11-20** — closed PR [#67](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/67) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project"
-
-**2021-11-20** — opened PR [#67](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/67) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project"
-
-**2021-11-20** — created branch "z/irOnly" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-11-19** — commented on [#735](https://github.com/google/ksp/issues/735#issuecomment-974594509) in [google/ksp](https://api.github.com/repos/google/ksp)
-
-**2021-11-19** — opened issue [#735](https://api.github.com/repos/google/ksp/issues/735) on [google/ksp](https://api.github.com/repos/google/ksp): "1.6.0-1.0.1 breaks incremental compilation"
-
-**2021-11-19** — created branch "z/kotlin16" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-11-19** — opened issue [#96](https://api.github.com/repos/slackhq/keeper/issues/96) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new ArtifactCollection APIs in Gradle 7.4"
-
-**2021-11-19** — opened issue [#19](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/19) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Nested classes should check parent class for targets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
