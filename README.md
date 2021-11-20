@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-20** — pushed [`22e7981b`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/22e7981bfc3ecd80b583ed8f7d0eb1600bf5a7e8) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project (#67)"
+
+**2021-11-20** — deleted branch "z/irOnly" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
+**2021-11-20** — closed PR [#67](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/67) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project"
+
+**2021-11-20** — opened PR [#67](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/67) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Clean up project"
+
+**2021-11-20** — created branch "z/irOnly" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-11-19** — commented on [#735](https://github.com/google/ksp/issues/735#issuecomment-974594509) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-11-19** — opened issue [#735](https://api.github.com/repos/google/ksp/issues/735) on [google/ksp](https://api.github.com/repos/google/ksp): "1.6.0-1.0.1 breaks incremental compilation"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-19** — opened issue [#96](https://api.github.com/repos/slackhq/keeper/issues/96) on [slackhq/keeper](https://api.github.com/repos/slackhq/keeper): "Use new ArtifactCollection APIs in Gradle 7.4"
 
 **2021-11-19** — opened issue [#19](https://api.github.com/repos/slackhq/auto-value-kotlin/issues/19) on [slackhq/auto-value-kotlin](https://api.github.com/repos/slackhq/auto-value-kotlin): "Nested classes should check parent class for targets"
-
-**2021-11-18** — commented on [#1418](https://github.com/square/moshi/issues/1418#issuecomment-973287447) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-18** — commented on [#823](https://github.com/square/javapoet/issues/823#issuecomment-973161440) in [square/javapoet](https://api.github.com/repos/square/javapoet)
-
-**2021-11-18** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972913064) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-18** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972912454) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-18** — commented on [#1188](https://github.com/square/kotlinpoet/pull/1188#issuecomment-972578010) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
