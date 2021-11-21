@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-20** — commented on [#735](https://github.com/google/ksp/issues/735#issuecomment-974755421) in [google/ksp](https://api.github.com/repos/google/ksp)
+
 **2021-11-20** — pushed [`68683b39`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/68683b39b9aec4455920f0f7d7a3d3d57afbbadf) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Run spotless on gradle kts files"
 
 **2021-11-20** — pushed [`61ac7a31`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/61ac7a31cd82ef9e6dc9abacdcb03d9a59bcec39) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Multiplatform (#68)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-20** — pushed [`c0d92570`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/c0d92570b0b26b41578152391358d65b3c4e514a) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Use BOTH"
 
 **2021-11-20** — commented on [#68](https://github.com/ZacSweers/redacted-compiler-plugin/pull/68#issuecomment-974725042) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-11-20** — pushed [`b2e0edf1`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/b2e0edf111e0145ef3cd87c4a7e42441498ff1f1) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove leftover bits"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
