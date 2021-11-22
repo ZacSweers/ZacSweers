@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-22** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-975988430) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-11-22** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
 
 **2021-11-21** — commented on [#163](https://github.com/ZacSweers/MoshiX/pull/163#issuecomment-974996370) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-21** — opened issue [#164](https://api.github.com/repos/ZacSweers/MoshiX/issues/164) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Offer payload pattern for polymorphic adapters"
 
 **2021-11-21** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-11-21** — opened PR [#163](https://api.github.com/repos/ZacSweers/MoshiX/pulls/163) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
