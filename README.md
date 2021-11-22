@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-21** — created tag "0.10.0-RC1" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-21** — commented on [#163](https://github.com/ZacSweers/MoshiX/pull/163#issuecomment-974996370) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-11-21** — pushed 3 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-11-21** — created branch "z/payload" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-11-21** — closed PR [#69](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/69) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "More Multiplatform followups"
+**2021-11-21** — pushed [`294a6abd`](https://github.com/ZacSweers/ZacSweers/commit/294a6abdf04106774e13fbd9dc5f5e4da9500cd2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Introduce KSP for moshi code gen"
 
-**2021-11-21** — deleted branch "z/moreFollowups" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-21** — pushed [`efe8eadf`](https://github.com/ZacSweers/ZacSweers/commit/efe8eadf1f9766538036074539f34e9c59ea7868) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Fix CI versions"
 
-**2021-11-21** — pushed [`56195a03`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/56195a036112ae62f7acf4d4b5d79b75e7fc0861) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "More Multiplatform followups (#69)"
+**2021-11-21** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-974974959) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-11-21** — commented on [#68](https://github.com/ZacSweers/redacted-compiler-plugin/pull/68#issuecomment-974842798) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-21** — commented on [#163](https://github.com/ZacSweers/MoshiX/pull/163#issuecomment-974894866) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-11-21** — opened PR [#69](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/69) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "More Multiplatform followups"
+**2021-11-21** — opened issue [#164](https://api.github.com/repos/ZacSweers/MoshiX/issues/164) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Offer payload pattern for polymorphic adapters"
 
-**2021-11-21** — created branch "z/moreFollowups" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-11-21** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
-**2021-11-20** — commented on [#735](https://github.com/google/ksp/issues/735#issuecomment-974755421) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-11-21** — opened PR [#163](https://api.github.com/repos/ZacSweers/MoshiX/pulls/163) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6"
 
-**2021-11-20** — pushed [`68683b39`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/68683b39b9aec4455920f0f7d7a3d3d57afbbadf) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Run spotless on gradle kts files"
+**2021-11-21** — deleted branch "z/gradle73" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
