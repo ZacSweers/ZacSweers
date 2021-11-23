@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-976578955) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-11-22** — opened PR [#1191](https://api.github.com/repos/square/kotlinpoet/pulls/1191) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0"
 
 **2021-11-22** — created branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-21** — created branch "z/payload" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-11-21** — pushed [`294a6abd`](https://github.com/ZacSweers/ZacSweers/commit/294a6abdf04106774e13fbd9dc5f5e4da9500cd2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Introduce KSP for moshi code gen"
-
-**2021-11-21** — pushed [`efe8eadf`](https://github.com/ZacSweers/ZacSweers/commit/efe8eadf1f9766538036074539f34e9c59ea7868) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Fix CI versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
