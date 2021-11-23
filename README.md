@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — pushed [`15e48d8a`](https://github.com/square/kotlinpoet/commit/15e48d8aa8f55de7b22315081ae9f2be740586d1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0 (#1191)"
+
+**2021-11-23** — deleted branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-23** — closed PR [#1191](https://api.github.com/repos/square/kotlinpoet/pulls/1191) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0"
+
+**2021-11-23** — commented on [#1191](https://github.com/square/kotlinpoet/pull/1191#issuecomment-976677730) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-23** — pushed [`aaadbf49`](https://github.com/square/moshi/commit/aaadbf496354c5650202377d100a9b420f0cd26e) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0 (#1431)"
+
+**2021-11-23** — deleted branch "z/km040" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-23** — closed PR [#1431](https://api.github.com/repos/square/moshi/pulls/1431) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0"
+
 **2021-11-23** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-976578955) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-11-22** — opened PR [#1191](https://api.github.com/repos/square/kotlinpoet/pulls/1191) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0"
 
 **2021-11-22** — created branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-22** — opened PR [#1431](https://api.github.com/repos/square/moshi/pulls/1431) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0"
-
-**2021-11-22** — created branch "z/km040" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-22** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-975988430) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
-
-**2021-11-22** — pushed 1000 commits to [ZacSweers/kotlin](https://api.github.com/repos/ZacSweers/kotlin).
-
-**2021-11-21** — commented on [#163](https://github.com/ZacSweers/MoshiX/pull/163#issuecomment-974996370) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-11-21** — created branch "z/payload" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-11-21** — pushed [`294a6abd`](https://github.com/ZacSweers/ZacSweers/commit/294a6abdf04106774e13fbd9dc5f5e4da9500cd2) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Introduce KSP for moshi code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
