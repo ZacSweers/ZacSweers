@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — pushed [`c1e7fd5a`](https://github.com/square/kotlinpoet/commit/c1e7fd5a95c8c5cc9e5d831efd3b5f0037f488df) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Dokka 1.6.0 (#1192)"
+
+**2021-11-23** — deleted branch "egorand/211123/dokka-1.6.0" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-23** — closed PR [#1192](https://api.github.com/repos/square/kotlinpoet/pulls/1192) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Dokka 1.6.0"
+
 **2021-11-23** — pushed [`15e48d8a`](https://github.com/square/kotlinpoet/commit/15e48d8aa8f55de7b22315081ae9f2be740586d1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0 (#1191)"
 
 **2021-11-23** — deleted branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-23** — deleted branch "z/km040" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-23** — closed PR [#1431](https://api.github.com/repos/square/moshi/pulls/1431) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0"
-
-**2021-11-23** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-976578955) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-11-22** — opened PR [#1191](https://api.github.com/repos/square/kotlinpoet/pulls/1191) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0"
-
-**2021-11-22** — created branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
