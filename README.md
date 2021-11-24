@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-23** — opened PR [#433](https://api.github.com/repos/square/anvil/pulls/433) to [square/anvil](https://api.github.com/repos/square/anvil): "Work around KT-49340"
+
+**2021-11-23** — created branch "z/avoidServiceIssue" on [ZacSweers/anvil](https://api.github.com/repos/ZacSweers/anvil)
+
 **2021-11-23** — pushed [`c1e7fd5a`](https://github.com/square/kotlinpoet/commit/c1e7fd5a95c8c5cc9e5d831efd3b5f0037f488df) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Dokka 1.6.0 (#1192)"
 
 **2021-11-23** — deleted branch "egorand/211123/dokka-1.6.0" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-23** — commented on [#1191](https://github.com/square/kotlinpoet/pull/1191#issuecomment-976677730) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-23** — pushed [`aaadbf49`](https://github.com/square/moshi/commit/aaadbf496354c5650202377d100a9b420f0cd26e) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0 (#1431)"
-
-**2021-11-23** — deleted branch "z/km040" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-23** — closed PR [#1431](https://api.github.com/repos/square/moshi/pulls/1431) to [square/moshi](https://api.github.com/repos/square/moshi): "Update kotlinx-metadata to 0.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
