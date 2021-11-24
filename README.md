@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978170807) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
+
 **2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978145098) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-11-24** — opened issue [#19113](https://api.github.com/repos/gradle/gradle/issues/19113) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Configuration caching uses private java.base module APIs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-23** — pushed [`15e48d8a`](https://github.com/square/kotlinpoet/commit/15e48d8aa8f55de7b22315081ae9f2be740586d1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0 (#1191)"
 
 **2021-11-23** — deleted branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-23** — closed PR [#1191](https://api.github.com/repos/square/kotlinpoet/pulls/1191) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
