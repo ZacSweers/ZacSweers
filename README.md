@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-24** — opened PR [#10](https://api.github.com/repos/slackhq/slack-lints/pulls/10) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update Spotless to 6.0.0"
+
+**2021-11-24** — created branch "z/spotless6" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
+
+**2021-11-24** — opened issue [#180](https://api.github.com/repos/runningcode/gradle-doctor/issues/180) on [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Incompatible with project isolation"
+
 **2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978170807) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978145098) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-23** — pushed [`c1e7fd5a`](https://github.com/square/kotlinpoet/commit/c1e7fd5a95c8c5cc9e5d831efd3b5f0037f488df) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Dokka 1.6.0 (#1192)"
 
 **2021-11-23** — deleted branch "egorand/211123/dokka-1.6.0" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-23** — closed PR [#1192](https://api.github.com/repos/square/kotlinpoet/pulls/1192) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Dokka 1.6.0"
-
-**2021-11-23** — pushed [`15e48d8a`](https://github.com/square/kotlinpoet/commit/15e48d8aa8f55de7b22315081ae9f2be740586d1) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinx-metadata to 0.4.0 (#1191)"
-
-**2021-11-23** — deleted branch "z/km040" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
