@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-25** — commented on [#1434](https://github.com/square/moshi/issues/1434#issuecomment-979632447) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-25** — closed issue [#1432](https://api.github.com/repos/square/moshi/issues/1432) on [square/moshi](https://api.github.com/repos/square/moshi): "Unexpected duplicated values on serialization with PolymorphicJsonAdapterFactory"
 
 **2021-11-25** — commented on [#1432](https://github.com/square/moshi/issues/1432#issuecomment-979469133) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978145098) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 
 **2021-11-24** — opened issue [#19113](https://api.github.com/repos/gradle/gradle/issues/19113) on [gradle/gradle](https://api.github.com/repos/gradle/gradle): "Configuration caching uses private java.base module APIs"
-
-**2021-11-23** — opened PR [#433](https://api.github.com/repos/square/anvil/pulls/433) to [square/anvil](https://api.github.com/repos/square/anvil): "Work around KT-49340"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
