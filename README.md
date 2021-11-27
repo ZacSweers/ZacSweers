@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-27** — created tag "1.0.0" on [ZacSweers/kgp-160-patcher](https://api.github.com/repos/ZacSweers/kgp-160-patcher)
+
+**2021-11-27** — pushed 2 commits to [ZacSweers/kgp-160-patcher](https://api.github.com/repos/ZacSweers/kgp-160-patcher).
+
 **2021-11-26** — commented on [#1413](https://github.com/square/moshi/issues/1413#issuecomment-980166866) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-26** — closed issue [#1434](https://api.github.com/repos/square/moshi/issues/1434) on [square/moshi](https://api.github.com/repos/square/moshi): "About Kotlin Unit"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-24** — opened PR [#10](https://api.github.com/repos/slackhq/slack-lints/pulls/10) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update Spotless to 6.0.0"
 
 **2021-11-24** — created branch "z/spotless6" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
-
-**2021-11-24** — opened issue [#180](https://api.github.com/repos/runningcode/gradle-doctor/issues/180) on [runningcode/gradle-doctor](https://api.github.com/repos/runningcode/gradle-doctor): "Incompatible with project isolation"
-
-**2021-11-24** — commented on [#19113](https://github.com/gradle/gradle/issues/19113#issuecomment-978170807) in [gradle/gradle](https://api.github.com/repos/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
