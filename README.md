@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-28** — opened PR [#43](https://api.github.com/repos/slackhq/EitherNet/pulls/43) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update tests to use kotlinx-coroutines 1.6.0-RC's new APIs"
+
+**2021-11-28** — pushed [`d239e5b7`](https://github.com/slackhq/EitherNet/commit/d239e5b7834a9f5634d35f5b96962a95c512716e) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
+
+**2021-11-28** — created branch "z/coroutines160" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-11-28** — commented on [#1189](https://github.com/square/kotlinpoet/pull/1189#issuecomment-981113692) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-28** — commented on [#993](https://github.com/diffplug/spotless/issues/993#issuecomment-981113398) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-28** — created branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-27** — opened PR [#11](https://api.github.com/repos/slackhq/slack-lints/pulls/11) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Implement `@RestrictCallsTo` lint"
-
-**2021-11-27** — created branch "z/restrictCallsTo" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
-
-**2021-11-27** — opened issue [#1002](https://api.github.com/repos/diffplug/spotless/issues/1002) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Spotless 6.0 failures with message to add repositories block, but said block exists"
-
-**2021-11-27** — created tag "1.0.0" on [ZacSweers/kgp-160-patcher](https://api.github.com/repos/ZacSweers/kgp-160-patcher)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
