@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-28** — opened PR [#1193](https://api.github.com/repos/square/kotlinpoet/pulls/1193) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec`"
+
+**2021-11-28** — created branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-11-27** — opened PR [#11](https://api.github.com/repos/slackhq/slack-lints/pulls/11) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Implement `@RestrictCallsTo` lint"
 
 **2021-11-27** — created branch "z/restrictCallsTo" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-26** — closed issue [#1434](https://api.github.com/repos/square/moshi/issues/1434) on [square/moshi](https://api.github.com/repos/square/moshi): "About Kotlin Unit"
 
 **2021-11-25** — commented on [#1434](https://github.com/square/moshi/issues/1434#issuecomment-979632447) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-25** — closed issue [#1432](https://api.github.com/repos/square/moshi/issues/1432) on [square/moshi](https://api.github.com/repos/square/moshi): "Unexpected duplicated values on serialization with PolymorphicJsonAdapterFactory"
-
-**2021-11-25** — commented on [#1432](https://github.com/square/moshi/issues/1432#issuecomment-979469133) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
