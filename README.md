@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-27** — opened PR [#11](https://api.github.com/repos/slackhq/slack-lints/pulls/11) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Implement `@RestrictCallsTo` lint"
+
+**2021-11-27** — created branch "z/restrictCallsTo" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
+
 **2021-11-27** — opened issue [#1002](https://api.github.com/repos/diffplug/spotless/issues/1002) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Spotless 6.0 failures with message to add repositories block, but said block exists"
 
 **2021-11-27** — created tag "1.0.0" on [ZacSweers/kgp-160-patcher](https://api.github.com/repos/ZacSweers/kgp-160-patcher)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-25** — closed issue [#1432](https://api.github.com/repos/square/moshi/issues/1432) on [square/moshi](https://api.github.com/repos/square/moshi): "Unexpected duplicated values on serialization with PolymorphicJsonAdapterFactory"
 
 **2021-11-25** — commented on [#1432](https://github.com/square/moshi/issues/1432#issuecomment-979469133) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-25** — commented on [#96](https://github.com/slackhq/keeper/issues/96#issuecomment-979306177) in [slackhq/keeper](https://api.github.com/repos/slackhq/keeper)
-
-**2021-11-24** — opened PR [#10](https://api.github.com/repos/slackhq/slack-lints/pulls/10) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update Spotless to 6.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
