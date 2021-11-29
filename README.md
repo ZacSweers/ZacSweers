@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-29** — pushed [`38e84138`](https://github.com/slackhq/EitherNet/commit/38e841387bf0e3d60a0ea528b3fe9769c809b2b0) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update tests to use kotlinx-coroutines 1.6.0-RC's new APIs (#43)"
+
+**2021-11-29** — deleted branch "z/coroutines160" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
+**2021-11-29** — closed PR [#43](https://api.github.com/repos/slackhq/EitherNet/pulls/43) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update tests to use kotlinx-coroutines 1.6.0-RC's new APIs"
+
 **2021-11-28** — opened PR [#43](https://api.github.com/repos/slackhq/EitherNet/pulls/43) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update tests to use kotlinx-coroutines 1.6.0-RC's new APIs"
 
 **2021-11-28** — pushed [`d239e5b7`](https://github.com/slackhq/EitherNet/commit/d239e5b7834a9f5634d35f5b96962a95c512716e) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Spotless"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-28** — closed issue [#1002](https://api.github.com/repos/diffplug/spotless/issues/1002) on [diffplug/spotless](https://api.github.com/repos/diffplug/spotless): "Spotless 6.0 failures with message to add repositories block, but said block exists"
 
 **2021-11-28** — commented on [#1002](https://github.com/diffplug/spotless/issues/1002#issuecomment-981113234) in [diffplug/spotless](https://api.github.com/repos/diffplug/spotless)
-
-**2021-11-28** — opened PR [#1193](https://api.github.com/repos/square/kotlinpoet/pulls/1193) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec`"
-
-**2021-11-28** — created branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-27** — opened PR [#11](https://api.github.com/repos/slackhq/slack-lints/pulls/11) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Implement `@RestrictCallsTo` lint"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
