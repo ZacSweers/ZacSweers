@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`e02e7d4a`](https://github.com/square/kotlinpoet/commit/e02e7d4a554d6f41e990534181878bfce809783a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Annotations never go in the script codeblock"
+
 **2021-11-30** — pushed [`1f4b1917`](https://github.com/slackhq/slack-lints/commit/1f4b19172e3ae428f65d74a39d43a6e8f6c4994c) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target (#12)"
 
 **2021-11-30** — deleted branch "z/fixTarget" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — closed PR [#11](https://api.github.com/repos/slackhq/slack-lints/pulls/11) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Implement `@RestrictCallsTo` lint"
 
 **2021-11-29** — pushed [`38e84138`](https://github.com/slackhq/EitherNet/commit/38e841387bf0e3d60a0ea528b3fe9769c809b2b0) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Update tests to use kotlinx-coroutines 1.6.0-RC's new APIs (#43)"
-
-**2021-11-29** — deleted branch "z/coroutines160" on [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
