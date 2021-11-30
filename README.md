@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — commented on [#436](https://github.com/square/anvil/issues/436#issuecomment-982898103) in [square/anvil](https://api.github.com/repos/square/anvil)
+
 **2021-11-30** — commented on [#1193](https://github.com/square/kotlinpoet/pull/1193#issuecomment-982854278) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-30** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — closed PR [#12](https://api.github.com/repos/slackhq/slack-lints/pulls/12) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target"
 
 **2021-11-30** — opened PR [#12](https://api.github.com/repos/slackhq/slack-lints/pulls/12) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target"
-
-**2021-11-30** — created branch "z/fixTarget" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
