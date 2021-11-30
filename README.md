@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — opened PR [#1436](https://api.github.com/repos/square/moshi/pulls/1436) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations"
+
+**2021-11-30** — created branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-30** — created branch "z/typealiasKspFixes" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-11-30** — pushed [`79262937`](https://github.com/square/kotlinpoet/commit/792629378f072b899156b4f31b1a83f8d086cf68) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec` (#1193)"
 
 **2021-11-30** — deleted branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — commented on [#1193](https://github.com/square/kotlinpoet/pull/1193#issuecomment-982854278) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-11-30** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-11-30** — pushed [`cf6d885d`](https://github.com/square/kotlinpoet/commit/cf6d885d816b356ade0db1907d764585f0661aba) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinpoet/src/main/java/com/squareup/kotlinpoet/FileSpec.kt"
-
-**2021-11-30** — pushed [`9bbd67af`](https://github.com/square/kotlinpoet/commit/9bbd67afa2e29a22090498bf6b506dacf1b97d5a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinpoet/src/main/java/com/squareup/kotlinpoet/FileSpec.kt"
-
-**2021-11-30** — pushed [`e02e7d4a`](https://github.com/square/kotlinpoet/commit/e02e7d4a554d6f41e990534181878bfce809783a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Annotations never go in the script codeblock"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
