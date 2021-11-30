@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`4a6cfb4d`](https://github.com/square/moshi/commit/4a6cfb4d58f0cc448615c9acf95d83f0f65221ec) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations (#1436)"
+
+**2021-11-30** — deleted branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-30** — closed PR [#1436](https://api.github.com/repos/square/moshi/pulls/1436) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations"
+
 **2021-11-30** — opened PR [#1436](https://api.github.com/repos/square/moshi/pulls/1436) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations"
 
 **2021-11-30** — created branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — closed PR [#1193](https://api.github.com/repos/square/kotlinpoet/pulls/1193) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec`"
 
 **2021-11-30** — closed issue [#608](https://api.github.com/repos/square/kotlinpoet/issues/608) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Provide better support for generating Kotlin scripts"
-
-**2021-11-30** — commented on [#436](https://github.com/square/anvil/issues/436#issuecomment-982898103) in [square/anvil](https://api.github.com/repos/square/anvil)
-
-**2021-11-30** — commented on [#1193](https://github.com/square/kotlinpoet/pull/1193#issuecomment-982854278) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-30** — pushed 2 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
