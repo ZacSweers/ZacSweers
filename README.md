@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`79262937`](https://github.com/square/kotlinpoet/commit/792629378f072b899156b4f31b1a83f8d086cf68) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec` (#1193)"
+
+**2021-11-30** — deleted branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-11-30** — closed PR [#1193](https://api.github.com/repos/square/kotlinpoet/pulls/1193) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec`"
+
+**2021-11-30** — closed issue [#608](https://api.github.com/repos/square/kotlinpoet/issues/608) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Provide better support for generating Kotlin scripts"
+
 **2021-11-30** — commented on [#436](https://github.com/square/anvil/issues/436#issuecomment-982898103) in [square/anvil](https://api.github.com/repos/square/anvil)
 
 **2021-11-30** — commented on [#1193](https://github.com/square/kotlinpoet/pull/1193#issuecomment-982854278) in [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — pushed [`9bbd67af`](https://github.com/square/kotlinpoet/commit/9bbd67afa2e29a22090498bf6b506dacf1b97d5a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Update kotlinpoet/src/main/java/com/squareup/kotlinpoet/FileSpec.kt"
 
 **2021-11-30** — pushed [`e02e7d4a`](https://github.com/square/kotlinpoet/commit/e02e7d4a554d6f41e990534181878bfce809783a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Annotations never go in the script codeblock"
-
-**2021-11-30** — pushed [`1f4b1917`](https://github.com/slackhq/slack-lints/commit/1f4b19172e3ae428f65d74a39d43a6e8f6c4994c) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target (#12)"
-
-**2021-11-30** — deleted branch "z/fixTarget" on [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints)
-
-**2021-11-30** — closed PR [#12](https://api.github.com/repos/slackhq/slack-lints/pulls/12) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target"
-
-**2021-11-30** — opened PR [#12](https://api.github.com/repos/slackhq/slack-lints/pulls/12) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Fix RestrictCallsTo target"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
