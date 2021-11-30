@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — opened PR [#1194](https://api.github.com/repos/square/kotlinpoet/pulls/1194) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports"
+
+**2021-11-30** — created branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-11-30** — pushed [`4a6cfb4d`](https://github.com/square/moshi/commit/4a6cfb4d58f0cc448615c9acf95d83f0f65221ec) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations (#1436)"
 
 **2021-11-30** — deleted branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — pushed [`79262937`](https://github.com/square/kotlinpoet/commit/792629378f072b899156b4f31b1a83f8d086cf68) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec` (#1193)"
 
 **2021-11-30** — deleted branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-11-30** — closed PR [#1193](https://api.github.com/repos/square/kotlinpoet/pulls/1193) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec`"
-
-**2021-11-30** — closed issue [#608](https://api.github.com/repos/square/kotlinpoet/issues/608) on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Provide better support for generating Kotlin scripts"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
