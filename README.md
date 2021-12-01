@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — pushed [`befd24de`](https://github.com/square/kotlinpoet/commit/befd24dea3295fd37930d9e3dcdee2ee1a1460fc) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Derp logic"
+
+**2021-11-30** — opened PR [#1441](https://api.github.com/repos/square/moshi/pulls/1441) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix code cleanups"
+
+**2021-11-30** — created branch "z/fixCodeCleanusp" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-30** — pushed [`9f81ac89`](https://github.com/square/moshi/commit/9f81ac897aa2214235c126f89f8d93519233a47b) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations (#1436)" (#1439)"
+
+**2021-11-30** — deleted branch "revert-1436-z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-30** — closed PR [#1439](https://api.github.com/repos/square/moshi/pulls/1439) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations""
+
+**2021-11-30** — pushed [`fb8c7b50`](https://github.com/square/moshi/commit/fb8c7b50fc91798a3e887eddf04ecdcfa88cdbde) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations (#1440)"
+
+**2021-11-30** — deleted branch "z/deprecateGetFieldJsonQualifiers" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-11-30** — closed PR [#1440](https://api.github.com/repos/square/moshi/pulls/1440) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations"
+
 **2021-11-30** — opened PR [#1440](https://api.github.com/repos/square/moshi/pulls/1440) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations"
-
-**2021-11-30** — created branch "z/deprecateGetFieldJsonQualifiers" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — pushed [`ace45a29`](https://github.com/square/moshi/commit/ace45a29cfffd00334144dce13cf0111088abfdf) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless (#1438)"
-
-**2021-11-30** — deleted branch "z/nixSpotlessCopyright" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — closed PR [#1438](https://api.github.com/repos/square/moshi/pulls/1438) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless"
-
-**2021-11-30** — opened PR [#1439](https://api.github.com/repos/square/moshi/pulls/1439) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations""
-
-**2021-11-30** — created branch "revert-1436-z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — opened PR [#1438](https://api.github.com/repos/square/moshi/pulls/1438) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless"
-
-**2021-11-30** — created branch "z/nixSpotlessCopyright" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — opened PR [#1437](https://api.github.com/repos/square/moshi/pulls/1437) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove ksp.kt copy"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
