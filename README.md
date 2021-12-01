@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-11-30** — opened PR [#1194](https://api.github.com/repos/square/kotlinpoet/pulls/1194) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports"
+**2021-11-30** — opened PR [#1440](https://api.github.com/repos/square/moshi/pulls/1440) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations"
 
-**2021-11-30** — created branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-11-30** — created branch "z/deprecateGetFieldJsonQualifiers" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-30** — pushed [`4a6cfb4d`](https://github.com/square/moshi/commit/4a6cfb4d58f0cc448615c9acf95d83f0f65221ec) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations (#1436)"
+**2021-11-30** — pushed [`ace45a29`](https://github.com/square/moshi/commit/ace45a29cfffd00334144dce13cf0111088abfdf) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless (#1438)"
 
-**2021-11-30** — deleted branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-30** — deleted branch "z/nixSpotlessCopyright" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-30** — closed PR [#1436](https://api.github.com/repos/square/moshi/pulls/1436) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations"
+**2021-11-30** — closed PR [#1438](https://api.github.com/repos/square/moshi/pulls/1438) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless"
 
-**2021-11-30** — opened PR [#1436](https://api.github.com/repos/square/moshi/pulls/1436) to [square/moshi](https://api.github.com/repos/square/moshi): "Omit adapter field names now that we directly instantiate annotations"
+**2021-11-30** — opened PR [#1439](https://api.github.com/repos/square/moshi/pulls/1439) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations""
 
-**2021-11-30** — created branch "z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-30** — created branch "revert-1436-z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-30** — created branch "z/typealiasKspFixes" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-11-30** — opened PR [#1438](https://api.github.com/repos/square/moshi/pulls/1438) to [square/moshi](https://api.github.com/repos/square/moshi): "Don't handle copyrights in spotless"
 
-**2021-11-30** — pushed [`79262937`](https://github.com/square/kotlinpoet/commit/792629378f072b899156b4f31b1a83f8d086cf68) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Implement basic support for script files via `FileSpec` (#1193)"
+**2021-11-30** — created branch "z/nixSpotlessCopyright" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-11-30** — deleted branch "z/scripting" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-11-30** — opened PR [#1437](https://api.github.com/repos/square/moshi/pulls/1437) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove ksp.kt copy"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
