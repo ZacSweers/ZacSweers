@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-11-30** — deleted branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
+
+**2021-11-30** — closed PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
+
+**2021-11-30** — commented on [#1842](https://github.com/google/dagger/pull/1842#issuecomment-983274322) in [google/dagger](https://api.github.com/repos/google/dagger)
+
 **2021-11-30** — pushed [`befd24de`](https://github.com/square/kotlinpoet/commit/befd24dea3295fd37930d9e3dcdee2ee1a1460fc) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Derp logic"
 
 **2021-11-30** — opened PR [#1441](https://api.github.com/repos/square/moshi/pulls/1441) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix code cleanups"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — closed PR [#1439](https://api.github.com/repos/square/moshi/pulls/1439) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations""
 
 **2021-11-30** — pushed [`fb8c7b50`](https://github.com/square/moshi/commit/fb8c7b50fc91798a3e887eddf04ecdcfa88cdbde) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations (#1440)"
-
-**2021-11-30** — deleted branch "z/deprecateGetFieldJsonQualifiers" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — closed PR [#1440](https://api.github.com/repos/square/moshi/pulls/1440) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations"
-
-**2021-11-30** — opened PR [#1440](https://api.github.com/repos/square/moshi/pulls/1440) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
