@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-01** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+
 **2021-11-30** — deleted branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 
 **2021-11-30** — closed PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — deleted branch "revert-1436-z/removeFields" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-11-30** — closed PR [#1439](https://api.github.com/repos/square/moshi/pulls/1439) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations""
-
-**2021-11-30** — pushed [`fb8c7b50`](https://github.com/square/moshi/commit/fb8c7b50fc91798a3e887eddf04ecdcfa88cdbde) to [square/moshi](https://api.github.com/repos/square/moshi): "Deprecate Types.getFieldJsonQualifierAnnotations (#1440)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
