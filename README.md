@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-03** — deleted branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-12-03** — pushed [`61fcce3d`](https://github.com/square/kotlinpoet/commit/61fcce3d73c555dda42defc17a3281f7fb60037d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports (#1194)"
+
+**2021-12-03** — closed PR [#1194](https://api.github.com/repos/square/kotlinpoet/pulls/1194) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports"
+
 **2021-12-02** — opened issue [#4356](https://api.github.com/repos/detekt/detekt/issues/4356) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ignoreAnnotated not respected on UnnecessaryAbstractClass"
 
 **2021-12-02** — opened issue [#4355](https://api.github.com/repos/detekt/detekt/issues/4355) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "LongParameterList no longer recognizes ignored annotations in 1.19.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — deleted branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 
 **2021-11-30** — closed PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
-
-**2021-11-30** — commented on [#1842](https://github.com/google/dagger/pull/1842#issuecomment-983274322) in [google/dagger](https://api.github.com/repos/google/dagger)
-
-**2021-11-30** — pushed [`befd24de`](https://github.com/square/kotlinpoet/commit/befd24dea3295fd37930d9e3dcdee2ee1a1460fc) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Derp logic"
-
-**2021-11-30** — opened PR [#1441](https://api.github.com/repos/square/moshi/pulls/1441) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix code cleanups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
