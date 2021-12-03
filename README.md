@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-03** — commented on [#4355](https://github.com/detekt/detekt/issues/4355#issuecomment-985756658) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+
 **2021-12-03** — deleted branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-12-03** — pushed [`61fcce3d`](https://github.com/square/kotlinpoet/commit/61fcce3d73c555dda42defc17a3281f7fb60037d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports (#1194)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-01** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
 
 **2021-11-30** — deleted branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
-
-**2021-11-30** — closed PR [#58](https://api.github.com/repos/uber/crumb/pulls/58) to [uber/crumb](https://api.github.com/repos/uber/crumb): "Update dependencies, move to Kotlin 1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
