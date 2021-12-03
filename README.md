@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-02** — opened issue [#4356](https://api.github.com/repos/detekt/detekt/issues/4356) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ignoreAnnotated not respected on UnnecessaryAbstractClass"
+
+**2021-12-02** — opened issue [#4355](https://api.github.com/repos/detekt/detekt/issues/4355) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "LongParameterList no longer recognizes ignored annotations in 1.19.0"
+
 **2021-12-02** — opened issue [#694](https://api.github.com/repos/google/google-java-format/issues/694) on [google/google-java-format](https://api.github.com/repos/google/google-java-format): "Did something change in the format of all-deps jars in 1.13.0?"
 
 **2021-12-02** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-984978238) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-11-30** — pushed [`befd24de`](https://github.com/square/kotlinpoet/commit/befd24dea3295fd37930d9e3dcdee2ee1a1460fc) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Derp logic"
 
 **2021-11-30** — opened PR [#1441](https://api.github.com/repos/square/moshi/pulls/1441) to [square/moshi](https://api.github.com/repos/square/moshi): "Fix code cleanups"
-
-**2021-11-30** — created branch "z/fixCodeCleanusp" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-11-30** — pushed [`9f81ac89`](https://github.com/square/moshi/commit/9f81ac897aa2214235c126f89f8d93519233a47b) to [square/moshi](https://api.github.com/repos/square/moshi): "Revert "Omit adapter field names now that we directly instantiate annotations (#1436)" (#1439)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
