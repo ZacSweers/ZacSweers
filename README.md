@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-02** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-984978238) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
 
 **2021-12-01** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
-
-**2021-11-30** — deleted branch "z/updateStuff" on [uber/crumb](https://api.github.com/repos/uber/crumb)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
