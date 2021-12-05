@@ -4,25 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-05** — pushed [`56934865`](https://github.com/ZacSweers/CatchUp/commit/569348659f12e9c2de319311b90be33c9845aaa9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finally compiling"
+**2021-12-05** — pushed [`4786053d`](https://github.com/square/moshi/commit/4786053d8afc1673cef444c7a1017486a68f078a) to [square/moshi](https://api.github.com/repos/square/moshi): "Link issue"
 
-**2021-12-03** — commented on [#4355](https://github.com/detekt/detekt/issues/4355#issuecomment-985756658) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
+**2021-12-05** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-986318795) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-12-03** — deleted branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-12-03** — pushed [`61fcce3d`](https://github.com/square/kotlinpoet/commit/61fcce3d73c555dda42defc17a3281f7fb60037d) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports (#1194)"
-
-**2021-12-03** — closed PR [#1194](https://api.github.com/repos/square/kotlinpoet/pulls/1194) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add basic support for default imports"
-
-**2021-12-02** — opened issue [#4356](https://api.github.com/repos/detekt/detekt/issues/4356) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "ignoreAnnotated not respected on UnnecessaryAbstractClass"
-
-**2021-12-02** — opened issue [#4355](https://api.github.com/repos/detekt/detekt/issues/4355) on [detekt/detekt](https://api.github.com/repos/detekt/detekt): "LongParameterList no longer recognizes ignored annotations in 1.19.0"
-
-**2021-12-02** — opened issue [#694](https://api.github.com/repos/google/google-java-format/issues/694) on [google/google-java-format](https://api.github.com/repos/google/google-java-format): "Did something change in the format of all-deps jars in 1.13.0?"
-
-**2021-12-02** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-984978238) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
-
-**2021-12-01** — pushed 3 commits to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet).
+**2021-12-05** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
