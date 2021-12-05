@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-05** — pushed [`56934865`](https://github.com/ZacSweers/CatchUp/commit/569348659f12e9c2de319311b90be33c9845aaa9) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Finally compiling"
+
 **2021-12-03** — commented on [#4355](https://github.com/detekt/detekt/issues/4355#issuecomment-985756658) in [detekt/detekt](https://api.github.com/repos/detekt/detekt)
 
 **2021-12-03** — deleted branch "z/defaultImports" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
