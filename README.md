@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-06** — pushed [`ff7c3537`](https://github.com/slackhq/EitherNet/commit/ff7c35377379297fc2a1d9dee9b13930d5c6f925) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fixup issue template"
+
+**2021-12-06** — commented on [#44](https://github.com/slackhq/EitherNet/issues/44#issuecomment-987092631) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
+
 **2021-12-05** — pushed [`1df289e5`](https://github.com/square/kotlinpoet/commit/1df289e5c623ee9f662c0844422a25b314202895) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert (#1189)"
 
 **2021-12-05** — closed PR [#1189](https://api.github.com/repos/square/kotlinpoet/pulls/1189) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-05** — created branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
 
 **2021-12-05** — pushed [`4786053d`](https://github.com/square/moshi/commit/4786053d8afc1673cef444c7a1017486a68f078a) to [square/moshi](https://api.github.com/repos/square/moshi): "Link issue"
-
-**2021-12-05** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-986318795) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-05** — pushed 2 commits to [square/moshi](https://api.github.com/repos/square/moshi).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
