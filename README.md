@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-05** — opened PR [#1196](https://api.github.com/repos/square/kotlinpoet/pulls/1196) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()`"
+
+**2021-12-05** — pushed [`ec25dd6a`](https://github.com/square/kotlinpoet/commit/ec25dd6adbc307ad2cfa62cd33e62c49243b5c56) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add site target support and a couple more edge cases for default values and no param names"
+
+**2021-12-05** — created branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
 **2021-12-05** — pushed [`4786053d`](https://github.com/square/moshi/commit/4786053d8afc1673cef444c7a1017486a68f078a) to [square/moshi](https://api.github.com/repos/square/moshi): "Link issue"
 
 **2021-12-05** — commented on [#1393](https://github.com/square/moshi/pull/1393#issuecomment-986318795) in [square/moshi](https://api.github.com/repos/square/moshi)
