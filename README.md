@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-06** — pushed [`5a832274`](https://github.com/square/kotlinpoet/commit/5a832274d31696147e173507802d2d8a46564094) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fully support type args"
+
+**2021-12-06** — commented on [#753](https://github.com/google/ksp/issues/753#issuecomment-987172313) in [google/ksp](https://api.github.com/repos/google/ksp)
+
+**2021-12-06** — closed issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
+
+**2021-12-06** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-987130840) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-06** — pushed [`ff7c3537`](https://github.com/slackhq/EitherNet/commit/ff7c35377379297fc2a1d9dee9b13930d5c6f925) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fixup issue template"
 
 **2021-12-06** — commented on [#44](https://github.com/slackhq/EitherNet/issues/44#issuecomment-987092631) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-05** — pushed [`d4af0276`](https://github.com/square/kotlinpoet/commit/d4af0276f9cd578b8f425a232bebfaeae25de81a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add note about type param support"
 
 **2021-12-05** — opened issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
-
-**2021-12-05** — opened PR [#1196](https://api.github.com/repos/square/kotlinpoet/pulls/1196) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()`"
-
-**2021-12-05** — pushed [`ec25dd6a`](https://github.com/square/kotlinpoet/commit/ec25dd6adbc307ad2cfa62cd33e62c49243b5c56) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add site target support and a couple more edge cases for default values and no param names"
-
-**2021-12-05** — created branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
-
-**2021-12-05** — pushed [`4786053d`](https://github.com/square/moshi/commit/4786053d8afc1673cef444c7a1017486a68f078a) to [square/moshi](https://api.github.com/repos/square/moshi): "Link issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
