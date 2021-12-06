@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-05** — pushed [`d4af0276`](https://github.com/square/kotlinpoet/commit/d4af0276f9cd578b8f425a232bebfaeae25de81a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add note about type param support"
+
+**2021-12-05** — opened issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
+
 **2021-12-05** — opened PR [#1196](https://api.github.com/repos/square/kotlinpoet/pulls/1196) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()`"
 
 **2021-12-05** — pushed [`ec25dd6a`](https://github.com/square/kotlinpoet/commit/ec25dd6adbc307ad2cfa62cd33e62c49243b5c56) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add site target support and a couple more edge cases for default values and no param names"
