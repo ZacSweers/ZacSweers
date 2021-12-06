@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-05** — pushed [`1df289e5`](https://github.com/square/kotlinpoet/commit/1df289e5c623ee9f662c0844422a25b314202895) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert (#1189)"
+
+**2021-12-05** — closed PR [#1189](https://api.github.com/repos/square/kotlinpoet/pulls/1189) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert"
+
 **2021-12-05** — pushed [`d4af0276`](https://github.com/square/kotlinpoet/commit/d4af0276f9cd578b8f425a232bebfaeae25de81a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add note about type param support"
 
 **2021-12-05** — opened issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
