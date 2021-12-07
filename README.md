@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-07** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-987668855) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
+
 **2021-12-06** — pushed [`5a832274`](https://github.com/square/kotlinpoet/commit/5a832274d31696147e173507802d2d8a46564094) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fully support type args"
 
 **2021-12-06** — commented on [#753](https://github.com/google/ksp/issues/753#issuecomment-987172313) in [google/ksp](https://api.github.com/repos/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-05** — closed PR [#1189](https://api.github.com/repos/square/kotlinpoet/pulls/1189) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert"
 
 **2021-12-05** — pushed [`d4af0276`](https://github.com/square/kotlinpoet/commit/d4af0276f9cd578b8f425a232bebfaeae25de81a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add note about type param support"
-
-**2021-12-05** — opened issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
