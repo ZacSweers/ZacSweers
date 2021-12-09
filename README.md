@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-09** — pushed [`5d9a3e21`](https://github.com/square/kotlinpoet/commit/5d9a3e2111eca243671092bbfdb5c9d2125a2d69) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()` (#1196)"
+
+**2021-12-09** — deleted branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+
+**2021-12-09** — closed PR [#1196](https://api.github.com/repos/square/kotlinpoet/pulls/1196) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()`"
+
 **2021-12-07** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-987668855) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
 
 **2021-12-06** — pushed [`5a832274`](https://github.com/square/kotlinpoet/commit/5a832274d31696147e173507802d2d8a46564094) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fully support type args"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-06** — pushed [`ff7c3537`](https://github.com/slackhq/EitherNet/commit/ff7c35377379297fc2a1d9dee9b13930d5c6f925) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fixup issue template"
 
 **2021-12-06** — commented on [#44](https://github.com/slackhq/EitherNet/issues/44#issuecomment-987092631) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
-
-**2021-12-05** — pushed [`1df289e5`](https://github.com/square/kotlinpoet/commit/1df289e5c623ee9f662c0844422a25b314202895) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert (#1189)"
-
-**2021-12-05** — closed PR [#1189](https://api.github.com/repos/square/kotlinpoet/pulls/1189) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add `Unit` and `CharSequence` convert"
-
-**2021-12-05** — pushed [`d4af0276`](https://github.com/square/kotlinpoet/commit/d4af0276f9cd578b8f425a232bebfaeae25de81a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add note about type param support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
