@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-09** — closed issue [#1453](https://api.github.com/repos/square/moshi/issues/1453) on [square/moshi](https://api.github.com/repos/square/moshi): "1.13.0: Annotation class cannot be instantiated"
+
+**2021-12-09** — commented on [#1453](https://github.com/square/moshi/issues/1453#issuecomment-989964103) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-09** — commented on [#1454](https://github.com/square/moshi/issues/1454#issuecomment-989963527) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-09** — pushed [`5d9a3e21`](https://github.com/square/kotlinpoet/commit/5d9a3e2111eca243671092bbfdb5c9d2125a2d69) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()` (#1196)"
 
 **2021-12-09** — deleted branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-06** — commented on [#753](https://github.com/google/ksp/issues/753#issuecomment-987172313) in [google/ksp](https://api.github.com/repos/google/ksp)
 
 **2021-12-06** — closed issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
-
-**2021-12-06** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-987130840) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-06** — pushed [`ff7c3537`](https://github.com/slackhq/EitherNet/commit/ff7c35377379297fc2a1d9dee9b13930d5c6f925) to [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet): "Fixup issue template"
-
-**2021-12-06** — commented on [#44](https://github.com/slackhq/EitherNet/issues/44#issuecomment-987092631) in [slackhq/EitherNet](https://api.github.com/repos/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
