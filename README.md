@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-09** — deleted branch "patch-2" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
+
 **2021-12-09** — opened PR [#1456](https://api.github.com/repos/square/moshi/pulls/1456) to [square/moshi](https://api.github.com/repos/square/moshi): "Document Json.ignore in the README"
 
 **2021-12-09** — created branch "z/jsonIgnoreReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-09** — pushed [`55d8be9a`](https://github.com/square/moshi/commit/55d8be9a6af8090bc93725905f1725ce9b7fbddd) to [square/moshi](https://api.github.com/repos/square/moshi): "spotless"
 
 **2021-12-09** — pushed [`782f09d7`](https://github.com/square/moshi/commit/782f09d7622d3113a7f4adf1eb97c4022a1c0bdf) to [square/moshi](https://api.github.com/repos/square/moshi): "Open KSP"
-
-**2021-12-09** — opened PR [#1455](https://api.github.com/repos/square/moshi/pulls/1455) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
