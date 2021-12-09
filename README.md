@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-09** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-990209815) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-09** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-990208379) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-09** — closed issue [#1457](https://api.github.com/repos/square/moshi/issues/1457) on [square/moshi](https://api.github.com/repos/square/moshi): "lintAnalyze java.lang.IllegalArgumentException: Unsupported class file major version 60"
+
+**2021-12-09** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-990206959) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-09** — deleted branch "patch-2" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
 
 **2021-12-09** — opened PR [#1456](https://api.github.com/repos/square/moshi/pulls/1456) to [square/moshi](https://api.github.com/repos/square/moshi): "Document Json.ignore in the README"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-09** — deleted branch "z/kspReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-09** — closed PR [#1455](https://api.github.com/repos/square/moshi/pulls/1455) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README"
-
-**2021-12-09** — closed issue [#1454](https://api.github.com/repos/square/moshi/issues/1454) on [square/moshi](https://api.github.com/repos/square/moshi): "Add a note that Moshi 1.13.0 does not work with older versions of AGP due to supporting Multi-Release JAR Files"
-
-**2021-12-09** — commented on [#1454](https://github.com/square/moshi/issues/1454#issuecomment-990001438) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-09** — pushed [`55d8be9a`](https://github.com/square/moshi/commit/55d8be9a6af8090bc93725905f1725ce9b7fbddd) to [square/moshi](https://api.github.com/repos/square/moshi): "spotless"
-
-**2021-12-09** — pushed [`782f09d7`](https://github.com/square/moshi/commit/782f09d7622d3113a7f4adf1eb97c4022a1c0bdf) to [square/moshi](https://api.github.com/repos/square/moshi): "Open KSP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
