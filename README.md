@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-09** — closed issue [#1453](https://api.github.com/repos/square/moshi/issues/1453) on [square/moshi](https://api.github.com/repos/square/moshi): "1.13.0: Annotation class cannot be instantiated"
+**2021-12-09** — opened PR [#1456](https://api.github.com/repos/square/moshi/pulls/1456) to [square/moshi](https://api.github.com/repos/square/moshi): "Document Json.ignore in the README"
 
-**2021-12-09** — commented on [#1453](https://github.com/square/moshi/issues/1453#issuecomment-989964103) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-09** — created branch "z/jsonIgnoreReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-12-09** — commented on [#1454](https://github.com/square/moshi/issues/1454#issuecomment-989963527) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-09** — pushed [`16ebad5a`](https://github.com/square/moshi/commit/16ebad5a7d53898b0dbb6279c142054338e92c68) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README (#1455)"
 
-**2021-12-09** — pushed [`5d9a3e21`](https://github.com/square/kotlinpoet/commit/5d9a3e2111eca243671092bbfdb5c9d2125a2d69) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()` (#1196)"
+**2021-12-09** — deleted branch "z/kspReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-12-09** — deleted branch "z/kspAnnotations" on [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet)
+**2021-12-09** — closed PR [#1455](https://api.github.com/repos/square/moshi/pulls/1455) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README"
 
-**2021-12-09** — closed PR [#1196](https://api.github.com/repos/square/kotlinpoet/pulls/1196) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Add support for `KSAnnotation.toAnnotationSpec()`"
+**2021-12-09** — closed issue [#1454](https://api.github.com/repos/square/moshi/issues/1454) on [square/moshi](https://api.github.com/repos/square/moshi): "Add a note that Moshi 1.13.0 does not work with older versions of AGP due to supporting Multi-Release JAR Files"
 
-**2021-12-07** — commented on [#2467](https://github.com/material-components/material-components-android/pull/2467#issuecomment-987668855) in [material-components/material-components-android](https://api.github.com/repos/material-components/material-components-android)
+**2021-12-09** — commented on [#1454](https://github.com/square/moshi/issues/1454#issuecomment-990001438) in [square/moshi](https://api.github.com/repos/square/moshi)
 
-**2021-12-06** — pushed [`5a832274`](https://github.com/square/kotlinpoet/commit/5a832274d31696147e173507802d2d8a46564094) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Fully support type args"
+**2021-12-09** — pushed [`55d8be9a`](https://github.com/square/moshi/commit/55d8be9a6af8090bc93725905f1725ce9b7fbddd) to [square/moshi](https://api.github.com/repos/square/moshi): "spotless"
 
-**2021-12-06** — commented on [#753](https://github.com/google/ksp/issues/753#issuecomment-987172313) in [google/ksp](https://api.github.com/repos/google/ksp)
+**2021-12-09** — pushed [`782f09d7`](https://github.com/square/moshi/commit/782f09d7622d3113a7f4adf1eb97c4022a1c0bdf) to [square/moshi](https://api.github.com/repos/square/moshi): "Open KSP"
 
-**2021-12-06** — closed issue [#753](https://api.github.com/repos/google/ksp/issues/753) on [google/ksp](https://api.github.com/repos/google/ksp): "KSAnnotation does not expose generic information"
+**2021-12-09** — opened PR [#1455](https://api.github.com/repos/square/moshi/pulls/1455) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
