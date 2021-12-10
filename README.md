@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-10** — created tag "0.15.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-10** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-12-10** — pushed [`e33a9cd2`](https://github.com/ZacSweers/MoshiX/commit/e33a9cd297df651471e740c396ab54391a3b3b59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6 (#163)"
+
+**2021-12-10** — deleted branch "z/kotlin16" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-10** — closed PR [#163](https://api.github.com/repos/ZacSweers/MoshiX/pulls/163) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6"
+
+**2021-12-10** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-12-10** — pushed [`eafd59b3`](https://github.com/ZacSweers/MoshiX/commit/eafd59b3ced563b0ec560312310a290625880ad9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Moshi, remove ksp/records!"
+
 **2021-12-09** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-990209815) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-09** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-990208379) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-09** — closed issue [#1457](https://api.github.com/repos/square/moshi/issues/1457) on [square/moshi](https://api.github.com/repos/square/moshi): "lintAnalyze java.lang.IllegalArgumentException: Unsupported class file major version 60"
-
-**2021-12-09** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-990206959) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-09** — deleted branch "patch-2" on [ZacSweers/ksp](https://api.github.com/repos/ZacSweers/ksp)
-
-**2021-12-09** — opened PR [#1456](https://api.github.com/repos/square/moshi/pulls/1456) to [square/moshi](https://api.github.com/repos/square/moshi): "Document Json.ignore in the README"
-
-**2021-12-09** — created branch "z/jsonIgnoreReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-09** — pushed [`16ebad5a`](https://github.com/square/moshi/commit/16ebad5a7d53898b0dbb6279c142054338e92c68) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README (#1455)"
-
-**2021-12-09** — deleted branch "z/kspReadme" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-09** — closed PR [#1455](https://api.github.com/repos/square/moshi/pulls/1455) to [square/moshi](https://api.github.com/repos/square/moshi): "Add KSP docs to README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
