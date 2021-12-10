@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-10** — pushed [`cfebb699`](https://github.com/slackhq/slack-lints/commit/cfebb699d9a9dde7db33dacdbeafe6a0a7f49a2a) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update build.gradle.kts"
+
 **2021-12-10** — deleted branch "patch-1" on [ZacSweers/kotlin-web-site](https://api.github.com/repos/ZacSweers/kotlin-web-site)
 
 **2021-12-10** — created tag "0.15.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-10** — pushed [`eafd59b3`](https://github.com/ZacSweers/MoshiX/commit/eafd59b3ced563b0ec560312310a290625880ad9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Moshi, remove ksp/records!"
 
 **2021-12-09** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-990209815) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-09** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-990208379) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
