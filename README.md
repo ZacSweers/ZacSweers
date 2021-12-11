@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-11** — opened PR [#1461](https://api.github.com/repos/square/moshi/pulls/1461) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert util package to Kotlin"
+
+**2021-12-11** — created branch "z/utilKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-11** — opened PR [#1460](https://api.github.com/repos/square/moshi/pulls/1460) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert adapters to Kotlin"
 
 **2021-12-11** — deleted branch "z/convertAdapters" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-11** — created branch "z/updatejJapiCmp" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-10** — pushed [`cfebb699`](https://github.com/slackhq/slack-lints/commit/cfebb699d9a9dde7db33dacdbeafe6a0a7f49a2a) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update build.gradle.kts"
-
-**2021-12-10** — deleted branch "patch-1" on [ZacSweers/kotlin-web-site](https://api.github.com/repos/ZacSweers/kotlin-web-site)
-
-**2021-12-10** — created tag "0.15.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
