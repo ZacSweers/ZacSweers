@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-11** — opened PR [#1460](https://api.github.com/repos/square/moshi/pulls/1460) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert adapters to Kotlin"
+
+**2021-12-11** — deleted branch "z/convertAdapters" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
+
+**2021-12-11** — closed PR [#1320](https://api.github.com/repos/square/moshi/pulls/1320) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert moshi-adapters to Kotlin"
+
+**2021-12-11** — created branch "z/kotlinAdapters" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-11** — pushed 37 commits to [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi).
+
+**2021-12-11** — opened PR [#1459](https://api.github.com/repos/square/moshi/pulls/1459) to [square/moshi](https://api.github.com/repos/square/moshi): "Update moshi version used for japicmp"
+
+**2021-12-11** — created branch "z/updatejJapiCmp" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-10** — pushed [`cfebb699`](https://github.com/slackhq/slack-lints/commit/cfebb699d9a9dde7db33dacdbeafe6a0a7f49a2a) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update build.gradle.kts"
 
 **2021-12-10** — deleted branch "patch-1" on [ZacSweers/kotlin-web-site](https://api.github.com/repos/ZacSweers/kotlin-web-site)
 
 **2021-12-10** — created tag "0.15.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-10** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-12-10** — pushed [`e33a9cd2`](https://github.com/ZacSweers/MoshiX/commit/e33a9cd297df651471e740c396ab54391a3b3b59) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6 (#163)"
-
-**2021-12-10** — deleted branch "z/kotlin16" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-10** — closed PR [#163](https://api.github.com/repos/ZacSweers/MoshiX/pulls/163) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Kotlin 1.6"
-
-**2021-12-10** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-12-10** — pushed [`eafd59b3`](https://github.com/ZacSweers/MoshiX/commit/eafd59b3ced563b0ec560312310a290625880ad9) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update Moshi, remove ksp/records!"
-
-**2021-12-09** — commented on [#1368](https://github.com/square/moshi/issues/1368#issuecomment-990209815) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
