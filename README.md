@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-11** — pushed [`74a2993e`](https://github.com/square/moshi/commit/74a2993ecafa6bad63a0697d3efcd5c1529c6da5) to [square/moshi](https://api.github.com/repos/square/moshi): "Update code gen"
+
 **2021-12-11** — opened PR [#1461](https://api.github.com/repos/square/moshi/pulls/1461) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert util package to Kotlin"
 
 **2021-12-11** — created branch "z/utilKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-11** — opened PR [#1459](https://api.github.com/repos/square/moshi/pulls/1459) to [square/moshi](https://api.github.com/repos/square/moshi): "Update moshi version used for japicmp"
 
 **2021-12-11** — created branch "z/updatejJapiCmp" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-10** — pushed [`cfebb699`](https://github.com/slackhq/slack-lints/commit/cfebb699d9a9dde7db33dacdbeafe6a0a7f49a2a) to [slackhq/slack-lints](https://api.github.com/repos/slackhq/slack-lints): "Update build.gradle.kts"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
