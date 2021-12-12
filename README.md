@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-12** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-991981177) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-12** — opened PR [#1462](https://api.github.com/repos/square/moshi/pulls/1462) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert Moshi.java to Kotlin"
+
+**2021-12-12** — created branch "z/moshiToKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-12** — pushed [`e5906f18`](https://github.com/square/moshi/commit/e5906f18b28f905f90e93445609369d39ca39e65) to [square/moshi](https://api.github.com/repos/square/moshi): "Spotless"
 
 **2021-12-12** — pushed [`75056325`](https://github.com/square/moshi/commit/750563253ab893f0ae4d0bb3c05baa124f6ff399) to [square/moshi](https://api.github.com/repos/square/moshi): "Use extension for resolving"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-11** — created branch "z/utilKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-11** — opened PR [#1460](https://api.github.com/repos/square/moshi/pulls/1460) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert adapters to Kotlin"
-
-**2021-12-11** — deleted branch "z/convertAdapters" on [ZacSweers/moshi](https://api.github.com/repos/ZacSweers/moshi)
-
-**2021-12-11** — closed PR [#1320](https://api.github.com/repos/square/moshi/pulls/1320) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert moshi-adapters to Kotlin"
-
-**2021-12-11** — created branch "z/kotlinAdapters" on [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
