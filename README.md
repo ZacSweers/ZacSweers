@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-13** — opened PR [#232](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/232) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update to KSP 1.0.2"
+
+**2021-12-13** — pushed [`890db22a`](https://github.com/ZacSweers/kotlin-compile-testing/commit/890db22a12c85f2aef9f6791fd87665700aedbcf) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update to KSP 1.0.2"
+
 **2021-12-12** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-991981177) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-12** — opened PR [#1462](https://api.github.com/repos/square/moshi/pulls/1462) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert Moshi.java to Kotlin"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-11** — pushed [`74a2993e`](https://github.com/square/moshi/commit/74a2993ecafa6bad63a0697d3efcd5c1529c6da5) to [square/moshi](https://api.github.com/repos/square/moshi): "Update code gen"
 
 **2021-12-11** — opened PR [#1461](https://api.github.com/repos/square/moshi/pulls/1461) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert util package to Kotlin"
-
-**2021-12-11** — created branch "z/utilKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-11** — opened PR [#1460](https://api.github.com/repos/square/moshi/pulls/1460) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert adapters to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
