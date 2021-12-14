@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-14** — commented on [#232](https://github.com/tschuchortdev/kotlin-compile-testing/pull/232#issuecomment-994017931) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
+
+**2021-12-14** — pushed 6 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
+**2021-12-14** — pushed 13 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
+
 **2021-12-13** — opened PR [#232](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/232) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update to KSP 1.0.2"
 
 **2021-12-13** — pushed [`890db22a`](https://github.com/ZacSweers/kotlin-compile-testing/commit/890db22a12c85f2aef9f6791fd87665700aedbcf) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update to KSP 1.0.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-12** — pushed [`e5906f18`](https://github.com/square/moshi/commit/e5906f18b28f905f90e93445609369d39ca39e65) to [square/moshi](https://api.github.com/repos/square/moshi): "Spotless"
 
 **2021-12-12** — pushed [`75056325`](https://github.com/square/moshi/commit/750563253ab893f0ae4d0bb3c05baa124f6ff399) to [square/moshi](https://api.github.com/repos/square/moshi): "Use extension for resolving"
-
-**2021-12-11** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-991809735) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-11** — pushed [`74a2993e`](https://github.com/square/moshi/commit/74a2993ecafa6bad63a0697d3efcd5c1529c6da5) to [square/moshi](https://api.github.com/repos/square/moshi): "Update code gen"
-
-**2021-12-11** — opened PR [#1461](https://api.github.com/repos/square/moshi/pulls/1461) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert util package to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
