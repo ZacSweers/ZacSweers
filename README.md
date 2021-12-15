@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-15** — pushed [`cee30faf`](https://github.com/ZacSweers/CatchUp/commit/cee30fafa7ebd4614b1f5684fc52f7010ca34ff7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP alpha05"
+
+**2021-12-15** — pushed [`78ab01cd`](https://github.com/ZacSweers/CatchUp/commit/78ab01cd85a13711882a066e1eae500256384183) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.6.10 and others"
+
 **2021-12-15** — deleted branch "patch-3" on [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing)
 
 **2021-12-14** — commented on [#232](https://github.com/tschuchortdev/kotlin-compile-testing/pull/232#issuecomment-994017931) in [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-12** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-991981177) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-12** — opened PR [#1462](https://api.github.com/repos/square/moshi/pulls/1462) to [square/moshi](https://api.github.com/repos/square/moshi): "Convert Moshi.java to Kotlin"
-
-**2021-12-12** — created branch "z/moshiToKotlin" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-12** — pushed [`e5906f18`](https://github.com/square/moshi/commit/e5906f18b28f905f90e93445609369d39ca39e65) to [square/moshi](https://api.github.com/repos/square/moshi): "Spotless"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
