@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-16** — commented on [#2737](https://github.com/cashapp/sqldelight/pull/2737#issuecomment-996216308) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+
+**2021-12-16** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-996213293) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+
 **2021-12-16** — commented on [#2158](https://github.com/square/leakcanary/pull/2158#issuecomment-996201953) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
 
 **2021-12-16** — opened PR [#2737](https://api.github.com/repos/cashapp/sqldelight/pulls/2737) to [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "Explicitly support js/android plugins when adding runtime"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-16** — closed issue [#70](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/70) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Couldn't resolve js variant of redacted-compiler-plugin-annotations"
 
 **2021-12-16** — pushed 283 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
-
-**2021-12-16** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-996196063) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-12-16** — opened PR [#71](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/71) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
