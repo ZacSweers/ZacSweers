@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-16** — deleted branch "z/moreUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
+**2021-12-16** — pushed [`59f445f3`](https://github.com/ZacSweers/CatchUp/commit/59f445f3e58831c10c00ac26f40017ff4d93d1c7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.6, Gradle 7.3, AGP 7.2.0-alpha05, JDK 17, misc other updates (#275)"
+
+**2021-12-16** — closed PR [#275](https://api.github.com/repos/ZacSweers/CatchUp/pulls/275) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Kotlin 1.6, Gradle 7.3, AGP 7.2.0-alpha05, JDK 17, misc other updates"
+
 **2021-12-15** — pushed [`978cc323`](https://github.com/ZacSweers/CatchUp/commit/978cc323f8b203aa4c248a6925ef3dd86e4e0920) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Force javapoet version"
 
 **2021-12-15** — pushed [`cee30faf`](https://github.com/ZacSweers/CatchUp/commit/cee30fafa7ebd4614b1f5684fc52f7010ca34ff7) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "AGP alpha05"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-14** — pushed 6 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
 
 **2021-12-14** — pushed 13 commits to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing).
-
-**2021-12-13** — opened PR [#232](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing/pulls/232) to [tschuchortdev/kotlin-compile-testing](https://api.github.com/repos/tschuchortdev/kotlin-compile-testing): "Update to KSP 1.0.2"
-
-**2021-12-13** — pushed [`890db22a`](https://github.com/ZacSweers/kotlin-compile-testing/commit/890db22a12c85f2aef9f6791fd87665700aedbcf) to [ZacSweers/kotlin-compile-testing](https://api.github.com/repos/ZacSweers/kotlin-compile-testing): "Update to KSP 1.0.2"
-
-**2021-12-12** — commented on [#1411](https://github.com/square/moshi/pull/1411#issuecomment-991981177) in [square/moshi](https://api.github.com/repos/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
