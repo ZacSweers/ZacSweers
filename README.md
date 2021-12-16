@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-16** — pushed [`093e2ac7`](https://github.com/ZacSweers/CatchUp/commit/093e2ac7cb4c249ec94746cae65fcebab86667ee) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the more things (#276)"
+**2021-12-16** — commented on [#2158](https://github.com/square/leakcanary/pull/2158#issuecomment-996201953) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
 
-**2021-12-16** — deleted branch "z/moreUpdatesAgain" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+**2021-12-16** — opened PR [#2737](https://api.github.com/repos/cashapp/sqldelight/pulls/2737) to [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "Explicitly support js/android plugins when adding runtime"
 
-**2021-12-16** — closed PR [#276](https://api.github.com/repos/ZacSweers/CatchUp/pulls/276) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the more things"
+**2021-12-16** — created branch "z/jsSupport" on [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight)
 
-**2021-12-16** — pushed [`31693b41`](https://github.com/square/kotlinpoet/commit/31693b411eca1565ac8d90021b0b87c4ba11e92a) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use Gradle 7.3.2. Log4shell mitigation. (#1197)"
+**2021-12-16** — deleted branch "z/supportJsAlone" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-16** — closed PR [#1197](https://api.github.com/repos/square/kotlinpoet/pulls/1197) to [square/kotlinpoet](https://api.github.com/repos/square/kotlinpoet): "Use Gradle 7.3.2. Log4shell mitigation."
+**2021-12-16** — pushed [`7e260f24`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7e260f24ed7ab4e2a3444c69bfec8ea1bbe4cfad) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep (#71)"
 
-**2021-12-16** — opened PR [#276](https://api.github.com/repos/ZacSweers/CatchUp/pulls/276) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update all the more things"
+**2021-12-16** — closed PR [#71](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/71) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep"
 
-**2021-12-16** — created branch "z/moreUpdatesAgain" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+**2021-12-16** — closed issue [#70](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/70) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Couldn't resolve js variant of redacted-compiler-plugin-annotations"
 
-**2021-12-16** — commented on [#3155](https://github.com/firebase/firebase-android-sdk/issues/3155#issuecomment-995519230) in [firebase/firebase-android-sdk](https://api.github.com/repos/firebase/firebase-android-sdk)
+**2021-12-16** — pushed 283 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 
-**2021-12-16** — commented on [#3078](https://github.com/Kotlin/kotlinx.coroutines/issues/3078#issuecomment-995516241) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
+**2021-12-16** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-996196063) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-16** — commented on [#3078](https://github.com/Kotlin/kotlinx.coroutines/issues/3078#issuecomment-995515876) in [Kotlin/kotlinx.coroutines](https://api.github.com/repos/Kotlin/kotlinx.coroutines)
+**2021-12-16** — opened PR [#71](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/71) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
