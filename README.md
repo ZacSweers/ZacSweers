@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-16** — commented on [#2226](https://github.com/square/leakcanary/pull/2226#issuecomment-996386205) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+
+**2021-12-16** — commented on [#2224](https://github.com/square/leakcanary/pull/2224#issuecomment-996385965) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+
 **2021-12-16** — commented on [#2737](https://github.com/cashapp/sqldelight/pull/2737#issuecomment-996216308) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
 
 **2021-12-16** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-996213293) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-16** — pushed [`7e260f24`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7e260f24ed7ab4e2a3444c69bfec8ea1bbe4cfad) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep (#71)"
 
 **2021-12-16** — closed PR [#71](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/71) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep"
-
-**2021-12-16** — closed issue [#70](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/70) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Couldn't resolve js variant of redacted-compiler-plugin-annotations"
-
-**2021-12-16** — pushed 283 commits to [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight).
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
