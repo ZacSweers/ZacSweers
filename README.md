@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-17** — pushed [`5960a299`](https://github.com/ZacSweers/CatchUp/commit/5960a299c41605460416fc9e07f6f03d06af86d4) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Remove livedata dep"
+
+**2021-12-17** — pushed [`cb6a6b56`](https://github.com/ZacSweers/CatchUp/commit/cb6a6b560b545badd00d9a1d960593222938490f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Coroutines 1.6.0-RC3"
+
 **2021-12-16** — commented on [#2226](https://github.com/square/leakcanary/pull/2226#issuecomment-996386205) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
 
 **2021-12-16** — commented on [#2224](https://github.com/square/leakcanary/pull/2224#issuecomment-996385965) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-16** — created branch "z/jsSupport" on [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight)
 
 **2021-12-16** — deleted branch "z/supportJsAlone" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-12-16** — pushed [`7e260f24`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7e260f24ed7ab4e2a3444c69bfec8ea1bbe4cfad) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep (#71)"
-
-**2021-12-16** — closed PR [#71](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/71) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Support JS and android standalone projects for automatic runtime dep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
