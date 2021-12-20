@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-20** — commented on [#172](https://github.com/ZacSweers/MoshiX/issues/172#issuecomment-998329581) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-20** — opened PR [#1464](https://api.github.com/repos/square/moshi/pulls/1464) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove redundant static modifiers on records"
 
 **2021-12-20** — pushed [`de97155d`](https://github.com/ZacSweers/MoshiX/commit/de97155dfbef2acb8622b2ba401b9e899e9f562e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove leftover RecordsTest"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-20** — pushed [`7df236f3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7df236f3afebd636d443cd8217535a6be71861c4) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition (#72)"
 
 **2021-12-20** — deleted branch "z/simplifyRuntime" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-12-20** — closed PR [#72](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/72) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
