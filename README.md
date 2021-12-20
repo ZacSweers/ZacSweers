@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-20** — opened PR [#1464](https://api.github.com/repos/square/moshi/pulls/1464) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove redundant static modifiers on records"
+
+**2021-12-20** — pushed [`de97155d`](https://github.com/ZacSweers/MoshiX/commit/de97155dfbef2acb8622b2ba401b9e899e9f562e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove leftover RecordsTest"
+
+**2021-12-20** — created branch "z/staticRecords" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-20** — pushed [`27a93bad`](https://github.com/ZacSweers/MoshiX/commit/27a93badcefaaa794d883fcfa32e8f94374f08de) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove redundant static modifiers on records"
+
+**2021-12-20** — commented on [#2737](https://github.com/cashapp/sqldelight/pull/2737#issuecomment-998291962) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+
 **2021-12-20** — created tag "0.10.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-12-20** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-20** — deleted branch "z/simplifyRuntime" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-12-20** — closed PR [#72](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/72) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition"
-
-**2021-12-20** — opened issue [#176](https://api.github.com/repos/ZacSweers/MoshiX/issues/176) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] toString() impls"
-
-**2021-12-20** — opened issue [#175](https://api.github.com/repos/ZacSweers/MoshiX/issues/175) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add types size check"
-
-**2021-12-20** — opened issue [#174](https://api.github.com/repos/ZacSweers/MoshiX/issues/174) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Precondition checks"
-
-**2021-12-20** — opened issue [#173](https://api.github.com/repos/ZacSweers/MoshiX/issues/173) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Ignore JsonClass adapters when generateAdapter == false or generator != """
-
-**2021-12-20** — opened issue [#172](https://api.github.com/repos/ZacSweers/MoshiX/issues/172) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support JSON qualifier annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
