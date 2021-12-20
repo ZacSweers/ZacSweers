@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-17** — pushed [`5960a299`](https://github.com/ZacSweers/CatchUp/commit/5960a299c41605460416fc9e07f6f03d06af86d4) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Remove livedata dep"
+**2021-12-20** — created tag "0.10.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-17** — pushed [`cb6a6b56`](https://github.com/ZacSweers/CatchUp/commit/cb6a6b560b545badd00d9a1d960593222938490f) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Coroutines 1.6.0-RC3"
+**2021-12-20** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
 
-**2021-12-16** — commented on [#2226](https://github.com/square/leakcanary/pull/2226#issuecomment-996386205) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+**2021-12-20** — pushed [`7df236f3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7df236f3afebd636d443cd8217535a6be71861c4) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition (#72)"
 
-**2021-12-16** — commented on [#2224](https://github.com/square/leakcanary/pull/2224#issuecomment-996385965) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+**2021-12-20** — deleted branch "z/simplifyRuntime" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-16** — commented on [#2737](https://github.com/cashapp/sqldelight/pull/2737#issuecomment-996216308) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+**2021-12-20** — closed PR [#72](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/72) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition"
 
-**2021-12-16** — commented on [#70](https://github.com/ZacSweers/redacted-compiler-plugin/issues/70#issuecomment-996213293) in [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-20** — opened issue [#176](https://api.github.com/repos/ZacSweers/MoshiX/issues/176) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] toString() impls"
 
-**2021-12-16** — commented on [#2158](https://github.com/square/leakcanary/pull/2158#issuecomment-996201953) in [square/leakcanary](https://api.github.com/repos/square/leakcanary)
+**2021-12-20** — opened issue [#175](https://api.github.com/repos/ZacSweers/MoshiX/issues/175) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add types size check"
 
-**2021-12-16** — opened PR [#2737](https://api.github.com/repos/cashapp/sqldelight/pulls/2737) to [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight): "Explicitly support js/android plugins when adding runtime"
+**2021-12-20** — opened issue [#174](https://api.github.com/repos/ZacSweers/MoshiX/issues/174) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Precondition checks"
 
-**2021-12-16** — created branch "z/jsSupport" on [ZacSweers/sqldelight](https://api.github.com/repos/ZacSweers/sqldelight)
+**2021-12-20** — opened issue [#173](https://api.github.com/repos/ZacSweers/MoshiX/issues/173) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Ignore JsonClass adapters when generateAdapter == false or generator != """
 
-**2021-12-16** — deleted branch "z/supportJsAlone" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-20** — opened issue [#172](https://api.github.com/repos/ZacSweers/MoshiX/issues/172) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support JSON qualifier annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
