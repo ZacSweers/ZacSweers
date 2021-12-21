@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-21** — commented on [#1466](https://github.com/square/moshi/pull/1466#issuecomment-999034893) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-21** — closed issue [#1458](https://api.github.com/repos/square/moshi/issues/1458) on [square/moshi](https://api.github.com/repos/square/moshi): "Does not handle @Json(name = "object")"
 
 **2021-12-21** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-998984375) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-21** — pushed [`4018b44a`](https://github.com/ZacSweers/MoshiX/commit/4018b44aff3539ca279b6d66d759333090abc7dc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Internal"
 
 **2021-12-21** — pushed [`ceb1466b`](https://github.com/ZacSweers/MoshiX/commit/ceb1466bab037b24bf3133eded16e8f42f46655c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Consolidate to just DelegateKey"
-
-**2021-12-21** — opened PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
