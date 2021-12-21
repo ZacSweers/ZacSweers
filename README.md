@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-20** — commented on [#172](https://github.com/ZacSweers/MoshiX/issues/172#issuecomment-998329581) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-12-20** — opened issue [#179](https://api.github.com/repos/ZacSweers/MoshiX/issues/179) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support settable non-constructor properties"
 
-**2021-12-20** — opened PR [#1464](https://api.github.com/repos/square/moshi/pulls/1464) to [square/moshi](https://api.github.com/repos/square/moshi): "Remove redundant static modifiers on records"
+**2021-12-20** — opened issue [#178](https://api.github.com/repos/ZacSweers/MoshiX/issues/178) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Read super type properties"
 
-**2021-12-20** — pushed [`de97155d`](https://github.com/ZacSweers/MoshiX/commit/de97155dfbef2acb8622b2ba401b9e899e9f562e) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove leftover RecordsTest"
+**2021-12-20** — pushed [`a52e1c56`](https://github.com/ZacSweers/MoshiX/commit/a52e1c567f6597f5689eaccdf90ebbefd4cf29d0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work (#177)"
 
-**2021-12-20** — created branch "z/staticRecords" on [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-20** — closed issue [#176](https://api.github.com/repos/ZacSweers/MoshiX/issues/176) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] toString() impls"
 
-**2021-12-20** — pushed [`27a93bad`](https://github.com/ZacSweers/MoshiX/commit/27a93badcefaaa794d883fcfa32e8f94374f08de) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Remove redundant static modifiers on records"
+**2021-12-20** — closed issue [#175](https://api.github.com/repos/ZacSweers/MoshiX/issues/175) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add types size check"
 
-**2021-12-20** — commented on [#2737](https://github.com/cashapp/sqldelight/pull/2737#issuecomment-998291962) in [cashapp/sqldelight](https://api.github.com/repos/cashapp/sqldelight)
+**2021-12-20** — closed issue [#173](https://api.github.com/repos/ZacSweers/MoshiX/issues/173) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Ignore JsonClass adapters when generateAdapter == false or generator != """
 
-**2021-12-20** — created tag "0.10.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-20** — deleted branch "z/restructure" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-12-20** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-12-20** — closed PR [#177](https://api.github.com/repos/ZacSweers/MoshiX/pulls/177) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work"
 
-**2021-12-20** — pushed [`7df236f3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/7df236f3afebd636d443cd8217535a6be71861c4) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Simplify annotations addition (#72)"
+**2021-12-20** — opened PR [#177](https://api.github.com/repos/ZacSweers/MoshiX/pulls/177) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work"
 
-**2021-12-20** — deleted branch "z/simplifyRuntime" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-20** — created branch "z/restructure" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
