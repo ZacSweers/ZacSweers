@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-21** — closed issue [#1458](https://api.github.com/repos/square/moshi/issues/1458) on [square/moshi](https://api.github.com/repos/square/moshi): "Does not handle @Json(name = "object")"
+
+**2021-12-21** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-998984375) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-21** — commented on [#1044](https://github.com/square/moshi/issues/1044#issuecomment-998554234) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-21** — pushed [`22ea1531`](https://github.com/ZacSweers/MoshiX/commit/22ea15317cbe464de42306681a2b39771e8da51b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations (#180)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-21** — pushed [`ceb1466b`](https://github.com/ZacSweers/MoshiX/commit/ceb1466bab037b24bf3133eded16e8f42f46655c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Consolidate to just DelegateKey"
 
 **2021-12-21** — opened PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
-
-**2021-12-21** — created branch "z/apiPorts" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-20** — opened issue [#179](https://api.github.com/repos/ZacSweers/MoshiX/issues/179) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support settable non-constructor properties"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
