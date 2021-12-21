@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-21** — pushed [`22ea1531`](https://github.com/ZacSweers/MoshiX/commit/22ea15317cbe464de42306681a2b39771e8da51b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations (#180)"
+
+**2021-12-21** — deleted branch "z/apiPorts" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-21** — closed issue [#172](https://api.github.com/repos/ZacSweers/MoshiX/issues/172) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support JSON qualifier annotations"
+
+**2021-12-21** — closed PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
+
+**2021-12-21** — pushed [`4018b44a`](https://github.com/ZacSweers/MoshiX/commit/4018b44aff3539ca279b6d66d759333090abc7dc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Internal"
+
+**2021-12-21** — pushed [`ceb1466b`](https://github.com/ZacSweers/MoshiX/commit/ceb1466bab037b24bf3133eded16e8f42f46655c) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Consolidate to just DelegateKey"
+
+**2021-12-21** — opened PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
+
+**2021-12-21** — created branch "z/apiPorts" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-20** — opened issue [#179](https://api.github.com/repos/ZacSweers/MoshiX/issues/179) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support settable non-constructor properties"
 
 **2021-12-20** — opened issue [#178](https://api.github.com/repos/ZacSweers/MoshiX/issues/178) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Read super type properties"
-
-**2021-12-20** — pushed [`a52e1c56`](https://github.com/ZacSweers/MoshiX/commit/a52e1c567f6597f5689eaccdf90ebbefd4cf29d0) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work (#177)"
-
-**2021-12-20** — closed issue [#176](https://api.github.com/repos/ZacSweers/MoshiX/issues/176) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] toString() impls"
-
-**2021-12-20** — closed issue [#175](https://api.github.com/repos/ZacSweers/MoshiX/issues/175) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add types size check"
-
-**2021-12-20** — closed issue [#173](https://api.github.com/repos/ZacSweers/MoshiX/issues/173) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Ignore JsonClass adapters when generateAdapter == false or generator != """
-
-**2021-12-20** — deleted branch "z/restructure" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-20** — closed PR [#177](https://api.github.com/repos/ZacSweers/MoshiX/pulls/177) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work"
-
-**2021-12-20** — opened PR [#177](https://api.github.com/repos/ZacSweers/MoshiX/pulls/177) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More misc IR work"
-
-**2021-12-20** — created branch "z/restructure" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
