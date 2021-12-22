@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-21** — created branch "z/moreCompat" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-21** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-999080070) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-21** — commented on [#1466](https://github.com/square/moshi/pull/1466#issuecomment-999034893) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-21** — closed issue [#172](https://api.github.com/repos/ZacSweers/MoshiX/issues/172) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support JSON qualifier annotations"
 
 **2021-12-21** — closed PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
-
-**2021-12-21** — pushed [`4018b44a`](https://github.com/ZacSweers/MoshiX/commit/4018b44aff3539ca279b6d66d759333090abc7dc) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Internal"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
