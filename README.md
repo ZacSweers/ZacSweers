@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — opened issue [#185](https://api.github.com/repos/ZacSweers/MoshiX/issues/185) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR implementation of moshi-sealed code gen"
+
+**2021-12-22** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-999345789) in [square/moshi](https://api.github.com/repos/square/moshi)
+
 **2021-12-22** — pushed [`ffcb4c20`](https://github.com/ZacSweers/MoshiX/commit/ffcb4c20b3f5cd442245ce97bbb089f98deda2e7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup (#184)"
 
 **2021-12-22** — deleted branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-22** — deleted branch "z/removeDescriptors" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
 **2021-12-22** — closed PR [#74](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/74) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs"
-
-**2021-12-22** — closed issue [#73](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/73) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove obsolete descriptor-based APIs"
-
-**2021-12-22** — pushed [`a0952dd6`](https://github.com/ZacSweers/MoshiX/commit/a0952dd6486091b84649c674ce1c36f993b6523a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.6.10 (#183)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
