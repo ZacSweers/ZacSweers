@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — pushed [`4b19809e`](https://github.com/ZacSweers/MoshiX/commit/4b19809e0b77f99866cf865547dada62a726e000) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin (#188)"
+
+**2021-12-22** — deleted branch "z/addDependency" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-22** — closed PR [#188](https://api.github.com/repos/ZacSweers/MoshiX/pulls/188) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin"
+
+**2021-12-22** — closed issue [#187](https://api.github.com/repos/ZacSweers/MoshiX/issues/187) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add the Moshi runtime in the gradle plugin"
+
+**2021-12-22** — pushed [`551b0f30`](https://github.com/ZacSweers/MoshiX/commit/551b0f301d2e1387057e609aac2b8c6e2ebb9077) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix version"
+
+**2021-12-22** — opened issue [#189](https://api.github.com/repos/ZacSweers/MoshiX/issues/189) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Accumulate errors"
+
+**2021-12-22** — opened PR [#188](https://api.github.com/repos/ZacSweers/MoshiX/pulls/188) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin"
+
+**2021-12-22** — created branch "z/addDependency" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-22** — opened issue [#187](https://api.github.com/repos/ZacSweers/MoshiX/issues/187) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add the Moshi runtime in the gradle plugin"
 
 **2021-12-22** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-999387048) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-22** — pushed [`eca21a67`](https://github.com/ZacSweers/MoshiX/commit/eca21a6745805fc6ed07ed2f370f97c8f35961b4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fixup some naming + spotless"
-
-**2021-12-22** — opened issue [#186](https://api.github.com/repos/ZacSweers/MoshiX/issues/186) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support golden mask check"
-
-**2021-12-22** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-12-22** — pushed [`52b9538e`](https://github.com/ZacSweers/MoshiX/commit/52b9538e66f30585726df2f5c9711507afd0716f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Clean up comment"
-
-**2021-12-22** — opened issue [#185](https://api.github.com/repos/ZacSweers/MoshiX/issues/185) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR implementation of moshi-sealed code gen"
-
-**2021-12-22** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-999345789) in [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-22** — pushed [`ffcb4c20`](https://github.com/ZacSweers/MoshiX/commit/ffcb4c20b3f5cd442245ce97bbb089f98deda2e7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup (#184)"
-
-**2021-12-22** — deleted branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
