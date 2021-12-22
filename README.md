@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — opened issue [#187](https://api.github.com/repos/ZacSweers/MoshiX/issues/187) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add the Moshi runtime in the gradle plugin"
+
 **2021-12-22** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-999387048) in [square/moshi](https://api.github.com/repos/square/moshi)
 
 **2021-12-22** — pushed [`eca21a67`](https://github.com/ZacSweers/MoshiX/commit/eca21a6745805fc6ed07ed2f370f97c8f35961b4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fixup some naming + spotless"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-22** — pushed [`ffcb4c20`](https://github.com/ZacSweers/MoshiX/commit/ffcb4c20b3f5cd442245ce97bbb089f98deda2e7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup (#184)"
 
 **2021-12-22** — deleted branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-22** — closed PR [#184](https://api.github.com/repos/ZacSweers/MoshiX/pulls/184) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
