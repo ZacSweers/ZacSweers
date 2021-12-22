@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-999387048) in [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-22** — pushed [`eca21a67`](https://github.com/ZacSweers/MoshiX/commit/eca21a6745805fc6ed07ed2f370f97c8f35961b4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fixup some naming + spotless"
+
+**2021-12-22** — opened issue [#186](https://api.github.com/repos/ZacSweers/MoshiX/issues/186) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support golden mask check"
+
+**2021-12-22** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
+
+**2021-12-22** — pushed [`52b9538e`](https://github.com/ZacSweers/MoshiX/commit/52b9538e66f30585726df2f5c9711507afd0716f) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Clean up comment"
+
 **2021-12-22** — opened issue [#185](https://api.github.com/repos/ZacSweers/MoshiX/issues/185) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR implementation of moshi-sealed code gen"
 
 **2021-12-22** — commented on [#1457](https://github.com/square/moshi/issues/1457#issuecomment-999345789) in [square/moshi](https://api.github.com/repos/square/moshi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-22** — deleted branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-12-22** — closed PR [#184](https://api.github.com/repos/ZacSweers/MoshiX/pulls/184) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup"
-
-**2021-12-22** — opened PR [#184](https://api.github.com/repos/ZacSweers/MoshiX/pulls/184) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup"
-
-**2021-12-22** — created branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-22** — pushed [`8c52b9a3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/8c52b9a3d9515bbf9895a0bb7022da29169e3323) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs (#74)"
-
-**2021-12-22** — deleted branch "z/removeDescriptors" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
-
-**2021-12-22** — closed PR [#74](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/74) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
