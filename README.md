@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-21** — created branch "z/moreCompat" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-12-22** — opened PR [#183](https://api.github.com/repos/ZacSweers/MoshiX/pulls/183) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.6.10"
 
-**2021-12-21** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-999080070) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-22** — opened PR [#74](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/74) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs"
 
-**2021-12-21** — commented on [#1466](https://github.com/square/moshi/pull/1466#issuecomment-999034893) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-22** — created branch "z/kotlin1610" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-12-21** — closed issue [#1458](https://api.github.com/repos/square/moshi/issues/1458) on [square/moshi](https://api.github.com/repos/square/moshi): "Does not handle @Json(name = "object")"
+**2021-12-22** — pushed [`bc79fd41`](https://github.com/ZacSweers/MoshiX/commit/bc79fd41136b04f9a5e380a97469839790f9f75b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots"
 
-**2021-12-21** — commented on [#1458](https://github.com/square/moshi/issues/1458#issuecomment-998984375) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-22** — created branch "z/removeDescriptors" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-21** — commented on [#1044](https://github.com/square/moshi/issues/1044#issuecomment-998554234) in [square/moshi](https://api.github.com/repos/square/moshi)
+**2021-12-22** — pushed [`030d58c0`](https://github.com/ZacSweers/MoshiX/commit/030d58c070d6abfe5a36e5e02be55f9882046dd3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Indent"
 
-**2021-12-21** — pushed [`22ea1531`](https://github.com/ZacSweers/MoshiX/commit/22ea15317cbe464de42306681a2b39771e8da51b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations (#180)"
+**2021-12-22** — closed issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
 
-**2021-12-21** — deleted branch "z/apiPorts" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-12-22** — commented on [#135](https://github.com/ZacSweers/MoshiX/issues/135#issuecomment-999295297) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-12-21** — closed issue [#172](https://api.github.com/repos/ZacSweers/MoshiX/issues/172) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support JSON qualifier annotations"
+**2021-12-22** — closed issue [#179](https://api.github.com/repos/ZacSweers/MoshiX/issues/179) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support settable non-constructor properties"
 
-**2021-12-21** — closed PR [#180](https://api.github.com/repos/ZacSweers/MoshiX/pulls/180) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Port delegate key and support qualifier annotations"
+**2021-12-22** — pushed [`10a4e686`](https://github.com/ZacSweers/MoshiX/commit/10a4e686a1a6853e3259699b32379990732ea07d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Finish IR V0 (#182)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
