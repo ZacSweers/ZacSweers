@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-22** — opened PR [#183](https://api.github.com/repos/ZacSweers/MoshiX/pulls/183) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.6.10"
+**2021-12-22** — pushed [`ffcb4c20`](https://github.com/ZacSweers/MoshiX/commit/ffcb4c20b3f5cd442245ce97bbb089f98deda2e7) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup (#184)"
 
-**2021-12-22** — opened PR [#74](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/74) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs"
+**2021-12-22** — deleted branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-12-22** — created branch "z/kotlin1610" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-12-22** — closed PR [#184](https://api.github.com/repos/ZacSweers/MoshiX/pulls/184) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup"
 
-**2021-12-22** — pushed [`bc79fd41`](https://github.com/ZacSweers/MoshiX/commit/bc79fd41136b04f9a5e380a97469839790f9f75b) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix snapshots"
+**2021-12-22** — opened PR [#184](https://api.github.com/repos/ZacSweers/MoshiX/pulls/184) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "More IR cleanup"
 
-**2021-12-22** — created branch "z/removeDescriptors" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-22** — created branch "z/moreCleanup" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
-**2021-12-22** — pushed [`030d58c0`](https://github.com/ZacSweers/MoshiX/commit/030d58c070d6abfe5a36e5e02be55f9882046dd3) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Indent"
+**2021-12-22** — pushed [`8c52b9a3`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/8c52b9a3d9515bbf9895a0bb7022da29169e3323) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs (#74)"
 
-**2021-12-22** — closed issue [#135](https://api.github.com/repos/ZacSweers/MoshiX/issues/135) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR-based implementation"
+**2021-12-22** — deleted branch "z/removeDescriptors" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-22** — commented on [#135](https://github.com/ZacSweers/MoshiX/issues/135#issuecomment-999295297) in [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+**2021-12-22** — closed PR [#74](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/74) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove remaining descriptor APIs"
 
-**2021-12-22** — closed issue [#179](https://api.github.com/repos/ZacSweers/MoshiX/issues/179) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support settable non-constructor properties"
+**2021-12-22** — closed issue [#73](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/issues/73) on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Remove obsolete descriptor-based APIs"
 
-**2021-12-22** — pushed [`10a4e686`](https://github.com/ZacSweers/MoshiX/commit/10a4e686a1a6853e3259699b32379990732ea07d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Finish IR V0 (#182)"
+**2021-12-22** — pushed [`a0952dd6`](https://github.com/ZacSweers/MoshiX/commit/a0952dd6486091b84649c674ce1c36f993b6523a) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update to Kotlin 1.6.10 (#183)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
