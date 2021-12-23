@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-23** — pushed [`ae421b19`](https://github.com/square/moshi/commit/ae421b190958e33e43fe746abc75386f6de646a2) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01 (#1471)"
+
+**2021-12-23** — deleted branch "egorand/211223/s01" on [square/moshi](https://api.github.com/repos/square/moshi)
+
+**2021-12-23** — closed PR [#1471](https://api.github.com/repos/square/moshi/pulls/1471) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01"
+
 **2021-12-22** — pushed [`653cbfaa`](https://github.com/ZacSweers/MoshiX/commit/653cbfaa2ea5161b913d504b9cd161148b0ac156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors (#190)"
 
 **2021-12-22** — deleted branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-22** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-12-22** — created branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-22** — pushed [`4b19809e`](https://github.com/ZacSweers/MoshiX/commit/4b19809e0b77f99866cf865547dada62a726e000) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin (#188)"
-
-**2021-12-22** — deleted branch "z/addDependency" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-22** — closed PR [#188](https://api.github.com/repos/ZacSweers/MoshiX/pulls/188) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
