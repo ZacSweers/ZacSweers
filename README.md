@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-22** — pushed [`653cbfaa`](https://github.com/ZacSweers/MoshiX/commit/653cbfaa2ea5161b913d504b9cd161148b0ac156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors (#190)"
+
+**2021-12-22** — deleted branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-22** — closed PR [#190](https://api.github.com/repos/ZacSweers/MoshiX/pulls/190) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors"
+
+**2021-12-22** — closed issue [#189](https://api.github.com/repos/ZacSweers/MoshiX/issues/189) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Accumulate errors"
+
+**2021-12-22** — opened PR [#190](https://api.github.com/repos/ZacSweers/MoshiX/pulls/190) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors"
+
 **2021-12-22** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
 
 **2021-12-22** — created branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-22** — deleted branch "z/addDependency" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-12-22** — closed PR [#188](https://api.github.com/repos/ZacSweers/MoshiX/pulls/188) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin"
-
-**2021-12-22** — closed issue [#187](https://api.github.com/repos/ZacSweers/MoshiX/issues/187) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Add the Moshi runtime in the gradle plugin"
-
-**2021-12-22** — pushed [`551b0f30`](https://github.com/ZacSweers/MoshiX/commit/551b0f301d2e1387057e609aac2b8c6e2ebb9077) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Fix version"
-
-**2021-12-22** — opened issue [#189](https://api.github.com/repos/ZacSweers/MoshiX/issues/189) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Accumulate errors"
-
-**2021-12-22** — opened PR [#188](https://api.github.com/repos/ZacSweers/MoshiX/pulls/188) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Add moshi dependency in the gradle plugin"
-
-**2021-12-22** — created branch "z/addDependency" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
