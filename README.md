@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-24** — opened issue [#193](https://api.github.com/repos/ZacSweers/MoshiX/issues/193) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Generate proguard rule files"
+
 **2021-12-24** — pushed [`76504232`](https://github.com/ZacSweers/MoshiX/commit/76504232eb2190c6b5ad5558b0a1775bdd9b148d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed (#192)"
 
 **2021-12-24** — deleted branch "z/sealedIr" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-23** — pushed [`705eccf2`](https://github.com/ZacSweers/MoshiX/commit/705eccf2fccc710854e3d3121c37915d77101f7d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path (#191)"
 
 **2021-12-23** — deleted branch "z/goldenMask" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-23** — closed PR [#191](https://api.github.com/repos/ZacSweers/MoshiX/pulls/191) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
