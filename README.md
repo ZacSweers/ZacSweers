@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-23** — pushed [`705eccf2`](https://github.com/ZacSweers/MoshiX/commit/705eccf2fccc710854e3d3121c37915d77101f7d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path (#191)"
+
+**2021-12-23** — deleted branch "z/goldenMask" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-23** — closed PR [#191](https://api.github.com/repos/ZacSweers/MoshiX/pulls/191) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path"
+
+**2021-12-23** — closed issue [#186](https://api.github.com/repos/ZacSweers/MoshiX/issues/186) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support golden mask check"
+
+**2021-12-23** — opened PR [#191](https://api.github.com/repos/ZacSweers/MoshiX/pulls/191) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path"
+
+**2021-12-23** — created branch "z/goldenMask" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-23** — pushed [`ae421b19`](https://github.com/square/moshi/commit/ae421b190958e33e43fe746abc75386f6de646a2) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01 (#1471)"
 
 **2021-12-23** — deleted branch "egorand/211223/s01" on [square/moshi](https://api.github.com/repos/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-23** — closed PR [#1471](https://api.github.com/repos/square/moshi/pulls/1471) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01"
 
 **2021-12-22** — pushed [`653cbfaa`](https://github.com/ZacSweers/MoshiX/commit/653cbfaa2ea5161b913d504b9cd161148b0ac156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors (#190)"
-
-**2021-12-22** — deleted branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-22** — closed PR [#190](https://api.github.com/repos/ZacSweers/MoshiX/pulls/190) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors"
-
-**2021-12-22** — closed issue [#189](https://api.github.com/repos/ZacSweers/MoshiX/issues/189) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Accumulate errors"
-
-**2021-12-22** — opened PR [#190](https://api.github.com/repos/ZacSweers/MoshiX/pulls/190) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors"
-
-**2021-12-22** — pushed 3 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
-
-**2021-12-22** — created branch "z/accumulateErrors" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
