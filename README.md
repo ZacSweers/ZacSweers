@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-24** — pushed [`76504232`](https://github.com/ZacSweers/MoshiX/commit/76504232eb2190c6b5ad5558b0a1775bdd9b148d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed (#192)"
+
+**2021-12-24** — deleted branch "z/sealedIr" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
+**2021-12-24** — closed PR [#192](https://api.github.com/repos/ZacSweers/MoshiX/pulls/192) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed"
+
+**2021-12-24** — closed issue [#185](https://api.github.com/repos/ZacSweers/MoshiX/issues/185) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR implementation of moshi-sealed code gen"
+
+**2021-12-24** — pushed [`ca47cf27`](https://github.com/ZacSweers/MoshiX/commit/ca47cf27a04a9217144b812688b983c5a096a7f4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update README"
+
+**2021-12-24** — opened PR [#192](https://api.github.com/repos/ZacSweers/MoshiX/pulls/192) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed"
+
+**2021-12-24** — created branch "z/sealedIr" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
+
 **2021-12-23** — pushed [`705eccf2`](https://github.com/ZacSweers/MoshiX/commit/705eccf2fccc710854e3d3121c37915d77101f7d) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path (#191)"
 
 **2021-12-23** — deleted branch "z/goldenMask" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-12-23** — closed PR [#191](https://api.github.com/repos/ZacSweers/MoshiX/pulls/191) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path"
-
-**2021-12-23** — closed issue [#186](https://api.github.com/repos/ZacSweers/MoshiX/issues/186) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "[IR] Support golden mask check"
-
-**2021-12-23** — opened PR [#191](https://api.github.com/repos/ZacSweers/MoshiX/pulls/191) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement golden mask fast path"
-
-**2021-12-23** — created branch "z/goldenMask" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
-
-**2021-12-23** — pushed [`ae421b19`](https://github.com/square/moshi/commit/ae421b190958e33e43fe746abc75386f6de646a2) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01 (#1471)"
-
-**2021-12-23** — deleted branch "egorand/211223/s01" on [square/moshi](https://api.github.com/repos/square/moshi)
-
-**2021-12-23** — closed PR [#1471](https://api.github.com/repos/square/moshi/pulls/1471) to [square/moshi](https://api.github.com/repos/square/moshi): "Move repo uploads to S01"
-
-**2021-12-22** — pushed [`653cbfaa`](https://github.com/ZacSweers/MoshiX/commit/653cbfaa2ea5161b913d504b9cd161148b0ac156) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Accumulate errors (#190)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
