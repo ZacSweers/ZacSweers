@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-25** — deleted branch `z/updates` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2021-12-25** — closed issue [#5](https://github.com/ZacSweers/ZacSweers/issues/5) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Indicate status of PR change event"
 
 **2021-12-25** — opened issue [#5](https://github.com/ZacSweers/ZacSweers/issues/5) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Indicate status of PR change event"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-24** — merged PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
 
 **2021-12-24** — opened PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
-
-**2021-12-24** — created branch `z/kotlin1610` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
