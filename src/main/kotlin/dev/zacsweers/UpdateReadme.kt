@@ -77,8 +77,9 @@ private fun fetchGithubActivity(
           )
         }
         is PullRequestPayload -> {
+          val action = if (payload.pullRequest.merged == true) "merged" else payload.action
           ActivityItem(
-            "${payload.action} PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+            "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
             event.createdAt
           )
         }

@@ -159,7 +159,8 @@ data class PullRequest(
   @Json(name = "html_url")
   val htmlUrl: String,
   val title: String,
-  val body: String?
+  val body: String?,
+  val merged: Boolean? = false
 )
 
 @JsonClass(generateAdapter = true)
