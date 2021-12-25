@@ -19,7 +19,7 @@ ${githubActivity.joinToString("\n\n") { "    $it" }}
     <!-- blog starts -->
 ${blogActivity.joinToString("\n\n") { "    $it" }}
     <!-- blog ends -->
-    More on [zacsweers.dev](https://zacsweers.dev/)
+    _More on [zacsweers.dev](https://zacsweers.dev/)_
     </td></tr></table>
     
     <sub><a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired by Simon Willison's auto-updating profile README.</a></sub>
