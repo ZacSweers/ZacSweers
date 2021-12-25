@@ -16,17 +16,11 @@
 
 apply plugin: 'com.diffplug.gradle.spotless'
 def ktlintUserData = ['indent_size': '2', 'continuation_indent_size' : '2']
-def ktlintVersion = "0.37.0"
+def ktlintVersion = "0.41.0"
 String[] copiedKotlinFiles = [
     // Add any copied files that should have their copyright header preserved
     "copyright",
 ].collect { "**/*${it}.kt" } as String[]
-String[] copiedJavaFiles = [
-    "SerCompat",
-    "Suppliers",
-    "TzdbZoneDataProvider",
-    "copyright",
-].collect { "**/*${it}.java" } as String[]
 spotless {
   format 'misc', {
     target '**/*.md', '**/.gitignore'
@@ -46,17 +40,6 @@ spotless {
   kotlinGradle {
     target '*.gradle.kts'
     ktlint(ktlintVersion).userData(ktlintUserData)
-    trimTrailingWhitespace()
-    endWithNewline()
-  }
-  java {
-    target "**/src/**/*.java"
-    targetExclude '**/spotless/*.java'
-    targetExclude(copiedJavaFiles)
-    // 1.8 is built with java 11
-    googleJavaFormat("1.8")
-    licenseHeaderFile rootProject.file('spotless/copyright.java')
-    removeUnusedImports()
     trimTrailingWhitespace()
     endWithNewline()
   }
