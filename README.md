@@ -6,23 +6,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 <!-- githubActivity starts -->
 **2021-12-25** — closed issue [#1](https://github.com/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Remove pushes"
 
-**2021-12-24** — deleted branch "z/depUpdates" on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2021-12-24** — deleted branch `z/depUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2021-12-24** — closed PR [#279](https://github.com/ZacSweers/CatchUp/pull/279) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependencies"
 
-**2021-12-24** — created tag "1.0.0" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2021-12-24** — created tag `1.0.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-24** — deleted branch "z/kotlin1610" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2021-12-24** — deleted branch `z/kotlin1610` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2021-12-24** — closed PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
 
 **2021-12-24** — opened PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
 
-**2021-12-24** — created branch "z/kotlin1610" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2021-12-24** — created branch `z/kotlin1610` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2021-12-24** — opened PR [#279](https://github.com/ZacSweers/CatchUp/pull/279) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependencies"
 
-**2021-12-24** — created branch "z/depUpdates" on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2021-12-24** — created branch `z/depUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
