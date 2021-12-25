@@ -84,13 +84,13 @@ private fun fetchGithubActivity(
         }
         is CreateEvent -> {
           ActivityItem(
-            "created ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
             event.createdAt
           )
         }
         is DeleteEvent -> {
           ActivityItem(
-            "deleted ${payload.refType}${payload.ref?.let { " \"$it\"" } ?: ""} on ${event.repo?.markdownUrl()}",
+            "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
             event.createdAt
           )
         }
