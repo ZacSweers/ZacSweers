@@ -32,7 +32,7 @@ moshi {
   enableSealed = true
 }
 
-def compileArgs = ['-Xjsr305=strict', '-progressive']
+def compileArgs = ['-Xjsr305=strict', '-progressive', '-Xopt-in=kotlin.ExperimentalStdlibApi']
 
 compileKotlin {
   kotlinOptions {

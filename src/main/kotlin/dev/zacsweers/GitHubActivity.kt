@@ -7,6 +7,8 @@ import com.squareup.moshi.JsonReader
 import com.squareup.moshi.JsonWriter
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.Types
+import com.squareup.moshi.adapter
+import com.squareup.moshi.rawType
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
@@ -58,11 +60,11 @@ data class GitHubActivityEvent(
 ) {
   companion object Factory : JsonAdapter.Factory {
     override fun create(type: Type, annotations: Set<Annotation>, moshi: Moshi): JsonAdapter<*>? {
-      if (Types.getRawType(type) != GitHubActivityEvent::class.java) return null
+      if (type.rawType != GitHubActivityEvent::class.java) return null
       if (annotations.isNotEmpty()) return null
 
-      val typeAdapter = moshi.adapter(GitHubActivityEventPayload.Type::class.java)
-      val repoAdapter = moshi.adapter(Repo::class.java)
+      val typeAdapter = moshi.adapter<GitHubActivityEventPayload.Type>()
+      val repoAdapter = moshi.adapter<Repo>()
       return object : JsonAdapter<GitHubActivityEvent>() {
         override fun fromJson(reader: JsonReader): GitHubActivityEvent {
           @Suppress("UNCHECKED_CAST")
@@ -163,10 +165,13 @@ data class PullRequest(
 @JsonClass(generateAdapter = true)
 data class Repo(
   val name: String,
-  @Json(name = "html_url")
-  val htmlUrl: String
+  val url: String
 ) {
-  fun markdownUrl(): String = "[$name]($htmlUrl)"
+  fun adjustedUrl(): String {
+    return url.replaceFirst("api.", "")
+      .replaceFirst("repos/", "")
+  }
+  fun markdownUrl(): String = "[$name](${adjustedUrl()})"
 }
 
 @JsonClass(generateAdapter = true)
