@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-24** — pushed [`c47ceec5`](https://github.com/ZacSweers/CatchUp/commit/c47ceec584cd563e345f4cf282d2d6b94d269221) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Remove deps"
+
+**2021-12-24** — pushed [`4806a281`](https://github.com/ZacSweers/CatchUp/commit/4806a2819cdf2238597e4c3385ce880fc43335fc) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Remove another line"
+
+**2021-12-24** — opened PR [#278](https://api.github.com/repos/ZacSweers/CatchUp/pulls/278) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update to MoshiX 0.16.0 + use IR"
+
+**2021-12-24** — created branch "z/moshiIr" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+
 **2021-12-24** — created tag "0.16.0" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-12-24** — pushed 2 commits to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX).
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-24** — deleted branch "z/sealedIr" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 
 **2021-12-24** — closed PR [#192](https://api.github.com/repos/ZacSweers/MoshiX/pulls/192) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed"
-
-**2021-12-24** — closed issue [#185](https://api.github.com/repos/ZacSweers/MoshiX/issues/185) on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "IR implementation of moshi-sealed code gen"
-
-**2021-12-24** — pushed [`ca47cf27`](https://github.com/ZacSweers/MoshiX/commit/ca47cf27a04a9217144b812688b983c5a096a7f4) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Update README"
-
-**2021-12-24** — opened PR [#192](https://api.github.com/repos/ZacSweers/MoshiX/pulls/192) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Implement IR implementation for moshi-sealed"
-
-**2021-12-24** — created branch "z/sealedIr" on [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
