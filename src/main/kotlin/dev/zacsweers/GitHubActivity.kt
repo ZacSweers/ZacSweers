@@ -128,7 +128,8 @@ data class IssuesEventPayload(
 data class Issue(
   val title: String,
   val body: String? = null,
-  val url: String,
+  @Json(name = "html_url")
+  val htmlUrl: String,
   val number: Int
 )
 
@@ -157,7 +158,7 @@ data class PushEventPayload(
   fun commitMessage(event: GitHubActivityEvent): String {
     return if (distinctSize == 1) {
       val commit = commits[0]
-      "pushed [`${commit.sha.substring(0..7)}`](${commit.adjustedUrl()}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
+      "pushed [`${commit.sha.substring(0..7)}`](${commit.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
     } else {
       "pushed $size commits to ${event.repo?.markdownUrl()}."
     }
@@ -168,10 +169,10 @@ data class PushEventPayload(
 data class Commit(
   val sha: String,
   val message: String,
-  val url: String
+  @Json(name = "html_url")
+  val htmlUrl: String
 ) {
   fun title(): String = message.substringBefore("\n")
-  fun adjustedUrl(): String = url.replace("api.", "").replace("/repos/", "/").replace("/commits/", "/commit/")
 }
 
 @JsonClass(generateAdapter = true)
@@ -184,7 +185,8 @@ data class PullRequestPayload(
 
 @JsonClass(generateAdapter = true)
 data class PullRequest(
-  val url: String,
+  @Json(name = "html_url")
+  val htmlUrl: String,
   val title: String,
   val body: String?
 )
@@ -192,9 +194,10 @@ data class PullRequest(
 @JsonClass(generateAdapter = true)
 data class Repo(
   val name: String,
-  val url: String
+  @Json(name = "html_url")
+  val htmlUrl: String
 ) {
-  fun markdownUrl(): String = "[$name]($url)"
+  fun markdownUrl(): String = "[$name]($htmlUrl)"
 }
 
 @JsonClass(generateAdapter = true)

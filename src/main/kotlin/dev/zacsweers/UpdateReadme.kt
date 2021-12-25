@@ -66,7 +66,7 @@ private fun fetchGithubActivity(
         UnknownPayload, null -> return@mapNotNull null
         is IssuesEventPayload -> {
           ActivityItem(
-            "${payload.action} issue [#${payload.issue.number}](${payload.issue.url}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
+            "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
             event.createdAt
           )
         }
@@ -84,7 +84,7 @@ private fun fetchGithubActivity(
         }
         is PullRequestPayload -> {
           ActivityItem(
-            "${payload.action} PR [#${payload.number}](${payload.pullRequest.url}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+            "${payload.action} PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
             event.createdAt
           )
         }
