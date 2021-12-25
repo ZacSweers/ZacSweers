@@ -102,9 +102,6 @@ sealed interface GitHubActivityEventPayload {
     @Json(name = "IssueCommentEvent")
     ISSUE_COMMENT(IssueCommentEventPayload::class),
 
-    @Json(name = "PushEvent")
-    PUSH(PushEventPayload::class),
-
     @Json(name = "PullRequestEvent")
     PULL_REQUEST(PullRequestPayload::class),
 
@@ -146,34 +143,6 @@ data class Comment(
   val htmlUrl: String,
   val body: String
 )
-
-@JsonClass(generateAdapter = true)
-data class PushEventPayload(
-  val head: String,
-  val size: Int,
-  @Json(name = "distinct_size")
-  val distinctSize: Int,
-  val commits: List<Commit>
-) : GitHubActivityEventPayload {
-  fun commitMessage(event: GitHubActivityEvent): String {
-    return if (distinctSize == 1) {
-      val commit = commits[0]
-      "pushed [`${commit.sha.substring(0..7)}`](${commit.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${commit.title()}\""
-    } else {
-      "pushed $size commits to ${event.repo?.markdownUrl()}."
-    }
-  }
-}
-
-@JsonClass(generateAdapter = true)
-data class Commit(
-  val sha: String,
-  val message: String,
-  @Json(name = "html_url")
-  val htmlUrl: String
-) {
-  fun title(): String = message.substringBefore("\n")
-}
 
 @JsonClass(generateAdapter = true)
 data class PullRequestPayload(

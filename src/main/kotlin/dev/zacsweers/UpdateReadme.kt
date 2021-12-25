@@ -76,12 +76,6 @@ private fun fetchGithubActivity(
             event.createdAt
           )
         }
-        is PushEventPayload -> {
-          ActivityItem(
-            payload.commitMessage(event),
-            event.createdAt
-          )
-        }
         is PullRequestPayload -> {
           ActivityItem(
             "${payload.action} PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
