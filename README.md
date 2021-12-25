@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-25** — pushed [`256ae73a`](https://github.com/ZacSweers/ZacSweers/commit/256ae73a9471b4004619a83277b4ebd9f531d344) to [ZacSweers/ZacSweers](https://api.github.com/repos/ZacSweers/ZacSweers): "Kotlin 1.6.10 + updated moshi/moshix + moshi-ir"
+**2021-12-25** — closed issue [#1](https://github.com/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Remove pushes"
 
-**2021-12-25** — pushed [`14bcac02`](https://github.com/ZacSweers/MoshiX/commit/14bcac02dad8bc3bd540bf35670f2dee786d2b13) to [ZacSweers/MoshiX](https://api.github.com/repos/ZacSweers/MoshiX): "Nix leftover descriptor opt-in"
+**2021-12-24** — deleted branch "z/depUpdates" on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2021-12-24** — pushed [`a69ae18a`](https://github.com/ZacSweers/CatchUp/commit/a69ae18a0ef9851c37d0e95615a202f7457d71ee) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies (#279)"
+**2021-12-24** — closed PR [#279](https://github.com/ZacSweers/CatchUp/pull/279) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependencies"
 
-**2021-12-24** — deleted branch "z/depUpdates" on [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp)
+**2021-12-24** — created tag "1.0.0" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-24** — closed PR [#279](https://api.github.com/repos/ZacSweers/CatchUp/pulls/279) to [ZacSweers/CatchUp](https://api.github.com/repos/ZacSweers/CatchUp): "Update dependencies"
+**2021-12-24** — deleted branch "z/kotlin1610" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-24** — created tag "1.0.0" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-24** — closed PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
 
-**2021-12-24** — pushed 2 commits to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin).
+**2021-12-24** — opened PR [#75](https://github.com/ZacSweers/redacted-compiler-plugin/pull/75) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
 
-**2021-12-24** — pushed [`ae7f0b25`](https://github.com/ZacSweers/redacted-compiler-plugin/commit/ae7f0b2597504353e46080636029d08e934fdc25) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file (#75)"
+**2021-12-24** — created branch "z/kotlin1610" on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2021-12-24** — deleted branch "z/kotlin1610" on [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin)
+**2021-12-24** — opened PR [#279](https://github.com/ZacSweers/CatchUp/pull/279) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependencies"
 
-**2021-12-24** — closed PR [#75](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin/pulls/75) to [ZacSweers/redacted-compiler-plugin](https://api.github.com/repos/ZacSweers/redacted-compiler-plugin): "Update to kotlin 1.6.10 and persist lock file"
+**2021-12-24** — created branch "z/depUpdates" on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
