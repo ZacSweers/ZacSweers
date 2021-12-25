@@ -5,7 +5,7 @@ fun createReadMe(
   blogActivity: List<ActivityItem>
 ): String {
   return """
-    Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow @ZacSweers on Twitter](https://twitter.com/ZacSweers).
+    Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow me on Twitter](https://twitter.com/ZacSweers).
 
     <table><tr><td valign="top" width="60%">
 
