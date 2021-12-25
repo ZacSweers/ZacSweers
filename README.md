@@ -1,4 +1,4 @@
-Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow @ZacSweers on Twitter](https://twitter.com/ZacSweers).
+Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow me on Twitter](https://twitter.com/ZacSweers).
 
 <table><tr><td valign="top" width="60%">
 
@@ -48,7 +48,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 **2020-03-16** — [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
 <!-- blog ends -->
-More on [zacsweers.dev](https://zacsweers.dev/)
+_More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
 
 <sub><a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired by Simon Willison's auto-updating profile README.</a></sub>
