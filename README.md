@@ -4,13 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2021-12-25** — deleted branch `z/updates` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2021-12-26** — opened PR [#1473](https://github.com/square/moshi/pull/1473) to [square/moshi](https://github.com/square/moshi): "Fix exhaustive when in JsonUtf8Reader"
 
-**2021-12-25** — closed issue [#5](https://github.com/ZacSweers/ZacSweers/issues/5) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Indicate status of PR change event"
+**2021-12-26** — created branch `z/fixUtf8Reader` on [square/moshi](https://github.com/square/moshi)
 
-**2021-12-25** — opened issue [#5](https://github.com/ZacSweers/ZacSweers/issues/5) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Indicate status of PR change event"
+**2021-12-26** — opened PR [#1472](https://github.com/square/moshi/pull/1472) to [square/moshi](https://github.com/square/moshi): "Convert Moshi annotations to Kotlin"
 
-**2021-12-25** — closed issue [#1](https://github.com/ZacSweers/ZacSweers/issues/1) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Remove pushes"
+**2021-12-26** — created branch `z/annotationsToKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2021-12-26** — merged PR [#1400](https://github.com/square/moshi/pull/1400) to [square/moshi](https://github.com/square/moshi): "`JsonUtf8Reader` --> Kt"
+
+**2021-12-26** — deleted branch `z/moshiToKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2021-12-26** — merged PR [#1462](https://github.com/square/moshi/pull/1462) to [square/moshi](https://github.com/square/moshi): "Convert Moshi.java to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
