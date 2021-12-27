@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-27** — deleted branch `patch-2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
+
 **2021-12-27** — opened PR [#1475](https://github.com/square/moshi/pull/1475) to [square/moshi](https://github.com/square/moshi): "Convert `JsonAdapter` to Kotlin"
 
 **2021-12-27** — created branch `z/kotlinJsonAdapter` on [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-26** — created branch `z/fixJavadocTask` on [square/moshi](https://github.com/square/moshi)
 
 **2021-12-26** — deleted branch `z/fixUtf8Reader` on [square/moshi](https://github.com/square/moshi)
-
-**2021-12-26** — merged PR [#1473](https://github.com/square/moshi/pull/1473) to [square/moshi](https://github.com/square/moshi): "Fix exhaustive when in JsonUtf8Reader"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
