@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-26** — created branch `z/moveExtensions` on [square/moshi](https://github.com/square/moshi)
+
+**2021-12-26** — deleted branch `z/fixJavadocTask` on [square/moshi](https://github.com/square/moshi)
+
+**2021-12-26** — merged PR [#1474](https://github.com/square/moshi/pull/1474) to [square/moshi](https://github.com/square/moshi): "Fix javadoc task and snapshots"
+
 **2021-12-26** — opened PR [#1474](https://github.com/square/moshi/pull/1474) to [square/moshi](https://github.com/square/moshi): "Fix javadoc task and snapshots"
 
 **2021-12-26** — created branch `z/fixJavadocTask` on [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-26** — created branch `z/fixUtf8Reader` on [square/moshi](https://github.com/square/moshi)
 
 **2021-12-26** — opened PR [#1472](https://github.com/square/moshi/pull/1472) to [square/moshi](https://github.com/square/moshi): "Convert Moshi annotations to Kotlin"
-
-**2021-12-26** — created branch `z/annotationsToKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2021-12-26** — merged PR [#1400](https://github.com/square/moshi/pull/1400) to [square/moshi](https://github.com/square/moshi): "`JsonUtf8Reader` --> Kt"
-
-**2021-12-26** — deleted branch `z/moshiToKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
