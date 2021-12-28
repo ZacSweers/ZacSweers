@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2021-12-27** — closed issue [#1476](https://github.com/square/moshi/issues/1476) on [square/moshi](https://github.com/square/moshi): "[ANR] com.squareup.moshi.*"
+
+**2021-12-27** — commented on [#1476](https://github.com/square/moshi/issues/1476#issuecomment-1001828157) in [square/moshi](https://github.com/square/moshi)
+
 **2021-12-27** — deleted branch `patch-2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
 
 **2021-12-27** — opened PR [#1475](https://github.com/square/moshi/pull/1475) to [square/moshi](https://github.com/square/moshi): "Convert `JsonAdapter` to Kotlin"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-26** — merged PR [#1474](https://github.com/square/moshi/pull/1474) to [square/moshi](https://github.com/square/moshi): "Fix javadoc task and snapshots"
 
 **2021-12-26** — opened PR [#1474](https://github.com/square/moshi/pull/1474) to [square/moshi](https://github.com/square/moshi): "Fix javadoc task and snapshots"
-
-**2021-12-26** — created branch `z/fixJavadocTask` on [square/moshi](https://github.com/square/moshi)
-
-**2021-12-26** — deleted branch `z/fixUtf8Reader` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
