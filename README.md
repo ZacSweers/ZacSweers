@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-04** — merged PR [#195](https://github.com/ZacSweers/MoshiX/pull/195) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix moshi-ir proguard docs"
+
 **2022-01-04** — commented on [#136](https://github.com/ZacSweers/MoshiX/issues/136#issuecomment-1004827988) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-04** — opened issue [#194](https://github.com/ZacSweers/MoshiX/issues/194) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Allow gradle plugin to configure kapt/KSP"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-12-27** — commented on [#1476](https://github.com/square/moshi/issues/1476#issuecomment-1001828157) in [square/moshi](https://github.com/square/moshi)
 
 **2021-12-27** — deleted branch `patch-2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
-
-**2021-12-27** — opened PR [#1475](https://github.com/square/moshi/pull/1475) to [square/moshi](https://github.com/square/moshi): "Convert `JsonAdapter` to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
