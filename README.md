@@ -7,22 +7,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-04** — closed issue [#28](https://github.com/ZacSweers/auto-service-ksp/issues/28) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Plugin not working with latest kotlin version"
 
 **2022-01-04** — commented on [#28](https://github.com/ZacSweers/auto-service-ksp/issues/28#issuecomment-1005310960) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2022-01-04** — merged PR [#195](https://github.com/ZacSweers/MoshiX/pull/195) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix moshi-ir proguard docs"
-
-**2022-01-04** — commented on [#136](https://github.com/ZacSweers/MoshiX/issues/136#issuecomment-1004827988) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-04** — opened issue [#194](https://github.com/ZacSweers/MoshiX/issues/194) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Allow gradle plugin to configure kapt/KSP"
-
-**2022-01-04** — commented on [#193](https://github.com/ZacSweers/MoshiX/issues/193#issuecomment-1004823206) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-03** — deleted branch `z/annotationsToKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-03** — merged PR [#1472](https://github.com/square/moshi/pull/1472) to [square/moshi](https://github.com/square/moshi): "Convert Moshi annotations to Kotlin"
-
-**2021-12-31** — commented on [#193](https://github.com/ZacSweers/MoshiX/issues/193#issuecomment-1003439470) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2021-12-27** — closed issue [#1476](https://github.com/square/moshi/issues/1476) on [square/moshi](https://github.com/square/moshi): "[ANR] com.squareup.moshi.*"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
