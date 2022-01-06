@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-06** — opened issue [#196](https://github.com/ZacSweers/MoshiX/issues/196) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[IR] Add debug option"
+
 **2022-01-05** — deleted branch `z/gradle73` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-01-05** — merged PR [#9](https://github.com/slackhq/slack-lints/pull/9) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Gradle 7.3 + Java 17"
