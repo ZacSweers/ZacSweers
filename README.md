@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-06** — deleted branch `patch-3` on [ZacSweers/material-components-android](https://github.com/ZacSweers/material-components-android)
+
+**2022-01-06** — closed PR [#2467](https://github.com/material-components/material-components-android/pull/2467) to [material-components/material-components-android](https://github.com/material-components/material-components-android): "[Sliders] Make `BaseOnChangeListener` public"
+
+**2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006931783) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-06** — created tag `0.16.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-06** — commented on [#1478](https://github.com/square/moshi/issues/1478#issuecomment-1006915564) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006915278) in [square/moshi](https://github.com/square/moshi)
@@ -11,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-06** — deleted branch `z/fixes` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-06** — merged PR [#198](https://github.com/ZacSweers/MoshiX/pull/198) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Two small IR fixes"
-
-**2022-01-06** — opened PR [#198](https://github.com/ZacSweers/MoshiX/pull/198) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Two small IR fixes"
-
-**2022-01-06** — deleted branch `z/kotlinAdapters` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-06** — merged PR [#1460](https://github.com/square/moshi/pull/1460) to [square/moshi](https://github.com/square/moshi): "Convert adapters to Kotlin"
-
-**2022-01-06** — created branch `z/fixes` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
