@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-06** — merged PR [#1480](https://github.com/square/moshi/pull/1480) to [square/moshi](https://github.com/square/moshi): "Fix typo in README"
+
 **2022-01-06** — deleted branch `patch-3` on [ZacSweers/material-components-android](https://github.com/ZacSweers/material-components-android)
 
 **2022-01-06** — closed PR [#2467](https://github.com/material-components/material-components-android/pull/2467) to [material-components/material-components-android](https://github.com/material-components/material-components-android): "[Sliders] Make `BaseOnChangeListener` public"
