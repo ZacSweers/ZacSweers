@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-06** — created tag `0.16.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-06** — commented on [#1478](https://github.com/square/moshi/issues/1478#issuecomment-1006915564) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — deleted branch `z/proguardRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006915278) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — merged PR [#197](https://github.com/ZacSweers/MoshiX/pull/197) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate proguard rules"
+**2022-01-06** — deleted branch `z/fixes` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-01-06** — closed issue [#193](https://github.com/ZacSweers/MoshiX/issues/193) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[IR] Generate proguard rule files"
+**2022-01-06** — merged PR [#198](https://github.com/ZacSweers/MoshiX/pull/198) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Two small IR fixes"
 
-**2022-01-06** — closed issue [#196](https://github.com/ZacSweers/MoshiX/issues/196) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[IR] Add debug option"
+**2022-01-06** — opened PR [#198](https://github.com/ZacSweers/MoshiX/pull/198) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Two small IR fixes"
 
-**2022-01-06** — opened PR [#197](https://github.com/ZacSweers/MoshiX/pull/197) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate proguard rules"
+**2022-01-06** — deleted branch `z/kotlinAdapters` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — created branch `z/proguardRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-06** — merged PR [#1460](https://github.com/square/moshi/pull/1460) to [square/moshi](https://github.com/square/moshi): "Convert adapters to Kotlin"
 
-**2022-01-06** — opened issue [#196](https://github.com/ZacSweers/MoshiX/issues/196) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[IR] Add debug option"
-
-**2022-01-05** — deleted branch `z/gradle73` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-01-05** — merged PR [#9](https://github.com/slackhq/slack-lints/pull/9) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Gradle 7.3 + Java 17"
+**2022-01-06** — created branch `z/fixes` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
