@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-07** — opened PR [#1488](https://github.com/square/moshi/pull/1488) to [square/moshi](https://github.com/square/moshi): "Convert Types to Kotlin"
+
+**2022-01-07** — created branch `z/typeskotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-07** — opened PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
+
+**2022-01-07** — created branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-07** — opened PR [#1486](https://github.com/square/moshi/pull/1486) to [square/moshi](https://github.com/square/moshi): "Convert JsonUtf8Writer to Kotlin"
 
 **2022-01-07** — created branch `z/jsonUtf8WriterKotlin` on [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-07** — deleted branch `z/fixComputedVars` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
 
 **2022-01-07** — closed PR [#1308](https://github.com/square/moshi/pull/1308) to [square/moshi](https://github.com/square/moshi): "Fix private computed properties not being ignored"
-
-**2022-01-07** — commented on [#1308](https://github.com/square/moshi/pull/1308#issuecomment-1007628315) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1007627154) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1007625797) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — merged PR [#1482](https://github.com/square/moshi/pull/1482) to [square/moshi](https://github.com/square/moshi): "Corrected the latest version in Maven sample in README file"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
