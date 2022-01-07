@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-07** — deleted branch `z/icBugRepro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-01-07** — deleted branch `z/fixComputedVars` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
 
-**2022-01-07** — closed PR [#274](https://github.com/ZacSweers/CatchUp/pull/274) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro kotlin IC bug"
+**2022-01-07** — closed PR [#1308](https://github.com/square/moshi/pull/1308) to [square/moshi](https://github.com/square/moshi): "Fix private computed properties not being ignored"
 
-**2022-01-07** — merged PR [#1481](https://github.com/square/moshi/pull/1481) to [square/moshi](https://github.com/square/moshi): "EventJsonAdapter Kotlin sample update in README file"
+**2022-01-07** — commented on [#1308](https://github.com/square/moshi/pull/1308#issuecomment-1007628315) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — merged PR [#1480](https://github.com/square/moshi/pull/1480) to [square/moshi](https://github.com/square/moshi): "Fix typo in README"
+**2022-01-07** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1007627154) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — deleted branch `patch-3` on [ZacSweers/material-components-android](https://github.com/ZacSweers/material-components-android)
+**2022-01-07** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1007625797) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — closed PR [#2467](https://github.com/material-components/material-components-android/pull/2467) to [material-components/material-components-android](https://github.com/material-components/material-components-android): "[Sliders] Make `BaseOnChangeListener` public"
+**2022-01-07** — merged PR [#1482](https://github.com/square/moshi/pull/1482) to [square/moshi](https://github.com/square/moshi): "Corrected the latest version in Maven sample in README file"
 
-**2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006931783) in [square/moshi](https://github.com/square/moshi)
+**2022-01-07** — opened PR [#1484](https://github.com/square/moshi/pull/1484) to [square/moshi](https://github.com/square/moshi): "Convert JsonScope to Kotlin"
 
-**2022-01-06** — created tag `0.16.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-07** — created branch `z/jsonScope` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-06** — commented on [#1478](https://github.com/square/moshi/issues/1478#issuecomment-1006915564) in [square/moshi](https://github.com/square/moshi)
+**2022-01-07** — opened PR [#1483](https://github.com/square/moshi/pull/1483) to [square/moshi](https://github.com/square/moshi): "Convert exceptions to Kotlin"
 
-**2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006915278) in [square/moshi](https://github.com/square/moshi)
+**2022-01-07** — created branch `z/kotlinExceptions` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
