@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-07** — deleted branch `z/icBugRepro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-01-07** — closed PR [#274](https://github.com/ZacSweers/CatchUp/pull/274) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro kotlin IC bug"
+
+**2022-01-07** — merged PR [#1481](https://github.com/square/moshi/pull/1481) to [square/moshi](https://github.com/square/moshi): "EventJsonAdapter Kotlin sample update in README file"
+
 **2022-01-06** — merged PR [#1480](https://github.com/square/moshi/pull/1480) to [square/moshi](https://github.com/square/moshi): "Fix typo in README"
 
 **2022-01-06** — deleted branch `patch-3` on [ZacSweers/material-components-android](https://github.com/ZacSweers/material-components-android)
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-06** — commented on [#1478](https://github.com/square/moshi/issues/1478#issuecomment-1006915564) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-06** — commented on [#1479](https://github.com/square/moshi/issues/1479#issuecomment-1006915278) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-06** — deleted branch `z/fixes` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-06** — merged PR [#198](https://github.com/ZacSweers/MoshiX/pull/198) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Two small IR fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
