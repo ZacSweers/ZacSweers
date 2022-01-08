@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-07** — opened PR [#1490](https://github.com/square/moshi/pull/1490) to [square/moshi](https://github.com/square/moshi): "Use Okio IOException in Kotlin classes"
+
+**2022-01-07** — created branch `z/okioIO` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-07** — opened PR [#1489](https://github.com/square/moshi/pull/1489) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueSource to Kotlin"
+
+**2022-01-07** — created branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-07** — opened PR [#1488](https://github.com/square/moshi/pull/1488) to [square/moshi](https://github.com/square/moshi): "Convert Types to Kotlin"
 
 **2022-01-07** — created branch `z/typeskotlin` on [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-07** — opened PR [#1486](https://github.com/square/moshi/pull/1486) to [square/moshi](https://github.com/square/moshi): "Convert JsonUtf8Writer to Kotlin"
 
 **2022-01-07** — created branch `z/jsonUtf8WriterKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — opened PR [#1485](https://github.com/square/moshi/pull/1485) to [square/moshi](https://github.com/square/moshi): "Convert Collection adapter to Kotlin"
-
-**2022-01-07** — created branch `z/collectionAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — deleted branch `z/fixComputedVars` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
-
-**2022-01-07** — closed PR [#1308](https://github.com/square/moshi/pull/1308) to [square/moshi](https://github.com/square/moshi): "Fix private computed properties not being ignored"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
