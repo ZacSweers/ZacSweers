@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-07** — created branch `z/recordJsonAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-07** — opened PR [#1492](https://github.com/square/moshi/pull/1492) to [square/moshi](https://github.com/square/moshi): "Convert MapJsonAdapter to Kotlin"
+
+**2022-01-07** — created branch `z/mapJsonAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-07** — opened PR [#1491](https://github.com/square/moshi/pull/1491) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueWriter to Kotlin"
 
 **2022-01-07** — created branch `z/jsonValueKotlin` on [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-07** — created branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-07** — opened PR [#1488](https://github.com/square/moshi/pull/1488) to [square/moshi](https://github.com/square/moshi): "Convert Types to Kotlin"
-
-**2022-01-07** — created branch `z/typeskotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — opened PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
-
-**2022-01-07** — created branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
