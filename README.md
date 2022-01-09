@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-09** — commented on [#1494](https://github.com/square/moshi/pull/1494#issuecomment-1008368324) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-09** — opened PR [#1494](https://github.com/square/moshi/pull/1494) to [square/moshi](https://github.com/square/moshi): "Convert StandardJsonAdapters to Kotlin"
+
+**2022-01-09** — created branch `z/standardAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-07** — opened PR [#1493](https://github.com/square/moshi/pull/1493) to [square/moshi](https://github.com/square/moshi): "Convert RecordJsonAdapter to Kotlin"
 
 **2022-01-07** — created branch `z/recordJsonAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-07** — created branch `z/jsonValueKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-07** — opened PR [#1490](https://github.com/square/moshi/pull/1490) to [square/moshi](https://github.com/square/moshi): "Use Okio IOException in Kotlin classes"
-
-**2022-01-07** — created branch `z/okioIO` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — opened PR [#1489](https://github.com/square/moshi/pull/1489) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueSource to Kotlin"
-
-**2022-01-07** — created branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
