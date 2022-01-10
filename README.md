@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-10** — deleted branch `z/jsonValueKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-10** — merged PR [#1491](https://github.com/square/moshi/pull/1491) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueWriter to Kotlin"
-
-**2022-01-10** — deleted branch `z/standardAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
