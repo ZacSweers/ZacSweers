@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-10** — opened PR [#1496](https://github.com/square/moshi/pull/1496) to [square/moshi](https://github.com/square/moshi): "Inline Moshi extension functions to Moshi itself"
+**2022-01-10** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1009154527) in [square/moshi](https://github.com/square/moshi)
 
-**2022-01-10** — created branch `z/inlineExtensions` on [square/moshi](https://github.com/square/moshi)
+**2022-01-10** — deleted branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-10** — deleted branch `z/kotlinJsonAdapter` on [square/moshi](https://github.com/square/moshi)
+**2022-01-10** — merged PR [#1489](https://github.com/square/moshi/pull/1489) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueSource to Kotlin"
 
-**2022-01-10** — merged PR [#1475](https://github.com/square/moshi/pull/1475) to [square/moshi](https://github.com/square/moshi): "Convert `JsonAdapter` to Kotlin"
+**2022-01-10** — deleted branch `z/mapJsonAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-10** — deleted branch `z/jsonScope` on [square/moshi](https://github.com/square/moshi)
+**2022-01-10** — merged PR [#1492](https://github.com/square/moshi/pull/1492) to [square/moshi](https://github.com/square/moshi): "Convert MapJsonAdapter to Kotlin"
 
-**2022-01-10** — merged PR [#1484](https://github.com/square/moshi/pull/1484) to [square/moshi](https://github.com/square/moshi): "Convert JsonScope to Kotlin"
+**2022-01-10** — deleted branch `z/inlineExtensions` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-10** — deleted branch `z/collectionAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
+**2022-01-10** — merged PR [#1496](https://github.com/square/moshi/pull/1496) to [square/moshi](https://github.com/square/moshi): "Inline Moshi extension functions to Moshi itself"
 
-**2022-01-10** — merged PR [#1485](https://github.com/square/moshi/pull/1485) to [square/moshi](https://github.com/square/moshi): "Convert Collection adapter to Kotlin"
+**2022-01-10** — deleted branch `z/jsonValueKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-10** — merged PR [#1491](https://github.com/square/moshi/pull/1491) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueWriter to Kotlin"
+
+**2022-01-10** — deleted branch `z/standardAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
