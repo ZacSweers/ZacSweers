@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-10** — commented on [#1495](https://github.com/square/moshi/pull/1495#issuecomment-1008965468) in [square/moshi](https://github.com/square/moshi)
+
 **2022-01-09** — commented on [#1494](https://github.com/square/moshi/pull/1494#issuecomment-1008368324) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-09** — opened PR [#1494](https://github.com/square/moshi/pull/1494) to [square/moshi](https://github.com/square/moshi): "Convert StandardJsonAdapters to Kotlin"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-07** — opened PR [#1491](https://github.com/square/moshi/pull/1491) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueWriter to Kotlin"
 
 **2022-01-07** — created branch `z/jsonValueKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-07** — opened PR [#1490](https://github.com/square/moshi/pull/1490) to [square/moshi](https://github.com/square/moshi): "Use Okio IOException in Kotlin classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
