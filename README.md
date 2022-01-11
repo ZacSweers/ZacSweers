@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — merged PR [#1495](https://github.com/square/moshi/pull/1495) to [square/moshi](https://github.com/square/moshi): "Converted the read json list Java file to Kotlin"
+
 **2022-01-11** — opened issue [#791](https://github.com/google/ksp/issues/791) on [google/ksp](https://github.com/google/ksp): "Presence of other compiler plugins breaks extension registration"
 
 **2022-01-11** — opened PR [#281](https://github.com/ZacSweers/CatchUp/pull/281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro extension bug in KSP"
