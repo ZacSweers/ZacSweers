@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — merged PR [#1497](https://github.com/square/moshi/pull/1497) to [square/moshi](https://github.com/square/moshi): "Update dokka to 1.6.10"
+
 **2022-01-10** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1009154527) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-10** — deleted branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
@@ -13,10 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-10** — deleted branch `z/mapJsonAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-10** — merged PR [#1492](https://github.com/square/moshi/pull/1492) to [square/moshi](https://github.com/square/moshi): "Convert MapJsonAdapter to Kotlin"
-
-**2022-01-10** — deleted branch `z/inlineExtensions` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-10** — merged PR [#1496](https://github.com/square/moshi/pull/1496) to [square/moshi](https://github.com/square/moshi): "Inline Moshi extension functions to Moshi itself"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
