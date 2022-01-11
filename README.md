@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — commented on [#1498](https://github.com/square/moshi/issues/1498#issuecomment-1010325863) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-11** — closed issue [#1498](https://github.com/square/moshi/issues/1498) on [square/moshi](https://github.com/square/moshi): "Unsupported class file major version 60"
+
+**2022-01-11** — deleted branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-11** — merged PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
+
 **2022-01-11** — opened PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
 
 **2022-01-11** — created branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
@@ -11,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — deleted branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-11** — merged PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
-
-**2022-01-11** — merged PR [#1486](https://github.com/square/moshi/pull/1486) to [square/moshi](https://github.com/square/moshi): "Convert JsonUtf8Writer to Kotlin"
-
-**2022-01-11** — deleted branch `z/jsonUtf8WriterKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
