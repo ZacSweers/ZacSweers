@@ -4,17 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — opened issue [#791](https://github.com/google/ksp/issues/791) on [google/ksp](https://github.com/google/ksp): "Presence of other compiler plugins breaks extension registration"
+
+**2022-01-11** — opened PR [#281](https://github.com/ZacSweers/CatchUp/pull/281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro extension bug in KSP"
+
+**2022-01-11** — created branch `z/reproKspBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-01-11** — opened PR [#280](https://github.com/ZacSweers/CatchUp/pull/280) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro IR bug in compose"
+
+**2022-01-11** — created branch `z/reproIrBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-01-11** — merged PR [#1497](https://github.com/square/moshi/pull/1497) to [square/moshi](https://github.com/square/moshi): "Update dokka to 1.6.10"
 
 **2022-01-10** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1009154527) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-10** — deleted branch `z/kotlinJsonValueSource` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-10** — merged PR [#1489](https://github.com/square/moshi/pull/1489) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueSource to Kotlin"
-
-**2022-01-10** — deleted branch `z/mapJsonAdapterKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-10** — merged PR [#1492](https://github.com/square/moshi/pull/1492) to [square/moshi](https://github.com/square/moshi): "Convert MapJsonAdapter to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
