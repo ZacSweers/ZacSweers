@@ -4,25 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-11** — created tag `0.16.3` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-11** — deleted branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-11** — deleted branch `z/reproIrBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-01-11** — merged PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
 
-**2022-01-11** — closed PR [#280](https://github.com/ZacSweers/CatchUp/pull/280) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro IR bug in compose"
+**2022-01-11** — merged PR [#1486](https://github.com/square/moshi/pull/1486) to [square/moshi](https://github.com/square/moshi): "Convert JsonUtf8Writer to Kotlin"
 
-**2022-01-11** — commented on [#280](https://github.com/ZacSweers/CatchUp/pull/280#issuecomment-1010147107) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-01-11** — deleted branch `z/jsonUtf8WriterKotlin` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-11** — deleted branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-01-11** — deleted branch `z/typeskotlin` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-11** — merged PR [#199](https://github.com/ZacSweers/MoshiX/pull/199) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix IrTypeParameters not being copied"
-
-**2022-01-11** — opened PR [#199](https://github.com/ZacSweers/MoshiX/pull/199) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix IrTypeParameters not being copied"
-
-**2022-01-11** — created branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-11** — merged PR [#1495](https://github.com/square/moshi/pull/1495) to [square/moshi](https://github.com/square/moshi): "Converted the read json list Java file to Kotlin"
-
-**2022-01-11** — opened issue [#791](https://github.com/google/ksp/issues/791) on [google/ksp](https://github.com/google/ksp): "Presence of other compiler plugins breaks extension registration"
+**2022-01-11** — merged PR [#1488](https://github.com/square/moshi/pull/1488) to [square/moshi](https://github.com/square/moshi): "Convert Types to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
