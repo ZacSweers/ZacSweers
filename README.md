@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1010346303) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-11** — opened PR [#1500](https://github.com/square/moshi/pull/1500) to [square/moshi](https://github.com/square/moshi): "Update a few misc build deps"
+
+**2022-01-11** — created branch `z/buildDeps` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-11** — commented on [#3155](https://github.com/firebase/firebase-android-sdk/issues/3155#issuecomment-1010342216) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
+
+**2022-01-11** — deleted branch `z/recordJsonAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-11** — merged PR [#1493](https://github.com/square/moshi/pull/1493) to [square/moshi](https://github.com/square/moshi): "Convert RecordJsonAdapter to Kotlin"
+
 **2022-01-11** — commented on [#1498](https://github.com/square/moshi/issues/1498#issuecomment-1010325863) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-11** — closed issue [#1498](https://github.com/square/moshi/issues/1498) on [square/moshi](https://github.com/square/moshi): "Unsupported class file major version 60"
@@ -11,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — deleted branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-11** — merged PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
-
-**2022-01-11** — opened PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
-
-**2022-01-11** — created branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — deleted branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — merged PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
