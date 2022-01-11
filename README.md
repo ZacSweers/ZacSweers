@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — opened PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
+
+**2022-01-11** — created branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-11** — deleted branch `z/jsonValueReaderKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-11** — merged PR [#1487](https://github.com/square/moshi/pull/1487) to [square/moshi](https://github.com/square/moshi): "Convert JsonValueReader to Kotlin"
@@ -11,10 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — merged PR [#1486](https://github.com/square/moshi/pull/1486) to [square/moshi](https://github.com/square/moshi): "Convert JsonUtf8Writer to Kotlin"
 
 **2022-01-11** — deleted branch `z/jsonUtf8WriterKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — deleted branch `z/typeskotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — merged PR [#1488](https://github.com/square/moshi/pull/1488) to [square/moshi](https://github.com/square/moshi): "Convert Types to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
