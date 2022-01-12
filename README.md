@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — commented on [#3155](https://github.com/firebase/firebase-android-sdk/issues/3155#issuecomment-1010342216) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
 
 **2022-01-11** — deleted branch `z/recordJsonAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — merged PR [#1493](https://github.com/square/moshi/pull/1493) to [square/moshi](https://github.com/square/moshi): "Convert RecordJsonAdapter to Kotlin"
-
-**2022-01-11** — commented on [#1498](https://github.com/square/moshi/issues/1498#issuecomment-1010325863) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
