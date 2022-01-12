@@ -4,13 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-12** — opened PR [#1501](https://github.com/square/moshi/pull/1501) to [square/moshi](https://github.com/square/moshi): "Finish up JsonWriter Kotlin conversion"
+**2022-01-12** — deleted branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
 
-**2022-01-12** — created branch `z/finalJsonWriter` on [square/moshi](https://github.com/square/moshi)
+**2022-01-12** — closed issue [#1502](https://github.com/square/moshi/issues/1502) on [square/moshi](https://github.com/square/moshi): "Code gen should generate `value` parameter for toJson"
 
-**2022-01-11** — merged PR [#77](https://github.com/ZacSweers/redacted-compiler-plugin/pull/77) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Add the compiler plugin as an implementation not api"
+**2022-01-12** — merged PR [#1503](https://github.com/square/moshi/pull/1503) to [square/moshi](https://github.com/square/moshi): "Don't suffix the value param when overriding"
 
-**2022-01-11** — closed issue [#76](https://github.com/ZacSweers/redacted-compiler-plugin/issues/76) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "@Redacted can be applied in code without the compiler plugin"
+**2022-01-12** — opened PR [#1503](https://github.com/square/moshi/pull/1503) to [square/moshi](https://github.com/square/moshi): "Don't suffix the value param when overriding"
+
+**2022-01-12** — created branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-12** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1011365325) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-12** — deleted branch `z/buildDeps` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-12** — merged PR [#1500](https://github.com/square/moshi/pull/1500) to [square/moshi](https://github.com/square/moshi): "Update a few misc build deps"
+
+**2022-01-12** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1011348911) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-12** — closed PR [#1477](https://github.com/square/moshi/pull/1477) to [square/moshi](https://github.com/square/moshi): "Convert JsonWriter to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
