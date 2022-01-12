@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-12** — opened PR [#1501](https://github.com/square/moshi/pull/1501) to [square/moshi](https://github.com/square/moshi): "Finish up JsonWriter Kotlin conversion"
+
+**2022-01-12** — created branch `z/finalJsonWriter` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-11** — merged PR [#77](https://github.com/ZacSweers/redacted-compiler-plugin/pull/77) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Add the compiler plugin as an implementation not api"
 
 **2022-01-11** — closed issue [#76](https://github.com/ZacSweers/redacted-compiler-plugin/issues/76) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "@Redacted can be applied in code without the compiler plugin"
@@ -11,14 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — commented on [#76](https://github.com/ZacSweers/redacted-compiler-plugin/issues/76#issuecomment-1010464251) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-01-11** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1010346303) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — opened PR [#1500](https://github.com/square/moshi/pull/1500) to [square/moshi](https://github.com/square/moshi): "Update a few misc build deps"
-
-**2022-01-11** — created branch `z/buildDeps` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — commented on [#3155](https://github.com/firebase/firebase-android-sdk/issues/3155#issuecomment-1010342216) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
-
-**2022-01-11** — deleted branch `z/recordJsonAdaptersKotlin` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
