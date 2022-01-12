@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-11** — merged PR [#77](https://github.com/ZacSweers/redacted-compiler-plugin/pull/77) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Add the compiler plugin as an implementation not api"
+
+**2022-01-11** — closed issue [#76](https://github.com/ZacSweers/redacted-compiler-plugin/issues/76) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "@Redacted can be applied in code without the compiler plugin"
+
+**2022-01-11** — commented on [#76](https://github.com/ZacSweers/redacted-compiler-plugin/issues/76#issuecomment-1010464251) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-01-11** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1010346303) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-11** — opened PR [#1500](https://github.com/square/moshi/pull/1500) to [square/moshi](https://github.com/square/moshi): "Update a few misc build deps"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-11** — merged PR [#1493](https://github.com/square/moshi/pull/1493) to [square/moshi](https://github.com/square/moshi): "Convert RecordJsonAdapter to Kotlin"
 
 **2022-01-11** — commented on [#1498](https://github.com/square/moshi/issues/1498#issuecomment-1010325863) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — closed issue [#1498](https://github.com/square/moshi/issues/1498) on [square/moshi](https://github.com/square/moshi): "Unsupported class file major version 60"
-
-**2022-01-11** — deleted branch `z/fromJsonAnnotations` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-11** — merged PR [#1499](https://github.com/square/moshi/pull/1499) to [square/moshi](https://github.com/square/moshi): "Keep `@FromJson`/`@ToJson`-annotated methods in proguard"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
