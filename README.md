@@ -4,11 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — merged PR [#200](https://github.com/ZacSweers/MoshiX/pull/200) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add gradle plugin as implementation not api"
+
 **2022-01-13** — merged PR [#1469](https://github.com/square/moshi/pull/1469) to [square/moshi](https://github.com/square/moshi): "Convert ClassFactory.java to kotlin"
 
 **2022-01-13** — created tag `1.0.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-01-12** — deleted branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
