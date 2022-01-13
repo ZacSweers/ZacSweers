@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-13** — opened PR [#201](https://github.com/ZacSweers/MoshiX/pull/201) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Simplify extension adding"
 
 **2022-01-13** — created branch `z/simplifyExtension` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-13** — merged PR [#200](https://github.com/ZacSweers/MoshiX/pull/200) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add gradle plugin as implementation not api"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
