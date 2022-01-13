@@ -9,16 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-13** — created tag `1.0.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-01-12** — deleted branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-12** — closed issue [#1502](https://github.com/square/moshi/issues/1502) on [square/moshi](https://github.com/square/moshi): "Code gen should generate `value` parameter for toJson"
-
-**2022-01-12** — merged PR [#1503](https://github.com/square/moshi/pull/1503) to [square/moshi](https://github.com/square/moshi): "Don't suffix the value param when overriding"
-
-**2022-01-12** — opened PR [#1503](https://github.com/square/moshi/pull/1503) to [square/moshi](https://github.com/square/moshi): "Don't suffix the value param when overriding"
-
-**2022-01-12** — created branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-12** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1011365325) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
