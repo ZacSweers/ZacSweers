@@ -4,11 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — closed issue [#791](https://github.com/google/ksp/issues/791) on [google/ksp](https://github.com/google/ksp): "Presence of other compiler plugins breaks extension registration"
+
+**2022-01-13** — commented on [#791](https://github.com/google/ksp/issues/791#issuecomment-1012354912) in [google/ksp](https://github.com/google/ksp)
+
+**2022-01-13** — created tag `0.16.4` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-01-13** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-1012348142) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-13** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-1012347336) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-13** — deleted branch `z/simplifyExtension` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-01-13** — merged PR [#201](https://github.com/ZacSweers/MoshiX/pull/201) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Simplify extension adding"
+
+**2022-01-13** — opened PR [#201](https://github.com/ZacSweers/MoshiX/pull/201) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Simplify extension adding"
+
+**2022-01-13** — created branch `z/simplifyExtension` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-13** — merged PR [#200](https://github.com/ZacSweers/MoshiX/pull/200) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add gradle plugin as implementation not api"
-
-**2022-01-13** — merged PR [#1469](https://github.com/square/moshi/pull/1469) to [square/moshi](https://github.com/square/moshi): "Convert ClassFactory.java to kotlin"
-
-**2022-01-13** — created tag `1.0.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
