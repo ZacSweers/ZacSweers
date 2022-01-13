@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-13** — merged PR [#1469](https://github.com/square/moshi/pull/1469) to [square/moshi](https://github.com/square/moshi): "Convert ClassFactory.java to kotlin"
+
+**2022-01-13** — created tag `1.0.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-01-12** — deleted branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-12** — closed issue [#1502](https://github.com/square/moshi/issues/1502) on [square/moshi](https://github.com/square/moshi): "Code gen should generate `value` parameter for toJson"
@@ -15,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-12** — created branch `z/valueParam` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-12** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1011365325) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-12** — deleted branch `z/buildDeps` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-12** — merged PR [#1500](https://github.com/square/moshi/pull/1500) to [square/moshi](https://github.com/square/moshi): "Update a few misc build deps"
-
-**2022-01-12** — commented on [#1477](https://github.com/square/moshi/pull/1477#issuecomment-1011348911) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-12** — closed PR [#1477](https://github.com/square/moshi/pull/1477) to [square/moshi](https://github.com/square/moshi): "Convert JsonWriter to Kotlin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
