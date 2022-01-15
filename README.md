@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-14** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-1013511718) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-14** — commented on [#1504](https://github.com/square/moshi/pull/1504#issuecomment-1013334144) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-14** — closed PR [#1504](https://github.com/square/moshi/pull/1504) to [square/moshi](https://github.com/square/moshi): "Convert JsonReader to Kotlin"
