@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-16** — opened PR [#1506](https://github.com/square/moshi/pull/1506) to [square/moshi](https://github.com/square/moshi): "Skip nullchecks on known primitives"
+
+**2022-01-16** — created branch `z/optimization` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-16** — opened PR [#1505](https://github.com/square/moshi/pull/1505) to [square/moshi](https://github.com/square/moshi): "Convert JsonReader to Kotlin"
+
+**2022-01-16** — created branch `z/kotlinJsonReader` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-14** — commented on [#138](https://github.com/ZacSweers/MoshiX/pull/138#issuecomment-1013511718) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-14** — commented on [#1504](https://github.com/square/moshi/pull/1504#issuecomment-1013334144) in [square/moshi](https://github.com/square/moshi)
