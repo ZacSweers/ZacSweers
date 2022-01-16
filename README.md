@@ -9,12 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-14** — commented on [#1504](https://github.com/square/moshi/pull/1504#issuecomment-1013334144) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-14** — closed PR [#1504](https://github.com/square/moshi/pull/1504) to [square/moshi](https://github.com/square/moshi): "Convert JsonReader to Kotlin"
-
-**2022-01-13** — closed issue [#791](https://github.com/google/ksp/issues/791) on [google/ksp](https://github.com/google/ksp): "Presence of other compiler plugins breaks extension registration"
-
-**2022-01-13** — commented on [#791](https://github.com/google/ksp/issues/791#issuecomment-1012354912) in [google/ksp](https://github.com/google/ksp)
-
-**2022-01-13** — created tag `0.16.4` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
