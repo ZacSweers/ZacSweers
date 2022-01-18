@@ -4,25 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-18** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1015629565) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2022-01-17** — opened PR [#1508](https://github.com/square/moshi/pull/1508) to [square/moshi](https://github.com/square/moshi): "Convert LinkedHashTreeMap to Kotlin"
 
 **2022-01-17** — created branch `z/lhtmKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-17** — deleted branch `z/publishingFixes` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-17** — merged PR [#1507](https://github.com/square/moshi/pull/1507) to [square/moshi](https://github.com/square/moshi): "Switch fully over to dokka and fix accidental root project publishing"
-
-**2022-01-17** — opened PR [#1507](https://github.com/square/moshi/pull/1507) to [square/moshi](https://github.com/square/moshi): "Switch fully over to dokka and fix accidental root project publishing"
-
-**2022-01-17** — created branch `z/publishingFixes` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-17** — commented on [#938](https://github.com/square/moshi/issues/938#issuecomment-1014676525) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-17** — deleted branch `z/kotlinJsonReader` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-17** — merged PR [#1505](https://github.com/square/moshi/pull/1505) to [square/moshi](https://github.com/square/moshi): "Convert JsonReader to Kotlin"
-
-**2022-01-17** — deleted branch `z/optimization` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
