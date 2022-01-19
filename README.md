@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-18** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1016052590) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-18** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-1016052446) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-18** — merged PR [#1467](https://github.com/square/moshi/pull/1467) to [square/moshi](https://github.com/square/moshi): "Convert AdapterMethodsFactory.java to kotlin"
+
 **2022-01-18** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1015828440) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
