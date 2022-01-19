@@ -5,8 +5,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2022-01-18** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1015828440) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-01-18** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1015629565) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
