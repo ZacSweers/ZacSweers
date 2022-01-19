@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-19** — opened PR [#1510](https://github.com/square/moshi/pull/1510) to [square/moshi](https://github.com/square/moshi): "Tighten up visibility of APIs in `Util.kt`"
+
+**2022-01-19** — created branch `z/utilVisibility` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-19** — opened PR [#1509](https://github.com/square/moshi/pull/1509) to [square/moshi](https://github.com/square/moshi): "Small cleanups from a few past PRs"
+
+**2022-01-19** — created branch `z/littleCleanups` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-19** — merged PR [#1470](https://github.com/square/moshi/pull/1470) to [square/moshi](https://github.com/square/moshi): "Convert ClassJsonAdapter to kotlin"
 
 **2022-01-18** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1016052590) in [square/moshi](https://github.com/square/moshi)
