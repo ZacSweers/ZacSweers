@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-19** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1016792525) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-01-19** — merged PR [#14](https://github.com/slackhq/slack-lints/pull/14) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "SpanMarkPointMissingMaskDetector - Ensure that span flags are checked correctly"
+
+**2022-01-19** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1016787570) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-01-19** — merged PR [#15](https://github.com/slackhq/slack-lints/pull/15) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Call out the deprecated call in the lint message when reporting"
+
 **2022-01-19** — opened PR [#1510](https://github.com/square/moshi/pull/1510) to [square/moshi](https://github.com/square/moshi): "Tighten up visibility of APIs in `Util.kt`"
 
 **2022-01-19** — created branch `z/utilVisibility` on [square/moshi](https://github.com/square/moshi)
@@ -15,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-19** — merged PR [#1470](https://github.com/square/moshi/pull/1470) to [square/moshi](https://github.com/square/moshi): "Convert ClassJsonAdapter to kotlin"
 
 **2022-01-18** — commented on [#1470](https://github.com/square/moshi/pull/1470#issuecomment-1016052590) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-18** — commented on [#1467](https://github.com/square/moshi/pull/1467#issuecomment-1016052446) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-18** — merged PR [#1467](https://github.com/square/moshi/pull/1467) to [square/moshi](https://github.com/square/moshi): "Convert AdapterMethodsFactory.java to kotlin"
-
-**2022-01-18** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1015828440) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
