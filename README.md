@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — deleted branch `patch-3` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2022-01-20** — deleted branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-20** — merged PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — deleted branch `z/littleCleanups` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-20** — merged PR [#1509](https://github.com/square/moshi/pull/1509) to [square/moshi](https://github.com/square/moshi): "Small cleanups from a few past PRs"
-
-**2022-01-20** — deleted branch `z/utilVisibility` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
