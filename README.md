@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — opened PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
+
+**2022-01-20** — created branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-20** — commented on [#202](https://github.com/ZacSweers/MoshiX/issues/202#issuecomment-1017855628) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-20** — opened PR [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Don't set strictJavaNullabilityAssertions unless requested"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-19** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1016792525) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-01-19** — merged PR [#14](https://github.com/slackhq/slack-lints/pull/14) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "SpanMarkPointMissingMaskDetector - Ensure that span flags are checked correctly"
-
-**2022-01-19** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1016787570) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-01-19** — merged PR [#15](https://github.com/slackhq/slack-lints/pull/15) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Call out the deprecated call in the lint message when reporting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
