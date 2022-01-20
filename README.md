@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — deleted branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-01-20** — merged PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
+
+**2022-01-20** — closed issue [#202](https://github.com/ZacSweers/MoshiX/issues/202) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-ir generated JsonAdapter crashes when trying to resolve classes with kotlin-reflect on the classpath"
+
 **2022-01-20** — opened PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
 
 **2022-01-20** — created branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — merged PR [#1509](https://github.com/square/moshi/pull/1509) to [square/moshi](https://github.com/square/moshi): "Small cleanups from a few past PRs"
 
 **2022-01-20** — deleted branch `z/utilVisibility` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-20** — merged PR [#1510](https://github.com/square/moshi/pull/1510) to [square/moshi](https://github.com/square/moshi): "Tighten up visibility of APIs in `Util.kt`"
-
-**2022-01-19** — commented on [#14](https://github.com/slackhq/slack-lints/pull/14#issuecomment-1016792525) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-01-19** — merged PR [#14](https://github.com/slackhq/slack-lints/pull/14) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "SpanMarkPointMissingMaskDetector - Ensure that span flags are checked correctly"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
