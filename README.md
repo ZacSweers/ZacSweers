@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — opened PR [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Don't set strictJavaNullabilityAssertions unless requested"
+
 **2022-01-20** — deleted branch `z/littleCleanups` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-20** — merged PR [#1509](https://github.com/square/moshi/pull/1509) to [square/moshi](https://github.com/square/moshi): "Small cleanups from a few past PRs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-19** — merged PR [#15](https://github.com/slackhq/slack-lints/pull/15) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Call out the deprecated call in the lint message when reporting"
 
 **2022-01-19** — opened PR [#1510](https://github.com/square/moshi/pull/1510) to [square/moshi](https://github.com/square/moshi): "Tighten up visibility of APIs in `Util.kt`"
-
-**2022-01-19** — created branch `z/utilVisibility` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
