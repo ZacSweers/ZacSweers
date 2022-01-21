@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-21** — merged PR [#97](https://github.com/slackhq/keeper/pull/97) to [slackhq/keeper](https://github.com/slackhq/keeper): "Using TCK Tested JDK builds of OpenJDK  in GH actions"
+
+**2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018815464) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018801527) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-01-21** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1018604777) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — closed issue [#202](https://github.com/ZacSweers/MoshiX/issues/202) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-ir generated JsonAdapter crashes when trying to resolve classes with kotlin-reflect on the classpath"
 
 **2022-01-20** — opened PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
-
-**2022-01-20** — created branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-20** — commented on [#202](https://github.com/ZacSweers/MoshiX/issues/202#issuecomment-1017855628) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
