@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018801527) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-01-21** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1018604777) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-20** — created tag `0.16.5` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — created branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-20** — commented on [#202](https://github.com/ZacSweers/MoshiX/issues/202#issuecomment-1017855628) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-20** — opened PR [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Don't set strictJavaNullabilityAssertions unless requested"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
