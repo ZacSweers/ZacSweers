@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-20** — created tag `0.16.5` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-20** — deleted branch `patch-3` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2022-01-20** — deleted branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — opened PR [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Don't set strictJavaNullabilityAssertions unless requested"
 
 **2022-01-20** — deleted branch `z/littleCleanups` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-20** — merged PR [#1509](https://github.com/square/moshi/pull/1509) to [square/moshi](https://github.com/square/moshi): "Small cleanups from a few past PRs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
