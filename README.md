@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-21** — deleted branch `z/utilApi` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-21** — merged PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
+
+**2022-01-21** — opened PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
+
+**2022-01-21** — created branch `z/utilApi` on [square/moshi](https://github.com/square/moshi)
+
 **2022-01-21** — merged PR [#97](https://github.com/slackhq/keeper/pull/97) to [slackhq/keeper](https://github.com/slackhq/keeper): "Using TCK Tested JDK builds of OpenJDK  in GH actions"
 
 **2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018815464) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-20** — created tag `0.16.5` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-01-20** — deleted branch `patch-3` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-01-20** — deleted branch `z/inlineTypeRendering` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-20** — merged PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
-
-**2022-01-20** — closed issue [#202](https://github.com/ZacSweers/MoshiX/issues/202) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-ir generated JsonAdapter crashes when trying to resolve classes with kotlin-reflect on the classpath"
-
-**2022-01-20** — opened PR [#203](https://github.com/ZacSweers/MoshiX/pull/203) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Render type references directly in IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
