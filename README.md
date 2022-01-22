@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-22** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-01-22** — merged PR [#47](https://github.com/slackhq/EitherNet/pull/47) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 1.6.10, coroutines 1.6.0 stable, stable test API"
+
 **2022-01-21** — opened PR [#47](https://github.com/slackhq/EitherNet/pull/47) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 1.6.10, coroutines 1.6.0 stable, stable test API"
 
 **2022-01-21** — created branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-21** — merged PR [#97](https://github.com/slackhq/keeper/pull/97) to [slackhq/keeper](https://github.com/slackhq/keeper): "Using TCK Tested JDK builds of OpenJDK  in GH actions"
 
 **2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018815464) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018801527) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-01-21** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1018604777) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
