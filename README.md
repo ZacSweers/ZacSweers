@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-21** — opened PR [#47](https://github.com/slackhq/EitherNet/pull/47) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 1.6.10, coroutines 1.6.0 stable, stable test API"
+
+**2022-01-21** — created branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-01-21** — deleted branch `z/utilApi` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-21** — merged PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-21** — commented on [#97](https://github.com/slackhq/keeper/pull/97#issuecomment-1018801527) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-01-21** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1018604777) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-20** — created tag `0.16.5` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-20** — deleted branch `patch-3` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
