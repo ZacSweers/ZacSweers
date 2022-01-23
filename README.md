@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — opened PR [#1513](https://github.com/square/moshi/pull/1513) to [square/moshi](https://github.com/square/moshi): "Remove a couple leftover TODOs"
+
+**2022-01-23** — created branch `z/todoCleanups` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-23** — created branch `z/updatesRemoveInspector` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-01-23** — commented on [#1512](https://github.com/square/moshi/issues/1512#issuecomment-1019586304) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-23** — deleted branch `z/lhtmKotlin` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-23** — merged PR [#1508](https://github.com/square/moshi/pull/1508) to [square/moshi](https://github.com/square/moshi): "Convert LinkedHashTreeMap to Kotlin"
+
 **2022-01-23** — created tag `1.2.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-01-23** — opened issue [#325](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/325) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Javadocs/sources are not published for test fixtures artifacts"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-22** — merged PR [#48](https://github.com/slackhq/EitherNet/pull/48) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Readme: use Unit for no custom error type"
 
 **2022-01-22** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-01-22** — merged PR [#47](https://github.com/slackhq/EitherNet/pull/47) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 1.6.10, coroutines 1.6.0 stable, stable test API"
-
-**2022-01-21** — opened PR [#47](https://github.com/slackhq/EitherNet/pull/47) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 1.6.10, coroutines 1.6.0 stable, stable test API"
-
-**2022-01-21** — created branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-01-21** — deleted branch `z/utilApi` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-21** — merged PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
-
-**2022-01-21** — opened PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
