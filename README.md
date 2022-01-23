@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — created tag `1.2.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-01-23** — opened issue [#325](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/325) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Javadocs/sources are not published for test fixtures artifacts"
+
 **2022-01-22** — merged PR [#48](https://github.com/slackhq/EitherNet/pull/48) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Readme: use Unit for no custom error type"
 
 **2022-01-22** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-21** — merged PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
 
 **2022-01-21** — opened PR [#1511](https://github.com/square/moshi/pull/1511) to [square/moshi](https://github.com/square/moshi): "Explicitly denote util public APIs in japicmp"
-
-**2022-01-21** — created branch `z/utilApi` on [square/moshi](https://github.com/square/moshi)
-
-**2022-01-21** — merged PR [#97](https://github.com/slackhq/keeper/pull/97) to [slackhq/keeper](https://github.com/slackhq/keeper): "Using TCK Tested JDK builds of OpenJDK  in GH actions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
