@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-23** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1019597416) in [square/moshi](https://github.com/square/moshi)
+
+**2022-01-23** — opened PR [#282](https://github.com/ZacSweers/CatchUp/pull/282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Updates + remove inspector"
+
+**2022-01-23** — deleted branch `z/todoCleanups` on [square/moshi](https://github.com/square/moshi)
+
+**2022-01-23** — merged PR [#1513](https://github.com/square/moshi/pull/1513) to [square/moshi](https://github.com/square/moshi): "Remove a couple leftover TODOs"
+
 **2022-01-23** — opened PR [#1513](https://github.com/square/moshi/pull/1513) to [square/moshi](https://github.com/square/moshi): "Remove a couple leftover TODOs"
 
 **2022-01-23** — created branch `z/todoCleanups` on [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-23** — deleted branch `z/lhtmKotlin` on [square/moshi](https://github.com/square/moshi)
 
 **2022-01-23** — merged PR [#1508](https://github.com/square/moshi/pull/1508) to [square/moshi](https://github.com/square/moshi): "Convert LinkedHashTreeMap to Kotlin"
-
-**2022-01-23** — created tag `1.2.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-01-23** — opened issue [#325](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/325) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Javadocs/sources are not published for test fixtures artifacts"
-
-**2022-01-22** — merged PR [#48](https://github.com/slackhq/EitherNet/pull/48) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Readme: use Unit for no custom error type"
-
-**2022-01-22** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
