@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-27** — opened PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
+
+**2022-01-27** — created branch `z/ccFix` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-01-27** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1023346044) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-27** — commented on [#1516](https://github.com/square/moshi/issues/1516#issuecomment-1023343062) in [square/moshi](https://github.com/square/moshi)
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-27** — opened PR [#204](https://github.com/ZacSweers/MoshiX/pull/204) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix nested type parameter type rendering"
 
 **2022-01-27** — created branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-26** — opened issue [#98](https://github.com/slackhq/keeper/issues/98) on [slackhq/keeper](https://github.com/slackhq/keeper): "Configuration cache issue with L8 support"
-
-**2022-01-26** — closed issue [#1514](https://github.com/square/moshi/issues/1514) on [square/moshi](https://github.com/square/moshi): "java.lang.IllegalArgumentException: Unsupported class file major version 60 - gradlew lintDebug"
-
-**2022-01-26** — commented on [#1514](https://github.com/square/moshi/issues/1514#issuecomment-1022449436) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
