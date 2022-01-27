@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-27** — created tag `0.11.2` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-01-27** — deleted branch `z/ccFix` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-01-27** — closed issue [#98](https://github.com/slackhq/keeper/issues/98) on [slackhq/keeper](https://github.com/slackhq/keeper): "Configuration cache issue with L8 support"
+
+**2022-01-27** — merged PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
+
 **2022-01-27** — opened PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
 
 **2022-01-27** — created branch `z/ccFix` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -11,16 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-27** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1023346044) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-27** — commented on [#1516](https://github.com/square/moshi/issues/1516#issuecomment-1023343062) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-27** — created tag `0.16.6` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-27** — deleted branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-01-27** — merged PR [#204](https://github.com/ZacSweers/MoshiX/pull/204) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix nested type parameter type rendering"
-
-**2022-01-27** — opened PR [#204](https://github.com/ZacSweers/MoshiX/pull/204) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix nested type parameter type rendering"
-
-**2022-01-27** — created branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
