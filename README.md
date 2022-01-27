@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-27** — created tag `0.16.6` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-01-27** — deleted branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-01-27** — merged PR [#204](https://github.com/ZacSweers/MoshiX/pull/204) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix nested type parameter type rendering"
+
+**2022-01-27** — opened PR [#204](https://github.com/ZacSweers/MoshiX/pull/204) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix nested type parameter type rendering"
+
+**2022-01-27** — created branch `z/fixTypeParams` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-01-26** — opened issue [#98](https://github.com/slackhq/keeper/issues/98) on [slackhq/keeper](https://github.com/slackhq/keeper): "Configuration cache issue with L8 support"
 
 **2022-01-26** — closed issue [#1514](https://github.com/square/moshi/issues/1514) on [square/moshi](https://github.com/square/moshi): "java.lang.IllegalArgumentException: Unsupported class file major version 60 - gradlew lintDebug"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-25** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1021573340) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-24** — closed issue [#44](https://github.com/slackhq/EitherNet/issues/44) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] test fixtures do not seem to be published"
-
-**2022-01-24** — commented on [#44](https://github.com/slackhq/EitherNet/issues/44#issuecomment-1020547931) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-01-23** — deleted branch `z/updatesRemoveInspector` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-01-23** — merged PR [#282](https://github.com/ZacSweers/CatchUp/pull/282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Updates + remove inspector"
-
-**2022-01-23** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1019597416) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-23** — opened PR [#282](https://github.com/ZacSweers/CatchUp/pull/282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Updates + remove inspector"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
