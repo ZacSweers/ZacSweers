@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-01-30** — opened issue [#19765](https://github.com/gradle/gradle/issues/19765) on [gradle/gradle](https://github.com/gradle/gradle): "`notCompatibleWithConfigurationCache` fails the build on CC issues rather than disable CC"
+**2022-01-30** — commented on [#19764](https://github.com/gradle/gradle/issues/19764#issuecomment-1025330957) in [gradle/gradle](https://github.com/gradle/gradle)
 
-**2022-01-30** — commented on [#95](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/95#issuecomment-1025310054) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+**2022-01-30** — closed issue [#16843](https://github.com/gradle/gradle/issues/16843) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle should have a way to compute/modify jvm arguments before the daemon is started"
 
-**2022-01-29** — deleted branch `z/alwaysQualify` on [ZacSweers/javapoet](https://github.com/ZacSweers/javapoet)
+**2022-01-30** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-1025330876) in [gradle/gradle](https://github.com/gradle/gradle)
 
-**2022-01-28** — commented on [#1514](https://github.com/square/moshi/issues/1514#issuecomment-1024426366) in [square/moshi](https://github.com/square/moshi)
+**2022-01-30** — closed issue [#16819](https://github.com/gradle/gradle/issues/16819) on [gradle/gradle](https://github.com/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
 
-**2022-01-28** — closed issue [#1206](https://github.com/square/kotlinpoet/issues/1206) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Adding `KModifier` for interface type parameter."
+**2022-01-30** — commented on [#16819](https://github.com/gradle/gradle/issues/16819#issuecomment-1025330794) in [gradle/gradle](https://github.com/gradle/gradle)
 
-**2022-01-28** — commented on [#1206](https://github.com/square/kotlinpoet/issues/1206#issuecomment-1024332470) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2022-01-30** — closed issue [#10726](https://github.com/gradle/gradle/issues/10726) on [gradle/gradle](https://github.com/gradle/gradle): "Annotation processing does not included Filer-generated class files on compilation classpath in Java 8"
 
-**2022-01-27** — created tag `0.11.2` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2022-01-30** — commented on [#10726](https://github.com/gradle/gradle/issues/10726#issuecomment-1025330723) in [gradle/gradle](https://github.com/gradle/gradle)
 
-**2022-01-27** — deleted branch `z/ccFix` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2022-01-30** — closed issue [#14741](https://github.com/gradle/gradle/issues/14741) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle daemons should shut down more aggressively"
 
-**2022-01-27** — closed issue [#98](https://github.com/slackhq/keeper/issues/98) on [slackhq/keeper](https://github.com/slackhq/keeper): "Configuration cache issue with L8 support"
+**2022-01-30** — commented on [#14741](https://github.com/gradle/gradle/issues/14741#issuecomment-1025330670) in [gradle/gradle](https://github.com/gradle/gradle)
 
-**2022-01-27** — merged PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
+**2022-01-30** — closed issue [#16344](https://github.com/gradle/gradle/issues/16344) on [gradle/gradle](https://github.com/gradle/gradle): "Proposal: Introduce a "--progressive" mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
