@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-01-30** — opened issue [#19765](https://github.com/gradle/gradle/issues/19765) on [gradle/gradle](https://github.com/gradle/gradle): "`notCompatibleWithConfigurationCache` fails the build on CC issues rather than disable CC"
+
+**2022-01-30** — commented on [#95](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/95#issuecomment-1025310054) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+
 **2022-01-29** — deleted branch `z/alwaysQualify` on [ZacSweers/javapoet](https://github.com/ZacSweers/javapoet)
 
 **2022-01-28** — commented on [#1514](https://github.com/square/moshi/issues/1514#issuecomment-1024426366) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-27** — closed issue [#98](https://github.com/slackhq/keeper/issues/98) on [slackhq/keeper](https://github.com/slackhq/keeper): "Configuration cache issue with L8 support"
 
 **2022-01-27** — merged PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
-
-**2022-01-27** — opened PR [#99](https://github.com/slackhq/keeper/pull/99) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix configuration caching by removing incidental serialization of `BaseAppModuleExtension`"
-
-**2022-01-27** — created branch `z/ccFix` on [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
