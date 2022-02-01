@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-01** — merged PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
+
+**2022-02-01** — opened PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
+
+**2022-02-01** — created branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-01** — deleted branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-01** — merged PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
+
+**2022-02-01** — commented on [#205](https://github.com/ZacSweers/MoshiX/pull/205#issuecomment-1027181907) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-02-01** — opened PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
 
 **2022-02-01** — created branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — commented on [#19765](https://github.com/gradle/gradle/issues/19765#issuecomment-1026890502) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-02-01** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1026862039) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-31** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1026266622) in [square/moshi](https://github.com/square/moshi)
-
-**2022-01-31** — opened issue [#19782](https://github.com/gradle/gradle/issues/19782) on [gradle/gradle](https://github.com/gradle/gradle): "Running tests from IDE always breaks configuration cache when running different test suites"
-
-**2022-01-30** — commented on [#19764](https://github.com/gradle/gradle/issues/19764#issuecomment-1025330957) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-01-30** — closed issue [#16843](https://github.com/gradle/gradle/issues/16843) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle should have a way to compute/modify jvm arguments before the daemon is started"
-
-**2022-01-30** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-1025330876) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-01-30** — closed issue [#16819](https://github.com/gradle/gradle/issues/16819) on [gradle/gradle](https://github.com/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
