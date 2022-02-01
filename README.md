@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — opened PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
+
+**2022-02-01** — created branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-02-01** — commented on [#19765](https://github.com/gradle/gradle/issues/19765#issuecomment-1026890502) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-02-01** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1026862039) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-30** — commented on [#16843](https://github.com/gradle/gradle/issues/16843#issuecomment-1025330876) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-01-30** — closed issue [#16819](https://github.com/gradle/gradle/issues/16819) on [gradle/gradle](https://github.com/gradle/gradle): "forUseAtConfigurationTime() is not transitive"
-
-**2022-01-30** — commented on [#16819](https://github.com/gradle/gradle/issues/16819#issuecomment-1025330794) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-01-30** — closed issue [#10726](https://github.com/gradle/gradle/issues/10726) on [gradle/gradle](https://github.com/gradle/gradle): "Annotation processing does not included Filer-generated class files on compilation classpath in Java 8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
