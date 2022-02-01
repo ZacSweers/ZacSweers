@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — created tag `0.16.7` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — merged PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-01** — opened PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
 
 **2022-02-01** — created branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — commented on [#19765](https://github.com/gradle/gradle/issues/19765#issuecomment-1026890502) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
