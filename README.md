@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-01** — commented on [#19765](https://github.com/gradle/gradle/issues/19765#issuecomment-1026890502) in [gradle/gradle](https://github.com/gradle/gradle)
+
+**2022-02-01** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1026862039) in [square/moshi](https://github.com/square/moshi)
+
 **2022-01-31** — commented on [#1463](https://github.com/square/moshi/issues/1463#issuecomment-1026266622) in [square/moshi](https://github.com/square/moshi)
 
 **2022-01-31** — opened issue [#19782](https://github.com/gradle/gradle/issues/19782) on [gradle/gradle](https://github.com/gradle/gradle): "Running tests from IDE always breaks configuration cache when running different test suites"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-01-30** — commented on [#16819](https://github.com/gradle/gradle/issues/16819#issuecomment-1025330794) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-01-30** — closed issue [#10726](https://github.com/gradle/gradle/issues/10726) on [gradle/gradle](https://github.com/gradle/gradle): "Annotation processing does not included Filer-generated class files on compilation classpath in Java 8"
-
-**2022-01-30** — commented on [#10726](https://github.com/gradle/gradle/issues/10726#issuecomment-1025330723) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-01-30** — closed issue [#14741](https://github.com/gradle/gradle/issues/14741) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle daemons should shut down more aggressively"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
