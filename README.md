@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-02** — created tag `0.12.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-02-02** — deleted branch `z/agp71` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-02-02** — merged PR [#91](https://github.com/slackhq/keeper/pull/91) to [slackhq/keeper](https://github.com/slackhq/keeper): "Use new AGP 7 variant APIs + update to AGP 7.1"
+
+**2022-02-02** — closed issue [#90](https://github.com/slackhq/keeper/issues/90) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new AGP variants API"
+
 **2022-02-02** — closed issue [#1517](https://github.com/square/moshi/issues/1517) on [square/moshi](https://github.com/square/moshi): "Maven Central Migration"
 
 **2022-02-02** — commented on [#1517](https://github.com/square/moshi/issues/1517#issuecomment-1028048786) in [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — merged PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
-
-**2022-02-01** — opened PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
-
-**2022-02-01** — created branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — deleted branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — merged PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
