@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-02** — closed issue [#1517](https://github.com/square/moshi/issues/1517) on [square/moshi](https://github.com/square/moshi): "Maven Central Migration"
+
+**2022-02-02** — commented on [#1517](https://github.com/square/moshi/issues/1517#issuecomment-1028048786) in [square/moshi](https://github.com/square/moshi)
+
+**2022-02-02** — commented on [#1516](https://github.com/square/moshi/issues/1516#issuecomment-1028031967) in [square/moshi](https://github.com/square/moshi)
+
 **2022-02-01** — created tag `0.16.7` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-01** — deleted branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — merged PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
-
-**2022-02-01** — commented on [#205](https://github.com/ZacSweers/MoshiX/pull/205#issuecomment-1027181907) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — opened PR [#205](https://github.com/ZacSweers/MoshiX/pull/205) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Pass File to gradle rather than absolute path"
-
-**2022-02-01** — created branch `z/fixInc` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
