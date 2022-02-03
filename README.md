@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-03** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-1029361253) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-02-02** — created tag `0.12.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-02-02** — deleted branch `z/agp71` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-01** — created tag `0.16.7` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — merged PR [#206](https://github.com/ZacSweers/MoshiX/pull/206) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Use FilesSubpluginOption for resources dir"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
