@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-04** — commented on [#1209](https://github.com/square/kotlinpoet/issues/1209#issuecomment-1029700780) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-02-04** — closed issue [#1209](https://github.com/square/kotlinpoet/issues/1209) on [square/kotlinpoet](https://github.com/square/kotlinpoet): ""yield" not escaped when using %N"
+
+**2022-02-04** — commented on [#1518](https://github.com/square/moshi/issues/1518#issuecomment-1029700508) in [square/moshi](https://github.com/square/moshi)
+
+**2022-02-04** — closed issue [#1518](https://github.com/square/moshi/issues/1518) on [square/moshi](https://github.com/square/moshi): "open class not serialized, only parent values serialized"
+
 **2022-02-03** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-1029361253) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-02-02** — created tag `0.12.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-02** — closed issue [#90](https://github.com/slackhq/keeper/issues/90) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new AGP variants API"
 
 **2022-02-02** — closed issue [#1517](https://github.com/square/moshi/issues/1517) on [square/moshi](https://github.com/square/moshi): "Maven Central Migration"
-
-**2022-02-02** — commented on [#1517](https://github.com/square/moshi/issues/1517#issuecomment-1028048786) in [square/moshi](https://github.com/square/moshi)
-
-**2022-02-02** — commented on [#1516](https://github.com/square/moshi/issues/1516#issuecomment-1028031967) in [square/moshi](https://github.com/square/moshi)
-
-**2022-02-01** — created tag `0.16.7` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-01** — deleted branch `z/fixFiles` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
