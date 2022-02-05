@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-05** — deleted branch `z/toStringSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-05** — merged PR [#207](https://github.com/ZacSweers/MoshiX/pull/207) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate toString() functions for IR sealed adapters"
+
+**2022-02-05** — opened PR [#207](https://github.com/ZacSweers/MoshiX/pull/207) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate toString() functions for IR sealed adapters"
+
+**2022-02-05** — created branch `z/toStringSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-05** — opened PR [#283](https://github.com/ZacSweers/CatchUp/pull/283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update deps + enable CC"
+
+**2022-02-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-02-04** — commented on [#1209](https://github.com/square/kotlinpoet/issues/1209#issuecomment-1029700780) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-04** — closed issue [#1209](https://github.com/square/kotlinpoet/issues/1209) on [square/kotlinpoet](https://github.com/square/kotlinpoet): ""yield" not escaped when using %N"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-04** — commented on [#1518](https://github.com/square/moshi/issues/1518#issuecomment-1029700508) in [square/moshi](https://github.com/square/moshi)
 
 **2022-02-04** — closed issue [#1518](https://github.com/square/moshi/issues/1518) on [square/moshi](https://github.com/square/moshi): "open class not serialized, only parent values serialized"
-
-**2022-02-03** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-1029361253) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-02-02** — created tag `0.12.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-02-02** — deleted branch `z/agp71` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-02-02** — merged PR [#91](https://github.com/slackhq/keeper/pull/91) to [slackhq/keeper](https://github.com/slackhq/keeper): "Use new AGP 7 variant APIs + update to AGP 7.1"
-
-**2022-02-02** — closed issue [#90](https://github.com/slackhq/keeper/issues/90) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new AGP variants API"
-
-**2022-02-02** — closed issue [#1517](https://github.com/square/moshi/issues/1517) on [square/moshi](https://github.com/square/moshi): "Maven Central Migration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
