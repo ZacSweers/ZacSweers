@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-07** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1031621493) in [square/moshi](https://github.com/square/moshi)
+
 **2022-02-05** — deleted branch `z/toStringSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-05** — merged PR [#207](https://github.com/ZacSweers/MoshiX/pull/207) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate toString() functions for IR sealed adapters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-04** — closed issue [#1209](https://github.com/square/kotlinpoet/issues/1209) on [square/kotlinpoet](https://github.com/square/kotlinpoet): ""yield" not escaped when using %N"
 
 **2022-02-04** — commented on [#1518](https://github.com/square/moshi/issues/1518#issuecomment-1029700508) in [square/moshi](https://github.com/square/moshi)
-
-**2022-02-04** — closed issue [#1518](https://github.com/square/moshi/issues/1518) on [square/moshi](https://github.com/square/moshi): "open class not serialized, only parent values serialized"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
