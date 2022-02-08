@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-08** — deleted branch `egorand/220208/gradle-7.4` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-02-08** — merged PR [#1210](https://github.com/square/kotlinpoet/pull/1210) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Gradle 7.4"
+
 **2022-02-07** — commented on [#13302](https://github.com/gradle/gradle/issues/13302#issuecomment-1031944439) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-02-07** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1031868605) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-05** — created branch `z/toStringSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-05** — opened PR [#283](https://github.com/ZacSweers/CatchUp/pull/283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update deps + enable CC"
-
-**2022-02-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-02-04** — commented on [#1209](https://github.com/square/kotlinpoet/issues/1209#issuecomment-1029700780) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
