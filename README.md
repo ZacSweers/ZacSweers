@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-09** — commented on [#1037](https://github.com/Triple-T/gradle-play-publisher/issues/1037#issuecomment-1034146331) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
 **2022-02-08** — deleted branch `egorand/220208/gradle-7.4` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-08** — merged PR [#1210](https://github.com/square/kotlinpoet/pull/1210) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Gradle 7.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-05** — opened PR [#207](https://github.com/ZacSweers/MoshiX/pull/207) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate toString() functions for IR sealed adapters"
 
 **2022-02-05** — created branch `z/toStringSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-05** — opened PR [#283](https://github.com/ZacSweers/CatchUp/pull/283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update deps + enable CC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
