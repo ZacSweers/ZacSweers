@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037036149) in [dropbox/focus](https://github.com/dropbox/focus)
+
+**2022-02-12** — opened PR [#3](https://github.com/dropbox/focus/pull/3) to [dropbox/focus](https://github.com/dropbox/focus): "Disable configuration caching on CreateFocusSettingsTask"
+
+**2022-02-12** — created branch `z/disableConfigurationCache` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
+
 **2022-02-11** — opened issue [#2](https://github.com/dropbox/focus/issues/2) on [dropbox/focus](https://github.com/dropbox/focus): "Not compatible with configuration cache"
 
 **2022-02-10** — closed issue [#208](https://github.com/ZacSweers/MoshiX/issues/208) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Can't serialize @DefaultObject?"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-08** — deleted branch `egorand/220208/gradle-7.4` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-08** — merged PR [#1210](https://github.com/square/kotlinpoet/pull/1210) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Gradle 7.4"
-
-**2022-02-07** — commented on [#13302](https://github.com/gradle/gradle/issues/13302#issuecomment-1031944439) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-02-07** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1031868605) in [square/moshi](https://github.com/square/moshi)
-
-**2022-02-07** — commented on [#1515](https://github.com/square/moshi/issues/1515#issuecomment-1031621493) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
