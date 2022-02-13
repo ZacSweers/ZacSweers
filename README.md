@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-13** — created branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-02-13** — reopened issue [#370](https://github.com/uber/AutoDispose/issues/370) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Compound extension APIs"
+
+**2022-02-13** — commented on [#370](https://github.com/uber/AutoDispose/issues/370#issuecomment-1038318670) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-02-13** — commented on [#461](https://github.com/uber/AutoDispose/issues/461#issuecomment-1038316654) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037262812) in [dropbox/focus](https://github.com/dropbox/focus)
 
 **2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037036149) in [dropbox/focus](https://github.com/dropbox/focus)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-11** — opened issue [#2](https://github.com/dropbox/focus/issues/2) on [dropbox/focus](https://github.com/dropbox/focus): "Not compatible with configuration cache"
 
 **2022-02-10** — closed issue [#208](https://github.com/ZacSweers/MoshiX/issues/208) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Can't serialize @DefaultObject?"
-
-**2022-02-10** — commented on [#208](https://github.com/ZacSweers/MoshiX/issues/208#issuecomment-1034591999) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-09** — commented on [#1037](https://github.com/Triple-T/gradle-play-publisher/issues/1037#issuecomment-1034279926) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
-
-**2022-02-09** — commented on [#1037](https://github.com/Triple-T/gradle-play-publisher/issues/1037#issuecomment-1034146331) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
-
-**2022-02-08** — deleted branch `egorand/220208/gradle-7.4` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
