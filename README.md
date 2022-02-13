@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-13** — opened PR [#463](https://github.com/uber/AutoDispose/pull/463) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Prototype context receivers"
+
+**2022-02-13** — created branch `z/kotlin1620` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-02-13** — opened PR [#462](https://github.com/uber/AutoDispose/pull/462) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Update various dependencies"
+
 **2022-02-13** — created branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2022-02-13** — reopened issue [#370](https://github.com/uber/AutoDispose/issues/370) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Compound extension APIs"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037036149) in [dropbox/focus](https://github.com/dropbox/focus)
 
 **2022-02-12** — opened PR [#3](https://github.com/dropbox/focus/pull/3) to [dropbox/focus](https://github.com/dropbox/focus): "Disable configuration caching on CreateFocusSettingsTask"
-
-**2022-02-12** — created branch `z/disableConfigurationCache` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
-
-**2022-02-11** — opened issue [#2](https://github.com/dropbox/focus/issues/2) on [dropbox/focus](https://github.com/dropbox/focus): "Not compatible with configuration cache"
-
-**2022-02-10** — closed issue [#208](https://github.com/ZacSweers/MoshiX/issues/208) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Can't serialize @DefaultObject?"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
