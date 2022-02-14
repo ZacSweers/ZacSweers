@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-13** — deleted branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-02-13** — merged PR [#462](https://github.com/uber/AutoDispose/pull/462) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Update various dependencies"
+
 **2022-02-13** — opened PR [#463](https://github.com/uber/AutoDispose/pull/463) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Prototype context receivers"
 
 **2022-02-13** — created branch `z/kotlin1620` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-13** — commented on [#461](https://github.com/uber/AutoDispose/issues/461#issuecomment-1038316654) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037262812) in [dropbox/focus](https://github.com/dropbox/focus)
-
-**2022-02-12** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1037036149) in [dropbox/focus](https://github.com/dropbox/focus)
-
-**2022-02-12** — opened PR [#3](https://github.com/dropbox/focus/pull/3) to [dropbox/focus](https://github.com/dropbox/focus): "Disable configuration caching on CreateFocusSettingsTask"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
