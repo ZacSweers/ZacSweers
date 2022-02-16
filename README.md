@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041622063) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041592944) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-02-15** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1040994364) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-15** — commented on [#2](https://github.com/dropbox/focus/issues/2#issuecomment-1040952042) in [dropbox/focus](https://github.com/dropbox/focus)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-13** — opened PR [#463](https://github.com/uber/AutoDispose/pull/463) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Prototype context receivers"
 
 **2022-02-13** — created branch `z/kotlin1620` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-02-13** — opened PR [#462](https://github.com/uber/AutoDispose/pull/462) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Update various dependencies"
-
-**2022-02-13** — created branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
