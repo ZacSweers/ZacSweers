@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-16** — created branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-16** — deleted branch `z/sealedIndirection` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-16** — merged PR [#138](https://github.com/ZacSweers/MoshiX/pull/138) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types"
+
+**2022-02-16** — closed issue [#136](https://github.com/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
+
 **2022-02-16** — merged PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
 
 **2022-02-16** — deleted branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — commented on [#1213](https://github.com/square/kotlinpoet/issues/1213#issuecomment-1041951996) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-16** — opened issue [#1216](https://github.com/square/kotlinpoet/issues/1216) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Explore Knit for samples"
-
-**2022-02-16** — opened PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
-
-**2022-02-16** — created branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-02-16** — closed PR [#1214](https://github.com/square/kotlinpoet/pull/1214) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix misleading documentation"
-
-**2022-02-16** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1041941506) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
