@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-16** — deleted branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-02-16** — merged PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
+
+**2022-02-16** — opened PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
+
 **2022-02-16** — created branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-16** — deleted branch `z/sealedIndirection` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — deleted branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-16** — closed issue [#1213](https://github.com/square/kotlinpoet/issues/1213) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Improve documentation about explicit library mode behavior"
-
-**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041959130) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-02-16** — commented on [#1213](https://github.com/square/kotlinpoet/issues/1213#issuecomment-1041951996) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-02-16** — opened issue [#1216](https://github.com/square/kotlinpoet/issues/1216) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Explore Knit for samples"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
