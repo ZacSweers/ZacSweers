@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-16** — created tag `0.17.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-02-16** — deleted branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-16** — merged PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — merged PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
 
 **2022-02-16** — deleted branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-02-16** — closed issue [#1213](https://github.com/square/kotlinpoet/issues/1213) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Improve documentation about explicit library mode behavior"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
