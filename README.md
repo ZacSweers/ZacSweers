@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-15** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1040994364) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-02-15** — commented on [#2](https://github.com/dropbox/focus/issues/2#issuecomment-1040952042) in [dropbox/focus](https://github.com/dropbox/focus)
+
 **2022-02-15** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1040275398) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-02-14** — commented on [#1213](https://github.com/square/kotlinpoet/issues/1213#issuecomment-1039161271) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-13** — opened PR [#462](https://github.com/uber/AutoDispose/pull/462) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Update various dependencies"
 
 **2022-02-13** — created branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-02-13** — reopened issue [#370](https://github.com/uber/AutoDispose/issues/370) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Compound extension APIs"
-
-**2022-02-13** — commented on [#370](https://github.com/uber/AutoDispose/issues/370#issuecomment-1038318670) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
