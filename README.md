@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041889422) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-02-16** — merged PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
 
-**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041622063) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-02-16** — deleted branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041592944) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-02-16** — closed issue [#1213](https://github.com/square/kotlinpoet/issues/1213) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Improve documentation about explicit library mode behavior"
 
-**2022-02-15** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1040994364) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2022-02-16** — commented on [#78](https://github.com/ZacSweers/redacted-compiler-plugin/pull/78#issuecomment-1041959130) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-02-15** — commented on [#2](https://github.com/dropbox/focus/issues/2#issuecomment-1040952042) in [dropbox/focus](https://github.com/dropbox/focus)
+**2022-02-16** — commented on [#1213](https://github.com/square/kotlinpoet/issues/1213#issuecomment-1041951996) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2022-02-15** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1040275398) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2022-02-16** — opened issue [#1216](https://github.com/square/kotlinpoet/issues/1216) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Explore Knit for samples"
 
-**2022-02-14** — commented on [#1213](https://github.com/square/kotlinpoet/issues/1213#issuecomment-1039161271) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2022-02-16** — opened PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
 
-**2022-02-13** — deleted branch `z/updates` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2022-02-16** — created branch `z/explicitNoteAboutApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2022-02-13** — merged PR [#462](https://github.com/uber/AutoDispose/pull/462) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Update various dependencies"
+**2022-02-16** — closed PR [#1214](https://github.com/square/kotlinpoet/pull/1214) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix misleading documentation"
 
-**2022-02-13** — opened PR [#463](https://github.com/uber/AutoDispose/pull/463) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Prototype context receivers"
+**2022-02-16** — commented on [#1214](https://github.com/square/kotlinpoet/pull/1214#issuecomment-1041941506) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
