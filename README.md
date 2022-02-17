@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1043599106) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-02-17** — commented on [#1327](https://github.com/square/moshi/issues/1327#issuecomment-1042946816) in [square/moshi](https://github.com/square/moshi)
 
 **2022-02-16** — created tag `0.17.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — merged PR [#138](https://github.com/ZacSweers/MoshiX/pull/138) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types"
 
 **2022-02-16** — closed issue [#136](https://github.com/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
-
-**2022-02-16** — merged PR [#1215](https://github.com/square/kotlinpoet/pull/1215) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add note about explicit API mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
