@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-18** — closed issue [#266](https://github.com/rharter/auto-value-gson/issues/266) on [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson): "Handling unrecognized json properties"
+
+**2022-02-18** — commented on [#266](https://github.com/rharter/auto-value-gson/issues/266#issuecomment-1044672157) in [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson)
+
+**2022-02-18** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1044650158) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-02-17** — commented on [#854](https://github.com/google/ksp/issues/854#issuecomment-1043630199) in [google/ksp](https://github.com/google/ksp)
 
 **2022-02-17** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1043599106) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — merged PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
 
 **2022-02-16** — opened PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
-
-**2022-02-16** — created branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-16** — deleted branch `z/sealedIndirection` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-02-16** — merged PR [#138](https://github.com/ZacSweers/MoshiX/pull/138) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
