@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-17** — commented on [#854](https://github.com/google/ksp/issues/854#issuecomment-1043630199) in [google/ksp](https://github.com/google/ksp)
+
 **2022-02-17** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1043599106) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-02-17** — commented on [#1327](https://github.com/square/moshi/issues/1327#issuecomment-1042946816) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — deleted branch `z/sealedIndirection` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-16** — merged PR [#138](https://github.com/ZacSweers/MoshiX/pull/138) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types"
-
-**2022-02-16** — closed issue [#136](https://github.com/ZacSweers/MoshiX/issues/136) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support nested sealed types in moshi-sealed"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
