@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-20** — commented on [#1125](https://github.com/diffplug/spotless/pull/1125#issuecomment-1046305415) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2022-02-18** — closed issue [#266](https://github.com/rharter/auto-value-gson/issues/266) on [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson): "Handling unrecognized json properties"
 
 **2022-02-18** — commented on [#266](https://github.com/rharter/auto-value-gson/issues/266#issuecomment-1044672157) in [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-16** — deleted branch `z/sealedJava` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-02-16** — merged PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
-
-**2022-02-16** — opened PR [#209](https://github.com/ZacSweers/MoshiX/pull/209) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement support for nested sealed in Java"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
