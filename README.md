@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-21** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1047073914) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-02-21** — commented on [#1522](https://github.com/square/moshi/issues/1522#issuecomment-1046949786) in [square/moshi](https://github.com/square/moshi)
 
 **2022-02-20** — merged PR [#100](https://github.com/slackhq/keeper/pull/100) to [slackhq/keeper](https://github.com/slackhq/keeper): "Integrate spotless"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-18** — closed issue [#266](https://github.com/rharter/auto-value-gson/issues/266) on [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson): "Handling unrecognized json properties"
 
 **2022-02-18** — commented on [#266](https://github.com/rharter/auto-value-gson/issues/266#issuecomment-1044672157) in [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson)
-
-**2022-02-18** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1044650158) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
