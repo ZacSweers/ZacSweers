@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-22** — merged PR [#464](https://github.com/uber/AutoDispose/pull/464) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Improve RxJava versions support documentation"
+
+**2022-02-22** — commented on [#464](https://github.com/uber/AutoDispose/pull/464#issuecomment-1047918560) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-02-22** — commented on [#464](https://github.com/uber/AutoDispose/pull/464#issuecomment-1047898561) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2022-02-21** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1047073914) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-02-21** — commented on [#1522](https://github.com/square/moshi/issues/1522#issuecomment-1046949786) in [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-20** — opened PR [#100](https://github.com/slackhq/keeper/pull/100) to [slackhq/keeper](https://github.com/slackhq/keeper): "Integrate spotless"
 
 **2022-02-20** — created branch `z/spotlessIntegration` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-02-20** — commented on [#1125](https://github.com/diffplug/spotless/pull/1125#issuecomment-1046305415) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-02-18** — closed issue [#266](https://github.com/rharter/auto-value-gson/issues/266) on [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson): "Handling unrecognized json properties"
-
-**2022-02-18** — commented on [#266](https://github.com/rharter/auto-value-gson/issues/266#issuecomment-1044672157) in [rharter/auto-value-gson](https://github.com/rharter/auto-value-gson)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
