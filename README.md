@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-02-28** — opened PR [#2891](https://github.com/cashapp/sqldelight/pull/2891) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Sort files when generating code to ensure idempotent outputs"
+
+**2022-02-28** — created branch `z/fixCaching` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+
+**2022-02-28** — created branch `z/slack154` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+
 **2022-02-25** — opened issue [#49](https://github.com/slackhq/EitherNet/issues/49) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "enqueueFromJava does not handle inherited functions in lookups"
 
 **2022-02-25** — closed issue [#1522](https://github.com/square/moshi/issues/1522) on [square/moshi](https://github.com/square/moshi): "ksp 1.0.3 breaks build"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-21** — commented on [#238](https://github.com/tschuchortdev/kotlin-compile-testing/pull/238#issuecomment-1047073914) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-02-21** — commented on [#1522](https://github.com/square/moshi/issues/1522#issuecomment-1046949786) in [square/moshi](https://github.com/square/moshi)
-
-**2022-02-20** — merged PR [#100](https://github.com/slackhq/keeper/pull/100) to [slackhq/keeper](https://github.com/slackhq/keeper): "Integrate spotless"
-
-**2022-02-20** — deleted branch `z/spotlessIntegration` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-02-20** — closed issue [#92](https://github.com/slackhq/keeper/issues/92) on [slackhq/keeper](https://github.com/slackhq/keeper): "Enable Spotless on the repo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
