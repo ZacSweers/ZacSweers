@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-01** — opened issue [#554](https://github.com/square/anvil/issues/554) on [square/anvil](https://github.com/square/anvil): "interface module contributions appear to get contributed to component merging rather than as modules"
+
 **2022-03-01** — commented on [#170](https://github.com/gradle/gradle-build-action/issues/170#issuecomment-1055859523) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
 
 **2022-03-01** — commented on [#170](https://github.com/gradle/gradle-build-action/issues/170#issuecomment-1055623130) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-25** — opened issue [#49](https://github.com/slackhq/EitherNet/issues/49) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "enqueueFromJava does not handle inherited functions in lookups"
 
 **2022-02-25** — closed issue [#1522](https://github.com/square/moshi/issues/1522) on [square/moshi](https://github.com/square/moshi): "ksp 1.0.3 breaks build"
-
-**2022-02-22** — merged PR [#464](https://github.com/uber/AutoDispose/pull/464) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Improve RxJava versions support documentation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
