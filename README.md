@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-01** — commented on [#170](https://github.com/gradle/gradle-build-action/issues/170#issuecomment-1055623130) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+
 **2022-02-28** — opened issue [#170](https://github.com/gradle/gradle-build-action/issues/170) on [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action): "Caching times out"
 
 **2022-02-28** — deleted branch `z/fixCaching` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-22** — merged PR [#464](https://github.com/uber/AutoDispose/pull/464) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Improve RxJava versions support documentation"
 
 **2022-02-22** — commented on [#464](https://github.com/uber/AutoDispose/pull/464#issuecomment-1047918560) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-02-22** — commented on [#464](https://github.com/uber/AutoDispose/pull/464#issuecomment-1047898561) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
