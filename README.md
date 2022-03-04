@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-04** — commented on [#2566](https://github.com/cashapp/sqldelight/issues/2566#issuecomment-1059391652) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
+
 **2022-03-03** — opened issue [#20](https://github.com/slackhq/auto-value-kotlin/issues/20) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "If no java srcDir is present, try the kotlin dir"
 
 **2022-03-03** — commented on [#1523](https://github.com/square/moshi/issues/1523#issuecomment-1058498877) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-02-28** — opened PR [#2891](https://github.com/cashapp/sqldelight/pull/2891) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Sort files when generating code to ensure idempotent outputs"
 
 **2022-02-28** — created branch `z/fixCaching` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2022-02-28** — created branch `z/slack154` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
