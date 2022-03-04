@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-04** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-04** — merged PR [#226](https://github.com/ZacSweers/MoshiX/pull/226) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.22.0"
+
+**2022-03-04** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-04** — merged PR [#225](https://github.com/ZacSweers/MoshiX/pull/225) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.4"
+
 **2022-03-04** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-04** — merged PR [#227](https://github.com/ZacSweers/MoshiX/pull/227) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.4.2"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-04** — deleted branch `renovate/com.google.auto` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-04** — merged PR [#224](https://github.com/ZacSweers/MoshiX/pull/224) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.auto:auto-common to v1.2.1"
-
-**2022-03-04** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#222](https://github.com/ZacSweers/MoshiX/pull/222) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v31"
-
-**2022-03-04** — deleted branch `renovate/major-dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#223](https://github.com/ZacSweers/MoshiX/pull/223) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
