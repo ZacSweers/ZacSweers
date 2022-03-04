@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-03-04** — commented on [#2566](https://github.com/cashapp/sqldelight/issues/2566#issuecomment-1059391652) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
+**2022-03-04** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-03-03** — opened issue [#20](https://github.com/slackhq/auto-value-kotlin/issues/20) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "If no java srcDir is present, try the kotlin dir"
+**2022-03-04** — merged PR [#227](https://github.com/ZacSweers/MoshiX/pull/227) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.4.2"
 
-**2022-03-03** — commented on [#1523](https://github.com/square/moshi/issues/1523#issuecomment-1058498877) in [square/moshi](https://github.com/square/moshi)
+**2022-03-04** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-03-01** — opened issue [#554](https://github.com/square/anvil/issues/554) on [square/anvil](https://github.com/square/anvil): "interface module contributions appear to get contributed to component merging rather than as modules"
+**2022-03-04** — merged PR [#217](https://github.com/ZacSweers/MoshiX/pull/217) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.19.0"
 
-**2022-03-01** — commented on [#170](https://github.com/gradle/gradle-build-action/issues/170#issuecomment-1055859523) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+**2022-03-04** — deleted branch `renovate/com.google.auto` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-03-01** — commented on [#170](https://github.com/gradle/gradle-build-action/issues/170#issuecomment-1055623130) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+**2022-03-04** — merged PR [#224](https://github.com/ZacSweers/MoshiX/pull/224) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.auto:auto-common to v1.2.1"
 
-**2022-02-28** — opened issue [#170](https://github.com/gradle/gradle-build-action/issues/170) on [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action): "Caching times out"
+**2022-03-04** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-02-28** — deleted branch `z/fixCaching` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+**2022-03-04** — merged PR [#222](https://github.com/ZacSweers/MoshiX/pull/222) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v31"
 
-**2022-02-28** — opened PR [#2891](https://github.com/cashapp/sqldelight/pull/2891) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Sort files when generating code to ensure idempotent outputs"
+**2022-03-04** — deleted branch `renovate/major-dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-02-28** — created branch `z/fixCaching` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+**2022-03-04** — merged PR [#223](https://github.com/ZacSweers/MoshiX/pull/223) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
