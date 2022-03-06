@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-06** — opened issue [#566](https://github.com/square/anvil/issues/566) on [square/anvil](https://github.com/square/anvil): "Consider adding back a `ClassReference.toTypename()` API"
+
 **2022-03-04** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-04** — merged PR [#226](https://github.com/ZacSweers/MoshiX/pull/226) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.22.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-04** — merged PR [#217](https://github.com/ZacSweers/MoshiX/pull/217) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.19.0"
 
 **2022-03-04** — deleted branch `renovate/com.google.auto` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#224](https://github.com/ZacSweers/MoshiX/pull/224) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.auto:auto-common to v1.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
