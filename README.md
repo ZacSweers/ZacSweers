@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-08** — opened issue [#228](https://github.com/ZacSweers/MoshiX/issues/228) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "For nested sealed types, if a label key is on the parent class then just use that"
+
 **2022-03-06** — opened issue [#566](https://github.com/square/anvil/issues/566) on [square/anvil](https://github.com/square/anvil): "Consider adding back a `ClassReference.toTypename()` API"
 
 **2022-03-04** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-04** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-04** — merged PR [#217](https://github.com/ZacSweers/MoshiX/pull/217) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.19.0"
-
-**2022-03-04** — deleted branch `renovate/com.google.auto` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
