@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-09** — created tag `0.17.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-09** — deleted branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-09** — closed issue [#228](https://github.com/ZacSweers/MoshiX/issues/228) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "For nested sealed types, if a label key is on the parent class then just use that"
+
+**2022-03-09** — merged PR [#230](https://github.com/ZacSweers/MoshiX/pull/230) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix support for non-JsonClass-annotated nested types"
+
+**2022-03-09** — opened PR [#230](https://github.com/ZacSweers/MoshiX/pull/230) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix support for non-JsonClass-annotated nested types"
+
+**2022-03-09** — created branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-03-09** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-09** — merged PR [#229](https://github.com/ZacSweers/MoshiX/pull/229) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.4.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-08** — opened issue [#228](https://github.com/ZacSweers/MoshiX/issues/228) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "For nested sealed types, if a label key is on the parent class then just use that"
 
 **2022-03-06** — opened issue [#566](https://github.com/square/anvil/issues/566) on [square/anvil](https://github.com/square/anvil): "Consider adding back a `ClassReference.toTypename()` API"
-
-**2022-03-04** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#226](https://github.com/ZacSweers/MoshiX/pull/226) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.22.0"
-
-**2022-03-04** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#225](https://github.com/ZacSweers/MoshiX/pull/225) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.4"
-
-**2022-03-04** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-04** — merged PR [#227](https://github.com/ZacSweers/MoshiX/pull/227) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.4.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
