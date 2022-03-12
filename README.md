@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-11** — opened issue [#1524](https://github.com/square/moshi/issues/1524) on [square/moshi](https://github.com/square/moshi): "JsonReader tags are lost when going to JsonAdapter.fromJsonValue()"
+
 **2022-03-09** — created tag `0.17.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-09** — deleted branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-09** — merged PR [#229](https://github.com/ZacSweers/MoshiX/pull/229) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.4.1"
 
 **2022-03-08** — opened issue [#228](https://github.com/ZacSweers/MoshiX/issues/228) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "For nested sealed types, if a label key is on the parent class then just use that"
-
-**2022-03-06** — opened issue [#566](https://github.com/square/anvil/issues/566) on [square/anvil](https://github.com/square/anvil): "Consider adding back a `ClassReference.toTypename()` API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
