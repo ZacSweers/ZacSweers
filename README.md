@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065995677) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065991863) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-03-11** — opened issue [#1524](https://github.com/square/moshi/issues/1524) on [square/moshi](https://github.com/square/moshi): "JsonReader tags are lost when going to JsonAdapter.fromJsonValue()"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-09** — created branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-09** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-09** — merged PR [#229](https://github.com/ZacSweers/MoshiX/pull/229) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
