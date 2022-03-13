@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-13** — deleted branch `z/cleanups` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-13** — merged PR [#231](https://github.com/ZacSweers/MoshiX/pull/231) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a couple km warnings from its update"
+
+**2022-03-13** — opened PR [#231](https://github.com/ZacSweers/MoshiX/pull/231) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a couple km warnings from its update"
+
+**2022-03-13** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066159026) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+
+**2022-03-13** — opened issue [#14640](https://github.com/renovatebot/renovate/issues/14640) on [renovatebot/renovate](https://github.com/renovatebot/renovate): "Gradle repo matching does not recognize maven content pattern"
+
+**2022-03-13** — created branch `z/cleanups` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065995677) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065991863) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-11** — opened issue [#1524](https://github.com/square/moshi/issues/1524) on [square/moshi](https://github.com/square/moshi): "JsonReader tags are lost when going to JsonAdapter.fromJsonValue()"
 
 **2022-03-09** — created tag `0.17.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-09** — deleted branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-09** — closed issue [#228](https://github.com/ZacSweers/MoshiX/issues/228) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "For nested sealed types, if a label key is on the parent class then just use that"
-
-**2022-03-09** — merged PR [#230](https://github.com/ZacSweers/MoshiX/pull/230) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix support for non-JsonClass-annotated nested types"
-
-**2022-03-09** — opened PR [#230](https://github.com/ZacSweers/MoshiX/pull/230) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix support for non-JsonClass-annotated nested types"
-
-**2022-03-09** — created branch `z/fixNesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-09** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
