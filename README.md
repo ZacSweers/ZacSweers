@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-14** — opened PR [#291](https://github.com/runningcode/fladle/pull/291) to [runningcode/fladle](https://github.com/runningcode/fladle): "Expose additionalTestApks in YamlConfigWriterTask itself"
+
+**2022-03-14** — created branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
+
 **2022-03-14** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066439249) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
 **2022-03-13** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066178042) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-13** — opened issue [#14640](https://github.com/renovatebot/renovate/issues/14640) on [renovatebot/renovate](https://github.com/renovatebot/renovate): "Gradle repo matching does not recognize maven content pattern"
 
 **2022-03-13** — created branch `z/cleanups` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065995677) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-03-12** — commented on [#1224](https://github.com/square/kotlinpoet/issues/1224#issuecomment-1065991863) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
