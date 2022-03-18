@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-18** — opened issue [#1421](https://github.com/pinterest/ktlint/issues/1421) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "Editorconfig loading appears to be broken in 0.45.0"
+
 **2022-03-18** — deleted branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
 
 **2022-03-18** — merged PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-14** — opened PR [#291](https://github.com/runningcode/fladle/pull/291) to [runningcode/fladle](https://github.com/runningcode/fladle): "Expose additionalTestApks in YamlConfigWriterTask itself"
 
 **2022-03-14** — created branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
-
-**2022-03-14** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066439249) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
