@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-18** — closed issue [#1525](https://github.com/square/moshi/issues/1525) on [square/moshi](https://github.com/square/moshi): "KSP Issue"
+
+**2022-03-18** — commented on [#1525](https://github.com/square/moshi/issues/1525#issuecomment-1072447987) in [square/moshi](https://github.com/square/moshi)
+
 **2022-03-16** — commented on [#1621](https://github.com/bugsnag/bugsnag-android/pull/1621#issuecomment-1069292474) in [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android)
 
 **2022-03-14** — opened PR [#291](https://github.com/runningcode/fladle/pull/291) to [runningcode/fladle](https://github.com/runningcode/fladle): "Expose additionalTestApks in YamlConfigWriterTask itself"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-13** — merged PR [#231](https://github.com/ZacSweers/MoshiX/pull/231) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a couple km warnings from its update"
 
 **2022-03-13** — opened PR [#231](https://github.com/ZacSweers/MoshiX/pull/231) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a couple km warnings from its update"
-
-**2022-03-13** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066159026) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-
-**2022-03-13** — opened issue [#14640](https://github.com/renovatebot/renovate/issues/14640) on [renovatebot/renovate](https://github.com/renovatebot/renovate): "Gradle repo matching does not recognize maven content pattern"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
