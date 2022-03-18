@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-18** — deleted branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
+
+**2022-03-18** — merged PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
+
 **2022-03-18** — created branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
 
 **2022-03-18** — opened PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-14** — created branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
 
 **2022-03-14** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066439249) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-
-**2022-03-13** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1066178042) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-
-**2022-03-13** — deleted branch `z/cleanups` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
