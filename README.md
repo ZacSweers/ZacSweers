@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-21** — commented on [#1391](https://github.com/pinterest/ktlint/issues/1391#issuecomment-1074388850) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
+
 **2022-03-21** — commented on [#1421](https://github.com/pinterest/ktlint/issues/1421#issuecomment-1074025576) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 
 **2022-03-21** — merged PR [#232](https://github.com/ZacSweers/MoshiX/pull/232) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/cache action to v3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-18** — opened PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
 
 **2022-03-18** — closed issue [#1525](https://github.com/square/moshi/issues/1525) on [square/moshi](https://github.com/square/moshi): "KSP Issue"
-
-**2022-03-18** — commented on [#1525](https://github.com/square/moshi/issues/1525#issuecomment-1072447987) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
