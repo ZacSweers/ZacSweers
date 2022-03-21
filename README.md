@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-21** — deleted branch `yfw-named-params` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-03-21** — merged PR [#17](https://github.com/slackhq/slack-lints/pull/17) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add lint rule for MustUseNamedParams annotation"
+
 **2022-03-21** — commented on [#1391](https://github.com/pinterest/ktlint/issues/1391#issuecomment-1074388850) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 
 **2022-03-21** — commented on [#1421](https://github.com/pinterest/ktlint/issues/1421#issuecomment-1074025576) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-18** — merged PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
 
 **2022-03-18** — created branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
-
-**2022-03-18** — opened PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
-
-**2022-03-18** — closed issue [#1525](https://github.com/square/moshi/issues/1525) on [square/moshi](https://github.com/square/moshi): "KSP Issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
