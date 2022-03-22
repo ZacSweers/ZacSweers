@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-22** — opened PR [#1227](https://github.com/square/kotlinpoet/pull/1227) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Prepare 1.11.0 release notes"
+
+**2022-03-22** — created branch `z/1110notes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-03-21** — deleted branch `yfw-named-params` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-03-21** — merged PR [#17](https://github.com/slackhq/slack-lints/pull/17) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add lint rule for MustUseNamedParams annotation"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-18** — opened issue [#1421](https://github.com/pinterest/ktlint/issues/1421) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "Editorconfig loading appears to be broken in 0.45.0"
 
 **2022-03-18** — deleted branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
-
-**2022-03-18** — merged PR [#1526](https://github.com/square/moshi/pull/1526) to [square/moshi](https://github.com/square/moshi): "Comment about KSP version"
-
-**2022-03-18** — created branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
