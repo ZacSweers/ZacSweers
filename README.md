@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-23** — commented on [#554](https://github.com/square/anvil/issues/554#issuecomment-1076888194) in [square/anvil](https://github.com/square/anvil)
+
+**2022-03-23** — closed issue [#554](https://github.com/square/anvil/issues/554) on [square/anvil](https://github.com/square/anvil): "interface module contributions appear to get contributed to component merging rather than as modules"
+
 **2022-03-23** — commented on [#142](https://github.com/diffplug/spotless/issues/142#issuecomment-1076745332) in [diffplug/spotless](https://github.com/diffplug/spotless)
 
 **2022-03-23** — commented on [#1434](https://github.com/pinterest/ktlint/issues/1434#issuecomment-1076742855) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-22** — created branch `z/1110notes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-03-21** — deleted branch `yfw-named-params` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-03-21** — merged PR [#17](https://github.com/slackhq/slack-lints/pull/17) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add lint rule for MustUseNamedParams annotation"
-
-**2022-03-21** — commented on [#1391](https://github.com/pinterest/ktlint/issues/1391#issuecomment-1074388850) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
