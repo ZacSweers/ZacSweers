@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-23** — commented on [#1434](https://github.com/pinterest/ktlint/issues/1434#issuecomment-1076742855) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
+
+**2022-03-23** — commented on [#1437](https://github.com/pinterest/ktlint/issues/1437#issuecomment-1076730830) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
+
+**2022-03-23** — closed issue [#1437](https://github.com/pinterest/ktlint/issues/1437) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "KtLint throws an exception on trailing parameter default on newline"
+
+**2022-03-23** — opened issue [#1437](https://github.com/pinterest/ktlint/issues/1437) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "KtLint throws an exception on trailing parameter default on newline"
+
 **2022-03-22** — opened PR [#1227](https://github.com/square/kotlinpoet/pull/1227) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Prepare 1.11.0 release notes"
 
 **2022-03-22** — created branch `z/1110notes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-21** — commented on [#1391](https://github.com/pinterest/ktlint/issues/1391#issuecomment-1074388850) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 
 **2022-03-21** — commented on [#1421](https://github.com/pinterest/ktlint/issues/1421#issuecomment-1074025576) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
-
-**2022-03-21** — merged PR [#232](https://github.com/ZacSweers/MoshiX/pull/232) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/cache action to v3"
-
-**2022-03-21** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-18** — opened issue [#1421](https://github.com/pinterest/ktlint/issues/1421) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "Editorconfig loading appears to be broken in 0.45.0"
-
-**2022-03-18** — deleted branch `z/commentKsp` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
