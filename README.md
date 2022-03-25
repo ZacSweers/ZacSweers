@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-25** — merged PR [#1228](https://github.com/square/kotlinpoet/pull/1228) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix typo in changelog"
+
+**2022-03-25** — commented on [#1228](https://github.com/square/kotlinpoet/pull/1228#issuecomment-1079126399) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-03-25** — deleted branch `renovate/com.squareup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-25** — closed PR [#233](https://github.com/ZacSweers/MoshiX/pull/233) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update com.squareup to v1.11.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-23** — closed issue [#554](https://github.com/square/anvil/issues/554) on [square/anvil](https://github.com/square/anvil): "interface module contributions appear to get contributed to component merging rather than as modules"
 
 **2022-03-23** — commented on [#142](https://github.com/diffplug/spotless/issues/142#issuecomment-1076745332) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-03-23** — commented on [#1434](https://github.com/pinterest/ktlint/issues/1434#issuecomment-1076742855) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
-
-**2022-03-23** — commented on [#1437](https://github.com/pinterest/ktlint/issues/1437#issuecomment-1076730830) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
