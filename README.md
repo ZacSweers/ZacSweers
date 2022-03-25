@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-25** — deleted branch `renovate/com.squareup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-25** — closed PR [#233](https://github.com/ZacSweers/MoshiX/pull/233) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update com.squareup to v1.11.0"
+
+**2022-03-25** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-25** — merged PR [#234](https://github.com/ZacSweers/MoshiX/pull/234) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup:kotlinpoet to v1.11.0"
+
 **2022-03-24** — commented on [#2](https://github.com/utwyko/KMinRandom/issues/2#issuecomment-1077960755) in [utwyko/KMinRandom](https://github.com/utwyko/KMinRandom)
 
 **2022-03-23** — commented on [#554](https://github.com/square/anvil/issues/554#issuecomment-1076888194) in [square/anvil](https://github.com/square/anvil)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-23** — commented on [#1434](https://github.com/pinterest/ktlint/issues/1434#issuecomment-1076742855) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 
 **2022-03-23** — commented on [#1437](https://github.com/pinterest/ktlint/issues/1437#issuecomment-1076730830) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
-
-**2022-03-23** — closed issue [#1437](https://github.com/pinterest/ktlint/issues/1437) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "KtLint throws an exception on trailing parameter default on newline"
-
-**2022-03-23** — opened issue [#1437](https://github.com/pinterest/ktlint/issues/1437) on [pinterest/ktlint](https://github.com/pinterest/ktlint): "KtLint throws an exception on trailing parameter default on newline"
-
-**2022-03-22** — opened PR [#1227](https://github.com/square/kotlinpoet/pull/1227) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Prepare 1.11.0 release notes"
-
-**2022-03-22** — created branch `z/1110notes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
