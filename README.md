@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-25** — closed issue [#14640](https://github.com/renovatebot/renovate/issues/14640) on [renovatebot/renovate](https://github.com/renovatebot/renovate): "Gradle repo matching does not recognize maven content pattern"
+
+**2022-03-25** — commented on [#14640](https://github.com/renovatebot/renovate/issues/14640#issuecomment-1079581023) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+
 **2022-03-25** — commented on [#101](https://github.com/slackhq/keeper/issues/101#issuecomment-1079252952) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-03-25** — merged PR [#1228](https://github.com/square/kotlinpoet/pull/1228) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix typo in changelog"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-25** — merged PR [#234](https://github.com/ZacSweers/MoshiX/pull/234) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup:kotlinpoet to v1.11.0"
 
 **2022-03-24** — commented on [#2](https://github.com/utwyko/KMinRandom/issues/2#issuecomment-1077960755) in [utwyko/KMinRandom](https://github.com/utwyko/KMinRandom)
-
-**2022-03-23** — commented on [#554](https://github.com/square/anvil/issues/554#issuecomment-1076888194) in [square/anvil](https://github.com/square/anvil)
-
-**2022-03-23** — closed issue [#554](https://github.com/square/anvil/issues/554) on [square/anvil](https://github.com/square/anvil): "interface module contributions appear to get contributed to component merging rather than as modules"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
