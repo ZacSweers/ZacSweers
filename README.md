@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-28** — opened issue [#20296](https://github.com/gradle/gradle/issues/20296) on [gradle/gradle](https://github.com/gradle/gradle): "`-q javaToolchains` is not compatible with configuration cache"
+
 **2022-03-27** — opened issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not s"
 
 **2022-03-27** — opened PR [#19](https://github.com/slackhq/slack-lints/pull/19) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update Gradle to 7.4.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-25** — merged PR [#1228](https://github.com/square/kotlinpoet/pull/1228) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix typo in changelog"
 
 **2022-03-25** — commented on [#1228](https://github.com/square/kotlinpoet/pull/1228#issuecomment-1079126399) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-03-25** — deleted branch `renovate/com.squareup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
