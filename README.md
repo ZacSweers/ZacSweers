@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-28** — merged PR [#51](https://github.com/slackhq/EitherNet/pull/51) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix exception on annotation traversal when target is not present"
+
+**2022-03-28** — closed issue [#50](https://github.com/slackhq/EitherNet/issues/50) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] Exception when looking for an annotation that doesn't exist"
+
 **2022-03-28** — commented on [#50](https://github.com/slackhq/EitherNet/issues/50#issuecomment-1080900075) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-03-28** — opened PR [#5](https://github.com/slackhq/kotlin-cli-util/pull/5) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream AppleSiliconCompat"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-27** — opened issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not s"
 
 **2022-03-27** — opened PR [#19](https://github.com/slackhq/slack-lints/pull/19) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update Gradle to 7.4.1"
-
-**2022-03-27** — created branch `z/gradle741` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-03-26** — commented on [#5384](https://github.com/github/linguist/pull/5384#issuecomment-1079630535) in [github/linguist](https://github.com/github/linguist)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
