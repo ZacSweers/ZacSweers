@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-27** — opened issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not s"
+
 **2022-03-27** — opened PR [#19](https://github.com/slackhq/slack-lints/pull/19) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update Gradle to 7.4.1"
 
 **2022-03-27** — created branch `z/gradle741` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-25** — commented on [#1228](https://github.com/square/kotlinpoet/pull/1228#issuecomment-1079126399) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-03-25** — deleted branch `renovate/com.squareup` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-25** — closed PR [#233](https://github.com/ZacSweers/MoshiX/pull/233) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update com.squareup to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
