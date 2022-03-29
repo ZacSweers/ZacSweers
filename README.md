@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-03-29** — merged PR [#235](https://github.com/ZacSweers/MoshiX/pull/235) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.4.0"
+
 **2022-03-28** — commented on [#51](https://github.com/slackhq/EitherNet/pull/51#issuecomment-1081191665) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-03-28** — merged PR [#51](https://github.com/slackhq/EitherNet/pull/51) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix exception on annotation traversal when target is not present"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-28** — deleted branch `z/tomlBits` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-03-28** — merged PR [#4](https://github.com/slackhq/kotlin-cli-util/pull/4) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream basic Toml versions parsing"
-
-**2022-03-28** — opened issue [#20296](https://github.com/gradle/gradle/issues/20296) on [gradle/gradle](https://github.com/gradle/gradle): "`-q javaToolchains` is not compatible with configuration cache"
-
-**2022-03-27** — opened issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not s"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
