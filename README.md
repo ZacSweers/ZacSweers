@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-29** — created branch `main` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
+
+**2022-03-29** — created repository on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
+
 **2022-03-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-29** — merged PR [#235](https://github.com/ZacSweers/MoshiX/pull/235) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.4.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-28** — opened PR [#5](https://github.com/slackhq/kotlin-cli-util/pull/5) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream AppleSiliconCompat"
 
 **2022-03-28** — created branch `z/silicon` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-28** — deleted branch `z/tomlBits` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-28** — merged PR [#4](https://github.com/slackhq/kotlin-cli-util/pull/4) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream basic Toml versions parsing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
