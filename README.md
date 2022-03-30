@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-30** — deleted branch `z/gradle741` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-03-30** — merged PR [#19](https://github.com/slackhq/slack-lints/pull/19) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle and lint to latest stable"
+
 **2022-03-29** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1082534547) in [dropbox/focus](https://github.com/dropbox/focus)
 
 **2022-03-29** — deleted branch `z/disableConfigurationCache` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-29** — merged PR [#235](https://github.com/ZacSweers/MoshiX/pull/235) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.4.0"
 
 **2022-03-28** — commented on [#51](https://github.com/slackhq/EitherNet/pull/51#issuecomment-1081191665) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-03-28** — merged PR [#51](https://github.com/slackhq/EitherNet/pull/51) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix exception on annotation traversal when target is not present"
-
-**2022-03-28** — closed issue [#50](https://github.com/slackhq/EitherNet/issues/50) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] Exception when looking for an annotation that doesn't exist"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
