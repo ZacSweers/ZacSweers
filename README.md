@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-29** — commented on [#3](https://github.com/dropbox/focus/pull/3#issuecomment-1082534547) in [dropbox/focus](https://github.com/dropbox/focus)
+
+**2022-03-29** — deleted branch `z/disableConfigurationCache` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
+
+**2022-03-29** — commented on [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22#issuecomment-1082520618) in [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk)
+
 **2022-03-29** — created branch `main` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
 
 **2022-03-29** — created repository on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-28** — merged PR [#51](https://github.com/slackhq/EitherNet/pull/51) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix exception on annotation traversal when target is not present"
 
 **2022-03-28** — closed issue [#50](https://github.com/slackhq/EitherNet/issues/50) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] Exception when looking for an annotation that doesn't exist"
-
-**2022-03-28** — commented on [#50](https://github.com/slackhq/EitherNet/issues/50#issuecomment-1080900075) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-03-28** — opened PR [#5](https://github.com/slackhq/kotlin-cli-util/pull/5) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream AppleSiliconCompat"
-
-**2022-03-28** — created branch `z/silicon` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
