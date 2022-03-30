@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-30** — deleted branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-30** — merged PR [#6](https://github.com/slackhq/kotlin-cli-util/pull/6) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Switch to ktfmt for formatting"
+
+**2022-03-30** — deleted branch `z/fixSnapshots` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-30** — merged PR [#7](https://github.com/slackhq/kotlin-cli-util/pull/7) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix snapshots publishing"
+
+**2022-03-30** — opened PR [#7](https://github.com/slackhq/kotlin-cli-util/pull/7) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix snapshots publishing"
+
+**2022-03-30** — created branch `z/fixSnapshots` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-30** — opened PR [#6](https://github.com/slackhq/kotlin-cli-util/pull/6) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Switch to ktfmt for formatting"
+
+**2022-03-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2022-03-30** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-03-30** — merged PR [#236](https://github.com/ZacSweers/MoshiX/pull/236) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.4.1"
-
-**2022-03-30** — deleted branch `bot/update-tzdata` on [ZacSweers/ticktock](https://github.com/ZacSweers/ticktock)
-
-**2022-03-30** — merged PR [#55](https://github.com/ZacSweers/ticktock/pull/55) to [ZacSweers/ticktock](https://github.com/ZacSweers/ticktock): "Update TZDATA to 2022a"
-
-**2022-03-30** — deleted branch `z/silicon` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-30** — merged PR [#5](https://github.com/slackhq/kotlin-cli-util/pull/5) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream AppleSiliconCompat"
-
-**2022-03-30** — opened PR [#20](https://github.com/slackhq/slack-lints/pull/20) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Start compose lints"
-
-**2022-03-30** — created branch `z/composeLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-03-30** — deleted branch `z/gradle741` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-03-30** — merged PR [#19](https://github.com/slackhq/slack-lints/pull/19) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle and lint to latest stable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
