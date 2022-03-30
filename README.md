@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-30** — closed issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not support `https` (invalid cert)"
+
+**2022-03-30** — commented on [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22#issuecomment-1083631412) in [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk)
+
 **2022-03-30** — deleted branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-03-30** — merged PR [#6](https://github.com/slackhq/kotlin-cli-util/pull/6) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Switch to ktfmt for formatting"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-30** — opened PR [#6](https://github.com/slackhq/kotlin-cli-util/pull/6) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Switch to ktfmt for formatting"
 
 **2022-03-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-30** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-03-30** — merged PR [#236](https://github.com/ZacSweers/MoshiX/pull/236) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
