@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-31** — opened PR [#52](https://github.com/slackhq/EitherNet/pull/52) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update gradle to 7.4.2.+ deps"
+
+**2022-03-31** — opened PR [#9](https://github.com/slackhq/kotlin-cli-util/pull/9) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Integrate kotlin abi validator"
+
+**2022-03-31** — created branch `z/addApi` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-31** — created branch `z/gradle742` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-03-31** — created tag `1.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-03-31** — deleted branch `z/fixError` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-31** — created branch `z/fixError` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-03-31** — deleted branch `z/docsFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-03-31** — merged PR [#1231](https://github.com/square/kotlinpoet/pull/1231) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix doc site list"
-
-**2022-03-31** — opened PR [#1231](https://github.com/square/kotlinpoet/pull/1231) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix doc site list"
-
-**2022-03-31** — created branch `z/docsFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-03-31** — commented on [#1528](https://github.com/square/moshi/issues/1528#issuecomment-1084734164) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
