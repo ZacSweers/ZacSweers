@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-31** — created tag `1.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-31** — deleted branch `z/fixError` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-31** — merged PR [#8](https://github.com/slackhq/kotlin-cli-util/pull/8) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix error message"
+
+**2022-03-31** — opened PR [#8](https://github.com/slackhq/kotlin-cli-util/pull/8) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix error message"
+
+**2022-03-31** — created branch `z/fixError` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-03-31** — deleted branch `z/docsFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-03-31** — merged PR [#1231](https://github.com/square/kotlinpoet/pull/1231) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix doc site list"
+
 **2022-03-31** — opened PR [#1231](https://github.com/square/kotlinpoet/pull/1231) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix doc site list"
 
 **2022-03-31** — created branch `z/docsFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-03-31** — commented on [#1528](https://github.com/square/moshi/issues/1528#issuecomment-1084734164) in [square/moshi](https://github.com/square/moshi)
-
-**2022-03-30** — commented on [#1522](https://github.com/square/moshi/issues/1522#issuecomment-1083673571) in [square/moshi](https://github.com/square/moshi)
-
-**2022-03-30** — closed issue [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22) on [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk): "Petfinder's image host does not support `https` (invalid cert)"
-
-**2022-03-30** — commented on [#22](https://github.com/petfinder-com/petfinder-js-sdk/issues/22#issuecomment-1083631412) in [petfinder-com/petfinder-js-sdk](https://github.com/petfinder-com/petfinder-js-sdk)
-
-**2022-03-30** — deleted branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-30** — merged PR [#6](https://github.com/slackhq/kotlin-cli-util/pull/6) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Switch to ktfmt for formatting"
-
-**2022-03-30** — deleted branch `z/fixSnapshots` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-30** — merged PR [#7](https://github.com/slackhq/kotlin-cli-util/pull/7) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix snapshots publishing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
