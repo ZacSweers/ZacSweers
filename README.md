@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-03-31** — opened PR [#1231](https://github.com/square/kotlinpoet/pull/1231) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix doc site list"
+
+**2022-03-31** — created branch `z/docsFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-03-31** — commented on [#1528](https://github.com/square/moshi/issues/1528#issuecomment-1084734164) in [square/moshi](https://github.com/square/moshi)
 
 **2022-03-30** — commented on [#1522](https://github.com/square/moshi/issues/1522#issuecomment-1083673571) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-30** — deleted branch `z/fixSnapshots` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-03-30** — merged PR [#7](https://github.com/slackhq/kotlin-cli-util/pull/7) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix snapshots publishing"
-
-**2022-03-30** — opened PR [#7](https://github.com/slackhq/kotlin-cli-util/pull/7) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix snapshots publishing"
-
-**2022-03-30** — created branch `z/fixSnapshots` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
