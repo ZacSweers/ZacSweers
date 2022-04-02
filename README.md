@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-02** — opened issue [#923](https://github.com/google/ksp/issues/923) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.6.20"
+
 **2022-04-01** — commented on [#52](https://github.com/slackhq/EitherNet/pull/52#issuecomment-1086251623) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-04-01** — opened issue [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Top-level projects don't seem to work on all OS's "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-31** — created branch `z/gradle742` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-03-31** — created tag `1.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-31** — deleted branch `z/fixError` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
