@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086800208) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
+**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086795950) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
+**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086795713) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
 **2022-04-02** — opened issue [#923](https://github.com/google/ksp/issues/923) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.6.20"
 
 **2022-04-01** — commented on [#52](https://github.com/slackhq/EitherNet/pull/52#issuecomment-1086251623) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-03-31** — opened PR [#52](https://github.com/slackhq/EitherNet/pull/52) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update gradle to 7.4.2.+ deps"
 
 **2022-03-31** — opened PR [#9](https://github.com/slackhq/kotlin-cli-util/pull/9) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Integrate kotlin abi validator"
-
-**2022-03-31** — created branch `z/addApi` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-03-31** — created branch `z/gradle742` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-03-31** — created tag `1.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
