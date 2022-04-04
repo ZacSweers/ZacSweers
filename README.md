@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-04** — created tag `1.1.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-04-04** — deleted branch `z/fixRosettaCheckOnx86` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2022-04-04** — merged PR [#10](https://github.com/slackhq/kotlin-cli-util/pull/10) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix Rosetta check on x86 devices"
+
+**2022-04-04** — opened PR [#10](https://github.com/slackhq/kotlin-cli-util/pull/10) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix Rosetta check on x86 devices"
+
+**2022-04-04** — created branch `z/fixRosettaCheckOnx86` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2022-04-04** — closed issue [#923](https://github.com/google/ksp/issues/923) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.6.20"
 
 **2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-compiler-embeddable-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-04** — closed PR [#239](https://github.com/ZacSweers/MoshiX/pull/239) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin to v1.6.20"
-
-**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-api-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-04** — closed PR [#240](https://github.com/ZacSweers/MoshiX/pull/240) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin-api to v1.6.20"
-
-**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-reflect-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-04** — closed PR [#241](https://github.com/ZacSweers/MoshiX/pull/241) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.20"
-
-**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
