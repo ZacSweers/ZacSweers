@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086800208) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-compiler-embeddable-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086795950) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+**2022-04-04** — closed PR [#238](https://github.com/ZacSweers/MoshiX/pull/238) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-compiler-embeddable to v1.6.20"
 
-**2022-04-03** — commented on [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76#issuecomment-1086795713) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-02** — opened issue [#923](https://github.com/google/ksp/issues/923) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.6.20"
+**2022-04-04** — closed PR [#239](https://github.com/ZacSweers/MoshiX/pull/239) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin to v1.6.20"
 
-**2022-04-01** — commented on [#52](https://github.com/slackhq/EitherNet/pull/52#issuecomment-1086251623) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-api-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-01** — opened issue [#76](https://github.com/Kotlin/binary-compatibility-validator/issues/76) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Top-level projects don't seem to work on all OS's "
+**2022-04-04** — closed PR [#240](https://github.com/ZacSweers/MoshiX/pull/240) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin-api to v1.6.20"
 
-**2022-03-31** — deleted branch `z/addApi` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-reflect-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-03-31** — merged PR [#9](https://github.com/slackhq/kotlin-cli-util/pull/9) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Integrate kotlin abi validator"
+**2022-04-04** — closed PR [#241](https://github.com/ZacSweers/MoshiX/pull/241) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.20"
 
-**2022-03-31** — opened PR [#52](https://github.com/slackhq/EitherNet/pull/52) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update gradle to 7.4.2.+ deps"
+**2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-03-31** — opened PR [#9](https://github.com/slackhq/kotlin-cli-util/pull/9) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Integrate kotlin abi validator"
+**2022-04-04** — closed PR [#242](https://github.com/ZacSweers/MoshiX/pull/242) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update org.jetbrains.kotlin to v1.6.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
