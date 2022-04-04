@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-04** — closed issue [#923](https://github.com/google/ksp/issues/923) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.6.20"
+
 **2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-compiler-embeddable-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-04** — closed PR [#238](https://github.com/ZacSweers/MoshiX/pull/238) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-compiler-embeddable to v1.6.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-04** — closed PR [#241](https://github.com/ZacSweers/MoshiX/pull/241) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.20"
 
 **2022-04-04** — deleted branch `renovate/org.jetbrains.kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-04** — closed PR [#242](https://github.com/ZacSweers/MoshiX/pull/242) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update org.jetbrains.kotlin to v1.6.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
