@@ -11,10 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-04** — deleted branch `z/fixRosettaCheckOnx86` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2022-04-04** — merged PR [#10](https://github.com/slackhq/kotlin-cli-util/pull/10) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix Rosetta check on x86 devices"
-
-**2022-04-04** — opened PR [#10](https://github.com/slackhq/kotlin-cli-util/pull/10) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix Rosetta check on x86 devices"
-
-**2022-04-04** — created branch `z/fixRosettaCheckOnx86` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
