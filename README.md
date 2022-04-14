@@ -4,11 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-14** — opened PR [#3](https://github.com/slackhq/slack-gradle-plugin/pull/3) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add highlights to README"
+
+**2022-04-14** — created branch `z/moreReadme` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-04-06** — commented on [#19765](https://github.com/gradle/gradle/issues/19765#issuecomment-1090876394) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-04-04** — created tag `1.1.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2022-04-04** — deleted branch `z/fixRosettaCheckOnx86` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
