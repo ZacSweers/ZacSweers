@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-17** — commented on [#13608](https://github.com/gradle/gradle/issues/13608#issuecomment-1100808766) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-04-16** — commented on [#1239](https://github.com/square/kotlinpoet/pull/1239#issuecomment-1100760447) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-04-14** — deleted branch `z/moreReadme` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
