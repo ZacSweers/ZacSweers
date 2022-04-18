@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-18** — commented on [#1532](https://github.com/square/moshi/issues/1532#issuecomment-1101461551) in [square/moshi](https://github.com/square/moshi)
+
+**2022-04-18** — closed issue [#1532](https://github.com/square/moshi/issues/1532) on [square/moshi](https://github.com/square/moshi): "Can't get an example from README.md to work"
+
+**2022-04-18** — commented on [#1532](https://github.com/square/moshi/issues/1532#issuecomment-1101461036) in [square/moshi](https://github.com/square/moshi)
+
 **2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101116310) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-18** — opened PR [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically configure `namespace` property for android library projects"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-14** — deleted branch `z/moreReadme` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-14** — merged PR [#3](https://github.com/slackhq/slack-gradle-plugin/pull/3) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add highlights to README"
-
-**2022-04-14** — commented on [#3](https://github.com/slackhq/slack-gradle-plugin/pull/3#issuecomment-1099720821) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-14** — opened PR [#3](https://github.com/slackhq/slack-gradle-plugin/pull/3) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add highlights to README"
-
-**2022-04-14** — created branch `z/moreReadme` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
