@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101784837) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-04-18** — commented on [#289](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/289#issuecomment-1101659228) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
 
 **2022-04-18** — opened issue [#289](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/289) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "Feature request: ability to suppress certain workarounds"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-18** — created branch `z/autoNamespace` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-17** — commented on [#13608](https://github.com/gradle/gradle/issues/13608#issuecomment-1100808766) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-04-16** — commented on [#1239](https://github.com/square/kotlinpoet/pull/1239#issuecomment-1100760447) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
