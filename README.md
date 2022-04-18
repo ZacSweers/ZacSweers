@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-18** — commented on [#289](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/289#issuecomment-1101659228) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
+
+**2022-04-18** — opened issue [#289](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/289) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "Feature request: ability to suppress certain workarounds"
+
 **2022-04-18** — commented on [#1532](https://github.com/square/moshi/issues/1532#issuecomment-1101461551) in [square/moshi](https://github.com/square/moshi)
 
 **2022-04-18** — closed issue [#1532](https://github.com/square/moshi/issues/1532) on [square/moshi](https://github.com/square/moshi): "Can't get an example from README.md to work"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-17** — commented on [#13608](https://github.com/gradle/gradle/issues/13608#issuecomment-1100808766) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-04-16** — commented on [#1239](https://github.com/square/kotlinpoet/pull/1239#issuecomment-1100760447) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-04-14** — deleted branch `z/moreReadme` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-14** — merged PR [#3](https://github.com/slackhq/slack-gradle-plugin/pull/3) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add highlights to README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
