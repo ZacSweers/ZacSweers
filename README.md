@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-19** — merged PR [#6](https://github.com/slackhq/slack-gradle-plugin/pull/6) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Document improved properties system"
+
+**2022-04-19** — deleted branch `z/propertyUtil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-04-19** — opened PR [#6](https://github.com/slackhq/slack-gradle-plugin/pull/6) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Document improved properties system"
 
 **2022-04-19** — opened PR [#5](https://github.com/slackhq/slack-gradle-plugin/pull/5) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use finalizeDsl for libraryextension callback in mod stats"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-19** — merged PR [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically configure `namespace` property for android library projects"
 
 **2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101804358) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101784837) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-18** — commented on [#289](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/289#issuecomment-1101659228) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
