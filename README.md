@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-19** — deleted branch `z/autoNamespace` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-04-19** — merged PR [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically configure `namespace` property for android library projects"
+
 **2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101804358) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101784837) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-18** — commented on [#1532](https://github.com/square/moshi/issues/1532#issuecomment-1101461036) in [square/moshi](https://github.com/square/moshi)
 
 **2022-04-18** — commented on [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4#issuecomment-1101116310) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-18** — opened PR [#4](https://github.com/slackhq/slack-gradle-plugin/pull/4) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically configure `namespace` property for android library projects"
-
-**2022-04-18** — created branch `z/autoNamespace` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
