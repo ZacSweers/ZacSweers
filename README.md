@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-20** — commented on [#79](https://github.com/Kotlin/binary-compatibility-validator/pull/79#issuecomment-1104337650) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
+**2022-04-20** — commented on [#79](https://github.com/Kotlin/binary-compatibility-validator/pull/79#issuecomment-1104331674) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
 **2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-reflect-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-20** — merged PR [#257](https://github.com/ZacSweers/MoshiX/pull/257) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.21"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-20** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-20** — merged PR [#249](https://github.com/ZacSweers/MoshiX/pull/249) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.1.3"
-
-**2022-04-20** — deleted branch `renovate/com.github.tschuchortdev-kotlin-compile-testing-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-20** — merged PR [#247](https://github.com/ZacSweers/MoshiX/pull/247) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.github.tschuchortdev:kotlin-compile-testing to v1.4.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
