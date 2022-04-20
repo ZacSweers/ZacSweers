@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-04-19** — opened PR [#7](https://github.com/slackhq/slack-gradle-plugin/pull/7) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Unify thermals watching API"
+**2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-reflect-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-19** — created branch `z/thermalsUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-04-20** — merged PR [#257](https://github.com/ZacSweers/MoshiX/pull/257) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.21"
 
-**2022-04-19** — deleted branch `z/finalize` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-compiler-embeddable-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-19** — merged PR [#5](https://github.com/slackhq/slack-gradle-plugin/pull/5) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use finalizeDsl for libraryextension callback in mod stats"
+**2022-04-20** — merged PR [#254](https://github.com/ZacSweers/MoshiX/pull/254) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-compiler-embeddable to v1.6.21"
 
-**2022-04-19** — merged PR [#6](https://github.com/slackhq/slack-gradle-plugin/pull/6) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Document improved properties system"
+**2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-api-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-19** — deleted branch `z/propertyUtil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-04-20** — merged PR [#256](https://github.com/ZacSweers/MoshiX/pull/256) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin-api to v1.6.21"
 
-**2022-04-19** — opened PR [#6](https://github.com/slackhq/slack-gradle-plugin/pull/6) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Document improved properties system"
+**2022-04-20** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-19** — opened PR [#5](https://github.com/slackhq/slack-gradle-plugin/pull/5) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use finalizeDsl for libraryextension callback in mod stats"
+**2022-04-20** — merged PR [#249](https://github.com/ZacSweers/MoshiX/pull/249) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.1.3"
 
-**2022-04-19** — created branch `z/propertyUtil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-04-20** — deleted branch `renovate/com.github.tschuchortdev-kotlin-compile-testing-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-04-19** — created branch `z/finalize` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-04-20** — merged PR [#247](https://github.com/ZacSweers/MoshiX/pull/247) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.github.tschuchortdev:kotlin-compile-testing to v1.4.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
