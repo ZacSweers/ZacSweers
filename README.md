@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-21** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1105657859) in [square/moshi](https://github.com/square/moshi)
+
+**2022-04-21** — closed issue [#1533](https://github.com/square/moshi/issues/1533) on [square/moshi](https://github.com/square/moshi): "Unable to build with React Native 0.64.2 and square in app payments 1.5.0 or 1.7.1 "
+
+**2022-04-21** — commented on [#1533](https://github.com/square/moshi/issues/1533#issuecomment-1105657037) in [square/moshi](https://github.com/square/moshi)
+
 **2022-04-20** — commented on [#79](https://github.com/Kotlin/binary-compatibility-validator/pull/79#issuecomment-1104337650) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2022-04-20** — commented on [#79](https://github.com/Kotlin/binary-compatibility-validator/pull/79#issuecomment-1104331674) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-20** — merged PR [#254](https://github.com/ZacSweers/MoshiX/pull/254) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-compiler-embeddable to v1.6.21"
 
 **2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-gradle-plugin-api-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-20** — merged PR [#256](https://github.com/ZacSweers/MoshiX/pull/256) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-gradle-plugin-api to v1.6.21"
-
-**2022-04-20** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-20** — merged PR [#249](https://github.com/ZacSweers/MoshiX/pull/249) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.1.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
