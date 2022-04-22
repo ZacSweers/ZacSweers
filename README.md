@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-22** — deleted branch `z/dupeOOM` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-04-22** — merged PR [#8](https://github.com/slackhq/slack-gradle-plugin/pull/8) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove duplicate OOM error arg"
+
 **2022-04-22** — opened PR [#8](https://github.com/slackhq/slack-gradle-plugin/pull/8) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove duplicate OOM error arg"
 
 **2022-04-22** — created branch `z/dupeOOM` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-20** — commented on [#79](https://github.com/Kotlin/binary-compatibility-validator/pull/79#issuecomment-1104331674) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-reflect-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-20** — merged PR [#257](https://github.com/ZacSweers/MoshiX/pull/257) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlin:kotlin-reflect to v1.6.21"
-
-**2022-04-20** — deleted branch `renovate/org.jetbrains.kotlin-kotlin-compiler-embeddable-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
