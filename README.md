@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-23** — opened issue [#20538](https://github.com/gradle/gradle/issues/20538) on [gradle/gradle](https://github.com/gradle/gradle): "Configuration cache has unexpected behavior with "
+
 **2022-04-22** — deleted branch `z/thermalsUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-22** — merged PR [#7](https://github.com/slackhq/slack-gradle-plugin/pull/7) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Unify thermals watching API"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-22** — opened PR [#8](https://github.com/slackhq/slack-gradle-plugin/pull/8) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove duplicate OOM error arg"
 
 **2022-04-22** — created branch `z/dupeOOM` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-21** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1105657859) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
