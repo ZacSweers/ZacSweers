@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-25** — opened issue [#15](https://github.com/paug/AndroidMakersApp-iOS/issues/15) on [paug/AndroidMakersApp-iOS](https://github.com/paug/AndroidMakersApp-iOS): "App crashes on launch after crashing during session viewing"
+
 **2022-04-23** — created branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-23** — created branch `z/removeCanIDropJetifier` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-22** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1106700027) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2022-04-22** — deleted branch `z/dupeOOM` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-22** — merged PR [#8](https://github.com/slackhq/slack-gradle-plugin/pull/8) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove duplicate OOM error arg"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
