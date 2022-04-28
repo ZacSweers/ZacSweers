@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-28** — commented on [#1244](https://github.com/square/kotlinpoet/issues/1244#issuecomment-1112705182) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-04-28** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-28** — merged PR [#259](https://github.com/ZacSweers/MoshiX/pull/259) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.6.21"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-28** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-25** — opened issue [#15](https://github.com/paug/AndroidMakersApp-iOS/issues/15) on [paug/AndroidMakersApp-iOS](https://github.com/paug/AndroidMakersApp-iOS): "App crashes on launch after crashing during session viewing"
-
-**2022-04-23** — created branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
