@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-28** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-04-28** — merged PR [#259](https://github.com/ZacSweers/MoshiX/pull/259) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.6.21"
+
+**2022-04-28** — deleted branch `renovate/org.jetbrains.kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-04-28** — merged PR [#258](https://github.com/ZacSweers/MoshiX/pull/258) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update org.jetbrains.kotlin to v1.6.21"
+
+**2022-04-28** — merged PR [#261](https://github.com/ZacSweers/MoshiX/pull/261) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.6.21"
+
+**2022-04-28** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-04-28** — merged PR [#260](https://github.com/ZacSweers/MoshiX/pull/260) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.1"
+
+**2022-04-28** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-04-25** — opened issue [#15](https://github.com/paug/AndroidMakersApp-iOS/issues/15) on [paug/AndroidMakersApp-iOS](https://github.com/paug/AndroidMakersApp-iOS): "App crashes on launch after crashing during session viewing"
 
 **2022-04-23** — created branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-23** — created branch `z/removeCanIDropJetifier` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-23** — opened issue [#20538](https://github.com/gradle/gradle/issues/20538) on [gradle/gradle](https://github.com/gradle/gradle): "Configuration cache has unexpected behavior with "
-
-**2022-04-22** — deleted branch `z/thermalsUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-22** — merged PR [#7](https://github.com/slackhq/slack-gradle-plugin/pull/7) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Unify thermals watching API"
-
-**2022-04-22** — commented on [#1533](https://github.com/square/moshi/issues/1533#issuecomment-1106713574) in [square/moshi](https://github.com/square/moshi)
-
-**2022-04-22** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1106701619) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-04-22** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1106700027) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-04-22** — deleted branch `z/dupeOOM` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
