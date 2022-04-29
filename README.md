@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-29** — commented on [#1244](https://github.com/square/kotlinpoet/issues/1244#issuecomment-1113607333) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-04-29** — closed issue [#262](https://github.com/ZacSweers/MoshiX/issues/262) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kapt support dropped?"
 
 **2022-04-29** — commented on [#262](https://github.com/ZacSweers/MoshiX/issues/262#issuecomment-1113323631) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-28** — deleted branch `renovate/org.jetbrains.kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-28** — merged PR [#258](https://github.com/ZacSweers/MoshiX/pull/258) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update org.jetbrains.kotlin to v1.6.21"
-
-**2022-04-28** — merged PR [#261](https://github.com/ZacSweers/MoshiX/pull/261) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.6.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
