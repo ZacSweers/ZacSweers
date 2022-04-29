@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-29** — commented on [#1244](https://github.com/square/kotlinpoet/issues/1244#issuecomment-1113247920) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-04-28** — commented on [#1244](https://github.com/square/kotlinpoet/issues/1244#issuecomment-1112705182) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-04-28** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-28** — merged PR [#260](https://github.com/ZacSweers/MoshiX/pull/260) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.1"
 
 **2022-04-28** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-25** — opened issue [#15](https://github.com/paug/AndroidMakersApp-iOS/issues/15) on [paug/AndroidMakersApp-iOS](https://github.com/paug/AndroidMakersApp-iOS): "App crashes on launch after crashing during session viewing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
