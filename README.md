@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-04-30** — commented on [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14#issuecomment-1114003515) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-04-30** — opened PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
+
+**2022-04-30** — created branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-04-30** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-04-30** — closed PR [#264](https://github.com/ZacSweers/MoshiX/pull/264) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin ksp to v1.6.21-1.0.5"
+
+**2022-04-30** — deleted branch `z/updates` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-04-30** — merged PR [#263](https://github.com/ZacSweers/MoshiX/pull/263) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin (in CI) and KSP"
+
 **2022-04-30** — deleted branch `renovate/com.google.devtools.ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-30** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-04-30** — closed PR [#251](https://github.com/ZacSweers/MoshiX/pull/251) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin ksp to v1.6.20-1.0.5"
-
-**2022-04-30** — closed PR [#250](https://github.com/ZacSweers/MoshiX/pull/250) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update com.google.devtools.ksp to v1.6.21-1.0.5"
-
-**2022-04-30** — opened PR [#263](https://github.com/ZacSweers/MoshiX/pull/263) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin (in CI) and KSP"
-
-**2022-04-30** — created branch `z/updates` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-30** — opened PR [#13](https://github.com/slackhq/slack-gradle-plugin/pull/13) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate Renovate for dependencies"
-
-**2022-04-30** — created branch `z/renovate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-30** — opened PR [#12](https://github.com/slackhq/slack-gradle-plugin/pull/12) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Wire refs"
-
-**2022-04-30** — created branch `z/removeWireRefs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
