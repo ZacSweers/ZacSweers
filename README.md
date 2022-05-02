@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-02** — created branch `main` on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
+
+**2022-05-02** — created repository on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
+
 **2022-04-30** — deleted branch `z/removeWireRefs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-30** — merged PR [#12](https://github.com/slackhq/slack-gradle-plugin/pull/12) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Wire refs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-30** — created branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-30** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-04-30** — closed PR [#264](https://github.com/ZacSweers/MoshiX/pull/264) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin ksp to v1.6.21-1.0.5"
-
-**2022-04-30** — deleted branch `z/updates` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
