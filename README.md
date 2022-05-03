@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-02** — deleted branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
+
 **2022-05-02** — created branch `main` on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
 
 **2022-05-02** — created repository on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-30** — opened PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
 
 **2022-04-30** — created branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-30** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
