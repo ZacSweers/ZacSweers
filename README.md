@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-03** — deleted branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-03** — merged PR [#15](https://github.com/slackhq/slack-gradle-plugin/pull/15) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update various dependencies"
+
+**2022-05-03** — deleted branch `z/fixLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-03** — merged PR [#16](https://github.com/slackhq/slack-gradle-plugin/pull/16) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple bugs in modscore"
+
 **2022-05-03** — opened PR [#16](https://github.com/slackhq/slack-gradle-plugin/pull/16) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple bugs in modscore"
 
 **2022-05-03** — created branch `z/fixLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-03** — commented on [#1536](https://github.com/square/moshi/issues/1536#issuecomment-1115853195) in [square/moshi](https://github.com/square/moshi)
 
 **2022-05-02** — deleted branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
-
-**2022-05-02** — created branch `main` on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
-
-**2022-05-02** — created repository on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
-
-**2022-04-30** — deleted branch `z/removeWireRefs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-30** — merged PR [#12](https://github.com/slackhq/slack-gradle-plugin/pull/12) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Wire refs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
