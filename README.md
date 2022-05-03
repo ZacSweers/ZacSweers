@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-03** — closed issue [#1536](https://github.com/square/moshi/issues/1536) on [square/moshi](https://github.com/square/moshi): "Adapter for platform value class is not picked up"
+
+**2022-05-03** — commented on [#1536](https://github.com/square/moshi/issues/1536#issuecomment-1115853195) in [square/moshi](https://github.com/square/moshi)
+
 **2022-05-02** — deleted branch `z/additionalTestApks` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
 
 **2022-05-02** — created branch `main` on [ZacSweers/akibstool](https://github.com/ZacSweers/akibstool)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-30** — merged PR [#13](https://github.com/slackhq/slack-gradle-plugin/pull/13) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate Renovate for dependencies"
 
 **2022-04-30** — commented on [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14#issuecomment-1114003515) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-30** — opened PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
-
-**2022-04-30** — created branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
