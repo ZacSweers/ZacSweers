@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-03** — opened PR [#16](https://github.com/slackhq/slack-gradle-plugin/pull/16) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple bugs in modscore"
+
+**2022-05-03** — created branch `z/fixLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-03** — opened PR [#15](https://github.com/slackhq/slack-gradle-plugin/pull/15) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update various dependencies"
 
 **2022-05-03** — closed issue [#1536](https://github.com/square/moshi/issues/1536) on [square/moshi](https://github.com/square/moshi): "Adapter for platform value class is not picked up"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-04-30** — deleted branch `z/removeWireRefs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-04-30** — merged PR [#12](https://github.com/slackhq/slack-gradle-plugin/pull/12) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Wire refs"
-
-**2022-04-30** — deleted branch `z/renovate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-04-30** — merged PR [#13](https://github.com/slackhq/slack-gradle-plugin/pull/13) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate Renovate for dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
