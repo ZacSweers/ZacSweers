@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-03** — deleted branch `z/configureLibsToo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-03** — merged PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
+
+**2022-05-03** — deleted branch `z/removeCanIDropJetifier` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-03** — merged PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
+
 **2022-05-03** — commented on [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14#issuecomment-1116430751) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-03** — opened PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-03** — deleted branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-03** — merged PR [#15](https://github.com/slackhq/slack-gradle-plugin/pull/15) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update various dependencies"
-
-**2022-05-03** — deleted branch `z/fixLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — merged PR [#16](https://github.com/slackhq/slack-gradle-plugin/pull/16) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple bugs in modscore"
-
-**2022-05-03** — opened PR [#16](https://github.com/slackhq/slack-gradle-plugin/pull/16) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple bugs in modscore"
-
-**2022-05-03** — created branch `z/fixLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
