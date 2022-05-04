@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-04** — merged PR [#265](https://github.com/ZacSweers/MoshiX/pull/265) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.2"
+
 **2022-05-03** — deleted branch `z/configureLibsToo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-03** — merged PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-03** — opened PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
 
 **2022-05-03** — created branch `z/configureLibsToo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — deleted branch `z/updateKtFmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — merged PR [#15](https://github.com/slackhq/slack-gradle-plugin/pull/15) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update various dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
