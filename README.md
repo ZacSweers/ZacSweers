@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-05** — created branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-04** — merged PR [#265](https://github.com/ZacSweers/MoshiX/pull/265) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-03** — opened PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
 
 **2022-05-03** — opened PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
-
-**2022-05-03** — created branch `z/configureLibsToo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
