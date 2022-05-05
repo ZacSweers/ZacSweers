@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-05** — opened issue [#2271](https://github.com/square/wire/issues/2271) on [square/wire](https://github.com/square/wire): "Gradle plugin is incompatible with Kotlin 1.7.0-Beta"
+
 **2022-05-05** — opened issue [#208](https://github.com/runningcode/gradle-doctor/issues/208) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Incompatible with Kotlin 1.7"
 
 **2022-05-05** — deleted branch `z/fixIntelThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-05** — created branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-04** — merged PR [#265](https://github.com/ZacSweers/MoshiX/pull/265) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
