@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-05** — commented on [#1537](https://github.com/square/moshi/issues/1537#issuecomment-1118977538) in [square/moshi](https://github.com/square/moshi)
+
+**2022-05-05** — closed issue [#1537](https://github.com/square/moshi/issues/1537) on [square/moshi](https://github.com/square/moshi): "@FilterNulls in Kotlin not excluding null in list"
+
 **2022-05-05** — created branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-03** — merged PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
 
 **2022-05-03** — commented on [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14#issuecomment-1116430751) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — opened PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
-
-**2022-05-03** — opened PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
