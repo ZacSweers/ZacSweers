@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-05** — opened issue [#208](https://github.com/runningcode/gradle-doctor/issues/208) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Incompatible with Kotlin 1.7"
+
+**2022-05-05** — deleted branch `z/fixIntelThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-05** — merged PR [#19](https://github.com/slackhq/slack-gradle-plugin/pull/19) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix intel thermals"
+
+**2022-05-05** — opened PR [#19](https://github.com/slackhq/slack-gradle-plugin/pull/19) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix intel thermals"
+
+**2022-05-05** — created branch `z/fixIntelThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-05** — commented on [#1537](https://github.com/square/moshi/issues/1537#issuecomment-1118977538) in [square/moshi](https://github.com/square/moshi)
 
 **2022-05-05** — closed issue [#1537](https://github.com/square/moshi/issues/1537) on [square/moshi](https://github.com/square/moshi): "@FilterNulls in Kotlin not excluding null in list"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-04** — merged PR [#265](https://github.com/ZacSweers/MoshiX/pull/265) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.5.2"
-
-**2022-05-03** — deleted branch `z/configureLibsToo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — merged PR [#17](https://github.com/slackhq/slack-gradle-plugin/pull/17) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Configure default build types in libraries too"
-
-**2022-05-03** — deleted branch `z/removeCanIDropJetifier` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-03** — merged PR [#18](https://github.com/slackhq/slack-gradle-plugin/pull/18) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove canIDropJetifier"
-
-**2022-05-03** — commented on [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14#issuecomment-1116430751) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
