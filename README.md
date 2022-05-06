@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-06** — opened issue [#659](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/659) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Consider treating KMP dependencies as implicit bundles"
+
 **2022-05-05** — opened issue [#658](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/658) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Kotlin Android project with jvmTarget 11 still sees kotlin-stdlib suggested"
 
 **2022-05-05** — opened issue [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Android assets are not accounted for"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-05** — created branch `z/fixIntelThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-05** — commented on [#1537](https://github.com/square/moshi/issues/1537#issuecomment-1118977538) in [square/moshi](https://github.com/square/moshi)
-
-**2022-05-05** — closed issue [#1537](https://github.com/square/moshi/issues/1537) on [square/moshi](https://github.com/square/moshi): "@FilterNulls in Kotlin not excluding null in list"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
