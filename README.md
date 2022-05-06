@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-05** — opened issue [#658](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/658) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Kotlin Android project with jvmTarget 11 still sees kotlin-stdlib suggested"
+
+**2022-05-05** — opened issue [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Android assets are not accounted for"
+
 **2022-05-05** — opened issue [#2271](https://github.com/square/wire/issues/2271) on [square/wire](https://github.com/square/wire): "Gradle plugin is incompatible with Kotlin 1.7.0-Beta"
 
 **2022-05-05** — opened issue [#208](https://github.com/runningcode/gradle-doctor/issues/208) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Incompatible with Kotlin 1.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-05** — commented on [#1537](https://github.com/square/moshi/issues/1537#issuecomment-1118977538) in [square/moshi](https://github.com/square/moshi)
 
 **2022-05-05** — closed issue [#1537](https://github.com/square/moshi/issues/1537) on [square/moshi](https://github.com/square/moshi): "@FilterNulls in Kotlin not excluding null in list"
-
-**2022-05-05** — created branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
