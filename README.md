@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-07** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1120273628) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2022-05-07** — merged PR [#466](https://github.com/uber/AutoDispose/pull/466) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode support kotlin lambda/when/if expressions"
+
 **2022-05-06** — deleted branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-06** — merged PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-05** — opened issue [#658](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/658) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Kotlin Android project with jvmTarget 11 still sees kotlin-stdlib suggested"
 
 **2022-05-05** — opened issue [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Android assets are not accounted for"
-
-**2022-05-05** — opened issue [#2271](https://github.com/square/wire/issues/2271) on [square/wire](https://github.com/square/wire): "Gradle plugin is incompatible with Kotlin 1.7.0-Beta"
-
-**2022-05-05** — opened issue [#208](https://github.com/runningcode/gradle-doctor/issues/208) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Incompatible with Kotlin 1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
