@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-09** — deleted branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-05-09** — merged PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
+
+**2022-05-09** — opened PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
+
+**2022-05-09** — created branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2022-05-07** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1120273628) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2022-05-07** — merged PR [#466](https://github.com/uber/AutoDispose/pull/466) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode support kotlin lambda/when/if expressions"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-06** — opened issue [#664](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/664) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Declared styleable attributes not accounted for"
 
 **2022-05-06** — commented on [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657#issuecomment-1120016797) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2022-05-06** — opened issue [#662](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/662) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Consider introducing "preferredIdentifier" to bundles"
-
-**2022-05-06** — opened issue [#659](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/659) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Consider treating KMP dependencies as implicit bundles"
-
-**2022-05-05** — opened issue [#658](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/658) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Kotlin Android project with jvmTarget 11 still sees kotlin-stdlib suggested"
-
-**2022-05-05** — opened issue [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Android assets are not accounted for"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
