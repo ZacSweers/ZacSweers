@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-10** — deleted branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-10** — merged PR [#20](https://github.com/slackhq/slack-gradle-plugin/pull/20) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to DAGP 1.2.0"
+
+**2022-05-10** — opened PR [#20](https://github.com/slackhq/slack-gradle-plugin/pull/20) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to DAGP 1.2.0"
+
+**2022-05-10** — created branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-10** — commented on [#659](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/659#issuecomment-1122705446) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2022-05-09** — deleted branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-09** — created branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-05-07** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1120273628) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-05-07** — merged PR [#466](https://github.com/uber/AutoDispose/pull/466) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode support kotlin lambda/when/if expressions"
-
-**2022-05-06** — deleted branch `z/depAnalysis1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-06** — merged PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
-
-**2022-05-06** — opened issue [#664](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/664) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Declared styleable attributes not accounted for"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
