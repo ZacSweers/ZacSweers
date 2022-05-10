@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-10** — commented on [#659](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/659#issuecomment-1122705446) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2022-05-09** — deleted branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-05-09** — merged PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-06** — merged PR [#14](https://github.com/slackhq/slack-gradle-plugin/pull/14) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upgrade to dependency analysis plugin 1.0"
 
 **2022-05-06** — opened issue [#664](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/664) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Declared styleable attributes not accounted for"
-
-**2022-05-06** — commented on [#657](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/657#issuecomment-1120016797) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
