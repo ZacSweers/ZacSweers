@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-12** — opened PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
+
+**2022-05-12** — created branch `z/updates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-12** — opened PR [#669](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/669) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Add a trailing space for path linkifying"
+
 **2022-05-12** — opened PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
 
 **2022-05-12** — created branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-10** — created branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-10** — commented on [#659](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/659#issuecomment-1122705446) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2022-05-09** — deleted branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-05-09** — merged PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
-
-**2022-05-09** — opened PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
