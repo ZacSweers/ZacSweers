@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-12** — opened PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
+
+**2022-05-12** — created branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-10** — deleted branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-10** — merged PR [#20](https://github.com/slackhq/slack-gradle-plugin/pull/20) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to DAGP 1.2.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-09** — merged PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
 
 **2022-05-09** — opened PR [#21](https://github.com/slackhq/slack-lints/pull/21) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for sealed interfaces in MoshiUsageDetector"
-
-**2022-05-09** — created branch `z/sealedInterfaces` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-05-07** — commented on [#466](https://github.com/uber/AutoDispose/pull/466#issuecomment-1120273628) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
