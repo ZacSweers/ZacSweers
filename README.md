@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126409770) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126353460) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-13** — opened issue [#20779](https://github.com/gradle/gradle/issues/20779) on [gradle/gradle](https://github.com/gradle/gradle): "ArtifactCollection.getResolvedArtifacts() is not compatible with configuration cache if combined with artifact views"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-12** — opened PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
 
 **2022-05-12** — created branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-10** — deleted branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
