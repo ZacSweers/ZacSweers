@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-13** — commented on [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23#issuecomment-1126579159) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-13** — opened issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
+
+**2022-05-13** — opened PR [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 7.5-rc-1"
+
 **2022-05-13** — commented on [#20785](https://github.com/gradle/gradle/issues/20785#issuecomment-1126545525) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126533218) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-13** — opened issue [#20779](https://github.com/gradle/gradle/issues/20779) on [gradle/gradle](https://github.com/gradle/gradle): "ArtifactCollection.getResolvedArtifacts() is not compatible with configuration cache if combined with artifact views"
 
 **2022-05-13** — commented on [#18729](https://github.com/gradle/gradle/pull/18729#issuecomment-1126271107) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-12** — created branch `z/gradle75Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-12** — opened PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
-
-**2022-05-12** — created branch `z/updates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
