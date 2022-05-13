@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-13** — commented on [#18729](https://github.com/gradle/gradle/pull/18729#issuecomment-1126271107) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-05-12** — created branch `z/gradle75Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-12** — opened PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-10** — merged PR [#20](https://github.com/slackhq/slack-gradle-plugin/pull/20) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to DAGP 1.2.0"
 
 **2022-05-10** — opened PR [#20](https://github.com/slackhq/slack-gradle-plugin/pull/20) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to DAGP 1.2.0"
-
-**2022-05-10** — created branch `z/dagp120` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
