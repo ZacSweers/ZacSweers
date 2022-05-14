@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-14** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1126783020) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-14** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-14** — merged PR [#267](https://github.com/ZacSweers/MoshiX/pull/267) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-13** — closed issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
 
 **2022-05-13** — commented on [#20787](https://github.com/gradle/gradle/issues/20787#issuecomment-1126582749) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-13** — commented on [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23#issuecomment-1126579159) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
