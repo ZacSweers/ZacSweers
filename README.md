@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-14** — created branch `z/codegenMoshi` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
 **2022-05-14** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1126783020) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-14** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-13** — created branch `z/gradle75` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-05-13** — closed issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
-
-**2022-05-13** — commented on [#20787](https://github.com/gradle/gradle/issues/20787#issuecomment-1126582749) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
