@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-14** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-14** — merged PR [#267](https://github.com/ZacSweers/MoshiX/pull/267) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.0"
+
+**2022-05-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-14** — merged PR [#268](https://github.com/ZacSweers/MoshiX/pull/268) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.6.1"
+
 **2022-05-14** — commented on [#18729](https://github.com/gradle/gradle/pull/18729#issuecomment-1126660880) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-13** — opened PR [#103](https://github.com/slackhq/keeper/pull/103) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to gradle 7.5-rc-1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-13** — commented on [#20787](https://github.com/gradle/gradle/issues/20787#issuecomment-1126582749) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-13** — commented on [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23#issuecomment-1126579159) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-13** — opened issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
-
-**2022-05-13** — opened PR [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 7.5-rc-1"
-
-**2022-05-13** — commented on [#20785](https://github.com/gradle/gradle/issues/20785#issuecomment-1126545525) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126533218) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
