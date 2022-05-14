@@ -4,25 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-14** — merged PR [#1249](https://github.com/square/kotlinpoet/pull/1249) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "use %N instead of %L for annotation arg names so keywords are handled"
+
+**2022-05-14** — commented on [#1249](https://github.com/square/kotlinpoet/pull/1249#issuecomment-1126811042) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-05-14** — commented on [#201](https://github.com/Kotlin/kotlinx-datetime/issues/201#issuecomment-1126810987) in [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)
+
+**2022-05-14** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-14** — merged PR [#266](https://github.com/ZacSweers/MoshiX/pull/266) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.11.0"
+
+**2022-05-14** — opened PR [#673](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/673) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Use code gen for moshi adapters instead of reflection"
+
 **2022-05-14** — created branch `z/codegenMoshi` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
-
-**2022-05-14** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1126783020) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-14** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-14** — merged PR [#267](https://github.com/ZacSweers/MoshiX/pull/267) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.0"
-
-**2022-05-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-14** — merged PR [#268](https://github.com/ZacSweers/MoshiX/pull/268) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.6.1"
-
-**2022-05-14** — commented on [#18729](https://github.com/gradle/gradle/pull/18729#issuecomment-1126660880) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-13** — opened PR [#103](https://github.com/slackhq/keeper/pull/103) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to gradle 7.5-rc-1"
-
-**2022-05-13** — created branch `z/gradle75` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-05-13** — closed issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
