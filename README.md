@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-13** — opened PR [#103](https://github.com/slackhq/keeper/pull/103) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to gradle 7.5-rc-1"
+
+**2022-05-13** — created branch `z/gradle75` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-05-13** — closed issue [#20787](https://github.com/gradle/gradle/issues/20787) on [gradle/gradle](https://github.com/gradle/gradle): "ProviderFactory#exec in 7.5-rc-1 fails with simple args input"
 
 **2022-05-13** — commented on [#20787](https://github.com/gradle/gradle/issues/20787#issuecomment-1126582749) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126533218) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-13** — opened issue [#20785](https://github.com/gradle/gradle/issues/20785) on [gradle/gradle](https://github.com/gradle/gradle): "`ResolvedArtifactResult` cannot be fingerprinted when there are outputs in 7.5-rc-1"
-
-**2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126409770) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-13** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1126353460) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
