@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-15** — opened PR [#24](https://github.com/slackhq/slack-gradle-plugin/pull/24) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Kotlin 1.7.0-Beta prep"
+
 **2022-05-15** — deleted branch `z/gradle75Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-15** — merged PR [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 7.5-rc-1"
