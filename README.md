@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-15** — deleted branch `z/gradle75Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-15** — merged PR [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 7.5-rc-1"
+
 **2022-05-14** — merged PR [#1249](https://github.com/square/kotlinpoet/pull/1249) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "use %N instead of %L for annotation arg names so keywords are handled"
 
 **2022-05-14** — commented on [#1249](https://github.com/square/kotlinpoet/pull/1249#issuecomment-1126811042) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -13,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-14** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-14** — merged PR [#266](https://github.com/ZacSweers/MoshiX/pull/266) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.11.0"
-
-**2022-05-14** — opened PR [#673](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/673) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Use code gen for moshi adapters instead of reflection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
