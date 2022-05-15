@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-14** — merged PR [#266](https://github.com/ZacSweers/MoshiX/pull/266) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.11.0"
 
 **2022-05-14** — opened PR [#673](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/673) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Use code gen for moshi adapters instead of reflection"
-
-**2022-05-14** — created branch `z/codegenMoshi` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
