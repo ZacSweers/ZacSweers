@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-15** — commented on [#103](https://github.com/slackhq/keeper/pull/103#issuecomment-1127188168) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-05-15** — deleted branch `z/codegenMoshi` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
 
 **2022-05-15** — commented on [#673](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/673#issuecomment-1126987243) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-14** — commented on [#201](https://github.com/Kotlin/kotlinx-datetime/issues/201#issuecomment-1126810987) in [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)
 
 **2022-05-14** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-14** — merged PR [#266](https://github.com/ZacSweers/MoshiX/pull/266) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
