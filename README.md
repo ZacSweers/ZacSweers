@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-16** — opened issue [#1213](https://github.com/diffplug/spotless/issues/1213) on [diffplug/spotless](https://github.com/diffplug/spotless): "6.6.1 locks configurations"
+
 **2022-05-16** — deleted branch `z/updates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-16** — merged PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-16** — commented on [#27](https://github.com/dropbox/focus/pull/27#issuecomment-1128102226) in [dropbox/focus](https://github.com/dropbox/focus)
 
 **2022-05-16** — opened PR [#27](https://github.com/dropbox/focus/pull/27) to [dropbox/focus](https://github.com/dropbox/focus): "Add focusSettingsFile option to configure output location of generated settings file"
-
-**2022-05-16** — created branch `z/focusSettingsFile` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
