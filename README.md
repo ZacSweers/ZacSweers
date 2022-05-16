@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-16** — opened PR [#25](https://github.com/slackhq/slack-gradle-plugin/pull/25) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing output file config"
+
+**2022-05-16** — created branch `z/missingOutput` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-16** — closed issue [#1251](https://github.com/square/kotlinpoet/issues/1251) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Create annotationSpec from annotation"
 
 **2022-05-15** — commented on [#103](https://github.com/slackhq/keeper/pull/103#issuecomment-1127188168) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-15** — merged PR [#23](https://github.com/slackhq/slack-gradle-plugin/pull/23) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 7.5-rc-1"
 
 **2022-05-14** — merged PR [#1249](https://github.com/square/kotlinpoet/pull/1249) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "use %N instead of %L for annotation arg names so keywords are handled"
-
-**2022-05-14** — commented on [#1249](https://github.com/square/kotlinpoet/pull/1249#issuecomment-1126811042) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-05-14** — commented on [#201](https://github.com/Kotlin/kotlinx-datetime/issues/201#issuecomment-1126810987) in [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
