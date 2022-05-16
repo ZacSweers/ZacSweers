@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-16** — deleted branch `z/updates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-16** — merged PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
+
+**2022-05-16** — deleted branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-16** — merged PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
+
+**2022-05-16** — deleted branch `z/missingOutput` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-16** — merged PR [#25](https://github.com/slackhq/slack-gradle-plugin/pull/25) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing output file config"
+
 **2022-05-16** — commented on [#27](https://github.com/dropbox/focus/pull/27#issuecomment-1128103307) in [dropbox/focus](https://github.com/dropbox/focus)
 
 **2022-05-16** — commented on [#27](https://github.com/dropbox/focus/pull/27#issuecomment-1128102226) in [dropbox/focus](https://github.com/dropbox/focus)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-16** — opened PR [#27](https://github.com/dropbox/focus/pull/27) to [dropbox/focus](https://github.com/dropbox/focus): "Add focusSettingsFile option to configure output location of generated settings file"
 
 **2022-05-16** — created branch `z/focusSettingsFile` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
-
-**2022-05-16** — opened PR [#25](https://github.com/slackhq/slack-gradle-plugin/pull/25) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing output file config"
-
-**2022-05-16** — created branch `z/missingOutput` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-16** — closed issue [#1251](https://github.com/square/kotlinpoet/issues/1251) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Create annotationSpec from annotation"
-
-**2022-05-15** — commented on [#103](https://github.com/slackhq/keeper/pull/103#issuecomment-1127188168) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-05-15** — deleted branch `z/codegenMoshi` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
-
-**2022-05-15** — commented on [#673](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/673#issuecomment-1126987243) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
