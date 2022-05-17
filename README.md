@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-17** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1129350947) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-05-17** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1129332836) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-05-16** — deleted branch `z/focusSettingsFile` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-16** — deleted branch `z/missingOutput` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-16** — merged PR [#25](https://github.com/slackhq/slack-gradle-plugin/pull/25) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing output file config"
-
-**2022-05-16** — commented on [#27](https://github.com/dropbox/focus/pull/27#issuecomment-1128103307) in [dropbox/focus](https://github.com/dropbox/focus)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
