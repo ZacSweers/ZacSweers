@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-18** — opened PR [#22](https://github.com/slackhq/slack-lints/pull/22) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint versions and target latest"
+
+**2022-05-18** — created branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2022-05-17** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1129350947) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-05-17** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1129332836) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-16** — deleted branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-16** — merged PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
-
-**2022-05-16** — deleted branch `z/missingOutput` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-16** — merged PR [#25](https://github.com/slackhq/slack-gradle-plugin/pull/25) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing output file config"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
