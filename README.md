@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-18** — opened PR [#27](https://github.com/slackhq/slack-gradle-plugin/pull/27) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AndroidSourcesConfigurer to allow per-repo overrides + default to compileSdk"
+
+**2022-05-18** — created branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-18** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1130313379) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-05-18** — opened PR [#22](https://github.com/slackhq/slack-lints/pull/22) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint versions and target latest"
 
 **2022-05-18** — created branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-16** — opened issue [#1213](https://github.com/diffplug/spotless/issues/1213) on [diffplug/spotless](https://github.com/diffplug/spotless): "6.6.1 locks configurations"
 
 **2022-05-16** — deleted branch `z/updates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-16** — merged PR [#22](https://github.com/slackhq/slack-gradle-plugin/pull/22) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update a few dependencies + apply dependency analysis advice"
-
-**2022-05-16** — deleted branch `z/sqldelight2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-16** — merged PR [#21](https://github.com/slackhq/slack-gradle-plugin/pull/21) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for sqldelight 2 in mod stats"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
