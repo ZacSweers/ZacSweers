@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-19** — deleted branch `patch-1` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
+
+**2022-05-19** — opened PR [#28](https://github.com/dropbox/focus/pull/28) to [dropbox/focus](https://github.com/dropbox/focus): "Fix KGP dependency configuration"
+
 **2022-05-19** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1131774878) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-18** — deleted branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-05-18** — merged PR [#22](https://github.com/slackhq/slack-lints/pull/22) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint versions and target latest"
-
-**2022-05-18** — opened PR [#27](https://github.com/slackhq/slack-gradle-plugin/pull/27) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AndroidSourcesConfigurer to allow per-repo overrides + default to compileSdk"
-
-**2022-05-18** — created branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
