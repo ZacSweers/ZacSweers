@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-19** — merged PR [#269](https://github.com/ZacSweers/MoshiX/pull/269) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.0"
+
 **2022-05-18** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1131169773) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-05-18** — deleted branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-18** — created branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-18** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1130313379) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-18** — opened PR [#22](https://github.com/slackhq/slack-lints/pull/22) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint versions and target latest"
-
-**2022-05-18** — created branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
