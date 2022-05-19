@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-18** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1131169773) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-05-18** — deleted branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-18** — merged PR [#27](https://github.com/slackhq/slack-gradle-plugin/pull/27) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AndroidSourcesConfigurer to allow per-repo overrides + default to compileSdk"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-18** — opened PR [#22](https://github.com/slackhq/slack-lints/pull/22) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint versions and target latest"
 
 **2022-05-18** — created branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-05-17** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1129350947) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
