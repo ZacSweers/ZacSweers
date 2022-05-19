@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-19** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1131774878) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-19** — merged PR [#269](https://github.com/ZacSweers/MoshiX/pull/269) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-18** — opened PR [#27](https://github.com/slackhq/slack-gradle-plugin/pull/27) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AndroidSourcesConfigurer to allow per-repo overrides + default to compileSdk"
 
 **2022-05-18** — created branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-18** — commented on [#20779](https://github.com/gradle/gradle/issues/20779#issuecomment-1130313379) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
