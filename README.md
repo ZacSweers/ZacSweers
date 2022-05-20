@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-20** — opened PR [#2274](https://github.com/square/wire/pull/2274) to [square/wire](https://github.com/square/wire): "Two small Kotlin 1.7 compatability bits"
+
+**2022-05-20** — created branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
+**2022-05-20** — opened PR [#2273](https://github.com/square/wire/pull/2273) to [square/wire](https://github.com/square/wire): "Use reflection for KotlinCompile.source() invocations"
+
+**2022-05-20** — created branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
 **2022-05-20** — commented on [#270](https://github.com/ZacSweers/MoshiX/issues/270#issuecomment-1133280524) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-20** — deleted branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-20** — created branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-20** — commented on [#1213](https://github.com/diffplug/spotless/issues/1213#issuecomment-1133182160) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-05-20** — opened PR [#212](https://github.com/runningcode/gradle-doctor/pull/212) to [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Remove deleted kapt API"
-
-**2022-05-19** — deleted branch `patch-1` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
-
-**2022-05-19** — opened PR [#28](https://github.com/dropbox/focus/pull/28) to [dropbox/focus](https://github.com/dropbox/focus): "Fix KGP dependency configuration"
-
-**2022-05-19** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1131774878) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
