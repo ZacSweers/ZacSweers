@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-20** — deleted branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-20** — merged PR [#28](https://github.com/slackhq/slack-gradle-plugin/pull/28) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Predeclare spotless deps instead"
+
+**2022-05-20** — opened PR [#28](https://github.com/slackhq/slack-gradle-plugin/pull/28) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Predeclare spotless deps instead"
+
+**2022-05-20** — created branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-20** — commented on [#1213](https://github.com/diffplug/spotless/issues/1213#issuecomment-1133182160) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2022-05-20** — opened PR [#212](https://github.com/runningcode/gradle-doctor/pull/212) to [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Remove deleted kapt API"
 
 **2022-05-19** — deleted branch `patch-1` on [ZacSweers/focus](https://github.com/ZacSweers/focus)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-19** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1131774878) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-19** — merged PR [#269](https://github.com/ZacSweers/MoshiX/pull/269) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.0"
-
-**2022-05-18** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1131169773) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-05-18** — deleted branch `z/updateConfiguredCompileSdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-18** — merged PR [#27](https://github.com/slackhq/slack-gradle-plugin/pull/27) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AndroidSourcesConfigurer to allow per-repo overrides + default to compileSdk"
-
-**2022-05-18** — deleted branch `z/updateLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
