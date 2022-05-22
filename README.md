@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-22** — opened issue [#4853](https://github.com/detekt/detekt/issues/4853) on [detekt/detekt](https://github.com/detekt/detekt): "Support ignoreAnnotated in ArrayPrimitive rule"
+
 **2022-05-22** — commented on [#1255](https://github.com/square/kotlinpoet/pull/1255#issuecomment-1133954979) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-05-22** — merged PR [#1255](https://github.com/square/kotlinpoet/pull/1255) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix KDoc link"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-20** — created branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 
 **2022-05-20** — commented on [#270](https://github.com/ZacSweers/MoshiX/issues/270#issuecomment-1133280524) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-20** — deleted branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
