@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-22** — commented on [#1255](https://github.com/square/kotlinpoet/pull/1255#issuecomment-1133954979) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-05-22** — merged PR [#1255](https://github.com/square/kotlinpoet/pull/1255) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix KDoc link"
+
 **2022-05-22** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133900734) in [detekt/detekt](https://github.com/detekt/detekt)
 
 **2022-05-21** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133791877) in [detekt/detekt](https://github.com/detekt/detekt)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-20** — commented on [#270](https://github.com/ZacSweers/MoshiX/issues/270#issuecomment-1133280524) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-20** — deleted branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-20** — merged PR [#28](https://github.com/slackhq/slack-gradle-plugin/pull/28) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Predeclare spotless deps instead"
-
-**2022-05-20** — opened PR [#28](https://github.com/slackhq/slack-gradle-plugin/pull/28) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Predeclare spotless deps instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
