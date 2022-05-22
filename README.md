@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-21** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133791877) in [detekt/detekt](https://github.com/detekt/detekt)
+
 **2022-05-20** — opened PR [#2274](https://github.com/square/wire/pull/2274) to [square/wire](https://github.com/square/wire): "Two small Kotlin 1.7 compatability bits"
 
 **2022-05-20** — created branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-20** — opened PR [#28](https://github.com/slackhq/slack-gradle-plugin/pull/28) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Predeclare spotless deps instead"
 
 **2022-05-20** — created branch `z/predeclare` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-20** — commented on [#1213](https://github.com/diffplug/spotless/issues/1213#issuecomment-1133182160) in [diffplug/spotless](https://github.com/diffplug/spotless)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
