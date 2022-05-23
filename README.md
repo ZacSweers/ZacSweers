@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2022-05-23** — [You Are Not Blocked](https://www.zacsweers.dev/you-are-not-blocked/)
+
 **2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 
 **2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-05-01** — [Dagger Party Tricks: Extension Functions](https://www.zacsweers.dev/dagger-party-tricks-extension-functions/)
 
 **2020-04-03** — [Making My WFH Life Bearable](https://www.zacsweers.dev/making-wfh-life-bearable/)
-
-**2020-03-16** — [Android's Built-in ProGuard Rules: The Missing Guide](https://www.zacsweers.dev/android-proguard-rules/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
