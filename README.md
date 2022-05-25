@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-25** — deleted branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
+**2022-05-25** — deleted branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
 **2022-05-25** — closed issue [#20849](https://github.com/gradle/gradle/issues/20849) on [gradle/gradle](https://github.com/gradle/gradle): "It's not possible to safely use ExecOperations in a ValueSource without invalidating configuration cache"
 
 **2022-05-25** — commented on [#20849](https://github.com/gradle/gradle/issues/20849#issuecomment-1136707116) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-24** — closed issue [#4853](https://github.com/detekt/detekt/issues/4853) on [detekt/detekt](https://github.com/detekt/detekt): "Support ignoreAnnotated in ArrayPrimitive rule"
 
 **2022-05-24** — commented on [#4853](https://github.com/detekt/detekt/issues/4853#issuecomment-1136642162) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-05-24** — commented on [#20785](https://github.com/gradle/gradle/issues/20785#issuecomment-1136641597) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-24** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1136640105) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
