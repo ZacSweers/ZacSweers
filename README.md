@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-24** — commented on [#187](https://github.com/ZacSweers/MoshiX/issues/187#issuecomment-1136640105) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-24** — opened PR [#32](https://github.com/slackhq/slack-gradle-plugin/pull/32) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermals logs if currently cleaning"
 
 **2022-05-24** — created branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-22** — commented on [#1255](https://github.com/square/kotlinpoet/pull/1255#issuecomment-1133954979) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-05-22** — merged PR [#1255](https://github.com/square/kotlinpoet/pull/1255) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix KDoc link"
-
-**2022-05-22** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133900734) in [detekt/detekt](https://github.com/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
