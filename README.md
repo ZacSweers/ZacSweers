@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-25** — merged PR [#271](https://github.com/ZacSweers/MoshiX/pull/271) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.1"
+
+**2022-05-25** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-25** — deleted branch `z/tagGEVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-25** — merged PR [#33](https://github.com/slackhq/slack-gradle-plugin/pull/33) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add gradle enterprise version to build scans if present"
+
 **2022-05-25** — deleted branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-25** — merged PR [#32](https://github.com/slackhq/slack-gradle-plugin/pull/32) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermals logs if currently cleaning"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-25** — deleted branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 
 **2022-05-25** — closed issue [#20849](https://github.com/gradle/gradle/issues/20849) on [gradle/gradle](https://github.com/gradle/gradle): "It's not possible to safely use ExecOperations in a ValueSource without invalidating configuration cache"
-
-**2022-05-25** — commented on [#20849](https://github.com/gradle/gradle/issues/20849#issuecomment-1136707116) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-25** — opened PR [#33](https://github.com/slackhq/slack-gradle-plugin/pull/33) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add gradle enterprise version to build scans if present"
-
-**2022-05-25** — created branch `z/tagGEVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-24** — commented on [#31](https://github.com/slackhq/slack-gradle-plugin/pull/31#issuecomment-1136660275) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
