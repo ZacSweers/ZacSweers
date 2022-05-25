@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-25** — deleted branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-25** — merged PR [#32](https://github.com/slackhq/slack-gradle-plugin/pull/32) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermals logs if currently cleaning"
+
+**2022-05-25** — closed issue [#29](https://github.com/slackhq/slack-gradle-plugin/issues/29) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermlogs in clean tasks"
+
 **2022-05-25** — deleted branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 
 **2022-05-25** — deleted branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-25** — created branch `z/tagGEVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-24** — commented on [#31](https://github.com/slackhq/slack-gradle-plugin/pull/31#issuecomment-1136660275) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-24** — opened issue [#20849](https://github.com/gradle/gradle/issues/20849) on [gradle/gradle](https://github.com/gradle/gradle): "It's not possible to safely use ExecOperations in a ValueSource"
-
-**2022-05-24** — closed issue [#4853](https://github.com/detekt/detekt/issues/4853) on [detekt/detekt](https://github.com/detekt/detekt): "Support ignoreAnnotated in ArrayPrimitive rule"
-
-**2022-05-24** — commented on [#4853](https://github.com/detekt/detekt/issues/4853#issuecomment-1136642162) in [detekt/detekt](https://github.com/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
