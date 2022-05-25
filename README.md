@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-25** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-1137722625) in [gradle/gradle](https://github.com/gradle/gradle)
+
+**2022-05-25** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-1137709505) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-05-25** — merged PR [#271](https://github.com/ZacSweers/MoshiX/pull/271) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.1"
 
 **2022-05-25** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-25** — closed issue [#29](https://github.com/slackhq/slack-gradle-plugin/issues/29) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermlogs in clean tasks"
 
 **2022-05-25** — deleted branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
-
-**2022-05-25** — deleted branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
-
-**2022-05-25** — closed issue [#20849](https://github.com/gradle/gradle/issues/20849) on [gradle/gradle](https://github.com/gradle/gradle): "It's not possible to safely use ExecOperations in a ValueSource without invalidating configuration cache"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
