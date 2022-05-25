@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-24** — opened PR [#32](https://github.com/slackhq/slack-gradle-plugin/pull/32) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermals logs if currently cleaning"
+
+**2022-05-24** — created branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-24** — opened PR [#31](https://github.com/slackhq/slack-gradle-plugin/pull/31) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use a custom `ValueSource` to avoid unnecessary configuration cache invalidations"
+
+**2022-05-24** — created branch `z_` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-05-24** — opened issue [#30](https://github.com/slackhq/slack-gradle-plugin/issues/30) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Git status changes affect configuration cache"
 
 **2022-05-24** — opened issue [#29](https://github.com/slackhq/slack-gradle-plugin/issues/29) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermlogs in clean tasks"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-22** — merged PR [#1255](https://github.com/square/kotlinpoet/pull/1255) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix KDoc link"
 
 **2022-05-22** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133900734) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-05-21** — commented on [#4731](https://github.com/detekt/detekt/issues/4731#issuecomment-1133791877) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-05-20** — opened PR [#2274](https://github.com/square/wire/pull/2274) to [square/wire](https://github.com/square/wire): "Two small Kotlin 1.7 compatability bits"
-
-**2022-05-20** — created branch `z/otherKotlin17Bits` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
-
-**2022-05-20** — opened PR [#2273](https://github.com/square/wire/pull/2273) to [square/wire](https://github.com/square/wire): "Use reflection for KotlinCompile.source() invocations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
