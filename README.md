@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-26** — opened PR [#34](https://github.com/slackhq/slack-gradle-plugin/pull/34) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eager .matching callbacks"
+
+**2022-05-26** — created branch `z/matchingIssues` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-26** — commented on [#4863](https://github.com/detekt/detekt/issues/4863#issuecomment-1138874248) in [detekt/detekt](https://github.com/detekt/detekt)
+
+**2022-05-26** — opened issue [#4863](https://github.com/detekt/detekt/issues/4863) on [detekt/detekt](https://github.com/detekt/detekt): "MagicNumber rule should not be enforced in kotlin script files"
+
 **2022-05-26** — deleted branch `z_` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-26** — merged PR [#31](https://github.com/slackhq/slack-gradle-plugin/pull/31) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use a custom `ValueSource` to avoid unnecessary configuration cache invalidations"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-25** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-1137709505) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-25** — merged PR [#271](https://github.com/ZacSweers/MoshiX/pull/271) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.1"
-
-**2022-05-25** — deleted branch `renovate/com.android.tools.build-gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-25** — deleted branch `z/tagGEVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-25** — merged PR [#33](https://github.com/slackhq/slack-gradle-plugin/pull/33) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add gradle enterprise version to build scans if present"
-
-**2022-05-25** — deleted branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
