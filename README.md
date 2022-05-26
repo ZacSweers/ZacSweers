@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-26** — deleted branch `z_` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-26** — merged PR [#31](https://github.com/slackhq/slack-gradle-plugin/pull/31) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use a custom `ValueSource` to avoid unnecessary configuration cache invalidations"
+
+**2022-05-26** — closed issue [#30](https://github.com/slackhq/slack-gradle-plugin/issues/30) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Git status changes affect configuration cache"
+
 **2022-05-25** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-1137722625) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-05-25** — commented on [#16543](https://github.com/gradle/gradle/issues/16543#issuecomment-1137709505) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-25** — merged PR [#33](https://github.com/slackhq/slack-gradle-plugin/pull/33) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add gradle enterprise version to build scans if present"
 
 **2022-05-25** — deleted branch `z/noBuildWritesInClean` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-25** — merged PR [#32](https://github.com/slackhq/slack-gradle-plugin/pull/32) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermals logs if currently cleaning"
-
-**2022-05-25** — closed issue [#29](https://github.com/slackhq/slack-gradle-plugin/issues/29) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't write thermlogs in clean tasks"
-
-**2022-05-25** — deleted branch `z/kotlin17Support` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
