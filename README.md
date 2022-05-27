@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-27** — commented on [#272](https://github.com/ZacSweers/MoshiX/pull/272#issuecomment-1140079580) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-27** — deleted branch `z/fixSetOf` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-27** — merged PR [#273](https://github.com/ZacSweers/MoshiX/pull/273) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix setOf lookups"
+
+**2022-05-27** — opened PR [#273](https://github.com/ZacSweers/MoshiX/pull/273) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix setOf lookups"
+
+**2022-05-27** — created branch `z/fixSetOf` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-27** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140076571) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
+
+**2022-05-27** — opened PR [#272](https://github.com/ZacSweers/MoshiX/pull/272) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR sealed subclasses prototype"
+
+**2022-05-27** — created branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-27** — deleted branch `patch-4` on [ZacSweers/gradle-doctor](https://github.com/ZacSweers/gradle-doctor)
 
 **2022-05-26** — commented on [#4863](https://github.com/detekt/detekt/issues/4863#issuecomment-1139111275) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-05-26** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-1139100030) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-05-26** — merged PR [#34](https://github.com/slackhq/slack-gradle-plugin/pull/34) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eager .matching callbacks"
-
-**2022-05-26** — deleted branch `z/matchingIssues` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-26** — opened PR [#34](https://github.com/slackhq/slack-gradle-plugin/pull/34) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eager .matching callbacks"
-
-**2022-05-26** — created branch `z/matchingIssues` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-26** — commented on [#4863](https://github.com/detekt/detekt/issues/4863#issuecomment-1138874248) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-05-26** — opened issue [#4863](https://github.com/detekt/detekt/issues/4863) on [detekt/detekt](https://github.com/detekt/detekt): "MagicNumber rule should not be enforced in kotlin script files"
-
-**2022-05-26** — deleted branch `z_` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
