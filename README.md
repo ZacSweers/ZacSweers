@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-27** — created tag `0.17.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-27** — commented on [#272](https://github.com/ZacSweers/MoshiX/pull/272#issuecomment-1140079580) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-27** — deleted branch `z/fixSetOf` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-27** — created branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-27** — deleted branch `patch-4` on [ZacSweers/gradle-doctor](https://github.com/ZacSweers/gradle-doctor)
-
-**2022-05-26** — commented on [#4863](https://github.com/detekt/detekt/issues/4863#issuecomment-1139111275) in [detekt/detekt](https://github.com/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
