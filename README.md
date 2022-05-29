@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140497015) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
+
+**2022-05-29** — deleted branch `z/removeDescriptors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-29** — merged PR [#274](https://github.com/ZacSweers/MoshiX/pull/274) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove descriptor APIs in IR"
+
+**2022-05-29** — opened PR [#274](https://github.com/ZacSweers/MoshiX/pull/274) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove descriptor APIs in IR"
+
+**2022-05-29** — created branch `z/removeDescriptors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140494755) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
+
 **2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140376255) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
 
 **2022-05-27** — deleted branch `z/updateDeps` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-27** — merged PR [#35](https://github.com/slackhq/slack-gradle-plugin/pull/35) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencies"
 
 **2022-05-27** — opened PR [#35](https://github.com/slackhq/slack-gradle-plugin/pull/35) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencies"
-
-**2022-05-27** — created branch `z/updateDeps` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-27** — created tag `0.17.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-27** — commented on [#272](https://github.com/ZacSweers/MoshiX/pull/272#issuecomment-1140079580) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-27** — deleted branch `z/fixSetOf` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-27** — merged PR [#273](https://github.com/ZacSweers/MoshiX/pull/273) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix setOf lookups"
-
-**2022-05-27** — opened PR [#273](https://github.com/ZacSweers/MoshiX/pull/273) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix setOf lookups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
