@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-30** — opened issue [#228](https://github.com/google/play-services-plugins/issues/228) on [google/play-services-plugins](https://github.com/google/play-services-plugins): "Google Services Plugin disables execution optimizations for resource merging due to implicit dependency"
+
 **2022-05-29** — deleted branch `z/ktfmtBits` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-29** — merged PR [#275](https://github.com/ZacSweers/MoshiX/pull/275) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Ktfmt cleanup"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-29** — opened PR [#37](https://github.com/slackhq/slack-gradle-plugin/pull/37) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make SGP more reusable"
 
 **2022-05-29** — created branch `z/reusability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140497015) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
