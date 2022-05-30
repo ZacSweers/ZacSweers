@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-29** — deleted branch `z/ktfmtBits` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-29** — merged PR [#275](https://github.com/ZacSweers/MoshiX/pull/275) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Ktfmt cleanup"
+
+**2022-05-29** — opened PR [#275](https://github.com/ZacSweers/MoshiX/pull/275) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Ktfmt cleanup"
+
+**2022-05-29** — created branch `z/ktfmtBits` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-29** — opened issue [#322](https://github.com/facebookincubator/ktfmt/issues/322) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Consider formatting partial files"
+
+**2022-05-29** — commented on [#321](https://github.com/facebookincubator/ktfmt/issues/321#issuecomment-1140571404) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
+
+**2022-05-29** — opened issue [#321](https://github.com/facebookincubator/ktfmt/issues/321) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "There are no `*-with-dependencies` jar artifacts getting uploaded to releases"
+
 **2022-05-29** — opened PR [#37](https://github.com/slackhq/slack-gradle-plugin/pull/37) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make SGP more reusable"
 
 **2022-05-29** — created branch `z/reusability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140497015) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
-
-**2022-05-29** — deleted branch `z/removeDescriptors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-29** — merged PR [#274](https://github.com/ZacSweers/MoshiX/pull/274) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove descriptor APIs in IR"
-
-**2022-05-29** — opened PR [#274](https://github.com/ZacSweers/MoshiX/pull/274) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove descriptor APIs in IR"
-
-**2022-05-29** — created branch `z/removeDescriptors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140494755) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
-
-**2022-05-29** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1140376255) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
-
-**2022-05-27** — deleted branch `z/updateDeps` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
