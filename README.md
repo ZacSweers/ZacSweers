@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-31** — commented on [#36](https://github.com/dropbox/dependency-guard/pull/36#issuecomment-1141658094) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+
+**2022-05-31** — opened PR [#36](https://github.com/dropbox/dependency-guard/pull/36) to [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Don't apply the LifecycleBasePlugin if already applied"
+
+**2022-05-31** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-31** — merged PR [#277](https://github.com/ZacSweers/MoshiX/pull/277) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.23.0"
+
 **2022-05-30** — opened issue [#20873](https://github.com/gradle/gradle/issues/20873) on [gradle/gradle](https://github.com/gradle/gradle): "Configuration cache should have a way to exclude known ignorable properties"
 
 **2022-05-30** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1141495634) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-29** — merged PR [#275](https://github.com/ZacSweers/MoshiX/pull/275) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Ktfmt cleanup"
 
 **2022-05-29** — opened PR [#275](https://github.com/ZacSweers/MoshiX/pull/275) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Ktfmt cleanup"
-
-**2022-05-29** — created branch `z/ktfmtBits` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-29** — opened issue [#322](https://github.com/facebookincubator/ktfmt/issues/322) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Consider formatting partial files"
-
-**2022-05-29** — commented on [#321](https://github.com/facebookincubator/ktfmt/issues/321#issuecomment-1140571404) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
-
-**2022-05-29** — opened issue [#321](https://github.com/facebookincubator/ktfmt/issues/321) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "There are no `*-with-dependencies` jar artifacts getting uploaded to releases"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
