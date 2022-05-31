@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-31** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1142516844) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
+
+**2022-05-31** — deleted branch `z/logicFix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-31** — merged PR [#38](https://github.com/slackhq/slack-gradle-plugin/pull/38) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix hamcrest dep logic"
+
+**2022-05-31** — opened PR [#38](https://github.com/slackhq/slack-gradle-plugin/pull/38) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix hamcrest dep logic"
+
+**2022-05-31** — created branch `z/logicFix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-05-31** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-05-31** — merged PR [#278](https://github.com/ZacSweers/MoshiX/pull/278) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.23.1"
+
 **2022-05-31** — merged PR [#37](https://github.com/slackhq/slack-gradle-plugin/pull/37) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make SGP more reusable"
 
 **2022-05-31** — deleted branch `z/reusability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-05-31** — commented on [#36](https://github.com/dropbox/dependency-guard/pull/36#issuecomment-1141658094) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
-
-**2022-05-31** — opened PR [#36](https://github.com/dropbox/dependency-guard/pull/36) to [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Don't apply the LifecycleBasePlugin if already applied"
-
-**2022-05-31** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-31** — merged PR [#277](https://github.com/ZacSweers/MoshiX/pull/277) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.23.0"
-
-**2022-05-30** — opened issue [#20873](https://github.com/gradle/gradle/issues/20873) on [gradle/gradle](https://github.com/gradle/gradle): "Configuration cache should have a way to exclude known ignorable properties"
-
-**2022-05-30** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1141495634) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-30** — opened issue [#228](https://github.com/google/play-services-plugins/issues/228) on [google/play-services-plugins](https://github.com/google/play-services-plugins): "Google Services Plugin disables execution optimizations for resource merging due to implicit dependency"
-
-**2022-05-29** — deleted branch `z/ktfmtBits` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
