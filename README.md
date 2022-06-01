@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-01** — commented on [#80](https://github.com/ZacSweers/redacted-compiler-plugin/issues/80#issuecomment-1143977211) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-01** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1143969891) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-01** — opened PR [#81](https://github.com/ZacSweers/redacted-compiler-plugin/pull/81) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.7 support"
 
 **2022-06-01** — created branch `z/kotlin17` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-01** — closed issue [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin reflection "annotations" does not include information on redacted annotation, as AnnotationRetention is not Runtime"
 
 **2022-05-31** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1143065525) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-31** — merged PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
-
-**2022-05-31** — deleted branch `z/moreReuse` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
