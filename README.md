@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-05-31** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1143065525) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-05-31** — merged PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
 
 **2022-05-31** — deleted branch `z/moreReuse` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-31** — created branch `z/kotlin170` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-31** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1142516844) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
-
-**2022-05-31** — deleted branch `z/logicFix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
