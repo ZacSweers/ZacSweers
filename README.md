@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-01** — opened PR [#81](https://github.com/ZacSweers/redacted-compiler-plugin/pull/81) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.7 support"
+
+**2022-06-01** — created branch `z/kotlin17` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-01** — opened issue [#80](https://github.com/ZacSweers/redacted-compiler-plugin/issues/80) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.7.0 support"
+
+**2022-06-01** — opened issue [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274) on [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "1.4.9-alpha01 depends on a kotlin-compiler-embeddable snapshot"
+
 **2022-06-01** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-1143878121) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-06-01** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1143877847) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-31** — merged PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
 
 **2022-05-31** — deleted branch `z/moreReuse` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-31** — closed issue [#270](https://github.com/ZacSweers/MoshiX/issues/270) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Plugin with id 'dev.zacsweers.moshix' not found."
-
-**2022-05-31** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1142777533) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-31** — opened PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
-
-**2022-05-31** — created branch `z/moreReuse` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
