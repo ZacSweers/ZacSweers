@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-01** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-1143878121) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-01** — commented on [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79#issuecomment-1143877847) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-01** — closed issue [#79](https://github.com/ZacSweers/redacted-compiler-plugin/issues/79) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin reflection "annotations" does not include information on redacted annotation, as AnnotationRetention is not Runtime"
+
 **2022-05-31** — commented on [#276](https://github.com/ZacSweers/MoshiX/issues/276#issuecomment-1143065525) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-05-31** — merged PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-31** — opened PR [#39](https://github.com/slackhq/slack-gradle-plugin/pull/39) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add detekt configs + document auto-applied plugins"
 
 **2022-05-31** — created branch `z/moreReuse` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-05-31** — opened PR [#279](https://github.com/ZacSweers/MoshiX/pull/279) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Test Kotlin 1.7.0-RC"
-
-**2022-05-31** — created branch `z/kotlin170` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-05-31** — commented on [#71](https://github.com/JetBrains-Research/reflekt/issues/71#issuecomment-1142516844) in [JetBrains-Research/reflekt](https://github.com/JetBrains-Research/reflekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
