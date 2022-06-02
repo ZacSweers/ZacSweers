@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-02** — opened PR [#606](https://github.com/square/anvil/pull/606) to [square/anvil](https://github.com/square/anvil): "Demo full kotlin build on 1.7"
+
+**2022-06-02** — created branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2022-06-02** — opened PR [#605](https://github.com/square/anvil/pull/605) to [square/anvil](https://github.com/square/anvil): "Use public isErrorType API for resolving error type checks"
+
+**2022-06-02** — created branch `z/kotlin17ErrorType` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-06-02** — deleted branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-06-02** — merged PR [#40](https://github.com/slackhq/slack-gradle-plugin/pull/40) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix spotless applications"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-02** — closed PR [#1226](https://github.com/diffplug/spotless/pull/1226) to [diffplug/spotless](https://github.com/diffplug/spotless): "Don't redundantly apply BasePlugin"
 
 **2022-06-02** — commented on [#1226](https://github.com/diffplug/spotless/pull/1226#issuecomment-1144440423) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-06-02** — commented on [#40](https://github.com/slackhq/slack-gradle-plugin/pull/40#issuecomment-1144438421) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-06-02** — opened PR [#40](https://github.com/slackhq/slack-gradle-plugin/pull/40) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix spotless applications"
-
-**2022-06-02** — created branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-06-02** — commented on [#324](https://github.com/facebookincubator/ktfmt/issues/324#issuecomment-1144430898) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
