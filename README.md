@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-02** — commented on [#1213](https://github.com/diffplug/spotless/issues/1213#issuecomment-1145187296) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2022-06-02** — opened PR [#606](https://github.com/square/anvil/pull/606) to [square/anvil](https://github.com/square/anvil): "Demo full kotlin build on 1.7"
 
 **2022-06-02** — created branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-02** — deleted branch `patch-1` on [ZacSweers/spotless](https://github.com/ZacSweers/spotless)
 
 **2022-06-02** — closed PR [#1226](https://github.com/diffplug/spotless/pull/1226) to [diffplug/spotless](https://github.com/diffplug/spotless): "Don't redundantly apply BasePlugin"
-
-**2022-06-02** — commented on [#1226](https://github.com/diffplug/spotless/pull/1226#issuecomment-1144440423) in [diffplug/spotless](https://github.com/diffplug/spotless)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
