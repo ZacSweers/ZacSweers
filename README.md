@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-06** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-1147054034) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2022-06-04** — opened issue [#791](https://github.com/google/google-java-format/issues/791) on [google/google-java-format](https://github.com/google/google-java-format): "IntelliJ: com.intellij.psi.PsiInvalidElementAccessException: Element class com.intellij.psi.impl.source.tree.CompositeElement of type REFERENCE_EXPRESSION "
 
 **2022-06-02** — commented on [#235](https://github.com/facebookincubator/ktfmt/issues/235#issuecomment-1145380115) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-02** — deleted branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-06-02** — merged PR [#40](https://github.com/slackhq/slack-gradle-plugin/pull/40) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix spotless applications"
-
-**2022-06-02** — commented on [#20873](https://github.com/gradle/gradle/issues/20873#issuecomment-1144446440) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
