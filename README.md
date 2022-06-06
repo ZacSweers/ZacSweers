@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-06** — closed issue [#579](https://github.com/square/moshi/issues/579) on [square/moshi](https://github.com/square/moshi): "@Json is ignored when proguarding"
+
+**2022-06-06** — commented on [#579](https://github.com/square/moshi/issues/579#issuecomment-1147088483) in [square/moshi](https://github.com/square/moshi)
+
 **2022-06-06** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-1147054034) in [diffplug/spotless](https://github.com/diffplug/spotless)
 
 **2022-06-04** — opened issue [#791](https://github.com/google/google-java-format/issues/791) on [google/google-java-format](https://github.com/google/google-java-format): "IntelliJ: com.intellij.psi.PsiInvalidElementAccessException: Element class com.intellij.psi.impl.source.tree.CompositeElement of type REFERENCE_EXPRESSION "
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-02** — opened PR [#605](https://github.com/square/anvil/pull/605) to [square/anvil](https://github.com/square/anvil): "Use public isErrorType API for resolving error type checks"
 
 **2022-06-02** — created branch `z/kotlin17ErrorType` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2022-06-02** — deleted branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-06-02** — merged PR [#40](https://github.com/slackhq/slack-gradle-plugin/pull/40) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix spotless applications"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
