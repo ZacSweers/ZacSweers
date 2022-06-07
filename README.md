@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-07** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1148618820) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+
 **2022-06-06** — closed issue [#579](https://github.com/square/moshi/issues/579) on [square/moshi](https://github.com/square/moshi): "@Json is ignored when proguarding"
 
 **2022-06-06** — commented on [#579](https://github.com/square/moshi/issues/579#issuecomment-1147088483) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-02** — created branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2022-06-02** — opened PR [#605](https://github.com/square/anvil/pull/605) to [square/anvil](https://github.com/square/anvil): "Use public isErrorType API for resolving error type checks"
-
-**2022-06-02** — created branch `z/kotlin17ErrorType` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
