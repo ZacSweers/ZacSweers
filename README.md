@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-07** — created tag `0.4.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2022-06-07** — deleted branch `z/tryCatch` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2022-06-07** — merged PR [#35](https://github.com/slackhq/moshi-gson-interop/pull/35) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Try/catch getField in EnumClassChecker"
+
+**2022-06-07** — merged PR [#41](https://github.com/slackhq/slack-gradle-plugin/pull/41) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove gradle enterprise `configureBuildTags.kt#addTestSystemProperties`"
+
+**2022-06-07** — opened PR [#35](https://github.com/slackhq/moshi-gson-interop/pull/35) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Try/catch getField in EnumClassChecker"
+
+**2022-06-07** — created branch `z/tryCatch` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
 **2022-06-07** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1148618820) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 
 **2022-06-06** — closed issue [#579](https://github.com/square/moshi/issues/579) on [square/moshi](https://github.com/square/moshi): "@Json is ignored when proguarding"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-06** — commented on [#579](https://github.com/square/moshi/issues/579#issuecomment-1147088483) in [square/moshi](https://github.com/square/moshi)
 
 **2022-06-06** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-1147054034) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-06-04** — opened issue [#791](https://github.com/google/google-java-format/issues/791) on [google/google-java-format](https://github.com/google/google-java-format): "IntelliJ: com.intellij.psi.PsiInvalidElementAccessException: Element class com.intellij.psi.impl.source.tree.CompositeElement of type REFERENCE_EXPRESSION "
-
-**2022-06-02** — commented on [#235](https://github.com/facebookincubator/ktfmt/issues/235#issuecomment-1145380115) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
-
-**2022-06-02** — commented on [#1213](https://github.com/diffplug/spotless/issues/1213#issuecomment-1145187296) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2022-06-02** — opened PR [#606](https://github.com/square/anvil/pull/606) to [square/anvil](https://github.com/square/anvil): "Demo full kotlin build on 1.7"
-
-**2022-06-02** — created branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2022-06-02** — opened PR [#605](https://github.com/square/anvil/pull/605) to [square/anvil](https://github.com/square/anvil): "Use public isErrorType API for resolving error type checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
