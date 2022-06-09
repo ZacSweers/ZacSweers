@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-06-07** — created tag `0.4.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2022-06-09** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-06-07** — deleted branch `z/tryCatch` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2022-06-09** — merged PR [#282](https://github.com/ZacSweers/MoshiX/pull/282) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.38"
 
-**2022-06-07** — merged PR [#35](https://github.com/slackhq/moshi-gson-interop/pull/35) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Try/catch getField in EnumClassChecker"
+**2022-06-09** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-06-07** — merged PR [#41](https://github.com/slackhq/slack-gradle-plugin/pull/41) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove gradle enterprise `configureBuildTags.kt#addTestSystemProperties`"
+**2022-06-09** — merged PR [#280](https://github.com/ZacSweers/MoshiX/pull/280) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.20.0"
 
-**2022-06-07** — opened PR [#35](https://github.com/slackhq/moshi-gson-interop/pull/35) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Try/catch getField in EnumClassChecker"
+**2022-06-09** — deleted branch `z/kotlin170` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-06-07** — created branch `z/tryCatch` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2022-06-09** — merged PR [#279](https://github.com/ZacSweers/MoshiX/pull/279) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.0 prep"
 
-**2022-06-07** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1148618820) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+**2022-06-09** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-06-06** — closed issue [#579](https://github.com/square/moshi/issues/579) on [square/moshi](https://github.com/square/moshi): "@Json is ignored when proguarding"
+**2022-06-09** — merged PR [#281](https://github.com/ZacSweers/MoshiX/pull/281) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.0"
 
-**2022-06-06** — commented on [#579](https://github.com/square/moshi/issues/579#issuecomment-1147088483) in [square/moshi](https://github.com/square/moshi)
+**2022-06-09** — closed PR [#288](https://github.com/ZacSweers/MoshiX/pull/288) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.0"
 
-**2022-06-06** — commented on [#834](https://github.com/diffplug/spotless/issues/834#issuecomment-1147054034) in [diffplug/spotless](https://github.com/diffplug/spotless)
+**2022-06-09** — closed PR [#287](https://github.com/ZacSweers/MoshiX/pull/287) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
