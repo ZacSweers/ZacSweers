@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-09** — deleted branch `z/kotlin17ErrorType` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-06-09** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-09** — merged PR [#282](https://github.com/ZacSweers/MoshiX/pull/282) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.38"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-09** — merged PR [#281](https://github.com/ZacSweers/MoshiX/pull/281) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.0"
 
 **2022-06-09** — closed PR [#288](https://github.com/ZacSweers/MoshiX/pull/288) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.0"
-
-**2022-06-09** — closed PR [#287](https://github.com/ZacSweers/MoshiX/pull/287) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
