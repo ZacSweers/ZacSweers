@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-10** — created tag `1.1.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-10** — deleted tag `1.7.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-06-10** — created branch `z/kspFinal` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-09** — deleted branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2022-06-09** — commented on [#4854](https://github.com/JetBrains/kotlin/pull/4854#issuecomment-1151639848) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-09** — merged PR [#282](https://github.com/ZacSweers/MoshiX/pull/282) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.38"
 
 **2022-06-09** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-09** — merged PR [#280](https://github.com/ZacSweers/MoshiX/pull/280) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.20.0"
-
-**2022-06-09** — deleted branch `z/kotlin170` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-09** — merged PR [#279](https://github.com/ZacSweers/MoshiX/pull/279) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.0 prep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
