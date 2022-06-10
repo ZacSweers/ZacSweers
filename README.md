@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-10** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1152442526) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-06-10** — commented on [#290](https://github.com/ZacSweers/MoshiX/issues/290#issuecomment-1152438710) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-10** — deleted branch `patch-2` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
+
 **2022-06-10** — created tag `1.1.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-06-10** — deleted tag `1.7.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-09** — opened PR [#4854](https://github.com/JetBrains/kotlin/pull/4854) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix wrong replacement name for Enum.declaringClass"
 
 **2022-06-09** — deleted branch `z/kotlin17ErrorType` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2022-06-09** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-09** — merged PR [#282](https://github.com/ZacSweers/MoshiX/pull/282) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.38"
-
-**2022-06-09** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
