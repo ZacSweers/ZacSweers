@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-09** — deleted branch `z/kotlin17builds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-06-09** — commented on [#4854](https://github.com/JetBrains/kotlin/pull/4854#issuecomment-1151639848) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2022-06-09** — opened PR [#4854](https://github.com/JetBrains/kotlin/pull/4854) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix wrong replacement name for Enum.declaringClass"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-09** — deleted branch `z/kotlin170` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-09** — merged PR [#279](https://github.com/ZacSweers/MoshiX/pull/279) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.0 prep"
-
-**2022-06-09** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
