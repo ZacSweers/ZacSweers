@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-10** — merged PR [#292](https://github.com/ZacSweers/MoshiX/pull/292) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.1"
+
+**2022-06-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-10** — deleted branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-06-10** — merged PR [#24](https://github.com/slackhq/slack-gradle-plugin/pull/24) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Kotlin 1.7.0 prep"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-10** — deleted branch `z/kspFinal` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-10** — opened PR [#291](https://github.com/ZacSweers/MoshiX/pull/291) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "KSP 1.7.0-1.0.6 final"
-
-**2022-06-10** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1152442526) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-06-10** — commented on [#290](https://github.com/ZacSweers/MoshiX/issues/290#issuecomment-1152438710) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
