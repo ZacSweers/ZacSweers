@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-11** — commented on [#35](https://github.com/facebookincubator/ktfmt/issues/35#issuecomment-1152992342) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
+
+**2022-06-11** — commented on [#14138](https://github.com/renovatebot/renovate/issues/14138#issuecomment-1152988879) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+
+**2022-06-11** — created tag `0.18.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-11** — deleted branch `z/keepAdaptedBy` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-11** — merged PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-10** — opened PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
 
 **2022-06-10** — created branch `z/keepAdaptedBy` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-10** — merged PR [#292](https://github.com/ZacSweers/MoshiX/pull/292) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.1"
-
-**2022-06-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-10** — deleted branch `z/kotlin17Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
