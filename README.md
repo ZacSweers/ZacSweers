@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-11** — created branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
+
 **2022-06-11** — commented on [#35](https://github.com/facebookincubator/ktfmt/issues/35#issuecomment-1152992342) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
 
 **2022-06-11** — commented on [#14138](https://github.com/renovatebot/renovate/issues/14138#issuecomment-1152988879) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-10** — commented on [#280](https://github.com/tschuchortdev/kotlin-compile-testing/issues/280#issuecomment-1152732393) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-06-10** — opened PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
-
-**2022-06-10** — created branch `z/keepAdaptedBy` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
