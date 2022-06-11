@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-10** — deleted branch `z/gradle742` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-06-10** — merged PR [#52](https://github.com/slackhq/EitherNet/pull/52) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update gradle to 7.4.2.+ deps"
+
 **2022-06-10** — commented on [#280](https://github.com/tschuchortdev/kotlin-compile-testing/issues/280#issuecomment-1152732393) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-06-10** — opened PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-10** — merged PR [#24](https://github.com/slackhq/slack-gradle-plugin/pull/24) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Kotlin 1.7.0 prep"
 
 **2022-06-10** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-10** — closed PR [#289](https://github.com/ZacSweers/MoshiX/pull/289) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.0-1.0.6"
-
-**2022-06-10** — created tag `0.18.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
