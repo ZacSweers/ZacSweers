@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-12** — opened PR [#1262](https://github.com/square/kotlinpoet/pull/1262) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to Kotlin 1.7 + other deps"
+
+**2022-06-12** — created branch `z/depUpdates` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-11** — created branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
 
 **2022-06-11** — commented on [#35](https://github.com/facebookincubator/ktfmt/issues/35#issuecomment-1152992342) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-10** — deleted branch `z/gradle742` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-06-10** — merged PR [#52](https://github.com/slackhq/EitherNet/pull/52) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update gradle to 7.4.2.+ deps"
-
-**2022-06-10** — commented on [#280](https://github.com/tschuchortdev/kotlin-compile-testing/issues/280#issuecomment-1152732393) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-06-10** — opened PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
