@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-12** — deleted branch `z/depUpdates` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-06-12** — merged PR [#1262](https://github.com/square/kotlinpoet/pull/1262) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to Kotlin 1.7 + other deps"
+
 **2022-06-12** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-12** — merged PR [#295](https://github.com/ZacSweers/MoshiX/pull/295) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.10.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-12** — created branch `z/depUpdates` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-11** — created branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-11** — commented on [#35](https://github.com/facebookincubator/ktfmt/issues/35#issuecomment-1152992342) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
-
-**2022-06-11** — commented on [#14138](https://github.com/renovatebot/renovate/issues/14138#issuecomment-1152988879) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
