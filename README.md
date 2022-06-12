@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-12** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-12** — merged PR [#295](https://github.com/ZacSweers/MoshiX/pull/295) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.10.0"
+
+**2022-06-12** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-1153209821) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-06-12** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-12** — merged PR [#294](https://github.com/ZacSweers/MoshiX/pull/294) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-11** — commented on [#35](https://github.com/facebookincubator/ktfmt/issues/35#issuecomment-1152992342) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
 
 **2022-06-11** — commented on [#14138](https://github.com/renovatebot/renovate/issues/14138#issuecomment-1152988879) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-
-**2022-06-11** — created tag `0.18.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-11** — deleted branch `z/keepAdaptedBy` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-11** — merged PR [#293](https://github.com/ZacSweers/MoshiX/pull/293) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep AdaptedBy annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
