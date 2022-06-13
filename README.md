@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-13** — deleted branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
+
+**2022-06-13** — merged PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove redundant opt-in flags"
+
+**2022-06-13** — opened PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove "-opt-in=com.squareup.kotlinpoet.ksp.KotlinPoetKspPreview""
+
+**2022-06-13** — created branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
+
+**2022-06-13** — deleted branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
+
+**2022-06-13** — merged PR [#1543](https://github.com/square/moshi/pull/1543) to [square/moshi](https://github.com/square/moshi): "Update dependencies + Kotlin 1.7 + KotlinPoet 1.12.0"
+
+**2022-06-13** — opened PR [#1543](https://github.com/square/moshi/pull/1543) to [square/moshi](https://github.com/square/moshi): "Update dependencies + Kotlin 1.7 + KotlinPoet 1.12.0"
+
 **2022-06-13** — deleted branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-06-13** — merged PR [#283](https://github.com/ZacSweers/CatchUp/pull/283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update deps + enable CC"
 
 **2022-06-12** — deleted branch `z/kspPublic` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-12** — merged PR [#1263](https://github.com/square/kotlinpoet/pull/1263) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Promote KSP APIs to stable + integrate ABI validator"
-
-**2022-06-12** — opened PR [#1263](https://github.com/square/kotlinpoet/pull/1263) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Promote KSP APIs to stable + integrate ABI validator"
-
-**2022-06-12** — created branch `z/kspPublic` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-12** — deleted branch `z/depUpdates` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-12** — merged PR [#1262](https://github.com/square/kotlinpoet/pull/1262) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to Kotlin 1.7 + other deps"
-
-**2022-06-12** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
