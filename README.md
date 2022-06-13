@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-12** — deleted branch `z/kspPublic` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-06-12** — merged PR [#1263](https://github.com/square/kotlinpoet/pull/1263) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Promote KSP APIs to stable + integrate ABI validator"
+
 **2022-06-12** — opened PR [#1263](https://github.com/square/kotlinpoet/pull/1263) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Promote KSP APIs to stable + integrate ABI validator"
 
 **2022-06-12** — created branch `z/kspPublic` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-12** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-1153209821) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-06-12** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-12** — merged PR [#294](https://github.com/ZacSweers/MoshiX/pull/294) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.7.2"
-
-**2022-06-12** — opened PR [#1262](https://github.com/square/kotlinpoet/pull/1262) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to Kotlin 1.7 + other deps"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
