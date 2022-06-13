@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-13** — deleted branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-06-13** — merged PR [#283](https://github.com/ZacSweers/CatchUp/pull/283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update deps + enable CC"
+
 **2022-06-12** — deleted branch `z/kspPublic` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-12** — merged PR [#1263](https://github.com/square/kotlinpoet/pull/1263) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Promote KSP APIs to stable + integrate ABI validator"
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-12** — merged PR [#1262](https://github.com/square/kotlinpoet/pull/1262) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to Kotlin 1.7 + other deps"
 
 **2022-06-12** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-12** — merged PR [#295](https://github.com/ZacSweers/MoshiX/pull/295) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.10.0"
-
-**2022-06-12** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-1153209821) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
