@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-12** — merged PR [#295](https://github.com/ZacSweers/MoshiX/pull/295) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.10.0"
 
 **2022-06-12** — commented on [#16682](https://github.com/gradle/gradle/issues/16682#issuecomment-1153209821) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2022-06-12** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
