@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-14** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-14** — merged PR [#297](https://github.com/ZacSweers/MoshiX/pull/297) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v1.4.9"
+
 **2022-06-13** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-13** — merged PR [#296](https://github.com/ZacSweers/MoshiX/pull/296) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.12.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-13** — deleted branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
 
 **2022-06-13** — merged PR [#1543](https://github.com/square/moshi/pull/1543) to [square/moshi](https://github.com/square/moshi): "Update dependencies + Kotlin 1.7 + KotlinPoet 1.12.0"
-
-**2022-06-13** — opened PR [#1543](https://github.com/square/moshi/pull/1543) to [square/moshi](https://github.com/square/moshi): "Update dependencies + Kotlin 1.7 + KotlinPoet 1.12.0"
-
-**2022-06-13** — deleted branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
