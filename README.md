@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-14** — commented on [#298](https://github.com/ZacSweers/MoshiX/issues/298#issuecomment-1155170510) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-14** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-14** — merged PR [#300](https://github.com/ZacSweers/MoshiX/pull/300) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.1"
+
 **2022-06-14** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-14** — merged PR [#297](https://github.com/ZacSweers/MoshiX/pull/297) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v1.4.9"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-13** — merged PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove redundant opt-in flags"
 
 **2022-06-13** — opened PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove "-opt-in=com.squareup.kotlinpoet.ksp.KotlinPoetKspPreview""
-
-**2022-06-13** — created branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-13** — deleted branch `z/updateDeps` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-13** — merged PR [#1543](https://github.com/square/moshi/pull/1543) to [square/moshi](https://github.com/square/moshi): "Update dependencies + Kotlin 1.7 + KotlinPoet 1.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
