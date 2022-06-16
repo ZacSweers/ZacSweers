@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-16** — commented on [#299](https://github.com/ZacSweers/MoshiX/pull/299#issuecomment-1158253049) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-16** — merged PR [#302](https://github.com/ZacSweers/MoshiX/pull/302) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.5.0"
+
+**2022-06-16** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-16** — deleted branch `patch-1` on [ZacSweers/mavericks](https://github.com/ZacSweers/mavericks)
 
 **2022-06-16** — opened PR [#637](https://github.com/airbnb/mavericks/pull/637) to [airbnb/mavericks](https://github.com/airbnb/mavericks): "Fix double module in doc"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-15** — opened issue [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "MissingValueException for `javaCompiler` property with new `JdkImageWorkaround`"
 
 **2022-06-14** — commented on [#298](https://github.com/ZacSweers/MoshiX/issues/298#issuecomment-1155170510) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-14** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-14** — merged PR [#300](https://github.com/ZacSweers/MoshiX/pull/300) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.1"
-
-**2022-06-14** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
