@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-16** — deleted branch `patch-1` on [ZacSweers/mavericks](https://github.com/ZacSweers/mavericks)
+
+**2022-06-16** — opened PR [#637](https://github.com/airbnb/mavericks/pull/637) to [airbnb/mavericks](https://github.com/airbnb/mavericks): "Fix double module in doc"
+
 **2022-06-16** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-16** — merged PR [#301](https://github.com/ZacSweers/MoshiX/pull/301) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.39"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-14** — merged PR [#300](https://github.com/ZacSweers/MoshiX/pull/300) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.10.1"
 
 **2022-06-14** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-14** — merged PR [#297](https://github.com/ZacSweers/MoshiX/pull/297) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v1.4.9"
-
-**2022-06-13** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
