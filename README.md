@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-16** — commented on [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307#issuecomment-1157608585) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
+
 **2022-06-15** — opened issue [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "MissingValueException for `javaCompiler` property with new `JdkImageWorkaround`"
 
 **2022-06-14** — commented on [#298](https://github.com/ZacSweers/MoshiX/issues/298#issuecomment-1155170510) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-13** — merged PR [#296](https://github.com/ZacSweers/MoshiX/pull/296) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.12.0"
 
 **2022-06-13** — deleted branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-13** — merged PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove redundant opt-in flags"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
