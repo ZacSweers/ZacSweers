@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-16** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-16** — merged PR [#301](https://github.com/ZacSweers/MoshiX/pull/301) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.39"
+
 **2022-06-16** — commented on [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307#issuecomment-1157608585) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
 
 **2022-06-15** — opened issue [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "MissingValueException for `javaCompiler` property with new `JdkImageWorkaround`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-14** — merged PR [#297](https://github.com/ZacSweers/MoshiX/pull/297) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v1.4.9"
 
 **2022-06-13** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-13** — merged PR [#296](https://github.com/ZacSweers/MoshiX/pull/296) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.12.0"
-
-**2022-06-13** — deleted branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
