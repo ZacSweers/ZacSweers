@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-15** — opened issue [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "MissingValueException for `javaCompiler` property with new `JdkImageWorkaround`"
+
 **2022-06-14** — commented on [#298](https://github.com/ZacSweers/MoshiX/issues/298#issuecomment-1155170510) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-14** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-13** — deleted branch `z/removeKspPreview` on [square/moshi](https://github.com/square/moshi)
 
 **2022-06-13** — merged PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove redundant opt-in flags"
-
-**2022-06-13** — opened PR [#1544](https://github.com/square/moshi/pull/1544) to [square/moshi](https://github.com/square/moshi): "Remove "-opt-in=com.squareup.kotlinpoet.ksp.KotlinPoetKspPreview""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
