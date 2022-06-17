@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-17** — opened PR [#1270](https://github.com/square/kotlinpoet/pull/1270) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Optimize holder interfaces"
+
+**2022-06-17** — opened PR [#1269](https://github.com/square/kotlinpoet/pull/1269) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support context receivers on TypeSpecs + extract ContextReceivable API"
+
+**2022-06-17** — created branch `z/optimizeHolders` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-06-17** — created branch `z/contextReceiversOnClass` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-16** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1158455920) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-16** — opened PR [#1268](https://github.com/square/kotlinpoet/pull/1268) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support definitely non-nullable types"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-16** — merged PR [#302](https://github.com/ZacSweers/MoshiX/pull/302) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.5.0"
 
 **2022-06-16** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-16** — deleted branch `patch-1` on [ZacSweers/mavericks](https://github.com/ZacSweers/mavericks)
-
-**2022-06-16** — opened PR [#637](https://github.com/airbnb/mavericks/pull/637) to [airbnb/mavericks](https://github.com/airbnb/mavericks): "Fix double module in doc"
-
-**2022-06-16** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-06-16** — merged PR [#301](https://github.com/ZacSweers/MoshiX/pull/301) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.39"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
