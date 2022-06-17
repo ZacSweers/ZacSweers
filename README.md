@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-16** — opened PR [#1268](https://github.com/square/kotlinpoet/pull/1268) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support definitely non-nullable types"
+
+**2022-06-16** — created branch `z/supporeDefinitelyNonNullableTypes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-16** — commented on [#299](https://github.com/ZacSweers/MoshiX/pull/299#issuecomment-1158253049) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-06-16** — merged PR [#302](https://github.com/ZacSweers/MoshiX/pull/302) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.5.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-16** — merged PR [#301](https://github.com/ZacSweers/MoshiX/pull/301) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.39"
 
 **2022-06-16** — commented on [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307#issuecomment-1157608585) in [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin)
-
-**2022-06-15** — opened issue [#307](https://github.com/gradle/android-cache-fix-gradle-plugin/issues/307) on [gradle/android-cache-fix-gradle-plugin](https://github.com/gradle/android-cache-fix-gradle-plugin): "MissingValueException for `javaCompiler` property with new `JdkImageWorkaround`"
-
-**2022-06-14** — commented on [#298](https://github.com/ZacSweers/MoshiX/issues/298#issuecomment-1155170510) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
