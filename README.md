@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-21** — merged PR [#1270](https://github.com/square/kotlinpoet/pull/1270) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Optimize holder interfaces"
+
+**2022-06-21** — deleted branch `z/optimizeHolders` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-20** — deleted branch `z/contextReceiversOnClass` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-20** — merged PR [#1269](https://github.com/square/kotlinpoet/pull/1269) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support context receivers on TypeSpecs + extract ContextReceivable API"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-17** — created branch `z/contextReceiversOnClass` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-16** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1158455920) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-16** — opened PR [#1268](https://github.com/square/kotlinpoet/pull/1268) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support definitely non-nullable types"
-
-**2022-06-16** — created branch `z/supporeDefinitelyNonNullableTypes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
