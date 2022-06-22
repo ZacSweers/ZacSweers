@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-22** — created branch `z/ktype` on [square/moshi](https://github.com/square/moshi)
+
 **2022-06-22** — deleted branch `patch-2` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2022-06-22** — closed PR [#4878](https://github.com/JetBrains/kotlin/pull/4878) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix lossy conversion of wildcard type params"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-21** — commented on [#4878](https://github.com/JetBrains/kotlin/pull/4878#issuecomment-1162173223) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2022-06-21** — opened PR [#4878](https://github.com/JetBrains/kotlin/pull/4878) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix lossy conversion of wildcard type params"
-
-**2022-06-21** — merged PR [#1270](https://github.com/square/kotlinpoet/pull/1270) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Optimize holder interfaces"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
