@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-22** — closed issue [#1530](https://github.com/square/moshi/issues/1530) on [square/moshi](https://github.com/square/moshi): "After updating ksp to 1.6.20-1.0.5, Moshi generates error code for `typealias` of class with type parameters"
+
+**2022-06-22** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1162662215) in [square/moshi](https://github.com/square/moshi)
+
+**2022-06-22** — commented on [#1546](https://github.com/square/moshi/issues/1546#issuecomment-1162661644) in [square/moshi](https://github.com/square/moshi)
+
+**2022-06-22** — closed issue [#1546](https://github.com/square/moshi/issues/1546) on [square/moshi](https://github.com/square/moshi): "define custom field name dynamicly"
+
 **2022-06-21** — commented on [#4878](https://github.com/JetBrains/kotlin/pull/4878#issuecomment-1162173223) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2022-06-21** — opened PR [#4878](https://github.com/JetBrains/kotlin/pull/4878) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix lossy conversion of wildcard type params"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-20** — deleted branch `z/contextReceiversOnClass` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-20** — merged PR [#1269](https://github.com/square/kotlinpoet/pull/1269) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support context receivers on TypeSpecs + extract ContextReceivable API"
-
-**2022-06-17** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1158903965) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-17** — opened PR [#1270](https://github.com/square/kotlinpoet/pull/1270) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Optimize holder interfaces"
-
-**2022-06-17** — opened PR [#1269](https://github.com/square/kotlinpoet/pull/1269) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support context receivers on TypeSpecs + extract ContextReceivable API"
-
-**2022-06-17** — created branch `z/optimizeHolders` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
