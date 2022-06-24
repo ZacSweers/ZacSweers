@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-24** — opened PR [#1550](https://github.com/square/moshi/pull/1550) to [square/moshi](https://github.com/square/moshi): "Moshi 1.14.x updates"
+
+**2022-06-24** — created branch `z/1114Updates` on [square/moshi](https://github.com/square/moshi)
+
+**2022-06-24** — created branch `moshi_1.14.x` on [square/moshi](https://github.com/square/moshi)
+
 **2022-06-23** — opened PR [#1549](https://github.com/square/moshi/pull/1549) to [square/moshi](https://github.com/square/moshi): "Overhaul internals to use `KType`"
 
 **2022-06-22** — created branch `z/ktype` on [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-22** — closed issue [#1530](https://github.com/square/moshi/issues/1530) on [square/moshi](https://github.com/square/moshi): "After updating ksp to 1.6.20-1.0.5, Moshi generates error code for `typealias` of class with type parameters"
 
 **2022-06-22** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1162662215) in [square/moshi](https://github.com/square/moshi)
-
-**2022-06-22** — commented on [#1546](https://github.com/square/moshi/issues/1546#issuecomment-1162661644) in [square/moshi](https://github.com/square/moshi)
-
-**2022-06-22** — closed issue [#1546](https://github.com/square/moshi/issues/1546) on [square/moshi](https://github.com/square/moshi): "define custom field name dynamicly"
-
-**2022-06-21** — commented on [#4878](https://github.com/JetBrains/kotlin/pull/4878#issuecomment-1162173223) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
