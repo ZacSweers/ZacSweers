@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167595054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-24** — opened PR [#1550](https://github.com/square/moshi/pull/1550) to [square/moshi](https://github.com/square/moshi): "Moshi 1.14.x updates"
 
 **2022-06-24** — created branch `z/1114Updates` on [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-22** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1163229346) in [square/moshi](https://github.com/square/moshi)
 
 **2022-06-22** — closed issue [#1530](https://github.com/square/moshi/issues/1530) on [square/moshi](https://github.com/square/moshi): "After updating ksp to 1.6.20-1.0.5, Moshi generates error code for `typealias` of class with type parameters"
-
-**2022-06-22** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1162662215) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
