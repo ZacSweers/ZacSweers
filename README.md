@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-28** — opened issue [#1299](https://github.com/square/kotlinpoet/issues/1299) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "2.0: TypeName changes"
+
 **2022-06-28** — commented on [#1281](https://github.com/square/kotlinpoet/pull/1281#issuecomment-1169103276) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-28** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1169066318) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-24** — opened PR [#1550](https://github.com/square/moshi/pull/1550) to [square/moshi](https://github.com/square/moshi): "Moshi 1.14.x updates"
 
 **2022-06-24** — created branch `z/1114Updates` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-24** — created branch `moshi_1.14.x` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
