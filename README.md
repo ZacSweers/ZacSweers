@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-28** — commented on [#1550](https://github.com/square/moshi/pull/1550#issuecomment-1168766588) in [square/moshi](https://github.com/square/moshi)
+
 **2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167660434) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167595054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-22** — deleted branch `patch-2` on [ZacSweers/kotlin](https://github.com/ZacSweers/kotlin)
 
 **2022-06-22** — closed PR [#4878](https://github.com/JetBrains/kotlin/pull/4878) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix lossy conversion of wildcard type params"
-
-**2022-06-22** — commented on [#1530](https://github.com/square/moshi/issues/1530#issuecomment-1163229346) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
