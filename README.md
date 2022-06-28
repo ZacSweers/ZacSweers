@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-28** — commented on [#1281](https://github.com/square/kotlinpoet/pull/1281#issuecomment-1169103276) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-06-28** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1169066318) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-06-28** — closed issue [#1551](https://github.com/square/moshi/issues/1551) on [square/moshi](https://github.com/square/moshi): "Allow keys not implementing Comparable in builtin Map adapter"
 
 **2022-06-28** — commented on [#1551](https://github.com/square/moshi/issues/1551#issuecomment-1168893703) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-24** — created branch `z/1114Updates` on [square/moshi](https://github.com/square/moshi)
 
 **2022-06-24** — created branch `moshi_1.14.x` on [square/moshi](https://github.com/square/moshi)
-
-**2022-06-23** — opened PR [#1549](https://github.com/square/moshi/pull/1549) to [square/moshi](https://github.com/square/moshi): "Overhaul internals to use `KType`"
-
-**2022-06-22** — created branch `z/ktype` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
