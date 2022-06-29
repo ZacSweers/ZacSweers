@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — merged PR [#299](https://github.com/ZacSweers/MoshiX/pull/299) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support sealed subclasses defined in separate files"
+
+**2022-06-29** — closed issue [#298](https://github.com/ZacSweers/MoshiX/issues/298) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Moshix sealed ksp incorrectly assumes single originating file with sealed subclasses defined in different files"
+
 **2022-06-28** — opened issue [#1299](https://github.com/square/kotlinpoet/issues/1299) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "2.0: TypeName changes"
 
 **2022-06-28** — commented on [#1281](https://github.com/square/kotlinpoet/pull/1281#issuecomment-1169103276) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167660434) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167595054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-24** — opened PR [#1550](https://github.com/square/moshi/pull/1550) to [square/moshi](https://github.com/square/moshi): "Moshi 1.14.x updates"
-
-**2022-06-24** — created branch `z/1114Updates` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
