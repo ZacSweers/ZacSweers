@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — opened issue [#333](https://github.com/facebookincubator/ktfmt/issues/333) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Support Kotlin 1.7.0's rangeTo operator"
+
 **2022-06-29** — closed issue [#290](https://github.com/ZacSweers/MoshiX/issues/290) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "KSP fails when used with MoshiX"
 
 **2022-06-29** — commented on [#290](https://github.com/ZacSweers/MoshiX/issues/290#issuecomment-1170295467) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-28** — opened issue [#1299](https://github.com/square/kotlinpoet/issues/1299) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "2.0: TypeName changes"
 
 **2022-06-28** — commented on [#1281](https://github.com/square/kotlinpoet/pull/1281#issuecomment-1169103276) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-28** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1169066318) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
