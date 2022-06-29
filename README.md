@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-06-29** — closed issue [#290](https://github.com/ZacSweers/MoshiX/issues/290) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "KSP fails when used with MoshiX"
+
+**2022-06-29** — commented on [#290](https://github.com/ZacSweers/MoshiX/issues/290#issuecomment-1170295467) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-29** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-06-29** — merged PR [#303](https://github.com/ZacSweers/MoshiX/pull/303) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.7.0"
+
+**2022-06-29** — created tag `0.18.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-06-29** — merged PR [#299](https://github.com/ZacSweers/MoshiX/pull/299) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support sealed subclasses defined in separate files"
 
 **2022-06-29** — closed issue [#298](https://github.com/ZacSweers/MoshiX/issues/298) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Moshix sealed ksp incorrectly assumes single originating file with sealed subclasses defined in different files"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-06-28** — commented on [#1281](https://github.com/square/kotlinpoet/pull/1281#issuecomment-1169103276) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-06-28** — commented on [#1268](https://github.com/square/kotlinpoet/pull/1268#issuecomment-1169066318) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-28** — closed issue [#1551](https://github.com/square/moshi/issues/1551) on [square/moshi](https://github.com/square/moshi): "Allow keys not implementing Comparable in builtin Map adapter"
-
-**2022-06-28** — commented on [#1551](https://github.com/square/moshi/issues/1551#issuecomment-1168893703) in [square/moshi](https://github.com/square/moshi)
-
-**2022-06-28** — commented on [#1550](https://github.com/square/moshi/pull/1550#issuecomment-1168766588) in [square/moshi](https://github.com/square/moshi)
-
-**2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167660434) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-06-27** — commented on [#1273](https://github.com/square/kotlinpoet/issues/1273#issuecomment-1167595054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
