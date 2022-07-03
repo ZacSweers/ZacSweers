@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-03** — closed issue [#1554](https://github.com/square/moshi/issues/1554) on [square/moshi](https://github.com/square/moshi): "Crash when reading String with inter blank space"
+
+**2022-07-03** — commented on [#1554](https://github.com/square/moshi/issues/1554#issuecomment-1173149242) in [square/moshi](https://github.com/square/moshi)
+
 **2022-07-02** — closed issue [#333](https://github.com/facebookincubator/ktfmt/issues/333) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Support Kotlin 1.7.0's rangeTo operator"
 
 **2022-07-02** — commented on [#333](https://github.com/facebookincubator/ktfmt/issues/333#issuecomment-1172915594) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-01** — reopened issue [#305](https://github.com/ZacSweers/MoshiX/issues/305) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-metadata-reflect not support @Json(ignore = true)"
 
 **2022-07-01** — created branch `z/jsonIgnore` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-01** — merged PR [#304](https://github.com/ZacSweers/MoshiX/pull/304) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.8.0"
-
-**2022-07-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
