@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-03** — merged PR [#1306](https://github.com/square/kotlinpoet/pull/1306) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix transitive aliases"
+
+**2022-07-03** — commented on [#1307](https://github.com/square/kotlinpoet/pull/1307#issuecomment-1173173831) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-07-03** — closed PR [#1308](https://github.com/square/kotlinpoet/pull/1308) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add possibility to specify parameters size for line wrap"
+
+**2022-07-03** — commented on [#1308](https://github.com/square/kotlinpoet/pull/1308#issuecomment-1173170815) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-07-03** — closed issue [#1309](https://github.com/square/kotlinpoet/issues/1309) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add possibility to enable implicit mode"
+
+**2022-07-03** — commented on [#1309](https://github.com/square/kotlinpoet/issues/1309#issuecomment-1173170383) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-07-03** — closed issue [#1554](https://github.com/square/moshi/issues/1554) on [square/moshi](https://github.com/square/moshi): "Crash when reading String with inter blank space"
 
 **2022-07-03** — commented on [#1554](https://github.com/square/moshi/issues/1554#issuecomment-1173149242) in [square/moshi](https://github.com/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-02** — closed issue [#333](https://github.com/facebookincubator/ktfmt/issues/333) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Support Kotlin 1.7.0's rangeTo operator"
 
 **2022-07-02** — commented on [#333](https://github.com/facebookincubator/ktfmt/issues/333#issuecomment-1172915594) in [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt)
-
-**2022-07-01** — created tag `0.18.3` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-01** — closed issue [#305](https://github.com/ZacSweers/MoshiX/issues/305) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-metadata-reflect not support @Json(ignore = true)"
-
-**2022-07-01** — opened PR [#306](https://github.com/ZacSweers/MoshiX/pull/306) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Support `@Json.ignore` in MetadataKotlinJsonAdapterFactory"
-
-**2022-07-01** — commented on [#305](https://github.com/ZacSweers/MoshiX/issues/305#issuecomment-1172692029) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-01** — reopened issue [#305](https://github.com/ZacSweers/MoshiX/issues/305) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "moshi-metadata-reflect not support @Json(ignore = true)"
-
-**2022-07-01** — created branch `z/jsonIgnore` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
