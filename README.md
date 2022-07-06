@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-06** — commented on [#1550](https://github.com/square/moshi/pull/1550#issuecomment-1176250846) in [square/moshi](https://github.com/square/moshi)
+
 **2022-07-03** — commented on [#1310](https://github.com/square/kotlinpoet/pull/1310#issuecomment-1173178952) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-07-03** — merged PR [#1306](https://github.com/square/kotlinpoet/pull/1306) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix transitive aliases"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-03** — closed issue [#1554](https://github.com/square/moshi/issues/1554) on [square/moshi](https://github.com/square/moshi): "Crash when reading String with inter blank space"
 
 **2022-07-03** — commented on [#1554](https://github.com/square/moshi/issues/1554#issuecomment-1173149242) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-02** — closed issue [#333](https://github.com/facebookincubator/ktfmt/issues/333) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "Support Kotlin 1.7.0's rangeTo operator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
