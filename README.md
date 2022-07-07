@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-07** — deleted branch `renovate/kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-07-07** — merged PR [#307](https://github.com/ZacSweers/MoshiX/pull/307) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.10"
+
+**2022-07-07** — merged PR [#308](https://github.com/ZacSweers/MoshiX/pull/308) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.10"
+
+**2022-07-07** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-07-06** — commented on [#1550](https://github.com/square/moshi/pull/1550#issuecomment-1176250846) in [square/moshi](https://github.com/square/moshi)
 
 **2022-07-03** — commented on [#1310](https://github.com/square/kotlinpoet/pull/1310#issuecomment-1173178952) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-03** — closed PR [#1308](https://github.com/square/kotlinpoet/pull/1308) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add possibility to specify parameters size for line wrap"
 
 **2022-07-03** — commented on [#1308](https://github.com/square/kotlinpoet/pull/1308#issuecomment-1173170815) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-03** — closed issue [#1309](https://github.com/square/kotlinpoet/issues/1309) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add possibility to enable implicit mode"
-
-**2022-07-03** — commented on [#1309](https://github.com/square/kotlinpoet/issues/1309#issuecomment-1173170383) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-03** — closed issue [#1554](https://github.com/square/moshi/issues/1554) on [square/moshi](https://github.com/square/moshi): "Crash when reading String with inter blank space"
-
-**2022-07-03** — commented on [#1554](https://github.com/square/moshi/issues/1554#issuecomment-1173149242) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
