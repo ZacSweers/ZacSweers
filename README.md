@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-07** — commented on [#1556](https://github.com/square/moshi/issues/1556#issuecomment-1177632090) in [square/moshi](https://github.com/square/moshi)
+
+**2022-07-07** — closed issue [#1556](https://github.com/square/moshi/issues/1556) on [square/moshi](https://github.com/square/moshi): "After enable R8 full mode getting ParameterizedType error"
+
 **2022-07-07** — deleted branch `renovate/kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-07-07** — merged PR [#307](https://github.com/ZacSweers/MoshiX/pull/307) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-03** — merged PR [#1306](https://github.com/square/kotlinpoet/pull/1306) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix transitive aliases"
 
 **2022-07-03** — commented on [#1307](https://github.com/square/kotlinpoet/pull/1307#issuecomment-1173173831) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-03** — closed PR [#1308](https://github.com/square/kotlinpoet/pull/1308) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add possibility to specify parameters size for line wrap"
-
-**2022-07-03** — commented on [#1308](https://github.com/square/kotlinpoet/pull/1308#issuecomment-1173170815) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
