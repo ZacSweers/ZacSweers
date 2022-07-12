@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-12** — closed issue [#467](https://github.com/uber/AutoDispose/issues/467) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Question: how to implement a custom LifecycleScopeProvider"
+
+**2022-07-12** — commented on [#467](https://github.com/uber/AutoDispose/issues/467#issuecomment-1182485179) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181941938) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181812250) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-07-07** — merged PR [#309](https://github.com/ZacSweers/MoshiX/pull/309) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.10-1.0.6"
-
-**2022-07-07** — commented on [#1556](https://github.com/square/moshi/issues/1556#issuecomment-1177632090) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-07** — closed issue [#1556](https://github.com/square/moshi/issues/1556) on [square/moshi](https://github.com/square/moshi): "After enable R8 full mode getting ParameterizedType error"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
