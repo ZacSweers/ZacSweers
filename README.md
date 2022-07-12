@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181812250) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-07-12** — merged PR [#311](https://github.com/ZacSweers/MoshiX/pull/311) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.0"
+
+**2022-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-07-12** — merged PR [#1319](https://github.com/square/kotlinpoet/pull/1319) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.0"
+
 **2022-07-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-07-07** — merged PR [#309](https://github.com/ZacSweers/MoshiX/pull/309) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.10-1.0.6"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-07** — closed issue [#1556](https://github.com/square/moshi/issues/1556) on [square/moshi](https://github.com/square/moshi): "After enable R8 full mode getting ParameterizedType error"
 
 **2022-07-07** — deleted branch `renovate/kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-07** — merged PR [#307](https://github.com/ZacSweers/MoshiX/pull/307) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.10"
-
-**2022-07-07** — merged PR [#308](https://github.com/ZacSweers/MoshiX/pull/308) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.10"
-
-**2022-07-07** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-06** — commented on [#1550](https://github.com/square/moshi/pull/1550#issuecomment-1176250846) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-03** — commented on [#1310](https://github.com/square/kotlinpoet/pull/1310#issuecomment-1173178952) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
