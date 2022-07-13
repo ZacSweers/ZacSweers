@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-12** — opened issue [#623](https://github.com/uber/NullAway/issues/623) on [uber/NullAway](https://github.com/uber/NullAway): "NPE when updating to checker-framework 3.23.0"
+
 **2022-07-12** — closed issue [#467](https://github.com/uber/AutoDispose/issues/467) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Question: how to implement a custom LifecycleScopeProvider"
 
 **2022-07-12** — commented on [#467](https://github.com/uber/AutoDispose/issues/467#issuecomment-1182485179) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-12** — merged PR [#1319](https://github.com/square/kotlinpoet/pull/1319) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.0"
 
 **2022-07-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-07** — merged PR [#309](https://github.com/ZacSweers/MoshiX/pull/309) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.10-1.0.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
