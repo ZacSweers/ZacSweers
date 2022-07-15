@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-14** — opened issue [#50](https://github.com/google/Accessibility-Test-Framework-for-Android/issues/50) on [google/Accessibility-Test-Framework-for-Android](https://github.com/google/Accessibility-Test-Framework-for-Android): "4.0.0 is published but there are no release notes"
+
 **2022-07-12** — opened issue [#623](https://github.com/uber/NullAway/issues/623) on [uber/NullAway](https://github.com/uber/NullAway): "NPE when updating to checker-framework 3.23.0"
 
 **2022-07-12** — closed issue [#467](https://github.com/uber/AutoDispose/issues/467) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Question: how to implement a custom LifecycleScopeProvider"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-07-12** — merged PR [#1319](https://github.com/square/kotlinpoet/pull/1319) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.0"
-
-**2022-07-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
