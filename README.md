@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-18** — deleted branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-07-18** — merged PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
+
+**2022-07-18** — opened PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
+
+**2022-07-18** — created branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-07-15** — merged PR [#1547](https://github.com/square/moshi/pull/1547) to [square/moshi](https://github.com/square/moshi): "Suppress warning in generated code: `Parameter 'moshi' is never used`"
 
 **2022-07-14** — opened issue [#50](https://github.com/google/Accessibility-Test-Framework-for-Android/issues/50) on [google/Accessibility-Test-Framework-for-Android](https://github.com/google/Accessibility-Test-Framework-for-Android): "4.0.0 is published but there are no release notes"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-12** — commented on [#467](https://github.com/uber/AutoDispose/issues/467#issuecomment-1182485179) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181941938) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181812250) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-07-12** — merged PR [#311](https://github.com/ZacSweers/MoshiX/pull/311) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.0"
-
-**2022-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
