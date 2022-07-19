@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-19** — opened PR [#3928](https://github.com/facebook/flipper/pull/3928) to [facebook/flipper](https://github.com/facebook/flipper): "Tag sockets in FlipperSocketImpl"
+
+**2022-07-19** — created branch `z/socketTag` on [ZacSweers/flipper](https://github.com/ZacSweers/flipper)
+
 **2022-07-19** — opened issue [#3926](https://github.com/facebook/flipper/issues/3926) on [facebook/flipper](https://github.com/facebook/flipper): "StrictMode violations due to untagged sockets"
 
 **2022-07-18** — deleted branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-14** — opened issue [#50](https://github.com/google/Accessibility-Test-Framework-for-Android/issues/50) on [google/Accessibility-Test-Framework-for-Android](https://github.com/google/Accessibility-Test-Framework-for-Android): "4.0.0 is published but there are no release notes"
 
 **2022-07-12** — opened issue [#623](https://github.com/uber/NullAway/issues/623) on [uber/NullAway](https://github.com/uber/NullAway): "NPE when updating to checker-framework 3.23.0"
-
-**2022-07-12** — closed issue [#467](https://github.com/uber/AutoDispose/issues/467) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Question: how to implement a custom LifecycleScopeProvider"
-
-**2022-07-12** — commented on [#467](https://github.com/uber/AutoDispose/issues/467#issuecomment-1182485179) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
