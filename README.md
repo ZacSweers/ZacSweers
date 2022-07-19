@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-19** — opened issue [#3926](https://github.com/facebook/flipper/issues/3926) on [facebook/flipper](https://github.com/facebook/flipper): "StrictMode violations due to untagged sockets"
+
 **2022-07-18** — deleted branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-18** — merged PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-12** — closed issue [#467](https://github.com/uber/AutoDispose/issues/467) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Question: how to implement a custom LifecycleScopeProvider"
 
 **2022-07-12** — commented on [#467](https://github.com/uber/AutoDispose/issues/467#issuecomment-1182485179) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-07-12** — commented on [#1318](https://github.com/square/kotlinpoet/pull/1318#issuecomment-1181941938) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
