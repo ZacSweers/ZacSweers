@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-21** — opened issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
+
 **2022-07-20** — commented on [#82](https://github.com/ZacSweers/redacted-compiler-plugin/issues/82#issuecomment-1190362971) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-07-19** — opened PR [#3928](https://github.com/facebook/flipper/pull/3928) to [facebook/flipper](https://github.com/facebook/flipper): "Tag sockets in FlipperSocketImpl"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-18** — created branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-15** — merged PR [#1547](https://github.com/square/moshi/pull/1547) to [square/moshi](https://github.com/square/moshi): "Suppress warning in generated code: `Parameter 'moshi' is never used`"
-
-**2022-07-14** — opened issue [#50](https://github.com/google/Accessibility-Test-Framework-for-Android/issues/50) on [google/Accessibility-Test-Framework-for-Android](https://github.com/google/Accessibility-Test-Framework-for-Android): "4.0.0 is published but there are no release notes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
