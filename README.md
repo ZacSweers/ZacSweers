@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-21** — closed issue [#1328](https://github.com/square/kotlinpoet/issues/1328) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "How to convert TypeSpec to TypeName"
+
+**2022-07-21** — commented on [#1328](https://github.com/square/kotlinpoet/issues/1328#issuecomment-1192101464) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-07-21** — opened issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
 
 **2022-07-20** — commented on [#82](https://github.com/ZacSweers/redacted-compiler-plugin/issues/82#issuecomment-1190362971) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-18** — merged PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
 
 **2022-07-18** — opened PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
-
-**2022-07-18** — created branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-07-15** — merged PR [#1547](https://github.com/square/moshi/pull/1547) to [square/moshi](https://github.com/square/moshi): "Suppress warning in generated code: `Parameter 'moshi' is never used`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
