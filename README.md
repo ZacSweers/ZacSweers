@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-27** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1197314993) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+
 **2022-07-27** — commented on [#1160](https://github.com/square/moshi/issues/1160#issuecomment-1196305395) in [square/moshi](https://github.com/square/moshi)
 
 **2022-07-26** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1196114401) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-19** — created branch `z/socketTag` on [ZacSweers/flipper](https://github.com/ZacSweers/flipper)
 
 **2022-07-19** — opened issue [#3926](https://github.com/facebook/flipper/issues/3926) on [facebook/flipper](https://github.com/facebook/flipper): "StrictMode violations due to untagged sockets"
-
-**2022-07-18** — deleted branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
