@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-27** — closed issue [#1332](https://github.com/square/kotlinpoet/issues/1332) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Import Kotlin-JS class"
+
+**2022-07-27** — commented on [#1332](https://github.com/square/kotlinpoet/issues/1332#issuecomment-1197430477) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-07-27** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1197314993) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2022-07-27** — commented on [#1160](https://github.com/square/moshi/issues/1160#issuecomment-1196305395) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-20** — commented on [#82](https://github.com/ZacSweers/redacted-compiler-plugin/issues/82#issuecomment-1190362971) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-07-19** — opened PR [#3928](https://github.com/facebook/flipper/pull/3928) to [facebook/flipper](https://github.com/facebook/flipper): "Tag sockets in FlipperSocketImpl"
-
-**2022-07-19** — created branch `z/socketTag` on [ZacSweers/flipper](https://github.com/ZacSweers/flipper)
-
-**2022-07-19** — opened issue [#3926](https://github.com/facebook/flipper/issues/3926) on [facebook/flipper](https://github.com/facebook/flipper): "StrictMode violations due to untagged sockets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
