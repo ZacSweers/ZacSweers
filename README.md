@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-26** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1196114401) in [square/moshi](https://github.com/square/moshi)
+
 **2022-07-21** — closed issue [#1328](https://github.com/square/kotlinpoet/issues/1328) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "How to convert TypeSpec to TypeName"
 
 **2022-07-21** — commented on [#1328](https://github.com/square/kotlinpoet/issues/1328#issuecomment-1192101464) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-18** — deleted branch `z/detektBuildUpon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-18** — merged PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
-
-**2022-07-18** — opened PR [#43](https://github.com/slackhq/slack-gradle-plugin/pull/43) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Build upon defaults for detekt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
