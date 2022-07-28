@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-27** — commented on [#1332](https://github.com/square/kotlinpoet/issues/1332#issuecomment-1197621160) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-07-27** — closed issue [#1332](https://github.com/square/kotlinpoet/issues/1332) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Import Kotlin-JS class"
 
 **2022-07-27** — commented on [#1332](https://github.com/square/kotlinpoet/issues/1332#issuecomment-1197430477) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-21** — opened issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
 
 **2022-07-20** — commented on [#82](https://github.com/ZacSweers/redacted-compiler-plugin/issues/82#issuecomment-1190362971) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-07-19** — opened PR [#3928](https://github.com/facebook/flipper/pull/3928) to [facebook/flipper](https://github.com/facebook/flipper): "Tag sockets in FlipperSocketImpl"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
