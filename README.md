@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-29** — closed issue [#1562](https://github.com/square/moshi/issues/1562) on [square/moshi](https://github.com/square/moshi): "Apache remove all "
+
 **2022-07-29** — closed issue [#1334](https://github.com/square/kotlinpoet/issues/1334) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Dependency on guava with vulnerability"
 
 **2022-07-29** — commented on [#1334](https://github.com/square/kotlinpoet/issues/1334#issuecomment-1199285737) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-27** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1197314993) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2022-07-27** — commented on [#1160](https://github.com/square/moshi/issues/1160#issuecomment-1196305395) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-26** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1196114401) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
