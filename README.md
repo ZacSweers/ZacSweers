@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-29** — closed issue [#1334](https://github.com/square/kotlinpoet/issues/1334) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Dependency on guava with vulnerability"
+
+**2022-07-29** — commented on [#1334](https://github.com/square/kotlinpoet/issues/1334#issuecomment-1199285737) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-07-28** — commented on [#1559](https://github.com/square/moshi/issues/1559#issuecomment-1198202799) in [square/moshi](https://github.com/square/moshi)
 
 **2022-07-28** — closed issue [#1559](https://github.com/square/moshi/issues/1559) on [square/moshi](https://github.com/square/moshi): "Moshi KSP fails with type aliases that use generics"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-27** — commented on [#1160](https://github.com/square/moshi/issues/1160#issuecomment-1196305395) in [square/moshi](https://github.com/square/moshi)
 
 **2022-07-26** — commented on [#1252](https://github.com/square/moshi/issues/1252#issuecomment-1196114401) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-21** — closed issue [#1328](https://github.com/square/kotlinpoet/issues/1328) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "How to convert TypeSpec to TypeName"
-
-**2022-07-21** — commented on [#1328](https://github.com/square/kotlinpoet/issues/1328#issuecomment-1192101464) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
