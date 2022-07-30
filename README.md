@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-07-30** — closed issue [#1563](https://github.com/square/moshi/issues/1563) on [square/moshi](https://github.com/square/moshi): "Kotlin Map to data class"
+**2022-07-30** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-07-30** — commented on [#1563](https://github.com/square/moshi/issues/1563#issuecomment-1200163474) in [square/moshi](https://github.com/square/moshi)
+**2022-07-30** — merged PR [#63](https://github.com/slackhq/slack-gradle-plugin/pull/63) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.21.0"
 
-**2022-07-29** — opened issue [#105](https://github.com/slackhq/keeper/issues/105) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new configuration APIs in AGP 7.3"
+**2022-07-30** — deleted branch `test-renovate/actions-cache-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-07-29** — opened PR [#3398](https://github.com/cashapp/sqldelight/pull/3398) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Avoid NPEs in Kotlin 1.7.20"
+**2022-07-30** — merged PR [#66](https://github.com/slackhq/slack-gradle-plugin/pull/66) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/cache action to v3"
 
-**2022-07-29** — created branch `z/fixKotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+**2022-07-30** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-07-29** — commented on [#1050](https://github.com/google/ksp/issues/1050#issuecomment-1200064525) in [google/ksp](https://github.com/google/ksp)
+**2022-07-30** — merged PR [#65](https://github.com/slackhq/slack-gradle-plugin/pull/65) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.9.0"
 
-**2022-07-29** — created branch `z/slack2a2` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+**2022-07-30** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-07-29** — opened issue [#1050](https://github.com/google/ksp/issues/1050) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.7.20-Beta"
+**2022-07-30** — merged PR [#61](https://github.com/slackhq/slack-gradle-plugin/pull/61) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.3.1"
 
-**2022-07-29** — closed issue [#1562](https://github.com/square/moshi/issues/1562) on [square/moshi](https://github.com/square/moshi): "Apache remove all "
+**2022-07-30** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-07-29** — closed issue [#1334](https://github.com/square/kotlinpoet/issues/1334) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Dependency on guava with vulnerability"
+**2022-07-30** — merged PR [#64](https://github.com/slackhq/slack-gradle-plugin/pull/64) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.135.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
