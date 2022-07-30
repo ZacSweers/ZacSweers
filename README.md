@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-29** — opened issue [#105](https://github.com/slackhq/keeper/issues/105) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new configuration APIs in AGP 7.3"
+
 **2022-07-29** — opened PR [#3398](https://github.com/cashapp/sqldelight/pull/3398) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Avoid NPEs in Kotlin 1.7.20"
 
 **2022-07-29** — created branch `z/fixKotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-29** — commented on [#1334](https://github.com/square/kotlinpoet/issues/1334#issuecomment-1199285737) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-07-28** — commented on [#1559](https://github.com/square/moshi/issues/1559#issuecomment-1198202799) in [square/moshi](https://github.com/square/moshi)
-
-**2022-07-28** — closed issue [#1559](https://github.com/square/moshi/issues/1559) on [square/moshi](https://github.com/square/moshi): "Moshi KSP fails with type aliases that use generics"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
