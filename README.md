@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-30** — closed issue [#1563](https://github.com/square/moshi/issues/1563) on [square/moshi](https://github.com/square/moshi): "Kotlin Map to data class"
+
+**2022-07-30** — commented on [#1563](https://github.com/square/moshi/issues/1563#issuecomment-1200163474) in [square/moshi](https://github.com/square/moshi)
+
 **2022-07-29** — opened issue [#105](https://github.com/slackhq/keeper/issues/105) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new configuration APIs in AGP 7.3"
 
 **2022-07-29** — opened PR [#3398](https://github.com/cashapp/sqldelight/pull/3398) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Avoid NPEs in Kotlin 1.7.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-29** — closed issue [#1562](https://github.com/square/moshi/issues/1562) on [square/moshi](https://github.com/square/moshi): "Apache remove all "
 
 **2022-07-29** — closed issue [#1334](https://github.com/square/kotlinpoet/issues/1334) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Dependency on guava with vulnerability"
-
-**2022-07-29** — commented on [#1334](https://github.com/square/kotlinpoet/issues/1334#issuecomment-1199285737) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-07-28** — commented on [#1559](https://github.com/square/moshi/issues/1559#issuecomment-1198202799) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
