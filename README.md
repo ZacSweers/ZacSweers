@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-30** — deleted branch `test-renovate/actions-setup-java-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-07-30** — merged PR [#69](https://github.com/slackhq/slack-gradle-plugin/pull/69) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/setup-java action to v3"
+
 **2022-07-30** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-30** — merged PR [#63](https://github.com/slackhq/slack-gradle-plugin/pull/63) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.21.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-30** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-30** — merged PR [#61](https://github.com/slackhq/slack-gradle-plugin/pull/61) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.3.1"
-
-**2022-07-30** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-07-30** — merged PR [#64](https://github.com/slackhq/slack-gradle-plugin/pull/64) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.135.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
