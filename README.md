@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-01** — deleted branch `z/kotlinRenovate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-01** — merged PR [#67](https://github.com/slackhq/slack-gradle-plugin/pull/67) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.7.10"
+
+**2022-08-01** — deleted branch `z/okhttp5a10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-01** — merged PR [#68](https://github.com/slackhq/slack-gradle-plugin/pull/68) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update OkHttp to 5.0.0-alpha.10"
+
 **2022-07-31** — deleted branch `test-renovate/okhttp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-31** — closed PR [#70](https://github.com/slackhq/slack-gradle-plugin/pull/70) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okhttp to v5.0.0-SNAPSHOT"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-30** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-30** — merged PR [#63](https://github.com/slackhq/slack-gradle-plugin/pull/63) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.21.0"
-
-**2022-07-30** — deleted branch `test-renovate/actions-cache-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-07-30** — merged PR [#66](https://github.com/slackhq/slack-gradle-plugin/pull/66) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/cache action to v3"
-
-**2022-07-30** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-07-30** — merged PR [#65](https://github.com/slackhq/slack-gradle-plugin/pull/65) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
