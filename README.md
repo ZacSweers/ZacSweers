@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-02** — created branch `z/kotlin1720Beta` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-08-02** — opened issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
+
 **2022-08-01** — deleted branch `z/kotlinRenovate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-01** — merged PR [#67](https://github.com/slackhq/slack-gradle-plugin/pull/67) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.7.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-07-30** — deleted branch `test-renovate/actions-setup-java-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-07-30** — merged PR [#69](https://github.com/slackhq/slack-gradle-plugin/pull/69) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/setup-java action to v3"
-
-**2022-07-30** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-07-30** — merged PR [#63](https://github.com/slackhq/slack-gradle-plugin/pull/63) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.21.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
