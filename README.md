@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-08-02** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-08-02** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1202822013) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
-**2022-08-02** — merged PR [#71](https://github.com/slackhq/slack-gradle-plugin/pull/71) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.12.0"
+**2022-08-02** — commented on [#315](https://github.com/ZacSweers/MoshiX/issues/315#issuecomment-1202817834) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-08-02** — created branch `z/kotlin1720Beta` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-08-02** — commented on [#316](https://github.com/ZacSweers/MoshiX/pull/316#issuecomment-1202817628) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-08-02** — opened issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
+**2022-08-02** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-08-01** — deleted branch `z/kotlinRenovate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-08-02** — merged PR [#72](https://github.com/slackhq/slack-gradle-plugin/pull/72) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.137.0"
 
-**2022-08-01** — merged PR [#67](https://github.com/slackhq/slack-gradle-plugin/pull/67) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.7.10"
+**2022-08-02** — opened PR [#316](https://github.com/ZacSweers/MoshiX/pull/316) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20 support"
 
-**2022-08-01** — deleted branch `z/okhttp5a10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-08-02** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-08-01** — merged PR [#68](https://github.com/slackhq/slack-gradle-plugin/pull/68) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update OkHttp to 5.0.0-alpha.10"
+**2022-08-02** — merged PR [#312](https://github.com/ZacSweers/MoshiX/pull/312) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.7.10"
 
-**2022-07-31** — deleted branch `test-renovate/okhttp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-08-02** — merged PR [#313](https://github.com/ZacSweers/MoshiX/pull/313) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.5"
 
-**2022-07-31** — closed PR [#70](https://github.com/slackhq/slack-gradle-plugin/pull/70) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okhttp to v5.0.0-SNAPSHOT"
+**2022-08-02** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
