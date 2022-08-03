@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-03** — commented on [#605](https://github.com/pinterest/ktlint/issues/605#issuecomment-1203989784) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
+
 **2022-08-02** — closed issue [#1050](https://github.com/google/ksp/issues/1050) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.7.20-Beta"
 
 **2022-08-02** — commented on [#1050](https://github.com/google/ksp/issues/1050#issuecomment-1203323240) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-02** — commented on [#316](https://github.com/ZacSweers/MoshiX/pull/316#issuecomment-1202817628) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-08-02** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-02** — merged PR [#72](https://github.com/slackhq/slack-gradle-plugin/pull/72) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.137.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
