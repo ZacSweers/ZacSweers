@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-04** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-04** — merged PR [#74](https://github.com/slackhq/slack-gradle-plugin/pull/74) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.2.2"
+
+**2022-08-04** — deleted branch `test-renovate/com.android.tools.build-gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-04** — merged PR [#75](https://github.com/slackhq/slack-gradle-plugin/pull/75) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v7.2.2"
+
 **2022-08-03** — closed issue [#465](https://github.com/uber/AutoDispose/issues/465) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode do not support kotlin lambda/when/if expressions"
 
 **2022-08-03** — commented on [#465](https://github.com/uber/AutoDispose/issues/465#issuecomment-1204727545) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-03** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-03** — merged PR [#73](https://github.com/slackhq/slack-gradle-plugin/pull/73) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.141.0"
-
-**2022-08-03** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-08-03** — merged PR [#317](https://github.com/ZacSweers/MoshiX/pull/317) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.2.2"
-
-**2022-08-03** — deleted branch `z/fixKotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2022-08-03** — commented on [#605](https://github.com/pinterest/ktlint/issues/605#issuecomment-1203989784) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
