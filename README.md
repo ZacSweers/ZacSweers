@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-03** — closed issue [#465](https://github.com/uber/AutoDispose/issues/465) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode do not support kotlin lambda/when/if expressions"
+
+**2022-08-03** — commented on [#465](https://github.com/uber/AutoDispose/issues/465#issuecomment-1204727545) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2022-08-03** — commented on [#106](https://github.com/slackhq/keeper/issues/106#issuecomment-1204377897) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-08-03** — closed issue [#106](https://github.com/slackhq/keeper/issues/106) on [slackhq/keeper](https://github.com/slackhq/keeper): "Some Keeper rules affect R8 optimization"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-03** — deleted branch `z/fixKotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
 
 **2022-08-03** — commented on [#605](https://github.com/pinterest/ktlint/issues/605#issuecomment-1203989784) in [pinterest/ktlint](https://github.com/pinterest/ktlint)
-
-**2022-08-02** — closed issue [#1050](https://github.com/google/ksp/issues/1050) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.7.20-Beta"
-
-**2022-08-02** — commented on [#1050](https://github.com/google/ksp/issues/1050#issuecomment-1203323240) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
