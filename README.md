@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-05** — deleted branch `patch-1` on [ZacSweers/coil](https://github.com/ZacSweers/coil)
+
+**2022-08-05** — closed PR [#1381](https://github.com/coil-kt/coil/pull/1381) to [coil-kt/coil](https://github.com/coil-kt/coil): "Test again OkHttp 5.x alphas"
+
 **2022-08-05** — opened PR [#1381](https://github.com/coil-kt/coil/pull/1381) to [coil-kt/coil](https://github.com/coil-kt/coil): "Test again OkHttp 5.x alphas"
 
 **2022-08-05** — commented on [#140](https://github.com/requery/sqlite-android/issues/140#issuecomment-1206616836) in [requery/sqlite-android](https://github.com/requery/sqlite-android)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-03** — closed issue [#465](https://github.com/uber/AutoDispose/issues/465) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode do not support kotlin lambda/when/if expressions"
 
 **2022-08-03** — commented on [#465](https://github.com/uber/AutoDispose/issues/465#issuecomment-1204727545) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2022-08-03** — commented on [#106](https://github.com/slackhq/keeper/issues/106#issuecomment-1204377897) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-08-03** — closed issue [#106](https://github.com/slackhq/keeper/issues/106) on [slackhq/keeper](https://github.com/slackhq/keeper): "Some Keeper rules affect R8 optimization"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
