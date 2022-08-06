@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-05** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-08-05** — merged PR [#318](https://github.com/ZacSweers/MoshiX/pull/318) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.5.1"
+
 **2022-08-05** — commented on [#1339](https://github.com/square/kotlinpoet/issues/1339#issuecomment-1207093656) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-08-05** — commented on [#1336](https://github.com/square/kotlinpoet/issues/1336#issuecomment-1207071038) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-04** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-04** — merged PR [#74](https://github.com/slackhq/slack-gradle-plugin/pull/74) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.2.2"
-
-**2022-08-04** — deleted branch `test-renovate/com.android.tools.build-gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-04** — merged PR [#75](https://github.com/slackhq/slack-gradle-plugin/pull/75) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v7.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
