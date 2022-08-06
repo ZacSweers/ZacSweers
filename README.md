@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-05** — commented on [#1339](https://github.com/square/kotlinpoet/issues/1339#issuecomment-1207093656) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-08-05** — commented on [#1336](https://github.com/square/kotlinpoet/issues/1336#issuecomment-1207071038) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-08-05** — deleted branch `patch-1` on [ZacSweers/coil](https://github.com/ZacSweers/coil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-04** — deleted branch `test-renovate/com.android.tools.build-gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-04** — merged PR [#75](https://github.com/slackhq/slack-gradle-plugin/pull/75) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v7.2.2"
-
-**2022-08-03** — closed issue [#465](https://github.com/uber/AutoDispose/issues/465) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "lint lenient mode do not support kotlin lambda/when/if expressions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
