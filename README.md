@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-07** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1207475081) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-08-07** — opened issue [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302) on [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2"
+
 **2022-08-06** — deleted branch `test-renovate/gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-06** — merged PR [#78](https://github.com/slackhq/slack-gradle-plugin/pull/78) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v7.5.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-05** — deleted branch `patch-1` on [ZacSweers/coil](https://github.com/ZacSweers/coil)
 
 **2022-08-05** — closed PR [#1381](https://github.com/coil-kt/coil/pull/1381) to [coil-kt/coil](https://github.com/coil-kt/coil): "Test again OkHttp 5.x alphas"
-
-**2022-08-05** — opened PR [#1381](https://github.com/coil-kt/coil/pull/1381) to [coil-kt/coil](https://github.com/coil-kt/coil): "Test again OkHttp 5.x alphas"
-
-**2022-08-05** — commented on [#140](https://github.com/requery/sqlite-android/issues/140#issuecomment-1206616836) in [requery/sqlite-android](https://github.com/requery/sqlite-android)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
