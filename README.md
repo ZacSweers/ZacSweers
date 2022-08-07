@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-07** — created branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-08-07** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1207475081) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-08-07** — opened issue [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302) on [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-05** — commented on [#1336](https://github.com/square/kotlinpoet/issues/1336#issuecomment-1207071038) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-08-05** — deleted branch `patch-1` on [ZacSweers/coil](https://github.com/ZacSweers/coil)
-
-**2022-08-05** — closed PR [#1381](https://github.com/coil-kt/coil/pull/1381) to [coil-kt/coil](https://github.com/coil-kt/coil): "Test again OkHttp 5.x alphas"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
