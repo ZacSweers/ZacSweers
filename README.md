@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-07** — opened PR [#2322](https://github.com/square/wire/pull/2322) to [square/wire](https://github.com/square/wire): "Use Node 18 to support building on arm64 macOS machines"
+
+**2022-08-07** — created branch `z/appleSilicon` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
+**2022-08-07** — opened PR [#2321](https://github.com/square/wire/pull/2321) to [square/wire](https://github.com/square/wire): "Use KotlinProjectExtension to access source sets"
+
+**2022-08-07** — created branch `z/kotlin1720pt2` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
+
 **2022-08-07** — created branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-08-07** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1207475081) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-06** — merged PR [#78](https://github.com/slackhq/slack-gradle-plugin/pull/78) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v7.5.1"
 
 **2022-08-05** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-08-05** — merged PR [#318](https://github.com/ZacSweers/MoshiX/pull/318) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.5.1"
-
-**2022-08-05** — commented on [#1339](https://github.com/square/kotlinpoet/issues/1339#issuecomment-1207093656) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-08-05** — commented on [#1336](https://github.com/square/kotlinpoet/issues/1336#issuecomment-1207071038) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-08-05** — deleted branch `patch-1` on [ZacSweers/coil](https://github.com/ZacSweers/coil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
