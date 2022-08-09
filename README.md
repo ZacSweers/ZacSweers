@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-09** — commented on [#1341](https://github.com/square/kotlinpoet/issues/1341#issuecomment-1209852353) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-08-09** — closed issue [#1564](https://github.com/square/moshi/issues/1564) on [square/moshi](https://github.com/square/moshi): "JsonAdapter does not get generated"
+
+**2022-08-09** — commented on [#1564](https://github.com/square/moshi/issues/1564#issuecomment-1209849964) in [square/moshi](https://github.com/square/moshi)
+
 **2022-08-08** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-08** — deleted branch `z/kotlin1720pt2` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-07** — created branch `z/kotlin1720pt2` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 
 **2022-08-07** — created branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-08-07** — commented on [#274](https://github.com/tschuchortdev/kotlin-compile-testing/issues/274#issuecomment-1207475081) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-07** — opened issue [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302) on [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2"
-
-**2022-08-06** — deleted branch `test-renovate/gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
