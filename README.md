@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-08-10** — merged PR [#319](https://github.com/ZacSweers/MoshiX/pull/319) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.9.1"
+
+**2022-08-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-08-10** — merged PR [#1345](https://github.com/square/kotlinpoet/pull/1345) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin spotless to v6.9.1"
+
+**2022-08-10** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-10** — merged PR [#81](https://github.com/slackhq/slack-gradle-plugin/pull/81) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.9.1"
+
 **2022-08-09** — deleted branch `z/updateReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-09** — merged PR [#15](https://github.com/slackhq/circuit/pull/15) to [slackhq/circuit](https://github.com/slackhq/circuit): "Note construction in the README"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-09** — opened PR [#15](https://github.com/slackhq/circuit/pull/15) to [slackhq/circuit](https://github.com/slackhq/circuit): "Note construction in the README"
 
 **2022-08-09** — created branch `z/updateReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-09** — commented on [#1341](https://github.com/square/kotlinpoet/issues/1341#issuecomment-1209852353) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-08-09** — closed issue [#1564](https://github.com/square/moshi/issues/1564) on [square/moshi](https://github.com/square/moshi): "JsonAdapter does not get generated"
-
-**2022-08-09** — commented on [#1564](https://github.com/square/moshi/issues/1564#issuecomment-1209849964) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-08** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-08** — deleted branch `z/kotlin1720pt2` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
-
-**2022-08-07** — opened PR [#2322](https://github.com/square/wire/pull/2322) to [square/wire](https://github.com/square/wire): "Use Node 18 to support building on arm64 macOS machines"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
