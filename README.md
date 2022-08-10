@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-09** — deleted branch `z/updateReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-09** — merged PR [#15](https://github.com/slackhq/circuit/pull/15) to [slackhq/circuit](https://github.com/slackhq/circuit): "Note construction in the README"
+
 **2022-08-09** — opened PR [#15](https://github.com/slackhq/circuit/pull/15) to [slackhq/circuit](https://github.com/slackhq/circuit): "Note construction in the README"
 
 **2022-08-09** — created branch `z/updateReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-08** — deleted branch `z/kotlin1720pt2` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
 
 **2022-08-07** — opened PR [#2322](https://github.com/square/wire/pull/2322) to [square/wire](https://github.com/square/wire): "Use Node 18 to support building on arm64 macOS machines"
-
-**2022-08-07** — created branch `z/appleSilicon` on [ZacSweers/wire](https://github.com/ZacSweers/wire)
-
-**2022-08-07** — opened PR [#2321](https://github.com/square/wire/pull/2321) to [square/wire](https://github.com/square/wire): "Use KotlinProjectExtension to access source sets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
