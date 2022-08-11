@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-11** — opened issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
+
+**2022-08-11** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1212551630) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-11** — opened PR [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for napt in place of kapt"
 
 **2022-08-11** — created branch `z/naptTime` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-10** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-10** — merged PR [#81](https://github.com/slackhq/slack-gradle-plugin/pull/81) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.9.1"
-
-**2022-08-09** — deleted branch `z/updateReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-09** — merged PR [#15](https://github.com/slackhq/circuit/pull/15) to [slackhq/circuit](https://github.com/slackhq/circuit): "Note construction in the README"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
