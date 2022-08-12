@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213537548) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-08-12** — opened PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
 
 **2022-08-12** — created branch `z/k2Pt2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1213433428) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-12** — commented on [#3531](https://github.com/google/dagger/issues/3531#issuecomment-1213429663) in [google/dagger](https://github.com/google/dagger)
-
-**2022-08-12** — opened PR [#3532](https://github.com/google/dagger/pull/3532) to [google/dagger](https://github.com/google/dagger): "Respect `dagger.formatGeneratedSource` in AndroidProcessor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
