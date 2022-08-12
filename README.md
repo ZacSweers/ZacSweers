@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — opened PR [#85](https://github.com/slackhq/slack-gradle-plugin/pull/85) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't skip on empty sources in LocTask"
+
+**2022-08-12** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1213433428) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-12** — commented on [#3531](https://github.com/google/dagger/issues/3531#issuecomment-1213429663) in [google/dagger](https://github.com/google/dagger)
+
+**2022-08-12** — opened PR [#3532](https://github.com/google/dagger/pull/3532) to [google/dagger](https://github.com/google/dagger): "Respect `dagger.formatGeneratedSource` in AndroidProcessor"
+
+**2022-08-12** — created branch `z/formattingFilterAndroid` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
+
 **2022-08-12** — opened issue [#3531](https://github.com/google/dagger/issues/3531) on [google/dagger](https://github.com/google/dagger): "`dagger-android-processor` still always enables formatting"
 
 **2022-08-12** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1213385559) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — opened issue [#6](https://github.com/sergei-lapin/napt/issues/6) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Feature request: option to disable `NaptTrigger` file generation"
 
 **2022-08-12** — deleted branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
-
-**2022-08-12** — commented on [#4](https://github.com/sergei-lapin/napt/issues/4#issuecomment-1213145338) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
-
-**2022-08-11** — created branch `z/allowNoLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-11** — opened PR [#5](https://github.com/sergei-lapin/napt/pull/5) to [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Check file existence before walking dirs"
-
-**2022-08-11** — created branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
-
-**2022-08-11** — opened issue [#4](https://github.com/sergei-lapin/napt/issues/4) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "NoSuchFileException when walking classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
