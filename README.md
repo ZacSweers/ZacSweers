@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — opened PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
+
+**2022-08-12** — created branch `z/k2Pt2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213527884) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213512216) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213510664) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213494605) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-08-12** — opened PR [#85](https://github.com/slackhq/slack-gradle-plugin/pull/85) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't skip on empty sources in LocTask"
 
 **2022-08-12** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1213433428) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — commented on [#3531](https://github.com/google/dagger/issues/3531#issuecomment-1213429663) in [google/dagger](https://github.com/google/dagger)
 
 **2022-08-12** — opened PR [#3532](https://github.com/google/dagger/pull/3532) to [google/dagger](https://github.com/google/dagger): "Respect `dagger.formatGeneratedSource` in AndroidProcessor"
-
-**2022-08-12** — created branch `z/formattingFilterAndroid` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
-
-**2022-08-12** — opened issue [#3531](https://github.com/google/dagger/issues/3531) on [google/dagger](https://github.com/google/dagger): "`dagger-android-processor` still always enables formatting"
-
-**2022-08-12** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1213385559) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
-
-**2022-08-12** — opened issue [#8](https://github.com/sergei-lapin/napt/issues/8) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "compiler otions are overridden"
-
-**2022-08-12** — opened issue [#6](https://github.com/sergei-lapin/napt/issues/6) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Feature request: option to disable `NaptTrigger` file generation"
-
-**2022-08-12** — deleted branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
