@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — opened issue [#6](https://github.com/sergei-lapin/napt/issues/6) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Feature request: option to disable `NaptTrigger` file generation"
+
 **2022-08-12** — deleted branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
 
 **2022-08-12** — commented on [#4](https://github.com/sergei-lapin/napt/issues/4#issuecomment-1213145338) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-11** — closed issue [#4](https://github.com/slackhq/circuit/issues/4) on [slackhq/circuit](https://github.com/slackhq/circuit): "Implement detail view in sample"
 
 **2022-08-11** — deleted branch `ke/pet-detail` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-11** — merged PR [#16](https://github.com/slackhq/circuit/pull/16) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create basic pet detail screen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
