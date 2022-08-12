@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — opened issue [#3531](https://github.com/google/dagger/issues/3531) on [google/dagger](https://github.com/google/dagger): "`dagger-android-processor` still always enables formatting"
+
+**2022-08-12** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1213385559) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
+
+**2022-08-12** — opened issue [#8](https://github.com/sergei-lapin/napt/issues/8) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "compiler otions are overridden"
+
 **2022-08-12** — opened issue [#6](https://github.com/sergei-lapin/napt/issues/6) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Feature request: option to disable `NaptTrigger` file generation"
 
 **2022-08-12** — deleted branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-11** — created branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
 
 **2022-08-11** — opened issue [#4](https://github.com/sergei-lapin/napt/issues/4) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "NoSuchFileException when walking classes"
-
-**2022-08-11** — closed issue [#2](https://github.com/slackhq/circuit/issues/2) on [slackhq/circuit](https://github.com/slackhq/circuit): "Setup sample app data layer"
-
-**2022-08-11** — closed issue [#4](https://github.com/slackhq/circuit/issues/4) on [slackhq/circuit](https://github.com/slackhq/circuit): "Implement detail view in sample"
-
-**2022-08-11** — deleted branch `ke/pet-detail` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
