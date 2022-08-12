@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-11** — created branch `z/allowNoLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-11** — opened PR [#5](https://github.com/sergei-lapin/napt/pull/5) to [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Check file existence before walking dirs"
+
+**2022-08-11** — created branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
+
 **2022-08-11** — opened issue [#4](https://github.com/sergei-lapin/napt/issues/4) on [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "NoSuchFileException when walking classes"
 
 **2022-08-11** — closed issue [#2](https://github.com/slackhq/circuit/issues/2) on [slackhq/circuit](https://github.com/slackhq/circuit): "Setup sample app data layer"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-11** — opened issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
 
 **2022-08-11** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1212551630) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-11** — opened PR [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for napt in place of kapt"
-
-**2022-08-11** — created branch `z/naptTime` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
