@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-12** — deleted branch `z/checkExistence` on [ZacSweers/napt](https://github.com/ZacSweers/napt)
+
+**2022-08-12** — commented on [#4](https://github.com/sergei-lapin/napt/issues/4#issuecomment-1213145338) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
+
 **2022-08-11** — created branch `z/allowNoLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-11** — opened PR [#5](https://github.com/sergei-lapin/napt/pull/5) to [sergei-lapin/napt](https://github.com/sergei-lapin/napt): "Check file existence before walking dirs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-11** — deleted branch `ke/pet-detail` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-11** — merged PR [#16](https://github.com/slackhq/circuit/pull/16) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create basic pet detail screen"
-
-**2022-08-11** — opened issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
-
-**2022-08-11** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1212551630) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
