@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-13** — commented on [#1565](https://github.com/square/moshi/issues/1565#issuecomment-1214213254) in [square/moshi](https://github.com/square/moshi)
+
+**2022-08-13** — closed issue [#1565](https://github.com/square/moshi/issues/1565) on [square/moshi](https://github.com/square/moshi): "Json to Java POJO's not working. second class null"
+
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213537548) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-08-12** — opened PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213494605) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-08-12** — opened PR [#85](https://github.com/slackhq/slack-gradle-plugin/pull/85) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't skip on empty sources in LocTask"
-
-**2022-08-12** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1213433428) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-12** — commented on [#3531](https://github.com/google/dagger/issues/3531#issuecomment-1213429663) in [google/dagger](https://github.com/google/dagger)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
