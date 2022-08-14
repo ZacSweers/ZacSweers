@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-14** — created branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-14** — commented on [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306#issuecomment-1214458886) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
 **2022-08-13** — commented on [#1565](https://github.com/square/moshi/issues/1565#issuecomment-1214224230) in [square/moshi](https://github.com/square/moshi)
 
 **2022-08-13** — commented on [#1565](https://github.com/square/moshi/issues/1565#issuecomment-1214213254) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213527884) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213512216) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213510664) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213494605) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
