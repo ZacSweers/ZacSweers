@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-15** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1215430911) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
+
 **2022-08-15** — opened PR [#18](https://github.com/slackhq/circuit/pull/18) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate shared build logic in root build.gradle.kts"
 
 **2022-08-15** — created branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-13** — closed issue [#1565](https://github.com/square/moshi/issues/1565) on [square/moshi](https://github.com/square/moshi): "Json to Java POJO's not working. second class null"
 
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213537548) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-12** — opened PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
