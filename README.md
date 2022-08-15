@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-15** — opened PR [#18](https://github.com/slackhq/circuit/pull/18) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate shared build logic in root build.gradle.kts"
+
+**2022-08-15** — created branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-15** — opened PR [#17](https://github.com/slackhq/circuit/pull/17) to [slackhq/circuit](https://github.com/slackhq/circuit): "Polish sample app a bit"
+
 **2022-08-14** — created branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-14** — commented on [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306#issuecomment-1214458886) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213537548) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 
 **2022-08-12** — opened PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
-
-**2022-08-12** — created branch `z/k2Pt2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213527884) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213512216) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
