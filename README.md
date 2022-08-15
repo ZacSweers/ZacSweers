@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-15** — opened PR [#21](https://github.com/slackhq/circuit/pull/21) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract backstack to separate subproject"
+
+**2022-08-15** — created branch `z/extractBackstack` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-15** — deleted branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-15** — closed issue [#11](https://github.com/slackhq/circuit/issues/11) on [slackhq/circuit](https://github.com/slackhq/circuit): "Extract common build config to root `build.gradle.kts`"
+
+**2022-08-15** — merged PR [#18](https://github.com/slackhq/circuit/pull/18) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate shared build logic in root build.gradle.kts"
+
+**2022-08-15** — opened issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
+
+**2022-08-15** — opened issue [#19](https://github.com/slackhq/circuit/issues/19) on [slackhq/circuit](https://github.com/slackhq/circuit): "Dedupe Nagivator names"
+
 **2022-08-15** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-15** — merged PR [#86](https://github.com/slackhq/slack-gradle-plugin/pull/86) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.159.1"
 
 **2022-08-15** — merged PR [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for napt in place of kapt"
-
-**2022-08-15** — deleted branch `z/naptTime` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-15** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1215582524) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-15** — deleted branch `z/allowNoLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-15** — merged PR [#85](https://github.com/slackhq/slack-gradle-plugin/pull/85) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't skip on empty sources in LocTask"
-
-**2022-08-15** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1215430911) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
-
-**2022-08-15** — opened PR [#18](https://github.com/slackhq/circuit/pull/18) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate shared build logic in root build.gradle.kts"
-
-**2022-08-15** — created branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
