@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-15** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-15** — merged PR [#86](https://github.com/slackhq/slack-gradle-plugin/pull/86) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.159.1"
+
+**2022-08-15** — merged PR [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for napt in place of kapt"
+
+**2022-08-15** — deleted branch `z/naptTime` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-15** — commented on [#83](https://github.com/slackhq/slack-gradle-plugin/pull/83#issuecomment-1215582524) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-15** — deleted branch `z/allowNoLoc` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-15** — merged PR [#85](https://github.com/slackhq/slack-gradle-plugin/pull/85) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't skip on empty sources in LocTask"
+
 **2022-08-15** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1215430911) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
 
 **2022-08-15** — opened PR [#18](https://github.com/slackhq/circuit/pull/18) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate shared build logic in root build.gradle.kts"
 
 **2022-08-15** — created branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-15** — opened PR [#17](https://github.com/slackhq/circuit/pull/17) to [slackhq/circuit](https://github.com/slackhq/circuit): "Polish sample app a bit"
-
-**2022-08-14** — created branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-14** — commented on [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306#issuecomment-1214458886) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
-
-**2022-08-13** — commented on [#1565](https://github.com/square/moshi/issues/1565#issuecomment-1214224230) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-13** — commented on [#1565](https://github.com/square/moshi/issues/1565#issuecomment-1214213254) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-13** — closed issue [#1565](https://github.com/square/moshi/issues/1565) on [square/moshi](https://github.com/square/moshi): "Json to Java POJO's not working. second class null"
-
-**2022-08-12** — commented on [#302](https://github.com/tschuchortdev/kotlin-compile-testing/issues/302#issuecomment-1213537548) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
