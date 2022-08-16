@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-16** — deleted branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-16** — merged PR [#17](https://github.com/slackhq/circuit/pull/17) to [slackhq/circuit](https://github.com/slackhq/circuit): "Polish sample app a bit"
+
 **2022-08-15** — commented on [#9](https://github.com/sergei-lapin/napt/pull/9#issuecomment-1216026254) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
 
 **2022-08-15** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1215797605) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-15** — merged PR [#21](https://github.com/slackhq/circuit/pull/21) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract backstack to separate subproject"
 
 **2022-08-15** — opened PR [#21](https://github.com/slackhq/circuit/pull/21) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract backstack to separate subproject"
-
-**2022-08-15** — created branch `z/extractBackstack` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-15** — deleted branch `z/consolidateBuildInfra` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
