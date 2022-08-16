@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-16** — deleted branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-16** — merged PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
+
 **2022-08-16** — opened PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
 
 **2022-08-16** — created branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-15** — commented on [#9](https://github.com/sergei-lapin/napt/pull/9#issuecomment-1216026254) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
 
 **2022-08-15** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1215797605) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-08-15** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1215751733) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
-
-**2022-08-15** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1215750255) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
