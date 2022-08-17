@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-17** — opened PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
+
+**2022-08-17** — created branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-08-17** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1218216484) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2022-08-16** — commented on [#1](https://github.com/slackhq/circuit/issues/1#issuecomment-1217261530) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-16** — created branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-16** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1216899615) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
-
-**2022-08-16** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1216890136) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-08-16** — deleted branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
