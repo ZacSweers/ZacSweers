@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-17** — closed issue [#1568](https://github.com/square/moshi/issues/1568) on [square/moshi](https://github.com/square/moshi): "kotlin-reflect crash after adding minifyEnabled = true"
+
+**2022-08-17** — commented on [#1568](https://github.com/square/moshi/issues/1568#issuecomment-1218552760) in [square/moshi](https://github.com/square/moshi)
+
 **2022-08-17** — merged PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
 
 **2022-08-17** — deleted branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-16** — opened issue [#1070](https://github.com/google/ksp/issues/1070) on [google/ksp](https://github.com/google/ksp): "Don't leave empty dirs if nothing is generated in them"
 
 **2022-08-16** — deleted branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-16** — merged PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
-
-**2022-08-16** — opened PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
