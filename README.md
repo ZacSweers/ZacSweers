@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-17** — merged PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
+
+**2022-08-17** — deleted branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-08-17** — opened PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
 
 **2022-08-17** — created branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-16** — merged PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
 
 **2022-08-16** — opened PR [#88](https://github.com/slackhq/slack-gradle-plugin/pull/88) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Finish napt integration"
-
-**2022-08-16** — created branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-16** — commented on [#8](https://github.com/sergei-lapin/napt/issues/8#issuecomment-1216899615) in [sergei-lapin/napt](https://github.com/sergei-lapin/napt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
