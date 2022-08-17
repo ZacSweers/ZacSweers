@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-17** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1218216484) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+
 **2022-08-16** — commented on [#1](https://github.com/slackhq/circuit/issues/1#issuecomment-1217261530) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-16** — opened issue [#1070](https://github.com/google/ksp/issues/1070) on [google/ksp](https://github.com/google/ksp): "Don't leave empty dirs if nothing is generated in them"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-16** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1216890136) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2022-08-16** — deleted branch `z/theming` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-16** — merged PR [#17](https://github.com/slackhq/circuit/pull/17) to [slackhq/circuit](https://github.com/slackhq/circuit): "Polish sample app a bit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
