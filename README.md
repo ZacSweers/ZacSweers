@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-18** — deleted branch `z/optionalLocData` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-18** — merged PR [#90](https://github.com/slackhq/slack-gradle-plugin/pull/90) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make LocData optional instead"
+
+**2022-08-18** — opened PR [#90](https://github.com/slackhq/slack-gradle-plugin/pull/90) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make LocData optional instead"
+
+**2022-08-18** — created branch `z/optionalLocData` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-08-17** — closed issue [#1568](https://github.com/square/moshi/issues/1568) on [square/moshi](https://github.com/square/moshi): "kotlin-reflect crash after adding minifyEnabled = true"
 
 **2022-08-17** — commented on [#1568](https://github.com/square/moshi/issues/1568#issuecomment-1218552760) in [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-17** — opened PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
 
 **2022-08-17** — created branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-17** — commented on [#121](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/121#issuecomment-1218216484) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-08-16** — commented on [#1](https://github.com/slackhq/circuit/issues/1#issuecomment-1217261530) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-16** — opened issue [#1070](https://github.com/google/ksp/issues/1070) on [google/ksp](https://github.com/google/ksp): "Don't leave empty dirs if nothing is generated in them"
-
-**2022-08-16** — deleted branch `z/finishNaptSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
