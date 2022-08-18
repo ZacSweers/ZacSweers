@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-18** — deleted branch `z/formattingFilterAndroid` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
+
+**2022-08-18** — closed PR [#3532](https://github.com/google/dagger/pull/3532) to [google/dagger](https://github.com/google/dagger): "Respect `dagger.formatGeneratedSource` in AndroidProcessor"
+
 **2022-08-18** — deleted branch `z/optionalLocData` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-18** — merged PR [#90](https://github.com/slackhq/slack-gradle-plugin/pull/90) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make LocData optional instead"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-17** — merged PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
 
 **2022-08-17** — deleted branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-17** — opened PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
-
-**2022-08-17** — created branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
