@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-19** — opened PR [#22](https://github.com/slackhq/circuit/pull/22) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split out `Circuit` type from `Navigator`"
+
+**2022-08-19** — created branch `z/circuitSeparation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-18** — deleted branch `z/formattingFilterAndroid` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
 
 **2022-08-18** — closed PR [#3532](https://github.com/google/dagger/pull/3532) to [google/dagger](https://github.com/google/dagger): "Respect `dagger.formatGeneratedSource` in AndroidProcessor"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-17** — closed issue [#1568](https://github.com/square/moshi/issues/1568) on [square/moshi](https://github.com/square/moshi): "kotlin-reflect crash after adding minifyEnabled = true"
 
 **2022-08-17** — commented on [#1568](https://github.com/square/moshi/issues/1568#issuecomment-1218552760) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-17** — merged PR [#89](https://github.com/slackhq/slack-gradle-plugin/pull/89) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up some now-outdated guards"
-
-**2022-08-17** — deleted branch `z/youtrackCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
