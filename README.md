@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-19** — opened PR [#91](https://github.com/slackhq/slack-gradle-plugin/pull/91) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove AgpHandler71"
+
+**2022-08-19** — created branch `z/removeAgpHandler71` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-08-19** — opened PR [#22](https://github.com/slackhq/circuit/pull/22) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split out `Circuit` type from `Navigator`"
 
 **2022-08-19** — created branch `z/circuitSeparation` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-18** — opened PR [#90](https://github.com/slackhq/slack-gradle-plugin/pull/90) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make LocData optional instead"
 
 **2022-08-18** — created branch `z/optionalLocData` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-17** — closed issue [#1568](https://github.com/square/moshi/issues/1568) on [square/moshi](https://github.com/square/moshi): "kotlin-reflect crash after adding minifyEnabled = true"
-
-**2022-08-17** — commented on [#1568](https://github.com/square/moshi/issues/1568#issuecomment-1218552760) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
