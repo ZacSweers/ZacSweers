@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-20** — opened PR [#25](https://github.com/slackhq/circuit/pull/25) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use Nothing for event-less detail UI"
+
+**2022-08-20** — created branch `z/nothing` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-20** — opened issue [#24](https://github.com/slackhq/circuit/issues/24) on [slackhq/circuit](https://github.com/slackhq/circuit): "Document/encourage use of `Nothing` for event-less UIs"
 
 **2022-08-20** — merged PR [#93](https://github.com/slackhq/slack-gradle-plugin/pull/93) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.167.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-19** — merged PR [#92](https://github.com/slackhq/slack-gradle-plugin/pull/92) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't use files at all for loc data"
 
 **2022-08-19** — deleted branch `z/removeAgpHandler71` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-19** — merged PR [#91](https://github.com/slackhq/slack-gradle-plugin/pull/91) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove AgpHandler71"
-
-**2022-08-19** — opened PR [#92](https://github.com/slackhq/slack-gradle-plugin/pull/92) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't use files at all for loc data"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
