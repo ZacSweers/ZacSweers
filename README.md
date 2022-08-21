@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-21** — opened PR [#26](https://github.com/slackhq/circuit/pull/26) to [slackhq/circuit](https://github.com/slackhq/circuit): "Anvilize sample app + use AppComponentFactory"
+
 **2022-08-21** — created branch `z/anvilize` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-21** — closed issue [#1350](https://github.com/square/kotlinpoet/issues/1350) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "ClassName.bestGuess generates bad imports"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-20** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-20** — commented on [#23](https://github.com/slackhq/circuit/pull/23#issuecomment-1221236928) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-20** — commented on [#23](https://github.com/slackhq/circuit/pull/23#issuecomment-1221234645) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
