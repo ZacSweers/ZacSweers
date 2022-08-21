@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-21** — closed issue [#1350](https://github.com/square/kotlinpoet/issues/1350) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "ClassName.bestGuess generates bad imports"
+
+**2022-08-21** — commented on [#1350](https://github.com/square/kotlinpoet/issues/1350#issuecomment-1221562134) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-08-20** — opened PR [#25](https://github.com/slackhq/circuit/pull/25) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use Nothing for event-less detail UI"
 
 **2022-08-20** — created branch `z/nothing` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-20** — commented on [#23](https://github.com/slackhq/circuit/pull/23#issuecomment-1221234645) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-19** — deleted branch `z/finallyFixLocTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-19** — merged PR [#92](https://github.com/slackhq/slack-gradle-plugin/pull/92) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't use files at all for loc data"
-
-**2022-08-19** — deleted branch `z/removeAgpHandler71` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
