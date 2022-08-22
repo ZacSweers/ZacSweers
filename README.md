@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-22** — opened PR [#28](https://github.com/slackhq/circuit/pull/28) to [slackhq/circuit](https://github.com/slackhq/circuit): "More little sample app UI tweaks"
+
+**2022-08-22** — created branch `z/moreSampleBits` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-22** — deleted branch `z/nothing` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-22** — merged PR [#25](https://github.com/slackhq/circuit/pull/25) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use Nothing for event-less detail UI"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-22** — merged PR [#26](https://github.com/slackhq/circuit/pull/26) to [slackhq/circuit](https://github.com/slackhq/circuit): "Anvilize sample app + use AppComponentFactory"
 
 **2022-08-22** — opened PR [#27](https://github.com/slackhq/circuit/pull/27) to [slackhq/circuit](https://github.com/slackhq/circuit): "More sample app UI polish"
-
-**2022-08-22** — created branch `z/sampleUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-21** — deleted branch `z/descriptionUpdate` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
