@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-22** — deleted branch `z/nothing` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-22** — merged PR [#25](https://github.com/slackhq/circuit/pull/25) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use Nothing for event-less detail UI"
+
 **2022-08-22** — merged PR [#27](https://github.com/slackhq/circuit/pull/27) to [slackhq/circuit](https://github.com/slackhq/circuit): "More sample app UI polish"
 
 **2022-08-22** — deleted branch `z/sampleUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-22** — created branch `z/sampleUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-21** — deleted branch `z/descriptionUpdate` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
-
-**2022-08-21** — merged PR [#1](https://github.com/ZacSweers/socialteesjs/pull/1) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Include chopped descriptions instead of bullets"
-
-**2022-08-21** — opened PR [#1](https://github.com/ZacSweers/socialteesjs/pull/1) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Include chopped descriptions instead of bullets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
