@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-22** — opened PR [#27](https://github.com/slackhq/circuit/pull/27) to [slackhq/circuit](https://github.com/slackhq/circuit): "More sample app UI polish"
+
+**2022-08-22** — created branch `z/sampleUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-21** — deleted branch `z/descriptionUpdate` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
 
 **2022-08-21** — merged PR [#1](https://github.com/ZacSweers/socialteesjs/pull/1) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Include chopped descriptions instead of bullets"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-21** — closed issue [#1350](https://github.com/square/kotlinpoet/issues/1350) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "ClassName.bestGuess generates bad imports"
 
 **2022-08-21** — commented on [#1350](https://github.com/square/kotlinpoet/issues/1350#issuecomment-1221562134) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-08-20** — opened PR [#25](https://github.com/slackhq/circuit/pull/25) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use Nothing for event-less detail UI"
-
-**2022-08-20** — created branch `z/nothing` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
