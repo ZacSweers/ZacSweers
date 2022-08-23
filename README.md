@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-23** — opened PR [#29](https://github.com/slackhq/circuit/pull/29) to [slackhq/circuit](https://github.com/slackhq/circuit): "Get things working"
+
+**2022-08-23** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-23** — merged PR [#95](https://github.com/slackhq/slack-gradle-plugin/pull/95) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.13.0"
+
 **2022-08-23** — created branch `z/testingTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-22** — opened PR [#28](https://github.com/slackhq/circuit/pull/28) to [slackhq/circuit](https://github.com/slackhq/circuit): "More little sample app UI tweaks"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-22** — merged PR [#27](https://github.com/slackhq/circuit/pull/27) to [slackhq/circuit](https://github.com/slackhq/circuit): "More sample app UI polish"
 
 **2022-08-22** — deleted branch `z/sampleUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-22** — closed issue [#3](https://github.com/slackhq/circuit/issues/3) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up anvil infrastructure in sample app"
-
-**2022-08-22** — deleted branch `z/anvilize` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-22** — merged PR [#26](https://github.com/slackhq/circuit/pull/26) to [slackhq/circuit](https://github.com/slackhq/circuit): "Anvilize sample app + use AppComponentFactory"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
