@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-24** — opened issue [#1569](https://github.com/square/moshi/issues/1569) on [square/moshi](https://github.com/square/moshi): "Investigate whether null-vs-absence is being fully respected in Kotlin adapters"
+
 **2022-08-24** — closed issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
 
 **2022-08-24** — deleted branch `z/circuitSeparation` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-24** — commented on [#22](https://github.com/slackhq/circuit/pull/22#issuecomment-1225912184) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-24** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-24** — merged PR [#98](https://github.com/slackhq/slack-gradle-plugin/pull/98) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.13.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
