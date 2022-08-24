@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-24** — closed issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
+
+**2022-08-24** — deleted branch `z/circuitSeparation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-24** — merged PR [#22](https://github.com/slackhq/circuit/pull/22) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split out `Circuit` type from `Navigator`"
+
+**2022-08-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-08-24** — merged PR [#321](https://github.com/ZacSweers/MoshiX/pull/321) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.10.0"
+
+**2022-08-24** — closed issue [#1022](https://github.com/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Integrate kotlin ABI validator"
+
+**2022-08-24** — commented on [#1022](https://github.com/square/kotlinpoet/issues/1022#issuecomment-1225912774) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-08-24** — commented on [#22](https://github.com/slackhq/circuit/pull/22#issuecomment-1225912184) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-24** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-24** — merged PR [#98](https://github.com/slackhq/slack-gradle-plugin/pull/98) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.13.1"
-
-**2022-08-23** — commented on [#30](https://github.com/slackhq/circuit/issues/30#issuecomment-1224774634) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-23** — deleted branch `z/moreSampleBits` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-23** — merged PR [#28](https://github.com/slackhq/circuit/pull/28) to [slackhq/circuit](https://github.com/slackhq/circuit): "More little sample app UI tweaks"
-
-**2022-08-23** — deleted branch `z/testingTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-23** — opened issue [#30](https://github.com/slackhq/circuit/issues/30) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider `PresenterScope` receiver for presenters"
-
-**2022-08-23** — opened PR [#29](https://github.com/slackhq/circuit/pull/29) to [slackhq/circuit](https://github.com/slackhq/circuit): "Get things working"
-
-**2022-08-23** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-23** — merged PR [#95](https://github.com/slackhq/slack-gradle-plugin/pull/95) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
