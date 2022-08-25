@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-25** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-25** — merged PR [#100](https://github.com/slackhq/slack-gradle-plugin/pull/100) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.10.0"
+
 **2022-08-24** — opened issue [#1569](https://github.com/square/moshi/issues/1569) on [square/moshi](https://github.com/square/moshi): "Investigate whether null-vs-absence is being fully respected in Kotlin adapters"
 
 **2022-08-24** — closed issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-24** — closed issue [#1022](https://github.com/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Integrate kotlin ABI validator"
 
 **2022-08-24** — commented on [#1022](https://github.com/square/kotlinpoet/issues/1022#issuecomment-1225912774) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-08-24** — commented on [#22](https://github.com/slackhq/circuit/pull/22#issuecomment-1225912184) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-24** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
