@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-25** — deleted branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-25** — merged PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
+
 **2022-08-25** — deleted branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-25** — merged PR [#31](https://github.com/slackhq/circuit/pull/31) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add basic http request logging for visibility"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-25** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-25** — merged PR [#100](https://github.com/slackhq/slack-gradle-plugin/pull/100) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.10.0"
-
-**2022-08-24** — opened issue [#1569](https://github.com/square/moshi/issues/1569) on [square/moshi](https://github.com/square/moshi): "Investigate whether null-vs-absence is being fully respected in Kotlin adapters"
-
-**2022-08-24** — closed issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
