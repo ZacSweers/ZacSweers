@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-25** — opened PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
+
+**2022-08-25** — created branch `z/idiomaticCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-25** — deleted branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-25** — merged PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-25** — created branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-25** — created branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-25** — merged PR [#100](https://github.com/slackhq/slack-gradle-plugin/pull/100) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.10.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
