@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-25** — deleted branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-25** — merged PR [#31](https://github.com/slackhq/circuit/pull/31) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add basic http request logging for visibility"
+
+**2022-08-25** — opened PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
+
+**2022-08-25** — opened PR [#31](https://github.com/slackhq/circuit/pull/31) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add basic http request logging for visibility"
+
+**2022-08-25** — created branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-25** — created branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-25** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-24** — opened issue [#1569](https://github.com/square/moshi/issues/1569) on [square/moshi](https://github.com/square/moshi): "Investigate whether null-vs-absence is being fully respected in Kotlin adapters"
 
 **2022-08-24** — closed issue [#20](https://github.com/slackhq/circuit/issues/20) on [slackhq/circuit](https://github.com/slackhq/circuit): "Remove anvil/dagger from circuit core"
-
-**2022-08-24** — deleted branch `z/circuitSeparation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-24** — merged PR [#22](https://github.com/slackhq/circuit/pull/22) to [slackhq/circuit](https://github.com/slackhq/circuit): "Split out `Circuit` type from `Navigator`"
-
-**2022-08-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-08-24** — merged PR [#321](https://github.com/ZacSweers/MoshiX/pull/321) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.10.0"
-
-**2022-08-24** — closed issue [#1022](https://github.com/square/kotlinpoet/issues/1022) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Integrate kotlin ABI validator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
