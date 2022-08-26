@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-26** — opened PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
+
+**2022-08-26** — created branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-26** — deleted branch `z/idiomaticCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-26** — merged PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-25** — merged PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
 
 **2022-08-25** — deleted branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — merged PR [#31](https://github.com/slackhq/circuit/pull/31) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add basic http request logging for visibility"
-
-**2022-08-25** — opened PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
