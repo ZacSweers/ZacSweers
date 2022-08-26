@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-25** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1227952568) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-25** — opened PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
 
 **2022-08-25** — created branch `z/idiomaticCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-25** — opened PR [#31](https://github.com/slackhq/circuit/pull/31) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add basic http request logging for visibility"
 
 **2022-08-25** — created branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — created branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
