@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-26** — commented on [#1570](https://github.com/square/moshi/issues/1570#issuecomment-1229059257) in [square/moshi](https://github.com/square/moshi)
+
+**2022-08-26** — commented on [#1571](https://github.com/square/moshi/issues/1571#issuecomment-1229055531) in [square/moshi](https://github.com/square/moshi)
+
+**2022-08-26** — closed issue [#1571](https://github.com/square/moshi/issues/1571) on [square/moshi](https://github.com/square/moshi): "Custom builds via jitpack?"
+
+**2022-08-26** — opened PR [#37](https://github.com/slackhq/circuit/pull/37) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable requirement for UiState"
+
+**2022-08-26** — created branch `z/loosenParcelable` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-26** — opened PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
 
 **2022-08-26** — created branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-26** — merged PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
 
 **2022-08-25** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1227952568) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — opened PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
-
-**2022-08-25** — created branch `z/idiomaticCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — deleted branch `z/cc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-25** — merged PR [#32](https://github.com/slackhq/circuit/pull/32) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration caching for builds"
-
-**2022-08-25** — deleted branch `z/httpLogging` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
