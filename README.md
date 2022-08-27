@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229083747) in [square/moshi](https://github.com/square/moshi)
+
+**2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229081582) in [square/moshi](https://github.com/square/moshi)
+
 **2022-08-26** — commented on [#1570](https://github.com/square/moshi/issues/1570#issuecomment-1229059257) in [square/moshi](https://github.com/square/moshi)
 
 **2022-08-26** — commented on [#1571](https://github.com/square/moshi/issues/1571#issuecomment-1229055531) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-26** — created branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-26** — deleted branch `z/idiomaticCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-26** — merged PR [#34](https://github.com/slackhq/circuit/pull/34) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc idiomaticness cleanups"
-
-**2022-08-25** — commented on [#5](https://github.com/slackhq/circuit/issues/5#issuecomment-1227952568) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
