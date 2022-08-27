@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-27** — opened PR [#102](https://github.com/slackhq/slack-gradle-plugin/pull/102) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix namedLazy error message"
+
 **2022-08-27** — created branch `z/fixMessage` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229083747) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-26** — created branch `z/loosenParcelable` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-26** — opened PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
-
-**2022-08-26** — created branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
