@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-27** — opened PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
+
+**2022-08-27** — created branch `z/circuitContainers` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-27** — deleted branch `z/fixMessage` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-08-27** — merged PR [#102](https://github.com/slackhq/slack-gradle-plugin/pull/102) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix namedLazy error message"
+
 **2022-08-27** — opened PR [#102](https://github.com/slackhq/slack-gradle-plugin/pull/102) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix namedLazy error message"
 
 **2022-08-27** — created branch `z/fixMessage` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-26** — commented on [#1570](https://github.com/square/moshi/issues/1570#issuecomment-1229059257) in [square/moshi](https://github.com/square/moshi)
 
 **2022-08-26** — commented on [#1571](https://github.com/square/moshi/issues/1571#issuecomment-1229055531) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-26** — closed issue [#1571](https://github.com/square/moshi/issues/1571) on [square/moshi](https://github.com/square/moshi): "Custom builds via jitpack?"
-
-**2022-08-26** — opened PR [#37](https://github.com/slackhq/circuit/pull/37) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable requirement for UiState"
-
-**2022-08-26** — created branch `z/loosenParcelable` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-26** — opened PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
