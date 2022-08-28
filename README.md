@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-28** — opened issue [#40](https://github.com/slackhq/circuit/issues/40) on [slackhq/circuit](https://github.com/slackhq/circuit): "Demo different UIs for different configurations"
+
 **2022-08-27** — opened issue [#39](https://github.com/slackhq/circuit/issues/39) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to expose modifier in Ui.Render?"
 
 **2022-08-27** — opened PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229083747) in [square/moshi](https://github.com/square/moshi)
 
 **2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229081582) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-26** — commented on [#1570](https://github.com/square/moshi/issues/1570#issuecomment-1229059257) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
