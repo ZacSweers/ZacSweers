@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-28** — commented on [#38](https://github.com/slackhq/circuit/pull/38#issuecomment-1229539889) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-28** — opened issue [#41](https://github.com/slackhq/circuit/issues/41) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up MKDocs for documentation"
+
+**2022-08-28** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1229537868) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-28** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1229537581) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-28** — opened issue [#40](https://github.com/slackhq/circuit/issues/40) on [slackhq/circuit](https://github.com/slackhq/circuit): "Demo different UIs for different configurations"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-27** — deleted branch `z/fixMessage` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-08-27** — merged PR [#102](https://github.com/slackhq/slack-gradle-plugin/pull/102) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix namedLazy error message"
-
-**2022-08-27** — opened PR [#102](https://github.com/slackhq/slack-gradle-plugin/pull/102) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix namedLazy error message"
-
-**2022-08-27** — created branch `z/fixMessage` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-08-26** — commented on [#1153](https://github.com/square/moshi/pull/1153#issuecomment-1229083747) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
