@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-28** — commented on [#8](https://github.com/slackhq/circuit/issues/8#issuecomment-1229726248) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-28** — opened issue [#107](https://github.com/slackhq/keeper/issues/107) on [slackhq/keeper](https://github.com/slackhq/keeper): "Remove PrintUses support"
 
 **2022-08-28** — opened issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-27** — opened issue [#39](https://github.com/slackhq/circuit/issues/39) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to expose modifier in Ui.Render?"
 
 **2022-08-27** — opened PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
-
-**2022-08-27** — created branch `z/circuitContainers` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
