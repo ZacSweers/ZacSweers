@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-29** — closed PR [#1573](https://github.com/square/moshi/pull/1573) to [square/moshi](https://github.com/square/moshi): "Remove truth library"
+
+**2022-08-29** — commented on [#1573](https://github.com/square/moshi/pull/1573#issuecomment-1230827327) in [square/moshi](https://github.com/square/moshi)
+
+**2022-08-29** — closed issue [#5](https://github.com/slackhq/circuit/issues/5) on [slackhq/circuit](https://github.com/slackhq/circuit): "Possibly revisit requiring states to be `Parcelable`"
+
+**2022-08-29** — deleted branch `z/loosenParcelable` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-29** — merged PR [#37](https://github.com/slackhq/circuit/pull/37) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove Parcelable requirement for UiState"
+
 **2022-08-28** — commented on [#8](https://github.com/slackhq/circuit/issues/8#issuecomment-1229726248) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-28** — opened issue [#107](https://github.com/slackhq/keeper/issues/107) on [slackhq/keeper](https://github.com/slackhq/keeper): "Remove PrintUses support"
 
 **2022-08-28** — opened issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
-
-**2022-08-28** — commented on [#38](https://github.com/slackhq/circuit/pull/38#issuecomment-1229539889) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-28** — opened issue [#41](https://github.com/slackhq/circuit/issues/41) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up MKDocs for documentation"
-
-**2022-08-28** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1229537868) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-28** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1229537581) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-28** — opened issue [#40](https://github.com/slackhq/circuit/issues/40) on [slackhq/circuit](https://github.com/slackhq/circuit): "Demo different UIs for different configurations"
-
-**2022-08-27** — opened issue [#39](https://github.com/slackhq/circuit/issues/39) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to expose modifier in Ui.Render?"
-
-**2022-08-27** — opened PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
