@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-31** — deleted branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-31** — merged PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
+
 **2022-08-31** — closed issue [#19](https://github.com/slackhq/circuit/issues/19) on [slackhq/circuit](https://github.com/slackhq/circuit): "Dedupe Nagivator names"
 
 **2022-08-31** — closed issue [#7](https://github.com/slackhq/circuit/issues/7) on [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype nested UIs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-29** — closed PR [#1573](https://github.com/square/moshi/pull/1573) to [square/moshi](https://github.com/square/moshi): "Remove truth library"
 
 **2022-08-29** — commented on [#1573](https://github.com/square/moshi/pull/1573#issuecomment-1230827327) in [square/moshi](https://github.com/square/moshi)
-
-**2022-08-29** — closed issue [#5](https://github.com/slackhq/circuit/issues/5) on [slackhq/circuit](https://github.com/slackhq/circuit): "Possibly revisit requiring states to be `Parcelable`"
-
-**2022-08-29** — deleted branch `z/loosenParcelable` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
