@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-31** — opened issue [#46](https://github.com/slackhq/circuit/issues/46) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add hooks for events and states"
+
 **2022-08-31** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1233635888) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-31** — opened PR [#45](https://github.com/slackhq/circuit/pull/45) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit parameters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-31** — deleted branch `z/circuitContainers` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-31** — merged PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
-
-**2022-08-31** — opened PR [#24](https://github.com/slackhq/slack-lints/pull/24) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement DoNotExposeEitherNetInRepositoriesDetector"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
