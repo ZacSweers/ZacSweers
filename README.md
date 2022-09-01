@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-08-31** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1233635888) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-08-31** — opened PR [#45](https://github.com/slackhq/circuit/pull/45) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit parameters"
+
+**2022-08-31** — created branch `z/circuitParams` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-31** — deleted branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-31** — merged PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-31** — merged PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
 
 **2022-08-31** — opened PR [#24](https://github.com/slackhq/slack-lints/pull/24) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement DoNotExposeEitherNetInRepositoriesDetector"
-
-**2022-08-31** — created branch `z/eitherNetChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-08-29** — closed PR [#1573](https://github.com/square/moshi/pull/1573) to [square/moshi](https://github.com/square/moshi): "Remove truth library"
-
-**2022-08-29** — commented on [#1573](https://github.com/square/moshi/pull/1573#issuecomment-1230827327) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
