@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1234359290) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1233753736) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-01** — opened PR [#47](https://github.com/slackhq/circuit/pull/47) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use delegates for state in presenters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-31** — deleted branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-08-31** — merged PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
-
-**2022-08-31** — closed issue [#19](https://github.com/slackhq/circuit/issues/19) on [slackhq/circuit](https://github.com/slackhq/circuit): "Dedupe Nagivator names"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
