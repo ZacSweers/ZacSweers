@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1233753736) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-01** — opened PR [#47](https://github.com/slackhq/circuit/pull/47) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use delegates for state in presenters"
+
+**2022-09-01** — created branch `z/delegates` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-08-31** — opened issue [#46](https://github.com/slackhq/circuit/issues/46) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add hooks for events and states"
 
 **2022-08-31** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1233635888) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-31** — merged PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
 
 **2022-08-31** — closed issue [#19](https://github.com/slackhq/circuit/issues/19) on [slackhq/circuit](https://github.com/slackhq/circuit): "Dedupe Nagivator names"
-
-**2022-08-31** — closed issue [#7](https://github.com/slackhq/circuit/issues/7) on [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype nested UIs"
-
-**2022-08-31** — deleted branch `z/circuitContainers` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-31** — merged PR [#38](https://github.com/slackhq/circuit/pull/38) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rework navigation and containers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
