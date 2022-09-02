@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-02** — commented on [#48](https://github.com/slackhq/circuit/issues/48#issuecomment-1235774203) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-02** — opened issue [#48](https://github.com/slackhq/circuit/issues/48) on [slackhq/circuit](https://github.com/slackhq/circuit): "Hoisting state"
+
 **2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1234359290) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1233753736) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-08-31** — opened PR [#45](https://github.com/slackhq/circuit/pull/45) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit parameters"
 
 **2022-08-31** — created branch `z/circuitParams` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-31** — deleted branch `z/finishDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-31** — merged PR [#36](https://github.com/slackhq/circuit/pull/36) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish DI example + link diagram for edits"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
