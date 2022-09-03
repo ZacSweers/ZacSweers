@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-02** — opened issue [#52](https://github.com/slackhq/circuit/issues/52) on [slackhq/circuit](https://github.com/slackhq/circuit): "Explore persisting Presenters across config changes"
+
+**2022-09-02** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-1236020500) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-02** — opened PR [#51](https://github.com/slackhq/circuit/pull/51) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a README to the backstack project for reference"
+
+**2022-09-02** — opened issue [#50](https://github.com/slackhq/circuit/issues/50) on [slackhq/circuit](https://github.com/slackhq/circuit): "Transitions and animations"
+
+**2022-09-02** — created branch `z/backstackReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-02** — opened PR [#49](https://github.com/slackhq/circuit/pull/49) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `EventListener` API"
+
+**2022-09-02** — created branch `z/eventListener` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-02** — commented on [#48](https://github.com/slackhq/circuit/issues/48#issuecomment-1235774203) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-02** — opened issue [#48](https://github.com/slackhq/circuit/issues/48) on [slackhq/circuit](https://github.com/slackhq/circuit): "Hoisting state"
 
 **2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1234359290) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-01** — commented on [#9](https://github.com/slackhq/circuit/issues/9#issuecomment-1233753736) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-01** — opened PR [#47](https://github.com/slackhq/circuit/pull/47) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use delegates for state in presenters"
-
-**2022-09-01** — created branch `z/delegates` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-31** — opened issue [#46](https://github.com/slackhq/circuit/issues/46) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add hooks for events and states"
-
-**2022-08-31** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1233635888) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-08-31** — opened PR [#45](https://github.com/slackhq/circuit/pull/45) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit parameters"
-
-**2022-08-31** — created branch `z/circuitParams` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
