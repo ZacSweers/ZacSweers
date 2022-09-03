@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-03** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1236182423) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-03** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1236178420) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-03** — opened issue [#53](https://github.com/slackhq/circuit/issues/53) on [slackhq/circuit](https://github.com/slackhq/circuit): "Generate and package baseline profiles"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-02** — opened PR [#49](https://github.com/slackhq/circuit/pull/49) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `EventListener` API"
 
 **2022-09-02** — created branch `z/eventListener` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-02** — commented on [#48](https://github.com/slackhq/circuit/issues/48#issuecomment-1235774203) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
