@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-04** — opened issue [#348](https://github.com/facebookincubator/ktfmt/issues/348) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "trailing function call parenthesis regression in 0.40"
+
 **2022-09-03** — opened PR [#57](https://github.com/slackhq/circuit/pull/57) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype Continuity"
 
 **2022-09-03** — created branch `z/persistedPresenters` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-03** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1236178420) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-03** — opened issue [#53](https://github.com/slackhq/circuit/issues/53) on [slackhq/circuit](https://github.com/slackhq/circuit): "Generate and package baseline profiles"
-
-**2022-09-02** — opened issue [#52](https://github.com/slackhq/circuit/issues/52) on [slackhq/circuit](https://github.com/slackhq/circuit): "Explore persisting Presenters across config changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
