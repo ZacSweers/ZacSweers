@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-04** — commented on [#566](https://github.com/cashapp/paparazzi/pull/566#issuecomment-1236401852) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2022-09-04** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1236398701) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-04** — opened PR [#59](https://github.com/slackhq/circuit/pull/59) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tinker with Paparazzi"
 
 **2022-09-04** — opened PR [#566](https://github.com/cashapp/paparazzi/pull/566) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Mention JDK 16+ module opens requirements"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-03** — created branch `z/persistedPresenters` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-03** — opened issue [#56](https://github.com/slackhq/circuit/issues/56) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider using marker interfaces"
-
-**2022-09-03** — opened issue [#55](https://github.com/slackhq/circuit/issues/55) on [slackhq/circuit](https://github.com/slackhq/circuit): "Rename collectEvents() to `EventCollector`"
-
-**2022-09-03** — commented on [#46](https://github.com/slackhq/circuit/issues/46#issuecomment-1236197420) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
