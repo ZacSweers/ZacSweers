@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-04** — opened PR [#59](https://github.com/slackhq/circuit/pull/59) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tinker with Paparazzi"
+
+**2022-09-04** — opened PR [#566](https://github.com/cashapp/paparazzi/pull/566) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Mention JDK 16+ module opens requirements"
+
+**2022-09-04** — created branch `z/paparazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-04** — opened issue [#58](https://github.com/slackhq/circuit/issues/58) on [slackhq/circuit](https://github.com/slackhq/circuit): "Try out Paparazzi"
+
 **2022-09-04** — opened issue [#348](https://github.com/facebookincubator/ktfmt/issues/348) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "trailing function call parenthesis regression in 0.40"
 
 **2022-09-03** — opened PR [#57](https://github.com/slackhq/circuit/pull/57) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype Continuity"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-03** — opened issue [#55](https://github.com/slackhq/circuit/issues/55) on [slackhq/circuit](https://github.com/slackhq/circuit): "Rename collectEvents() to `EventCollector`"
 
 **2022-09-03** — commented on [#46](https://github.com/slackhq/circuit/issues/46#issuecomment-1236197420) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-03** — opened issue [#54](https://github.com/slackhq/circuit/issues/54) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate LeakCanary to sample app"
-
-**2022-09-03** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1236182423) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-03** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1236178420) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-03** — opened issue [#53](https://github.com/slackhq/circuit/issues/53) on [slackhq/circuit](https://github.com/slackhq/circuit): "Generate and package baseline profiles"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
