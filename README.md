@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-04** — deleted branch `patch-1` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+
+**2022-09-04** — closed PR [#566](https://github.com/cashapp/paparazzi/pull/566) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Mention JDK 16+ module opens requirements"
+
+**2022-09-04** — commented on [#566](https://github.com/cashapp/paparazzi/pull/566#issuecomment-1236419389) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2022-09-04** — commented on [#57](https://github.com/slackhq/circuit/pull/57#issuecomment-1236418721) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-04** — commented on [#566](https://github.com/cashapp/paparazzi/pull/566#issuecomment-1236401852) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2022-09-04** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1236398701) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-04** — created branch `z/paparazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-04** — opened issue [#58](https://github.com/slackhq/circuit/issues/58) on [slackhq/circuit](https://github.com/slackhq/circuit): "Try out Paparazzi"
-
-**2022-09-04** — opened issue [#348](https://github.com/facebookincubator/ktfmt/issues/348) on [facebookincubator/ktfmt](https://github.com/facebookincubator/ktfmt): "trailing function call parenthesis regression in 0.40"
-
-**2022-09-03** — opened PR [#57](https://github.com/slackhq/circuit/pull/57) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype Continuity"
-
-**2022-09-03** — created branch `z/persistedPresenters` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-03** — opened issue [#56](https://github.com/slackhq/circuit/issues/56) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider using marker interfaces"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
