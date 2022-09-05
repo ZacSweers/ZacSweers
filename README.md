@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-05** — opened PR [#106](https://github.com/slackhq/slack-gradle-plugin/pull/106) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovate action monthly"
+
+**2022-09-05** — created branch `z/renovateActionMonthly` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-05** — opened PR [#66](https://github.com/slackhq/circuit/pull/66) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up renovate"
+
+**2022-09-05** — created branch `z/renovateSetup` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-05** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-05** — merged PR [#97](https://github.com/slackhq/slack-gradle-plugin/pull/97) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.2"
+
+**2022-09-05** — opened PR [#65](https://github.com/slackhq/circuit/pull/65) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up basic mkdocs site"
+
+**2022-09-05** — created branch `z/mkdocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-05** — opened issue [#64](https://github.com/slackhq/circuit/issues/64) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up Renovate for dependency updates"
 
 **2022-09-05** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1236535888) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — opened PR [#63](https://github.com/slackhq/circuit/pull/63) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use LeakCanary in sample app"
-
-**2022-09-05** — created branch `z/leakcanarySample` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1236534225) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — opened PR [#62](https://github.com/slackhq/circuit/pull/62) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish documenting Nothing usage in UiEvent"
-
-**2022-09-05** — opened PR [#61](https://github.com/slackhq/circuit/pull/61) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename collectEvents to EventCollector"
-
-**2022-09-05** — created branch `z/nothingDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — created branch `z/eventcollector` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — opened PR [#60](https://github.com/slackhq/circuit/pull/60) to [slackhq/circuit](https://github.com/slackhq/circuit): "KMP Prototype"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
