@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-05** — deleted branch `revert-105-test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-05** — merged PR [#107](https://github.com/slackhq/slack-gradle-plugin/pull/107) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update renovatebot/github-action action to v32.190.4""
+
+**2022-09-05** — opened PR [#107](https://github.com/slackhq/slack-gradle-plugin/pull/107) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update renovatebot/github-action action to v32.190.4""
+
+**2022-09-05** — created branch `revert-105-test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-05** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-05** — merged PR [#105](https://github.com/slackhq/slack-gradle-plugin/pull/105) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.190.4"
+
 **2022-09-05** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1237021694) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-05** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-05** — merged PR [#323](https://github.com/ZacSweers/MoshiX/pull/323) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.11.1"
 
 **2022-09-05** — opened PR [#106](https://github.com/slackhq/slack-gradle-plugin/pull/106) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovate action monthly"
-
-**2022-09-05** — created branch `z/renovateActionMonthly` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-05** — opened PR [#66](https://github.com/slackhq/circuit/pull/66) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up renovate"
-
-**2022-09-05** — created branch `z/renovateSetup` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-05** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-05** — merged PR [#97](https://github.com/slackhq/slack-gradle-plugin/pull/97) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.2"
-
-**2022-09-05** — opened PR [#65](https://github.com/slackhq/circuit/pull/65) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up basic mkdocs site"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
