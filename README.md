@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-09-04** — created branch `z/mpp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-05** — opened issue [#64](https://github.com/slackhq/circuit/issues/64) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up Renovate for dependency updates"
 
-**2022-09-04** — deleted branch `patch-1` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+**2022-09-05** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1236535888) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-04** — closed PR [#566](https://github.com/cashapp/paparazzi/pull/566) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Mention JDK 16+ module opens requirements"
+**2022-09-05** — opened PR [#63](https://github.com/slackhq/circuit/pull/63) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use LeakCanary in sample app"
 
-**2022-09-04** — commented on [#566](https://github.com/cashapp/paparazzi/pull/566#issuecomment-1236419389) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+**2022-09-05** — created branch `z/leakcanarySample` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-04** — commented on [#57](https://github.com/slackhq/circuit/pull/57#issuecomment-1236418721) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-05** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1236534225) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-04** — commented on [#566](https://github.com/cashapp/paparazzi/pull/566#issuecomment-1236401852) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+**2022-09-05** — opened PR [#62](https://github.com/slackhq/circuit/pull/62) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish documenting Nothing usage in UiEvent"
 
-**2022-09-04** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1236398701) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-05** — opened PR [#61](https://github.com/slackhq/circuit/pull/61) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename collectEvents to EventCollector"
 
-**2022-09-04** — opened PR [#59](https://github.com/slackhq/circuit/pull/59) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tinker with Paparazzi"
+**2022-09-05** — created branch `z/nothingDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-04** — opened PR [#566](https://github.com/cashapp/paparazzi/pull/566) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Mention JDK 16+ module opens requirements"
+**2022-09-05** — created branch `z/eventcollector` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-04** — created branch `z/paparazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-05** — opened PR [#60](https://github.com/slackhq/circuit/pull/60) to [slackhq/circuit](https://github.com/slackhq/circuit): "KMP Prototype"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
