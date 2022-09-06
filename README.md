@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-06** — opened PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
+
+**2022-09-06** — created branch `z/publishSgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-06** — deleted branch `ke/enable-instrumentation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-06** — commented on [#79](https://github.com/slackhq/circuit/pull/79#issuecomment-1238721296) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-06** — closed issue [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Request: only mask non-null values"
 
 **2022-09-06** — commented on [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84#issuecomment-1238704696) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -11,18 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-06** — deleted branch `test-renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-06** — merged PR [#76](https://github.com/slackhq/circuit/pull/76) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.5.0"
-
-**2022-09-06** — deleted branch `test-renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — merged PR [#73](https://github.com/slackhq/circuit/pull/73) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.squareup.anvil to v2.4.2"
-
-**2022-09-06** — deleted branch `test-renovate/composecompiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — merged PR [#71](https://github.com/slackhq/circuit/pull/71) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.3.0"
-
-**2022-09-06** — deleted branch `test-renovate/material-composethemeadapter` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — merged PR [#72](https://github.com/slackhq/circuit/pull/72) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.google.android.material:compose-theme-adapter to v1.1.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
