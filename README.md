@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-06** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-06** — merged PR [#70](https://github.com/slackhq/circuit/pull/70) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.0-rc01"
+
+**2022-09-06** — deleted branch `test-renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-06** — closed PR [#69](https://github.com/slackhq/circuit/pull/69) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.26.2-SNAPSHOT"
+
+**2022-09-06** — commented on [#69](https://github.com/slackhq/circuit/pull/69#issuecomment-1238515773) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-06** — deleted branch `z/renovateActionMonthly` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-06** — merged PR [#106](https://github.com/slackhq/slack-gradle-plugin/pull/106) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovate action monthly"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-06** — merged PR [#45](https://github.com/slackhq/circuit/pull/45) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit parameters"
 
 **2022-09-06** — deleted branch `z/renovateVersion` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — merged PR [#67](https://github.com/slackhq/circuit/pull/67) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix renovate version"
-
-**2022-09-06** — opened PR [#67](https://github.com/slackhq/circuit/pull/67) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix renovate version"
-
-**2022-09-06** — created branch `z/renovateVersion` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — closed issue [#54](https://github.com/slackhq/circuit/issues/54) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate LeakCanary to sample app"
-
-**2022-09-06** — deleted branch `z/leakcanarySample` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
