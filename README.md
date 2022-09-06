@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-09-06** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-09-06** — closed issue [#54](https://github.com/slackhq/circuit/issues/54) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate LeakCanary to sample app"
 
-**2022-09-06** — merged PR [#109](https://github.com/slackhq/slack-gradle-plugin/pull/109) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.190.6"
+**2022-09-06** — deleted branch `z/leakcanarySample` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-06** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1238229085) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-09-06** — deleted branch `z/mkdocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-05** — opened PR [#108](https://github.com/slackhq/slack-gradle-plugin/pull/108) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement compose() feature DSL in SlackExtension"
+**2022-09-06** — merged PR [#65](https://github.com/slackhq/circuit/pull/65) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up basic mkdocs site"
 
-**2022-09-05** — created branch `z/composeDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-09-06** — closed issue [#64](https://github.com/slackhq/circuit/issues/64) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up Renovate for dependency updates"
 
-**2022-09-05** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1237464553) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-06** — merged PR [#66](https://github.com/slackhq/circuit/pull/66) to [slackhq/circuit](https://github.com/slackhq/circuit): "Set up renovate"
 
-**2022-09-05** — deleted branch `revert-105-test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-09-06** — deleted branch `z/renovateSetup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-05** — merged PR [#107](https://github.com/slackhq/slack-gradle-plugin/pull/107) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update renovatebot/github-action action to v32.190.4""
+**2022-09-06** — deleted branch `z/delegates` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-05** — opened PR [#107](https://github.com/slackhq/slack-gradle-plugin/pull/107) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update renovatebot/github-action action to v32.190.4""
+**2022-09-06** — merged PR [#47](https://github.com/slackhq/circuit/pull/47) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use delegates for state in presenters"
 
-**2022-09-05** — created branch `revert-105-test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-09-06** — deleted branch `z/backstackReadme` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
