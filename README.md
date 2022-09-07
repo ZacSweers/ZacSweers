@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-06** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1238871516) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2022-09-06** — opened issue [#7581](https://github.com/robolectric/robolectric/issues/7581) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Support AppComponentFactory or ignore BroadcastReceivers with custom constructors"
+
 **2022-09-06** — opened PR [#1575](https://github.com/square/moshi/pull/1575) to [square/moshi](https://github.com/square/moshi): "Add more 1.14.0 changelog notes"
 
 **2022-09-06** — created branch `z/changelognotes` on [square/moshi](https://github.com/square/moshi)
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-06** — commented on [#79](https://github.com/slackhq/circuit/pull/79#issuecomment-1238721296) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-06** — closed issue [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Request: only mask non-null values"
-
-**2022-09-06** — commented on [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84#issuecomment-1238704696) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
