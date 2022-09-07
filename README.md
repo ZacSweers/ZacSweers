@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-09-07** — deleted branch `renovate/moshi` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-09-07** — merged PR [#325](https://github.com/ZacSweers/MoshiX/pull/325) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.14.0"
 
-**2022-09-07** — merged PR [#326](https://github.com/ZacSweers/MoshiX/pull/326) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update moshi to v1.14.0"
+**2022-09-07** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-09-07** — opened PR [#112](https://github.com/slackhq/slack-gradle-plugin/pull/112) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Disable Instantiatable lint in min SDK 28+ due to lint bug"
+**2022-09-07** — deleted branch `z/publishSgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-09-07** — created branch `z/instantiable` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-09-07** — merged PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
 
-**2022-09-06** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1238871516) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+**2022-09-07** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-09-06** — opened issue [#7581](https://github.com/robolectric/robolectric/issues/7581) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Support AppComponentFactory or ignore BroadcastReceivers with custom constructors"
+**2022-09-07** — merged PR [#113](https://github.com/slackhq/slack-gradle-plugin/pull/113) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshi to v1.14.0"
 
-**2022-09-06** — opened PR [#1575](https://github.com/square/moshi/pull/1575) to [square/moshi](https://github.com/square/moshi): "Add more 1.14.0 changelog notes"
+**2022-09-07** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-06** — created branch `z/changelognotes` on [square/moshi](https://github.com/square/moshi)
+**2022-09-07** — closed PR [#81](https://github.com/slackhq/circuit/pull/81) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-SNAPSHOT"
 
-**2022-09-06** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1238764809) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-07** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-06** — opened PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
+**2022-09-07** — closed PR [#82](https://github.com/slackhq/circuit/pull/82) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
