@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-07** — commented on [#83](https://github.com/slackhq/circuit/issues/83#issuecomment-1239669702) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-07** — deleted branch `z/alwaysEnablePublishing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-07** — merged PR [#114](https://github.com/slackhq/slack-gradle-plugin/pull/114) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable publishing always on subprojects"
+
+**2022-09-07** — opened PR [#114](https://github.com/slackhq/slack-gradle-plugin/pull/114) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable publishing always on subprojects"
+
+**2022-09-07** — created branch `z/alwaysEnablePublishing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-07** — deleted branch `z/instantiable` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-07** — merged PR [#112](https://github.com/slackhq/slack-gradle-plugin/pull/112) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Disable Instantiatable lint in min SDK 28+ due to lint bug"
+
 **2022-09-07** — merged PR [#325](https://github.com/ZacSweers/MoshiX/pull/325) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.14.0"
 
 **2022-09-07** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-09-07** — deleted branch `z/publishSgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — merged PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
-
-**2022-09-07** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — merged PR [#113](https://github.com/slackhq/slack-gradle-plugin/pull/113) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshi to v1.14.0"
-
-**2022-09-07** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-07** — closed PR [#81](https://github.com/slackhq/circuit/pull/81) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-SNAPSHOT"
-
-**2022-09-07** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-07** — closed PR [#82](https://github.com/slackhq/circuit/pull/82) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
