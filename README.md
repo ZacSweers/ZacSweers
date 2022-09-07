@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-06** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1238764809) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-06** — opened PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
 
 **2022-09-06** — created branch `z/publishSgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
