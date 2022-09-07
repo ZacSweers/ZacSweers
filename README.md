@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-07** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-09-07** — merged PR [#1360](https://github.com/square/kotlinpoet/pull/1360) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.4.3"
+
 **2022-09-07** — commented on [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84#issuecomment-1239716886) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-09-07** — commented on [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84#issuecomment-1239706447) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-07** — created branch `z/alwaysEnablePublishing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-07** — deleted branch `z/instantiable` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — merged PR [#112](https://github.com/slackhq/slack-gradle-plugin/pull/112) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Disable Instantiatable lint in min SDK 28+ due to lint bug"
-
-**2022-09-07** — merged PR [#325](https://github.com/ZacSweers/MoshiX/pull/325) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
