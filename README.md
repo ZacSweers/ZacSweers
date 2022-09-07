@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-07** — deleted branch `renovate/moshi` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-07** — merged PR [#326](https://github.com/ZacSweers/MoshiX/pull/326) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update moshi to v1.14.0"
+
+**2022-09-07** — opened PR [#112](https://github.com/slackhq/slack-gradle-plugin/pull/112) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Disable Instantiatable lint in min SDK 28+ due to lint bug"
+
+**2022-09-07** — created branch `z/instantiable` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-09-06** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1238871516) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2022-09-06** — opened issue [#7581](https://github.com/robolectric/robolectric/issues/7581) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Support AppComponentFactory or ignore BroadcastReceivers with custom constructors"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-06** — commented on [#43](https://github.com/slackhq/circuit/pull/43#issuecomment-1238764809) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-06** — opened PR [#111](https://github.com/slackhq/slack-gradle-plugin/pull/111) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for publishing on central"
-
-**2022-09-06** — created branch `z/publishSgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-06** — deleted branch `ke/enable-instrumentation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — commented on [#79](https://github.com/slackhq/circuit/pull/79#issuecomment-1238721296) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-06** — closed issue [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Request: only mask non-null values"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
