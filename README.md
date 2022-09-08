@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-08** — merged PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
+
+**2022-09-08** — deleted branch `z/betterLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-09-08** — merged PR [#87](https://github.com/slackhq/circuit/pull/87) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.0-rc02"
+
+**2022-09-08** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-08** — created tag `0.1.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-07** — deleted branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-07** — created branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-07** — opened PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
-
-**2022-09-07** — created branch `z/betterLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-09-07** — deleted branch `z/fixStuff` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-09-07** — merged PR [#25](https://github.com/slackhq/slack-lints/pull/25) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix support for suspend functions in EitherNet and Retrofit lints"
-
-**2022-09-07** — opened PR [#25](https://github.com/slackhq/slack-lints/pull/25) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix support for suspend functions in EitherNet and Retrofit lints"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
