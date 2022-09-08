@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-08** — created tag `0.1.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-09-08** — merged PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
 
 **2022-09-08** — deleted branch `z/betterLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-07** — opened PR [#115](https://github.com/slackhq/slack-gradle-plugin/pull/115) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Specify kotlin version in compose compatibility check"
 
 **2022-09-07** — created branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — opened PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
