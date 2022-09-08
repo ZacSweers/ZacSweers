@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-08** — closed issue [#1576](https://github.com/square/moshi/issues/1576) on [square/moshi](https://github.com/square/moshi): "ULong field ignores manual code generation keys "
+
+**2022-09-08** — commented on [#1576](https://github.com/square/moshi/issues/1576#issuecomment-1241334661) in [square/moshi](https://github.com/square/moshi)
+
 **2022-09-08** — opened PR [#116](https://github.com/slackhq/slack-gradle-plugin/pull/116) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove dagger-android support"
 
 **2022-09-08** — created branch `z/removeDaggerAndroid` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-08** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-08** — created tag `0.1.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — deleted branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-07** — merged PR [#115](https://github.com/slackhq/slack-gradle-plugin/pull/115) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Specify kotlin version in compose compatibility check"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
