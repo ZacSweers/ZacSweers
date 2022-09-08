@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-08** — created tag `0.1.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-07** — deleted branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-07** — merged PR [#115](https://github.com/slackhq/slack-gradle-plugin/pull/115) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Specify kotlin version in compose compatibility check"
+
 **2022-09-07** — opened PR [#115](https://github.com/slackhq/slack-gradle-plugin/pull/115) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Specify kotlin version in compose compatibility check"
 
 **2022-09-07** — created branch `z/newKotlinCompatCheck` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-07** — merged PR [#25](https://github.com/slackhq/slack-lints/pull/25) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix support for suspend functions in EitherNet and Retrofit lints"
 
 **2022-09-07** — opened PR [#25](https://github.com/slackhq/slack-lints/pull/25) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix support for suspend functions in EitherNet and Retrofit lints"
-
-**2022-09-07** — created branch `z/fixStuff` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-09-07** — commented on [#83](https://github.com/slackhq/circuit/issues/83#issuecomment-1239861770) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-07** — deleted branch `z/eitherNetChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
