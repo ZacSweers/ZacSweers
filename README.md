@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-07** — opened PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
+
+**2022-09-07** — created branch `z/betterLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2022-09-07** — deleted branch `z/fixStuff` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-09-07** — merged PR [#25](https://github.com/slackhq/slack-lints/pull/25) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix support for suspend functions in EitherNet and Retrofit lints"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-07** — merged PR [#24](https://github.com/slackhq/slack-lints/pull/24) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement DoNotExposeEitherNetInRepositoriesDetector"
 
 **2022-09-07** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-09-07** — merged PR [#1360](https://github.com/square/kotlinpoet/pull/1360) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.4.3"
-
-**2022-09-07** — commented on [#84](https://github.com/ZacSweers/redacted-compiler-plugin/issues/84#issuecomment-1239716886) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
