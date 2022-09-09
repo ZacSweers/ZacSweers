@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-09** — deleted branch `test-renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-09** — merged PR [#89](https://github.com/slackhq/circuit/pull/89) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.5.1"
+
 **2022-09-09** — deleted branch `z/removeDaggerAndroid` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-09** — merged PR [#116](https://github.com/slackhq/slack-gradle-plugin/pull/116) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove dagger-android support"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-08** — created tag `0.1.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-08** — merged PR [#26](https://github.com/slackhq/slack-lints/pull/26) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error location for eithernet lints"
-
-**2022-09-08** — deleted branch `z/betterLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-09-08** — merged PR [#87](https://github.com/slackhq/circuit/pull/87) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.0-rc02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
