@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-09** — merged PR [#327](https://github.com/ZacSweers/MoshiX/pull/327) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to maven publish plugin 0.22.0"
+
+**2022-09-09** — deleted branch `z/mavenPublishUpdate` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-09** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-09** — closed PR [#310](https://github.com/ZacSweers/MoshiX/pull/310) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.22.0"
+
+**2022-09-09** — opened PR [#327](https://github.com/ZacSweers/MoshiX/pull/327) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to maven publish plugin 0.22.0"
+
+**2022-09-09** — created branch `z/mavenPublishUpdate` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-09** — closed PR [#322](https://github.com/ZacSweers/MoshiX/pull/322) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.40"
+
+**2022-09-09** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-09-09** — opened PR [#117](https://github.com/slackhq/slack-gradle-plugin/pull/117) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update maven publish plugin"
 
 **2022-09-09** — created branch `z/publishingUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-09** — deleted branch `test-renovate/composecompiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-09** — merged PR [#90](https://github.com/slackhq/circuit/pull/90) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.3.1"
-
-**2022-09-09** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1242314525) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-09** — commented on [#83](https://github.com/slackhq/circuit/issues/83#issuecomment-1242309223) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-09** — deleted branch `test-renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-09** — merged PR [#89](https://github.com/slackhq/circuit/pull/89) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.5.1"
-
-**2022-09-09** — deleted branch `z/removeDaggerAndroid` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-09** — merged PR [#116](https://github.com/slackhq/slack-gradle-plugin/pull/116) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove dagger-android support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
