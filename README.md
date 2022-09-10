@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-09** — opened PR [#117](https://github.com/slackhq/slack-gradle-plugin/pull/117) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update maven publish plugin"
+
+**2022-09-09** — created branch `z/publishingUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-09-09** — deleted branch `test-renovate/composecompiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-09** — merged PR [#90](https://github.com/slackhq/circuit/pull/90) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.3.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-09** — deleted branch `z/removeDaggerAndroid` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-09** — merged PR [#116](https://github.com/slackhq/slack-gradle-plugin/pull/116) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove dagger-android support"
-
-**2022-09-08** — closed issue [#1576](https://github.com/square/moshi/issues/1576) on [square/moshi](https://github.com/square/moshi): "ULong field ignores manual code generation keys "
-
-**2022-09-08** — commented on [#1576](https://github.com/square/moshi/issues/1576#issuecomment-1241334661) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
