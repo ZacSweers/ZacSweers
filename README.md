@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-10** — deleted branch `z/publishingUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-10** — merged PR [#117](https://github.com/slackhq/slack-gradle-plugin/pull/117) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update maven publish plugin"
+
 **2022-09-10** — deleted branch `test-renovate/me.tongfei` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-10** — merged PR [#118](https://github.com/slackhq/slack-gradle-plugin/pull/118) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency me.tongfei:progressbar to v0.9.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-10** — deleted branch `test-renovate/material-composethemeadapter` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-10** — merged PR [#91](https://github.com/slackhq/circuit/pull/91) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.google.android.material:compose-theme-adapter to v1.1.18"
-
-**2022-09-09** — merged PR [#327](https://github.com/ZacSweers/MoshiX/pull/327) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to maven publish plugin 0.22.0"
-
-**2022-09-09** — deleted branch `z/mavenPublishUpdate` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
