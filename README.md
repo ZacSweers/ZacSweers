@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-11** — deleted branch `test-renovate/kotlinx-coroutines` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-11** — merged PR [#94](https://github.com/slackhq/circuit/pull/94) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-test to v1.6.4"
+
 **2022-09-11** — deleted branch `test-renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-11** — closed PR [#95](https://github.com/slackhq/circuit/pull/95) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-SNAPSHOT"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-10** — merged PR [#117](https://github.com/slackhq/slack-gradle-plugin/pull/117) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update maven publish plugin"
 
 **2022-09-10** — deleted branch `test-renovate/me.tongfei` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-10** — merged PR [#118](https://github.com/slackhq/slack-gradle-plugin/pull/118) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency me.tongfei:progressbar to v0.9.4"
-
-**2022-09-10** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
