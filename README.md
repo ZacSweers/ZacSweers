@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-12** — merged PR [#97](https://github.com/slackhq/circuit/pull/97) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.22.0"
+
+**2022-09-12** — deleted branch `test-renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-12** — deleted branch `z/detailSprucing` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-12** — merged PR [#93](https://github.com/slackhq/circuit/pull/93) to [slackhq/circuit](https://github.com/slackhq/circuit): "Spruce up detail UI and default animations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-11** — deleted branch `test-renovate/kotlinx-coroutines` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-11** — merged PR [#94](https://github.com/slackhq/circuit/pull/94) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-test to v1.6.4"
-
-**2022-09-11** — deleted branch `test-renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-11** — closed PR [#95](https://github.com/slackhq/circuit/pull/95) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
