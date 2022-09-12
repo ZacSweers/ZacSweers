@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-12** — deleted branch `z/detailSprucing` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-12** — merged PR [#93](https://github.com/slackhq/circuit/pull/93) to [slackhq/circuit](https://github.com/slackhq/circuit): "Spruce up detail UI and default animations"
+
 **2022-09-12** — deleted branch `test-renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-12** — closed PR [#96](https://github.com/slackhq/circuit/pull/96) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v1.2.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-11** — deleted branch `test-renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-11** — closed PR [#95](https://github.com/slackhq/circuit/pull/95) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-SNAPSHOT"
-
-**2022-09-11** — commented on [#93](https://github.com/slackhq/circuit/pull/93#issuecomment-1242880815) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-10** — opened PR [#93](https://github.com/slackhq/circuit/pull/93) to [slackhq/circuit](https://github.com/slackhq/circuit): "Spruce up detail UI and default animations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
