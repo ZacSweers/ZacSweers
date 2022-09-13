@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-13** — closed PR [#328](https://github.com/ZacSweers/MoshiX/pull/328) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix typo in kotlinx-metadata setup instructions"
+
+**2022-09-13** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-13** — merged PR [#99](https://github.com/slackhq/circuit/pull/99) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.4.4"
+
+**2022-09-13** — deleted branch `test-renovate/moshi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-13** — merged PR [#100](https://github.com/slackhq/circuit/pull/100) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update moshi to v1.14.0"
+
 **2022-09-13** — opened issue [#120](https://github.com/slackhq/slack-gradle-plugin/issues/120) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add configuration for specifying detekt ruleset dependencies"
 
 **2022-09-12** — merged PR [#97](https://github.com/slackhq/circuit/pull/97) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.22.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-12** — deleted branch `z/detailSprucing` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-12** — merged PR [#93](https://github.com/slackhq/circuit/pull/93) to [slackhq/circuit](https://github.com/slackhq/circuit): "Spruce up detail UI and default animations"
-
-**2022-09-12** — deleted branch `test-renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-12** — closed PR [#96](https://github.com/slackhq/circuit/pull/96) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v1.2.2"
-
-**2022-09-12** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-09-12** — merged PR [#1364](https://github.com/square/kotlinpoet/pull/1364) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.4.4"
-
-**2022-09-11** — deleted branch `test-renovate/kotlinx-coroutines` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
