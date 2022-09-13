@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-13** — opened issue [#120](https://github.com/slackhq/slack-gradle-plugin/issues/120) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add configuration for specifying detekt ruleset dependencies"
+
 **2022-09-12** — merged PR [#97](https://github.com/slackhq/circuit/pull/97) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.22.0"
 
 **2022-09-12** — deleted branch `test-renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-12** — merged PR [#1364](https://github.com/square/kotlinpoet/pull/1364) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.4.4"
 
 **2022-09-11** — deleted branch `test-renovate/kotlinx-coroutines` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-11** — merged PR [#94](https://github.com/slackhq/circuit/pull/94) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-test to v1.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
