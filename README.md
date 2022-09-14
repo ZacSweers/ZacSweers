@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-14** — merged PR [#121](https://github.com/slackhq/slack-gradle-plugin/pull/121) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.diffplug.spotless to v6.11.0"
+
 **2022-09-13** — closed PR [#328](https://github.com/ZacSweers/MoshiX/pull/328) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix typo in kotlinx-metadata setup instructions"
 
 **2022-09-13** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-12** — merged PR [#97](https://github.com/slackhq/circuit/pull/97) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.22.0"
 
 **2022-09-12** — deleted branch `test-renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-12** — deleted branch `z/detailSprucing` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-12** — merged PR [#93](https://github.com/slackhq/circuit/pull/93) to [slackhq/circuit](https://github.com/slackhq/circuit): "Spruce up detail UI and default animations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
