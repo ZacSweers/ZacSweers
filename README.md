@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-15** — opened PR [#106](https://github.com/slackhq/circuit/pull/106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eventSink naming + some small doc fixes"
+
+**2022-09-15** — created branch `z/eventSink` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-15** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-09-15** — merged PR [#329](https://github.com/ZacSweers/MoshiX/pull/329) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.11.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-15** — commented on [#1366](https://github.com/square/kotlinpoet/pull/1366#issuecomment-1248130579) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-09-14** — deleted branch `test-renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-14** — merged PR [#102](https://github.com/slackhq/circuit/pull/102) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.11.0"
-
-**2022-09-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
