@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-15** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-15** — merged PR [#330](https://github.com/ZacSweers/MoshiX/pull/330) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.3.0"
+
 **2022-09-15** — deleted branch `z/eventSink` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-15** — merged PR [#106](https://github.com/slackhq/circuit/pull/106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eventSink naming + some small doc fixes"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-15** — merged PR [#329](https://github.com/ZacSweers/MoshiX/pull/329) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.11.0"
 
 **2022-09-15** — deleted branch `test-renovate/turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-15** — merged PR [#104](https://github.com/slackhq/circuit/pull/104) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.turbine:turbine to v0.10.0"
-
-**2022-09-15** — deleted branch `test-renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-15** — merged PR [#105](https://github.com/slackhq/circuit/pull/105) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
