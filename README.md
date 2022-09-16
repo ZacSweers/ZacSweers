@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-16** — deleted branch `test-renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-16** — merged PR [#109](https://github.com/slackhq/circuit/pull/109) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools.build:gradle to v7.3.0"
+
+**2022-09-16** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-16** — merged PR [#108](https://github.com/slackhq/circuit/pull/108) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.1"
+
 **2022-09-15** — opened issue [#107](https://github.com/slackhq/circuit/issues/107) on [slackhq/circuit](https://github.com/slackhq/circuit): "Implement rememberRetained/produceRetainedState"
 
 **2022-09-15** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -11,18 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-15** — merged PR [#330](https://github.com/ZacSweers/MoshiX/pull/330) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.3.0"
 
 **2022-09-15** — deleted branch `z/eventSink` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-15** — merged PR [#106](https://github.com/slackhq/circuit/pull/106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eventSink naming + some small doc fixes"
-
-**2022-09-15** — opened PR [#106](https://github.com/slackhq/circuit/pull/106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eventSink naming + some small doc fixes"
-
-**2022-09-15** — created branch `z/eventSink` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-15** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-15** — merged PR [#329](https://github.com/ZacSweers/MoshiX/pull/329) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.11.0"
-
-**2022-09-15** — deleted branch `test-renovate/turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
