@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-17** — commented on [#13](https://github.com/slackhq/circuit/issues/13#issuecomment-1249996944) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-16** — deleted branch `test-renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-16** — merged PR [#109](https://github.com/slackhq/circuit/pull/109) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools.build:gradle to v7.3.0"
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-15** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-09-15** — merged PR [#330](https://github.com/ZacSweers/MoshiX/pull/330) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.3.0"
-
-**2022-09-15** — deleted branch `z/eventSink` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
