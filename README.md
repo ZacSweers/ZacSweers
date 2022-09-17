@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-17** — commented on [#1369](https://github.com/square/kotlinpoet/issues/1369#issuecomment-1250110831) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-09-17** — deleted branch `test-renovate/major-com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-17** — closed PR [#111](https://github.com/slackhq/circuit/pull/111) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-15** — opened issue [#107](https://github.com/slackhq/circuit/issues/107) on [slackhq/circuit](https://github.com/slackhq/circuit): "Implement rememberRetained/produceRetainedState"
 
 **2022-09-15** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-15** — merged PR [#330](https://github.com/ZacSweers/MoshiX/pull/330) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
