@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-19** — opened issue [#54](https://github.com/dropbox/dependency-guard/issues/54) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: filter out BOM artifacts"
+
 **2022-09-17** — commented on [#1369](https://github.com/square/kotlinpoet/issues/1369#issuecomment-1250110831) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-09-17** — deleted branch `test-renovate/major-com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-16** — merged PR [#108](https://github.com/slackhq/circuit/pull/108) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.1"
 
 **2022-09-15** — opened issue [#107](https://github.com/slackhq/circuit/issues/107) on [slackhq/circuit](https://github.com/slackhq/circuit): "Implement rememberRetained/produceRetainedState"
-
-**2022-09-15** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
