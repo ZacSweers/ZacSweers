@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-19** — opened issue [#119](https://github.com/slackhq/circuit/issues/119) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail pager state not retained on rotation"
+
+**2022-09-19** — opened issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
+
+**2022-09-19** — opened issue [#117](https://github.com/slackhq/circuit/issues/117) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail screen does not show a paging indicator in landscape"
+
+**2022-09-19** — opened issue [#116](https://github.com/slackhq/circuit/issues/116) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app does not restore state when changing tabs"
+
+**2022-09-19** — opened PR [#115](https://github.com/slackhq/circuit/pull/115) to [slackhq/circuit](https://github.com/slackhq/circuit): "Nest factory interfaces in their target interfaces"
+
+**2022-09-19** — created branch `z/moreNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-19** — opened PR [#114](https://github.com/slackhq/circuit/pull/114) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement rememberRetained and produceRetainedState"
+
+**2022-09-19** — created branch `z/retained` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-19** — deleted branch `z/uiFactory` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-19** — merged PR [#112](https://github.com/slackhq/circuit/pull/112) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small doc fixes + rename ScreenViewFactory -> UiFactory"
-
-**2022-09-19** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-19** — merged PR [#113](https://github.com/slackhq/circuit/pull/113) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.2"
-
-**2022-09-19** — opened PR [#112](https://github.com/slackhq/circuit/pull/112) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small doc fixes + rename ScreenViewFactory -> UiFactory"
-
-**2022-09-19** — created branch `z/uiFactory` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-19** — commented on [#13](https://github.com/slackhq/circuit/issues/13#issuecomment-1250580457) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-19** — opened issue [#54](https://github.com/dropbox/dependency-guard/issues/54) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: filter out BOM artifacts"
-
-**2022-09-17** — commented on [#1369](https://github.com/square/kotlinpoet/issues/1369#issuecomment-1250110831) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-09-17** — deleted branch `test-renovate/major-com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
