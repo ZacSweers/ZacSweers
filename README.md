@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-20** — commented on [#7456](https://github.com/robolectric/robolectric/issues/7456#issuecomment-1252726608) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2022-09-20** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-20** — merged PR [#122](https://github.com/slackhq/slack-gradle-plugin/pull/122) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.3.0"
+
 **2022-09-20** — created tag `0.1.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-20** — deleted branch `z/robolectric33` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-19** — commented on [#114](https://github.com/slackhq/circuit/pull/114#issuecomment-1251756143) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-19** — opened issue [#119](https://github.com/slackhq/circuit/issues/119) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail pager state not retained on rotation"
-
-**2022-09-19** — opened issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
-
-**2022-09-19** — opened issue [#117](https://github.com/slackhq/circuit/issues/117) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail screen does not show a paging indicator in landscape"
-
-**2022-09-19** — opened issue [#116](https://github.com/slackhq/circuit/issues/116) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app does not restore state when changing tabs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
