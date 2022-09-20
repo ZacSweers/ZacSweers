@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-19** — commented on [#114](https://github.com/slackhq/circuit/pull/114#issuecomment-1251756143) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-19** — opened issue [#119](https://github.com/slackhq/circuit/issues/119) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail pager state not retained on rotation"
 
 **2022-09-19** — opened issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-19** — created branch `z/retained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-19** — deleted branch `z/uiFactory` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-19** — merged PR [#112](https://github.com/slackhq/circuit/pull/112) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small doc fixes + rename ScreenViewFactory -> UiFactory"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
