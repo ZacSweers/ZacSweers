@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-20** — deleted branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-20** — closed issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
+
+**2022-09-20** — merged PR [#123](https://github.com/slackhq/circuit/pull/123) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a SharedFlow for event emissions"
+
+**2022-09-20** — opened PR [#124](https://github.com/slackhq/circuit/pull/124) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add marker interfaces"
+
+**2022-09-20** — created branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-20** — opened PR [#123](https://github.com/slackhq/circuit/pull/123) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a SharedFlow for event emissions"
 
 **2022-09-20** — created branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-20** — opened issue [#121](https://github.com/slackhq/circuit/issues/121) on [slackhq/circuit](https://github.com/slackhq/circuit): "Show a placeholder image for animals without any photos"
 
 **2022-09-20** — commented on [#7456](https://github.com/robolectric/robolectric/issues/7456#issuecomment-1252726608) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2022-09-20** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-20** — merged PR [#122](https://github.com/slackhq/slack-gradle-plugin/pull/122) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.3.0"
-
-**2022-09-20** — created tag `0.1.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-20** — deleted branch `z/robolectric33` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-20** — merged PR [#123](https://github.com/slackhq/slack-gradle-plugin/pull/123) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add android 13 support for robolectric jars"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
