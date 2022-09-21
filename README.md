@@ -13,16 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — deleted branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — merged PR [#124](https://github.com/slackhq/circuit/pull/124) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add marker interfaces"
-
-**2022-09-21** — closed issue [#56](https://github.com/slackhq/circuit/issues/56) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider using marker interfaces"
-
-**2022-09-21** — opened issue [#438](https://github.com/gradle/gradle-build-action/issues/438) on [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action): "v2.3.0 does not appear to actually cache wrapper binaries separately"
-
-**2022-09-21** — commented on [#125](https://github.com/slackhq/circuit/pull/125#issuecomment-1253194574) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — deleted branch `jp_ke/filter-pet-list` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — closed PR [#120](https://github.com/slackhq/circuit/pull/120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding Filter Bottom Sheet "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
