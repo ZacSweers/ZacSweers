@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-20** — opened issue [#126](https://github.com/slackhq/circuit/issues/126) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample nav bar colors are broken in dark mode"
+
+**2022-09-20** — opened PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
+
+**2022-09-20** — created branch `z/ciSpeed` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-20** — deleted branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-20** — closed issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-20** — opened PR [#123](https://github.com/slackhq/circuit/pull/123) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a SharedFlow for event emissions"
 
 **2022-09-20** — created branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-20** — opened issue [#122](https://github.com/slackhq/circuit/issues/122) on [slackhq/circuit](https://github.com/slackhq/circuit): "Change home nav text to say "Adoptables" instead of "Dogs""
-
-**2022-09-20** — opened issue [#121](https://github.com/slackhq/circuit/issues/121) on [slackhq/circuit](https://github.com/slackhq/circuit): "Show a placeholder image for animals without any photos"
-
-**2022-09-20** — commented on [#7456](https://github.com/robolectric/robolectric/issues/7456#issuecomment-1252726608) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
