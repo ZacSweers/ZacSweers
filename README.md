@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-21** — closed issue [#98](https://github.com/slackhq/circuit/issues/98) on [slackhq/circuit](https://github.com/slackhq/circuit): "Progress indicator on PetList doesn't animate"
+
+**2022-09-21** — commented on [#98](https://github.com/slackhq/circuit/issues/98#issuecomment-1254339144) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-21** — commented on [#138](https://github.com/slackhq/circuit/pull/138#issuecomment-1254338032) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-21** — opened PR [#138](https://github.com/slackhq/circuit/pull/138) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small sample app UI fixes"
+
+**2022-09-21** — created branch `z/moreTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-21** — closed issue [#126](https://github.com/slackhq/circuit/issues/126) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample nav bar colors are broken in dark mode"
 
 **2022-09-21** — closed issue [#122](https://github.com/slackhq/circuit/issues/122) on [slackhq/circuit](https://github.com/slackhq/circuit): "Change sample home nav text to say "Adoptables" instead of "Dogs""
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — merged PR [#137](https://github.com/slackhq/circuit/pull/137) to [slackhq/circuit](https://github.com/slackhq/circuit): "Minor home tweaks"
 
 **2022-09-21** — opened PR [#137](https://github.com/slackhq/circuit/pull/137) to [slackhq/circuit](https://github.com/slackhq/circuit): "Minor home tweaks"
-
-**2022-09-21** — created branch `z/uiTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — closed issue [#39](https://github.com/slackhq/circuit/issues/39) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to expose modifier in Ui.Render?"
-
-**2022-09-21** — closed issue [#39](https://github.com/slackhq/circuit/issues/39) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to expose modifier in Ui.Render?"
-
-**2022-09-21** — commented on [#39](https://github.com/slackhq/circuit/issues/39#issuecomment-1254241092) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — deleted branch `z/retained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
