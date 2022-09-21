@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-09-20** — opened PR [#127](https://github.com/slackhq/circuit/pull/127) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove manifest package entry + support monochrome"
+**2022-09-20** — opened issue [#133](https://github.com/slackhq/circuit/issues/133) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app doesn't really have a dark mode"
 
-**2022-09-20** — created branch `z/sampleCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-20** — opened issue [#132](https://github.com/slackhq/circuit/issues/132) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail Petfinder button text color isn't visible in light mode"
 
-**2022-09-20** — opened issue [#126](https://github.com/slackhq/circuit/issues/126) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample nav bar colors are broken in dark mode"
+**2022-09-20** — opened issue [#131](https://github.com/slackhq/circuit/issues/131) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail tags are not horizontally centered"
 
-**2022-09-20** — opened PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
+**2022-09-20** — closed issue [#10](https://github.com/slackhq/circuit/issues/10) on [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype orchestrated presenters"
 
-**2022-09-20** — created branch `z/ciSpeed` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-20** — commented on [#10](https://github.com/slackhq/circuit/issues/10#issuecomment-1253142850) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-20** — deleted branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-20** — commented on [#129](https://github.com/slackhq/circuit/issues/129#issuecomment-1253142617) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-20** — closed issue [#118](https://github.com/slackhq/circuit/issues/118) on [slackhq/circuit](https://github.com/slackhq/circuit): "Opening the detail screen in the sample requires two clicks"
+**2022-09-20** — closed issue [#1](https://github.com/slackhq/circuit/issues/1) on [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype multi-step nav"
 
-**2022-09-20** — merged PR [#123](https://github.com/slackhq/circuit/pull/123) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a SharedFlow for event emissions"
+**2022-09-20** — commented on [#1](https://github.com/slackhq/circuit/issues/1#issuecomment-1253142511) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-20** — opened PR [#124](https://github.com/slackhq/circuit/pull/124) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add marker interfaces"
+**2022-09-20** — commented on [#30](https://github.com/slackhq/circuit/issues/30#issuecomment-1253142171) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-09-20** — created branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-09-20** — closed issue [#30](https://github.com/slackhq/circuit/issues/30) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider `PresenterScope` receiver for presenters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
