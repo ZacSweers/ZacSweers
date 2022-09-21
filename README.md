@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-21** — commented on [#114](https://github.com/slackhq/circuit/pull/114#issuecomment-1253783093) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-21** — deleted branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — merged PR [#124](https://github.com/slackhq/circuit/pull/124) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add marker interfaces"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — commented on [#120](https://github.com/slackhq/circuit/pull/120#issuecomment-1253191971) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-20** — opened issue [#133](https://github.com/slackhq/circuit/issues/133) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app doesn't really have a dark mode"
-
-**2022-09-20** — opened issue [#132](https://github.com/slackhq/circuit/issues/132) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail Petfinder button text color isn't visible in light mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
