@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-21** — commented on [#13](https://github.com/slackhq/circuit/issues/13#issuecomment-1253879430) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-21** — commented on [#438](https://github.com/gradle/gradle-build-action/issues/438#issuecomment-1253841927) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+
 **2022-09-21** — commented on [#114](https://github.com/slackhq/circuit/pull/114#issuecomment-1253783093) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — deleted branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — deleted branch `jp_ke/filter-pet-list` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — closed PR [#120](https://github.com/slackhq/circuit/pull/120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding Filter Bottom Sheet "
-
-**2022-09-21** — commented on [#120](https://github.com/slackhq/circuit/pull/120#issuecomment-1253191971) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-20** — opened issue [#133](https://github.com/slackhq/circuit/issues/133) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app doesn't really have a dark mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
