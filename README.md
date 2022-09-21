@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-20** — opened PR [#127](https://github.com/slackhq/circuit/pull/127) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove manifest package entry + support monochrome"
+
+**2022-09-20** — created branch `z/sampleCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-20** — opened issue [#126](https://github.com/slackhq/circuit/issues/126) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample nav bar colors are broken in dark mode"
 
 **2022-09-20** — opened PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-20** — opened PR [#124](https://github.com/slackhq/circuit/pull/124) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add marker interfaces"
 
 **2022-09-20** — created branch `z/markerInterfaces` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-20** — opened PR [#123](https://github.com/slackhq/circuit/pull/123) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a SharedFlow for event emissions"
-
-**2022-09-20** — created branch `z/sharedFlow` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
