@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-22** — deleted branch `z/ciSpeed` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-22** — merged PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
+
 **2022-09-22** — deleted branch `z/columns` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-22** — merged PR [#128](https://github.com/slackhq/circuit/pull/128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use three columns in landscape"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — closed issue [#132](https://github.com/slackhq/circuit/issues/132) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail Petfinder button text color isn't visible in light mode"
 
 **2022-09-21** — deleted branch `z/moreTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — closed issue [#131](https://github.com/slackhq/circuit/issues/131) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail tags are not horizontally centered"
-
-**2022-09-21** — closed issue [#133](https://github.com/slackhq/circuit/issues/133) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app doesn't really have a dark mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
