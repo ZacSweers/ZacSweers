@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-21** — closed issue [#132](https://github.com/slackhq/circuit/issues/132) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail Petfinder button text color isn't visible in light mode"
+
+**2022-09-21** — deleted branch `z/moreTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-21** — closed issue [#131](https://github.com/slackhq/circuit/issues/131) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail tags are not horizontally centered"
+
+**2022-09-21** — closed issue [#133](https://github.com/slackhq/circuit/issues/133) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app doesn't really have a dark mode"
+
+**2022-09-21** — merged PR [#138](https://github.com/slackhq/circuit/pull/138) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small sample app UI fixes"
+
 **2022-09-21** — deleted branch `z/sampleCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — merged PR [#127](https://github.com/slackhq/circuit/pull/127) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove manifest package entry + support monochrome"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-21** — commented on [#98](https://github.com/slackhq/circuit/issues/98#issuecomment-1254339144) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-21** — commented on [#138](https://github.com/slackhq/circuit/pull/138#issuecomment-1254338032) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — opened PR [#138](https://github.com/slackhq/circuit/pull/138) to [slackhq/circuit](https://github.com/slackhq/circuit): "More small sample app UI fixes"
-
-**2022-09-21** — created branch `z/moreTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-21** — closed issue [#126](https://github.com/slackhq/circuit/issues/126) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample nav bar colors are broken in dark mode"
-
-**2022-09-21** — closed issue [#122](https://github.com/slackhq/circuit/issues/122) on [slackhq/circuit](https://github.com/slackhq/circuit): "Change sample home nav text to say "Adoptables" instead of "Dogs""
-
-**2022-09-21** — deleted branch `z/uiTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
