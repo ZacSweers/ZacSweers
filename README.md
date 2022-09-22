@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-22** — commented on [#16986](https://github.com/gradle/gradle/issues/16986#issuecomment-1255383521) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-09-22** — deleted branch `z/ciSpeed` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-22** — merged PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-22** — merged PR [#140](https://github.com/slackhq/circuit/pull/140) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dagger to v2.44"
 
 **2022-09-21** — closed issue [#132](https://github.com/slackhq/circuit/issues/132) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail Petfinder button text color isn't visible in light mode"
-
-**2022-09-21** — deleted branch `z/moreTweaks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
