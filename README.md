@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-23** — commented on [#83](https://github.com/slackhq/circuit/issues/83#issuecomment-1255810429) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-23** — closed issue [#52](https://github.com/slackhq/circuit/issues/52) on [slackhq/circuit](https://github.com/slackhq/circuit): "Explore persisting Presenters across config changes"
+
+**2022-09-23** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1255809039) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-22** — commented on [#54](https://github.com/dropbox/dependency-guard/issues/54#issuecomment-1255738433) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2022-09-22** — opened PR [#124](https://github.com/slackhq/slack-gradle-plugin/pull/124) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only enable android test on allowed variants"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-22** — merged PR [#125](https://github.com/slackhq/circuit/pull/125) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try to speed up CI"
 
 **2022-09-22** — deleted branch `z/columns` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-22** — merged PR [#128](https://github.com/slackhq/circuit/pull/128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use three columns in landscape"
-
-**2022-09-22** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-22** — merged PR [#139](https://github.com/slackhq/circuit/pull/139) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
