@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-24** — merged PR [#141](https://github.com/slackhq/circuit/pull/141) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding helper methods to Circuit + misc. clean up"
 
 **2022-09-23** — created tag `0.2.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-23** — commented on [#141](https://github.com/slackhq/circuit/pull/141#issuecomment-1256521959) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
