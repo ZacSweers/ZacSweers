@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-24** — commented on [#141](https://github.com/slackhq/circuit/pull/141#issuecomment-1257108284) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-24** — deleted branch `jp_misc_clean_up` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-24** — merged PR [#141](https://github.com/slackhq/circuit/pull/141) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding helper methods to Circuit + misc. clean up"
+
 **2022-09-23** — created tag `0.2.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-09-23** — commented on [#141](https://github.com/slackhq/circuit/pull/141#issuecomment-1256521959) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-23** — merged PR [#143](https://github.com/slackhq/circuit/pull/143) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.google.android.material:compose-theme-adapter to v1.1.19"
 
 **2022-09-23** — commented on [#83](https://github.com/slackhq/circuit/issues/83#issuecomment-1255810429) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-23** — closed issue [#52](https://github.com/slackhq/circuit/issues/52) on [slackhq/circuit](https://github.com/slackhq/circuit): "Explore persisting Presenters across config changes"
-
-**2022-09-23** — commented on [#52](https://github.com/slackhq/circuit/issues/52#issuecomment-1255809039) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-22** — commented on [#54](https://github.com/dropbox/dependency-guard/issues/54#issuecomment-1255738433) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
