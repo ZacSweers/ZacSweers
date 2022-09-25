@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-25** — commented on [#146](https://github.com/slackhq/circuit/pull/146#issuecomment-1257290386) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-25** — opened PR [#146](https://github.com/slackhq/circuit/pull/146) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype making event sinks part of state instead"
 
 **2022-09-25** — created branch `z/eventSinksAsState` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-24** — deleted branch `jp_misc_clean_up` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-24** — merged PR [#141](https://github.com/slackhq/circuit/pull/141) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding helper methods to Circuit + misc. clean up"
-
-**2022-09-23** — created tag `0.2.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
