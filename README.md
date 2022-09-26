@@ -4,23 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — closed issue [#135](https://github.com/slackhq/circuit/issues/135) on [slackhq/circuit](https://github.com/slackhq/circuit): "Create helper function for FilterInstance + getting State from Presenter"
+
+**2022-09-26** — commented on [#135](https://github.com/slackhq/circuit/issues/135#issuecomment-1258262967) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-25** — commented on [#146](https://github.com/slackhq/circuit/pull/146#issuecomment-1257290386) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-25** — opened PR [#146](https://github.com/slackhq/circuit/pull/146) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype making event sinks part of state instead"
-
-**2022-09-25** — created branch `z/eventSinksAsState` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-25** — opened PR [#145](https://github.com/slackhq/circuit/pull/145) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve doc on `rememberRetained` to better clarify behavior diffs"
-
-**2022-09-25** — created branch `z/betterRetainedDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-24** — created branch `z/counterSample` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-24** — commented on [#141](https://github.com/slackhq/circuit/pull/141#issuecomment-1257108284) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-24** — deleted branch `jp_misc_clean_up` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-24** — merged PR [#141](https://github.com/slackhq/circuit/pull/141) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adding helper methods to Circuit + misc. clean up"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
