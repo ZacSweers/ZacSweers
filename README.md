@@ -4,11 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — opened PR [#147](https://github.com/slackhq/circuit/pull/147) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate Content/Render namings"
+
+**2022-09-26** — created branch `z/contentNaming` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-26** — deleted branch `z/eventSinksAsState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-26** — merged PR [#146](https://github.com/slackhq/circuit/pull/146) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make event sinks part of state instead"
+
+**2022-09-26** — commented on [#146](https://github.com/slackhq/circuit/pull/146#issuecomment-1258347989) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-26** — closed issue [#135](https://github.com/slackhq/circuit/issues/135) on [slackhq/circuit](https://github.com/slackhq/circuit): "Create helper function for FilterInstance + getting State from Presenter"
 
 **2022-09-26** — commented on [#135](https://github.com/slackhq/circuit/issues/135#issuecomment-1258262967) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-25** — commented on [#146](https://github.com/slackhq/circuit/pull/146#issuecomment-1257290386) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
