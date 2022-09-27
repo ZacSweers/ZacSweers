@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-27** — deleted branch `z/updatedLintConfig` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2022-09-27** — merged PR [#28](https://github.com/slackhq/slack-lints/pull/28) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use StringOption for inclusive naming lint"
+
 **2022-09-27** — opened PR [#28](https://github.com/slackhq/slack-lints/pull/28) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use StringOption for inclusive naming lint"
 
 **2022-09-27** — created branch `z/updatedLintConfig` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-26** — opened PR [#147](https://github.com/slackhq/circuit/pull/147) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate Content/Render namings"
 
 **2022-09-26** — created branch `z/contentNaming` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-26** — deleted branch `z/eventSinksAsState` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-26** — merged PR [#146](https://github.com/slackhq/circuit/pull/146) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make event sinks part of state instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
