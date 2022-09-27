@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-27** — opened PR [#126](https://github.com/slackhq/slack-gradle-plugin/pull/126) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Two quick androidTest allowed variants fixes"
+
+**2022-09-27** — opened PR [#125](https://github.com/slackhq/slack-gradle-plugin/pull/125) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set lint config in android and JVM libraries too"
+
+**2022-09-27** — created branch `z/fixAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-09-27** — created branch `z/lintConfigAll` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-09-27** — deleted branch `z/updatedLintConfig` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-09-27** — merged PR [#28](https://github.com/slackhq/slack-lints/pull/28) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use StringOption for inclusive naming lint"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-26** — deleted branch `z/betterRetainedDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-26** — merged PR [#145](https://github.com/slackhq/circuit/pull/145) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve doc on `rememberRetained` to better clarify behavior diffs"
-
-**2022-09-26** — deleted branch `z/contentNaming` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-26** — merged PR [#147](https://github.com/slackhq/circuit/pull/147) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate Content/Render namings"
-
-**2022-09-26** — opened PR [#147](https://github.com/slackhq/circuit/pull/147) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate Content/Render namings"
-
-**2022-09-26** — created branch `z/contentNaming` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
