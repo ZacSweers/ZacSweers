@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — deleted branch `z/betterRetainedDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-26** — merged PR [#145](https://github.com/slackhq/circuit/pull/145) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve doc on `rememberRetained` to better clarify behavior diffs"
+
 **2022-09-26** — deleted branch `z/contentNaming` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-26** — merged PR [#147](https://github.com/slackhq/circuit/pull/147) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate Content/Render namings"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-26** — commented on [#146](https://github.com/slackhq/circuit/pull/146#issuecomment-1258347989) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-26** — closed issue [#135](https://github.com/slackhq/circuit/issues/135) on [slackhq/circuit](https://github.com/slackhq/circuit): "Create helper function for FilterInstance + getting State from Presenter"
-
-**2022-09-26** — commented on [#135](https://github.com/slackhq/circuit/issues/135#issuecomment-1258262967) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
