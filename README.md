@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — opened PR [#3542](https://github.com/cashapp/sqldelight/pull/3542) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Update to Kotlin 1.7.20"
+
+**2022-09-29** — created branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+
 **2022-09-29** — opened issue [#149](https://github.com/slackhq/circuit/issues/149) on [slackhq/circuit](https://github.com/slackhq/circuit): "Lint checks"
 
 **2022-09-27** — created tag `0.2.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-27** — opened PR [#126](https://github.com/slackhq/slack-gradle-plugin/pull/126) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Two quick androidTest allowed variants fixes"
 
 **2022-09-27** — opened PR [#125](https://github.com/slackhq/slack-gradle-plugin/pull/125) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set lint config in android and JVM libraries too"
-
-**2022-09-27** — created branch `z/fixAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-27** — created branch `z/lintConfigAll` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
