@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-29** — merged PR [#331](https://github.com/ZacSweers/MoshiX/pull/331) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.41"
+
+**2022-09-29** — commented on [#316](https://github.com/ZacSweers/MoshiX/pull/316#issuecomment-1262393285) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-29** — deleted branch `renovate/kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-29** — closed PR [#332](https://github.com/ZacSweers/MoshiX/pull/332) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.20"
+
+**2022-09-29** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-09-29** — closed PR [#333](https://github.com/ZacSweers/MoshiX/pull/333) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.20"
+
 **2022-09-29** — opened PR [#3542](https://github.com/cashapp/sqldelight/pull/3542) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Update to Kotlin 1.7.20"
 
 **2022-09-29** — created branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
 
 **2022-09-29** — opened issue [#149](https://github.com/slackhq/circuit/issues/149) on [slackhq/circuit](https://github.com/slackhq/circuit): "Lint checks"
-
-**2022-09-27** — created tag `0.2.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-27** — deleted branch `z/fixAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-27** — merged PR [#126](https://github.com/slackhq/slack-gradle-plugin/pull/126) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Two quick androidTest allowed variants fixes"
-
-**2022-09-27** — deleted branch `z/lintConfigAll` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-09-27** — merged PR [#125](https://github.com/slackhq/slack-gradle-plugin/pull/125) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set lint config in android and JVM libraries too"
-
-**2022-09-27** — opened PR [#126](https://github.com/slackhq/slack-gradle-plugin/pull/126) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Two quick androidTest allowed variants fixes"
-
-**2022-09-27** — opened PR [#125](https://github.com/slackhq/slack-gradle-plugin/pull/125) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set lint config in android and JVM libraries too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
