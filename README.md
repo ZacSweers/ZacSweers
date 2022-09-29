@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1262927549) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-29** — opened PR [#153](https://github.com/slackhq/circuit/pull/153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert backstack project to KMP"
+
+**2022-09-29** — created branch `z/kmpBackstack` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-29** — created tag `0.19.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-09-29** — closed issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-29** — merged PR [#151](https://github.com/slackhq/circuit/pull/151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename Circuit -> CircuitConfig"
 
 **2022-09-29** — opened issue [#152](https://github.com/slackhq/circuit/issues/152) on [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig instances to factories"
-
-**2022-09-29** — deleted branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2022-09-29** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-29** — merged PR [#148](https://github.com/slackhq/circuit/pull/148) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
