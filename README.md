@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — deleted branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+
+**2022-09-29** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-29** — merged PR [#148](https://github.com/slackhq/circuit/pull/148) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.0"
+
+**2022-09-29** — opened PR [#151](https://github.com/slackhq/circuit/pull/151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename Circuit -> CircuitConfig"
+
+**2022-09-29** — created branch `z/circuitConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-29** — deleted branch `z/metrics` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-29** — merged PR [#150](https://github.com/slackhq/circuit/pull/150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose metrics config to sample"
+
+**2022-09-29** — opened PR [#150](https://github.com/slackhq/circuit/pull/150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose metrics config to sample"
+
+**2022-09-29** — created branch `z/metrics` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-29** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — merged PR [#331](https://github.com/ZacSweers/MoshiX/pull/331) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.41"
-
-**2022-09-29** — commented on [#316](https://github.com/ZacSweers/MoshiX/pull/316#issuecomment-1262393285) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — deleted branch `renovate/kotlin` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — closed PR [#332](https://github.com/ZacSweers/MoshiX/pull/332) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to v1.7.20"
-
-**2022-09-29** — deleted branch `renovate/org.jetbrains.kotlin.jvm-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — closed PR [#333](https://github.com/ZacSweers/MoshiX/pull/333) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.20"
-
-**2022-09-29** — opened PR [#3542](https://github.com/cashapp/sqldelight/pull/3542) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Update to Kotlin 1.7.20"
-
-**2022-09-29** — created branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2022-09-29** — opened issue [#149](https://github.com/slackhq/circuit/issues/149) on [slackhq/circuit](https://github.com/slackhq/circuit): "Lint checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
