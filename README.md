@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — deleted branch `z/circuitConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-29** — merged PR [#151](https://github.com/slackhq/circuit/pull/151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename Circuit -> CircuitConfig"
+
+**2022-09-29** — opened issue [#152](https://github.com/slackhq/circuit/issues/152) on [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig instances to factories"
+
 **2022-09-29** — deleted branch `z/kotlin1720` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
 
 **2022-09-29** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-29** — deleted branch `z/metrics` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-29** — merged PR [#150](https://github.com/slackhq/circuit/pull/150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose metrics config to sample"
-
-**2022-09-29** — opened PR [#150](https://github.com/slackhq/circuit/pull/150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose metrics config to sample"
-
-**2022-09-29** — created branch `z/metrics` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-29** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
