@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-29** — created tag `0.19.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-09-29** — closed issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
 
 **2022-09-29** — deleted branch `z/kotlin1720Beta` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-29** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-29** — merged PR [#148](https://github.com/slackhq/circuit/pull/148) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.0"
-
-**2022-09-29** — opened PR [#151](https://github.com/slackhq/circuit/pull/151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename Circuit -> CircuitConfig"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
