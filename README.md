@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-30** — opened PR [#157](https://github.com/slackhq/circuit/pull/157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Suppress unsupported options warnings to reduce build noise"
+
+**2022-09-30** — opened PR [#156](https://github.com/slackhq/circuit/pull/156) to [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig to factories"
+
+**2022-09-30** — created branch `z/disableWarning` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-30** — created branch `z/configInFactories` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-30** — merged PR [#154](https://github.com/slackhq/circuit/pull/154) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-beta03"
 
 **2022-09-30** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-29** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1262927549) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-29** — opened PR [#153](https://github.com/slackhq/circuit/pull/153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert backstack project to KMP"
-
-**2022-09-29** — created branch `z/kmpBackstack` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-29** — created tag `0.19.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — closed issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
-
-**2022-09-29** — deleted branch `z/kotlin1720Beta` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
