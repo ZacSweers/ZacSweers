@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-30** — merged PR [#154](https://github.com/slackhq/circuit/pull/154) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-beta03"
+
+**2022-09-30** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-09-30** — merged PR [#155](https://github.com/slackhq/circuit/pull/155) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-beta03"
+
+**2022-09-30** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-09-29** — commented on [#35](https://github.com/slackhq/circuit/issues/35#issuecomment-1262927549) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-29** — opened PR [#153](https://github.com/slackhq/circuit/pull/153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert backstack project to KMP"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-29** — closed issue [#315](https://github.com/ZacSweers/MoshiX/issues/315) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20-Beta compatibility"
 
 **2022-09-29** — deleted branch `z/kotlin1720Beta` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-09-29** — merged PR [#316](https://github.com/ZacSweers/MoshiX/pull/316) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.7.20 support"
-
-**2022-09-29** — deleted branch `z/circuitConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-29** — merged PR [#151](https://github.com/slackhq/circuit/pull/151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename Circuit -> CircuitConfig"
-
-**2022-09-29** — opened issue [#152](https://github.com/slackhq/circuit/issues/152) on [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig instances to factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
