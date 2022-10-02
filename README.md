@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-02** — closed issue [#1578](https://github.com/square/moshi/issues/1578) on [square/moshi](https://github.com/square/moshi): " Casting with Type crashed with Full Mode R8"
+
+**2022-10-02** — commented on [#1578](https://github.com/square/moshi/issues/1578#issuecomment-1264720949) in [square/moshi](https://github.com/square/moshi)
+
+**2022-10-02** — opened PR [#86](https://github.com/ZacSweers/redacted-compiler-plugin/pull/86) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Experimental support for K2 + FIR checkers"
+
 **2022-10-02** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-02** — merged PR [#158](https://github.com/slackhq/circuit/pull/158) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.5"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-02** — commented on [#1577](https://github.com/square/moshi/issues/1577#issuecomment-1264702373) in [square/moshi](https://github.com/square/moshi)
 
 **2022-10-02** — closed issue [#1577](https://github.com/square/moshi/issues/1577) on [square/moshi](https://github.com/square/moshi): "Casting with Type crashed in 1.14.0"
-
-**2022-10-02** — deleted branch `z/kotlin1720` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-10-02** — merged PR [#85](https://github.com/ZacSweers/redacted-compiler-plugin/pull/85) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update most dependencies + support k2"
-
-**2022-10-02** — opened PR [#54](https://github.com/slackhq/EitherNet/pull/54) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc updates, mostly around Kotlin 1.7.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
