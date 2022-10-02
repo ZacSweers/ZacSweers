@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-02** — opened PR [#54](https://github.com/slackhq/EitherNet/pull/54) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc updates, mostly around Kotlin 1.7.20"
+
+**2022-10-02** — created branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-10-02** — opened PR [#85](https://github.com/ZacSweers/redacted-compiler-plugin/pull/85) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update most dependencies"
+
+**2022-10-02** — created branch `z/kotlin1720` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-10-01** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-10-01** — merged PR [#1376](https://github.com/square/kotlinpoet/pull/1376) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.5.4"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-09-30** — created branch `z/disableWarning` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-09-30** — created branch `z/configInFactories` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-30** — merged PR [#154](https://github.com/slackhq/circuit/pull/154) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-beta03"
-
-**2022-09-30** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-30** — merged PR [#155](https://github.com/slackhq/circuit/pull/155) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-beta03"
-
-**2022-09-30** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
