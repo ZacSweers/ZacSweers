@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-02** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-02** — merged PR [#158](https://github.com/slackhq/circuit/pull/158) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.5"
+
+**2022-10-02** — commented on [#161](https://github.com/slackhq/circuit/pull/161#issuecomment-1264706053) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-02** — deleted branch `test-renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-02** — merged PR [#160](https://github.com/slackhq/circuit/pull/160) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.2.2"
+
+**2022-10-02** — commented on [#1577](https://github.com/square/moshi/issues/1577#issuecomment-1264702373) in [square/moshi](https://github.com/square/moshi)
+
+**2022-10-02** — closed issue [#1577](https://github.com/square/moshi/issues/1577) on [square/moshi](https://github.com/square/moshi): "Casting with Type crashed in 1.14.0"
+
+**2022-10-02** — deleted branch `z/kotlin1720` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-10-02** — merged PR [#85](https://github.com/ZacSweers/redacted-compiler-plugin/pull/85) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update most dependencies + support k2"
+
 **2022-10-02** — opened PR [#54](https://github.com/slackhq/EitherNet/pull/54) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc updates, mostly around Kotlin 1.7.20"
-
-**2022-10-02** — created branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2022-10-02** — opened PR [#85](https://github.com/ZacSweers/redacted-compiler-plugin/pull/85) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update most dependencies"
-
-**2022-10-02** — created branch `z/kotlin1720` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-10-01** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-10-01** — merged PR [#1376](https://github.com/square/kotlinpoet/pull/1376) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.5.4"
-
-**2022-09-30** — opened PR [#157](https://github.com/slackhq/circuit/pull/157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Suppress unsupported options warnings to reduce build noise"
-
-**2022-09-30** — opened PR [#156](https://github.com/slackhq/circuit/pull/156) to [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig to factories"
-
-**2022-09-30** — created branch `z/disableWarning` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-09-30** — created branch `z/configInFactories` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
