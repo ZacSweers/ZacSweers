@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-03** — opened PR [#133](https://github.com/slackhq/slack-gradle-plugin/pull/133) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only configure bootstrap conditionally"
+
+**2022-10-03** — created branch `z/conditionalBootstrap` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-03** — created tag `0.2.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-03** — merged PR [#132](https://github.com/slackhq/slack-gradle-plugin/pull/132) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add best practices plugin + two fixes"
 
 **2022-10-03** — deleted branch `z/bestPracticesPlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-03** — created tag `1.2.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-10-03** — deleted branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-10-03** — merged PR [#86](https://github.com/ZacSweers/redacted-compiler-plugin/pull/86) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Experimental support for K2 + FIR checkers"
-
-**2022-10-03** — merged PR [#162](https://github.com/slackhq/circuit/pull/162) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.6"
-
-**2022-10-03** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
