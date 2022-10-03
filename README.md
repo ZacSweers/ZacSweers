@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-03** — created tag `0.2.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-03** — merged PR [#133](https://github.com/slackhq/slack-gradle-plugin/pull/133) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only configure bootstrap conditionally"
+
+**2022-10-03** — deleted branch `z/conditionalBootstrap` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-03** — opened PR [#133](https://github.com/slackhq/slack-gradle-plugin/pull/133) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only configure bootstrap conditionally"
 
 **2022-10-03** — created branch `z/conditionalBootstrap` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-03** — closed issue [#152](https://github.com/slackhq/circuit/issues/152) on [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig instances to factories"
 
 **2022-10-03** — deleted branch `z/configInFactories` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — merged PR [#156](https://github.com/slackhq/circuit/pull/156) to [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig to factories"
-
-**2022-10-03** — created tag `1.2.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-10-03** — deleted branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
