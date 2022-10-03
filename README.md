@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-02** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-10-02** — merged PR [#54](https://github.com/slackhq/EitherNet/pull/54) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc updates, mostly around Kotlin 1.7.20"
+
 **2022-10-02** — closed issue [#1578](https://github.com/square/moshi/issues/1578) on [square/moshi](https://github.com/square/moshi): " Casting with Type crashed with Full Mode R8"
 
 **2022-10-02** — commented on [#1578](https://github.com/square/moshi/issues/1578#issuecomment-1264720949) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-02** — deleted branch `test-renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-02** — merged PR [#160](https://github.com/slackhq/circuit/pull/160) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.2.2"
-
-**2022-10-02** — commented on [#1577](https://github.com/square/moshi/issues/1577#issuecomment-1264702373) in [square/moshi](https://github.com/square/moshi)
-
-**2022-10-02** — closed issue [#1577](https://github.com/square/moshi/issues/1577) on [square/moshi](https://github.com/square/moshi): "Casting with Type crashed in 1.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
