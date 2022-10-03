@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-03** — merged PR [#132](https://github.com/slackhq/slack-gradle-plugin/pull/132) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add best practices plugin + two fixes"
+
+**2022-10-03** — deleted branch `z/bestPracticesPlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-03** — closed issue [#152](https://github.com/slackhq/circuit/issues/152) on [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig instances to factories"
+
+**2022-10-03** — deleted branch `z/configInFactories` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-03** — merged PR [#156](https://github.com/slackhq/circuit/pull/156) to [slackhq/circuit](https://github.com/slackhq/circuit): "Offer CircuitConfig to factories"
+
 **2022-10-03** — created tag `1.2.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-10-03** — deleted branch `z/firTesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-03** — merged PR [#162](https://github.com/slackhq/circuit/pull/162) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.6"
 
 **2022-10-03** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — deleted branch `test-renovate/robolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — merged PR [#163](https://github.com/slackhq/circuit/pull/163) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.robolectric:robolectric to v4.9"
-
-**2022-10-03** — merged PR [#131](https://github.com/slackhq/slack-gradle-plugin/pull/131) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add robolectric add-opens args"
-
-**2022-10-03** — deleted branch `z/robolectric49` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-02** — deleted branch `test-renovate/org.apache.commons` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
