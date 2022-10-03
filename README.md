@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-02** — deleted branch `test-renovate/org.apache.commons` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-02** — merged PR [#127](https://github.com/slackhq/slack-gradle-plugin/pull/127) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.apache.commons:commons-text to v1.10.0"
+
+**2022-10-02** — opened PR [#132](https://github.com/slackhq/slack-gradle-plugin/pull/132) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add best practices plugin + two fixes"
+
+**2022-10-02** — created branch `z/bestPracticesPlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-02** — opened PR [#131](https://github.com/slackhq/slack-gradle-plugin/pull/131) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add robolectric add-opens args"
+
+**2022-10-02** — created branch `z/robolectric49` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-02** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-10-02** — merged PR [#54](https://github.com/slackhq/EitherNet/pull/54) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc updates, mostly around Kotlin 1.7.20"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-02** — closed issue [#1578](https://github.com/square/moshi/issues/1578) on [square/moshi](https://github.com/square/moshi): " Casting with Type crashed with Full Mode R8"
 
 **2022-10-02** — commented on [#1578](https://github.com/square/moshi/issues/1578#issuecomment-1264720949) in [square/moshi](https://github.com/square/moshi)
-
-**2022-10-02** — opened PR [#86](https://github.com/ZacSweers/redacted-compiler-plugin/pull/86) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Experimental support for K2 + FIR checkers"
-
-**2022-10-02** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-02** — merged PR [#158](https://github.com/slackhq/circuit/pull/158) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.5"
-
-**2022-10-02** — commented on [#161](https://github.com/slackhq/circuit/pull/161#issuecomment-1264706053) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-02** — deleted branch `test-renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-02** — merged PR [#160](https://github.com/slackhq/circuit/pull/160) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
