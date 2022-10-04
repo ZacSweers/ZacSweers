@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — commented on [#166](https://github.com/slackhq/circuit/pull/166#issuecomment-1267189672) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — opened PR [#168](https://github.com/slackhq/circuit/pull/168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert Circuit to KMP"
+
+**2022-10-04** — created branch `z/circuitKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-04** — deleted branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — merged PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-03** — created branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-03** — merged PR [#153](https://github.com/slackhq/circuit/pull/153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert backstack project to KMP"
-
-**2022-10-03** — deleted branch `z/kmpBackstack` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — deleted branch `z/disableWarning` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — merged PR [#157](https://github.com/slackhq/circuit/pull/157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Suppress unsupported options warnings to reduce build noise"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
