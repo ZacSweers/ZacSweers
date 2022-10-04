@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — deleted branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — merged PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
+
+**2022-10-04** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — merged PR [#167](https://github.com/slackhq/circuit/pull/167) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.6"
+
 **2022-10-03** — opened PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
 
 **2022-10-03** — created branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-03** — deleted branch `z/disableWarning` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-03** — merged PR [#157](https://github.com/slackhq/circuit/pull/157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Suppress unsupported options warnings to reduce build noise"
-
-**2022-10-03** — opened PR [#164](https://github.com/slackhq/circuit/pull/164) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial pass at docs"
-
-**2022-10-03** — created branch `z/docsInMkdocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — created tag `0.2.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-03** — merged PR [#133](https://github.com/slackhq/slack-gradle-plugin/pull/133) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only configure bootstrap conditionally"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
