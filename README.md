@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — deleted branch `test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — commented on [#161](https://github.com/slackhq/circuit/pull/161#issuecomment-1267381719) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — closed PR [#161](https://github.com/slackhq/circuit/pull/161) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.19.0"
+
+**2022-10-04** — closed PR [#60](https://github.com/slackhq/circuit/pull/60) to [slackhq/circuit](https://github.com/slackhq/circuit): "KMP Prototype"
+
+**2022-10-04** — deleted branch `z/mpp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-04** — deleted branch `z/circuitKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — closed issue [#35](https://github.com/slackhq/circuit/issues/35) on [slackhq/circuit](https://github.com/slackhq/circuit): "Make Circuit multiplatform"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-04** — opened PR [#171](https://github.com/slackhq/circuit/pull/171) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.7.20"
 
 **2022-10-04** — created branch `z/kotlin1720` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — commented on [#166](https://github.com/slackhq/circuit/pull/166#issuecomment-1267189672) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — opened PR [#168](https://github.com/slackhq/circuit/pull/168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert Circuit to KMP"
-
-**2022-10-04** — created branch `z/circuitKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — deleted branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — merged PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
