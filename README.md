@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — opened PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
+
+**2022-10-04** — created branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — created branch `gh-pages` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-04** — deleted branch `z/docsInMkdocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — closed issue [#41](https://github.com/slackhq/circuit/issues/41) on [slackhq/circuit](https://github.com/slackhq/circuit): "Set up MKDocs for documentation"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-04** — closed PR [#161](https://github.com/slackhq/circuit/pull/161) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.19.0"
 
 **2022-10-04** — closed PR [#60](https://github.com/slackhq/circuit/pull/60) to [slackhq/circuit](https://github.com/slackhq/circuit): "KMP Prototype"
-
-**2022-10-04** — deleted branch `z/mpp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — deleted branch `z/circuitKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — closed issue [#35](https://github.com/slackhq/circuit/issues/35) on [slackhq/circuit](https://github.com/slackhq/circuit): "Make Circuit multiplatform"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
