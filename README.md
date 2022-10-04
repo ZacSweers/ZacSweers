@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — deleted branch `z/circuitKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-04** — closed issue [#35](https://github.com/slackhq/circuit/issues/35) on [slackhq/circuit](https://github.com/slackhq/circuit): "Make Circuit multiplatform"
+
+**2022-10-04** — merged PR [#168](https://github.com/slackhq/circuit/pull/168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert Circuit Core to KMP"
+
+**2022-10-04** — opened PR [#171](https://github.com/slackhq/circuit/pull/171) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.7.20"
+
+**2022-10-04** — created branch `z/kotlin1720` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-04** — commented on [#166](https://github.com/slackhq/circuit/pull/166#issuecomment-1267189672) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — opened PR [#168](https://github.com/slackhq/circuit/pull/168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert Circuit to KMP"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-04** — deleted branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — merged PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
-
-**2022-10-04** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — merged PR [#167](https://github.com/slackhq/circuit/pull/167) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.6"
-
-**2022-10-03** — opened PR [#165](https://github.com/slackhq/circuit/pull/165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert circuit-retained to KMP"
-
-**2022-10-03** — created branch `z/kmpRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-03** — merged PR [#153](https://github.com/slackhq/circuit/pull/153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert backstack project to KMP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
