@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-05** — merged PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
 
 **2022-10-05** — opened issue [#178](https://github.com/slackhq/circuit/issues/178) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automatically publish docs site"
-
-**2022-10-05** — opened PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
-
-**2022-10-05** — created branch `z/kmpFileNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
