@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-05** — deleted branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-05** — opened PR [#179](https://github.com/slackhq/circuit/pull/179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove PR template"
+
+**2022-10-05** — created branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-05** — deleted branch `z/kotlin1720` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-05** — merged PR [#171](https://github.com/slackhq/circuit/pull/171) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.7.20"
+
 **2022-10-05** — deleted branch `z/kmpFileNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-05** — merged PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-05** — opened PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
 
 **2022-10-05** — created branch `z/kmpFileNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — deleted branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — merged PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
-
-**2022-10-05** — deleted branch `test-renovate/composecompiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — closed PR [#175](https://github.com/slackhq/circuit/pull/175) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.3.2"
-
-**2022-10-05** — deleted branch `test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
