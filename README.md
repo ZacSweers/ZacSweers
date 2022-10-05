@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-05** — opened issue [#178](https://github.com/slackhq/circuit/issues/178) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automatically publish docs site"
+
+**2022-10-05** — opened PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
+
+**2022-10-05** — created branch `z/kmpFileNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-05** — deleted branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-05** — merged PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-05** — closed PR [#176](https://github.com/slackhq/circuit/pull/176) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin to v1.7.20"
 
 **2022-10-04** — opened PR [#174](https://github.com/slackhq/circuit/pull/174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement suspend result overlays for results"
-
-**2022-10-04** — created branch `z/overlay` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — opened PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
-
-**2022-10-04** — created branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
