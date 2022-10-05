@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-05** — deleted branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-05** — merged PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
+
 **2022-10-05** — deleted branch `test-renovate/composecompiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-05** — closed PR [#175](https://github.com/slackhq/circuit/pull/175) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.3.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-04** — opened PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
 
 **2022-10-04** — created branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — created branch `gh-pages` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — deleted branch `z/docsInMkdocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
