@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-04** — opened PR [#174](https://github.com/slackhq/circuit/pull/174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement suspend result overlays for results"
+
+**2022-10-04** — created branch `z/overlay` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-04** — opened PR [#173](https://github.com/slackhq/circuit/pull/173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Finish setting up dokka and publishing"
 
 **2022-10-04** — created branch `z/publishingAndDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-04** — deleted branch `test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-04** — commented on [#161](https://github.com/slackhq/circuit/pull/161#issuecomment-1267381719) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-04** — closed PR [#161](https://github.com/slackhq/circuit/pull/161) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.19.0"
-
-**2022-10-04** — closed PR [#60](https://github.com/slackhq/circuit/pull/60) to [slackhq/circuit](https://github.com/slackhq/circuit): "KMP Prototype"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
