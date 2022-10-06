@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-10-06** — commented on [#133](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/133#issuecomment-1270431001) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+**2022-10-06** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-10-06** — merged PR [#181](https://github.com/slackhq/circuit/pull/181) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-rc01"
+**2022-10-06** — merged PR [#134](https://github.com/slackhq/slack-gradle-plugin/pull/134) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.0"
 
-**2022-10-06** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-06** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-10-06** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-06** — merged PR [#130](https://github.com/slackhq/slack-gradle-plugin/pull/130) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.19.0"
 
-**2022-10-06** — merged PR [#180](https://github.com/slackhq/circuit/pull/180) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-rc01"
+**2022-10-06** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-10-05** — deleted branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-06** — merged PR [#128](https://github.com/slackhq/slack-gradle-plugin/pull/128) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.20"
 
-**2022-10-05** — opened PR [#179](https://github.com/slackhq/circuit/pull/179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove PR template"
+**2022-10-06** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-10-05** — created branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-06** — merged PR [#136](https://github.com/slackhq/slack-gradle-plugin/pull/136) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v7.3.1"
+
+**2022-10-06** — opened PR [#137](https://github.com/slackhq/slack-gradle-plugin/pull/137) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only check allowed androidTest variants if any are defined"
+
+**2022-10-06** — created branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
