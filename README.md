@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-05** — opened PR [#179](https://github.com/slackhq/circuit/pull/179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove PR template"
 
 **2022-10-05** — created branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — deleted branch `z/kotlin1720` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — merged PR [#171](https://github.com/slackhq/circuit/pull/171) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.7.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
