@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-06** — merged PR [#181](https://github.com/slackhq/circuit/pull/181) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0-rc01"
+
+**2022-10-06** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-06** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-06** — merged PR [#180](https://github.com/slackhq/circuit/pull/180) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0-rc01"
+
 **2022-10-05** — deleted branch `z/removePRTemplate` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-05** — opened PR [#179](https://github.com/slackhq/circuit/pull/179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove PR template"
@@ -13,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-05** — deleted branch `z/kotlin1720` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-05** — merged PR [#171](https://github.com/slackhq/circuit/pull/171) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.7.20"
-
-**2022-10-05** — deleted branch `z/kmpFileNamings` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-05** — merged PR [#177](https://github.com/slackhq/circuit/pull/177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Standard kmp platform names in backstack and retained"
-
-**2022-10-05** — opened issue [#178](https://github.com/slackhq/circuit/issues/178) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automatically publish docs site"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
