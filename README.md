@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-06** — opened issue [#24](https://github.com/google/TestParameterInjector/issues/24) on [google/TestParameterInjector](https://github.com/google/TestParameterInjector): "Feature request: shade protobuf dependency"
+
 **2022-10-06** — created tag `0.2.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-06** — deleted branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-06** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-06** — merged PR [#128](https://github.com/slackhq/slack-gradle-plugin/pull/128) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.20"
-
-**2022-10-06** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
