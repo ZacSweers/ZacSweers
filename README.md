@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-06** — created tag `0.2.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-06** — deleted branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-06** — merged PR [#137](https://github.com/slackhq/slack-gradle-plugin/pull/137) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only check allowed androidTest variants if any are defined"
+
 **2022-10-06** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-06** — merged PR [#134](https://github.com/slackhq/slack-gradle-plugin/pull/134) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-06** — merged PR [#128](https://github.com/slackhq/slack-gradle-plugin/pull/128) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.20"
 
 **2022-10-06** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — merged PR [#136](https://github.com/slackhq/slack-gradle-plugin/pull/136) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v7.3.1"
-
-**2022-10-06** — opened PR [#137](https://github.com/slackhq/slack-gradle-plugin/pull/137) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only check allowed androidTest variants if any are defined"
-
-**2022-10-06** — created branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
