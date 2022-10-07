@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-07** — deleted branch `z/presenterOf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-07** — merged PR [#186](https://github.com/slackhq/circuit/pull/186) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add presenterOf helper function"
+
+**2022-10-07** — opened PR [#186](https://github.com/slackhq/circuit/pull/186) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add presenterOf helper function"
+
+**2022-10-07** — created branch `z/presenterOf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-07** — opened PR [#185](https://github.com/slackhq/circuit/pull/185) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create test artifact"
+
+**2022-10-07** — created branch `z/testArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-07** — opened issue [#645](https://github.com/square/anvil/issues/645) on [square/anvil](https://github.com/square/anvil): "Feature Request: Identify identical members from contributed components and override them"
 
 **2022-10-07** — deleted branch `z/providerFix` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-07** — merged PR [#183](https://github.com/slackhq/circuit/pull/183) to [slackhq/circuit](https://github.com/slackhq/circuit): "Store app-scope providers in singleton"
 
 **2022-10-07** — opened PR [#184](https://github.com/slackhq/circuit/pull/184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support material 3 dynamic theming in star app"
-
-**2022-10-07** — created branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-07** — opened PR [#183](https://github.com/slackhq/circuit/pull/183) to [slackhq/circuit](https://github.com/slackhq/circuit): "Store app-scope providers in singleton"
-
-**2022-10-07** — created branch `z/providerFix` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-06** — opened issue [#24](https://github.com/google/TestParameterInjector/issues/24) on [google/TestParameterInjector](https://github.com/google/TestParameterInjector): "Feature request: shade protobuf dependency"
-
-**2022-10-06** — created tag `0.2.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — deleted branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
