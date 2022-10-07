@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-07** — deleted branch `z/providerFix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-07** — merged PR [#183](https://github.com/slackhq/circuit/pull/183) to [slackhq/circuit](https://github.com/slackhq/circuit): "Store app-scope providers in singleton"
+
+**2022-10-07** — opened PR [#184](https://github.com/slackhq/circuit/pull/184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support material 3 dynamic theming in star app"
+
+**2022-10-07** — created branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-07** — opened PR [#183](https://github.com/slackhq/circuit/pull/183) to [slackhq/circuit](https://github.com/slackhq/circuit): "Store app-scope providers in singleton"
+
+**2022-10-07** — created branch `z/providerFix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-06** — opened issue [#24](https://github.com/google/TestParameterInjector/issues/24) on [google/TestParameterInjector](https://github.com/google/TestParameterInjector): "Feature request: shade protobuf dependency"
 
 **2022-10-06** — created tag `0.2.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-06** — deleted branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-06** — merged PR [#137](https://github.com/slackhq/slack-gradle-plugin/pull/137) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only check allowed androidTest variants if any are defined"
-
-**2022-10-06** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — merged PR [#134](https://github.com/slackhq/slack-gradle-plugin/pull/134) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.0"
-
-**2022-10-06** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — merged PR [#130](https://github.com/slackhq/slack-gradle-plugin/pull/130) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.19.0"
-
-**2022-10-06** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — merged PR [#128](https://github.com/slackhq/slack-gradle-plugin/pull/128) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
