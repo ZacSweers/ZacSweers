@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-07** — opened issue [#645](https://github.com/square/anvil/issues/645) on [square/anvil](https://github.com/square/anvil): "Feature Request: Identify identical members from contributed components and override them"
+
 **2022-10-07** — deleted branch `z/providerFix` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-07** — merged PR [#183](https://github.com/slackhq/circuit/pull/183) to [slackhq/circuit](https://github.com/slackhq/circuit): "Store app-scope providers in singleton"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-06** — created tag `0.2.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-06** — deleted branch `z/conditionalAllowedAndroidTestVariants` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-06** — merged PR [#137](https://github.com/slackhq/slack-gradle-plugin/pull/137) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only check allowed androidTest variants if any are defined"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
