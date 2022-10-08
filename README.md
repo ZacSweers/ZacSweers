@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-08** — opened PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
+
+**2022-10-08** — opened PR [#188](https://github.com/slackhq/circuit/pull/188) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor petlist and home screen a bit"
+
+**2022-10-08** — created branch `z/tokenStorage` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-08** — created branch `z/dialogState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-08** — deleted branch `z/overlay` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-08** — merged PR [#174](https://github.com/slackhq/circuit/pull/174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement suspend result overlays for results"
@@ -11,18 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-08** — opened PR [#187](https://github.com/slackhq/circuit/pull/187) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename unavailableContent setter to setOnUnavailableContent"
 
 **2022-10-08** — created branch `z/renameUnavailableContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-07** — deleted branch `z/presenterOf` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-07** — merged PR [#186](https://github.com/slackhq/circuit/pull/186) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add presenterOf helper function"
-
-**2022-10-07** — opened PR [#186](https://github.com/slackhq/circuit/pull/186) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add presenterOf helper function"
-
-**2022-10-07** — created branch `z/presenterOf` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-07** — opened PR [#185](https://github.com/slackhq/circuit/pull/185) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create test artifact"
-
-**2022-10-07** — created branch `z/testArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
