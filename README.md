@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-09** — opened PR [#191](https://github.com/slackhq/circuit/pull/191) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit setup docs"
+
+**2022-10-09** — created branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272545244) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
 
 **2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272470459) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-08** — created branch `z/dialogState` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-08** — deleted branch `z/overlay` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-08** — merged PR [#174](https://github.com/slackhq/circuit/pull/174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement suspend result overlays for results"
-
-**2022-10-08** — opened PR [#187](https://github.com/slackhq/circuit/pull/187) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename unavailableContent setter to setOnUnavailableContent"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
