@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272470459) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
+
 **2022-10-08** — opened issue [#190](https://github.com/slackhq/circuit/issues/190) on [slackhq/circuit](https://github.com/slackhq/circuit): "Multiple rememberRetained's get conflicting retrieval from storage"
 
 **2022-10-08** — opened PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
