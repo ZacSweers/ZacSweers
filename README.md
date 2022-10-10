@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-09** — opened issue [#2376](https://github.com/JetBrains/compose-jb/issues/2376) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "AbstractConfigureDesktopPreviewTask is not compatible with Gradle configuration cache"
+
+**2022-10-09** — opened PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
+
+**2022-10-09** — created branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-09** — opened PR [#191](https://github.com/slackhq/circuit/pull/191) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit setup docs"
 
 **2022-10-09** — created branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-08** — opened PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
 
 **2022-10-08** — opened PR [#188](https://github.com/slackhq/circuit/pull/188) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor petlist and home screen a bit"
-
-**2022-10-08** — created branch `z/tokenStorage` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-08** — created branch `z/dialogState` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-08** — deleted branch `z/overlay` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
