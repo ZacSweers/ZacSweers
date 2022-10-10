@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-10** — opened issue [#198](https://github.com/slackhq/circuit/issues/198) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate twitter detekt compose rules"
 
 **2022-10-10** — opened issue [#197](https://github.com/slackhq/circuit/issues/197) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
-
-**2022-10-10** — opened PR [#196](https://github.com/slackhq/circuit/pull/196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix compose bundle dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
