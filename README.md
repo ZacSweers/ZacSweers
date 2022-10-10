@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-10-10** — deleted branch `z/renameUnavailableContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — created tag `0.1.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — merged PR [#187](https://github.com/slackhq/circuit/pull/187) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename unavailableContent setter to setOnUnavailableContent"
+**2022-10-10** — deleted branch `z/dialogState` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — commented on [#195](https://github.com/slackhq/circuit/issues/195#issuecomment-1273577848) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — closed issue [#136](https://github.com/slackhq/circuit/issues/136) on [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up HomeContent() Composable"
 
-**2022-10-10** — commented on [#58](https://github.com/ZacSweers/ticktock/issues/58#issuecomment-1273381359) in [ZacSweers/ticktock](https://github.com/ZacSweers/ticktock)
+**2022-10-10** — merged PR [#188](https://github.com/slackhq/circuit/pull/188) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor petlist and home screen a bit"
 
-**2022-10-10** — closed issue [#1382](https://github.com/square/kotlinpoet/issues/1382) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "I haven't see how to use it?"
+**2022-10-10** — commented on [#194](https://github.com/slackhq/circuit/pull/194#issuecomment-1273601644) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — commented on [#1382](https://github.com/square/kotlinpoet/issues/1382#issuecomment-1273380134) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2022-10-10** — closed issue [#195](https://github.com/slackhq/circuit/issues/195) on [slackhq/circuit](https://github.com/slackhq/circuit): "Broken HomePresenter example link in Presenter docs"
 
-**2022-10-10** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272777898) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — merged PR [#194](https://github.com/slackhq/circuit/pull/194) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix outdated HomePresenter link"
 
-**2022-10-10** — opened PR [#193](https://github.com/slackhq/circuit/pull/193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixup spotless config + correctly format build files"
+**2022-10-10** — deleted branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — created branch `z/spotlessPredeclare` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — merged PR [#191](https://github.com/slackhq/circuit/pull/191) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit setup docs"
 
-**2022-10-09** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272719596) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — closed issue [#9](https://github.com/slackhq/circuit/issues/9) on [slackhq/circuit](https://github.com/slackhq/circuit): "Testing story"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
