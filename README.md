@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-10** — commented on [#58](https://github.com/ZacSweers/ticktock/issues/58#issuecomment-1273381359) in [ZacSweers/ticktock](https://github.com/ZacSweers/ticktock)
+
+**2022-10-10** — closed issue [#1382](https://github.com/square/kotlinpoet/issues/1382) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "I haven't see how to use it?"
+
+**2022-10-10** — commented on [#1382](https://github.com/square/kotlinpoet/issues/1382#issuecomment-1273380134) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-10-10** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272777898) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-10** — opened PR [#193](https://github.com/slackhq/circuit/pull/193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixup spotless config + correctly format build files"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-09** — opened PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
 
 **2022-10-09** — created branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-09** — opened PR [#191](https://github.com/slackhq/circuit/pull/191) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit setup docs"
-
-**2022-10-09** — created branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272545244) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
