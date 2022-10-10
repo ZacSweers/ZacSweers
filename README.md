@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-09** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272719596) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-09** — opened issue [#2376](https://github.com/JetBrains/compose-jb/issues/2376) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "AbstractConfigureDesktopPreviewTask is not compatible with Gradle configuration cache"
 
 **2022-10-09** — opened PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-08** — opened issue [#190](https://github.com/slackhq/circuit/issues/190) on [slackhq/circuit](https://github.com/slackhq/circuit): "Multiple rememberRetained's get conflicting retrieval from storage"
 
 **2022-10-08** — opened PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
-
-**2022-10-08** — opened PR [#188](https://github.com/slackhq/circuit/pull/188) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor petlist and home screen a bit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
