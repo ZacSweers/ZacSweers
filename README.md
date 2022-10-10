@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-10-10** — created tag `0.1.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — merged PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
 
-**2022-10-10** — deleted branch `z/dialogState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — deleted branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — closed issue [#136](https://github.com/slackhq/circuit/issues/136) on [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up HomeContent() Composable"
+**2022-10-10** — commented on [#604](https://github.com/cashapp/paparazzi/issues/604#issuecomment-1273677142) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
-**2022-10-10** — merged PR [#188](https://github.com/slackhq/circuit/pull/188) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor petlist and home screen a bit"
+**2022-10-10** — opened issue [#56](https://github.com/dropbox/dependency-guard/issues/56) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: for multiplatform deps, only include target platform"
 
-**2022-10-10** — commented on [#194](https://github.com/slackhq/circuit/pull/194#issuecomment-1273601644) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — created tag `0.1.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — closed issue [#195](https://github.com/slackhq/circuit/issues/195) on [slackhq/circuit](https://github.com/slackhq/circuit): "Broken HomePresenter example link in Presenter docs"
+**2022-10-10** — deleted branch `z/fixDeps` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-10-10** — merged PR [#194](https://github.com/slackhq/circuit/pull/194) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix outdated HomePresenter link"
+**2022-10-10** — merged PR [#196](https://github.com/slackhq/circuit/pull/196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix compose bundle dependencies"
 
-**2022-10-10** — deleted branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-10-10** — opened issue [#198](https://github.com/slackhq/circuit/issues/198) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate twitter detekt compose rules"
 
-**2022-10-10** — merged PR [#191](https://github.com/slackhq/circuit/pull/191) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add circuit setup docs"
+**2022-10-10** — opened issue [#197](https://github.com/slackhq/circuit/issues/197) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
 
-**2022-10-10** — closed issue [#9](https://github.com/slackhq/circuit/issues/9) on [slackhq/circuit](https://github.com/slackhq/circuit): "Testing story"
+**2022-10-10** — opened PR [#196](https://github.com/slackhq/circuit/pull/196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix compose bundle dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
