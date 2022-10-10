@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-10** — deleted branch `z/renameUnavailableContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-10** — merged PR [#187](https://github.com/slackhq/circuit/pull/187) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename unavailableContent setter to setOnUnavailableContent"
+
+**2022-10-10** — commented on [#195](https://github.com/slackhq/circuit/issues/195#issuecomment-1273577848) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-10** — commented on [#58](https://github.com/ZacSweers/ticktock/issues/58#issuecomment-1273381359) in [ZacSweers/ticktock](https://github.com/ZacSweers/ticktock)
 
 **2022-10-10** — closed issue [#1382](https://github.com/square/kotlinpoet/issues/1382) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "I haven't see how to use it?"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-10** — created branch `z/spotlessPredeclare` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-09** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272719596) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-09** — opened issue [#2376](https://github.com/JetBrains/compose-jb/issues/2376) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "AbstractConfigureDesktopPreviewTask is not compatible with Gradle configuration cache"
-
-**2022-10-09** — opened PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
-
-**2022-10-09** — created branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
