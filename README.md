@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-10** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272777898) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-10** — opened PR [#193](https://github.com/slackhq/circuit/pull/193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixup spotless config + correctly format build files"
+
+**2022-10-10** — created branch `z/spotlessPredeclare` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-09** — commented on [#192](https://github.com/slackhq/circuit/pull/192#issuecomment-1272719596) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-09** — opened issue [#2376](https://github.com/JetBrains/compose-jb/issues/2376) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "AbstractConfigureDesktopPreviewTask is not compatible with Gradle configuration cache"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-09** — created branch `z/quickstart` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272545244) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
-
-**2022-10-09** — commented on [#24](https://github.com/google/TestParameterInjector/issues/24#issuecomment-1272470459) in [google/TestParameterInjector](https://github.com/google/TestParameterInjector)
-
-**2022-10-08** — opened issue [#190](https://github.com/slackhq/circuit/issues/190) on [slackhq/circuit](https://github.com/slackhq/circuit): "Multiple rememberRetained's get conflicting retrieval from storage"
-
-**2022-10-08** — opened PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
