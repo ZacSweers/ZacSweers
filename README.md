@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-11** — deleted branch `test-renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — closed PR [#199](https://github.com/slackhq/circuit/pull/199) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose to v1.2.0-rc02"
+
+**2022-10-11** — deleted branch `test-renovate/dokka` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — merged PR [#200](https://github.com/slackhq/circuit/pull/200) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.dokka to v1.7.20"
+
 **2022-10-11** — deleted branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-11** — merged PR [#201](https://github.com/slackhq/circuit/pull/201) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use singleWindowApplication in compose desktop sample"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-11** — created branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-11** — commented on [#1381](https://github.com/square/kotlinpoet/issues/1381#issuecomment-1274732709) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-10-11** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-10-11** — merged PR [#334](https://github.com/ZacSweers/MoshiX/pull/334) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.7.20"
-
-**2022-10-11** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1274681210) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
-
-**2022-10-11** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1274680085) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
