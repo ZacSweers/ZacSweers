@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-11** — deleted branch `z/tokenStorage` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — merged PR [#189](https://github.com/slackhq/circuit/pull/189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement token storage in Star sample"
+
 **2022-10-11** — deleted branch `test-renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-11** — closed PR [#199](https://github.com/slackhq/circuit/pull/199) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose to v1.2.0-rc02"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-11** — commented on [#199](https://github.com/slackhq/circuit/pull/199#issuecomment-1275097185) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-11** — opened PR [#201](https://github.com/slackhq/circuit/pull/201) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use singleWindowApplication in compose desktop sample"
-
-**2022-10-11** — created branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-11** — commented on [#1381](https://github.com/square/kotlinpoet/issues/1381#issuecomment-1274732709) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
