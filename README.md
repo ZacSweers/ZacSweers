@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-11** — commented on [#1381](https://github.com/square/kotlinpoet/issues/1381#issuecomment-1274732709) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-10-11** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-10-11** — merged PR [#334](https://github.com/ZacSweers/MoshiX/pull/334) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.7.20"
