@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-11** — deleted branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — merged PR [#201](https://github.com/slackhq/circuit/pull/201) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use singleWindowApplication in compose desktop sample"
+
+**2022-10-11** — commented on [#199](https://github.com/slackhq/circuit/pull/199#issuecomment-1275097185) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — opened PR [#201](https://github.com/slackhq/circuit/pull/201) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use singleWindowApplication in compose desktop sample"
+
+**2022-10-11** — created branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-11** — commented on [#1381](https://github.com/square/kotlinpoet/issues/1381#issuecomment-1274732709) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-10-11** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-11** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1274681210) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2022-10-11** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1274680085) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
-
-**2022-10-10** — opened PR [#139](https://github.com/slackhq/slack-gradle-plugin/pull/139) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically add compose compiler dep in multiplatform projects"
-
-**2022-10-10** — created branch `z/composeCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-10** — merged PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
-
-**2022-10-10** — deleted branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-10** — commented on [#604](https://github.com/cashapp/paparazzi/issues/604#issuecomment-1273677142) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
