@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-11** — created branch `z/paparazzi2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — deleted branch `z/composeJb120` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-11** — merged PR [#202](https://github.com/slackhq/circuit/pull/202) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to 1.2.0 stable"
+
 **2022-10-11** — opened PR [#202](https://github.com/slackhq/circuit/pull/202) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to 1.2.0 stable"
 
 **2022-10-11** — created branch `z/composeJb120` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-11** — closed PR [#199](https://github.com/slackhq/circuit/pull/199) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose to v1.2.0-rc02"
 
 **2022-10-11** — deleted branch `test-renovate/dokka` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-11** — merged PR [#200](https://github.com/slackhq/circuit/pull/200) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.dokka to v1.7.20"
-
-**2022-10-11** — deleted branch `z/singleWindow` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-11** — merged PR [#201](https://github.com/slackhq/circuit/pull/201) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use singleWindowApplication in compose desktop sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
