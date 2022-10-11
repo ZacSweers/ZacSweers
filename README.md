@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-10** — opened PR [#139](https://github.com/slackhq/slack-gradle-plugin/pull/139) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically add compose compiler dep in multiplatform projects"
+
+**2022-10-10** — created branch `z/composeCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-10** — merged PR [#192](https://github.com/slackhq/circuit/pull/192) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add multiplatform counter samples"
 
 **2022-10-10** — deleted branch `z/counterSampleKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,14 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-10** — opened issue [#56](https://github.com/dropbox/dependency-guard/issues/56) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: for multiplatform deps, only include target platform"
 
 **2022-10-10** — created tag `0.1.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-10** — deleted branch `z/fixDeps` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-10** — merged PR [#196](https://github.com/slackhq/circuit/pull/196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix compose bundle dependencies"
-
-**2022-10-10** — opened issue [#198](https://github.com/slackhq/circuit/issues/198) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate twitter detekt compose rules"
-
-**2022-10-10** — opened issue [#197](https://github.com/slackhq/circuit/issues/197) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
