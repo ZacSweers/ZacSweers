@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-12** — created tag `0.1.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-12** — deleted branch `test-renovate/turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-12** — merged PR [#206](https://github.com/slackhq/circuit/pull/206) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.turbine:turbine to v0.12.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-12** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1275585651) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-12** — opened PR [#204](https://github.com/slackhq/circuit/pull/204) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate Paparazzi"
-
-**2022-10-11** — deleted branch `z/ktfmt041` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
