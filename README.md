@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-12** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1276773466) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-12** — created tag `0.1.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-12** — deleted branch `test-renovate/turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-12** — closed PR [#59](https://github.com/slackhq/circuit/pull/59) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tinker with Paparazzi"
 
 **2022-10-12** — commented on [#59](https://github.com/slackhq/circuit/pull/59#issuecomment-1275585651) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-12** — opened PR [#204](https://github.com/slackhq/circuit/pull/204) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate Paparazzi"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
