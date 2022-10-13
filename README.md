@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-13** — commented on [#208](https://github.com/slackhq/circuit/pull/208#issuecomment-1277930615) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-13** — closed issue [#56](https://github.com/dropbox/dependency-guard/issues/56) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: for multiplatform deps, only include target platform"
+
+**2022-10-13** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1277922500) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+
 **2022-10-13** — deleted branch `z/fixSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-13** — merged PR [#209](https://github.com/slackhq/circuit/pull/209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots publishing"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-13** — commented on [#44](https://github.com/slackhq/circuit/issues/44#issuecomment-1277534489) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-13** — closed issue [#8](https://github.com/slackhq/circuit/issues/8) on [slackhq/circuit](https://github.com/slackhq/circuit): "Figure out how to return results"
-
-**2022-10-13** — commented on [#8](https://github.com/slackhq/circuit/issues/8#issuecomment-1277534182) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-13** — opened PR [#208](https://github.com/slackhq/circuit/pull/208) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
-
-**2022-10-13** — created branch `z/dependencyGuard` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
