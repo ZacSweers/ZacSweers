@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-14** — merged PR [#141](https://github.com/slackhq/slack-gradle-plugin/pull/141) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for android test projects"
+
+**2022-10-14** — deleted branch `z/androidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — deleted branch `z/kspUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — merged PR [#142](https://github.com/slackhq/slack-gradle-plugin/pull/142) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update KSP to 1.7.20-1.0.7"
+
+**2022-10-14** — deleted branch `z/epPlugin30` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — merged PR [#144](https://github.com/slackhq/slack-gradle-plugin/pull/144) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update error prone gradle plugin"
+
+**2022-10-14** — closed issue [#58](https://github.com/slackhq/circuit/issues/58) on [slackhq/circuit](https://github.com/slackhq/circuit): "Try out Paparazzi"
+
+**2022-10-14** — deleted branch `z/paparazzi2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-14** — merged PR [#204](https://github.com/slackhq/circuit/pull/204) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate Paparazzi"
+
 **2022-10-14** — commented on [#204](https://github.com/slackhq/circuit/pull/204#issuecomment-1279317919) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — deleted branch `z/dependencyGuard` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — closed issue [#197](https://github.com/slackhq/circuit/issues/197) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
-
-**2022-10-14** — merged PR [#208](https://github.com/slackhq/circuit/pull/208) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
-
-**2022-10-14** — merged PR [#210](https://github.com/slackhq/circuit/pull/210) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools.build:gradle to v7.3.1"
-
-**2022-10-14** — deleted branch `test-renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — merged PR [#211](https://github.com/slackhq/circuit/pull/211) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.5.0"
-
-**2022-10-14** — deleted branch `test-renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-10-14** — merged PR [#336](https://github.com/ZacSweers/MoshiX/pull/336) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
