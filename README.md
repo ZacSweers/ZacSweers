@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-13** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-13** — closed PR [#129](https://github.com/slackhq/slack-gradle-plugin/pull/129) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.20-1.0.6"
+
+**2022-10-13** — commented on [#129](https://github.com/slackhq/slack-gradle-plugin/pull/129#issuecomment-1278430544) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-13** — opened PR [#142](https://github.com/slackhq/slack-gradle-plugin/pull/142) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update KSP to 1.7.20-1.0.7"
+
+**2022-10-13** — created branch `z/kspUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-13** — opened PR [#141](https://github.com/slackhq/slack-gradle-plugin/pull/141) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for android test projects"
+
+**2022-10-13** — created branch `z/androidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-13** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-10-13** — merged PR [#335](https://github.com/ZacSweers/MoshiX/pull/335) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.3.1"
 
 **2022-10-13** — deleted branch `test-renovate/me.tongfei` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-13** — merged PR [#138](https://github.com/slackhq/slack-gradle-plugin/pull/138) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency me.tongfei:progressbar to v0.9.5"
-
-**2022-10-13** — deleted branch `z/composeCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-13** — merged PR [#139](https://github.com/slackhq/slack-gradle-plugin/pull/139) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Automatically add compose compiler dep in multiplatform projects"
-
-**2022-10-13** — commented on [#208](https://github.com/slackhq/circuit/pull/208#issuecomment-1278005920) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-13** — commented on [#208](https://github.com/slackhq/circuit/pull/208#issuecomment-1277930615) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-13** — closed issue [#56](https://github.com/dropbox/dependency-guard/issues/56) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: for multiplatform deps, only include target platform"
-
-**2022-10-13** — commented on [#56](https://github.com/dropbox/dependency-guard/issues/56#issuecomment-1277922500) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
