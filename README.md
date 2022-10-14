@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-14** — commented on [#204](https://github.com/slackhq/circuit/pull/204#issuecomment-1279317919) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-14** — deleted branch `z/dependencyGuard` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-14** — closed issue [#197](https://github.com/slackhq/circuit/issues/197) on [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate dependencyGuard"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-14** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-10-14** — merged PR [#336](https://github.com/ZacSweers/MoshiX/pull/336) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.7"
-
-**2022-10-14** — opened PR [#145](https://github.com/slackhq/slack-gradle-plugin/pull/145) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
