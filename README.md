@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-14** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-10-14** — merged PR [#336](https://github.com/ZacSweers/MoshiX/pull/336) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.7"
+
+**2022-10-14** — opened PR [#145](https://github.com/slackhq/slack-gradle-plugin/pull/145) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8"
+
+**2022-10-14** — created branch `z/agp8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-10-14** — opened PR [#144](https://github.com/slackhq/slack-gradle-plugin/pull/144) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update error prone gradle plugin"
 
 **2022-10-14** — created branch `z/epPlugin30` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-13** — closed PR [#129](https://github.com/slackhq/slack-gradle-plugin/pull/129) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.20-1.0.6"
 
 **2022-10-13** — commented on [#129](https://github.com/slackhq/slack-gradle-plugin/pull/129#issuecomment-1278430544) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-13** — opened PR [#142](https://github.com/slackhq/slack-gradle-plugin/pull/142) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update KSP to 1.7.20-1.0.7"
-
-**2022-10-13** — created branch `z/kspUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-13** — opened PR [#141](https://github.com/slackhq/slack-gradle-plugin/pull/141) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for android test projects"
-
-**2022-10-13** — created branch `z/androidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
