@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-14** — closed issue [#143](https://github.com/slackhq/slack-gradle-plugin/issues/143) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support AGP 8.x"
+
+**2022-10-14** — deleted branch `z/agp8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — merged PR [#145](https://github.com/slackhq/slack-gradle-plugin/pull/145) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8"
+
+**2022-10-14** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — closed PR [#147](https://github.com/slackhq/slack-gradle-plugin/pull/147) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.20-1.0.7"
+
+**2022-10-14** — commented on [#147](https://github.com/slackhq/slack-gradle-plugin/pull/147#issuecomment-1279402208) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-10-14** — merged PR [#146](https://github.com/slackhq/slack-gradle-plugin/pull/146) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.3.1"
+
 **2022-10-14** — merged PR [#141](https://github.com/slackhq/slack-gradle-plugin/pull/141) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for android test projects"
 
 **2022-10-14** — deleted branch `z/androidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — deleted branch `z/kspUpdate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — merged PR [#142](https://github.com/slackhq/slack-gradle-plugin/pull/142) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update KSP to 1.7.20-1.0.7"
-
-**2022-10-14** — deleted branch `z/epPlugin30` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — merged PR [#144](https://github.com/slackhq/slack-gradle-plugin/pull/144) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update error prone gradle plugin"
-
-**2022-10-14** — closed issue [#58](https://github.com/slackhq/circuit/issues/58) on [slackhq/circuit](https://github.com/slackhq/circuit): "Try out Paparazzi"
-
-**2022-10-14** — deleted branch `z/paparazzi2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — merged PR [#204](https://github.com/slackhq/circuit/pull/204) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate Paparazzi"
-
-**2022-10-14** — commented on [#204](https://github.com/slackhq/circuit/pull/204#issuecomment-1279317919) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
