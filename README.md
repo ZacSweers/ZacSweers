@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-16** — opened issue [#104](https://github.com/twitter/compose-rules/issues/104) on [twitter/compose-rules](https://github.com/twitter/compose-rules): "Feature Request: Allow specifying an optional pattern for `ComposableNaming`"
+
 **2022-10-16** — deleted branch `z/counterSample` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-16** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-14** — merged PR [#145](https://github.com/slackhq/slack-gradle-plugin/pull/145) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8"
 
 **2022-10-14** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — closed PR [#147](https://github.com/slackhq/slack-gradle-plugin/pull/147) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.20-1.0.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
