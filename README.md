@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-16** — closed issue [#214](https://github.com/slackhq/circuit/issues/214) on [slackhq/circuit](https://github.com/slackhq/circuit): "Failed to resolve: com.slack.circuit:circuit:0.1.2"
+
+**2022-10-16** — deleted branch `z/fixCircuitCore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-16** — merged PR [#215](https://github.com/slackhq/circuit/pull/215) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix circuit-core coordinates"
+
+**2022-10-16** — commented on [#214](https://github.com/slackhq/circuit/issues/214#issuecomment-1280085454) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-16** — opened PR [#215](https://github.com/slackhq/circuit/pull/215) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix circuit-core coordinates"
+
+**2022-10-16** — created branch `z/fixCircuitCore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-16** — opened issue [#104](https://github.com/twitter/compose-rules/issues/104) on [twitter/compose-rules](https://github.com/twitter/compose-rules): "Feature Request: Allow specifying an optional pattern for `ComposableNaming`"
 
 **2022-10-16** — deleted branch `z/counterSample` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-16** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-16** — merged PR [#213](https://github.com/slackhq/circuit/pull/213) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.1"
-
-**2022-10-15** — commented on [#212](https://github.com/slackhq/circuit/pull/212#issuecomment-1279650982) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-14** — created tag `0.3.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — closed issue [#143](https://github.com/slackhq/slack-gradle-plugin/issues/143) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support AGP 8.x"
-
-**2022-10-14** — deleted branch `z/agp8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-14** — merged PR [#145](https://github.com/slackhq/slack-gradle-plugin/pull/145) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8"
-
-**2022-10-14** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
