@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-17** — opened PR [#220](https://github.com/slackhq/circuit/pull/220) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable build scans on builds"
+
+**2022-10-17** — created branch `z/buildScans` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-17** — deleted branch `z/extractImageLoader` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-17** — merged PR [#217](https://github.com/slackhq/circuit/pull/217) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate FakeImageLoader impls"
+
 **2022-10-17** — deleted branch `test-renovate/versionsplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-17** — merged PR [#218](https://github.com/slackhq/circuit/pull/218) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ben-manes.versions to v0.43.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-16** — created branch `z/extractImageLoader` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-16** — opened PR [#216](https://github.com/slackhq/circuit/pull/216) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate Detekt + compose detekt rules + kotlinx immutable"
-
-**2022-10-16** — created branch `z/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-16** — closed issue [#214](https://github.com/slackhq/circuit/issues/214) on [slackhq/circuit](https://github.com/slackhq/circuit): "Failed to resolve: com.slack.circuit:circuit:0.1.2"
-
-**2022-10-16** — deleted branch `z/fixCircuitCore` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-16** — merged PR [#215](https://github.com/slackhq/circuit/pull/215) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix circuit-core coordinates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
