@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-17** — commented on [#105](https://github.com/twitter/compose-rules/pull/105#issuecomment-1281467152) in [twitter/compose-rules](https://github.com/twitter/compose-rules)
+
+**2022-10-17** — opened PR [#105](https://github.com/twitter/compose-rules/pull/105) to [twitter/compose-rules](https://github.com/twitter/compose-rules): "Introduce `allowedNames` config for `ComposeNaming` check"
+
+**2022-10-17** — created branch `z/allowedNames` on [ZacSweers/compose-rules](https://github.com/ZacSweers/compose-rules)
+
 **2022-10-17** — deleted branch `z/buildScans` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-17** — merged PR [#220](https://github.com/slackhq/circuit/pull/220) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable build scans on builds"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-17** — commented on [#216](https://github.com/slackhq/circuit/pull/216#issuecomment-1281237391) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-17** — opened PR [#220](https://github.com/slackhq/circuit/pull/220) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable build scans on builds"
-
-**2022-10-17** — created branch `z/buildScans` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-17** — deleted branch `z/extractImageLoader` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-17** — merged PR [#217](https://github.com/slackhq/circuit/pull/217) to [slackhq/circuit](https://github.com/slackhq/circuit): "Consolidate FakeImageLoader impls"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
