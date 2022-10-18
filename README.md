@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-18** — opened PR [#223](https://github.com/slackhq/circuit/pull/223) to [slackhq/circuit](https://github.com/slackhq/circuit): "EventListener part 2"
+
+**2022-10-18** — created branch `z/eventListenerTwo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-18** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1282835544) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2022-10-18** — commented on [#133](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/133#issuecomment-1282830294) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-18** — merged PR [#222](https://github.com/slackhq/circuit/pull/222) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.11.2"
 
 **2022-10-17** — commented on [#105](https://github.com/twitter/compose-rules/pull/105#issuecomment-1281467152) in [twitter/compose-rules](https://github.com/twitter/compose-rules)
-
-**2022-10-17** — opened PR [#105](https://github.com/twitter/compose-rules/pull/105) to [twitter/compose-rules](https://github.com/twitter/compose-rules): "Introduce `allowedNames` config for `ComposeNaming` check"
-
-**2022-10-17** — created branch `z/allowedNames` on [ZacSweers/compose-rules](https://github.com/ZacSweers/compose-rules)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
