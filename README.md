@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-20** — commented on [#104](https://github.com/twitter/compose-rules/issues/104#issuecomment-1285813438) in [twitter/compose-rules](https://github.com/twitter/compose-rules)
+
+**2022-10-20** — opened PR [#226](https://github.com/slackhq/circuit/pull/226) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP Add test for clearing unclaimed values"
+
+**2022-10-20** — created branch `z/retainedTestGC` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-19** — deleted branch `z/retainedTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-19** — closed issue [#190](https://github.com/slackhq/circuit/issues/190) on [slackhq/circuit](https://github.com/slackhq/circuit): "Multiple rememberRetained's get conflicting retrieval from storage"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-19** — merged PR [#223](https://github.com/slackhq/circuit/pull/223) to [slackhq/circuit](https://github.com/slackhq/circuit): "EventListener part 2"
 
 **2022-10-19** — deleted branch `z/eventListener` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-19** — closed PR [#49](https://github.com/slackhq/circuit/pull/49) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `EventListener` API"
-
-**2022-10-19** — commented on [#5436](https://github.com/detekt/detekt/issues/5436#issuecomment-1284307068) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2022-10-18** — opened PR [#224](https://github.com/slackhq/circuit/pull/224) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for rememberRetained"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
