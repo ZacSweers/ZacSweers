@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-19** — deleted branch `z/retainedTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-19** — closed issue [#190](https://github.com/slackhq/circuit/issues/190) on [slackhq/circuit](https://github.com/slackhq/circuit): "Multiple rememberRetained's get conflicting retrieval from storage"
+
+**2022-10-19** — merged PR [#224](https://github.com/slackhq/circuit/pull/224) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add initial tests for rememberRetained"
+
+**2022-10-19** — closed issue [#46](https://github.com/slackhq/circuit/issues/46) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add hooks for events and states"
+
+**2022-10-19** — deleted branch `z/eventListenerTwo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-19** — merged PR [#223](https://github.com/slackhq/circuit/pull/223) to [slackhq/circuit](https://github.com/slackhq/circuit): "EventListener part 2"
+
 **2022-10-19** — deleted branch `z/eventListener` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-19** — closed PR [#49](https://github.com/slackhq/circuit/pull/49) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `EventListener` API"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-19** — commented on [#5436](https://github.com/detekt/detekt/issues/5436#issuecomment-1284307068) in [detekt/detekt](https://github.com/detekt/detekt)
 
 **2022-10-18** — opened PR [#224](https://github.com/slackhq/circuit/pull/224) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for rememberRetained"
-
-**2022-10-18** — created branch `z/retainedTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-18** — opened PR [#223](https://github.com/slackhq/circuit/pull/223) to [slackhq/circuit](https://github.com/slackhq/circuit): "EventListener part 2"
-
-**2022-10-18** — created branch `z/eventListenerTwo` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-18** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1282835544) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-10-18** — commented on [#133](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/133#issuecomment-1282830294) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-10-18** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
