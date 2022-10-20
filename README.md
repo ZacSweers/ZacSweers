@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-20** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-10-20** — merged PR [#337](https://github.com/ZacSweers/MoshiX/pull/337) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.0"
+
+**2022-10-20** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-10-20** — merged PR [#1391](https://github.com/square/kotlinpoet/pull/1391) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.0"
+
+**2022-10-20** — opened PR [#227](https://github.com/slackhq/circuit/pull/227) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pop root automatically on empty backstacks"
+
+**2022-10-20** — created branch `z/navStackTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-20** — commented on [#42](https://github.com/slackhq/circuit/issues/42#issuecomment-1286116499) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-20** — created tag `0.3.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-20** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-20** — merged PR [#150](https://github.com/slackhq/slack-gradle-plugin/pull/150) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.0"
-
-**2022-10-20** — merged PR [#149](https://github.com/slackhq/slack-gradle-plugin/pull/149) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.43.0"
-
-**2022-10-20** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-20** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-20** — merged PR [#148](https://github.com/slackhq/slack-gradle-plugin/pull/148) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha05"
-
-**2022-10-20** — deleted branch `z/detektExcludes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-20** — merged PR [#151](https://github.com/slackhq/slack-gradle-plugin/pull/151) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Exclude build dirs from detekt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
