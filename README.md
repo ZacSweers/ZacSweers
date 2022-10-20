@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-20** — created branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-20** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-10-20** — merged PR [#337](https://github.com/ZacSweers/MoshiX/pull/337) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-20** — created tag `0.3.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-10-20** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-20** — merged PR [#150](https://github.com/slackhq/slack-gradle-plugin/pull/150) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
