@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-21** — opened PR [#229](https://github.com/slackhq/circuit/pull/229) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add leakcanary to instrumentation tests"
+
+**2022-10-21** — created branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-20** — opened PR [#228](https://github.com/slackhq/circuit/pull/228) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use enterAlwaysScrollBehavior in scaffold"
 
 **2022-10-20** — created branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-20** — opened PR [#227](https://github.com/slackhq/circuit/pull/227) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pop root automatically on empty backstacks"
 
 **2022-10-20** — created branch `z/navStackTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-20** — commented on [#42](https://github.com/slackhq/circuit/issues/42#issuecomment-1286116499) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-20** — created tag `0.3.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
