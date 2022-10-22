@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-22** — opened PR [#3237](https://github.com/JetBrains/kotlin-web-site/pull/3237) to [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site): "Update Glide support for KSP"
+
+**2022-10-22** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-22** — merged PR [#230](https://github.com/slackhq/circuit/pull/230) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.7"
+
 **2022-10-22** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-22** — merged PR [#231](https://github.com/slackhq/circuit/pull/231) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material-extensions to v1.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-20** — created branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-20** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-10-20** — merged PR [#337](https://github.com/ZacSweers/MoshiX/pull/337) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.0"
-
-**2022-10-20** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-10-20** — merged PR [#1391](https://github.com/square/kotlinpoet/pull/1391) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
