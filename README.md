@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-23** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-23** — merged PR [#232](https://github.com/slackhq/circuit/pull/232) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.7"
+
 **2022-10-22** — commented on [#13](https://github.com/slackhq/circuit/issues/13#issuecomment-1287855301) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-22** — opened PR [#3237](https://github.com/JetBrains/kotlin-web-site/pull/3237) to [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site): "Update Glide support for KSP"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-21** — opened PR [#229](https://github.com/slackhq/circuit/pull/229) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add leakcanary to instrumentation tests"
 
 **2022-10-21** — created branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-20** — opened PR [#228](https://github.com/slackhq/circuit/pull/228) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use enterAlwaysScrollBehavior in scaffold"
-
-**2022-10-20** — created branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
