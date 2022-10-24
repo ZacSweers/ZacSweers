@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-23** — deleted branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-23** — merged PR [#229](https://github.com/slackhq/circuit/pull/229) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add leakcanary to instrumentation tests"
+
+**2022-10-23** — deleted branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-23** — merged PR [#228](https://github.com/slackhq/circuit/pull/228) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use enterAlwaysScrollBehavior in scaffold"
+
 **2022-10-23** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-23** — merged PR [#232](https://github.com/slackhq/circuit/pull/232) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.7"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-22** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-22** — merged PR [#230](https://github.com/slackhq/circuit/pull/230) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.7"
-
-**2022-10-22** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-22** — merged PR [#231](https://github.com/slackhq/circuit/pull/231) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material-extensions to v1.1"
-
-**2022-10-21** — opened PR [#229](https://github.com/slackhq/circuit/pull/229) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add leakcanary to instrumentation tests"
-
-**2022-10-21** — created branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
