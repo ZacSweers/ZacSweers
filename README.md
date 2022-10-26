@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-26** — opened PR [#236](https://github.com/slackhq/circuit/pull/236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support assisted injections + consolidate and clean up APIs"
+
+**2022-10-26** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-26** — merged PR [#233](https://github.com/slackhq/circuit/pull/233) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.1"
+
+**2022-10-26** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-26** — merged PR [#234](https://github.com/slackhq/circuit/pull/234) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0"
+
+**2022-10-26** — created branch `z/assisted` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-26** — closed issue [#13](https://github.com/slackhq/circuit/issues/13) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen opportunities"
 
 **2022-10-26** — deleted branch `av/code_gen_part1` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-26** — merged PR [#235](https://github.com/slackhq/circuit/pull/235) to [slackhq/circuit](https://github.com/slackhq/circuit): "Code Gen for Ui and Presenter Factories "
 
 **2022-10-24** — deleted branch `patch-1` on [ZacSweers/kotlin-web-site](https://github.com/ZacSweers/kotlin-web-site)
-
-**2022-10-23** — deleted branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-23** — merged PR [#229](https://github.com/slackhq/circuit/pull/229) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add leakcanary to instrumentation tests"
-
-**2022-10-23** — deleted branch `z/hideAppBarOnScroll` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-23** — merged PR [#228](https://github.com/slackhq/circuit/pull/228) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use enterAlwaysScrollBehavior in scaffold"
-
-**2022-10-23** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-23** — merged PR [#232](https://github.com/slackhq/circuit/pull/232) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
