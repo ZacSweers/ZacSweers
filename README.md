@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-26** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-10-26** — merged PR [#338](https://github.com/ZacSweers/MoshiX/pull/338) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.12.1"
+
 **2022-10-26** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-26** — merged PR [#237](https://github.com/slackhq/circuit/pull/237) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-26** — merged PR [#233](https://github.com/slackhq/circuit/pull/233) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.6.1"
 
 **2022-10-26** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — merged PR [#234](https://github.com/slackhq/circuit/pull/234) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0"
-
-**2022-10-26** — created branch `z/assisted` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
