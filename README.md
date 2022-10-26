@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-26** — deleted branch `test-renovate/androidx.compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-26** — merged PR [#237](https://github.com/slackhq/circuit/pull/237) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.0.0"
+
+**2022-10-26** — deleted branch `test-renovate/material-composethemeadapter` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-26** — merged PR [#238](https://github.com/slackhq/circuit/pull/238) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.google.android.material:compose-theme-adapter to v1.1.21"
+
 **2022-10-26** — opened PR [#236](https://github.com/slackhq/circuit/pull/236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support assisted injections + consolidate and clean up APIs"
 
 **2022-10-26** — deleted branch `test-renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-26** — merged PR [#234](https://github.com/slackhq/circuit/pull/234) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.0"
 
 **2022-10-26** — created branch `z/assisted` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — closed issue [#13](https://github.com/slackhq/circuit/issues/13) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen opportunities"
-
-**2022-10-26** — deleted branch `av/code_gen_part1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — merged PR [#235](https://github.com/slackhq/circuit/pull/235) to [slackhq/circuit](https://github.com/slackhq/circuit): "Code Gen for Ui and Presenter Factories "
-
-**2022-10-24** — deleted branch `patch-1` on [ZacSweers/kotlin-web-site](https://github.com/ZacSweers/kotlin-web-site)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
