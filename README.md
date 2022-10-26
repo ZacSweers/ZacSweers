@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-26** — closed issue [#13](https://github.com/slackhq/circuit/issues/13) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen opportunities"
+
+**2022-10-26** — deleted branch `av/code_gen_part1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-26** — merged PR [#235](https://github.com/slackhq/circuit/pull/235) to [slackhq/circuit](https://github.com/slackhq/circuit): "Code Gen for Ui and Presenter Factories "
+
 **2022-10-24** — deleted branch `patch-1` on [ZacSweers/kotlin-web-site](https://github.com/ZacSweers/kotlin-web-site)
 
 **2022-10-23** — deleted branch `z/leakcanarytest` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-23** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-23** — merged PR [#232](https://github.com/slackhq/circuit/pull/232) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.7"
-
-**2022-10-22** — commented on [#13](https://github.com/slackhq/circuit/issues/13#issuecomment-1287855301) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-22** — opened PR [#3237](https://github.com/JetBrains/kotlin-web-site/pull/3237) to [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site): "Update Glide support for KSP"
-
-**2022-10-22** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
