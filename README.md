@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-27** — created tag `0.2.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-27** — opened PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
+
 **2022-10-27** — deleted branch `z/fixClasses` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-27** — merged PR [#240](https://github.com/slackhq/circuit/pull/240) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix bug with class generation with non-factory creators"
