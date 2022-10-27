@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-26** — created tag `0.2.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-26** — deleted branch `z/assisted` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-26** — merged PR [#236](https://github.com/slackhq/circuit/pull/236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support assisted injections + consolidate and clean up APIs"
