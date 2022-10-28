@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-27** — opened issue [#245](https://github.com/slackhq/circuit/issues/245) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add code gen docs to site"
+
+**2022-10-27** — opened issue [#244](https://github.com/slackhq/circuit/issues/244) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
+
+**2022-10-27** — created tag `0.2.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-27** — deleted branch `z/moreFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-27** — merged PR [#243](https://github.com/slackhq/circuit/pull/243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Two more code gen fixes"
+
+**2022-10-27** — opened PR [#243](https://github.com/slackhq/circuit/pull/243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Two more code gen fixes"
+
+**2022-10-27** — created branch `z/moreFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-27** — created tag `0.2.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-27** — opened PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
 
 **2022-10-27** — deleted branch `z/fixClasses` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-27** — merged PR [#240](https://github.com/slackhq/circuit/pull/240) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix bug with class generation with non-factory creators"
-
-**2022-10-27** — opened PR [#240](https://github.com/slackhq/circuit/pull/240) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix bug with class generation with non-factory creators"
-
-**2022-10-27** — created branch `z/fixClasses` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — created tag `0.2.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — deleted branch `z/assisted` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-26** — merged PR [#236](https://github.com/slackhq/circuit/pull/236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support assisted injections + consolidate and clean up APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
