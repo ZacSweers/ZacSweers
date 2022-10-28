@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-28** — opened issue [#107](https://github.com/twitter/compose-rules/issues/107) on [twitter/compose-rules](https://github.com/twitter/compose-rules): "ComposableNaming is not configurable in Detekt"
+
 **2022-10-27** — opened PR [#246](https://github.com/slackhq/circuit/pull/246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use new LazyVerticalStaggeredGrid API for pet list"
 
 **2022-10-27** — created branch `z/staggered` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-27** — opened PR [#243](https://github.com/slackhq/circuit/pull/243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Two more code gen fixes"
 
 **2022-10-27** — created branch `z/moreFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-27** — created tag `0.2.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
