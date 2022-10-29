@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-29** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1295950087) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-29** — opened PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
+
+**2022-10-29** — created branch `z/moveInstrumentationToRobolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-28** — opened PR [#247](https://github.com/slackhq/circuit/pull/247) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update code gen doc"
 
 **2022-10-28** — created branch `z/moreDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-27** — created branch `z/staggered` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-27** — opened issue [#245](https://github.com/slackhq/circuit/issues/245) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add code gen docs to site"
-
-**2022-10-27** — opened issue [#244](https://github.com/slackhq/circuit/issues/244) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
-
-**2022-10-27** — created tag `0.2.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-27** — deleted branch `z/moreFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
