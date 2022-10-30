@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-10-30** — merged PR [#339](https://github.com/ZacSweers/MoshiX/pull/339) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.20"
+
 **2022-10-29** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1295950087) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-29** — opened PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-28** — opened issue [#107](https://github.com/twitter/compose-rules/issues/107) on [twitter/compose-rules](https://github.com/twitter/compose-rules): "ComposableNaming is not configurable in Detekt"
 
 **2022-10-27** — opened PR [#246](https://github.com/slackhq/circuit/pull/246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use new LazyVerticalStaggeredGrid API for pet list"
-
-**2022-10-27** — created branch `z/staggered` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-27** — opened issue [#245](https://github.com/slackhq/circuit/issues/245) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add code gen docs to site"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
