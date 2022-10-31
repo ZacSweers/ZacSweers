@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-31** — deleted branch `z/moreDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-31** — merged PR [#247](https://github.com/slackhq/circuit/pull/247) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update code gen doc"
+
 **2022-10-31** — deleted branch `test-renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-31** — merged PR [#249](https://github.com/slackhq/circuit/pull/249) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-30** — merged PR [#339](https://github.com/ZacSweers/MoshiX/pull/339) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin org.jetbrains.kotlin.jvm to v1.7.20"
 
 **2022-10-29** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1295950087) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-29** — opened PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
-
-**2022-10-29** — created branch `z/moveInstrumentationToRobolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
