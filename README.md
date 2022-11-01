@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — closed issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
 
 **2022-11-01** — deleted branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — merged PR [#251](https://github.com/slackhq/circuit/pull/251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement basic interop docs + sample"
-
-**2022-11-01** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
