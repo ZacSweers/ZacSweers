@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — merged PR [#253](https://github.com/slackhq/circuit/pull/253) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.11.3"
+
 **2022-10-31** — opened PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
 
 **2022-10-31** — created branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-31** — deleted branch `z/navStackTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-31** — merged PR [#227](https://github.com/slackhq/circuit/pull/227) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pop root automatically on empty backstacks"
-
-**2022-10-31** — deleted branch `z/moreDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-31** — merged PR [#247](https://github.com/slackhq/circuit/pull/247) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update code gen doc"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
