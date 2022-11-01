@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — deleted branch `z/overlayArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — merged PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
+
 **2022-11-01** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1298876954) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — deleted branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — merged PR [#253](https://github.com/slackhq/circuit/pull/253) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.11.3"
-
-**2022-10-31** — opened PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
-
-**2022-10-31** — created branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
