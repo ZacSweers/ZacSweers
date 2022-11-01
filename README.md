@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — closed issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
+
+**2022-11-01** — deleted branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — merged PR [#251](https://github.com/slackhq/circuit/pull/251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement basic interop docs + sample"
+
 **2022-11-01** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — merged PR [#253](https://github.com/slackhq/circuit/pull/253) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.11.3"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-31** — created branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-31** — opened PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
-
-**2022-10-31** — created branch `z/ge` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-10-31** — deleted branch `z/navStackTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-31** — merged PR [#227](https://github.com/slackhq/circuit/pull/227) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pop root automatically on empty backstacks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
