@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-31** — opened PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
+
+**2022-10-31** — created branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-10-31** — opened PR [#251](https://github.com/slackhq/circuit/pull/251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement basic interop docs + sample"
+
+**2022-10-31** — created branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-10-31** — opened PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
 
 **2022-10-31** — created branch `z/ge` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-31** — deleted branch `z/moreDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-10-31** — merged PR [#247](https://github.com/slackhq/circuit/pull/247) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update code gen doc"
-
-**2022-10-31** — deleted branch `test-renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-31** — merged PR [#249](https://github.com/slackhq/circuit/pull/249) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.1.0"
-
-**2022-10-31** — commented on [#2](https://github.com/chrisbanes/paparazzi/pull/2#issuecomment-1296667851) in [chrisbanes/paparazzi](https://github.com/chrisbanes/paparazzi)
-
-**2022-10-30** — deleted branch `renovate/termcolor-2.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
