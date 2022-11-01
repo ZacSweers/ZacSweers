@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — created tag `0.3.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-01** — deleted branch `z/overlayArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — merged PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — merged PR [#251](https://github.com/slackhq/circuit/pull/251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement basic interop docs + sample"
 
 **2022-11-01** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — merged PR [#253](https://github.com/slackhq/circuit/pull/253) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.11.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
