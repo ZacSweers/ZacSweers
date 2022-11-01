@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — deleted branch `z/moveInstrumentationToRobolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — merged PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
+
 **2022-11-01** — created tag `0.3.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — deleted branch `z/overlayArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — deleted branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — merged PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
-
-**2022-11-01** — closed issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
-
-**2022-11-01** — deleted branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
