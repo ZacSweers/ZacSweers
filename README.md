@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-01** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1298876954) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — deleted branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-01** — merged PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
+
 **2022-11-01** — closed issue [#42](https://github.com/slackhq/circuit/issues/42) on [slackhq/circuit](https://github.com/slackhq/circuit): "Interop story"
 
 **2022-11-01** — deleted branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-31** — opened PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
 
 **2022-10-31** — created branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-31** — opened PR [#251](https://github.com/slackhq/circuit/pull/251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement basic interop docs + sample"
-
-**2022-10-31** — created branch `z/interop` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-10-31** — opened PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
