@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-02** — deleted branch `test-renovate/androidx.profileinstaller` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — commented on [#256](https://github.com/slackhq/circuit/pull/256#issuecomment-1300882743) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — closed PR [#256](https://github.com/slackhq/circuit/pull/256) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.profileinstaller:profileinstaller to v1.3.0-SNAPSHOT"
+
 **2022-11-02** — deleted branch `test-renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-02** — closed PR [#255](https://github.com/slackhq/circuit/pull/255) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-SNAPSHOT"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — merged PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
 
 **2022-11-01** — created tag `0.3.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — deleted branch `z/overlayArtifact` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — merged PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
-
-**2022-11-01** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1298876954) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
