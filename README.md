@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-02** — deleted branch `test-renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — closed PR [#255](https://github.com/slackhq/circuit/pull/255) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-SNAPSHOT"
+
+**2022-11-02** — closed issue [#1402](https://github.com/square/kotlinpoet/issues/1402) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Allow `addOriginatingKSFile` for `FileSpec.Builder`"
+
+**2022-11-02** — commented on [#1402](https://github.com/square/kotlinpoet/issues/1402#issuecomment-1300720936) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-11-01** — deleted branch `z/moveInstrumentationToRobolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-01** — merged PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
@@ -15,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-01** — merged PR [#242](https://github.com/slackhq/circuit/pull/242) to [slackhq/circuit](https://github.com/slackhq/circuit): "Modularize overlay API to a separate artifact + add doc"
 
 **2022-11-01** — commented on [#248](https://github.com/slackhq/circuit/pull/248#issuecomment-1298876954) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — deleted branch `z/fixAnnotations` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — merged PR [#252](https://github.com/slackhq/circuit/pull/252) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make code gen annotations project multiplatform"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
