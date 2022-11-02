@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-02** — deleted branch `z/updateDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — merged PR [#260](https://github.com/slackhq/circuit/pull/260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CircuitInject refs in docs + link sink issue"
+
+**2022-11-02** — opened PR [#260](https://github.com/slackhq/circuit/pull/260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CircuitInject refs in docs + link sink issue"
+
+**2022-11-02** — closed issue [#53](https://github.com/slackhq/circuit/issues/53) on [slackhq/circuit](https://github.com/slackhq/circuit): "Generate and package baseline profiles"
+
+**2022-11-02** — commented on [#53](https://github.com/slackhq/circuit/issues/53#issuecomment-1301466762) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — created branch `z/updateDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-02** — opened issue [#259](https://github.com/slackhq/circuit/issues/259) on [slackhq/circuit](https://github.com/slackhq/circuit): "Split baseline profiles into their corresponding artifacts"
+
+**2022-11-02** — opened issue [#258](https://github.com/slackhq/circuit/issues/258) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automate baseline profile generation"
+
 **2022-11-02** — deleted branch `test-renovate/androidx.profileinstaller` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-02** — commented on [#256](https://github.com/slackhq/circuit/pull/256#issuecomment-1300882743) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-02** — closed PR [#256](https://github.com/slackhq/circuit/pull/256) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.profileinstaller:profileinstaller to v1.3.0-SNAPSHOT"
-
-**2022-11-02** — deleted branch `test-renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-02** — closed PR [#255](https://github.com/slackhq/circuit/pull/255) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-SNAPSHOT"
-
-**2022-11-02** — closed issue [#1402](https://github.com/square/kotlinpoet/issues/1402) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Allow `addOriginatingKSFile` for `FileSpec.Builder`"
-
-**2022-11-02** — commented on [#1402](https://github.com/square/kotlinpoet/issues/1402#issuecomment-1300720936) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-11-01** — deleted branch `z/moveInstrumentationToRobolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-01** — merged PR [#248](https://github.com/slackhq/circuit/pull/248) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move PetDetail and PetList UI tests to Robolectric"
-
-**2022-11-01** — created tag `0.3.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
