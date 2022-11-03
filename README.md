@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-02** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1301593649) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
+
 **2022-11-02** — deleted branch `z/updateDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-02** — merged PR [#260](https://github.com/slackhq/circuit/pull/260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CircuitInject refs in docs + link sink issue"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-02** — opened issue [#258](https://github.com/slackhq/circuit/issues/258) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automate baseline profile generation"
 
 **2022-11-02** — deleted branch `test-renovate/androidx.profileinstaller` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-02** — commented on [#256](https://github.com/slackhq/circuit/pull/256#issuecomment-1300882743) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
