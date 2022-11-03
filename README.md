@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-03** — closed issue [#261](https://github.com/slackhq/circuit/issues/261) on [slackhq/circuit](https://github.com/slackhq/circuit): "How to send notification to another user's slack workspace "
+
+**2022-11-03** — commented on [#261](https://github.com/slackhq/circuit/issues/261#issuecomment-1302425416) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-03** — deleted branch `test-renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-03** — closed PR [#262](https://github.com/slackhq/circuit/pull/262) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-SNAPSHOT"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-02** — merged PR [#260](https://github.com/slackhq/circuit/pull/260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CircuitInject refs in docs + link sink issue"
 
 **2022-11-02** — opened PR [#260](https://github.com/slackhq/circuit/pull/260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CircuitInject refs in docs + link sink issue"
-
-**2022-11-02** — closed issue [#53](https://github.com/slackhq/circuit/issues/53) on [slackhq/circuit](https://github.com/slackhq/circuit): "Generate and package baseline profiles"
-
-**2022-11-02** — commented on [#53](https://github.com/slackhq/circuit/issues/53#issuecomment-1301466762) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
