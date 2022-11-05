@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-05** — deleted branch `test-renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-05** — merged PR [#267](https://github.com/slackhq/circuit/pull/267) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.7.20-1.0.8"
+
 **2022-11-04** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-04** — merged PR [#340](https://github.com/ZacSweers/MoshiX/pull/340) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-03** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-03** — merged PR [#263](https://github.com/slackhq/circuit/pull/263) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.2"
-
-**2022-11-02** — commented on [#85](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/85#issuecomment-1301593649) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2022-11-02** — deleted branch `z/updateDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
