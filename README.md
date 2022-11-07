@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-07** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1305986287) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-11-07** — commented on [#264](https://github.com/slackhq/circuit/pull/264#issuecomment-1305973577) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-07** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-07** — merged PR [#268](https://github.com/slackhq/circuit/pull/268) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0-RC3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-03** — closed issue [#261](https://github.com/slackhq/circuit/issues/261) on [slackhq/circuit](https://github.com/slackhq/circuit): "How to send notification to another user's slack workspace "
 
 **2022-11-03** — commented on [#261](https://github.com/slackhq/circuit/issues/261#issuecomment-1302425416) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-03** — deleted branch `test-renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-03** — closed PR [#262](https://github.com/slackhq/circuit/pull/262) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
