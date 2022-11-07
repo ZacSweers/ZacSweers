@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-07** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-07** — merged PR [#268](https://github.com/slackhq/circuit/pull/268) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0-RC3"
+
 **2022-11-05** — deleted branch `test-renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-05** — merged PR [#267](https://github.com/slackhq/circuit/pull/267) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.7.20-1.0.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-03** — deleted branch `test-renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-03** — closed PR [#262](https://github.com/slackhq/circuit/pull/262) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-SNAPSHOT"
-
-**2022-11-03** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-03** — merged PR [#263](https://github.com/slackhq/circuit/pull/263) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs to v1.4.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
