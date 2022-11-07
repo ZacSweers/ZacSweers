@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-07** — created tag `0.3.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-07** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1305986287) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-07** — commented on [#264](https://github.com/slackhq/circuit/pull/264#issuecomment-1305973577) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-04** — merged PR [#340](https://github.com/ZacSweers/MoshiX/pull/340) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.8"
 
 **2022-11-03** — closed issue [#261](https://github.com/slackhq/circuit/issues/261) on [slackhq/circuit](https://github.com/slackhq/circuit): "How to send notification to another user's slack workspace "
-
-**2022-11-03** — commented on [#261](https://github.com/slackhq/circuit/issues/261#issuecomment-1302425416) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
