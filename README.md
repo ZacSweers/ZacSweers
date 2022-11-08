@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-08** — opened issue [#2459](https://github.com/JetBrains/compose-jb/issues/2459) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "Kotlin 1.7.21 compatibility and adding an opt-out for compatibility checks"
+
 **2022-11-08** — commented on [#1586](https://github.com/square/moshi/issues/1586#issuecomment-1307567499) in [square/moshi](https://github.com/square/moshi)
 
 **2022-11-08** — merged PR [#1410](https://github.com/square/kotlinpoet/pull/1410) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.5.9"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-07** — commented on [#264](https://github.com/slackhq/circuit/pull/264#issuecomment-1305973577) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-07** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-07** — merged PR [#268](https://github.com/slackhq/circuit/pull/268) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0-RC3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
