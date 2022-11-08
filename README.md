@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-08** — commented on [#1586](https://github.com/square/moshi/issues/1586#issuecomment-1307567499) in [square/moshi](https://github.com/square/moshi)
+
+**2022-11-08** — merged PR [#1410](https://github.com/square/kotlinpoet/pull/1410) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.5.9"
+
+**2022-11-08** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-11-08** — merged PR [#1411](https://github.com/square/kotlinpoet/pull/1411) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlin monorepo to v1.7.21"
+
+**2022-11-08** — deleted branch `renovate/kotlin-monorepo` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-11-07** — created tag `0.3.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-07** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1305986287) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-07** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-07** — merged PR [#268](https://github.com/slackhq/circuit/pull/268) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0-RC3"
-
-**2022-11-05** — deleted branch `test-renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-05** — merged PR [#267](https://github.com/slackhq/circuit/pull/267) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.7.20-1.0.8"
-
-**2022-11-04** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-11-04** — merged PR [#340](https://github.com/ZacSweers/MoshiX/pull/340) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.20-1.0.8"
-
-**2022-11-03** — closed issue [#261](https://github.com/slackhq/circuit/issues/261) on [slackhq/circuit](https://github.com/slackhq/circuit): "How to send notification to another user's slack workspace "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
