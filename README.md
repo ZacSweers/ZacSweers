@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-09** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1309251544) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-11-09** — merged PR [#272](https://github.com/slackhq/circuit/pull/272) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.4"
 
 **2022-11-09** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-08** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-11-08** — merged PR [#1411](https://github.com/square/kotlinpoet/pull/1411) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlin monorepo to v1.7.21"
-
-**2022-11-08** — deleted branch `renovate/kotlin-monorepo` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
