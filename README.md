@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-09** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-11-09** — merged PR [#1412](https://github.com/square/kotlinpoet/pull/1412) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update ksp to v1.7.21-1.0.8"
+
+**2022-11-09** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-11-09** — merged PR [#343](https://github.com/ZacSweers/MoshiX/pull/343) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.21-1.0.8"
+
 **2022-11-09** — deleted branch `z/ktfmt041` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-09** — merged PR [#157](https://github.com/slackhq/slack-gradle-plugin/pull/157) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to ktfmt 0.41"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-09** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1309251544) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-09** — merged PR [#272](https://github.com/slackhq/circuit/pull/272) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.4"
-
-**2022-11-09** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-09** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-09** — merged PR [#271](https://github.com/slackhq/circuit/pull/271) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.0"
-
-**2022-11-08** — opened issue [#2459](https://github.com/JetBrains/compose-jb/issues/2459) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "Kotlin 1.7.21 compatibility and adding an opt-out for compatibility checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
