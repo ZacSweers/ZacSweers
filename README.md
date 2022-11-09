@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-09** — deleted branch `z/ktfmt041` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-09** — merged PR [#157](https://github.com/slackhq/slack-gradle-plugin/pull/157) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to ktfmt 0.41"
+
+**2022-11-09** — opened PR [#157](https://github.com/slackhq/slack-gradle-plugin/pull/157) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to ktfmt 0.41"
+
+**2022-11-09** — created branch `z/ktfmt041` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-11-09** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1309251544) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-09** — merged PR [#272](https://github.com/slackhq/circuit/pull/272) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.4"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-09** — merged PR [#271](https://github.com/slackhq/circuit/pull/271) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.0"
 
 **2022-11-08** — opened issue [#2459](https://github.com/JetBrains/compose-jb/issues/2459) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "Kotlin 1.7.21 compatibility and adding an opt-out for compatibility checks"
-
-**2022-11-08** — commented on [#1586](https://github.com/square/moshi/issues/1586#issuecomment-1307567499) in [square/moshi](https://github.com/square/moshi)
-
-**2022-11-08** — merged PR [#1410](https://github.com/square/kotlinpoet/pull/1410) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v8.5.9"
-
-**2022-11-08** — deleted branch `renovate/mkdocs-material-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-11-08** — merged PR [#1411](https://github.com/square/kotlinpoet/pull/1411) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlin monorepo to v1.7.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
