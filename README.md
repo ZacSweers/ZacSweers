@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-09** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-09** — merged PR [#271](https://github.com/slackhq/circuit/pull/271) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.0"
+
 **2022-11-08** — opened issue [#2459](https://github.com/JetBrains/compose-jb/issues/2459) on [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb): "Kotlin 1.7.21 compatibility and adding an opt-out for compatibility checks"
 
 **2022-11-08** — commented on [#1586](https://github.com/square/moshi/issues/1586#issuecomment-1307567499) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-07** — created tag `0.3.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-07** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1305986287) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-11-07** — commented on [#264](https://github.com/slackhq/circuit/pull/264#issuecomment-1305973577) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-07** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
