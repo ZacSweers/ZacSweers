@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-09** — merged PR [#272](https://github.com/slackhq/circuit/pull/272) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.4"
+
+**2022-11-09** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-09** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-09** — merged PR [#271](https://github.com/slackhq/circuit/pull/271) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-08** — merged PR [#1411](https://github.com/square/kotlinpoet/pull/1411) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlin monorepo to v1.7.21"
 
 **2022-11-08** — deleted branch `renovate/kotlin-monorepo` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-11-07** — created tag `0.3.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-07** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1305986287) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
