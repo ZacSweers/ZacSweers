@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-10** — created tag `0.3.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-10** — closed issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
+
+**2022-11-10** — deleted branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-10** — merged PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
+
+**2022-11-10** — opened PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
+
+**2022-11-10** — created branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-11-09** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-11-09** — merged PR [#1412](https://github.com/square/kotlinpoet/pull/1412) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update ksp to v1.7.21-1.0.8"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-09** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-09** — merged PR [#343](https://github.com/ZacSweers/MoshiX/pull/343) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.21-1.0.8"
-
-**2022-11-09** — deleted branch `z/ktfmt041` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-09** — merged PR [#157](https://github.com/slackhq/slack-gradle-plugin/pull/157) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to ktfmt 0.41"
-
-**2022-11-09** — opened PR [#157](https://github.com/slackhq/slack-gradle-plugin/pull/157) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to ktfmt 0.41"
-
-**2022-11-09** — created branch `z/ktfmt041` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-09** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1309251544) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-11-09** — merged PR [#272](https://github.com/slackhq/circuit/pull/272) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
