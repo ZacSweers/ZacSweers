@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-11** — created tag `0.3.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-11** — deleted branch `z/newArgs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-11** — merged PR [#160](https://github.com/slackhq/slack-gradle-plugin/pull/160) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add some new compiler args"
+
 **2022-11-11** — opened PR [#160](https://github.com/slackhq/slack-gradle-plugin/pull/160) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add some new compiler args"
 
 **2022-11-11** — created branch `z/newArgs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-11** — closed issue [#1587](https://github.com/square/moshi/issues/1587) on [square/moshi](https://github.com/square/moshi): "Custom type adapters for value/inline classes aren't used"
 
 **2022-11-11** — commented on [#1587](https://github.com/square/moshi/issues/1587#issuecomment-1311359520) in [square/moshi](https://github.com/square/moshi)
-
-**2022-11-10** — created tag `0.3.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-10** — closed issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
-
-**2022-11-10** — deleted branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
