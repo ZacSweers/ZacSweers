@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-11** — opened PR [#160](https://github.com/slackhq/slack-gradle-plugin/pull/160) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add some new compiler args"
+
+**2022-11-11** — created branch `z/newArgs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-11-11** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-11** — merged PR [#276](https://github.com/slackhq/circuit/pull/276) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.9"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-10** — closed issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
 
 **2022-11-10** — deleted branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-10** — merged PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
-
-**2022-11-10** — opened PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
