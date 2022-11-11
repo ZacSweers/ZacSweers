@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-11** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-11** — merged PR [#276](https://github.com/slackhq/circuit/pull/276) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.9"
+
 **2022-11-11** — commented on [#1587](https://github.com/square/moshi/issues/1587#issuecomment-1311361247) in [square/moshi](https://github.com/square/moshi)
 
 **2022-11-11** — closed issue [#1587](https://github.com/square/moshi/issues/1587) on [square/moshi](https://github.com/square/moshi): "Custom type adapters for value/inline classes aren't used"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-10** — merged PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
 
 **2022-11-10** — opened PR [#158](https://github.com/slackhq/slack-gradle-plugin/pull/158) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Check that androidTest sources have manifests"
-
-**2022-11-10** — created branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-09** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
