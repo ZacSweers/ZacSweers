@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-11** — commented on [#1587](https://github.com/square/moshi/issues/1587#issuecomment-1311361247) in [square/moshi](https://github.com/square/moshi)
+
+**2022-11-11** — closed issue [#1587](https://github.com/square/moshi/issues/1587) on [square/moshi](https://github.com/square/moshi): "Custom type adapters for value/inline classes aren't used"
+
+**2022-11-11** — commented on [#1587](https://github.com/square/moshi/issues/1587#issuecomment-1311359520) in [square/moshi](https://github.com/square/moshi)
+
 **2022-11-10** — created tag `0.3.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-10** — closed issue [#44](https://github.com/slackhq/slack-gradle-plugin/issues/44) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a manifest file check when enabling androidTest()"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-10** — created branch `z/debuggableLibs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-09** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-11-09** — merged PR [#1412](https://github.com/square/kotlinpoet/pull/1412) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update ksp to v1.7.21-1.0.8"
-
-**2022-11-09** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-11-09** — merged PR [#343](https://github.com/ZacSweers/MoshiX/pull/343) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.21-1.0.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
