@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-11** — opened PR [#652](https://github.com/square/anvil/pull/652) to [square/anvil](https://github.com/square/anvil): "Generate MapKey creators"
+
+**2022-11-11** — created branch `z/mapKeyCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-11-11** — opened issue [#651](https://github.com/square/anvil/issues/651) on [square/anvil](https://github.com/square/anvil): "FR: Generate MapKeyCreator classes in factory gen"
 
 **2022-11-11** — created tag `0.3.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-11** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-11** — merged PR [#276](https://github.com/slackhq/circuit/pull/276) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.9"
-
-**2022-11-11** — commented on [#1587](https://github.com/square/moshi/issues/1587#issuecomment-1311361247) in [square/moshi](https://github.com/square/moshi)
-
-**2022-11-11** — closed issue [#1587](https://github.com/square/moshi/issues/1587) on [square/moshi](https://github.com/square/moshi): "Custom type adapters for value/inline classes aren't used"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
