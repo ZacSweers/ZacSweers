@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-13** — commented on [#2459](https://github.com/JetBrains/compose-jb/issues/2459#issuecomment-1312790174) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
+
 **2022-11-12** — deleted branch `test-renovate/dagger` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-12** — merged PR [#278](https://github.com/slackhq/circuit/pull/278) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dagger to v2.44.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-11** — created tag `0.3.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-11** — deleted branch `z/newArgs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-11** — merged PR [#160](https://github.com/slackhq/slack-gradle-plugin/pull/160) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add some new compiler args"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
