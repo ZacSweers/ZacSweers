@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-13** — opened PR [#285](https://github.com/ZacSweers/CatchUp/pull/285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Just... all the things"
+
+**2022-11-13** — created branch `z/revamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-11-13** — commented on [#3425](https://github.com/google/dagger/issues/3425#issuecomment-1312936964) in [google/dagger](https://github.com/google/dagger)
 
 **2022-11-13** — commented on [#2459](https://github.com/JetBrains/compose-jb/issues/2459#issuecomment-1312790174) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-11** — opened PR [#652](https://github.com/square/anvil/pull/652) to [square/anvil](https://github.com/square/anvil): "Generate MapKey creators"
 
 **2022-11-11** — created branch `z/mapKeyCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2022-11-11** — opened issue [#651](https://github.com/square/anvil/issues/651) on [square/anvil](https://github.com/square/anvil): "FR: Generate MapKeyCreator classes in factory gen"
-
-**2022-11-11** — created tag `0.3.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
