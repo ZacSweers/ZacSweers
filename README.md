@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-14** — commented on [#281](https://github.com/slackhq/circuit/pull/281#issuecomment-1313945351) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-13** — opened PR [#285](https://github.com/ZacSweers/CatchUp/pull/285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Just... all the things"
 
 **2022-11-13** — created branch `z/revamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-11** — commented on [#652](https://github.com/square/anvil/pull/652#issuecomment-1312349286) in [square/anvil](https://github.com/square/anvil)
 
 **2022-11-11** — opened PR [#652](https://github.com/square/anvil/pull/652) to [square/anvil](https://github.com/square/anvil): "Generate MapKey creators"
-
-**2022-11-11** — created branch `z/mapKeyCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
