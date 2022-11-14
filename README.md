@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-14** — deleted branch `revert-281-test-renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-14** — merged PR [#284](https://github.com/slackhq/circuit/pull/284) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update ksp to v1.7.21-1.0.8""
+
 **2022-11-14** — commented on [#281](https://github.com/slackhq/circuit/pull/281#issuecomment-1313945351) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-13** — opened PR [#285](https://github.com/ZacSweers/CatchUp/pull/285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Just... all the things"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-12** — merged PR [#278](https://github.com/slackhq/circuit/pull/278) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dagger to v2.44.1"
 
 **2022-11-11** — commented on [#652](https://github.com/square/anvil/pull/652#issuecomment-1312352072) in [square/anvil](https://github.com/square/anvil)
-
-**2022-11-11** — commented on [#652](https://github.com/square/anvil/pull/652#issuecomment-1312349286) in [square/anvil](https://github.com/square/anvil)
-
-**2022-11-11** — opened PR [#652](https://github.com/square/anvil/pull/652) to [square/anvil](https://github.com/square/anvil): "Generate MapKey creators"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
