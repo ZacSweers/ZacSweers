@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-14** — deleted branch `z/paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-14** — closed PR [#256](https://github.com/ZacSweers/CatchUp/pull/256) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx paging"
+
+**2022-11-14** — deleted branch `z/reproKspBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-14** — closed PR [#281](https://github.com/ZacSweers/CatchUp/pull/281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro extension bug in KSP"
+
+**2022-11-14** — deleted branch `z/revamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-14** — merged PR [#285](https://github.com/ZacSweers/CatchUp/pull/285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Just... all the things"
+
 **2022-11-14** — deleted branch `revert-281-test-renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-14** — merged PR [#284](https://github.com/slackhq/circuit/pull/284) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update ksp to v1.7.21-1.0.8""
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-14** — commented on [#281](https://github.com/slackhq/circuit/pull/281#issuecomment-1313945351) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-13** — opened PR [#285](https://github.com/ZacSweers/CatchUp/pull/285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Just... all the things"
-
-**2022-11-13** — created branch `z/revamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-13** — commented on [#3425](https://github.com/google/dagger/issues/3425#issuecomment-1312936964) in [google/dagger](https://github.com/google/dagger)
-
-**2022-11-13** — commented on [#2459](https://github.com/JetBrains/compose-jb/issues/2459#issuecomment-1312790174) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
-
-**2022-11-12** — deleted branch `test-renovate/dagger` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-12** — merged PR [#278](https://github.com/slackhq/circuit/pull/278) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dagger to v2.44.1"
-
-**2022-11-11** — commented on [#652](https://github.com/square/anvil/pull/652#issuecomment-1312352072) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
