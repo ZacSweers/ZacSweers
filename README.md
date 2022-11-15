@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-14** — deleted branch `renovate/javax.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-14** — opened issue [#162](https://github.com/slackhq/slack-gradle-plugin/issues/162) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Logging throws an exception during cleans"
 
-**2022-11-14** — closed PR [#289](https://github.com/ZacSweers/CatchUp/pull/289) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency javax.annotation:jsr250-api to v1.0-20050927.133100"
+**2022-11-14** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-14** — deleted branch `renovate/configure` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-14** — merged PR [#298](https://github.com/ZacSweers/CatchUp/pull/298) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/cache action to v3"
 
-**2022-11-14** — merged PR [#287](https://github.com/ZacSweers/CatchUp/pull/287) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Configure Renovate"
+**2022-11-14** — deleted branch `renovate/androidx.recyclerview` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-14** — deleted branch `z/moreSGPAPIS` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-14** — merged PR [#293](https://github.com/ZacSweers/CatchUp/pull/293) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.recyclerview:recyclerview to v1.2.1"
 
-**2022-11-14** — merged PR [#286](https://github.com/ZacSweers/CatchUp/pull/286) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use SGP DSL APIs more where possible"
+**2022-11-14** — deleted branch `renovate/com.alexvasilkov` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-14** — opened PR [#286](https://github.com/ZacSweers/CatchUp/pull/286) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use SGP DSL APIs more where possible"
+**2022-11-14** — merged PR [#294](https://github.com/ZacSweers/CatchUp/pull/294) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.alexvasilkov:gesture-views to v2.8.3"
 
-**2022-11-14** — created branch `z/moreSGPAPIS` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-14** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-14** — deleted branch `z/paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-14** — merged PR [#296](https://github.com/ZacSweers/CatchUp/pull/296) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.1"
 
-**2022-11-14** — closed PR [#256](https://github.com/ZacSweers/CatchUp/pull/256) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx paging"
+**2022-11-14** — deleted branch `renovate/espresso` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
