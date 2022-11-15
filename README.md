@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-15** — opened issue [#1199](https://github.com/google/ksp/issues/1199) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.8.0-Beta"
+
+**2022-11-15** — commented on [#275](https://github.com/slackhq/circuit/pull/275#issuecomment-1315837270) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-14** — opened issue [#162](https://github.com/slackhq/slack-gradle-plugin/issues/162) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Logging throws an exception during cleans"
 
 **2022-11-14** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-14** — merged PR [#294](https://github.com/ZacSweers/CatchUp/pull/294) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.alexvasilkov:gesture-views to v2.8.3"
 
 **2022-11-14** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-14** — merged PR [#296](https://github.com/ZacSweers/CatchUp/pull/296) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.1"
-
-**2022-11-14** — deleted branch `renovate/espresso` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
