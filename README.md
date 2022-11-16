@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-16** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-16** — merged PR [#152](https://github.com/slackhq/slack-gradle-plugin/pull/152) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha08"
+
+**2022-11-16** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-16** — merged PR [#159](https://github.com/slackhq/slack-gradle-plugin/pull/159) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v7.4.0"
+
+**2022-11-16** — merged PR [#161](https://github.com/slackhq/slack-gradle-plugin/pull/161) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.44.0"
+
+**2022-11-16** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-16** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-16** — merged PR [#163](https://github.com/slackhq/slack-gradle-plugin/pull/163) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.14.1"
+
 **2022-11-15** — opened issue [#1199](https://github.com/google/ksp/issues/1199) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.8.0-Beta"
 
 **2022-11-15** — commented on [#275](https://github.com/slackhq/circuit/pull/275#issuecomment-1315837270) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-14** — opened issue [#162](https://github.com/slackhq/slack-gradle-plugin/issues/162) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Logging throws an exception during cleans"
-
-**2022-11-14** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-14** — merged PR [#298](https://github.com/ZacSweers/CatchUp/pull/298) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/cache action to v3"
-
-**2022-11-14** — deleted branch `renovate/androidx.recyclerview` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-14** — merged PR [#293](https://github.com/ZacSweers/CatchUp/pull/293) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.recyclerview:recyclerview to v1.2.1"
-
-**2022-11-14** — deleted branch `renovate/com.alexvasilkov` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-14** — merged PR [#294](https://github.com/ZacSweers/CatchUp/pull/294) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.alexvasilkov:gesture-views to v2.8.3"
-
-**2022-11-14** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
