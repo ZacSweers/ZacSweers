@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-16** — opened PR [#55](https://github.com/slackhq/EitherNet/pull/55) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Use version catalogs + target java 11"
+
+**2022-11-16** — created branch `z/versionCatalogs` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-11-16** — commented on [#30](https://github.com/slackhq/slack-lints/pull/30#issuecomment-1317630336) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2022-11-16** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-16** — merged PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
 
 **2022-11-16** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-16** — merged PR [#152](https://github.com/slackhq/slack-gradle-plugin/pull/152) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha08"
-
-**2022-11-16** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
