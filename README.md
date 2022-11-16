@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-16** — opened PR [#30](https://github.com/slackhq/slack-lints/pull/30) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Import DenyListedApiDetector"
+
+**2022-11-16** — created branch `z/denylist` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2022-11-16** — deleted branch `z/ge` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-16** — merged PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-16** — merged PR [#161](https://github.com/slackhq/slack-gradle-plugin/pull/161) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.44.0"
 
 **2022-11-16** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-16** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-16** — merged PR [#163](https://github.com/slackhq/slack-gradle-plugin/pull/163) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
