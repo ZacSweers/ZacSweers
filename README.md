@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-16** — deleted branch `z/ge` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-11-16** — merged PR [#154](https://github.com/slackhq/slack-gradle-plugin/pull/154) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable build scans"
+
 **2022-11-16** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-16** — merged PR [#152](https://github.com/slackhq/slack-gradle-plugin/pull/152) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha08"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-16** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-16** — merged PR [#163](https://github.com/slackhq/slack-gradle-plugin/pull/163) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.14.1"
-
-**2022-11-15** — opened issue [#1199](https://github.com/google/ksp/issues/1199) on [google/ksp](https://github.com/google/ksp): "Incompatible with Kotlin 1.8.0-Beta"
-
-**2022-11-15** — commented on [#275](https://github.com/slackhq/circuit/pull/275#issuecomment-1315837270) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
