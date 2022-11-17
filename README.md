@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-17** — commented on [#1588](https://github.com/square/moshi/issues/1588#issuecomment-1318923478) in [square/moshi](https://github.com/square/moshi)
+
+**2022-11-17** — closed issue [#1588](https://github.com/square/moshi/issues/1588) on [square/moshi](https://github.com/square/moshi): "Feature Request: PolymorphicJsonAdapterFactory with more customization "
+
 **2022-11-17** — deleted branch `test-renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-17** — merged PR [#289](https://github.com/slackhq/circuit/pull/289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.6.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-16** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-11-16** — merged PR [#153](https://github.com/slackhq/slack-gradle-plugin/pull/153) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.1"
-
-**2022-11-16** — opened PR [#30](https://github.com/slackhq/slack-lints/pull/30) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Import DenyListedApiDetector"
-
-**2022-11-16** — created branch `z/denylist` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
