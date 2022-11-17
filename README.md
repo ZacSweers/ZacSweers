@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-17** — commented on [#1588](https://github.com/square/moshi/issues/1588#issuecomment-1318923478) in [square/moshi](https://github.com/square/moshi)
+**2022-11-17** — opened PR [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.0"
 
-**2022-11-17** — closed issue [#1588](https://github.com/square/moshi/issues/1588) on [square/moshi](https://github.com/square/moshi): "Feature Request: PolymorphicJsonAdapterFactory with more customization "
+**2022-11-17** — opened PR [#290](https://github.com/slackhq/circuit/pull/290) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update copyright headers"
 
-**2022-11-17** — deleted branch `test-renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-11-17** — created branch `z/newCopyright` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-11-17** — merged PR [#289](https://github.com/slackhq/circuit/pull/289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.6.1"
+**2022-11-17** — opened PR [#31](https://github.com/slackhq/slack-lints/pull/31) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Modernize repo infra"
 
-**2022-11-16** — created branch `z/kotlin18Beta` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-11-17** — opened PR [#56](https://github.com/slackhq/EitherNet/pull/56) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8"
 
-**2022-11-16** — opened PR [#55](https://github.com/slackhq/EitherNet/pull/55) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Use version catalogs + target java 11"
+**2022-11-17** — created branch `z/kotlin18` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2022-11-16** — created branch `z/versionCatalogs` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2022-11-17** — deleted branch `z/versionCatalogs` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2022-11-16** — commented on [#30](https://github.com/slackhq/slack-lints/pull/30#issuecomment-1317630336) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2022-11-17** — merged PR [#55](https://github.com/slackhq/EitherNet/pull/55) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Use version catalogs + target java 11"
 
-**2022-11-16** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-11-17** — created branch `z/updateThings` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2022-11-16** — merged PR [#153](https://github.com/slackhq/slack-gradle-plugin/pull/153) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.1"
+**2022-11-17** — deleted branch `z/denylist` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
