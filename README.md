@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-18** — opened PR [#169](https://github.com/requery/sqlite-android/pull/169) to [requery/sqlite-android](https://github.com/requery/sqlite-android): "Prepare project for publishing to maven central"
+
+**2022-11-18** — created branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
+
 **2022-11-17** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-17** — merged PR [#306](https://github.com/ZacSweers/CatchUp/pull/306) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-perf to v20.3.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-17** — merged PR [#31](https://github.com/slackhq/slack-lints/pull/31) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Modernize repo infra"
 
 **2022-11-17** — opened PR [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.0"
-
-**2022-11-17** — opened PR [#290](https://github.com/slackhq/circuit/pull/290) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update copyright headers"
-
-**2022-11-17** — created branch `z/newCopyright` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
