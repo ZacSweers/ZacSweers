@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-21** — created branch `z/wipDeHilt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-21** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-11-21** — deleted branch `test-renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-11-21** — merged PR [#156](https://github.com/slackhq/slack-gradle-plugin/pull/156) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.21"
 
-**2022-11-21** — merged PR [#292](https://github.com/slackhq/circuit/pull/292) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.1.1"
+**2022-11-21** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-11-21** — commented on [#291](https://github.com/slackhq/circuit/pull/291#issuecomment-1322398166) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-11-21** — merged PR [#168](https://github.com/slackhq/slack-gradle-plugin/pull/168) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.22.0"
 
-**2022-11-21** — merged PR [#294](https://github.com/slackhq/circuit/pull/294) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0"
+**2022-11-21** — merged PR [#135](https://github.com/slackhq/slack-gradle-plugin/pull/135) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin bestPracticesPlugin to v0.8"
 
-**2022-11-21** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-11-21** — deleted branch `test-renovate/com.autonomousapps.plugin-best-practices-plugin-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-11-18** — opened PR [#87](https://github.com/ZacSweers/redacted-compiler-plugin/pull/87) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8"
+**2022-11-21** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-11-18** — created branch `z/kotlin18` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-11-21** — merged PR [#155](https://github.com/slackhq/slack-gradle-plugin/pull/155) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.21-1.0.8"
 
-**2022-11-18** — opened PR [#169](https://github.com/requery/sqlite-android/pull/169) to [requery/sqlite-android](https://github.com/requery/sqlite-android): "Prepare project for publishing to maven central"
+**2022-11-21** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-11-18** — created branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
+**2022-11-21** — merged PR [#164](https://github.com/slackhq/slack-gradle-plugin/pull/164) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
