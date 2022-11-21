@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-21** — deleted branch `test-renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-21** — merged PR [#292](https://github.com/slackhq/circuit/pull/292) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.1.1"
+
+**2022-11-21** — commented on [#291](https://github.com/slackhq/circuit/pull/291#issuecomment-1322398166) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-21** — merged PR [#294](https://github.com/slackhq/circuit/pull/294) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0"
+
+**2022-11-21** — deleted branch `test-renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-18** — opened PR [#87](https://github.com/ZacSweers/redacted-compiler-plugin/pull/87) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8"
 
 **2022-11-18** — created branch `z/kotlin18` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-18** — created branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
 
 **2022-11-17** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-17** — merged PR [#306](https://github.com/ZacSweers/CatchUp/pull/306) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-perf to v20.3.0"
-
-**2022-11-17** — merged PR [#290](https://github.com/slackhq/circuit/pull/290) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update copyright headers"
-
-**2022-11-17** — deleted branch `z/newCopyright` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-17** — created tag `0.1.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-11-17** — deleted branch `z/updateThings` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
