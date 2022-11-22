@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-22** — created branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-22** — merged PR [#316](https://github.com/ZacSweers/CatchUp/pull/316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Disable snapshots in renovate"
+
+**2022-11-22** — deleted branch `z/noSnapshots` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-22** — opened PR [#296](https://github.com/slackhq/circuit/pull/296) to [slackhq/circuit](https://github.com/slackhq/circuit): "Disable snapshots in renovate"
+
+**2022-11-22** — created branch `z/noSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-22** — merged PR [#293](https://github.com/slackhq/circuit/pull/293) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.15.0"
+
+**2022-11-22** — opened PR [#316](https://github.com/ZacSweers/CatchUp/pull/316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Disable snapshots in renovate"
+
+**2022-11-22** — created branch `z/noSnapshots` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-11-21** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-21** — merged PR [#156](https://github.com/slackhq/slack-gradle-plugin/pull/156) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.21"
-
-**2022-11-21** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-21** — merged PR [#168](https://github.com/slackhq/slack-gradle-plugin/pull/168) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.22.0"
-
-**2022-11-21** — merged PR [#135](https://github.com/slackhq/slack-gradle-plugin/pull/135) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin bestPracticesPlugin to v0.8"
-
-**2022-11-21** — deleted branch `test-renovate/com.autonomousapps.plugin-best-practices-plugin-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-21** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-21** — merged PR [#155](https://github.com/slackhq/slack-gradle-plugin/pull/155) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.21-1.0.8"
-
-**2022-11-21** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-11-21** — merged PR [#164](https://github.com/slackhq/slack-gradle-plugin/pull/164) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.3.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
