@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-23** — opened PR [#317](https://github.com/ZacSweers/CatchUp/pull/317) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove Hilt, fully sit on Anvil"
+
 **2022-11-22** — deleted branch `z/noSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-22** — merged PR [#296](https://github.com/slackhq/circuit/pull/296) to [slackhq/circuit](https://github.com/slackhq/circuit): "Disable snapshots in renovate"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-22** — merged PR [#293](https://github.com/slackhq/circuit/pull/293) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.15.0"
-
-**2022-11-22** — opened PR [#316](https://github.com/ZacSweers/CatchUp/pull/316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Disable snapshots in renovate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
