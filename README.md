@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-22** — created branch `z/noSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-22** — merged PR [#293](https://github.com/slackhq/circuit/pull/293) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
