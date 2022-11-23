@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2022-11-22** — [Network Calls in Lint: Best Practices](https://www.zacsweers.dev/network-calls-in-lint-best-practices/)
+
 **2022-10-17** — [Is ViewPump A Security Risk?](https://www.zacsweers.dev/is-viewpump-a-security-risk/)
 
 **2022-05-23** — [You Are Not Blocked](https://www.zacsweers.dev/you-are-not-blocked/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2020-07-08** — [Tick Tock: Desugaring and Timezones](https://www.zacsweers.dev/ticktock-desugaring-timezones/)
 
 **2020-06-11** — [Kotlin Symbol Processing: Early Thoughts](https://www.zacsweers.dev/kotlin-symbol-processor-early-thoughts/)
-
-**2020-05-01** — [Dagger Party Tricks: Extension Functions](https://www.zacsweers.dev/dagger-party-tricks-extension-functions/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
