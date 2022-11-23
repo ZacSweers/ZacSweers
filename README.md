@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-22** — opened PR [#296](https://github.com/slackhq/circuit/pull/296) to [slackhq/circuit](https://github.com/slackhq/circuit): "Disable snapshots in renovate"
 
 **2022-11-22** — created branch `z/noSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
