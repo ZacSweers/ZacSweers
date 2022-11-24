@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-23** — deleted branch `z/wipDeHilt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/emoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-23** — merged PR [#317](https://github.com/ZacSweers/CatchUp/pull/317) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove Hilt, fully sit on Anvil"
+**2022-11-24** — deleted branch `renovate/androidx.swiperefreshlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-23** — opened PR [#317](https://github.com/ZacSweers/CatchUp/pull/317) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove Hilt, fully sit on Anvil"
+**2022-11-24** — deleted branch `renovate/androidx.drawerlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-22** — deleted branch `z/noSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-11-24** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-22** — merged PR [#296](https://github.com/slackhq/circuit/pull/296) to [slackhq/circuit](https://github.com/slackhq/circuit): "Disable snapshots in renovate"
+**2022-11-24** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-22** — created branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-22** — merged PR [#316](https://github.com/ZacSweers/CatchUp/pull/316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Disable snapshots in renovate"
+**2022-11-24** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-24** — closed PR [#307](https://github.com/ZacSweers/CatchUp/pull/307) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+
+**2022-11-24** — closed PR [#308](https://github.com/ZacSweers/CatchUp/pull/308) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
