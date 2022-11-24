@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-24** — deleted branch `renovate/emoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — deleted branch `renovate/androidx.swiperefreshlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — merged PR [#323](https://github.com/ZacSweers/CatchUp/pull/323) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0"
 
-**2022-11-24** — deleted branch `renovate/androidx.drawerlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — merged PR [#305](https://github.com/ZacSweers/CatchUp/pull/305) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.28.3"
 
-**2022-11-24** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-24** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — merged PR [#318](https://github.com/ZacSweers/CatchUp/pull/318) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.1"
 
 **2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — closed PR [#307](https://github.com/ZacSweers/CatchUp/pull/307) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+**2022-11-24** — closed PR [#322](https://github.com/ZacSweers/CatchUp/pull/322) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2022-11-24** — closed PR [#308](https://github.com/ZacSweers/CatchUp/pull/308) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-SNAPSHOT"
+**2022-11-24** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-24** — merged PR [#319](https://github.com/ZacSweers/CatchUp/pull/319) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
