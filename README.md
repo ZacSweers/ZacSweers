@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-25** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-25** — merged PR [#333](https://github.com/ZacSweers/CatchUp/pull/333) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.12.0"
+
+**2022-11-25** — opened PR [#334](https://github.com/ZacSweers/CatchUp/pull/334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement services with Circuit+Compose+Paging"
+
+**2022-11-25** — created branch `z/composeService` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-11-24** — deleted branch `renovate/gradle-7.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-24** — merged PR [#321](https://github.com/ZacSweers/CatchUp/pull/321) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v7.6-rc-4"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-24** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-24** — closed PR [#330](https://github.com/ZacSweers/CatchUp/pull/330) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
-
-**2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-24** — closed PR [#324](https://github.com/ZacSweers/CatchUp/pull/324) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
-
-**2022-11-24** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-24** — closed PR [#325](https://github.com/ZacSweers/CatchUp/pull/325) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
