@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-25** — merged PR [#345](https://github.com/ZacSweers/MoshiX/pull/345) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.6"
+
+**2022-11-25** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-11-25** — deleted branch `z/socketTag` on [ZacSweers/flipper](https://github.com/ZacSweers/flipper)
 
 **2022-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-25** — closed PR [#332](https://github.com/ZacSweers/CatchUp/pull/332) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
-
-**2022-11-25** — commented on [#332](https://github.com/ZacSweers/CatchUp/pull/332#issuecomment-1327684197) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-25** — deleted branch `renovate/gradle-7.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
