@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-11-24** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/gradle-7.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — closed PR [#326](https://github.com/ZacSweers/CatchUp/pull/326) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-SNAPSHOT"
+**2022-11-24** — merged PR [#321](https://github.com/ZacSweers/CatchUp/pull/321) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v7.6-rc-4"
 
-**2022-11-24** — deleted branch `renovate/okhttp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — closed PR [#327](https://github.com/ZacSweers/CatchUp/pull/327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp to v5.0.0-SNAPSHOT"
+**2022-11-24** — closed PR [#329](https://github.com/ZacSweers/CatchUp/pull/329) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2022-11-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-11-24** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — merged PR [#344](https://github.com/ZacSweers/MoshiX/pull/344) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.12.0"
+**2022-11-24** — closed PR [#330](https://github.com/ZacSweers/CatchUp/pull/330) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 
-**2022-11-24** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — merged PR [#323](https://github.com/ZacSweers/CatchUp/pull/323) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.22.0"
+**2022-11-24** — closed PR [#324](https://github.com/ZacSweers/CatchUp/pull/324) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2022-11-24** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-11-24** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-11-24** — merged PR [#305](https://github.com/ZacSweers/CatchUp/pull/305) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.28.3"
+**2022-11-24** — closed PR [#325](https://github.com/ZacSweers/CatchUp/pull/325) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
