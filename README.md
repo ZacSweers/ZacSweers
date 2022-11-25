@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-24** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-24** — closed PR [#326](https://github.com/ZacSweers/CatchUp/pull/326) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-SNAPSHOT"
+
+**2022-11-24** — deleted branch `renovate/okhttp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-24** — closed PR [#327](https://github.com/ZacSweers/CatchUp/pull/327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp to v5.0.0-SNAPSHOT"
+
 **2022-11-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-11-24** — merged PR [#344](https://github.com/ZacSweers/MoshiX/pull/344) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.12.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-24** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-24** — merged PR [#305](https://github.com/ZacSweers/CatchUp/pull/305) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.28.3"
-
-**2022-11-24** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-24** — merged PR [#318](https://github.com/ZacSweers/CatchUp/pull/318) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.1"
-
-**2022-11-24** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-24** — closed PR [#322](https://github.com/ZacSweers/CatchUp/pull/322) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
