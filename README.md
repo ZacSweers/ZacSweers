@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-11-25** — closed PR [#337](https://github.com/ZacSweers/CatchUp/pull/337) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
+
+**2022-11-25** — commented on [#337](https://github.com/ZacSweers/CatchUp/pull/337#issuecomment-1327690072) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-11-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-25** — closed PR [#331](https://github.com/ZacSweers/CatchUp/pull/331) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-25** — deleted branch `renovate/gradle-7.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-25** — merged PR [#335](https://github.com/ZacSweers/CatchUp/pull/335) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v7.6"
-
-**2022-11-25** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-25** — merged PR [#333](https://github.com/ZacSweers/CatchUp/pull/333) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.12.0"
-
-**2022-11-25** — opened PR [#334](https://github.com/ZacSweers/CatchUp/pull/334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement services with Circuit+Compose+Paging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
