@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-28** — opened PR [#299](https://github.com/slackhq/circuit/pull/299) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots config in renovate"
+
+**2022-11-28** — created branch `z/fixSnapshotsRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-25** — merged PR [#345](https://github.com/ZacSweers/MoshiX/pull/345) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v7.6"
 
 **2022-11-25** — deleted branch `renovate/gradle-7.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-11-25** — closed PR [#331](https://github.com/ZacSweers/CatchUp/pull/331) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
-
-**2022-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-11-25** — closed PR [#332](https://github.com/ZacSweers/CatchUp/pull/332) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
