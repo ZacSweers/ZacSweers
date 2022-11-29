@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-29** — merged PR [#299](https://github.com/slackhq/circuit/pull/299) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots config in renovate"
+
+**2022-11-29** — deleted branch `z/fixSnapshotsRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-28** — deleted branch `z/moreLinks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-28** — merged PR [#303](https://github.com/slackhq/circuit/pull/303) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable changelog and discussion links on site"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-28** — opened PR [#301](https://github.com/slackhq/circuit/pull/301) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix some mkdocs API links"
 
 **2022-11-28** — created branch `z/fixAPILinks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-28** — opened PR [#299](https://github.com/slackhq/circuit/pull/299) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix snapshots config in renovate"
-
-**2022-11-28** — created branch `z/fixSnapshotsRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
