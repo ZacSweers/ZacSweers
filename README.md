@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-11-29** — opened PR [#309](https://github.com/slackhq/circuit/pull/309) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ScreenRequest"
+
+**2022-11-29** — opened PR [#308](https://github.com/slackhq/circuit/pull/308) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement tags in CircuitConfig"
+
+**2022-11-29** — created branch `z/screenRequest` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-11-29** — created branch `z/tagsInConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-11-29** — commented on [#300](https://github.com/slackhq/circuit/pull/300#issuecomment-1331252566) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-29** — commented on [#305](https://github.com/slackhq/circuit/issues/305#issuecomment-1331234424) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-28** — deleted branch `z/moreLinks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-28** — merged PR [#303](https://github.com/slackhq/circuit/pull/303) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable changelog and discussion links on site"
-
-**2022-11-28** — opened PR [#303](https://github.com/slackhq/circuit/pull/303) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable changelog and discussion links on site"
-
-**2022-11-28** — created branch `z/moreLinks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-28** — deleted branch `z/fixAPILinks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-28** — merged PR [#301](https://github.com/slackhq/circuit/pull/301) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix some mkdocs API links"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
