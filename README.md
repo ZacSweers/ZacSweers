@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-01** — created tag `0.1.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-01** — deleted branch `z/setupPublishing` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-01** — merged PR [#102](https://github.com/ZacSweers/kotlin-compile-testing/pull/102) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Set up publishing"
+
+**2022-12-01** — opened PR [#102](https://github.com/ZacSweers/kotlin-compile-testing/pull/102) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Set up publishing"
+
+**2022-12-01** — created branch `z/setupPublishing` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2022-12-01** — deleted branch `z/backTo8` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2022-12-01** — merged PR [#101](https://github.com/ZacSweers/kotlin-compile-testing/pull/101) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Lower target back to 8"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-01** — created branch `z/backTo8` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2022-12-01** — deleted branch `patch-2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-01** — closed PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
-
-**2022-12-01** — deleted branch `z/k2Pt2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-01** — deleted branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-01** — merged PR [#100](https://github.com/ZacSweers/kotlin-compile-testing/pull/100) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Add support for K2"
-
-**2022-12-01** — opened PR [#100](https://github.com/ZacSweers/kotlin-compile-testing/pull/100) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Add support for K2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
