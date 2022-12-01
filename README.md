@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-01** — closed issue [#311](https://github.com/slackhq/circuit/issues/311) on [slackhq/circuit](https://github.com/slackhq/circuit): "EventSink lambda captures variables causing instability in object equality"
+
+**2022-12-01** — commented on [#311](https://github.com/slackhq/circuit/issues/311#issuecomment-1334175623) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-12-01** — deleted branch `test-renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-01** — merged PR [#317](https://github.com/slackhq/circuit/pull/317) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.28.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-30** — commented on [#312](https://github.com/slackhq/circuit/pull/312#issuecomment-1332548569) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-11-30** — created tag `0.1.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2022-11-29** — opened PR [#309](https://github.com/slackhq/circuit/pull/309) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ScreenRequest"
-
-**2022-11-29** — opened PR [#308](https://github.com/slackhq/circuit/pull/308) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement tags in CircuitConfig"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
