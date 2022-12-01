@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-01** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1334219524) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-12-01** — closed issue [#311](https://github.com/slackhq/circuit/issues/311) on [slackhq/circuit](https://github.com/slackhq/circuit): "EventSink lambda captures variables causing instability in object equality"
 
 **2022-12-01** — commented on [#311](https://github.com/slackhq/circuit/issues/311#issuecomment-1334175623) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-11-30** — closed PR [#312](https://github.com/slackhq/circuit/pull/312) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin to v1.7.22"
 
 **2022-11-30** — commented on [#312](https://github.com/slackhq/circuit/pull/312#issuecomment-1332548569) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-30** — created tag `0.1.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
