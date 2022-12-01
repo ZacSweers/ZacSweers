@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-01** — deleted branch `z/modernize` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-01** — deleted branch `z/backTo8` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-01** — merged PR [#99](https://github.com/ZacSweers/kotlin-compile-testing/pull/99) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Modernize build"
+**2022-12-01** — merged PR [#101](https://github.com/ZacSweers/kotlin-compile-testing/pull/101) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Lower target back to 8"
 
-**2022-12-01** — opened PR [#99](https://github.com/ZacSweers/kotlin-compile-testing/pull/99) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Modernize build"
+**2022-12-01** — opened PR [#101](https://github.com/ZacSweers/kotlin-compile-testing/pull/101) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Lower target back to 8"
 
-**2022-12-01** — commented on [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337#issuecomment-1334330223) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+**2022-12-01** — created branch `z/backTo8` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-01** — closed PR [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Modernize build"
+**2022-12-01** — deleted branch `patch-2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-01** — opened PR [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Modernize build"
+**2022-12-01** — closed PR [#306](https://github.com/tschuchortdev/kotlin-compile-testing/pull/306) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Support K2 compiler + make kotlin-stdlib a compileOnly dep"
 
-**2022-12-01** — created branch `z/modernize` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-01** — deleted branch `z/k2Pt2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-01** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1334219524) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2022-12-01** — deleted branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-01** — closed issue [#311](https://github.com/slackhq/circuit/issues/311) on [slackhq/circuit](https://github.com/slackhq/circuit): "EventSink lambda captures variables causing instability in object equality"
+**2022-12-01** — merged PR [#100](https://github.com/ZacSweers/kotlin-compile-testing/pull/100) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Add support for K2"
 
-**2022-12-01** — commented on [#311](https://github.com/slackhq/circuit/issues/311#issuecomment-1334175623) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-01** — opened PR [#100](https://github.com/ZacSweers/kotlin-compile-testing/pull/100) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Add support for K2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
