@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-01** — deleted branch `z/modernize` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-01** — merged PR [#99](https://github.com/ZacSweers/kotlin-compile-testing/pull/99) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Modernize build"
+
+**2022-12-01** — opened PR [#99](https://github.com/ZacSweers/kotlin-compile-testing/pull/99) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Modernize build"
+
+**2022-12-01** — commented on [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337#issuecomment-1334330223) in [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing)
+
+**2022-12-01** — closed PR [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Modernize build"
+
+**2022-12-01** — opened PR [#337](https://github.com/tschuchortdev/kotlin-compile-testing/pull/337) to [tschuchortdev/kotlin-compile-testing](https://github.com/tschuchortdev/kotlin-compile-testing): "Modernize build"
+
+**2022-12-01** — created branch `z/modernize` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2022-12-01** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1334219524) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-12-01** — closed issue [#311](https://github.com/slackhq/circuit/issues/311) on [slackhq/circuit](https://github.com/slackhq/circuit): "EventSink lambda captures variables causing instability in object equality"
 
 **2022-12-01** — commented on [#311](https://github.com/slackhq/circuit/issues/311#issuecomment-1334175623) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-01** — deleted branch `test-renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-01** — merged PR [#317](https://github.com/slackhq/circuit/pull/317) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.28.0"
-
-**2022-12-01** — deleted branch `test-renovate/mkdocs-material-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-01** — merged PR [#316](https://github.com/slackhq/circuit/pull/316) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v8.5.11"
-
-**2022-11-30** — deleted branch `test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-11-30** — closed PR [#312](https://github.com/slackhq/circuit/pull/312) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin to v1.7.22"
-
-**2022-11-30** — commented on [#312](https://github.com/slackhq/circuit/pull/312#issuecomment-1332548569) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
