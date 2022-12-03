@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-03** — opened PR [#103](https://github.com/ZacSweers/kotlin-compile-testing/pull/103) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "WIP Kotlin 1.8 support"
+
+**2022-12-03** — created branch `z/kotlin18` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-03** — opened PR [#88](https://github.com/ZacSweers/redacted-compiler-plugin/pull/88) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Beef up tests and add more checks in IR"
+
+**2022-12-03** — created branch `z/buildModernization` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2022-12-02** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-02** — merged PR [#340](https://github.com/ZacSweers/CatchUp/pull/340) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.176.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-02** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-02** — merged PR [#319](https://github.com/slackhq/circuit/pull/319) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.17.0"
-
-**2022-12-02** — deleted branch `test-renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-02** — merged PR [#320](https://github.com/slackhq/circuit/pull/320) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.12.0"
-
-**2022-12-01** — created tag `0.1.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-01** — deleted branch `z/setupPublishing` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
