@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-03** — opened PR [#103](https://github.com/ZacSweers/kotlin-compile-testing/pull/103) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "WIP Kotlin 1.8 support"
+**2022-12-03** — merged PR [#91](https://github.com/ZacSweers/redacted-compiler-plugin/pull/91) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.7.22-1.0.8"
 
-**2022-12-03** — created branch `z/kotlin18` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-03** — opened PR [#88](https://github.com/ZacSweers/redacted-compiler-plugin/pull/88) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Beef up tests and add more checks in IR"
+**2022-12-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-03** — created branch `z/buildModernization` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-03** — merged PR [#90](https://github.com/ZacSweers/redacted-compiler-plugin/pull/90) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.7.22"
 
-**2022-12-02** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-03** — opened issue [#179](https://github.com/slackhq/slack-gradle-plugin/issues/179) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconsider memory args for daemons"
 
-**2022-12-02** — merged PR [#340](https://github.com/ZacSweers/CatchUp/pull/340) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.176.0"
+**2022-12-03** — opened issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
 
-**2022-12-02** — deleted branch `renovate/com.facebook.soloader` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-03** — merged PR [#88](https://github.com/ZacSweers/redacted-compiler-plugin/pull/88) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Beef up tests and add more checks in IR"
 
-**2022-12-02** — merged PR [#343](https://github.com/ZacSweers/CatchUp/pull/343) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook.soloader:soloader to v0.10.5"
+**2022-12-03** — deleted branch `z/buildModernization` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-02** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-03** — deleted branch `renovate/configure` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-02** — merged PR [#319](https://github.com/slackhq/circuit/pull/319) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.17.0"
+**2022-12-03** — merged PR [#89](https://github.com/ZacSweers/redacted-compiler-plugin/pull/89) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Configure Renovate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
