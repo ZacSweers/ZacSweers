@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-03** — created tag `1.2.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-12-03** — merged PR [#105](https://github.com/ZacSweers/kotlin-compile-testing/pull/105) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Enable IR backend and produce JS file by default"
+
 **2022-12-03** — merged PR [#91](https://github.com/ZacSweers/redacted-compiler-plugin/pull/91) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.7.22-1.0.8"
 
 **2022-12-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-03** — merged PR [#88](https://github.com/ZacSweers/redacted-compiler-plugin/pull/88) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Beef up tests and add more checks in IR"
 
 **2022-12-03** — deleted branch `z/buildModernization` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-03** — deleted branch `renovate/configure` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-03** — merged PR [#89](https://github.com/ZacSweers/redacted-compiler-plugin/pull/89) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Configure Renovate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
