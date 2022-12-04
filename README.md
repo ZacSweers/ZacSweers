@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336519341) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-04** — closed issue [#324](https://github.com/ZacSweers/MoshiX/issues/324) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[Android] No JsonAdapter for NestedSealed interface if R8 enabled"
+
+**2022-12-04** — deleted branch `z/trackIntermediateSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-04** — merged PR [#348](https://github.com/ZacSweers/MoshiX/pull/348) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate extra proguard rules to keep parent sealed adapters for subclass usages"
+
+**2022-12-04** — deleted branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
+
+**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336512078) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-12-04** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1336510928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — opened PR [#348](https://github.com/ZacSweers/MoshiX/pull/348) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate extra proguard rules to keep parent sealed adapters for subclass usages"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — created branch `z/trackIntermediateSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-04** — merged PR [#97](https://github.com/ZacSweers/redacted-compiler-plugin/pull/97) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.12.0"
-
-**2022-12-04** — deleted branch `renovate/actions-checkout-3.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-04** — merged PR [#98](https://github.com/ZacSweers/redacted-compiler-plugin/pull/98) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v3"
-
-**2022-12-04** — closed issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
-
-**2022-12-04** — commented on [#320](https://github.com/ZacSweers/MoshiX/issues/320#issuecomment-1336324205) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
