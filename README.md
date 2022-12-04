@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-03** — created tag `1.2.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-03** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-03** — merged PR [#105](https://github.com/ZacSweers/kotlin-compile-testing/pull/105) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Enable IR backend and produce JS file by default"
+**2022-12-03** — merged PR [#174](https://github.com/slackhq/slack-gradle-plugin/pull/174) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha09"
 
-**2022-12-03** — merged PR [#91](https://github.com/ZacSweers/redacted-compiler-plugin/pull/91) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.7.22-1.0.8"
+**2022-12-03** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-03** — merged PR [#169](https://github.com/slackhq/slack-gradle-plugin/pull/169) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.17.0"
 
-**2022-12-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-03** — merged PR [#172](https://github.com/slackhq/slack-gradle-plugin/pull/172) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.22"
 
-**2022-12-03** — merged PR [#90](https://github.com/ZacSweers/redacted-compiler-plugin/pull/90) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.7.22"
+**2022-12-03** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-03** — opened issue [#179](https://github.com/slackhq/slack-gradle-plugin/issues/179) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconsider memory args for daemons"
+**2022-12-03** — deleted branch `test-renovate/gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-03** — opened issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
+**2022-12-03** — merged PR [#171](https://github.com/slackhq/slack-gradle-plugin/pull/171) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v7.6"
 
-**2022-12-03** — merged PR [#88](https://github.com/ZacSweers/redacted-compiler-plugin/pull/88) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Beef up tests and add more checks in IR"
+**2022-12-03** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-03** — deleted branch `z/buildModernization` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-03** — merged PR [#170](https://github.com/slackhq/slack-gradle-plugin/pull/170) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
