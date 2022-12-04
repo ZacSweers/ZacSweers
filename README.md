@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-03** — commented on [#87](https://github.com/ZacSweers/redacted-compiler-plugin/pull/87#issuecomment-1336313888) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-04** — closed issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
 
-**2022-12-03** — opened PR [#658](https://github.com/square/anvil/pull/658) to [square/anvil](https://github.com/square/anvil): "Switch to 1.8.0-friendly KCT + update tests"
+**2022-12-04** — commented on [#320](https://github.com/ZacSweers/MoshiX/issues/320#issuecomment-1336324205) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-03** — created branch `z/updatedKCT` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2022-12-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-03** — commented on [#103](https://github.com/ZacSweers/kotlin-compile-testing/pull/103#issuecomment-1336297769) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-04** — merged PR [#341](https://github.com/ZacSweers/MoshiX/pull/341) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.7.22"
 
-**2022-12-03** — deleted branch `renovate/configure` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-04** — closed PR [#342](https://github.com/ZacSweers/MoshiX/pull/342) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[R8] Keep JsonClass annotations for NestedSealed.Factory"
 
-**2022-12-03** — merged PR [#104](https://github.com/ZacSweers/kotlin-compile-testing/pull/104) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Configure Renovate"
+**2022-12-04** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1336323917) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-03** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-04** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-03** — merged PR [#173](https://github.com/slackhq/slack-gradle-plugin/pull/173) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.22-1.0.8"
+**2022-12-04** — merged PR [#346](https://github.com/ZacSweers/MoshiX/pull/346) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.22-1.0.8"
 
-**2022-12-03** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-04** — deleted branch `z/newKct` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-03** — merged PR [#174](https://github.com/slackhq/slack-gradle-plugin/pull/174) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha09"
+**2022-12-04** — merged PR [#347](https://github.com/ZacSweers/MoshiX/pull/347) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Switch to maintained KCT + support K2 in some places"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
