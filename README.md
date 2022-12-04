@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-03** — opened PR [#658](https://github.com/square/anvil/pull/658) to [square/anvil](https://github.com/square/anvil): "Switch to 1.8.0-friendly KCT + update tests"
+
+**2022-12-03** — created branch `z/updatedKCT` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-12-03** — commented on [#103](https://github.com/ZacSweers/kotlin-compile-testing/pull/103#issuecomment-1336297769) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2022-12-03** — deleted branch `renovate/configure` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-03** — merged PR [#174](https://github.com/slackhq/slack-gradle-plugin/pull/174) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha09"
 
 **2022-12-03** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-03** — merged PR [#169](https://github.com/slackhq/slack-gradle-plugin/pull/169) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.17.0"
-
-**2022-12-03** — merged PR [#172](https://github.com/slackhq/slack-gradle-plugin/pull/172) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.22"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
