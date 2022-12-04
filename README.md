@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-04** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1336510928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-04** — opened PR [#348](https://github.com/ZacSweers/MoshiX/pull/348) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate extra proguard rules to keep parent sealed adapters for subclass usages"
+
+**2022-12-04** — created branch `z/trackIntermediateSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-12-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-12-04** — merged PR [#97](https://github.com/ZacSweers/redacted-compiler-plugin/pull/97) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.12.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — commented on [#320](https://github.com/ZacSweers/MoshiX/issues/320#issuecomment-1336324205) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — merged PR [#341](https://github.com/ZacSweers/MoshiX/pull/341) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.7.22"
-
-**2022-12-04** — closed PR [#342](https://github.com/ZacSweers/MoshiX/pull/342) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[R8] Keep JsonClass annotations for NestedSealed.Factory"
-
-**2022-12-04** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1336323917) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
