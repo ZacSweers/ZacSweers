@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-12-04** — merged PR [#97](https://github.com/ZacSweers/redacted-compiler-plugin/pull/97) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.12.0"
+
+**2022-12-04** — deleted branch `renovate/actions-checkout-3.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-12-04** — merged PR [#98](https://github.com/ZacSweers/redacted-compiler-plugin/pull/98) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v3"
+
 **2022-12-04** — closed issue [#320](https://github.com/ZacSweers/MoshiX/issues/320) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Stream closed in MGP while writing proguard files"
 
 **2022-12-04** — commented on [#320](https://github.com/ZacSweers/MoshiX/issues/320#issuecomment-1336324205) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — closed PR [#342](https://github.com/ZacSweers/MoshiX/pull/342) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[R8] Keep JsonClass annotations for NestedSealed.Factory"
 
 **2022-12-04** — commented on [#342](https://github.com/ZacSweers/MoshiX/pull/342#issuecomment-1336323917) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — merged PR [#346](https://github.com/ZacSweers/MoshiX/pull/346) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.7.22-1.0.8"
-
-**2022-12-04** — deleted branch `z/newKct` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — merged PR [#347](https://github.com/ZacSweers/MoshiX/pull/347) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Switch to maintained KCT + support K2 in some places"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
