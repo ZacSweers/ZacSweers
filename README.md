@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-03** — commented on [#103](https://github.com/ZacSweers/kotlin-compile-testing/pull/103#issuecomment-1336297769) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-03** — deleted branch `renovate/configure` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-03** — merged PR [#104](https://github.com/ZacSweers/kotlin-compile-testing/pull/104) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Configure Renovate"
+
+**2022-12-03** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-03** — merged PR [#173](https://github.com/slackhq/slack-gradle-plugin/pull/173) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.7.22-1.0.8"
+
 **2022-12-03** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-03** — merged PR [#174](https://github.com/slackhq/slack-gradle-plugin/pull/174) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha09"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-03** — merged PR [#169](https://github.com/slackhq/slack-gradle-plugin/pull/169) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.17.0"
 
 **2022-12-03** — merged PR [#172](https://github.com/slackhq/slack-gradle-plugin/pull/172) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.7.22"
-
-**2022-12-03** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-03** — deleted branch `test-renovate/gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-03** — merged PR [#171](https://github.com/slackhq/slack-gradle-plugin/pull/171) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v7.6"
-
-**2022-12-03** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-03** — merged PR [#170](https://github.com/slackhq/slack-gradle-plugin/pull/170) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
