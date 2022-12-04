@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336532415) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-04** — reopened issue [#1512](https://github.com/square/moshi/issues/1512) on [square/moshi](https://github.com/square/moshi): "Allow PolymorphicJsonAdapterFactory's fallback adapter to handle case when expected `labelKey` is missing from JSON object."
+
+**2022-12-04** — commented on [#1512](https://github.com/square/moshi/issues/1512#issuecomment-1336532336) in [square/moshi](https://github.com/square/moshi)
+
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336519341) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — closed issue [#324](https://github.com/ZacSweers/MoshiX/issues/324) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[Android] No JsonAdapter for NestedSealed interface if R8 enabled"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336512078) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1336510928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — opened PR [#348](https://github.com/ZacSweers/MoshiX/pull/348) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate extra proguard rules to keep parent sealed adapters for subclass usages"
-
-**2022-12-04** — created branch `z/trackIntermediateSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
