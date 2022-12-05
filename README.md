@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-04** — created branch `z/fallbackAdapter` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336532415) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — closed PR [#349](https://github.com/ZacSweers/MoshiX/pull/349) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-mercury-607"
 
-**2022-12-04** — reopened issue [#1512](https://github.com/square/moshi/issues/1512) on [square/moshi](https://github.com/square/moshi): "Allow PolymorphicJsonAdapterFactory's fallback adapter to handle case when expected `labelKey` is missing from JSON object."
+**2022-12-04** — commented on [#349](https://github.com/ZacSweers/MoshiX/pull/349#issuecomment-1336613089) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-04** — commented on [#1512](https://github.com/square/moshi/issues/1512#issuecomment-1336532336) in [square/moshi](https://github.com/square/moshi)
+**2022-12-04** — deleted branch `renovate/gradle-7.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336519341) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — merged PR [#94](https://github.com/ZacSweers/redacted-compiler-plugin/pull/94) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v7.6"
 
-**2022-12-04** — closed issue [#324](https://github.com/ZacSweers/MoshiX/issues/324) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[Android] No JsonAdapter for NestedSealed interface if R8 enabled"
+**2022-12-04** — merged PR [#95](https://github.com/ZacSweers/redacted-compiler-plugin/pull/95) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.12.1"
 
-**2022-12-04** — deleted branch `z/trackIntermediateSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-04** — merged PR [#348](https://github.com/ZacSweers/MoshiX/pull/348) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Generate extra proguard rules to keep parent sealed adapters for subclass usages"
+**2022-12-04** — deleted branch `renovate/actions-setup-java-3.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-04** — deleted branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
+**2022-12-04** — merged PR [#99](https://github.com/ZacSweers/redacted-compiler-plugin/pull/99) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/setup-java action to v3"
 
-**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336512078) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — created tag `0.20.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
