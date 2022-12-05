@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-05** — commented on [#1426](https://github.com/square/kotlinpoet/issues/1426#issuecomment-1338279099) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336739759) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — merged PR [#180](https://github.com/slackhq/slack-gradle-plugin/pull/180) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.1"
 
 **2022-12-04** — deleted branch `z/androidResourcesRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-04** — merged PR [#176](https://github.com/slackhq/slack-gradle-plugin/pull/176) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only enable androidResources in tests if robolectric is requested"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
