@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336739759) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-04** — closed PR [#349](https://github.com/ZacSweers/MoshiX/pull/349) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-mercury-607"
+**2022-12-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-04** — commented on [#349](https://github.com/ZacSweers/MoshiX/pull/349#issuecomment-1336613089) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — merged PR [#93](https://github.com/ZacSweers/redacted-compiler-plugin/pull/93) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.7.20"
 
-**2022-12-04** — deleted branch `renovate/gradle-7.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-04** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-04** — merged PR [#94](https://github.com/ZacSweers/redacted-compiler-plugin/pull/94) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v7.6"
+**2022-12-04** — merged PR [#351](https://github.com/ZacSweers/MoshiX/pull/351) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.20.0"
 
-**2022-12-04** — merged PR [#95](https://github.com/ZacSweers/redacted-compiler-plugin/pull/95) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.12.1"
+**2022-12-04** — created tag `0.3.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-04** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-04** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-04** — deleted branch `renovate/actions-setup-java-3.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-04** — merged PR [#180](https://github.com/slackhq/slack-gradle-plugin/pull/180) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.1"
 
-**2022-12-04** — merged PR [#99](https://github.com/ZacSweers/redacted-compiler-plugin/pull/99) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/setup-java action to v3"
+**2022-12-04** — deleted branch `z/androidResourcesRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-04** — created tag `0.20.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-04** — merged PR [#176](https://github.com/slackhq/slack-gradle-plugin/pull/176) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Only enable androidResources in tests if robolectric is requested"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
