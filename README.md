@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-04** — created branch `z/fallbackAdapter` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336532415) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-04** — reopened issue [#1512](https://github.com/square/moshi/issues/1512) on [square/moshi](https://github.com/square/moshi): "Allow PolymorphicJsonAdapterFactory's fallback adapter to handle case when expected `labelKey` is missing from JSON object."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — deleted branch `z/publishingUpdate` on [ZacSweers/sqlite-android](https://github.com/ZacSweers/sqlite-android)
 
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336512078) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — commented on [#324](https://github.com/ZacSweers/MoshiX/issues/324#issuecomment-1336510928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
