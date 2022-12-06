@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-06** — created tag `0.3.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-06** — closed issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
 
 **2022-12-06** — commented on [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178#issuecomment-1339954722) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-06** — created branch `z/compileCiUnitTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-06** — commented on [#352](https://github.com/ZacSweers/MoshiX/pull/352#issuecomment-1338783956) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-06** — opened PR [#352](https://github.com/ZacSweers/MoshiX/pull/352) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.8.0 support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
