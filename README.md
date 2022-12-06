@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-06** — closed issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
+
+**2022-12-06** — commented on [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178#issuecomment-1339954722) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-06** — deleted branch `z/compileCiUnitTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-06** — merged PR [#182](https://github.com/slackhq/slack-gradle-plugin/pull/182) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add compileCiUnitTest lifecycle task"
+
+**2022-12-06** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-06** — merged PR [#181](https://github.com/slackhq/slack-gradle-plugin/pull/181) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.20.0"
+
+**2022-12-06** — opened PR [#182](https://github.com/slackhq/slack-gradle-plugin/pull/182) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add compileCiUnitTest lifecycle task"
+
+**2022-12-06** — created branch `z/compileCiUnitTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-06** — commented on [#352](https://github.com/ZacSweers/MoshiX/pull/352#issuecomment-1338783956) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-06** — opened PR [#352](https://github.com/ZacSweers/MoshiX/pull/352) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.8.0 support"
-
-**2022-12-05** — created branch `z/kotlin18` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-05** — commented on [#1426](https://github.com/square/kotlinpoet/issues/1426#issuecomment-1338279099) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336739759) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-04** — merged PR [#93](https://github.com/ZacSweers/redacted-compiler-plugin/pull/93) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.7.20"
-
-**2022-12-04** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-04** — merged PR [#351](https://github.com/ZacSweers/MoshiX/pull/351) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.20.0"
-
-**2022-12-04** — created tag `0.3.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
