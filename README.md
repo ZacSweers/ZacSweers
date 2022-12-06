@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-06** — opened PR [#325](https://github.com/slackhq/circuit/pull/325) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement CircuitContext"
+
+**2022-12-06** — created branch `z/circuitcontext` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-12-06** — created tag `0.3.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-06** — closed issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-06** — merged PR [#181](https://github.com/slackhq/slack-gradle-plugin/pull/181) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.20.0"
 
 **2022-12-06** — opened PR [#182](https://github.com/slackhq/slack-gradle-plugin/pull/182) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add compileCiUnitTest lifecycle task"
-
-**2022-12-06** — created branch `z/compileCiUnitTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-06** — commented on [#352](https://github.com/ZacSweers/MoshiX/pull/352#issuecomment-1338783956) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
