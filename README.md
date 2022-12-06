@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-06** — commented on [#352](https://github.com/ZacSweers/MoshiX/pull/352#issuecomment-1338783956) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-06** — opened PR [#352](https://github.com/ZacSweers/MoshiX/pull/352) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.8.0 support"
+
+**2022-12-05** — created branch `z/kotlin18` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2022-12-05** — commented on [#1426](https://github.com/square/kotlinpoet/issues/1426#issuecomment-1338279099) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2022-12-04** — commented on [#141](https://github.com/ZacSweers/MoshiX/issues/141#issuecomment-1336739759) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-04** — merged PR [#351](https://github.com/ZacSweers/MoshiX/pull/351) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.20.0"
 
 **2022-12-04** — created tag `0.3.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-04** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-04** — merged PR [#180](https://github.com/slackhq/slack-gradle-plugin/pull/180) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.2.1"
-
-**2022-12-04** — deleted branch `z/androidResourcesRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
