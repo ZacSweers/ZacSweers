@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-07** — opened PR [#183](https://github.com/slackhq/slack-gradle-plugin/pull/183) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update CI to latest AGP versions"
+
+**2022-12-07** — created branch `z/agp809` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-06** — deleted branch `z/tagsInConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-06** — closed PR [#308](https://github.com/slackhq/circuit/pull/308) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement tags in CircuitConfig"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-06** — opened PR [#325](https://github.com/slackhq/circuit/pull/325) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement CircuitContext"
 
 **2022-12-06** — created branch `z/circuitcontext` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-06** — created tag `0.3.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-06** — closed issue [#178](https://github.com/slackhq/slack-gradle-plugin/issues/178) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildCiUnitTest lifecycle task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
