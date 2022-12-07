@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-07** — commented on [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184#issuecomment-1341681867) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-07** — opened issue [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "AGP 8.x support"
+
 **2022-12-07** — deleted branch `z/agp8a9` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-07** — closed PR [#351](https://github.com/ZacSweers/CatchUp/pull/351) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update AGP to 8.0a9"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-07** — created branch `z/renovatetypo` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-07** — created branch `z/agp8a9` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-07** — deleted branch `z/noSnapshotsForReal` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-07** — merged PR [#327](https://github.com/slackhq/circuit/pull/327) to [slackhq/circuit](https://github.com/slackhq/circuit): "Hopefully finally fix snapshots in renovate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
