@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-07** — commented on [#1592](https://github.com/square/moshi/issues/1592#issuecomment-1340540432) in [square/moshi](https://github.com/square/moshi)
+
+**2022-12-07** — closed issue [#1592](https://github.com/square/moshi/issues/1592) on [square/moshi](https://github.com/square/moshi): "Oout of Memory crash on JsonAdapter when parsing very large json array"
+
 **2022-12-07** — opened PR [#183](https://github.com/slackhq/slack-gradle-plugin/pull/183) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update CI to latest AGP versions"
 
 **2022-12-07** — created branch `z/agp809` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-06** — closed PR [#309](https://github.com/slackhq/circuit/pull/309) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ScreenRequest"
 
 **2022-12-06** — commented on [#309](https://github.com/slackhq/circuit/pull/309#issuecomment-1340103203) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-06** — opened PR [#325](https://github.com/slackhq/circuit/pull/325) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement CircuitContext"
-
-**2022-12-06** — created branch `z/circuitcontext` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
