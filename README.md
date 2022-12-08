@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-08** — opened PR [#113](https://github.com/slackhq/keeper/pull/113) to [slackhq/keeper](https://github.com/slackhq/keeper): "Remove remaining PrintUses references"
+
+**2022-12-08** — created branch `z/removePrintUses` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — commented on [#108](https://github.com/slackhq/keeper/issues/108#issuecomment-1343431270) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — closed issue [#104](https://github.com/slackhq/keeper/issues/104) on [slackhq/keeper](https://github.com/slackhq/keeper): "Inner R classes aren't kept for tests"
+
+**2022-12-08** — commented on [#104](https://github.com/slackhq/keeper/issues/104#issuecomment-1343424469) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — opened PR [#112](https://github.com/slackhq/keeper/pull/112) to [slackhq/keeper](https://github.com/slackhq/keeper): "Repro #104"
+
+**2022-12-08** — created branch `z/repro104` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-12-08** — closed issue [#101](https://github.com/slackhq/keeper/issues/101) on [slackhq/keeper](https://github.com/slackhq/keeper): "[Documentation] `beforeVariants` syntax for Groovy"
 
 **2022-12-08** — opened PR [#111](https://github.com/slackhq/keeper/pull/111) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 7.4"
 
 **2022-12-08** — created branch `z/agp74x` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-12-08** — opened PR [#110](https://github.com/slackhq/keeper/pull/110) to [slackhq/keeper](https://github.com/slackhq/keeper): "Use new runtimeConfiguration API"
-
-**2022-12-08** — created branch `z/runtimeConfiguration` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-12-08** — closed issue [#107](https://github.com/slackhq/keeper/issues/107) on [slackhq/keeper](https://github.com/slackhq/keeper): "Remove PrintUses support"
-
-**2022-12-08** — closed issue [#96](https://github.com/slackhq/keeper/issues/96) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new ArtifactCollection APIs in a future gradle version"
-
-**2022-12-08** — deleted branch `z/gradle75` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-12-08** — merged PR [#103](https://github.com/slackhq/keeper/pull/103) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to gradle 7.6 + other deps + just a lot of general yak shaving"
-
-**2022-12-08** — commented on [#329](https://github.com/slackhq/circuit/pull/329#issuecomment-1343002465) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
