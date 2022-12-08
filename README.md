@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-08** — closed issue [#101](https://github.com/slackhq/keeper/issues/101) on [slackhq/keeper](https://github.com/slackhq/keeper): "[Documentation] `beforeVariants` syntax for Groovy"
+
+**2022-12-08** — opened PR [#111](https://github.com/slackhq/keeper/pull/111) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 7.4"
+
+**2022-12-08** — created branch `z/agp74x` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — opened PR [#110](https://github.com/slackhq/keeper/pull/110) to [slackhq/keeper](https://github.com/slackhq/keeper): "Use new runtimeConfiguration API"
+
+**2022-12-08** — created branch `z/runtimeConfiguration` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — closed issue [#107](https://github.com/slackhq/keeper/issues/107) on [slackhq/keeper](https://github.com/slackhq/keeper): "Remove PrintUses support"
+
+**2022-12-08** — closed issue [#96](https://github.com/slackhq/keeper/issues/96) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new ArtifactCollection APIs in a future gradle version"
+
+**2022-12-08** — deleted branch `z/gradle75` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — merged PR [#103](https://github.com/slackhq/keeper/pull/103) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to gradle 7.6 + other deps + just a lot of general yak shaving"
+
 **2022-12-08** — commented on [#329](https://github.com/slackhq/circuit/pull/329#issuecomment-1343002465) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-08** — merged PR [#329](https://github.com/slackhq/circuit/pull/329) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose to v1.3.2"
-
-**2022-12-08** — deleted branch `test-renovate/compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-07** — commented on [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184#issuecomment-1341681867) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-07** — opened issue [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "AGP 8.x support"
-
-**2022-12-07** — deleted branch `z/agp8a9` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-07** — closed PR [#351](https://github.com/ZacSweers/CatchUp/pull/351) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update AGP to 8.0a9"
-
-**2022-12-07** — deleted branch `z/renovatetypo` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-07** — merged PR [#328](https://github.com/slackhq/circuit/pull/328) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix typo in renovate"
-
-**2022-12-07** — opened PR [#351](https://github.com/ZacSweers/CatchUp/pull/351) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update AGP to 8.0a9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
