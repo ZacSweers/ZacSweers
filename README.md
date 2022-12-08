@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-08** — closed issue [#105](https://github.com/slackhq/keeper/issues/105) on [slackhq/keeper](https://github.com/slackhq/keeper): "Use new configuration APIs in AGP 7.3"
+
+**2022-12-08** — deleted branch `z/runtimeConfiguration` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-08** — merged PR [#110](https://github.com/slackhq/keeper/pull/110) to [slackhq/keeper](https://github.com/slackhq/keeper): "Use new runtimeConfiguration API"
+
 **2022-12-08** — opened PR [#113](https://github.com/slackhq/keeper/pull/113) to [slackhq/keeper](https://github.com/slackhq/keeper): "Remove remaining PrintUses references"
 
 **2022-12-08** — created branch `z/removePrintUses` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-08** — opened PR [#112](https://github.com/slackhq/keeper/pull/112) to [slackhq/keeper](https://github.com/slackhq/keeper): "Repro #104"
 
 **2022-12-08** — created branch `z/repro104` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2022-12-08** — closed issue [#101](https://github.com/slackhq/keeper/issues/101) on [slackhq/keeper](https://github.com/slackhq/keeper): "[Documentation] `beforeVariants` syntax for Groovy"
-
-**2022-12-08** — opened PR [#111](https://github.com/slackhq/keeper/pull/111) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 7.4"
-
-**2022-12-08** — created branch `z/agp74x` on [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
