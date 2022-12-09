@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-09** — created tag `0.13.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2022-12-09** — merged PR [#113](https://github.com/slackhq/keeper/pull/113) to [slackhq/keeper](https://github.com/slackhq/keeper): "Remove remaining PrintUses references"
 
 **2022-12-09** — deleted branch `z/removePrintUses` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-08** — commented on [#108](https://github.com/slackhq/keeper/issues/108#issuecomment-1343431270) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-12-08** — closed issue [#104](https://github.com/slackhq/keeper/issues/104) on [slackhq/keeper](https://github.com/slackhq/keeper): "Inner R classes aren't kept for tests"
-
-**2022-12-08** — commented on [#104](https://github.com/slackhq/keeper/issues/104#issuecomment-1343424469) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
