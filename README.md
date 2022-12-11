@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-11** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1345589987) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2022-12-10** — created branch `z/basicSmokeTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-10** — opened PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-10** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1345301276) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2022-12-09** — deleted branch `patch-1` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
-
-**2022-12-09** — commented on [#641](https://github.com/cashapp/paparazzi/issues/641#issuecomment-1345085533) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
