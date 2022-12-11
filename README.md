@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-10** — created branch `z/basicSmokeTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-10** — opened PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
 
 **2022-12-10** — created branch `z/ktfmt` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-09** — deleted branch `patch-1` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
 
 **2022-12-09** — commented on [#641](https://github.com/cashapp/paparazzi/issues/641#issuecomment-1345085533) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
-
-**2022-12-09** — opened PR [#650](https://github.com/cashapp/paparazzi/pull/650) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Fix ClassCastException in Compose 1.4.x"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
