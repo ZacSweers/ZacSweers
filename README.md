@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-13** — opened issue [#115](https://github.com/slackhq/keeper/issues/115) on [slackhq/keeper](https://github.com/slackhq/keeper): "Support `com.android.test` projects"
+
 **2022-12-12** — opened PR [#336](https://github.com/slackhq/circuit/pull/336) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose BOM"
 
 **2022-12-12** — created branch `z/composeBom` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-10** — created branch `z/basicSmokeTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-10** — opened PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
-
-**2022-12-10** — created branch `z/ktfmt` on [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
