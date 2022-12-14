@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-14** — deleted branch `z/updatedKCT` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2022-12-13** — opened issue [#115](https://github.com/slackhq/keeper/issues/115) on [slackhq/keeper](https://github.com/slackhq/keeper): "Support `com.android.test` projects"
 
 **2022-12-12** — opened PR [#336](https://github.com/slackhq/circuit/pull/336) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose BOM"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-11** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1345589987) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2022-12-10** — created branch `z/basicSmokeTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-10** — opened PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
