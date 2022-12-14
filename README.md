@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-14** — deleted branch `z/ktfmt` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2022-12-14** — merged PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
+
+**2022-12-14** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-14** — merged PR [#185](https://github.com/slackhq/slack-gradle-plugin/pull/185) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.3.4"
+
+**2022-12-14** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-14** — merged PR [#186](https://github.com/slackhq/slack-gradle-plugin/pull/186) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12"
+
+**2022-12-14** — deleted branch `z/agp8Support` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-14** — merged PR [#187](https://github.com/slackhq/slack-gradle-plugin/pull/187) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Backport new jniLibs access in AGP 8 handling"
+
 **2022-12-14** — deleted branch `z/updatedKCT` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2022-12-13** — opened issue [#115](https://github.com/slackhq/keeper/issues/115) on [slackhq/keeper](https://github.com/slackhq/keeper): "Support `com.android.test` projects"
-
-**2022-12-12** — opened PR [#336](https://github.com/slackhq/circuit/pull/336) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose BOM"
-
-**2022-12-12** — created branch `z/composeBom` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-12** — opened PR [#487](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/487) to [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Add a couple of missing usesService() calls"
-
-**2022-12-12** — created branch `z/missingUsesService` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2022-12-12** — created branch `z/usesService` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-12** — commented on [#335](https://github.com/slackhq/circuit/pull/335#issuecomment-1347434500) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-11** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1345589987) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2022-12-10** — created branch `z/basicSmokeTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
