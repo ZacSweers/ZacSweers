@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-15** — commented on [#338](https://github.com/slackhq/circuit/pull/338#issuecomment-1353521887) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-12-15** — commented on [#334](https://github.com/slackhq/circuit/issues/334#issuecomment-1353519795) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-12-15** — commented on [#2527](https://github.com/JetBrains/compose-jb/pull/2527#issuecomment-1353515642) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
+
 **2022-12-14** — deleted branch `z/ktfmt` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2022-12-14** — merged PR [#114](https://github.com/slackhq/keeper/pull/114) to [slackhq/keeper](https://github.com/slackhq/keeper): "Switch to ktfmt"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-14** — merged PR [#186](https://github.com/slackhq/slack-gradle-plugin/pull/186) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12"
 
 **2022-12-14** — deleted branch `z/agp8Support` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-14** — merged PR [#187](https://github.com/slackhq/slack-gradle-plugin/pull/187) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Backport new jniLibs access in AGP 8 handling"
-
-**2022-12-14** — deleted branch `z/updatedKCT` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2022-12-13** — opened issue [#115](https://github.com/slackhq/keeper/issues/115) on [slackhq/keeper](https://github.com/slackhq/keeper): "Support `com.android.test` projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
