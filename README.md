@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-15** — closed issue [#342](https://github.com/slackhq/circuit/issues/342) on [slackhq/circuit](https://github.com/slackhq/circuit): "Publish license information in POM"
+
+**2022-12-15** — deleted branch `z/fixLicenseInfo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-12-15** — merged PR [#343](https://github.com/slackhq/circuit/pull/343) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing license info to pom"
+
+**2022-12-15** — commented on [#341](https://github.com/slackhq/circuit/pull/341#issuecomment-1353765403) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-12-15** — opened PR [#343](https://github.com/slackhq/circuit/pull/343) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing license info to pom"
+
+**2022-12-15** — created branch `z/fixLicenseInfo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2022-12-15** — opened issue [#342](https://github.com/slackhq/circuit/issues/342) on [slackhq/circuit](https://github.com/slackhq/circuit): "Publish license information in POM"
+
+**2022-12-15** — opened issue [#190](https://github.com/slackhq/slack-gradle-plugin/issues/190) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Kotlin Gradle DSL from plugin class path"
+
 **2022-12-15** — deleted branch `z/agp809` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-15** — merged PR [#183](https://github.com/slackhq/slack-gradle-plugin/pull/183) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update CI to latest AGP versions"
-
-**2022-12-15** — opened PR [#189](https://github.com/slackhq/slack-gradle-plugin/pull/189) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ktfmt to 0.42"
-
-**2022-12-15** — created branch `z/ktfmt042` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-15** — closed issue [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "AGP 8.x support"
-
-**2022-12-15** — commented on [#184](https://github.com/slackhq/slack-gradle-plugin/issues/184#issuecomment-1353559775) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-15** — created tag `0.3.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-15** — commented on [#340](https://github.com/slackhq/circuit/pull/340#issuecomment-1353552506) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-15** — commented on [#2459](https://github.com/JetBrains/compose-jb/issues/2459#issuecomment-1353551812) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
-
-**2022-12-15** — commented on [#2527](https://github.com/JetBrains/compose-jb/pull/2527#issuecomment-1353551645) in [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
