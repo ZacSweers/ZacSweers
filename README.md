@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-17** — opened PR [#192](https://github.com/slackhq/slack-gradle-plugin/pull/192) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing license info to POM"
+
+**2022-12-17** — created branch `z/missingLicense` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2022-12-17** — opened issue [#355](https://github.com/ZacSweers/MoshiX/issues/355) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize compiler argument naming in IR"
+
 **2022-12-16** — opened issue [#6](https://github.com/cdsap/InfoKotlinProcess/issues/6) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "Calculating task graph as configuration cache cannot be reused because a build logic input of type 'CommandLineWithOutputValue' has changed."
 
 **2022-12-15** — deleted branch `z/composeBom` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-15** — commented on [#341](https://github.com/slackhq/circuit/pull/341#issuecomment-1353765403) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-15** — opened PR [#343](https://github.com/slackhq/circuit/pull/343) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing license info to pom"
-
-**2022-12-15** — created branch `z/fixLicenseInfo` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-15** — opened issue [#342](https://github.com/slackhq/circuit/issues/342) on [slackhq/circuit](https://github.com/slackhq/circuit): "Publish license information in POM"
-
-**2022-12-15** — opened issue [#190](https://github.com/slackhq/slack-gradle-plugin/issues/190) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Kotlin Gradle DSL from plugin class path"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
