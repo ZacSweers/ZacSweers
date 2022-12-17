@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-17** — opened PR [#193](https://github.com/slackhq/slack-gradle-plugin/pull/193) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply KotlinCompile configs automatically to stub gen tasks"
+**2022-12-17** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-17** — created branch `z/restrictKotlinCompile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-17** — merged PR [#353](https://github.com/ZacSweers/MoshiX/pull/353) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.42"
 
-**2022-12-17** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-17** — deleted branch `z/optionCleanup` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-17** — merged PR [#191](https://github.com/slackhq/slack-gradle-plugin/pull/191) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.3"
+**2022-12-17** — merged PR [#101](https://github.com/ZacSweers/redacted-compiler-plugin/pull/101) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Standardize options and descriptions"
 
-**2022-12-17** — commented on [#355](https://github.com/ZacSweers/MoshiX/issues/355#issuecomment-1356406061) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-17** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-17** — opened PR [#192](https://github.com/slackhq/slack-gradle-plugin/pull/192) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing license info to POM"
+**2022-12-17** — merged PR [#354](https://github.com/ZacSweers/MoshiX/pull/354) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.3"
 
-**2022-12-17** — created branch `z/missingLicense` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-17** — closed issue [#355](https://github.com/ZacSweers/MoshiX/issues/355) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize compiler argument naming in IR"
 
-**2022-12-17** — opened issue [#355](https://github.com/ZacSweers/MoshiX/issues/355) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize compiler argument naming in IR"
+**2022-12-17** — deleted branch `z/standardizeOptions` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-16** — opened issue [#6](https://github.com/cdsap/InfoKotlinProcess/issues/6) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "Calculating task graph as configuration cache cannot be reused because a build logic input of type 'CommandLineWithOutputValue' has changed."
+**2022-12-17** — merged PR [#356](https://github.com/ZacSweers/MoshiX/pull/356) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize options and descriptions"
 
-**2022-12-15** — deleted branch `z/composeBom` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-17** — deleted branch `z/explicitApi` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
