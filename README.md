@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-17** — commented on [#23130](https://github.com/gradle/gradle/issues/23130#issuecomment-1356656846) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-12-17** — deleted branch `z/gradle8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-17** — merged PR [#360](https://github.com/ZacSweers/CatchUp/pull/360) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Gradle 8 m5"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-17** — closed PR [#358](https://github.com/ZacSweers/CatchUp/pull/358) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-SNAPSHOT"
 
 **2022-12-17** — opened PR [#359](https://github.com/ZacSweers/CatchUp/pull/359) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.8"
-
-**2022-12-17** — created branch `z/kotlin18` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
