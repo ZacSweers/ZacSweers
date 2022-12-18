@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-17** — deleted branch `z/gradle8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-17** — merged PR [#360](https://github.com/ZacSweers/CatchUp/pull/360) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Gradle 8 m5"
+
+**2022-12-17** — opened PR [#360](https://github.com/ZacSweers/CatchUp/pull/360) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Gradle 8 m5"
+
+**2022-12-17** — created branch `z/gradle8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-12-17** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — closed PR [#345](https://github.com/ZacSweers/CatchUp/pull/345) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+**2022-12-17** — closed PR [#357](https://github.com/ZacSweers/CatchUp/pull/357) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2022-12-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-17** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — closed PR [#342](https://github.com/ZacSweers/CatchUp/pull/342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha09"
+**2022-12-17** — closed PR [#358](https://github.com/ZacSweers/CatchUp/pull/358) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-SNAPSHOT"
 
-**2022-12-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-17** — opened PR [#359](https://github.com/ZacSweers/CatchUp/pull/359) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.8"
 
-**2022-12-17** — closed PR [#346](https://github.com/ZacSweers/CatchUp/pull/346) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
-
-**2022-12-17** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-17** — closed PR [#348](https://github.com/ZacSweers/CatchUp/pull/348) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.3.6"
-
-**2022-12-17** — deleted branch `z/composeService` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-17** — merged PR [#334](https://github.com/ZacSweers/CatchUp/pull/334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement services with Circuit+Compose+Paging"
+**2022-12-17** — created branch `z/kotlin18` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
