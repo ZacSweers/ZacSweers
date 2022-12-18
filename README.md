@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-18** — merged PR [#363](https://github.com/ZacSweers/CatchUp/pull/363) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.4.0"
+**2022-12-18** — deleted branch `z/immutableScreens` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-18** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-18** — merged PR [#345](https://github.com/slackhq/circuit/pull/345) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Screen as `@Immutable`"
 
-**2022-12-17** — commented on [#23130](https://github.com/gradle/gradle/issues/23130#issuecomment-1356656846) in [gradle/gradle](https://github.com/gradle/gradle)
+**2022-12-18** — deleted branch `test-renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-17** — deleted branch `z/gradle8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-18** — merged PR [#340](https://github.com/slackhq/circuit/pull/340) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose to v1.2.2 and Kotlin to 1.7.22"
 
-**2022-12-17** — merged PR [#360](https://github.com/ZacSweers/CatchUp/pull/360) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Gradle 8 m5"
+**2022-12-18** — opened PR [#346](https://github.com/slackhq/circuit/pull/346) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing immutable collection types in a bunch of places"
 
-**2022-12-17** — opened PR [#360](https://github.com/ZacSweers/CatchUp/pull/360) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Gradle 8 m5"
+**2022-12-18** — created branch `z/stabilityFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-17** — created branch `z/gradle8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-18** — opened PR [#345](https://github.com/slackhq/circuit/pull/345) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Screen as `@Immutable`"
 
-**2022-12-17** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-18** — created branch `z/immutableScreens` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-17** — closed PR [#357](https://github.com/ZacSweers/CatchUp/pull/357) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+**2022-12-18** — opened issue [#14](https://github.com/PatilShreyas/compose-report-to-html/issues/14) on [PatilShreyas/compose-report-to-html](https://github.com/PatilShreyas/compose-report-to-html): "Feature request: Don't download Java when running the NPM artifact"
 
-**2022-12-17** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-18** — deleted branch `test-renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
