@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-17** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-17** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — merged PR [#353](https://github.com/ZacSweers/MoshiX/pull/353) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.42"
+**2022-12-17** — closed PR [#345](https://github.com/ZacSweers/CatchUp/pull/345) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2022-12-17** — deleted branch `z/optionCleanup` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — merged PR [#101](https://github.com/ZacSweers/redacted-compiler-plugin/pull/101) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Standardize options and descriptions"
+**2022-12-17** — closed PR [#342](https://github.com/ZacSweers/CatchUp/pull/342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha09"
 
-**2022-12-17** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — merged PR [#354](https://github.com/ZacSweers/MoshiX/pull/354) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.3"
+**2022-12-17** — closed PR [#346](https://github.com/ZacSweers/CatchUp/pull/346) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 
-**2022-12-17** — closed issue [#355](https://github.com/ZacSweers/MoshiX/issues/355) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize compiler argument naming in IR"
+**2022-12-17** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — deleted branch `z/standardizeOptions` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2022-12-17** — closed PR [#348](https://github.com/ZacSweers/CatchUp/pull/348) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.3.6"
 
-**2022-12-17** — merged PR [#356](https://github.com/ZacSweers/MoshiX/pull/356) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Standardize options and descriptions"
+**2022-12-17** — deleted branch `z/composeService` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-17** — deleted branch `z/explicitApi` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-17** — merged PR [#334](https://github.com/ZacSweers/CatchUp/pull/334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement services with Circuit+Compose+Paging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
