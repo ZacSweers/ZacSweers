@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-18** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-19** — commented on [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166#issuecomment-1357109114) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — closed PR [#108](https://github.com/ZacSweers/kotlin-compile-testing/pull/108) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+**2022-12-19** — created tag `0.3.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-18** — commented on [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166#issuecomment-1357092252) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — merged PR [#109](https://github.com/ZacSweers/kotlin-compile-testing/pull/109) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin com.gradle.enterprise to v3.12"
+**2022-12-18** — deleted branch `z/ktfmt042` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-18** — merged PR [#189](https://github.com/slackhq/slack-gradle-plugin/pull/189) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ktfmt to 0.42"
 
-**2022-12-18** — merged PR [#107](https://github.com/ZacSweers/kotlin-compile-testing/pull/107) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v4.10.0"
+**2022-12-18** — deleted branch `z/missingLicense` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — deleted branch `renovate/io.github.classgraph` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2022-12-18** — merged PR [#192](https://github.com/slackhq/slack-gradle-plugin/pull/192) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing license info to POM"
 
-**2022-12-18** — merged PR [#106](https://github.com/ZacSweers/kotlin-compile-testing/pull/106) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.152"
+**2022-12-18** — deleted branch `z/restrictKotlinCompile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-18** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2022-12-18** — merged PR [#193](https://github.com/slackhq/slack-gradle-plugin/pull/193) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply KotlinCompile configs automatically to stub gen tasks"
 
-**2022-12-18** — merged PR [#100](https://github.com/ZacSweers/redacted-compiler-plugin/pull/100) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.42"
+**2022-12-18** — commented on [#193](https://github.com/slackhq/slack-gradle-plugin/pull/193#issuecomment-1357091694) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
