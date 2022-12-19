@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2022-12-19** — [Improving Your Gradle Workflow by Not Auto-reloading Build Files](https://www.zacsweers.dev/improving-your-workflow-by-not-auto-reloading-build-files/)
+
 **2022-11-30** — [Android Studio's "I'm Feeling Lucky" Button](https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/)
 
 **2022-11-22** — [Network Calls in Lint: Best Practices](https://www.zacsweers.dev/network-calls-in-lint-best-practices/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-01-29** — [Kapt's Hidden Test Costs](https://www.zacsweers.dev/kapts-hidden-test-costs/)
 
 **2020-07-13** — [Time in UI Programming](https://www.zacsweers.dev/time-in-ui/)
-
-**2020-07-08** — [Tick Tock: Desugaring and Timezones](https://www.zacsweers.dev/ticktock-desugaring-timezones/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
