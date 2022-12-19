@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-19** — commented on [#14](https://github.com/PatilShreyas/compose-report-to-html/issues/14#issuecomment-1357250342) in [PatilShreyas/compose-report-to-html](https://github.com/PatilShreyas/compose-report-to-html)
+
+**2022-12-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-19** — merged PR [#364](https://github.com/ZacSweers/CatchUp/pull/364) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.3.7"
+
 **2022-12-19** — deleted branch `z/stabilityFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-19** — merged PR [#346](https://github.com/slackhq/circuit/pull/346) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing immutable collection types in a bunch of places"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-18** — deleted branch `z/ktfmt042` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2022-12-18** — merged PR [#189](https://github.com/slackhq/slack-gradle-plugin/pull/189) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ktfmt to 0.42"
-
-**2022-12-18** — deleted branch `z/missingLicense` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2022-12-18** — merged PR [#192](https://github.com/slackhq/slack-gradle-plugin/pull/192) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add missing license info to POM"
-
-**2022-12-18** — deleted branch `z/restrictKotlinCompile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
