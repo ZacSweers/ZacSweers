@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-19** — commented on [#14](https://github.com/PatilShreyas/compose-report-to-html/issues/14#issuecomment-1357250342) in [PatilShreyas/compose-report-to-html](https://github.com/PatilShreyas/compose-report-to-html)
+**2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-19** — closed PR [#373](https://github.com/ZacSweers/CatchUp/pull/373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 
-**2022-12-19** — merged PR [#364](https://github.com/ZacSweers/CatchUp/pull/364) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.3.7"
+**2022-12-19** — closed issue [#48](https://github.com/ZacSweers/CatchUp/issues/48) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improving perf in list load"
 
-**2022-12-19** — deleted branch `z/stabilityFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-19** — closed issue [#59](https://github.com/ZacSweers/CatchUp/issues/59) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Paging breaks with proguard code optimization"
 
-**2022-12-19** — merged PR [#346](https://github.com/slackhq/circuit/pull/346) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add missing immutable collection types in a bunch of places"
+**2022-12-19** — closed issue [#120](https://github.com/ZacSweers/CatchUp/issues/120) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Marks aren't re-shown if not null later"
 
-**2022-12-19** — commented on [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166#issuecomment-1357109114) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-19** — closed issue [#125](https://github.com/ZacSweers/CatchUp/issues/125) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Duplicate Reddit post in the feed"
 
-**2022-12-19** — created tag `0.3.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-18** — commented on [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166#issuecomment-1357092252) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-19** — closed issue [#243](https://github.com/ZacSweers/CatchUp/issues/243) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Configuration caching issues"
 
-**2022-12-18** — deleted branch `z/ktfmt042` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2022-12-19** — closed PR [#372](https://github.com/ZacSweers/CatchUp/pull/372) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 
-**2022-12-18** — merged PR [#189](https://github.com/slackhq/slack-gradle-plugin/pull/189) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ktfmt to 0.42"
+**2022-12-19** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
