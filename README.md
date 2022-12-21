@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-21** — opened PR [#349](https://github.com/slackhq/circuit/pull/349) to [slackhq/circuit](https://github.com/slackhq/circuit): "Manually handle config changes in star sample"
+
+**2022-12-21** — created branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-12-21** — commented on [#23130](https://github.com/gradle/gradle/issues/23130#issuecomment-1361728553) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2022-12-20** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-19** — closed PR [#373](https://github.com/ZacSweers/CatchUp/pull/373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
 
 **2022-12-19** — closed issue [#48](https://github.com/ZacSweers/CatchUp/issues/48) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improving perf in list load"
-
-**2022-12-19** — closed issue [#59](https://github.com/ZacSweers/CatchUp/issues/59) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Paging breaks with proguard code optimization"
-
-**2022-12-19** — closed issue [#120](https://github.com/ZacSweers/CatchUp/issues/120) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Marks aren't re-shown if not null later"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
