@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-21** — commented on [#23130](https://github.com/gradle/gradle/issues/23130#issuecomment-1361728553) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2022-12-20** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-20** — merged PR [#375](https://github.com/ZacSweers/CatchUp/pull/375) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-19** — closed issue [#59](https://github.com/ZacSweers/CatchUp/issues/59) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Paging breaks with proguard code optimization"
 
 **2022-12-19** — closed issue [#120](https://github.com/ZacSweers/CatchUp/issues/120) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Marks aren't re-shown if not null later"
-
-**2022-12-19** — closed issue [#125](https://github.com/ZacSweers/CatchUp/issues/125) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Duplicate Reddit post in the feed"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
