@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-20** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-20** — merged PR [#375](https://github.com/ZacSweers/CatchUp/pull/375) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.3"
+
+**2022-12-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-20** — merged PR [#376](https://github.com/ZacSweers/CatchUp/pull/376) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.1"
+
 **2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-19** — closed PR [#373](https://github.com/ZacSweers/CatchUp/pull/373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-19** — closed issue [#120](https://github.com/ZacSweers/CatchUp/issues/120) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Marks aren't re-shown if not null later"
 
 **2022-12-19** — closed issue [#125](https://github.com/ZacSweers/CatchUp/issues/125) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Duplicate Reddit post in the feed"
-
-**2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-19** — closed issue [#243](https://github.com/ZacSweers/CatchUp/issues/243) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Configuration caching issues"
-
-**2022-12-19** — closed PR [#372](https://github.com/ZacSweers/CatchUp/pull/372) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
-
-**2022-12-19** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
