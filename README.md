@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-21** — opened PR [#350](https://github.com/slackhq/circuit/pull/350) to [slackhq/circuit](https://github.com/slackhq/circuit): "Scrape pet bios from pet finder"
+
+**2022-12-21** — created branch `z/scrapingDetails` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-12-21** — opened PR [#349](https://github.com/slackhq/circuit/pull/349) to [slackhq/circuit](https://github.com/slackhq/circuit): "Manually handle config changes in star sample"
 
 **2022-12-21** — created branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-20** — merged PR [#376](https://github.com/ZacSweers/CatchUp/pull/376) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.1"
 
 **2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-19** — closed PR [#373](https://github.com/ZacSweers/CatchUp/pull/373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
-
-**2022-12-19** — closed issue [#48](https://github.com/ZacSweers/CatchUp/issues/48) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improving perf in list load"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
