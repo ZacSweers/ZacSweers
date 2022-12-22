@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-21** — opened PR [#195](https://github.com/slackhq/slack-gradle-plugin/pull/195) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.0-alpha10 and further backport packagingOptions changes"
+
+**2022-12-21** — created branch `z/packagingOptionsChange` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-21** — opened PR [#350](https://github.com/slackhq/circuit/pull/350) to [slackhq/circuit](https://github.com/slackhq/circuit): "Scrape pet bios from pet finder"
 
 **2022-12-21** — created branch `z/scrapingDetails` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-20** — merged PR [#375](https://github.com/ZacSweers/CatchUp/pull/375) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.3"
 
 **2022-12-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-20** — merged PR [#376](https://github.com/ZacSweers/CatchUp/pull/376) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.1"
-
-**2022-12-19** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
