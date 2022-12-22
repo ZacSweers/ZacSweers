@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-22** — opened PR [#352](https://github.com/slackhq/circuit/pull/352) to [slackhq/circuit](https://github.com/slackhq/circuit): "Don't require manual wiring for backing viewmodels"
+
+**2022-12-22** — created branch `z/noManualVmWiring` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2022-12-22** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-22** — merged PR [#331](https://github.com/slackhq/circuit/pull/331) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-22** — opened issue [#351](https://github.com/slackhq/circuit/issues/351) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample filter can get into a bad state"
 
 **2022-12-22** — deleted branch `z/scrapingDetails` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-22** — merged PR [#350](https://github.com/slackhq/circuit/pull/350) to [slackhq/circuit](https://github.com/slackhq/circuit): "Scrape pet bios from pet finder"
-
-**2022-12-21** — opened PR [#195](https://github.com/slackhq/slack-gradle-plugin/pull/195) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.0-alpha10 and further backport packagingOptions changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
