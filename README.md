@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-22** — opened PR [#379](https://github.com/ZacSweers/CatchUp/pull/379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Circuit 0.5.0"
+
+**2022-12-22** — created branch `z/circuit050` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-22** — commented on [#166](https://github.com/slackhq/slack-gradle-plugin/pull/166#issuecomment-1363403184) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2022-12-22** — deleted branch `z/randomStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-22** — merged PR [#378](https://github.com/ZacSweers/CatchUp/pull/378) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Random stuff"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-22** — opened PR [#378](https://github.com/ZacSweers/CatchUp/pull/378) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Random stuff"
-
-**2022-12-22** — created branch `z/randomStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2022-12-22** — created tag `0.5.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-22** — deleted branch `z/localCircuitConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
