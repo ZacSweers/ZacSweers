@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-22** — opened PR [#352](https://github.com/slackhq/circuit/pull/352) to [slackhq/circuit](https://github.com/slackhq/circuit): "Don't require manual wiring for backing viewmodels"
+**2022-12-22** — deleted branch `z/randomStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-22** — created branch `z/noManualVmWiring` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-22** — merged PR [#378](https://github.com/ZacSweers/CatchUp/pull/378) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Random stuff"
 
-**2022-12-22** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-22** — merged PR [#331](https://github.com/slackhq/circuit/pull/331) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12"
+**2022-12-22** — merged PR [#374](https://github.com/ZacSweers/CatchUp/pull/374) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0-milestone-6"
 
-**2022-12-22** — reopened PR [#331](https://github.com/slackhq/circuit/pull/331) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12"
+**2022-12-22** — closed PR [#377](https://github.com/ZacSweers/CatchUp/pull/377) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha10"
 
-**2022-12-22** — created branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-22** — closed PR [#331](https://github.com/slackhq/circuit/pull/331) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12"
+**2022-12-22** — opened PR [#378](https://github.com/ZacSweers/CatchUp/pull/378) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Random stuff"
 
-**2022-12-22** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-22** — created branch `z/randomStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-22** — opened issue [#351](https://github.com/slackhq/circuit/issues/351) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample filter can get into a bad state"
+**2022-12-22** — created tag `0.5.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-22** — deleted branch `z/scrapingDetails` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-22** — deleted branch `z/localCircuitConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
