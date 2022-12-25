@@ -36,7 +36,7 @@ tasks.withType<KotlinCompile>().configureEach {
     freeCompilerArgs.addAll(
       "-Xjsr305=strict",
       "-progressive",
-      "-Xopt-in=kotlin.ExperimentalStdlibApi"
+      "-opt-in=kotlin.ExperimentalStdlibApi"
     )
   }
 }
@@ -73,6 +73,7 @@ tasks.named<Jar>("jar") {
     configurations.compileClasspath.get().filter { it.exists() }
       .map { if (it.isDirectory()) it else zipTree(it) }
   })
+  duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }
 
 dependencies {
