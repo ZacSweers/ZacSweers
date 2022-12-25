@@ -27,4 +27,4 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = 'zacsweers-root'
+rootProject.name = "zacsweers-root"
