@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-25** — deleted branch `renovate/okhttp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-25** — merged PR [#380](https://github.com/ZacSweers/CatchUp/pull/380) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp to v5.0.0-alpha.11"
+
 **2022-12-23** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-23** — merged PR [#357](https://github.com/slackhq/circuit/pull/357) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.18.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-22** — deleted branch `z/circuit050` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2022-12-22** — merged PR [#379](https://github.com/ZacSweers/CatchUp/pull/379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Circuit 0.5.0"
-
-**2022-12-22** — opened PR [#379](https://github.com/ZacSweers/CatchUp/pull/379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Circuit 0.5.0"
-
-**2022-12-22** — created branch `z/circuit050` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
