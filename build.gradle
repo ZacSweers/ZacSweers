@@ -15,17 +15,13 @@
  */
 
 plugins {
-  id 'org.jetbrains.kotlin.jvm' version "1.6.10"
-  id 'org.jetbrains.kotlin.kapt' version "1.6.10"
-  id 'com.google.devtools.ksp' version "1.6.10-1.0.2"
+  id 'org.jetbrains.kotlin.jvm' version "1.8.0-RC2"
+  id 'org.jetbrains.kotlin.kapt' version "1.8.0-RC2"
+  id 'com.google.devtools.ksp' version "1.8.0-RC2-1.0.8"
   id 'application'
-  id 'com.diffplug.spotless' version "6.1.0"
-  id "com.github.ben-manes.versions" version "0.39.0"
-  id 'dev.zacsweers.moshix' version '0.16.0'
-}
-
-repositories {
-  mavenCentral()
+  id 'com.diffplug.spotless' version "6.12.0"
+  id "com.github.ben-manes.versions" version "0.44.0"
+  id 'dev.zacsweers.moshix' version '0.20.0-1.8.0-Beta01'
 }
 
 moshi {
@@ -81,13 +77,13 @@ dependencies {
   kapt 'com.tickaroo.tikxml:processor:0.8.13'
 
   implementation "com.github.ajalt:clikt:2.8.0"
-  implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
-  implementation 'com.squareup.okio:okio:3.0.0'
-  implementation "com.squareup.okhttp3:okhttp:5.0.0-alpha.2"
+  implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4"
+  implementation 'com.squareup.okio:okio:3.2.0'
+  implementation "com.squareup.okhttp3:okhttp:5.0.0-alpha.11"
   implementation "com.squareup.retrofit2:retrofit:2.9.0"
   implementation "com.squareup.retrofit2:converter-moshi:2.9.0"
-  implementation "com.squareup.moshi:moshi:1.13.0"
-  implementation "com.squareup.moshi:moshi-adapters:1.13.0"
+  implementation "com.squareup.moshi:moshi:1.14.0"
+  implementation "com.squareup.moshi:moshi-adapters:1.14.0"
 
   // XML serialization
   implementation 'com.tickaroo.tikxml:annotation:0.8.13'

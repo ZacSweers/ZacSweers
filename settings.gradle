@@ -21,4 +21,10 @@ pluginManagement {
   }
 }
 
+dependencyResolutionManagement {
+  repositories {
+    mavenCentral()
+  }
+}
+
 rootProject.name = 'zacsweers-root'
