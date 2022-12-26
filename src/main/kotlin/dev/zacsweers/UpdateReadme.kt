@@ -8,6 +8,7 @@ import com.squareup.moshi.Moshi
 import com.tickaroo.tikxml.TikXml
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
+import retrofit2.HttpException
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -43,7 +44,14 @@ private fun fetchBlogActivity(
       .build()
   )
 
-  return runBlocking { blogApi.main().channel }.itemList
+  return runBlocking {
+    try {
+      blogApi.main().channel
+    } catch (e: HttpException) {
+      System.err.println(e.response()?.errorBody()?.string())
+      throw e
+    }
+  }.itemList
     .map { entry ->
       ActivityItem(
         text = "[${entry.title}](${entry.link})",
@@ -70,12 +78,14 @@ private fun fetchGithubActivity(
             event.createdAt
           )
         }
+
         is IssueCommentEventPayload -> {
           ActivityItem(
             "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
             event.createdAt
           )
         }
+
         is PullRequestPayload -> {
           val action = if (payload.pullRequest.merged == true) "merged" else payload.action
           ActivityItem(
@@ -83,12 +93,14 @@ private fun fetchGithubActivity(
             event.createdAt
           )
         }
+
         is CreateEvent -> {
           ActivityItem(
             "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
             event.createdAt
           )
         }
+
         is DeleteEvent -> {
           ActivityItem(
             "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
