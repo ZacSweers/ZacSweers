@@ -17,13 +17,13 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
-  kotlin("jvm") version "1.8.0-RC2"
-  kotlin("kapt") version "1.8.0-RC2"
-  id("com.google.devtools.ksp") version "1.8.0-RC2-1.0.8"
+  alias(libs.plugins.kotlin.jvm)
+  alias(libs.plugins.kotlin.kapt)
+  alias(libs.plugins.ksp)
   `application`
-  id("com.diffplug.spotless") version "6.12.0"
-  id("com.github.ben-manes.versions") version "0.44.0"
-  id("dev.zacsweers.moshix") version "0.20.0-1.8.0-Beta01"
+  alias(libs.plugins.spotless)
+  alias(libs.plugins.versions)
+  alias(libs.plugins.moshix)
 }
 
 moshi {
@@ -77,20 +77,20 @@ tasks.named<Jar>("jar") {
 }
 
 dependencies {
-  kapt("com.tickaroo.tikxml:processor:0.8.13")
+  kapt(libs.tikxml.processor)
 
-  implementation("com.github.ajalt:clikt:2.8.0")
-  implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
-  implementation("com.squareup.okio:okio:3.2.0")
-  implementation("com.squareup.okhttp3:okhttp:5.0.0-alpha.11")
-  implementation("com.squareup.retrofit2:retrofit:2.9.0")
-  implementation("com.squareup.retrofit2:converter-moshi:2.9.0")
-  implementation("com.squareup.moshi:moshi:1.14.0")
-  implementation("com.squareup.moshi:moshi-adapters:1.14.0")
+  implementation(libs.clikt)
+  implementation(libs.coroutines)
+  implementation(libs.okio)
+  implementation(libs.okhttp)
+  implementation(libs.retrofit)
+  implementation(libs.retrofit.moshi)
+  implementation(libs.moshi)
+  implementation(libs.moshi.adapters)
 
   // XML serialization
-  implementation("com.tickaroo.tikxml:annotation:0.8.13")
-  implementation("com.tickaroo.tikxml:core:0.8.13")
-  implementation("com.tickaroo.tikxml:retrofit-converter:0.8.13")
-  implementation("com.tickaroo.tikxml:converter-htmlescape:0.8.13")
+  implementation(libs.tikxml.annotation)
+  implementation(libs.tikxml.core)
+  implementation(libs.tikxml.retrofit)
+  implementation(libs.tikxml.htmlescape)
 }
