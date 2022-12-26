@@ -1,0 +1,28 @@
+[versions]
+kotlin = "1.8.0-RC2"
+moshi = "1.14.0"
+retrofit = "2.9.0"
+tikxml = "0.8.13"
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version = "1.8.0-RC2-1.0.8" }
+moshix = { id = "dev.zacsweers.moshix", version = "0.20.0-1.8.0-Beta01" }
+spotless = { id = "com.diffplug.spotless", version = "6.12.0" }
+versions = { id = "com.github.ben-manes.versions", version = "0.44.0" }
+
+[libraries]
+clikt = "com.github.ajalt:clikt:2.8.0"
+coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4"
+moshi = { module = "com.squareup.moshi:moshi", version.ref = "moshi" }
+moshi-adapters = { module = "com.squareup.moshi:moshi-adapters", version.ref = "moshi" }
+okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.11"
+okio = "com.squareup.okio:okio:3.2.0"
+retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
+retrofit-moshi = { module = "com.squareup.retrofit2:converter-moshi", version.ref = "retrofit" }
+tikxml-annotation = { module = "com.tickaroo.tikxml:annotation", version.ref = "tikxml" }
+tikxml-core = { module = "com.tickaroo.tikxml:core", version.ref = "tikxml" }
+tikxml-htmlescape = { module = "com.tickaroo.tikxml:converter-htmlescape", version.ref = "tikxml" }
+tikxml-processor = { module = "com.tickaroo.tikxml:processor", version.ref = "tikxml" }
+tikxml-retrofit = { module = "com.tickaroo.tikxml:retrofit-converter", version.ref = "tikxml" }
