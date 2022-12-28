@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-28** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-12-28** — merged PR [#96](https://github.com/ZacSweers/redacted-compiler-plugin/pull/96) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.22.0"
+
 **2022-12-28** — deleted branch `z/fixartifactid` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-28** — merged PR [#357](https://github.com/ZacSweers/MoshiX/pull/357) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix artifact ID setting"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2022-12-28** — closed PR [#110](https://github.com/ZacSweers/kotlin-compile-testing/pull/110) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2022-12-28** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-28** — merged PR [#111](https://github.com/ZacSweers/kotlin-compile-testing/pull/111) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin com.gradle.enterprise to v3.12.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
