@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-28** — deleted branch `test-renovate/com.github.ajalt.clikt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-28** — deleted branch `z/fixartifactid` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-28** — merged PR [#358](https://github.com/slackhq/circuit/pull/358) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ajalt.clikt:clikt to v3.5.1"
+**2022-12-28** — merged PR [#357](https://github.com/ZacSweers/MoshiX/pull/357) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix artifact ID setting"
 
-**2022-12-28** — deleted branch `test-renovate/robolectric` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2022-12-28** — opened PR [#357](https://github.com/ZacSweers/MoshiX/pull/357) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix artifact ID setting"
 
-**2022-12-28** — merged PR [#359](https://github.com/slackhq/circuit/pull/359) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.robolectric:robolectric to v4.9.2"
+**2022-12-28** — created branch `z/fixartifactid` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-28** — opened issue [#381](https://github.com/ZacSweers/CatchUp/issues/381) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate Unfurl"
+**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-26** — deleted branch `z/updates` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2022-12-28** — closed PR [#104](https://github.com/ZacSweers/redacted-compiler-plugin/pull/104) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.0"
 
-**2022-12-26** — merged PR [#6](https://github.com/ZacSweers/ZacSweers/pull/6) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Updates"
+**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-25** — opened PR [#6](https://github.com/ZacSweers/ZacSweers/pull/6) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Updates"
+**2022-12-28** — closed PR [#110](https://github.com/ZacSweers/kotlin-compile-testing/pull/110) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
-**2022-12-25** — created branch `z/updates` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2022-12-28** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2022-12-25** — deleted branch `renovate/okhttp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-28** — merged PR [#111](https://github.com/ZacSweers/kotlin-compile-testing/pull/111) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin com.gradle.enterprise to v3.12.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
