@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-29** — created tag `0.21.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-28** — deleted branch `z/jvmTarget11` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-28** — merged PR [#359](https://github.com/ZacSweers/MoshiX/pull/359) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to JVM target 11"
+
+**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2022-12-28** — closed PR [#106](https://github.com/ZacSweers/redacted-compiler-plugin/pull/106) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlin:kotlin-annotation-processing-embeddable to v1.8.0"
+
 **2022-12-28** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-12-28** — closed PR [#105](https://github.com/ZacSweers/redacted-compiler-plugin/pull/105) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.0-1.0.8"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-28** — merged PR [#87](https://github.com/ZacSweers/redacted-compiler-plugin/pull/87) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8"
 
 **2022-12-28** — opened PR [#359](https://github.com/ZacSweers/MoshiX/pull/359) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to JVM target 11"
-
-**2022-12-28** — created branch `z/jvmTarget11` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-28** — deleted branch `z/kotlin18` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-28** — merged PR [#352](https://github.com/ZacSweers/MoshiX/pull/352) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.8.0 support"
-
-**2022-12-28** — created tag `0.2.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-28** — deleted branch `z/kotlin18` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
