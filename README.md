@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-28** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1366967227) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2022-12-28** — closed PR [#114](https://github.com/ZacSweers/kotlin-compile-testing/pull/114) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2022-12-28** — opened PR [#383](https://github.com/ZacSweers/CatchUp/pull/383) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement About screen in Circuit and Compose"
+
+**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2022-12-28** — closed PR [#382](https://github.com/ZacSweers/CatchUp/pull/382) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.8.0"
+
+**2022-12-28** — created branch `z/aboutCircuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2022-12-28** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2022-12-28** — merged PR [#96](https://github.com/ZacSweers/redacted-compiler-plugin/pull/96) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.22.0"
 
 **2022-12-28** — deleted branch `z/fixartifactid` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-28** — merged PR [#357](https://github.com/ZacSweers/MoshiX/pull/357) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix artifact ID setting"
-
-**2022-12-28** — opened PR [#357](https://github.com/ZacSweers/MoshiX/pull/357) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix artifact ID setting"
-
-**2022-12-28** — created branch `z/fixartifactid` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-28** — closed PR [#104](https://github.com/ZacSweers/redacted-compiler-plugin/pull/104) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.0"
-
-**2022-12-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2022-12-28** — closed PR [#110](https://github.com/ZacSweers/kotlin-compile-testing/pull/110) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
