@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-29** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2022-12-29** — closed PR [#384](https://github.com/ZacSweers/CatchUp/pull/384) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.0-1.0.8"
+**2022-12-29** — merged PR [#1430](https://github.com/square/kotlinpoet/pull/1430) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin mavenPublish to v0.23.0"
 
-**2022-12-29** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-29** — closed PR [#385](https://github.com/ZacSweers/CatchUp/pull/385) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update moshix to v0.21.0"
+**2022-12-29** — merged PR [#107](https://github.com/ZacSweers/redacted-compiler-plugin/pull/107) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.23.0"
 
-**2022-12-29** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-29** — closed PR [#386](https://github.com/ZacSweers/CatchUp/pull/386) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.3.0"
+**2022-12-29** — merged PR [#361](https://github.com/ZacSweers/MoshiX/pull/361) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.23.0"
 
-**2022-12-29** — deleted branch `z/kotlin18` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2022-12-29** — merged PR [#198](https://github.com/slackhq/slack-gradle-plugin/pull/198) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.3.0"
 
-**2022-12-29** — merged PR [#359](https://github.com/ZacSweers/CatchUp/pull/359) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.8"
+**2022-12-29** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-29** — commented on [#57](https://github.com/slackhq/EitherNet/pull/57#issuecomment-1367412413) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2022-12-29** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2022-12-29** — deleted branch `z/updates` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2022-12-29** — closed PR [#199](https://github.com/slackhq/slack-gradle-plugin/pull/199) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
