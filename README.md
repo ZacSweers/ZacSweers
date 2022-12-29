@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-29** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2022-12-29** — merged PR [#360](https://github.com/ZacSweers/MoshiX/pull/360) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.21.0"
+
 **2022-12-29** — created tag `0.21.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2022-12-28** — deleted branch `z/jvmTarget11` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-28** — closed PR [#105](https://github.com/ZacSweers/redacted-compiler-plugin/pull/105) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.0-1.0.8"
 
 **2022-12-28** — deleted branch `z/kotlin18` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-28** — merged PR [#87](https://github.com/ZacSweers/redacted-compiler-plugin/pull/87) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8"
-
-**2022-12-28** — opened PR [#359](https://github.com/ZacSweers/MoshiX/pull/359) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to JVM target 11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
