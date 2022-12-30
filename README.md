@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-30** — created tag `1.3.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-12-29** — commented on [#360](https://github.com/slackhq/circuit/pull/360#issuecomment-1367570625) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-29** — opened PR [#669](https://github.com/square/anvil/pull/669) to [square/anvil](https://github.com/square/anvil): "Update to Kotlin 1.8.0 (+ KCT) final"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-29** — merged PR [#1430](https://github.com/square/kotlinpoet/pull/1430) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin mavenPublish to v0.23.0"
 
 **2022-12-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2022-12-29** — merged PR [#107](https://github.com/ZacSweers/redacted-compiler-plugin/pull/107) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.23.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
