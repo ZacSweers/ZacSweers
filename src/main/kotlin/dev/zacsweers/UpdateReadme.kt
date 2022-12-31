@@ -6,9 +6,10 @@ import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
 import com.squareup.moshi.Moshi
 import com.tickaroo.tikxml.TikXml
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
-import retrofit2.HttpException
+import java.io.IOException
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -45,21 +46,42 @@ private fun fetchBlogActivity(
   )
 
   return runBlocking {
-    try {
-      blogApi.main().channel
-    } catch (e: HttpException) {
-      System.err.println(e.response()?.errorBody()?.string())
-      throw e
+    retryIO(5) {
+      blogApi.main()
+        .channel
+        .itemList
+        .map { entry ->
+          ActivityItem(
+            text = "[${entry.title}](${entry.link})",
+            timestamp = entry.pubDate
+          )
+        }
+        .take(10)
     }
-  }.itemList
-    .map { entry ->
-      ActivityItem(
-        text = "[${entry.title}](${entry.link})",
-        timestamp = entry.pubDate
-      )
-    }
-    .take(10)
+  }
 }
+
+private suspend fun <T> retryIO(
+  times: Int,
+  initialDelay: Long = 1000, // 1 second
+  maxDelay: Long = 5000,     // 5 second
+  factor: Double = 2.0,
+  block: suspend () -> T
+): T {
+  var currentDelay = initialDelay
+  repeat(times - 1) {
+    try {
+      return block()
+    } catch (e: IOException) {
+      // you can log an error here and/or make a more finer-grained
+      // analysis of the cause to see if retry is needed
+    }
+    delay(currentDelay)
+    currentDelay = (currentDelay * factor).toLong().coerceAtMost(maxDelay)
+  }
+  return block() // last attempt
+}
+
 
 private fun fetchGithubActivity(
   client: OkHttpClient
