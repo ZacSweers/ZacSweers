@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-31** — commented on [#58](https://github.com/slackhq/EitherNet/issues/58#issuecomment-1368263561) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2022-12-31** — closed issue [#58](https://github.com/slackhq/EitherNet/issues/58) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] v1.3.0 published with invalid Gradle Module Metadata"
+
+**2022-12-31** — created tag `1.3.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-12-31** — commented on [#58](https://github.com/slackhq/EitherNet/issues/58#issuecomment-1368261190) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2022-12-31** — deleted branch `revert-360-test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-31** — opened PR [#365](https://github.com/slackhq/circuit/pull/365) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update dependency dev.zacsweers.moshix to v0.21.0""
 
 **2022-12-31** — created branch `revert-360-test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-31** — commented on [#360](https://github.com/slackhq/circuit/pull/360#issuecomment-1368253784) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-31** — opened PR [#364](https://github.com/slackhq/circuit/pull/364) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update kotlin to v1.8.0""
-
-**2022-12-31** — created branch `revert-361-test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
