@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-31** — commented on [#58](https://github.com/slackhq/EitherNet/issues/58#issuecomment-1368261190) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2022-12-31** — deleted branch `revert-360-test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-31** — merged PR [#365](https://github.com/slackhq/circuit/pull/365) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update dependency dev.zacsweers.moshix to v0.21.0""
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-31** — opened PR [#364](https://github.com/slackhq/circuit/pull/364) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update kotlin to v1.8.0""
 
 **2022-12-31** — created branch `revert-361-test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-31** — commented on [#361](https://github.com/slackhq/circuit/pull/361#issuecomment-1368253746) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
