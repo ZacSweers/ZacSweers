@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-31** — commented on [#670](https://github.com/square/anvil/issues/670#issuecomment-1368292951) in [square/anvil](https://github.com/square/anvil)
+
 **2022-12-31** — deleted branch `test-renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2022-12-31** — merged PR [#362](https://github.com/slackhq/circuit/pull/362) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.23.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-31** — merged PR [#365](https://github.com/slackhq/circuit/pull/365) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update dependency dev.zacsweers.moshix to v0.21.0""
 
 **2022-12-31** — deleted branch `revert-361-test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2022-12-31** — merged PR [#364](https://github.com/slackhq/circuit/pull/364) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update kotlin to v1.8.0""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
