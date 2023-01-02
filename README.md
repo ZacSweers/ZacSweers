@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2022-12-31** — commented on [#670](https://github.com/square/anvil/issues/670#issuecomment-1368292951) in [square/anvil](https://github.com/square/anvil)
+**2023-01-02** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2022-12-31** — deleted branch `test-renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-02** — merged PR [#388](https://github.com/ZacSweers/CatchUp/pull/388) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.12.1"
 
-**2022-12-31** — merged PR [#362](https://github.com/slackhq/circuit/pull/362) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.23.1"
+**2023-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2022-12-31** — commented on [#58](https://github.com/slackhq/EitherNet/issues/58#issuecomment-1368263561) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-01-02** — merged PR [#363](https://github.com/ZacSweers/MoshiX/pull/363) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.12.1"
 
-**2022-12-31** — closed issue [#58](https://github.com/slackhq/EitherNet/issues/58) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "[BUG] v1.3.0 published with invalid Gradle Module Metadata"
+**2023-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2022-12-31** — created tag `1.3.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-01-02** — merged PR [#109](https://github.com/ZacSweers/redacted-compiler-plugin/pull/109) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.12.1"
 
-**2022-12-31** — commented on [#58](https://github.com/slackhq/EitherNet/issues/58#issuecomment-1368261190) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-01-02** — merged PR [#366](https://github.com/slackhq/circuit/pull/366) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.12.1"
 
-**2022-12-31** — deleted branch `revert-360-test-renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-02** — deleted branch `test-renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-31** — merged PR [#365](https://github.com/slackhq/circuit/pull/365) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Update dependency dev.zacsweers.moshix to v0.21.0""
+**2023-01-02** — deleted branch `test-renovate/pygments-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2022-12-31** — deleted branch `revert-361-test-renovate/kotlin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-02** — merged PR [#367](https://github.com/slackhq/circuit/pull/367) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Pygments to v2.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
