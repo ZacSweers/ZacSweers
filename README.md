@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-02** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-02** — merged PR [#200](https://github.com/slackhq/slack-gradle-plugin/pull/200) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.23.1"
+
+**2023-01-02** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-02** — merged PR [#202](https://github.com/slackhq/slack-gradle-plugin/pull/202) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.12.1"
+
+**2023-01-02** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-02** — merged PR [#201](https://github.com/slackhq/slack-gradle-plugin/pull/201) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.21.0"
+
 **2023-01-02** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-02** — merged PR [#388](https://github.com/ZacSweers/CatchUp/pull/388) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.12.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-02** — merged PR [#363](https://github.com/ZacSweers/MoshiX/pull/363) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.12.1"
-
-**2023-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-01-02** — merged PR [#109](https://github.com/ZacSweers/redacted-compiler-plugin/pull/109) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.12.1"
-
-**2023-01-02** — merged PR [#366](https://github.com/slackhq/circuit/pull/366) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.12.1"
-
-**2023-01-02** — deleted branch `test-renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-02** — deleted branch `test-renovate/pygments-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-02** — merged PR [#367](https://github.com/slackhq/circuit/pull/367) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Pygments to v2.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
