@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-03** — deleted branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-03** — closed PR [#184](https://github.com/slackhq/circuit/pull/184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support material 3 dynamic theming in star app"
+
+**2023-01-03** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-03** — closed PR [#225](https://github.com/slackhq/circuit/pull/225) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.twitter.compose.rules:detekt to v0.0.22"
+
+**2023-01-03** — commented on [#225](https://github.com/slackhq/circuit/pull/225#issuecomment-1370067590) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-01-03** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-03** — merged PR [#369](https://github.com/slackhq/circuit/pull/369) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — created branch `z/settings` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-02** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-02** — merged PR [#200](https://github.com/slackhq/slack-gradle-plugin/pull/200) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.23.1"
-
-**2023-01-02** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-02** — merged PR [#202](https://github.com/slackhq/slack-gradle-plugin/pull/202) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.12.1"
-
-**2023-01-02** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-02** — merged PR [#201](https://github.com/slackhq/slack-gradle-plugin/pull/201) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.21.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
