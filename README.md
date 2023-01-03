@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-03** — deleted branch `z/updateFinal` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2023-01-03** — deleted branch `refactor-circuitinject` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-03** — closed PR [#300](https://github.com/slackhq/circuit/pull/300) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor CircuitInject"
+
+**2023-01-03** — commented on [#300](https://github.com/slackhq/circuit/pull/300#issuecomment-1370133498) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-01-03** — deleted branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-03** — closed PR [#184](https://github.com/slackhq/circuit/pull/184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support material 3 dynamic theming in star app"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — commented on [#225](https://github.com/slackhq/circuit/pull/225#issuecomment-1370067590) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-03** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-03** — merged PR [#369](https://github.com/slackhq/circuit/pull/369) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9"
-
-**2023-01-03** — opened PR [#203](https://github.com/slackhq/slack-gradle-plugin/pull/203) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement SgpSettingsPlugin"
-
-**2023-01-03** — created branch `z/settings` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-02** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
