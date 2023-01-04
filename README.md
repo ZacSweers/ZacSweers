@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-01-04** — deleted branch `renovate/actions-checkout-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-04** — closed PR [#9](https://github.com/ZacSweers/ZacSweers/pull/9) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.0"
+**2023-01-04** — merged PR [#14](https://github.com/ZacSweers/ZacSweers/pull/14) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/checkout action to v3"
 
-**2023-01-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-01-04** — deleted branch `renovate/actions-setup-java-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-04** — closed PR [#10](https://github.com/ZacSweers/ZacSweers/pull/10) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.0-1.0.8"
+**2023-01-04** — merged PR [#15](https://github.com/ZacSweers/ZacSweers/pull/15) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/setup-java action to v3"
 
-**2023-01-04** — merged PR [#8](https://github.com/ZacSweers/ZacSweers/pull/8) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Configure Renovate"
+**2023-01-04** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-04** — opened PR [#7](https://github.com/ZacSweers/ZacSweers/pull/7) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Use EitherNet"
+**2023-01-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-04** — created branch `z/useEitherNet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-01-04** — merged PR [#12](https://github.com/ZacSweers/ZacSweers/pull/12) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.12.1"
 
-**2023-01-03** — commented on [#347](https://github.com/slackhq/circuit/pull/347#issuecomment-1370482443) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-04** — merged PR [#13](https://github.com/ZacSweers/ZacSweers/pull/13) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/cache action to v3"
 
-**2023-01-03** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-04** — deleted branch `z/useEitherNet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-03** — merged PR [#389](https://github.com/ZacSweers/CatchUp/pull/389) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.2"
+**2023-01-04** — merged PR [#7](https://github.com/ZacSweers/ZacSweers/pull/7) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Use EitherNet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
