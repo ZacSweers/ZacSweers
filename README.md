@@ -1,9 +1,19 @@
-Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or [follow me on Twitter](https://twitter.com/ZacSweers).
+Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on [Twitter](https://twitter.com/ZacSweers)/[Mastodon](https://hachyderm.io/@ZacSweers).
 
 <table><tr><td valign="top" width="60%">
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-01-04** — closed PR [#9](https://github.com/ZacSweers/ZacSweers/pull/9) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.0"
+
+**2023-01-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-01-04** — closed PR [#10](https://github.com/ZacSweers/ZacSweers/pull/10) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.0-1.0.8"
+
+**2023-01-04** — merged PR [#8](https://github.com/ZacSweers/ZacSweers/pull/8) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Configure Renovate"
+
 **2023-01-04** — opened PR [#7](https://github.com/ZacSweers/ZacSweers/pull/7) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Use EitherNet"
 
 **2023-01-04** — created branch `z/useEitherNet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-03** — merged PR [#389](https://github.com/ZacSweers/CatchUp/pull/389) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.2"
-
-**2023-01-03** — deleted branch `renovate/espresso` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-03** — merged PR [#390](https://github.com/ZacSweers/CatchUp/pull/390) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update espresso to v3.5.1"
-
-**2023-01-03** — closed PR [#1597](https://github.com/square/moshi/pull/1597) to [square/moshi](https://github.com/square/moshi): "updated read me documentation"
-
-**2023-01-03** — deleted branch `z/updateFinal` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-01-03** — deleted branch `refactor-circuitinject` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
