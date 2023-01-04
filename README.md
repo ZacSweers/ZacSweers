@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — merged PR [#394](https://github.com/ZacSweers/CatchUp/pull/394) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha11"
+
+**2023-01-04** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-04** — closed issue [#392](https://github.com/ZacSweers/CatchUp/issues/392) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WHy does the project not build out of the box?"
 
 **2023-01-04** — commented on [#392](https://github.com/ZacSweers/CatchUp/issues/392#issuecomment-1370844211) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — commented on [#284](https://github.com/ZacSweers/CatchUp/issues/284#issuecomment-1370504976) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-04** — opened issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
-
-**2023-01-04** — deleted branch `z/aboutCircuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-04** — merged PR [#383](https://github.com/ZacSweers/CatchUp/pull/383) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement About screen in Circuit and Compose"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
