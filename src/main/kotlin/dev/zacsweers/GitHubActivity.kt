@@ -1,5 +1,6 @@
 package dev.zacsweers
 
+import com.slack.eithernet.ApiResult
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.JsonClass
@@ -21,7 +22,7 @@ import kotlin.reflect.KClass
 
 interface GitHubApi {
   @GET("/users/{login}/events")
-  suspend fun getUserActivity(@Path("login") login: String): List<GitHubActivityEvent>
+  suspend fun getUserActivity(@Path("login") login: String): ApiResult<List<GitHubActivityEvent>, Unit>
 
   companion object {
     fun create(

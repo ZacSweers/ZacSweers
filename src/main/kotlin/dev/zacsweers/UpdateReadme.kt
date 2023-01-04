@@ -4,6 +4,8 @@ import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
+import com.slack.eithernet.ApiResult
+import com.slack.eithernet.ApiResult.Success
 import com.squareup.moshi.Moshi
 import com.tickaroo.tikxml.TikXml
 import kotlinx.coroutines.delay
@@ -46,28 +48,34 @@ private fun fetchBlogActivity(
   )
 
   return runBlocking {
-    retryWithBackoff(5) {
+    val result = retryWithBackoff(5) {
       blogApi.main()
-        .channel
-        .itemList
-        .map { entry ->
-          ActivityItem(
-            text = "[${entry.title}](${entry.link})",
-            timestamp = entry.pubDate
-          )
-        }
-        .take(10)
+    }
+    when (result) {
+      is Success -> {
+        result.value.channel
+          .itemList
+          .map { entry ->
+            ActivityItem(
+              text = "[${entry.title}](${entry.link})",
+              timestamp = entry.pubDate
+            )
+          }
+          .take(10)
+      }
+
+      else -> error("Could not load blog content: $result")
     }
   }
 }
 
-private suspend fun <T> retryWithBackoff(
+private suspend fun <T : Any, E : Any> retryWithBackoff(
   times: Int,
   initialDelay: Long = 1000, // 1 second
   maxDelay: Long = 5000,     // 5 second
   factor: Double = 2.0,
-  block: suspend () -> T
-): T {
+  block: suspend () -> ApiResult<T, E>
+): ApiResult<T, E> {
   var currentDelay = initialDelay
   repeat(times - 1) {
     try {
@@ -90,54 +98,60 @@ private fun fetchGithubActivity(
 ): List<ActivityItem> {
   val moshi = Moshi.Builder().build()
   val githubApi = GitHubApi.create(client, moshi)
-  val activity = runBlocking {
+  val result = runBlocking {
     retryWithBackoff(5) {
       githubApi.getUserActivity("ZacSweers")
     }
   }
-  return activity
-    .filter { it.public }
-    .mapNotNull { event ->
-      when (val payload = event.payload) {
-        UnknownPayload, null -> return@mapNotNull null
-        is IssuesEventPayload -> {
-          ActivityItem(
-            "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
-            event.createdAt
-          )
-        }
+  return when (result) {
+    is Success -> {
+      result.value
+        .filter { it.public }
+        .mapNotNull { event ->
+          when (val payload = event.payload) {
+            UnknownPayload, null -> return@mapNotNull null
+            is IssuesEventPayload -> {
+              ActivityItem(
+                "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
+                event.createdAt
+              )
+            }
 
-        is IssueCommentEventPayload -> {
-          ActivityItem(
-            "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
-        }
+            is IssueCommentEventPayload -> {
+              ActivityItem(
+                "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
+                event.createdAt
+              )
+            }
 
-        is PullRequestPayload -> {
-          val action = if (payload.pullRequest.merged == true) "merged" else payload.action
-          ActivityItem(
-            "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-            event.createdAt
-          )
-        }
+            is PullRequestPayload -> {
+              val action = if (payload.pullRequest.merged == true) "merged" else payload.action
+              ActivityItem(
+                "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
+                event.createdAt
+              )
+            }
 
-        is CreateEvent -> {
-          ActivityItem(
-            "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
-        }
+            is CreateEvent -> {
+              ActivityItem(
+                "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                event.createdAt
+              )
+            }
 
-        is DeleteEvent -> {
-          ActivityItem(
-            "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-            event.createdAt
-          )
+            is DeleteEvent -> {
+              ActivityItem(
+                "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
+                event.createdAt
+              )
+            }
+          }
         }
-      }
+        .take(10)
     }
-    .take(10)
+
+    else -> error("Could not load GitHub activity.")
+  }
 }
 
 fun main(argv: Array<String>) {
