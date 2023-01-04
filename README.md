@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — commented on [#284](https://github.com/ZacSweers/CatchUp/issues/284#issuecomment-1370504976) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-04** — opened issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
+
+**2023-01-04** — deleted branch `z/aboutCircuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-04** — merged PR [#383](https://github.com/ZacSweers/CatchUp/pull/383) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement About screen in Circuit and Compose"
+
 **2023-01-04** — deleted branch `renovate/actions-checkout-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-01-04** — merged PR [#14](https://github.com/ZacSweers/ZacSweers/pull/14) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/checkout action to v3"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-01-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-04** — merged PR [#12](https://github.com/ZacSweers/ZacSweers/pull/12) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.12.1"
-
-**2023-01-04** — merged PR [#13](https://github.com/ZacSweers/ZacSweers/pull/13) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/cache action to v3"
-
-**2023-01-04** — deleted branch `z/useEitherNet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-04** — merged PR [#7](https://github.com/ZacSweers/ZacSweers/pull/7) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Use EitherNet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
