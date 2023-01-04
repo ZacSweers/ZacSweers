@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — opened PR [#7](https://github.com/ZacSweers/ZacSweers/pull/7) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Use EitherNet"
+
+**2023-01-04** — created branch `z/useEitherNet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2023-01-03** — commented on [#347](https://github.com/slackhq/circuit/pull/347#issuecomment-1370482443) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-03** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — deleted branch `z/updateFinal` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-01-03** — deleted branch `refactor-circuitinject` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-03** — closed PR [#300](https://github.com/slackhq/circuit/pull/300) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor CircuitInject"
-
-**2023-01-03** — commented on [#300](https://github.com/slackhq/circuit/pull/300#issuecomment-1370133498) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
