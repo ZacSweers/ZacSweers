@@ -5,6 +5,7 @@ import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
 import com.github.ajalt.clikt.parameters.types.file
 import com.slack.eithernet.ApiResult
+import com.slack.eithernet.ApiResult.Failure.HttpFailure
 import com.slack.eithernet.ApiResult.Success
 import com.squareup.moshi.Moshi
 import com.tickaroo.tikxml.TikXml
@@ -78,11 +79,14 @@ private suspend fun <T : Any, E : Any> retryWithBackoff(
 ): ApiResult<T, E> {
   var currentDelay = initialDelay
   repeat(times - 1) {
-    try {
-      return block()
-    } catch (e: Exception) {
-      if (e is HttpException) {
-        System.err.println("HttpException: $e\n${e.response()?.errorBody()?.string()}")
+    val result = block()
+    if (result is Success) {
+      return result
+    } else {
+      if (result is HttpFailure) {
+        val error = result.error
+        check(error is HttpException?)
+        System.err.println("HttpException: $error\n${error?.response()?.errorBody()?.string()}")
       }
     }
     System.err.println("Retry #${it + 1}, delaying $currentDelay")
