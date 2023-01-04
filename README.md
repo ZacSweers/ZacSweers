@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-04** — merged PR [#393](https://github.com/ZacSweers/CatchUp/pull/393) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.2"
+
 **2023-01-04** — merged PR [#394](https://github.com/ZacSweers/CatchUp/pull/394) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha11"
 
 **2023-01-04** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — deleted branch `renovate/tikxml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-01-04** — closed PR [#16](https://github.com/ZacSweers/ZacSweers/pull/16) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update tikxml to v0.8.15"
-
-**2023-01-04** — commented on [#284](https://github.com/ZacSweers/CatchUp/issues/284#issuecomment-1370504976) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-04** — opened issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
