@@ -77,6 +77,7 @@ private suspend fun <T> retryWithBackoff(
         System.err.println("HttpException: $e\n${e.response()?.errorBody()?.string()}")
       }
     }
+    System.err.println("Retry #${it + 1}, delaying $currentDelay")
     delay(currentDelay)
     currentDelay = (currentDelay * factor).toLong().coerceAtMost(maxDelay)
   }
