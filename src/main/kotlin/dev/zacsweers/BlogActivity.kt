@@ -1,6 +1,8 @@
 package dev.zacsweers
 
 import com.slack.eithernet.ApiResult
+import com.slack.eithernet.ApiResultCallAdapterFactory
+import com.slack.eithernet.ApiResultConverterFactory
 import com.tickaroo.tikxml.TikXml
 import com.tickaroo.tikxml.TypeConverter
 import com.tickaroo.tikxml.annotation.Element
@@ -27,6 +29,8 @@ internal interface BlogApi {
         .baseUrl("https://www.zacsweers.dev")
         .validateEagerly(true)
         .client(client)
+        .addCallAdapterFactory(ApiResultCallAdapterFactory)
+        .addConverterFactory(ApiResultConverterFactory)
         .addConverterFactory(TikXmlConverterFactory.create(tikXml))
         .build()
         .create()

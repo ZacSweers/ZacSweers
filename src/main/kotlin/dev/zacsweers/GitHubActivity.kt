@@ -1,6 +1,8 @@
 package dev.zacsweers
 
 import com.slack.eithernet.ApiResult
+import com.slack.eithernet.ApiResultCallAdapterFactory
+import com.slack.eithernet.ApiResultConverterFactory
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonAdapter
 import com.squareup.moshi.JsonClass
@@ -33,6 +35,8 @@ interface GitHubApi {
         .baseUrl("https://api.github.com")
         .validateEagerly(true)
         .client(client)
+        .addCallAdapterFactory(ApiResultCallAdapterFactory)
+        .addConverterFactory(ApiResultConverterFactory)
         .addConverterFactory(
           MoshiConverterFactory.create(
             moshi.newBuilder()
@@ -70,14 +74,16 @@ data class GitHubActivityEvent(
         override fun fromJson(reader: JsonReader): GitHubActivityEvent {
           @Suppress("UNCHECKED_CAST")
           val value = reader.readJsonValue() as Map<String, *>
-          val payloadType = value["type"]?.toString()?.let(typeAdapter::fromJsonValue) ?: error("No type found")
+          val payloadType =
+            value["type"]?.toString()?.let(typeAdapter::fromJsonValue) ?: error("No type found")
           val payloadValue = value["payload"]
-          val payload = if (payloadType != GitHubActivityEventPayload.Type.UNKNOWN && payloadValue != null) {
-            moshi.adapter(payloadType.subclass.java)
-              .fromJsonValue(payloadValue)
-          } else {
-            null
-          }
+          val payload =
+            if (payloadType != GitHubActivityEventPayload.Type.UNKNOWN && payloadValue != null) {
+              moshi.adapter(payloadType.subclass.java)
+                .fromJsonValue(payloadValue)
+            } else {
+              null
+            }
           val id = value["id"]?.toString() ?: error("No id found")
           val createdAt = value["created_at"]?.toString() ?: error("No created_at found")
           val public = value["public"]?.toString()?.toBoolean() ?: error("No public found")
@@ -173,6 +179,7 @@ data class Repo(
     return url.replaceFirst("api.", "")
       .replaceFirst("repos/", "")
   }
+
   fun markdownUrl(): String = "[$name](${adjustedUrl()})"
 }
 
