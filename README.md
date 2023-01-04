@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-03** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-03** — merged PR [#389](https://github.com/ZacSweers/CatchUp/pull/389) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.2"
+
+**2023-01-03** — deleted branch `renovate/espresso` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-03** — merged PR [#390](https://github.com/ZacSweers/CatchUp/pull/390) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update espresso to v3.5.1"
+
 **2023-01-03** — closed PR [#1597](https://github.com/square/moshi/pull/1597) to [square/moshi](https://github.com/square/moshi): "updated read me documentation"
 
 **2023-01-03** — deleted branch `z/updateFinal` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — commented on [#300](https://github.com/slackhq/circuit/pull/300#issuecomment-1370133498) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-03** — deleted branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-03** — closed PR [#184](https://github.com/slackhq/circuit/pull/184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support material 3 dynamic theming in star app"
-
-**2023-01-03** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-03** — closed PR [#225](https://github.com/slackhq/circuit/pull/225) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.twitter.compose.rules:detekt to v0.0.22"
-
-**2023-01-03** — commented on [#225](https://github.com/slackhq/circuit/pull/225#issuecomment-1370067590) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
