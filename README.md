@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-03** — commented on [#347](https://github.com/slackhq/circuit/pull/347#issuecomment-1370482443) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-01-03** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-03** — merged PR [#389](https://github.com/ZacSweers/CatchUp/pull/389) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-03** — closed PR [#300](https://github.com/slackhq/circuit/pull/300) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refactor CircuitInject"
 
 **2023-01-03** — commented on [#300](https://github.com/slackhq/circuit/pull/300#issuecomment-1370133498) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-03** — deleted branch `z/dynamicTheme` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
