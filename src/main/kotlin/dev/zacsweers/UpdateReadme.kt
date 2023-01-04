@@ -9,6 +9,7 @@ import com.tickaroo.tikxml.TikXml
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
+import retrofit2.HttpException
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -72,8 +73,9 @@ private suspend fun <T> retryWithBackoff(
     try {
       return block()
     } catch (e: Exception) {
-      // you can log an error here and/or make a more finer-grained
-      // analysis of the cause to see if retry is needed
+      if (e is HttpException) {
+        System.err.println("HttpException: $e\n${e.response()?.errorBody()?.string()}")
+      }
     }
     delay(currentDelay)
     currentDelay = (currentDelay * factor).toLong().coerceAtMost(maxDelay)
@@ -87,7 +89,11 @@ private fun fetchGithubActivity(
 ): List<ActivityItem> {
   val moshi = Moshi.Builder().build()
   val githubApi = GitHubApi.create(client, moshi)
-  val activity = runBlocking { githubApi.getUserActivity("ZacSweers") }
+  val activity = runBlocking {
+    retryWithBackoff(5) {
+      githubApi.getUserActivity("ZacSweers")
+    }
+  }
   return activity
     .filter { it.public }
     .mapNotNull { event ->
