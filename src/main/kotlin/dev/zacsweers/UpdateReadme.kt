@@ -9,7 +9,6 @@ import com.tickaroo.tikxml.TikXml
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
-import java.io.IOException
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -46,7 +45,7 @@ private fun fetchBlogActivity(
   )
 
   return runBlocking {
-    retryIO(5) {
+    retryWithBackoff(5) {
       blogApi.main()
         .channel
         .itemList
@@ -61,7 +60,7 @@ private fun fetchBlogActivity(
   }
 }
 
-private suspend fun <T> retryIO(
+private suspend fun <T> retryWithBackoff(
   times: Int,
   initialDelay: Long = 1000, // 1 second
   maxDelay: Long = 5000,     // 5 second
@@ -72,7 +71,7 @@ private suspend fun <T> retryIO(
   repeat(times - 1) {
     try {
       return block()
-    } catch (e: IOException) {
+    } catch (e: Exception) {
       // you can log an error here and/or make a more finer-grained
       // analysis of the cause to see if retry is needed
     }
