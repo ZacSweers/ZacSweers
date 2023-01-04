@@ -81,6 +81,7 @@ dependencies {
 
   implementation(libs.clikt)
   implementation(libs.coroutines)
+  implementation(libs.eithernet)
   implementation(libs.okio)
   implementation(libs.okhttp)
   implementation(libs.retrofit)
