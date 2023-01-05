@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-04** — merged PR [#370](https://github.com/slackhq/circuit/pull/370) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.1"
+
 **2023-01-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-04** — merged PR [#393](https://github.com/ZacSweers/CatchUp/pull/393) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-04** — merged PR [#371](https://github.com/slackhq/circuit/pull/371) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.5"
-
-**2023-01-04** — deleted branch `renovate/tikxml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-04** — closed PR [#16](https://github.com/ZacSweers/ZacSweers/pull/16) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update tikxml to v0.8.15"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
