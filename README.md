@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-05** — closed issue [#1438](https://github.com/square/kotlinpoet/issues/1438) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Extra new-line is inserted in `TypeSpec` between two delegated `PropertySpec`s"
+
+**2023-01-05** — commented on [#1438](https://github.com/square/kotlinpoet/issues/1438#issuecomment-1372642971) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-01-05** — commented on [#1437](https://github.com/square/kotlinpoet/issues/1437#issuecomment-1372623475) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-01-05** — closed issue [#1437](https://github.com/square/kotlinpoet/issues/1437) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Strange indentation for a delegated property with multi-line code"
+
+**2023-01-05** — commented on [#1437](https://github.com/square/kotlinpoet/issues/1437#issuecomment-1372616264) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-01-05** — commented on [#374](https://github.com/slackhq/circuit/pull/374#issuecomment-1372284829) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-05** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-05** — merged PR [#372](https://github.com/slackhq/circuit/pull/372) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.twitter.compose.rules:detekt to v0.0.26"
-
-**2023-01-04** — commented on [#3363](https://github.com/square/retrofit/issues/3363#issuecomment-1371767242) in [square/retrofit](https://github.com/square/retrofit)
-
-**2023-01-04** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-04** — merged PR [#370](https://github.com/slackhq/circuit/pull/370) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.1"
-
-**2023-01-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-04** — merged PR [#393](https://github.com/ZacSweers/CatchUp/pull/393) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
