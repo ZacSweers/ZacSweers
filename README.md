@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-04** — commented on [#3363](https://github.com/square/retrofit/issues/3363#issuecomment-1371767242) in [square/retrofit](https://github.com/square/retrofit)
+
 **2023-01-04** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-04** — merged PR [#370](https://github.com/slackhq/circuit/pull/370) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.espresso:espresso-core to v3.5.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — commented on [#392](https://github.com/ZacSweers/CatchUp/issues/392#issuecomment-1370844211) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-04** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-04** — merged PR [#371](https://github.com/slackhq/circuit/pull/371) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.ext:junit to v1.1.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
