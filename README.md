@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-05** — commented on [#374](https://github.com/slackhq/circuit/pull/374#issuecomment-1372284829) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-05** — merged PR [#373](https://github.com/slackhq/circuit/pull/373) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.2"
+
+**2023-01-05** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-05** — merged PR [#372](https://github.com/slackhq/circuit/pull/372) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.twitter.compose.rules:detekt to v0.0.26"
+
 **2023-01-04** — commented on [#3363](https://github.com/square/retrofit/issues/3363#issuecomment-1371767242) in [square/retrofit](https://github.com/square/retrofit)
 
 **2023-01-04** — deleted branch `test-renovate/androidx.test.espresso` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-04** — merged PR [#393](https://github.com/ZacSweers/CatchUp/pull/393) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.2"
-
-**2023-01-04** — merged PR [#394](https://github.com/ZacSweers/CatchUp/pull/394) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-alpha11"
-
-**2023-01-04** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-04** — closed issue [#392](https://github.com/ZacSweers/CatchUp/issues/392) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WHy does the project not build out of the box?"
-
-**2023-01-04** — commented on [#392](https://github.com/ZacSweers/CatchUp/issues/392#issuecomment-1370844211) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-04** — deleted branch `test-renovate/androidx.test.ext` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
