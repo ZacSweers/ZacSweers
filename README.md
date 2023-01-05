@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-05** — merged PR [#374](https://github.com/slackhq/circuit/pull/374) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial Desktop Navigation Support"
+
 **2023-01-05** — closed issue [#1438](https://github.com/square/kotlinpoet/issues/1438) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Extra new-line is inserted in `TypeSpec` between two delegated `PropertySpec`s"
 
 **2023-01-05** — commented on [#1438](https://github.com/square/kotlinpoet/issues/1438#issuecomment-1372642971) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-05** — merged PR [#373](https://github.com/slackhq/circuit/pull/373) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.2"
 
 **2023-01-05** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-05** — merged PR [#372](https://github.com/slackhq/circuit/pull/372) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.twitter.compose.rules:detekt to v0.0.26"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
