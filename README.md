@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-05** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-01-05** — merged PR [#364](https://github.com/ZacSweers/MoshiX/pull/364) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.24.0"
+
 **2023-01-05** — merged PR [#374](https://github.com/slackhq/circuit/pull/374) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial Desktop Navigation Support"
 
 **2023-01-05** — closed issue [#1438](https://github.com/square/kotlinpoet/issues/1438) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Extra new-line is inserted in `TypeSpec` between two delegated `PropertySpec`s"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-05** — commented on [#374](https://github.com/slackhq/circuit/pull/374#issuecomment-1372284829) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-05** — merged PR [#373](https://github.com/slackhq/circuit/pull/373) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.2"
-
-**2023-01-05** — deleted branch `test-renovate/com.twitter.compose.rules` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
