@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-07** — opened PR [#399](https://github.com/ZacSweers/CatchUp/pull/399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "CI cleanup"
+
+**2023-01-07** — deleted branch `z/fullComposeMain` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — merged PR [#397](https://github.com/ZacSweers/CatchUp/pull/397) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fully composify HomeScreen"
+
+**2023-01-07** — created branch `z/ciCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — opened PR [#397](https://github.com/ZacSweers/CatchUp/pull/397) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fully composify main"
+
+**2023-01-07** — created branch `z/fullComposeMain` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-06** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-06** — merged PR [#395](https://github.com/ZacSweers/CatchUp/pull/395) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0-rc01"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-06** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-06** — merged PR [#396](https://github.com/ZacSweers/CatchUp/pull/396) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.1"
-
-**2023-01-06** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-06** — merged PR [#365](https://github.com/ZacSweers/MoshiX/pull/365) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.24.1"
-
-**2023-01-05** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-05** — merged PR [#364](https://github.com/ZacSweers/MoshiX/pull/364) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.24.0"
-
-**2023-01-05** — merged PR [#374](https://github.com/slackhq/circuit/pull/374) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial Desktop Navigation Support"
-
-**2023-01-05** — closed issue [#1438](https://github.com/square/kotlinpoet/issues/1438) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Extra new-line is inserted in `TypeSpec` between two delegated `PropertySpec`s"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
