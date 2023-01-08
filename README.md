@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-07** — deleted branch `z/dragdrop` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — merged PR [#400](https://github.com/ZacSweers/CatchUp/pull/400) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement drag and drop in order services activity"
+
+**2023-01-07** — opened PR [#400](https://github.com/ZacSweers/CatchUp/pull/400) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement drag and drop in order services activity"
+
+**2023-01-07** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — merged PR [#398](https://github.com/ZacSweers/CatchUp/pull/398) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.3.0"
+
+**2023-01-07** — created branch `z/dragdrop` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — deleted branch `z/ciCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-07** — merged PR [#399](https://github.com/ZacSweers/CatchUp/pull/399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "CI cleanup"
+
 **2023-01-07** — opened PR [#399](https://github.com/ZacSweers/CatchUp/pull/399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "CI cleanup"
 
 **2023-01-07** — deleted branch `z/fullComposeMain` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-07** — merged PR [#397](https://github.com/ZacSweers/CatchUp/pull/397) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fully composify HomeScreen"
-
-**2023-01-07** — created branch `z/ciCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-07** — opened PR [#397](https://github.com/ZacSweers/CatchUp/pull/397) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fully composify main"
-
-**2023-01-07** — created branch `z/fullComposeMain` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-06** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-06** — merged PR [#395](https://github.com/ZacSweers/CatchUp/pull/395) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0-rc01"
-
-**2023-01-06** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-06** — merged PR [#396](https://github.com/ZacSweers/CatchUp/pull/396) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
