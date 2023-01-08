@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-07** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-01-07** — merged PR [#17](https://github.com/ZacSweers/ZacSweers/pull/17) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.3.0"
+
 **2023-01-07** — deleted branch `z/dragdrop` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-07** — merged PR [#400](https://github.com/ZacSweers/CatchUp/pull/400) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement drag and drop in order services activity"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-07** — deleted branch `z/ciCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-07** — merged PR [#399](https://github.com/ZacSweers/CatchUp/pull/399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "CI cleanup"
-
-**2023-01-07** — opened PR [#399](https://github.com/ZacSweers/CatchUp/pull/399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "CI cleanup"
-
-**2023-01-07** — deleted branch `z/fullComposeMain` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
