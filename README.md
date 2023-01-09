@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-09** — created branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-09** — created tag `0.2.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-01-09** — merged PR [#123](https://github.com/ZacSweers/kotlin-compile-testing/pull/123) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Expose the API to pass flags to KAPT."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-09** — merged PR [#204](https://github.com/slackhq/slack-gradle-plugin/pull/204) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha11"
-
-**2023-01-07** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
