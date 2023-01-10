@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-10** — deleted branch `z/missingUsesService` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
+
 **2023-01-10** — deleted branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-10** — merged PR [#349](https://github.com/slackhq/circuit/pull/349) to [slackhq/circuit](https://github.com/slackhq/circuit): "Manually handle config changes in star sample"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-01-09** — merged PR [#110](https://github.com/ZacSweers/redacted-compiler-plugin/pull/110) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.2.1"
-
-**2023-01-09** — created tag `0.4.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
