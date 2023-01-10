@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-10** — opened PR [#208](https://github.com/slackhq/slack-gradle-plugin/pull/208) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support the gradle enterprise plugin retry implementation"
+
+**2023-01-10** — created branch `z/enterpriseRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-10** — deleted branch `z/missingUsesService` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
 
 **2023-01-10** — deleted branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-09** — merged PR [#366](https://github.com/ZacSweers/MoshiX/pull/366) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.2.1"
-
-**2023-01-09** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-01-09** — merged PR [#110](https://github.com/ZacSweers/redacted-compiler-plugin/pull/110) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
