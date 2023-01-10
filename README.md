@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-10** — opened issue [#377](https://github.com/facebook/ktfmt/issues/377) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Feature request: ability to specify file of files to format"
+
 **2023-01-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-09** — merged PR [#401](https://github.com/ZacSweers/CatchUp/pull/401) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.4.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — deleted branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-09** — merged PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
-
-**2023-01-09** — opened PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
