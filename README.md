@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-09** — merged PR [#401](https://github.com/ZacSweers/CatchUp/pull/401) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.4.1"
+
+**2023-01-09** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-01-09** — merged PR [#366](https://github.com/ZacSweers/MoshiX/pull/366) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.2.1"
+
+**2023-01-09** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-01-09** — merged PR [#110](https://github.com/ZacSweers/redacted-compiler-plugin/pull/110) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.2.1"
+
 **2023-01-09** — created tag `0.4.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-09** — deleted branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — merged PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
 
 **2023-01-09** — opened PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
-
-**2023-01-09** — created branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — created tag `0.2.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-01-09** — merged PR [#123](https://github.com/ZacSweers/kotlin-compile-testing/pull/123) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Expose the API to pass flags to KAPT."
-
-**2023-01-09** — commented on [#3677](https://github.com/google/dagger/issues/3677#issuecomment-1376316895) in [google/dagger](https://github.com/google/dagger)
-
-**2023-01-09** — deleted branch `test-renovate/com.squareup.okio` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — merged PR [#206](https://github.com/slackhq/slack-gradle-plugin/pull/206) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.okio:okio to v3.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
