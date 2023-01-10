@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-09** — created tag `0.4.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-09** — deleted branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-09** — merged PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
+
+**2023-01-09** — opened PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
+
 **2023-01-09** — created branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-09** — created tag `0.2.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — deleted branch `test-renovate/com.squareup.okio` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-09** — merged PR [#206](https://github.com/slackhq/slack-gradle-plugin/pull/206) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.okio:okio to v3.3.0"
-
-**2023-01-09** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — merged PR [#205](https://github.com/slackhq/slack-gradle-plugin/pull/205) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.2"
-
-**2023-01-09** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — merged PR [#204](https://github.com/slackhq/slack-gradle-plugin/pull/204) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
