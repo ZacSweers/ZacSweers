@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-10** — deleted branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-10** — merged PR [#349](https://github.com/slackhq/circuit/pull/349) to [slackhq/circuit](https://github.com/slackhq/circuit): "Manually handle config changes in star sample"
+
 **2023-01-10** — opened issue [#377](https://github.com/facebook/ktfmt/issues/377) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Feature request: ability to specify file of files to format"
 
 **2023-01-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,15 +23,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-09** — merged PR [#110](https://github.com/ZacSweers/redacted-compiler-plugin/pull/110) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.2.1"
 
 **2023-01-09** — created tag `0.4.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — deleted branch `z/fixEitherNet` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-09** — merged PR [#207](https://github.com/slackhq/slack-gradle-plugin/pull/207) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove eithernet opt-ins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
+
 **2022-12-19** — [Improving Your Gradle Workflow by Not Auto-reloading Build Files](https://www.zacsweers.dev/improving-your-workflow-by-not-auto-reloading-build-files/)
 
 **2022-11-30** — [Android Studio's "I'm Feeling Lucky" Button](https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-02-02** — [Disposables Can Cause Memory Leaks](https://www.zacsweers.dev/disposables-can-cause-memory-leaks/)
 
 **2021-01-29** — [Kapt's Hidden Test Costs](https://www.zacsweers.dev/kapts-hidden-test-costs/)
-
-**2020-07-13** — [Time in UI Programming](https://www.zacsweers.dev/time-in-ui/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
