@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-11** — opened issue [#381](https://github.com/slackhq/circuit/issues/381) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider implementing anvil code gen as a CodeGenerator"
+
 **2023-01-11** — deleted branch `z/airplaneStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-11** — merged PR [#403](https://github.com/ZacSweers/CatchUp/pull/403) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff I did on an airplane and later"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-10** — created branch `z/enterpriseRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-10** — deleted branch `z/missingUsesService` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2023-01-10** — deleted branch `z/useConfigChanges` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
