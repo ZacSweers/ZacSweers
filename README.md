@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-11** — opened PR [#403](https://github.com/ZacSweers/CatchUp/pull/403) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff I did on an airplane and later"
+
+**2023-01-11** — created branch `z/airplaneStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-11** — deleted branch `test-renovate/paparazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-11** — merged PR [#380](https://github.com/slackhq/circuit/pull/380) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.chrisbanes.paparazzi to v1.1.0-sdk33-alpha04"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-10** — merged PR [#349](https://github.com/slackhq/circuit/pull/349) to [slackhq/circuit](https://github.com/slackhq/circuit): "Manually handle config changes in star sample"
 
 **2023-01-10** — opened issue [#377](https://github.com/facebook/ktfmt/issues/377) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Feature request: ability to specify file of files to format"
-
-**2023-01-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-09** — merged PR [#401](https://github.com/ZacSweers/CatchUp/pull/401) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
