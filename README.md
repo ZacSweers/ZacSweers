@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-12** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1380717792) in [google/dagger](https://github.com/google/dagger)
+
 **2023-01-12** — opened issue [#3701](https://github.com/google/dagger/issues/3701) on [google/dagger](https://github.com/google/dagger): "Incompatible with kotlinx-metadata 0.6.0"
 
 **2023-01-12** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-12** — deleted branch `renovate/room` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-12** — merged PR [#411](https://github.com/ZacSweers/CatchUp/pull/411) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update room to v2.5.0"
-
-**2023-01-12** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
