@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-11** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-11** — merged PR [#404](https://github.com/ZacSweers/CatchUp/pull/404) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-alpha01"
+**2023-01-12** — merged PR [#405](https://github.com/ZacSweers/CatchUp/pull/405) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.7.0-alpha03"
 
-**2023-01-11** — opened issue [#381](https://github.com/slackhq/circuit/issues/381) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider implementing anvil code gen as a CodeGenerator"
+**2023-01-12** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-11** — deleted branch `z/airplaneStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — merged PR [#406](https://github.com/ZacSweers/CatchUp/pull/406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-alpha04"
 
-**2023-01-11** — merged PR [#403](https://github.com/ZacSweers/CatchUp/pull/403) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff I did on an airplane and later"
+**2023-01-12** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-11** — opened PR [#403](https://github.com/ZacSweers/CatchUp/pull/403) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff I did on an airplane and later"
+**2023-01-12** — merged PR [#407](https://github.com/ZacSweers/CatchUp/pull/407) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.5.0-beta01"
 
-**2023-01-11** — created branch `z/airplaneStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — deleted branch `renovate/room` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-11** — deleted branch `test-renovate/paparazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-12** — merged PR [#411](https://github.com/ZacSweers/CatchUp/pull/411) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update room to v2.5.0"
 
-**2023-01-11** — merged PR [#380](https://github.com/slackhq/circuit/pull/380) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.chrisbanes.paparazzi to v1.1.0-sdk33-alpha04"
+**2023-01-12** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-10** — opened PR [#208](https://github.com/slackhq/slack-gradle-plugin/pull/208) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support the gradle enterprise plugin retry implementation"
+**2023-01-12** — merged PR [#408](https://github.com/ZacSweers/CatchUp/pull/408) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
