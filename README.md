@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — created tag `0.4.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — closed issue [#179](https://github.com/slackhq/slack-gradle-plugin/issues/179) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconsider memory args for daemons"
+
+**2023-01-13** — deleted branch `z/newMemoryDefaults` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — merged PR [#211](https://github.com/slackhq/slack-gradle-plugin/pull/211) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change memory default"
+
+**2023-01-13** — opened PR [#212](https://github.com/slackhq/slack-gradle-plugin/pull/212) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AGP args on CI"
+
+**2023-01-13** — created branch `z/updateCi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — opened PR [#211](https://github.com/slackhq/slack-gradle-plugin/pull/211) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change memory default"
+
+**2023-01-13** — created branch `z/newMemoryDefaults` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-13** — commented on [#203](https://github.com/slackhq/slack-gradle-plugin/pull/203#issuecomment-1382409979) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-13** — deleted branch `z/enterpriseRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — merged PR [#208](https://github.com/slackhq/slack-gradle-plugin/pull/208) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support the gradle enterprise plugin retry implementation"
-
-**2023-01-13** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — merged PR [#209](https://github.com/slackhq/slack-gradle-plugin/pull/209) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.4"
-
-**2023-01-13** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — merged PR [#210](https://github.com/slackhq/slack-gradle-plugin/pull/210) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.4.0"
-
-**2023-01-13** — opened PR [#678](https://github.com/square/anvil/pull/678) to [square/anvil](https://github.com/square/anvil): "Modernize build (WIP)"
-
-**2023-01-13** — created branch `z/modernizeBuild` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-01-13** — deleted branch `patch-1` on [ZacSweers/mockito](https://github.com/ZacSweers/mockito)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
