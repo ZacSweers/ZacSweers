@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — deleted branch `patch-1` on [ZacSweers/mockito](https://github.com/ZacSweers/mockito)
+
+**2023-01-13** — closed PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
+
+**2023-01-13** — commented on [#2861](https://github.com/mockito/mockito/pull/2861#issuecomment-1382147646) in [mockito/mockito](https://github.com/mockito/mockito)
+
 **2023-01-13** — deleted branch `test-renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-13** — merged PR [#385](https://github.com/slackhq/circuit/pull/385) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.3.3"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-13** — opened PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
 
 **2023-01-12** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-12** — merged PR [#412](https://github.com/ZacSweers/CatchUp/pull/412) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.4"
-
-**2023-01-12** — closed PR [#367](https://github.com/ZacSweers/MoshiX/pull/367) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
-
-**2023-01-12** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
