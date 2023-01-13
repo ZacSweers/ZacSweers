@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — commented on [#2861](https://github.com/mockito/mockito/pull/2861#issuecomment-1381380261) in [mockito/mockito](https://github.com/mockito/mockito)
+
 **2023-01-13** — opened PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
 
 **2023-01-12** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-12** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-12** — closed PR [#368](https://github.com/ZacSweers/MoshiX/pull/368) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.4"
-
-**2023-01-12** — deleted branch `z/anvil244` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
