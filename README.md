@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-12** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-12** — merged PR [#412](https://github.com/ZacSweers/CatchUp/pull/412) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.4"
+
 **2023-01-12** — closed PR [#367](https://github.com/ZacSweers/MoshiX/pull/367) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
 **2023-01-12** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-12** — deleted branch `z/anvil244` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-12** — merged PR [#370](https://github.com/ZacSweers/MoshiX/pull/370) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update Anvil to 2.4.4"
-
-**2023-01-12** — opened PR [#370](https://github.com/ZacSweers/MoshiX/pull/370) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update Anvil to 2.4.4"
-
-**2023-01-12** — created branch `z/anvil244` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
