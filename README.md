@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — deleted branch `test-renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-13** — merged PR [#385](https://github.com/slackhq/circuit/pull/385) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.3.3"
+
+**2023-01-13** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-13** — merged PR [#413](https://github.com/ZacSweers/CatchUp/pull/413) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.4"
+
 **2023-01-13** — commented on [#2861](https://github.com/mockito/mockito/pull/2861#issuecomment-1381380261) in [mockito/mockito](https://github.com/mockito/mockito)
 
 **2023-01-13** — opened PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-12** — closed PR [#367](https://github.com/ZacSweers/MoshiX/pull/367) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
 **2023-01-12** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-12** — merged PR [#369](https://github.com/ZacSweers/MoshiX/pull/369) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.0"
-
-**2023-01-12** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-12** — closed PR [#368](https://github.com/ZacSweers/MoshiX/pull/368) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
