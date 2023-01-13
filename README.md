@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-12** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1380717792) in [google/dagger](https://github.com/google/dagger)
+**2023-01-12** — closed PR [#367](https://github.com/ZacSweers/MoshiX/pull/367) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
-**2023-01-12** — opened issue [#3701](https://github.com/google/dagger/issues/3701) on [google/dagger](https://github.com/google/dagger): "Incompatible with kotlinx-metadata 0.6.0"
+**2023-01-12** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-01-12** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-01-12** — merged PR [#405](https://github.com/ZacSweers/CatchUp/pull/405) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.7.0-alpha03"
+**2023-01-12** — merged PR [#369](https://github.com/ZacSweers/MoshiX/pull/369) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.0"
 
-**2023-01-12** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-01-12** — merged PR [#406](https://github.com/ZacSweers/CatchUp/pull/406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-alpha04"
+**2023-01-12** — closed PR [#368](https://github.com/ZacSweers/MoshiX/pull/368) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.4"
 
-**2023-01-12** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — deleted branch `z/anvil244` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-01-12** — merged PR [#407](https://github.com/ZacSweers/CatchUp/pull/407) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.5.0-beta01"
+**2023-01-12** — merged PR [#370](https://github.com/ZacSweers/MoshiX/pull/370) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update Anvil to 2.4.4"
 
-**2023-01-12** — deleted branch `renovate/room` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-12** — opened PR [#370](https://github.com/ZacSweers/MoshiX/pull/370) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update Anvil to 2.4.4"
 
-**2023-01-12** — merged PR [#411](https://github.com/ZacSweers/CatchUp/pull/411) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update room to v2.5.0"
+**2023-01-12** — created branch `z/anvil244` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
