@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-13** — commented on [#203](https://github.com/slackhq/slack-gradle-plugin/pull/203#issuecomment-1382409979) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — deleted branch `z/enterpriseRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — merged PR [#208](https://github.com/slackhq/slack-gradle-plugin/pull/208) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support the gradle enterprise plugin retry implementation"
+
+**2023-01-13** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — merged PR [#209](https://github.com/slackhq/slack-gradle-plugin/pull/209) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.4"
+
+**2023-01-13** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-13** — merged PR [#210](https://github.com/slackhq/slack-gradle-plugin/pull/210) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v7.4.0"
+
+**2023-01-13** — opened PR [#678](https://github.com/square/anvil/pull/678) to [square/anvil](https://github.com/square/anvil): "Modernize build (WIP)"
+
+**2023-01-13** — created branch `z/modernizeBuild` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-01-13** — deleted branch `patch-1` on [ZacSweers/mockito](https://github.com/ZacSweers/mockito)
-
-**2023-01-13** — closed PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
-
-**2023-01-13** — commented on [#2861](https://github.com/mockito/mockito/pull/2861#issuecomment-1382147646) in [mockito/mockito](https://github.com/mockito/mockito)
-
-**2023-01-13** — deleted branch `test-renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-13** — merged PR [#385](https://github.com/slackhq/circuit/pull/385) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.3.3"
-
-**2023-01-13** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-13** — merged PR [#413](https://github.com/ZacSweers/CatchUp/pull/413) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.4"
-
-**2023-01-13** — commented on [#2861](https://github.com/mockito/mockito/pull/2861#issuecomment-1381380261) in [mockito/mockito](https://github.com/mockito/mockito)
-
-**2023-01-13** — opened PR [#2861](https://github.com/mockito/mockito/pull/2861) to [mockito/mockito](https://github.com/mockito/mockito): "Catch NoClassDefFoundError in KotlinInlineClassUtil"
-
-**2023-01-12** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
