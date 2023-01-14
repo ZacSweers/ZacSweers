@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-14** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-01-14** — merged PR [#1444](https://github.com/square/kotlinpoet/pull/1444) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.5"
+
+**2023-01-14** — commented on [#1444](https://github.com/square/kotlinpoet/pull/1444#issuecomment-1382955926) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-01-14** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-14** — merged PR [#388](https://github.com/slackhq/circuit/pull/388) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.4"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-14** — merged PR [#414](https://github.com/ZacSweers/CatchUp/pull/414) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.2"
 
 **2023-01-14** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-14** — merged PR [#415](https://github.com/ZacSweers/CatchUp/pull/415) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.4.2"
-
-**2023-01-13** — created tag `0.4.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — closed issue [#179](https://github.com/slackhq/slack-gradle-plugin/issues/179) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconsider memory args for daemons"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
