@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-14** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-14** — merged PR [#414](https://github.com/ZacSweers/CatchUp/pull/414) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.2"
+
+**2023-01-14** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-14** — merged PR [#415](https://github.com/ZacSweers/CatchUp/pull/415) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.4.2"
+
 **2023-01-13** — created tag `0.4.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-13** — closed issue [#179](https://github.com/slackhq/slack-gradle-plugin/issues/179) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconsider memory args for daemons"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-13** — opened PR [#212](https://github.com/slackhq/slack-gradle-plugin/pull/212) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AGP args on CI"
 
 **2023-01-13** — created branch `z/updateCi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — opened PR [#211](https://github.com/slackhq/slack-gradle-plugin/pull/211) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change memory default"
-
-**2023-01-13** — created branch `z/newMemoryDefaults` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — commented on [#203](https://github.com/slackhq/slack-gradle-plugin/pull/203#issuecomment-1382409979) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-13** — deleted branch `z/enterpriseRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
