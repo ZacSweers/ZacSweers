@@ -9,7 +9,7 @@ kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.8.0-1.0.8" }
 moshix = { id = "dev.zacsweers.moshix", version = "0.21.0" }
-spotless = { id = "com.diffplug.spotless", version = "6.12.1" }
+spotless = { id = "com.diffplug.spotless", version = "6.13.0" }
 versions = { id = "com.github.ben-manes.versions", version = "0.44.0" }
 
 [libraries]
