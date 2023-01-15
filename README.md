@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-01-14** — merged PR [#372](https://github.com/ZacSweers/MoshiX/pull/372) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.13.0"
+
+**2023-01-14** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-14** — merged PR [#416](https://github.com/ZacSweers/CatchUp/pull/416) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.13.0"
+
+**2023-01-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-01-14** — merged PR [#18](https://github.com/ZacSweers/ZacSweers/pull/18) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.13.0"
+
 **2023-01-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-01-14** — merged PR [#112](https://github.com/ZacSweers/redacted-compiler-plugin/pull/112) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.13.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-14** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-01-14** — merged PR [#1444](https://github.com/square/kotlinpoet/pull/1444) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.5"
-
-**2023-01-14** — commented on [#1444](https://github.com/square/kotlinpoet/pull/1444#issuecomment-1382955926) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-01-14** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-14** — merged PR [#388](https://github.com/slackhq/circuit/pull/388) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.4"
-
-**2023-01-14** — deleted branch `test-renovate/future-0.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-14** — merged PR [#387](https://github.com/slackhq/circuit/pull/387) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency future to v0.18.3"
-
-**2023-01-14** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
