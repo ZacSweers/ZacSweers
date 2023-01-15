@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-15** — opened PR [#419](https://github.com/ZacSweers/CatchUp/pull/419) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve placeholder handling"
+
+**2023-01-15** — created branch `z/placeholderImprovements` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-15** — deleted branch `z/circuitOrderServices` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-15** — merged PR [#418](https://github.com/ZacSweers/CatchUp/pull/418) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Missing commits"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-15** — opened PR [#417](https://github.com/ZacSweers/CatchUp/pull/417) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Circuit-ify order services"
 
 **2023-01-15** — created branch `z/circuitOrderServices` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-14** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-14** — merged PR [#372](https://github.com/ZacSweers/MoshiX/pull/372) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
