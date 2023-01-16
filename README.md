@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-16** — deleted branch `z/agp74` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-16** — merged PR [#391](https://github.com/slackhq/circuit/pull/391) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to 7.4"
+
+**2023-01-16** — commented on [#393](https://github.com/slackhq/circuit/pull/393#issuecomment-1384221374) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-16** — deleted branch `test-renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-16** — merged PR [#392](https://github.com/slackhq/circuit/pull/392) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.6.0"
+
 **2023-01-16** — commented on [#133](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/133#issuecomment-1384196683) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2023-01-15** — deleted branch `z/removeDeadCode` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-15** — opened PR [#423](https://github.com/ZacSweers/CatchUp/pull/423) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove a bunch of dead code or fixes"
 
 **2023-01-15** — created branch `z/removeDeadCode` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-15** — opened PR [#391](https://github.com/slackhq/circuit/pull/391) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to 7.4"
-
-**2023-01-15** — created branch `z/agp74` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-15** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-15** — merged PR [#389](https://github.com/slackhq/circuit/pull/389) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.5"
-
-**2023-01-15** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
