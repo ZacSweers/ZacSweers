@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-16** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-16** — merged PR [#424](https://github.com/ZacSweers/CatchUp/pull/424) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.177.0"
+
 **2023-01-16** — deleted branch `z/agp74` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-16** — merged PR [#391](https://github.com/slackhq/circuit/pull/391) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to 7.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-15** — deleted branch `z/removeDeadCode` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-15** — merged PR [#423](https://github.com/ZacSweers/CatchUp/pull/423) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove a bunch of dead code or fixes"
-
-**2023-01-15** — opened PR [#423](https://github.com/ZacSweers/CatchUp/pull/423) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove a bunch of dead code or fixes"
-
-**2023-01-15** — created branch `z/removeDeadCode` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
