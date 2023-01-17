@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-17** — deleted branch `test-renovate/major-androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-17** — merged PR [#395](https://github.com/slackhq/circuit/pull/395) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023"
+
 **2023-01-17** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-17** — merged PR [#373](https://github.com/ZacSweers/MoshiX/pull/373) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.24.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-16** — commented on [#393](https://github.com/slackhq/circuit/pull/393#issuecomment-1384221374) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-16** — deleted branch `test-renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-16** — merged PR [#392](https://github.com/slackhq/circuit/pull/392) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.6.0"
-
-**2023-01-16** — commented on [#133](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/133#issuecomment-1384196683) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
