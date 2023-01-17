@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-17** — deleted branch `test-renovate/major-androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-17** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-17** — merged PR [#395](https://github.com/slackhq/circuit/pull/395) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023"
+**2023-01-17** — merged PR [#214](https://github.com/slackhq/slack-gradle-plugin/pull/214) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.13.0"
 
-**2023-01-17** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-01-17** — deleted branch `test-renovate/net.java.dev.jna` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-17** — merged PR [#373](https://github.com/ZacSweers/MoshiX/pull/373) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.24.2"
+**2023-01-17** — merged PR [#215](https://github.com/slackhq/slack-gradle-plugin/pull/215) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency net.java.dev.jna:jna to v5.13.0"
 
-**2023-01-16** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-17** — deleted branch `test-renovate/com.android.tools.build-gradle-7.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-16** — merged PR [#424](https://github.com/ZacSweers/CatchUp/pull/424) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.177.0"
+**2023-01-17** — closed PR [#213](https://github.com/slackhq/slack-gradle-plugin/pull/213) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v7.4.0"
 
-**2023-01-16** — deleted branch `z/agp74` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-17** — opened PR [#217](https://github.com/slackhq/slack-gradle-plugin/pull/217) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Source desugar libraries from libs.versions.toml instead"
 
-**2023-01-16** — merged PR [#391](https://github.com/slackhq/circuit/pull/391) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to 7.4"
+**2023-01-17** — created branch `z/sourceDesugar` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-16** — commented on [#393](https://github.com/slackhq/circuit/pull/393#issuecomment-1384221374) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-17** — opened PR [#216](https://github.com/slackhq/slack-gradle-plugin/pull/216) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 19 and latest AGPs"
+
+**2023-01-17** — created branch `z/updateVersions` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
