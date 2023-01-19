@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-19** — commented on [#401](https://github.com/slackhq/circuit/pull/401#issuecomment-1397546285) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-19** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-19** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-19** — merged PR [#220](https://github.com/slackhq/slack-gradle-plugin/pull/220) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.6"
 
-**2023-01-19** — merged PR [#428](https://github.com/ZacSweers/CatchUp/pull/428) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.1"
+**2023-01-19** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-19** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-19** — merged PR [#219](https://github.com/slackhq/slack-gradle-plugin/pull/219) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.23.2"
 
-**2023-01-19** — merged PR [#400](https://github.com/slackhq/circuit/pull/400) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.6"
+**2023-01-19** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-18** — deleted branch `renovate/io.reactivex.rxjava3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-01-19** — merged PR [#218](https://github.com/slackhq/slack-gradle-plugin/pull/218) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta01"
 
-**2023-01-18** — merged PR [#427](https://github.com/ZacSweers/CatchUp/pull/427) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.6"
+**2023-01-19** — deleted branch `z/sourceDesugar` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-01-18** — closed issue [#116](https://github.com/slackhq/keeper/issues/116) on [slackhq/keeper](https://github.com/slackhq/keeper): "Slack keeper plugin is not applied after updating to 0.12.0 or greater than that"
+**2023-01-19** — merged PR [#217](https://github.com/slackhq/slack-gradle-plugin/pull/217) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Source desugar libraries from libs.versions.toml instead"
 
-**2023-01-18** — commented on [#116](https://github.com/slackhq/keeper/issues/116#issuecomment-1387207637) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-01-19** — opened PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
 
-**2023-01-17** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-01-19** — created branch `z/bugsnagDebug` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
