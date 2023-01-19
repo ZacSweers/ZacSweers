@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-19** — commented on [#401](https://github.com/slackhq/circuit/pull/401#issuecomment-1397546285) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-01-19** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-19** — merged PR [#428](https://github.com/ZacSweers/CatchUp/pull/428) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-18** — commented on [#116](https://github.com/slackhq/keeper/issues/116#issuecomment-1387207637) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-01-17** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-17** — merged PR [#214](https://github.com/slackhq/slack-gradle-plugin/pull/214) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
