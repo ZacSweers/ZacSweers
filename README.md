@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-19** — merged PR [#216](https://github.com/slackhq/slack-gradle-plugin/pull/216) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 19 and latest AGPs"
+
+**2023-01-19** — deleted branch `z/updateVersions` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-19** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-19** — merged PR [#220](https://github.com/slackhq/slack-gradle-plugin/pull/220) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.6"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-19** — deleted branch `z/sourceDesugar` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-19** — merged PR [#217](https://github.com/slackhq/slack-gradle-plugin/pull/217) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Source desugar libraries from libs.versions.toml instead"
-
-**2023-01-19** — opened PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
-
-**2023-01-19** — created branch `z/bugsnagDebug` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
