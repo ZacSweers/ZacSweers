@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-20** — created branch `z/detektCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-20** — opened PR [#222](https://github.com/slackhq/slack-gradle-plugin/pull/222) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Catch and print errors with thermal closes"
+
+**2023-01-20** — created branch `z/errorHandleThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-20** — deleted branch `z/bugsnagDebug` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-20** — merged PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-19** — created branch `z/ndkBaseDirFix` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
 
 **2023-01-19** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1397905846) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
-
-**2023-01-19** — merged PR [#216](https://github.com/slackhq/slack-gradle-plugin/pull/216) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 19 and latest AGPs"
-
-**2023-01-19** — deleted branch `z/updateVersions` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-19** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
