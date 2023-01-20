@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-19** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1397911633) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+
+**2023-01-19** — opened PR [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491) to [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Fix NdkToolchain.baseDir configuration cache"
+
+**2023-01-19** — created branch `z/ndkBaseDirFix` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
+
+**2023-01-19** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1397905846) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+
 **2023-01-19** — merged PR [#216](https://github.com/slackhq/slack-gradle-plugin/pull/216) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 19 and latest AGPs"
 
 **2023-01-19** — deleted branch `z/updateVersions` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-19** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-19** — merged PR [#219](https://github.com/slackhq/slack-gradle-plugin/pull/219) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.23.2"
-
-**2023-01-19** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-19** — merged PR [#218](https://github.com/slackhq/slack-gradle-plugin/pull/218) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta01"
-
-**2023-01-19** — deleted branch `z/sourceDesugar` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-19** — merged PR [#217](https://github.com/slackhq/slack-gradle-plugin/pull/217) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Source desugar libraries from libs.versions.toml instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
