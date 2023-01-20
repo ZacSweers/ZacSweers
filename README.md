@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-20** — deleted branch `z/bugsnagDebug` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-20** — merged PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
+
 **2023-01-20** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1398821387) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 
 **2023-01-19** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1397911633) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-19** — deleted branch `z/updateVersions` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-19** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-19** — merged PR [#220](https://github.com/slackhq/slack-gradle-plugin/pull/220) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.6"
-
-**2023-01-19** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
