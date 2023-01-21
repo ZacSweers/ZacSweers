@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-20** — merged PR [#402](https://github.com/slackhq/circuit/pull/402) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.6"
+
+**2023-01-20** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-20** — merged PR [#430](https://github.com/ZacSweers/CatchUp/pull/430) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-alpha05"
+
+**2023-01-20** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-20** — created branch `z/detektCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-20** — opened PR [#222](https://github.com/slackhq/slack-gradle-plugin/pull/222) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Catch and print errors with thermal closes"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-20** — merged PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
 
 **2023-01-20** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1398821387) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
-
-**2023-01-19** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1397911633) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
-
-**2023-01-19** — opened PR [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491) to [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Fix NdkToolchain.baseDir configuration cache"
-
-**2023-01-19** — created branch `z/ndkBaseDirFix` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2023-01-19** — commented on [#253](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/253#issuecomment-1397905846) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
