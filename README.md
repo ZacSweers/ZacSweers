@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-21** — opened issue [#223](https://github.com/slackhq/slack-gradle-plugin/issues/223) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "ModuleStats not cacheable across machines"
+
 **2023-01-20** — merged PR [#402](https://github.com/slackhq/circuit/pull/402) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.6"
 
 **2023-01-20** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-20** — deleted branch `z/bugsnagDebug` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-20** — merged PR [#221](https://github.com/slackhq/slack-gradle-plugin/pull/221) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework how bugsnag is enabled"
-
-**2023-01-20** — commented on [#491](https://github.com/bugsnag/bugsnag-android-gradle-plugin/pull/491#issuecomment-1398821387) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
