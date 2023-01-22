@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-22** — deleted branch `z/debugScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-22** — merged PR [#431](https://github.com/ZacSweers/CatchUp/pull/431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement debug screen in circuit"
+
+**2023-01-22** — opened issue [#14](https://github.com/canopas/Intro-showcase-view/issues/14) on [canopas/Intro-showcase-view](https://github.com/canopas/Intro-showcase-view): "Bug: dismissing a tap target doesn't have an exit animation"
+
+**2023-01-22** — opened issue [#13](https://github.com/canopas/Intro-showcase-view/issues/13) on [canopas/Intro-showcase-view](https://github.com/canopas/Intro-showcase-view): "Feature request: dismiss target when clicking outside of it"
+
 **2023-01-21** — opened PR [#431](https://github.com/ZacSweers/CatchUp/pull/431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement debug screen in circuit"
 
 **2023-01-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-21** — closed PR [#426](https://github.com/ZacSweers/CatchUp/pull/426) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-beta01"
 
 **2023-01-21** — created branch `z/debugScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-21** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-21** — merged PR [#404](https://github.com/slackhq/circuit/pull/404) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.9.2"
-
-**2023-01-21** — opened issue [#223](https://github.com/slackhq/slack-gradle-plugin/issues/223) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "ModuleStats not cacheable across machines"
-
-**2023-01-20** — merged PR [#402](https://github.com/slackhq/circuit/pull/402) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
