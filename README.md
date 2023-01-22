@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-22** — opened PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
+
+**2023-01-22** — created branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-22** — merged PR [#375](https://github.com/ZacSweers/MoshiX/pull/375) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "update kotlinx-metadata-jvm to 0.6.0"
 
 **2023-01-22** — commented on [#408](https://github.com/slackhq/circuit/pull/408#issuecomment-1399522885) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-22** — opened issue [#14](https://github.com/canopas/Intro-showcase-view/issues/14) on [canopas/Intro-showcase-view](https://github.com/canopas/Intro-showcase-view): "Bug: dismissing a tap target doesn't have an exit animation"
 
 **2023-01-22** — opened issue [#13](https://github.com/canopas/Intro-showcase-view/issues/13) on [canopas/Intro-showcase-view](https://github.com/canopas/Intro-showcase-view): "Feature request: dismiss target when clicking outside of it"
-
-**2023-01-21** — opened PR [#431](https://github.com/ZacSweers/CatchUp/pull/431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement debug screen in circuit"
-
-**2023-01-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
