@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-21** — opened PR [#431](https://github.com/ZacSweers/CatchUp/pull/431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement debug screen in circuit"
+
+**2023-01-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-21** — merged PR [#425](https://github.com/ZacSweers/CatchUp/pull/425) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0-rc-2"
+
+**2023-01-21** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-21** — closed PR [#426](https://github.com/ZacSweers/CatchUp/pull/426) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.0.0-beta01"
+
+**2023-01-21** — created branch `z/debugScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-21** — deleted branch `test-renovate/pymdown-extensions-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-21** — merged PR [#404](https://github.com/slackhq/circuit/pull/404) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency pymdown-extensions to v9.9.2"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-21** — opened issue [#223](https://github.com/slackhq/slack-gradle-plugin/issues/223) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "ModuleStats not cacheable across machines"
 
 **2023-01-20** — merged PR [#402](https://github.com/slackhq/circuit/pull/402) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.6"
-
-**2023-01-20** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-20** — merged PR [#430](https://github.com/ZacSweers/CatchUp/pull/430) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-alpha05"
-
-**2023-01-20** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-20** — created branch `z/detektCompiler` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-20** — opened PR [#222](https://github.com/slackhq/slack-gradle-plugin/pull/222) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Catch and print errors with thermal closes"
-
-**2023-01-20** — created branch `z/errorHandleThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
