@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-23** — deleted branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-23** — merged PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
+
 **2023-01-22** — commented on [#1601](https://github.com/square/moshi/pull/1601#issuecomment-1399738097) in [square/moshi](https://github.com/square/moshi)
 
 **2023-01-22** — opened PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-22** — closed PR [#408](https://github.com/slackhq/circuit/pull/408) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin dependencyGuard to v0.4.0"
 
 **2023-01-22** — deleted branch `z/debugScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-22** — merged PR [#431](https://github.com/ZacSweers/CatchUp/pull/431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reimplement debug screen in circuit"
-
-**2023-01-22** — opened issue [#14](https://github.com/canopas/Intro-showcase-view/issues/14) on [canopas/Intro-showcase-view](https://github.com/canopas/Intro-showcase-view): "Bug: dismissing a tap target doesn't have an exit animation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
