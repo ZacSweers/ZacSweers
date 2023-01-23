@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-23** — created branch `z/fix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — created tag `0.5.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — created tag `0.5.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — deleted branch `z/monkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — merged PR [#224](https://github.com/slackhq/slack-gradle-plugin/pull/224) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce monkey patch for MergeFileTask"
+
+**2023-01-23** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-1400895879) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-23** — deleted branch `test-renovate/org.jline` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-23** — merged PR [#407](https://github.com/slackhq/circuit/pull/407) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jline:jline to v3.22.0"
+
 **2023-01-23** — opened PR [#224](https://github.com/slackhq/slack-gradle-plugin/pull/224) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce monkey patch for MergeFileTask"
 
 **2023-01-23** — created branch `z/monkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-23** — closed issue [#162](https://github.com/slackhq/slack-gradle-plugin/issues/162) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Logging throws an exception during cleans"
-
-**2023-01-23** — deleted branch `z/errorHandleThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-23** — merged PR [#222](https://github.com/slackhq/slack-gradle-plugin/pull/222) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Catch and print errors with thermal closes"
-
-**2023-01-23** — opened PR [#434](https://github.com/ZacSweers/CatchUp/pull/434) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro crash"
-
-**2023-01-23** — created branch `z/reproBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-23** — opened PR [#433](https://github.com/ZacSweers/CatchUp/pull/433) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP migrate image viewer to Circuit/Compose"
-
-**2023-01-23** — created branch `z/wipImageViewer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-23** — deleted branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
