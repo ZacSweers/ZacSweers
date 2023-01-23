@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-23** — opened PR [#433](https://github.com/ZacSweers/CatchUp/pull/433) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP migrate image viewer to Circuit/Compose"
+
+**2023-01-23** — created branch `z/wipImageViewer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-23** — deleted branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-23** — merged PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-22** — commented on [#408](https://github.com/slackhq/circuit/pull/408#issuecomment-1399522885) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-22** — deleted branch `test-renovate/com.dropbox.dependency-guard-0.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-22** — closed PR [#408](https://github.com/slackhq/circuit/pull/408) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin dependencyGuard to v0.4.0"
-
-**2023-01-22** — deleted branch `z/debugScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
