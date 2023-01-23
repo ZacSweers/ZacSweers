@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-23** — created branch `z/locPortability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-23** — created branch `z/fix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-01-23** — created tag `0.5.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-23** — merged PR [#407](https://github.com/slackhq/circuit/pull/407) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jline:jline to v3.22.0"
 
 **2023-01-23** — opened PR [#224](https://github.com/slackhq/slack-gradle-plugin/pull/224) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce monkey patch for MergeFileTask"
-
-**2023-01-23** — created branch `z/monkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
