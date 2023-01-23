@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-23** — opened PR [#224](https://github.com/slackhq/slack-gradle-plugin/pull/224) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce monkey patch for MergeFileTask"
+
+**2023-01-23** — created branch `z/monkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — closed issue [#162](https://github.com/slackhq/slack-gradle-plugin/issues/162) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Logging throws an exception during cleans"
+
+**2023-01-23** — deleted branch `z/errorHandleThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-23** — merged PR [#222](https://github.com/slackhq/slack-gradle-plugin/pull/222) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Catch and print errors with thermal closes"
+
 **2023-01-23** — opened PR [#434](https://github.com/ZacSweers/CatchUp/pull/434) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro crash"
 
 **2023-01-23** — created branch `z/reproBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-23** — created branch `z/wipImageViewer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-23** — deleted branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-23** — merged PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
-
-**2023-01-22** — commented on [#1601](https://github.com/square/moshi/pull/1601#issuecomment-1399738097) in [square/moshi](https://github.com/square/moshi)
-
-**2023-01-22** — opened PR [#432](https://github.com/ZacSweers/CatchUp/pull/432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc fixes"
-
-**2023-01-22** — created branch `z/miscFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-22** — merged PR [#375](https://github.com/ZacSweers/MoshiX/pull/375) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "update kotlinx-metadata-jvm to 0.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
