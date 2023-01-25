@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-25** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-25** — merged PR [#435](https://github.com/ZacSweers/CatchUp/pull/435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.1"
+
+**2023-01-25** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-25** — merged PR [#444](https://github.com/ZacSweers/CatchUp/pull/444) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-alpha05"
+
+**2023-01-25** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-25** — merged PR [#438](https://github.com/ZacSweers/CatchUp/pull/438) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.7.0-alpha04"
+
+**2023-01-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-25** — merged PR [#440](https://github.com/ZacSweers/CatchUp/pull/440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+
 **2023-01-25** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-25** — merged PR [#436](https://github.com/ZacSweers/CatchUp/pull/436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0"
-
-**2023-01-25** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#437](https://github.com/ZacSweers/CatchUp/pull/437) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update corbind to v1.7.0"
-
-**2023-01-25** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#439](https://github.com/ZacSweers/CatchUp/pull/439) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.10.0-alpha02"
-
-**2023-01-25** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#441](https://github.com/ZacSweers/CatchUp/pull/441) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-alpha05"
-
-**2023-01-25** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#442](https://github.com/ZacSweers/CatchUp/pull/442) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
