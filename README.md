@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-24** — opened issue [#34](https://github.com/slackhq/slack-lints/issues/34) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port compose rules to lints"
+
 **2023-01-24** — merged PR [#33](https://github.com/slackhq/slack-lints/pull/33) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Modernize build"
 
 **2023-01-24** — deleted branch `z/updates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-24** — created branch `z/updateGuard` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-24** — commented on [#347](https://github.com/slackhq/circuit/pull/347#issuecomment-1401452725) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-24** — opened PR [#409](https://github.com/slackhq/circuit/pull/409) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to standard paparazzi + 1.2.0 update"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
