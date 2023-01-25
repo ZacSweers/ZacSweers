@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-25** — opened PR [#35](https://github.com/slackhq/slack-lints/pull/35) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port Twitter's Compose Rules to Lint"
+**2023-01-25** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-25** — created branch `z/composeLintsV2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-25** — merged PR [#436](https://github.com/ZacSweers/CatchUp/pull/436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0"
 
-**2023-01-25** — deleted branch `z/kotlin18Testing` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-25** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-25** — merged PR [#347](https://github.com/slackhq/circuit/pull/347) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.8"
+**2023-01-25** — merged PR [#437](https://github.com/ZacSweers/CatchUp/pull/437) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update corbind to v1.7.0"
 
-**2023-01-24** — opened issue [#34](https://github.com/slackhq/slack-lints/issues/34) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port compose rules to lints"
+**2023-01-25** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-24** — merged PR [#33](https://github.com/slackhq/slack-lints/pull/33) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Modernize build"
+**2023-01-25** — merged PR [#439](https://github.com/ZacSweers/CatchUp/pull/439) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.10.0-alpha02"
 
-**2023-01-24** — deleted branch `z/updates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-25** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-24** — deleted branch `test-renovate/com.dropbox.dependency-guard-0.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-25** — merged PR [#441](https://github.com/ZacSweers/CatchUp/pull/441) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-alpha05"
 
-**2023-01-24** — closed PR [#411](https://github.com/slackhq/circuit/pull/411) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin dependencyGuard to v0.4.1"
+**2023-01-25** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-24** — deleted branch `z/paparazziUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-25** — merged PR [#442](https://github.com/ZacSweers/CatchUp/pull/442) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
