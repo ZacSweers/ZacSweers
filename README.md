@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-25** — deleted branch `z/kotlin18Testing` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-25** — merged PR [#347](https://github.com/slackhq/circuit/pull/347) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.8"
+
 **2023-01-24** — opened issue [#34](https://github.com/slackhq/slack-lints/issues/34) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port compose rules to lints"
 
 **2023-01-24** — merged PR [#33](https://github.com/slackhq/slack-lints/pull/33) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Modernize build"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-24** — merged PR [#409](https://github.com/slackhq/circuit/pull/409) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to standard paparazzi + 1.2.0 update"
 
 **2023-01-24** — opened PR [#410](https://github.com/slackhq/circuit/pull/410) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency guard to 0.4.1"
-
-**2023-01-24** — created branch `z/updateGuard` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-01-24** — commented on [#347](https://github.com/slackhq/circuit/pull/347#issuecomment-1401452725) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
