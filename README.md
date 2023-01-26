@@ -4,11 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-25** — created tag `0.2.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-26** — commented on [#36](https://github.com/slackhq/slack-lints/pull/36#issuecomment-1404573294) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-01-25** — deleted branch `z/composeLintsV2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-26** — commented on [#36](https://github.com/slackhq/slack-lints/pull/36#issuecomment-1404567352) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-01-25** — merged PR [#35](https://github.com/slackhq/slack-lints/pull/35) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port (most of) Twitter's Compose Rules to Lint"
+**2023-01-25** — opened PR [#36](https://github.com/slackhq/slack-lints/pull/36) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix compose lint explanation strings"
+
+**2023-01-25** — created branch `z/explanationFixes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
