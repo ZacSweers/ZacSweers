@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-26** — opened PR [#227](https://github.com/slackhq/slack-gradle-plugin/pull/227) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add more logging to monkeypatch and also sort by absolute path"
+
+**2023-01-26** — created branch `z/moreMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-26** — deleted branch `z/explanationFixes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-01-26** — merged PR [#36](https://github.com/slackhq/slack-lints/pull/36) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix compose lint explanation strings"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-01-26** — merged PR [#114](https://github.com/ZacSweers/redacted-compiler-plugin/pull/114) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.0-1.0.9"
-
-**2023-01-26** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-26** — merged PR [#19](https://github.com/ZacSweers/ZacSweers/pull/19) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.0-1.0.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
