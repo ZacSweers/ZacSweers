@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-26** — deleted branch `z/moreMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-01-26** — commented on [#448](https://github.com/ZacSweers/CatchUp/pull/448#issuecomment-1405770646) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-26** — merged PR [#227](https://github.com/slackhq/slack-gradle-plugin/pull/227) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add more logging to monkeypatch and also sort by absolute path"
+**2023-01-26** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-26** — opened issue [#2](https://github.com/slackhq/compose-lints/issues/2) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up repo infra"
+**2023-01-26** — closed PR [#448](https://github.com/ZacSweers/CatchUp/pull/448) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha02"
 
-**2023-01-26** — opened issue [#1](https://github.com/slackhq/compose-lints/issues/1) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port already-converted lints from the slack-lints repo"
+**2023-01-26** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-01-26** — created tag `0.2.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-26** — merged PR [#113](https://github.com/ZacSweers/redacted-compiler-plugin/pull/113) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.23.2"
 
-**2023-01-26** — opened PR [#227](https://github.com/slackhq/slack-gradle-plugin/pull/227) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add more logging to monkeypatch and also sort by absolute path"
+**2023-01-26** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-26** — created branch `z/moreMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-01-26** — merged PR [#20](https://github.com/ZacSweers/ZacSweers/pull/20) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.14.0"
 
-**2023-01-26** — deleted branch `z/explanationFixes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-01-26** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-26** — merged PR [#36](https://github.com/slackhq/slack-lints/pull/36) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix compose lint explanation strings"
+**2023-01-26** — merged PR [#449](https://github.com/ZacSweers/CatchUp/pull/449) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-alpha05"
 
-**2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-01-26** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
