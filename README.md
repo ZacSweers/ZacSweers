@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-26** — opened issue [#2](https://github.com/slackhq/compose-lints/issues/2) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up repo infra"
+
+**2023-01-26** — opened issue [#1](https://github.com/slackhq/compose-lints/issues/1) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port already-converted lints from the slack-lints repo"
+
+**2023-01-26** — created tag `0.2.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-01-26** — opened PR [#227](https://github.com/slackhq/slack-gradle-plugin/pull/227) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add more logging to monkeypatch and also sort by absolute path"
 
 **2023-01-26** — created branch `z/moreMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — merged PR [#377](https://github.com/ZacSweers/MoshiX/pull/377) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.0-1.0.9"
 
 **2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-26** — merged PR [#446](https://github.com/ZacSweers/CatchUp/pull/446) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.0-1.0.9"
-
-**2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-01-26** — merged PR [#114](https://github.com/ZacSweers/redacted-compiler-plugin/pull/114) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.0-1.0.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
