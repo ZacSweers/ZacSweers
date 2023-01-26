@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-26** — deleted branch `z/explanationFixes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-01-26** — merged PR [#36](https://github.com/slackhq/slack-lints/pull/36) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix compose lint explanation strings"
+
 **2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-01-26** — merged PR [#377](https://github.com/ZacSweers/MoshiX/pull/377) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.0-1.0.9"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-01-26** — merged PR [#19](https://github.com/ZacSweers/ZacSweers/pull/19) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.0-1.0.9"
-
-**2023-01-26** — deleted branch `z/contentAlpha` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-26** — merged PR [#447](https://github.com/ZacSweers/CatchUp/pull/447) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement DisableableContent for settings screen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
