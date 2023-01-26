@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-26** — deleted branch `z/moreMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-26** — merged PR [#227](https://github.com/slackhq/slack-gradle-plugin/pull/227) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add more logging to monkeypatch and also sort by absolute path"
+
 **2023-01-26** — opened issue [#2](https://github.com/slackhq/compose-lints/issues/2) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up repo infra"
 
 **2023-01-26** — opened issue [#1](https://github.com/slackhq/compose-lints/issues/1) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port already-converted lints from the slack-lints repo"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — merged PR [#36](https://github.com/slackhq/slack-lints/pull/36) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix compose lint explanation strings"
 
 **2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-26** — merged PR [#377](https://github.com/ZacSweers/MoshiX/pull/377) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.0-1.0.9"
-
-**2023-01-26** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
