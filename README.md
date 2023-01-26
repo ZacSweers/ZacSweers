@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-25** — created tag `0.2.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-01-25** — deleted branch `z/composeLintsV2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-01-25** — merged PR [#35](https://github.com/slackhq/slack-lints/pull/35) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port (most of) Twitter's Compose Rules to Lint"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-25** — merged PR [#438](https://github.com/ZacSweers/CatchUp/pull/438) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.7.0-alpha04"
 
 **2023-01-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#440](https://github.com/ZacSweers/CatchUp/pull/440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
