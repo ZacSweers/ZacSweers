@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-25** — deleted branch `z/composeLintsV2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-01-25** — merged PR [#35](https://github.com/slackhq/slack-lints/pull/35) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port (most of) Twitter's Compose Rules to Lint"
+
 **2023-01-25** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-25** — merged PR [#435](https://github.com/ZacSweers/CatchUp/pull/435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-25** — merged PR [#440](https://github.com/ZacSweers/CatchUp/pull/440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
-
-**2023-01-25** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#436](https://github.com/ZacSweers/CatchUp/pull/436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
