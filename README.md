@@ -9,20 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-25** — deleted branch `z/composeLintsV2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-01-25** — merged PR [#35](https://github.com/slackhq/slack-lints/pull/35) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port (most of) Twitter's Compose Rules to Lint"
-
-**2023-01-25** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#435](https://github.com/ZacSweers/CatchUp/pull/435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.1"
-
-**2023-01-25** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#444](https://github.com/ZacSweers/CatchUp/pull/444) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-alpha05"
-
-**2023-01-25** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-25** — merged PR [#438](https://github.com/ZacSweers/CatchUp/pull/438) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.7.0-alpha04"
-
-**2023-01-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
