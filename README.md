@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-26** — commented on [#4](https://github.com/slackhq/compose-lints/pull/4#issuecomment-1405836871) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-26** — created tag `0.5.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-01-26** — opened PR [#4](https://github.com/slackhq/compose-lints/pull/4) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Base repo infra + code drop"
+
+**2023-01-26** — created branch `z/codeDrop` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-01-26** — opened issue [#3](https://github.com/slackhq/compose-lints/issues/3) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Decide on a target lint version"
 
 **2023-01-26** — commented on [#448](https://github.com/ZacSweers/CatchUp/pull/448#issuecomment-1405770646) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-01-26** — merged PR [#113](https://github.com/ZacSweers/redacted-compiler-plugin/pull/113) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.23.2"
-
-**2023-01-26** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-26** — merged PR [#20](https://github.com/ZacSweers/ZacSweers/pull/20) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.14.0"
-
-**2023-01-26** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-26** — merged PR [#449](https://github.com/ZacSweers/CatchUp/pull/449) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
