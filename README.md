@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-27** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-27** — merged PR [#451](https://github.com/ZacSweers/CatchUp/pull/451) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.3"
+
+**2023-01-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-27** — merged PR [#452](https://github.com/ZacSweers/CatchUp/pull/452) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.2"
+
+**2023-01-27** — deleted branch `test-renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-01-27** — merged PR [#414](https://github.com/slackhq/circuit/pull/414) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.14.0"
+
 **2023-01-26** — commented on [#4](https://github.com/slackhq/compose-lints/pull/4#issuecomment-1405836871) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-01-26** — created tag `0.5.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-26** — opened PR [#4](https://github.com/slackhq/compose-lints/pull/4) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Base repo infra + code drop"
 
 **2023-01-26** — created branch `z/codeDrop` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-01-26** — opened issue [#3](https://github.com/slackhq/compose-lints/issues/3) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Decide on a target lint version"
-
-**2023-01-26** — commented on [#448](https://github.com/ZacSweers/CatchUp/pull/448#issuecomment-1405770646) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-26** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-26** — closed PR [#448](https://github.com/ZacSweers/CatchUp/pull/448) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha02"
-
-**2023-01-26** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-01-26** — merged PR [#113](https://github.com/ZacSweers/redacted-compiler-plugin/pull/113) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.23.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
