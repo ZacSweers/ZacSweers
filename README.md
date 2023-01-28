@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-28** — created tag `0.5.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-01-28** — deleted branch `z/updateGemoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-28** — merged PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-28** — created branch `z/fullSpanLoading` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-28** — deleted branch `z/reproBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-28** — closed PR [#434](https://github.com/ZacSweers/CatchUp/pull/434) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro crash"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
