@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-28** — deleted branch `z/updateGemoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-28** — merged PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
+
+**2023-01-28** — opened PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
+
+**2023-01-28** — created branch `z/updateGemoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-28** — deleted branch `z/fullSpanLoading` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-28** — merged PR [#453](https://github.com/ZacSweers/CatchUp/pull/453) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use full line spans for loading and errors in grids"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-28** — deleted branch `z/reproBug` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-28** — closed PR [#434](https://github.com/ZacSweers/CatchUp/pull/434) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro crash"
-
-**2023-01-27** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-27** — merged PR [#451](https://github.com/ZacSweers/CatchUp/pull/451) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.6.3"
-
-**2023-01-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-27** — merged PR [#452](https://github.com/ZacSweers/CatchUp/pull/452) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
