@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-29** — deleted branch `z/wipImageViewer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-01-29** — merged PR [#433](https://github.com/ZacSweers/CatchUp/pull/433) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP migrate image viewer to Circuit/Compose"
+
 **2023-01-29** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-29** — merged PR [#415](https://github.com/slackhq/circuit/pull/415) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-28** — merged PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
 
 **2023-01-28** — opened PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
-
-**2023-01-28** — created branch `z/updateGemoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-28** — deleted branch `z/fullSpanLoading` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
