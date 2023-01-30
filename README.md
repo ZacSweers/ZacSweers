@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-30** — commented on [#3](https://github.com/slackhq/compose-lints/issues/3#issuecomment-1409155092) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-30** — deleted branch `z/codeDrop` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-30** — closed issue [#2](https://github.com/slackhq/compose-lints/issues/2) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up repo infra"
+
+**2023-01-30** — closed issue [#1](https://github.com/slackhq/compose-lints/issues/1) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port already-converted lints from the slack-lints repo"
+
+**2023-01-30** — merged PR [#4](https://github.com/slackhq/compose-lints/pull/4) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Base repo infra + code drop"
+
 **2023-01-30** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-30** — merged PR [#456](https://github.com/ZacSweers/CatchUp/pull/456) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.29.1-alpha"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-30** — deleted branch `z/gemojiRevamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-30** — opened PR [#457](https://github.com/ZacSweers/CatchUp/pull/457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp gemoji"
-
-**2023-01-30** — created branch `z/gemojiRevamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-30** — opened issue [#1294](https://github.com/google/ksp/issues/1294) on [google/ksp](https://github.com/google/ksp): "Gradle configuration warning: "Configuration was resolved during configuration time" "
-
-**2023-01-30** — opened issue [#1293](https://github.com/google/ksp/issues/1293) on [google/ksp](https://github.com/google/ksp): "Gradle configuration warning: "Configuration is both resolvable/consumable or consumable/declarable""
-
-**2023-01-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-01-29** — merged PR [#116](https://github.com/ZacSweers/redacted-compiler-plugin/pull/116) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.24.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
