@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-01-29** — merged PR [#116](https://github.com/ZacSweers/redacted-compiler-plugin/pull/116) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.24.0"
+
+**2023-01-29** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [square/moshi](https://github.com/square/moshi)
+
+**2023-01-29** — merged PR [#1618](https://github.com/square/moshi/pull/1618) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenPublish to v0.24.0"
+
+**2023-01-29** — commented on [#15](https://github.com/ZacSweers/json-serialization-benchmarking/pull/15#issuecomment-1407804253) in [ZacSweers/json-serialization-benchmarking](https://github.com/ZacSweers/json-serialization-benchmarking)
+
 **2023-01-29** — deleted branch `z/wipImageViewer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-29** — merged PR [#433](https://github.com/ZacSweers/CatchUp/pull/433) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP migrate image viewer to Circuit/Compose"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-29** — merged PR [#415](https://github.com/slackhq/circuit/pull/415) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.7"
 
 **2023-01-28** — merged PR [#455](https://github.com/ZacSweers/CatchUp/pull/455) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.3"
-
-**2023-01-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-28** — created tag `0.5.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-01-28** — deleted branch `z/updateGemoji` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-28** — merged PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
-
-**2023-01-28** — opened PR [#454](https://github.com/ZacSweers/CatchUp/pull/454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gemoji"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
