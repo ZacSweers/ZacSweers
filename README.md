@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-30** — opened PR [#11](https://github.com/slackhq/compose-lints/pull/11) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate IDs + add test to ensure them"
+
+**2023-01-30** — created branch `z/uniqueIds` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-01-30** — merged PR [#10](https://github.com/slackhq/compose-lints/pull/10) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update vendor details"
 
 **2023-01-30** — deleted branch `z/vendorUpdate` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-30** — deleted branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-01-30** — merged PR [#8](https://github.com/slackhq/compose-lints/pull/8) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshots"
-
-**2023-01-30** — opened PR [#8](https://github.com/slackhq/compose-lints/pull/8) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshots"
-
-**2023-01-30** — created branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
