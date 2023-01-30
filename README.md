@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-30** — deleted branch `z/fixMain` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-30** — merged PR [#6](https://github.com/slackhq/compose-lints/pull/6) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix version used in tests"
+
+**2023-01-30** — opened PR [#7](https://github.com/slackhq/compose-lints/pull/7) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Linkify twitter/compose-rules in README"
+
+**2023-01-30** — created branch `z/linkify` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-30** — opened PR [#6](https://github.com/slackhq/compose-lints/pull/6) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix version used in tests"
+
+**2023-01-30** — created branch `z/fixMain` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-30** — closed issue [#3](https://github.com/slackhq/compose-lints/issues/3) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Decide on a target lint version"
+
+**2023-01-30** — commented on [#3](https://github.com/slackhq/compose-lints/issues/3#issuecomment-1409301089) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-01-30** — commented on [#3](https://github.com/slackhq/compose-lints/issues/3#issuecomment-1409155092) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-01-30** — deleted branch `z/codeDrop` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-01-30** — closed issue [#2](https://github.com/slackhq/compose-lints/issues/2) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up repo infra"
-
-**2023-01-30** — closed issue [#1](https://github.com/slackhq/compose-lints/issues/1) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port already-converted lints from the slack-lints repo"
-
-**2023-01-30** — merged PR [#4](https://github.com/slackhq/compose-lints/pull/4) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Base repo infra + code drop"
-
-**2023-01-30** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-30** — merged PR [#456](https://github.com/ZacSweers/CatchUp/pull/456) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.29.1-alpha"
-
-**2023-01-30** — merged PR [#457](https://github.com/ZacSweers/CatchUp/pull/457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp gemoji"
-
-**2023-01-30** — deleted branch `z/gemojiRevamp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-01-30** — opened PR [#457](https://github.com/ZacSweers/CatchUp/pull/457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp gemoji"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
