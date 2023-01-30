@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-30** — deleted branch `z/fixMain` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — merged PR [#10](https://github.com/slackhq/compose-lints/pull/10) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update vendor details"
 
-**2023-01-30** — merged PR [#6](https://github.com/slackhq/compose-lints/pull/6) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix version used in tests"
+**2023-01-30** — deleted branch `z/vendorUpdate` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-01-30** — opened PR [#7](https://github.com/slackhq/compose-lints/pull/7) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Linkify twitter/compose-rules in README"
+**2023-01-30** — created branch `z/removeComposeChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-01-30** — created branch `z/linkify` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — opened PR [#10](https://github.com/slackhq/compose-lints/pull/10) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update vendor details"
 
-**2023-01-30** — opened PR [#6](https://github.com/slackhq/compose-lints/pull/6) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix version used in tests"
+**2023-01-30** — created branch `z/vendorUpdate` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-01-30** — created branch `z/fixMain` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — opened issue [#9](https://github.com/slackhq/compose-lints/issues/9) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up website"
 
-**2023-01-30** — closed issue [#3](https://github.com/slackhq/compose-lints/issues/3) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Decide on a target lint version"
+**2023-01-30** — deleted branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-01-30** — commented on [#3](https://github.com/slackhq/compose-lints/issues/3#issuecomment-1409301089) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — merged PR [#8](https://github.com/slackhq/compose-lints/pull/8) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshots"
 
-**2023-01-30** — commented on [#3](https://github.com/slackhq/compose-lints/issues/3#issuecomment-1409155092) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — opened PR [#8](https://github.com/slackhq/compose-lints/pull/8) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshots"
 
-**2023-01-30** — deleted branch `z/codeDrop` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-30** — created branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
