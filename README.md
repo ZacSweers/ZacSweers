@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-01-31** — merged PR [#13](https://github.com/slackhq/compose-lints/pull/13) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove CompositionLocalNaming detector"
+**2023-01-31** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-01-31** — deleted branch `z/removeCompositionLocalNaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-31** — merged PR [#461](https://github.com/ZacSweers/CatchUp/pull/461) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin versions to v0.45.0"
 
-**2023-01-31** — opened PR [#13](https://github.com/slackhq/compose-lints/pull/13) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove CompositionLocalNaming detector"
+**2023-01-31** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-01-31** — created branch `z/removeCompositionLocalNaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-01-31** — merged PR [#374](https://github.com/ZacSweers/MoshiX/pull/374) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.24.0"
 
-**2023-01-31** — opened issue [#3611](https://github.com/Kotlin/kotlinx.coroutines/issues/3611) on [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines): "Feature request: allow stacktrace recovery in production"
+**2023-01-31** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-01-31** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-31** — merged PR [#21](https://github.com/ZacSweers/ZacSweers/pull/21) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.45.0"
 
-**2023-01-31** — merged PR [#419](https://github.com/slackhq/circuit/pull/419) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.3"
+**2023-01-31** — deleted branch `renovate/configure` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-01-31** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-01-31** — merged PR [#17](https://github.com/slackhq/compose-lints/pull/17) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Configure Renovate"
 
-**2023-01-31** — merged PR [#418](https://github.com/slackhq/circuit/pull/418) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.9"
+**2023-01-31** — commented on [#17](https://github.com/slackhq/compose-lints/pull/17#issuecomment-1411173761) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-01-31** — commented on [#1623](https://github.com/square/moshi/pull/1623#issuecomment-1410491802) in [square/moshi](https://github.com/square/moshi)
+**2023-01-31** — deleted branch `z/renameWithoutPrefix` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
