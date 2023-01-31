@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-31** — merged PR [#13](https://github.com/slackhq/compose-lints/pull/13) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove CompositionLocalNaming detector"
+
+**2023-01-31** — deleted branch `z/removeCompositionLocalNaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-31** — opened PR [#13](https://github.com/slackhq/compose-lints/pull/13) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove CompositionLocalNaming detector"
+
+**2023-01-31** — created branch `z/removeCompositionLocalNaming` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-01-31** — opened issue [#3611](https://github.com/Kotlin/kotlinx.coroutines/issues/3611) on [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines): "Feature request: allow stacktrace recovery in production"
+
 **2023-01-31** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-01-31** — merged PR [#419](https://github.com/slackhq/circuit/pull/419) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.3"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-31** — merged PR [#418](https://github.com/slackhq/circuit/pull/418) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.9"
 
 **2023-01-31** — commented on [#1623](https://github.com/square/moshi/pull/1623#issuecomment-1410491802) in [square/moshi](https://github.com/square/moshi)
-
-**2023-01-31** — deleted branch `z/linkify` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-01-31** — merged PR [#7](https://github.com/slackhq/compose-lints/pull/7) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Linkify twitter/compose-rules in README"
-
-**2023-01-30** — opened PR [#11](https://github.com/slackhq/compose-lints/pull/11) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate IDs + add test to ensure them"
-
-**2023-01-30** — created branch `z/uniqueIds` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-01-30** — merged PR [#10](https://github.com/slackhq/compose-lints/pull/10) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update vendor details"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
