@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-01** — opened PR [#25](https://github.com/slackhq/compose-lints/pull/25) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up website/docs"
+
+**2023-02-01** — created branch `z/docs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-02-01** — opened PR [#37](https://github.com/slackhq/slack-lints/pull/37) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove compose checks"
 
 **2023-02-01** — opened issue [#24](https://github.com/slackhq/compose-lints/issues/24) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port compose rules to lints"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-01** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-01** — merged PR [#22](https://github.com/slackhq/compose-lints/pull/22) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.24.0"
-
-**2023-02-01** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-01** — merged PR [#21](https://github.com/slackhq/compose-lints/pull/21) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
