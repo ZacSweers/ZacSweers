@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-01** — opened PR [#423](https://github.com/slackhq/circuit/pull/423) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovate json"
+
+**2023-02-01** — created branch `z/updateRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-01** — closed PR [#406](https://github.com/slackhq/circuit/pull/406) to [slackhq/circuit](https://github.com/slackhq/circuit): "Desktop: Introduce UI dependency"
+
+**2023-02-01** — commented on [#406](https://github.com/slackhq/circuit/pull/406#issuecomment-1412759627) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-01** — opened PR [#422](https://github.com/slackhq/circuit/pull/422) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce compose.ui dependency and add Modifier to Ui.Content()"
+
+**2023-02-01** — created branch `z/modifiersInContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-02-01** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-01** — merged PR [#464](https://github.com/ZacSweers/CatchUp/pull/464) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.16.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-01** — merged PR [#421](https://github.com/slackhq/circuit/pull/421) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ben-manes.versions to v0.45.0"
 
 **2023-02-01** — deleted branch `test-renovate/versionsplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-01** — deleted branch `test-renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-01** — merged PR [#420](https://github.com/slackhq/circuit/pull/420) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to v1.3.0"
-
-**2023-02-01** — deleted branch `z/fixSqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-01** — merged PR [#463](https://github.com/ZacSweers/CatchUp/pull/463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try to fix sqldelight verifications on CI"
-
-**2023-01-31** — opened PR [#463](https://github.com/ZacSweers/CatchUp/pull/463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try to fix sqldelight verifications on CI"
-
-**2023-01-31** — created branch `z/fixSqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
