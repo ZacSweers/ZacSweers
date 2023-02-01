@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-01-31** — opened PR [#463](https://github.com/ZacSweers/CatchUp/pull/463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try to fix sqldelight verifications on CI"
+
+**2023-01-31** — created branch `z/fixSqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-01-31** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-31** — merged PR [#461](https://github.com/ZacSweers/CatchUp/pull/461) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin versions to v0.45.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-31** — deleted branch `renovate/configure` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-01-31** — merged PR [#17](https://github.com/slackhq/compose-lints/pull/17) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Configure Renovate"
-
-**2023-01-31** — commented on [#17](https://github.com/slackhq/compose-lints/pull/17#issuecomment-1411173761) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-01-31** — deleted branch `z/renameWithoutPrefix` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
