@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-01** — opened PR [#423](https://github.com/slackhq/circuit/pull/423) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovate json"
+**2023-02-01** — opened PR [#37](https://github.com/slackhq/slack-lints/pull/37) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove compose checks"
 
-**2023-02-01** — created branch `z/updateRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-01** — opened issue [#24](https://github.com/slackhq/compose-lints/issues/24) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port compose rules to lints"
 
-**2023-02-01** — closed PR [#406](https://github.com/slackhq/circuit/pull/406) to [slackhq/circuit](https://github.com/slackhq/circuit): "Desktop: Introduce UI dependency"
+**2023-02-01** — closed issue [#23](https://github.com/slackhq/compose-lints/issues/23) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port remaining checks to lint"
 
-**2023-02-01** — commented on [#406](https://github.com/slackhq/circuit/pull/406#issuecomment-1412759627) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-01** — opened issue [#23](https://github.com/slackhq/compose-lints/issues/23) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port remaining checks to lint"
 
-**2023-02-01** — opened PR [#422](https://github.com/slackhq/circuit/pull/422) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce compose.ui dependency and add Modifier to Ui.Content()"
+**2023-02-01** — deleted branch `z/composeLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-02-01** — created branch `z/modifiersInContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-01** — closed PR [#20](https://github.com/slackhq/slack-lints/pull/20) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Start compose lints"
 
-**2023-02-01** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-01** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-02-01** — merged PR [#464](https://github.com/ZacSweers/CatchUp/pull/464) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.16.0"
+**2023-02-01** — merged PR [#22](https://github.com/slackhq/compose-lints/pull/22) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.24.0"
 
-**2023-02-01** — merged PR [#421](https://github.com/slackhq/circuit/pull/421) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ben-manes.versions to v0.45.0"
+**2023-02-01** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-02-01** — deleted branch `test-renovate/versionsplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-01** — merged PR [#21](https://github.com/slackhq/compose-lints/pull/21) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
