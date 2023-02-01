@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-01** — merged PR [#421](https://github.com/slackhq/circuit/pull/421) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ben-manes.versions to v0.45.0"
+
+**2023-02-01** — deleted branch `test-renovate/versionsplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-01** — deleted branch `test-renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-01** — merged PR [#420](https://github.com/slackhq/circuit/pull/420) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to v1.3.0"
+
 **2023-02-01** — deleted branch `z/fixSqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-01** — merged PR [#463](https://github.com/ZacSweers/CatchUp/pull/463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try to fix sqldelight verifications on CI"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-01-31** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-01-31** — merged PR [#461](https://github.com/ZacSweers/CatchUp/pull/461) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin versions to v0.45.0"
-
-**2023-01-31** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-01-31** — merged PR [#374](https://github.com/ZacSweers/MoshiX/pull/374) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.24.0"
-
-**2023-01-31** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-01-31** — merged PR [#21](https://github.com/ZacSweers/ZacSweers/pull/21) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.45.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
