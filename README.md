@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — deleted branch `renovate/com.android.tools` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#466](https://github.com/ZacSweers/CatchUp/pull/466) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.0.1"
+
+**2023-02-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-02-02** — merged PR [#111](https://github.com/ZacSweers/redacted-compiler-plugin/pull/111) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo"
+
+**2023-02-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-02-02** — merged PR [#22](https://github.com/ZacSweers/ZacSweers/pull/22) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.10"
+
 **2023-02-02** — commented on [#1625](https://github.com/square/moshi/pull/1625#issuecomment-1413858928) in [square/moshi](https://github.com/square/moshi)
 
 **2023-02-02** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-02** — merged PR [#379](https://github.com/ZacSweers/MoshiX/pull/379) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.1"
 
 **2023-02-01** — opened PR [#25](https://github.com/slackhq/compose-lints/pull/25) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up website/docs"
-
-**2023-02-01** — created branch `z/docs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-01** — opened PR [#37](https://github.com/slackhq/slack-lints/pull/37) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove compose checks"
-
-**2023-02-01** — opened issue [#24](https://github.com/slackhq/compose-lints/issues/24) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port compose rules to lints"
-
-**2023-02-01** — closed issue [#23](https://github.com/slackhq/compose-lints/issues/23) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port remaining checks to lint"
-
-**2023-02-01** — opened issue [#23](https://github.com/slackhq/compose-lints/issues/23) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port remaining checks to lint"
-
-**2023-02-01** — deleted branch `z/composeLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
