@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-02** — merged PR [#379](https://github.com/ZacSweers/MoshiX/pull/379) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.1"
+
 **2023-02-01** — opened PR [#25](https://github.com/slackhq/compose-lints/pull/25) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up website/docs"
 
 **2023-02-01** — created branch `z/docs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-01** — deleted branch `z/composeLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-02-01** — closed PR [#20](https://github.com/slackhq/slack-lints/pull/20) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Start compose lints"
-
-**2023-02-01** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-01** — merged PR [#22](https://github.com/slackhq/compose-lints/pull/22) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.24.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
