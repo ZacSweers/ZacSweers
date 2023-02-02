@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-02** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-02** — merged PR [#379](https://github.com/ZacSweers/MoshiX/pull/379) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.1"
-
-**2023-02-01** — opened PR [#25](https://github.com/slackhq/compose-lints/pull/25) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Set up website/docs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
