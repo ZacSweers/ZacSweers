@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — opened PR [#117](https://github.com/slackhq/keeper/pull/117) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 8/Gradle 8"
+
+**2023-02-02** — closed issue [#108](https://github.com/slackhq/keeper/issues/108) on [slackhq/keeper](https://github.com/slackhq/keeper): "Type is obfuscated for non-test APK only"
+
+**2023-02-02** — commented on [#108](https://github.com/slackhq/keeper/issues/108#issuecomment-1414289060) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-02-02** — created branch `z/agp8` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-02-02** — created tag `0.6.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-02** — deleted branch `z/updateRenovate` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-02** — merged PR [#424](https://github.com/slackhq/circuit/pull/424) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v7.4.1"
 
 **2023-02-02** — deleted branch `z/modifiersInContent` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-02** — merged PR [#422](https://github.com/slackhq/circuit/pull/422) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce compose.ui dependency and add Modifier to Ui.Content()"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
