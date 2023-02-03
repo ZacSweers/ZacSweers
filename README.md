@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#467](https://github.com/ZacSweers/CatchUp/pull/467) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.6.0"
+
+**2023-02-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-02** — merged PR [#380](https://github.com/ZacSweers/MoshiX/pull/380) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.10-1.0.9"
+
+**2023-02-02** — deleted branch `renovate/major-incap` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-02** — merged PR [#376](https://github.com/ZacSweers/MoshiX/pull/376) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update incap to v1 (major)"
+
+**2023-02-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-02** — closed PR [#371](https://github.com/ZacSweers/MoshiX/pull/371) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-mercury-607"
+
 **2023-02-02** — deleted branch `z/multiplatformUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-02** — merged PR [#427](https://github.com/slackhq/circuit/pull/427) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update setup doc"
-
-**2023-02-02** — opened PR [#427](https://github.com/slackhq/circuit/pull/427) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update setup doc"
-
-**2023-02-02** — created branch `z/multiplatformUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-02** — merged PR [#425](https://github.com/slackhq/circuit/pull/425) to [slackhq/circuit](https://github.com/slackhq/circuit): "Navigation Common"
-
-**2023-02-02** — opened PR [#426](https://github.com/slackhq/circuit/pull/426) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix some missing CircuitContexts in docs"
-
-**2023-02-02** — created branch `z/docFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-02** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-02** — merged PR [#26](https://github.com/slackhq/compose-lints/pull/26) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v30.4.1"
-
-**2023-02-02** — deleted branch `renovate/com.android.lint-7.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
