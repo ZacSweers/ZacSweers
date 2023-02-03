@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-03** — deleted branch `z/updateBaselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-03** — merged PR [#432](https://github.com/slackhq/circuit/pull/432) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use collectStableBaselineProfile() and regenerate profile"
+
+**2023-02-03** — opened PR [#432](https://github.com/slackhq/circuit/pull/432) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use collectStableBaselineProfile() and regenerate profile"
+
+**2023-02-03** — created branch `z/updateBaselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-02-03** — created branch `z/multiplatformImprovements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-03** — deleted branch `z/repro104` on [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-03** — closed PR [#111](https://github.com/slackhq/keeper/pull/111) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 7.4"
 
 **2023-02-03** — deleted branch `renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-03** — closed PR [#428](https://github.com/slackhq/circuit/pull/428) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-SNAPSHOT"
-
-**2023-02-03** — commented on [#428](https://github.com/slackhq/circuit/pull/428#issuecomment-1416167280) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-03** — deleted branch `renovate/androidx.profileinstaller` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-03** — closed PR [#429](https://github.com/slackhq/circuit/pull/429) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.profileinstaller:profileinstaller to v1.3.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
