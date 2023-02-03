@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-03** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-03** — merged PR [#469](https://github.com/ZacSweers/CatchUp/pull/469) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.8.1"
+
+**2023-02-03** — deleted branch `renovate/com.android.tools` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-03** — merged PR [#471](https://github.com/ZacSweers/CatchUp/pull/471) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.0.2"
+
 **2023-02-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-02** — merged PR [#402](https://github.com/ZacSweers/CatchUp/pull/402) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-02** — deleted branch `renovate/org.xerial-sqlite-jdbc-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-02** — merged PR [#465](https://github.com/ZacSweers/CatchUp/pull/465) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.40.1.0"
-
-**2023-02-02** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-02** — merged PR [#468](https://github.com/ZacSweers/CatchUp/pull/468) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.10-1.0.9"
-
-**2023-02-02** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-02-02** — merged PR [#23](https://github.com/ZacSweers/ZacSweers/pull/23) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.10-1.0.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
