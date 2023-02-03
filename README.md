@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#402](https://github.com/ZacSweers/CatchUp/pull/402) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo"
+
+**2023-02-02** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#462](https://github.com/ZacSweers/CatchUp/pull/462) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.8.0"
+
+**2023-02-02** — deleted branch `renovate/org.xerial-sqlite-jdbc-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#465](https://github.com/ZacSweers/CatchUp/pull/465) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.40.1.0"
+
+**2023-02-02** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-02** — merged PR [#468](https://github.com/ZacSweers/CatchUp/pull/468) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.10-1.0.9"
+
 **2023-02-02** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-02-02** — merged PR [#23](https://github.com/ZacSweers/ZacSweers/pull/23) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.10-1.0.9"
-
-**2023-02-02** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-02-02** — merged PR [#117](https://github.com/ZacSweers/redacted-compiler-plugin/pull/117) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.10-1.0.9"
-
-**2023-02-02** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-02** — merged PR [#467](https://github.com/ZacSweers/CatchUp/pull/467) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.6.0"
-
-**2023-02-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-02** — merged PR [#380](https://github.com/ZacSweers/MoshiX/pull/380) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.10-1.0.9"
-
-**2023-02-02** — deleted branch `renovate/major-incap` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-02** — merged PR [#376](https://github.com/ZacSweers/MoshiX/pull/376) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update incap to v1 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
