@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-02-04** — closed PR [#130](https://github.com/ZacSweers/kotlin-compile-testing/pull/130) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2023-02-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-04** — merged PR [#435](https://github.com/slackhq/circuit/pull/435) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.11"
+
+**2023-02-04** — deleted branch `renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-04** — closed PR [#434](https://github.com/slackhq/circuit/pull/434) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-SNAPSHOT"
+
+**2023-02-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-04** — merged PR [#32](https://github.com/slackhq/compose-lints/pull/32) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.0.11"
+
 **2023-02-04** — created branch `z/dependencyRakeProductionizing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-04** — deleted branch `master` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-04** — created branch `main` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-04** — merged PR [#115](https://github.com/ZacSweers/kotlin-compile-testing/pull/115) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2023-02-04** — merged PR [#124](https://github.com/ZacSweers/kotlin-compile-testing/pull/124) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Set resources path when compilerPluginRegistrars not empty."
-
-**2023-02-04** — merged PR [#120](https://github.com/ZacSweers/kotlin-compile-testing/pull/120) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix typo in tschuchortdev/kotlin-compile-testing link"
-
-**2023-02-04** — merged PR [#117](https://github.com/ZacSweers/kotlin-compile-testing/pull/117) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.24.0"
-
-**2023-02-04** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-04** — deleted branch `renovate/io.github.classgraph` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
