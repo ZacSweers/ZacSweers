@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-03** — merged PR [#433](https://github.com/slackhq/circuit/pull/433) to [slackhq/circuit](https://github.com/slackhq/circuit): "Collapse NavigableCircuitContent functions"
+
+**2023-02-03** — opened PR [#236](https://github.com/slackhq/slack-gradle-plugin/pull/236) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve compose multiplatform support"
+
 **2023-02-03** — deleted branch `z/updateBaselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-03** — merged PR [#432](https://github.com/slackhq/circuit/pull/432) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use collectStableBaselineProfile() and regenerate profile"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-03** — closed PR [#112](https://github.com/slackhq/keeper/pull/112) to [slackhq/keeper](https://github.com/slackhq/keeper): "Repro #104"
 
 **2023-02-03** — deleted branch `z/agp74x` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-02-03** — closed PR [#111](https://github.com/slackhq/keeper/pull/111) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 7.4"
-
-**2023-02-03** — deleted branch `renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
