@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-03** — deleted branch `z/removeComposeChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-02-04** — deleted branch `master` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-03** — merged PR [#37](https://github.com/slackhq/slack-lints/pull/37) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove compose checks"
+**2023-02-04** — created branch `main` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-03** — merged PR [#433](https://github.com/slackhq/circuit/pull/433) to [slackhq/circuit](https://github.com/slackhq/circuit): "Collapse NavigableCircuitContent functions"
+**2023-02-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-03** — opened PR [#236](https://github.com/slackhq/slack-gradle-plugin/pull/236) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve compose multiplatform support"
+**2023-02-04** — merged PR [#115](https://github.com/ZacSweers/kotlin-compile-testing/pull/115) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
-**2023-02-03** — deleted branch `z/updateBaselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-04** — merged PR [#124](https://github.com/ZacSweers/kotlin-compile-testing/pull/124) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Set resources path when compilerPluginRegistrars not empty."
 
-**2023-02-03** — merged PR [#432](https://github.com/slackhq/circuit/pull/432) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use collectStableBaselineProfile() and regenerate profile"
+**2023-02-04** — merged PR [#120](https://github.com/ZacSweers/kotlin-compile-testing/pull/120) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix typo in tschuchortdev/kotlin-compile-testing link"
 
-**2023-02-03** — opened PR [#432](https://github.com/slackhq/circuit/pull/432) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use collectStableBaselineProfile() and regenerate profile"
+**2023-02-04** — merged PR [#117](https://github.com/ZacSweers/kotlin-compile-testing/pull/117) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.24.0"
 
-**2023-02-03** — created branch `z/updateBaselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-04** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-03** — created branch `z/multiplatformImprovements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-02-04** — deleted branch `renovate/io.github.classgraph` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-02-04** — merged PR [#118](https://github.com/ZacSweers/kotlin-compile-testing/pull/118) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.154"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
