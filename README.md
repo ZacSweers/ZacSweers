@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-05** — closed issue [#856](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/856) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Feature request: allow opt-out of AGP compatibility warning"
+
+**2023-02-05** — commented on [#856](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/856#issuecomment-1418041737) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2023-02-05** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-05** — merged PR [#34](https://github.com/slackhq/compose-lints/pull/34) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.14.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-04** — closed PR [#130](https://github.com/ZacSweers/kotlin-compile-testing/pull/130) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
 **2023-02-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-04** — merged PR [#435](https://github.com/slackhq/circuit/pull/435) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.11"
-
-**2023-02-04** — deleted branch `renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
