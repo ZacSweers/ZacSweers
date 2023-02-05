@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-05** — commented on [#35](https://github.com/slackhq/compose-lints/issues/35#issuecomment-1418245924) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-05** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-05** — merged PR [#472](https://github.com/ZacSweers/CatchUp/pull/472) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.14.1"
+
+**2023-02-05** — deleted branch `renovate/com.diffplug.spotless-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-05** — merged PR [#1468](https://github.com/square/kotlinpoet/pull/1468) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin spotless to v6.14.1"
+
+**2023-02-05** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-02-05** — merged PR [#24](https://github.com/ZacSweers/ZacSweers/pull/24) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.14.1"
+
+**2023-02-05** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-05** — merged PR [#381](https://github.com/ZacSweers/MoshiX/pull/381) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.14.1"
+
 **2023-02-05** — closed issue [#856](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/856) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Feature request: allow opt-out of AGP compatibility warning"
-
-**2023-02-05** — commented on [#856](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/856#issuecomment-1418041737) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2023-02-05** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-05** — merged PR [#34](https://github.com/slackhq/compose-lints/pull/34) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.14.0"
-
-**2023-02-04** — opened issue [#856](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/856) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Feature request: allow opt-out of AGP compatibility warning"
-
-**2023-02-04** — closed issue [#1293](https://github.com/google/ksp/issues/1293) on [google/ksp](https://github.com/google/ksp): "Gradle configuration warning: "Configuration is both resolvable/consumable or consumable/declarable""
-
-**2023-02-04** — commented on [#1293](https://github.com/google/ksp/issues/1293#issuecomment-1416861363) in [google/ksp](https://github.com/google/ksp)
-
-**2023-02-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-04** — closed PR [#130](https://github.com/ZacSweers/kotlin-compile-testing/pull/130) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2023-02-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
