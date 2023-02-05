@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-05** — closed issue [#24](https://github.com/slackhq/compose-lints/issues/24) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Port remaining compose rules to lints"
+
+**2023-02-05** — deleted branch `z/remainingRules` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-05** — merged PR [#37](https://github.com/slackhq/compose-lints/pull/37) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Finish porting remaining rules"
+
 **2023-02-05** — opened PR [#37](https://github.com/slackhq/compose-lints/pull/37) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Finish porting remaining rules"
 
 **2023-02-05** — created branch `z/remainingRules` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-05** — created branch `z/remaining` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-05** — commented on [#436](https://github.com/slackhq/circuit/pull/436#issuecomment-1418246824) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-05** — commented on [#35](https://github.com/slackhq/compose-lints/issues/35#issuecomment-1418245924) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-05** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-05** — merged PR [#472](https://github.com/ZacSweers/CatchUp/pull/472) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
