@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-06** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-06** — merged PR [#438](https://github.com/slackhq/circuit/pull/438) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.14.1"
+
+**2023-02-06** — deleted branch `renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-06** — closed PR [#439](https://github.com/slackhq/circuit/pull/439) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-SNAPSHOT"
+
+**2023-02-06** — commented on [#439](https://github.com/slackhq/circuit/pull/439#issuecomment-1419376017) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-02-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-06** — merged PR [#38](https://github.com/slackhq/compose-lints/pull/38) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.14.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-05** — deleted branch `z/remainingRules` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-05** — merged PR [#37](https://github.com/slackhq/compose-lints/pull/37) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Finish porting remaining rules"
-
-**2023-02-05** — opened PR [#37](https://github.com/slackhq/compose-lints/pull/37) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Finish porting remaining rules"
-
-**2023-02-05** — created branch `z/remainingRules` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-05** — deleted branch `z/remaining` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-05** — merged PR [#36](https://github.com/slackhq/compose-lints/pull/36) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add common Compose prefix to ViewModelForwarding ID + mention in doc"
-
-**2023-02-05** — opened PR [#36](https://github.com/slackhq/compose-lints/pull/36) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add common Compose prefix to ViewModelForwarding ID + mention in doc"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
