@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-06** — closed issue [#382](https://github.com/ZacSweers/MoshiX/issues/382) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Java 11 in 0.21.0 explained?"
+
+**2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419866918) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-02-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-06** — merged PR [#474](https://github.com/ZacSweers/CatchUp/pull/474) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.178.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-06** — merged PR [#230](https://github.com/slackhq/slack-gradle-plugin/pull/230) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.3"
-
-**2023-02-06** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-06** — merged PR [#231](https://github.com/slackhq/slack-gradle-plugin/pull/231) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.45.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
