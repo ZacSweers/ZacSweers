@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-02-06** — merged PR [#118](https://github.com/ZacSweers/redacted-compiler-plugin/pull/118) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.14.1"
+
+**2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419913976) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-02-06** — closed issue [#382](https://github.com/ZacSweers/MoshiX/issues/382) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Java 11 in 0.21.0 explained?"
 
 **2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419866918) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — merged PR [#225](https://github.com/slackhq/slack-gradle-plugin/pull/225) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.3.6"
 
 **2023-02-06** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-06** — merged PR [#229](https://github.com/slackhq/slack-gradle-plugin/pull/229) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.24.0"
-
-**2023-02-06** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-06** — merged PR [#230](https://github.com/slackhq/slack-gradle-plugin/pull/230) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
