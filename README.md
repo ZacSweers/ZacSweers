@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1420958386) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-02-07** — opened PR [#25](https://github.com/square/gradle-dependencies-sorter/pull/25) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Create sortDependencies configuration to allow customizing version"
 
 **2023-02-07** — created branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-02-06** — merged PR [#118](https://github.com/ZacSweers/redacted-compiler-plugin/pull/118) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.14.1"
-
-**2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419913976) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
