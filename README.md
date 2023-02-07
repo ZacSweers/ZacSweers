@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — closed issue [#28](https://github.com/square/gradle-dependencies-sorter/issues/28) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Bug: fails to parse function invocations in dependencies"
+
+**2023-02-07** — commented on [#28](https://github.com/square/gradle-dependencies-sorter/issues/28#issuecomment-1421250934) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-02-07** — commented on [#19](https://github.com/square/gradle-dependencies-sorter/issues/19#issuecomment-1421250069) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-02-07** — opened issue [#28](https://github.com/square/gradle-dependencies-sorter/issues/28) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Bug: fails to parse function invocations in dependencies"
+
+**2023-02-07** — opened issue [#27](https://github.com/square/gradle-dependencies-sorter/issues/27) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: silently-no-op on build files with no dependencies blocks"
+
+**2023-02-07** — opened issue [#26](https://github.com/square/gradle-dependencies-sorter/issues/26) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: add option to suppress logging output"
+
 **2023-02-07** — deleted branch `renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-07** — merged PR [#441](https://github.com/slackhq/circuit/pull/441) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v1.2.2"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-07** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1420958386) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-07** — opened PR [#25](https://github.com/square/gradle-dependencies-sorter/pull/25) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Create sortDependencies configuration to allow customizing version"
-
-**2023-02-07** — created branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-02-06** — opened issue [#24](https://github.com/square/gradle-dependencies-sorter/issues/24) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support dependency configuration syntax"
-
-**2023-02-06** — opened issue [#23](https://github.com/square/gradle-dependencies-sorter/issues/23) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support kotlin DSL stringy configuration syntax"
-
-**2023-02-06** — opened issue [#22](https://github.com/square/gradle-dependencies-sorter/issues/22) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: decouple gradle plugin from CLI"
-
-**2023-02-06** — opened issue [#21](https://github.com/square/gradle-dependencies-sorter/issues/21) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: document fat jar download location"
-
-**2023-02-06** — opened issue [#118](https://github.com/slackhq/keeper/issues/118) on [slackhq/keeper](https://github.com/slackhq/keeper): "Look into using ExecOperations rather than extending JavaTask"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
