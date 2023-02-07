@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-06** — opened issue [#24](https://github.com/square/gradle-dependencies-sorter/issues/24) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support dependency configuration syntax"
+
+**2023-02-06** — opened issue [#23](https://github.com/square/gradle-dependencies-sorter/issues/23) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support kotlin DSL stringy configuration syntax"
+
+**2023-02-06** — opened issue [#22](https://github.com/square/gradle-dependencies-sorter/issues/22) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: decouple gradle plugin from CLI"
+
+**2023-02-06** — opened issue [#21](https://github.com/square/gradle-dependencies-sorter/issues/21) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: document fat jar download location"
+
+**2023-02-06** — opened issue [#118](https://github.com/slackhq/keeper/issues/118) on [slackhq/keeper](https://github.com/slackhq/keeper): "Look into using ExecOperations rather than extending JavaTask"
+
 **2023-02-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-02-06** — merged PR [#118](https://github.com/ZacSweers/redacted-compiler-plugin/pull/118) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.14.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — closed issue [#382](https://github.com/ZacSweers/MoshiX/issues/382) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Java 11 in 0.21.0 explained?"
 
 **2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419866918) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-06** — merged PR [#474](https://github.com/ZacSweers/CatchUp/pull/474) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.178.1"
-
-**2023-02-06** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-06** — merged PR [#225](https://github.com/slackhq/slack-gradle-plugin/pull/225) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.3.6"
-
-**2023-02-06** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
