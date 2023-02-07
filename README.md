@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — deleted branch `z/sortDependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-07** — merged PR [#238](https://github.com/slackhq/slack-gradle-plugin/pull/238) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate sort-dependencies"
+
+**2023-02-07** — opened PR [#30](https://github.com/square/gradle-dependencies-sorter/pull/30) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add PARSE_ERROR exit code if formatting fails"
+
+**2023-02-07** — created branch `z/formatExitCode` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-02-07** — opened PR [#29](https://github.com/square/gradle-dependencies-sorter/pull/29) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add --quiet argument"
 
 **2023-02-07** — created branch `z/quiet` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-07** — opened PR [#238](https://github.com/slackhq/slack-gradle-plugin/pull/238) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate sort-dependencies"
 
 **2023-02-07** — created branch `z/sortDependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-07** — closed issue [#28](https://github.com/square/gradle-dependencies-sorter/issues/28) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Bug: fails to parse function invocations in dependencies"
-
-**2023-02-07** — commented on [#28](https://github.com/square/gradle-dependencies-sorter/issues/28#issuecomment-1421250934) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-02-07** — commented on [#19](https://github.com/square/gradle-dependencies-sorter/issues/19#issuecomment-1421250069) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-02-07** — opened issue [#28](https://github.com/square/gradle-dependencies-sorter/issues/28) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Bug: fails to parse function invocations in dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
