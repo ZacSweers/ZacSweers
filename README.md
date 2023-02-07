@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — deleted branch `renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-07** — merged PR [#441](https://github.com/slackhq/circuit/pull/441) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v1.2.2"
+
 **2023-02-07** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1420958386) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-07** — opened PR [#25](https://github.com/square/gradle-dependencies-sorter/pull/25) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Create sortDependencies configuration to allow customizing version"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — opened issue [#21](https://github.com/square/gradle-dependencies-sorter/issues/21) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: document fat jar download location"
 
 **2023-02-06** — opened issue [#118](https://github.com/slackhq/keeper/issues/118) on [slackhq/keeper](https://github.com/slackhq/keeper): "Look into using ExecOperations rather than extending JavaTask"
-
-**2023-02-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-02-06** — merged PR [#118](https://github.com/ZacSweers/redacted-compiler-plugin/pull/118) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
