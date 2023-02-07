@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — opened PR [#25](https://github.com/square/gradle-dependencies-sorter/pull/25) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Create sortDependencies configuration to allow customizing version"
+
+**2023-02-07** — created branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-02-06** — opened issue [#24](https://github.com/square/gradle-dependencies-sorter/issues/24) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support dependency configuration syntax"
 
 **2023-02-06** — opened issue [#23](https://github.com/square/gradle-dependencies-sorter/issues/23) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: support kotlin DSL stringy configuration syntax"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-06** — merged PR [#118](https://github.com/ZacSweers/redacted-compiler-plugin/pull/118) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.14.1"
 
 **2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419913976) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-06** — closed issue [#382](https://github.com/ZacSweers/MoshiX/issues/382) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Java 11 in 0.21.0 explained?"
-
-**2023-02-06** — commented on [#382](https://github.com/ZacSweers/MoshiX/issues/382#issuecomment-1419866918) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
