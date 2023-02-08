@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-08** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-08** — merged PR [#40](https://github.com/slackhq/compose-lints/pull/40) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha03"
+
+**2023-02-08** — merged PR [#41](https://github.com/slackhq/compose-lints/pull/41) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.43"
+
+**2023-02-08** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-02-07** — opened PR [#479](https://github.com/ZacSweers/CatchUp/pull/479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Upload sarif files"
 
 **2023-02-07** — created branch `z/sarif` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-07** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-07** — merged PR [#478](https://github.com/ZacSweers/CatchUp/pull/478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.179.0"
-
-**2023-02-07** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-07** — closed PR [#477](https://github.com/ZacSweers/CatchUp/pull/477) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.4"
-
-**2023-02-07** — deleted branch `z/agpUpdate` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-07** — merged PR [#476](https://github.com/ZacSweers/CatchUp/pull/476) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update AGP and gradle"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
