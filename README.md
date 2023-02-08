@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-07** — opened PR [#479](https://github.com/ZacSweers/CatchUp/pull/479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Upload sarif files"
+
+**2023-02-07** — created branch `z/sarif` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-07** — closed issue [#239](https://github.com/slackhq/slack-gradle-plugin/issues/239) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apple Silicon thermal throttling doesn't work in Gradle 8.0-rc-2+"
+
+**2023-02-07** — commented on [#239](https://github.com/slackhq/slack-gradle-plugin/issues/239#issuecomment-1421891979) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-07** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-07** — merged PR [#478](https://github.com/ZacSweers/CatchUp/pull/478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.179.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-07** — deleted branch `z/agpUpdate` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-07** — merged PR [#476](https://github.com/ZacSweers/CatchUp/pull/476) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update AGP and gradle"
-
-**2023-02-07** — commented on [#377](https://github.com/facebook/ktfmt/issues/377#issuecomment-1421706869) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2023-02-07** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-07** — closed PR [#473](https://github.com/ZacSweers/CatchUp/pull/473) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0-rc-3"
-
-**2023-02-07** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
