@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-08** — deleted branch `z/sarif` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-08** — merged PR [#479](https://github.com/ZacSweers/CatchUp/pull/479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Upload processed lint sarif"
+
 **2023-02-08** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-08** — merged PR [#40](https://github.com/slackhq/compose-lints/pull/40) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha03"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-07** — closed issue [#239](https://github.com/slackhq/slack-gradle-plugin/issues/239) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apple Silicon thermal throttling doesn't work in Gradle 8.0-rc-2+"
 
 **2023-02-07** — commented on [#239](https://github.com/slackhq/slack-gradle-plugin/issues/239#issuecomment-1421891979) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-07** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-07** — merged PR [#478](https://github.com/ZacSweers/CatchUp/pull/478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.179.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
