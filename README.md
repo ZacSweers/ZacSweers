@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — opened PR [#43](https://github.com/slackhq/compose-lints/pull/43) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "More copyright fixes"
+
+**2023-02-09** — created branch `z/morecopyright` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-09** — deleted branch `z/spotlessExternal` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-09** — merged PR [#42](https://github.com/slackhq/compose-lints/pull/42) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Introduce spotless-external to preserve original licenses"
+
 **2023-02-09** — opened PR [#42](https://github.com/slackhq/compose-lints/pull/42) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Introduce spotless-external to preserve original licenses"
 
 **2023-02-09** — created branch `z/spotlessExternal` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-09** — opened issue [#863](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/863) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "import kotlinx.coroutines.rx3.await mistakenly marked as unused"
 
 **2023-02-09** — opened issue [#31](https://github.com/square/gradle-dependencies-sorter/issues/31) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: de-dupe dependencies"
-
-**2023-02-09** — opened PR [#862](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/862) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Add support for parsing import aliases"
-
-**2023-02-09** — created branch `z/fixImportAliases` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
-
-**2023-02-09** — opened issue [#861](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/861) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Import aliases interrupt import source parsing"
-
-**2023-02-08** — closed issue [#129](https://github.com/ZacSweers/kotlin-compile-testing/issues/129) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "All compilers should probably return a common Result type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
