@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-08** — deleted branch `renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-08** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-08** — merged PR [#442](https://github.com/slackhq/circuit/pull/442) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.19.0"
+**2023-02-08** — merged PR [#488](https://github.com/ZacSweers/CatchUp/pull/488) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.28.4"
 
-**2023-02-08** — deleted branch `renovate/ktfmt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-08** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-08** — merged PR [#443](https://github.com/slackhq/circuit/pull/443) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.facebook:ktfmt to v0.43"
+**2023-02-08** — merged PR [#480](https://github.com/ZacSweers/CatchUp/pull/480) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2023-02-08** — deleted branch `z/sarif` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-08** — merged PR [#479](https://github.com/ZacSweers/CatchUp/pull/479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Upload processed lint sarif"
+**2023-02-08** — merged PR [#481](https://github.com/ZacSweers/CatchUp/pull/481) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-beta01"
 
-**2023-02-08** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-02-08** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-08** — merged PR [#40](https://github.com/slackhq/compose-lints/pull/40) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha03"
+**2023-02-08** — merged PR [#482](https://github.com/ZacSweers/CatchUp/pull/482) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0-rc01"
 
-**2023-02-08** — merged PR [#41](https://github.com/slackhq/compose-lints/pull/41) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.43"
+**2023-02-08** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-08** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-02-08** — merged PR [#483](https://github.com/ZacSweers/CatchUp/pull/483) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.appcompat:appcompat to v1.7.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
