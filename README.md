@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — deleted branch `z/morecopyright` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-09** — merged PR [#43](https://github.com/slackhq/compose-lints/pull/43) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "More copyright fixes"
+
 **2023-02-09** — opened PR [#43](https://github.com/slackhq/compose-lints/pull/43) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "More copyright fixes"
 
 **2023-02-09** — created branch `z/morecopyright` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-09** — deleted branch `renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-09** — merged PR [#444](https://github.com/slackhq/circuit/pull/444) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.6.1"
-
-**2023-02-09** — opened issue [#863](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/863) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "import kotlinx.coroutines.rx3.await mistakenly marked as unused"
-
-**2023-02-09** — opened issue [#31](https://github.com/square/gradle-dependencies-sorter/issues/31) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: de-dupe dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
