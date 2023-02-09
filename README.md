@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — opened issue [#863](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/863) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "import kotlinx.coroutines.rx3.await mistakenly marked as unused"
+
+**2023-02-09** — opened issue [#31](https://github.com/square/gradle-dependencies-sorter/issues/31) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: de-dupe dependencies"
+
+**2023-02-09** — opened PR [#862](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/862) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Add support for parsing import aliases"
+
+**2023-02-09** — created branch `z/fixImportAliases` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
+**2023-02-09** — opened issue [#861](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/861) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Import aliases interrupt import source parsing"
+
 **2023-02-08** — closed issue [#129](https://github.com/ZacSweers/kotlin-compile-testing/issues/129) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "All compilers should probably return a common Result type"
 
 **2023-02-08** — deleted branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-08** — created branch `z/kotlin1820` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-08** — commented on [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136#issuecomment-1423597209) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-08** — opened PR [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Refactor results into common CompilationResult hierarchy"
-
-**2023-02-08** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-08** — closed PR [#135](https://github.com/ZacSweers/kotlin-compile-testing/pull/135) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2023-02-08** — created branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-08** — closed issue [#132](https://github.com/ZacSweers/kotlin-compile-testing/issues/132) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "`useIR` should default to true"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
