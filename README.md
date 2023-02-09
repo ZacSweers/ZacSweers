@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — deleted branch `renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-09** — merged PR [#444](https://github.com/slackhq/circuit/pull/444) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.6.1"
+
 **2023-02-09** — opened issue [#863](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/863) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "import kotlinx.coroutines.rx3.await mistakenly marked as unused"
 
 **2023-02-09** — opened issue [#31](https://github.com/square/gradle-dependencies-sorter/issues/31) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: de-dupe dependencies"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-08** — deleted branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-02-08** — merged PR [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Refactor results into common CompilationResult hierarchy"
-
-**2023-02-08** — created branch `z/kotlin1820` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-08** — commented on [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136#issuecomment-1423597209) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
