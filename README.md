@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-08** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1423573540) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-02-08** — merged PR [#488](https://github.com/ZacSweers/CatchUp/pull/488) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.28.4"
+**2023-02-08** — opened PR [#134](https://github.com/ZacSweers/kotlin-compile-testing/pull/134) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Make useIr enabled by default"
 
-**2023-02-08** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — created branch `z/irTrue` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-08** — merged PR [#480](https://github.com/ZacSweers/CatchUp/pull/480) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
+**2023-02-08** — opened PR [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 1.8.20"
 
-**2023-02-08** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — created branch `z/kotlin1820` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-08** — merged PR [#481](https://github.com/ZacSweers/CatchUp/pull/481) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-beta01"
+**2023-02-08** — commented on [#120](https://github.com/ZacSweers/redacted-compiler-plugin/pull/120#issuecomment-1423567804) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-02-08** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — opened PR [#384](https://github.com/ZacSweers/MoshiX/pull/384) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 1.8.20"
 
-**2023-02-08** — merged PR [#482](https://github.com/ZacSweers/CatchUp/pull/482) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0-rc01"
+**2023-02-08** — created branch `z/kotlin1820` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-02-08** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-08** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-02-08** — merged PR [#483](https://github.com/ZacSweers/CatchUp/pull/483) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.appcompat:appcompat to v1.7.0-alpha02"
+**2023-02-08** — closed PR [#131](https://github.com/ZacSweers/kotlin-compile-testing/pull/131) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
