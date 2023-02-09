@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — opened PR [#42](https://github.com/slackhq/compose-lints/pull/42) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Introduce spotless-external to preserve original licenses"
+
+**2023-02-09** — created branch `z/spotlessExternal` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-02-09** — deleted branch `renovate/androidx-appcompat` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-09** — merged PR [#444](https://github.com/slackhq/circuit/pull/444) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.appcompat:appcompat to v1.6.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-09** — opened issue [#861](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/861) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Import aliases interrupt import source parsing"
 
 **2023-02-08** — closed issue [#129](https://github.com/ZacSweers/kotlin-compile-testing/issues/129) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "All compilers should probably return a common Result type"
-
-**2023-02-08** — deleted branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-08** — merged PR [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Refactor results into common CompilationResult hierarchy"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
