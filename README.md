@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-08** — closed issue [#129](https://github.com/ZacSweers/kotlin-compile-testing/issues/129) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "All compilers should probably return a common Result type"
+
+**2023-02-08** — deleted branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-02-08** — merged PR [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Refactor results into common CompilationResult hierarchy"
+
 **2023-02-08** — created branch `z/kotlin1820` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-08** — commented on [#136](https://github.com/ZacSweers/kotlin-compile-testing/pull/136#issuecomment-1423597209) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-08** — created branch `z/commonResult` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-02-08** — closed issue [#132](https://github.com/ZacSweers/kotlin-compile-testing/issues/132) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "`useIR` should default to true"
-
-**2023-02-08** — closed issue [#132](https://github.com/ZacSweers/kotlin-compile-testing/issues/132) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "`useIR` should default to true"
-
-**2023-02-08** — deleted branch `z/irTrue` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-02-08** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1423573540) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
