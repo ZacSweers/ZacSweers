@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-10** — deleted branch `renovate/dagger` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-10** — created branch `z/themeScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-10** — merged PR [#447](https://github.com/slackhq/circuit/pull/447) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dagger to v2.45"
+**2023-02-10** — commented on [#449](https://github.com/slackhq/circuit/pull/449#issuecomment-1426017697) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-02-10** — commented on [#259](https://github.com/slackhq/circuit/issues/259#issuecomment-1425931728) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-10** — closed issue [#448](https://github.com/slackhq/circuit/issues/448) on [slackhq/circuit](https://github.com/slackhq/circuit): "circuit-retained has a min SDK of 28"
 
-**2023-02-10** — commented on [#448](https://github.com/slackhq/circuit/issues/448#issuecomment-1425931088) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-02-10** — closed issue [#259](https://github.com/slackhq/circuit/issues/259) on [slackhq/circuit](https://github.com/slackhq/circuit): "Split baseline profiles into their corresponding artifacts"
 
-**2023-02-10** — commented on [#48](https://github.com/slackhq/compose-lints/issues/48#issuecomment-1425903111) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-02-10** — deleted branch `z/fixRetainedAndBaselines` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-02-10** — commented on [#52](https://github.com/slackhq/compose-lints/pull/52#issuecomment-1425898776) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-02-10** — merged PR [#449](https://github.com/slackhq/circuit/pull/449) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix accidental minSdk 28 in circuit-retained and split baseline profiles"
 
-**2023-02-10** — commented on [#863](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/863#issuecomment-1425191534) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2023-02-10** — commented on [#259](https://github.com/slackhq/circuit/issues/259#issuecomment-1426016276) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-02-09** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-02-10** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-09** — merged PR [#240](https://github.com/slackhq/slack-gradle-plugin/pull/240) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta02"
+**2023-02-10** — merged PR [#492](https://github.com/ZacSweers/CatchUp/pull/492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0-rc-5"
 
-**2023-02-09** — deleted branch `test-renovate/ktfmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-02-10** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
