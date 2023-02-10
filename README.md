@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-10** — opened issue [#450](https://github.com/slackhq/circuit/issues/450) on [slackhq/circuit](https://github.com/slackhq/circuit): "Proposal: split circuit-core up"
+
+**2023-02-10** — closed issue [#48](https://github.com/slackhq/compose-lints/issues/48) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve mutable parameters message"
+
+**2023-02-10** — merged PR [#49](https://github.com/slackhq/compose-lints/pull/49) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc mutable parameter fixes"
+
+**2023-02-10** — deleted branch `z/mutableParamsFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-10** — created tag `0.7.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-02-10** — created branch `z/themeScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-10** — commented on [#449](https://github.com/slackhq/circuit/pull/449#issuecomment-1426017697) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-10** — closed issue [#259](https://github.com/slackhq/circuit/issues/259) on [slackhq/circuit](https://github.com/slackhq/circuit): "Split baseline profiles into their corresponding artifacts"
 
 **2023-02-10** — deleted branch `z/fixRetainedAndBaselines` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-10** — merged PR [#449](https://github.com/slackhq/circuit/pull/449) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix accidental minSdk 28 in circuit-retained and split baseline profiles"
-
-**2023-02-10** — commented on [#259](https://github.com/slackhq/circuit/issues/259#issuecomment-1426016276) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-10** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — merged PR [#492](https://github.com/ZacSweers/CatchUp/pull/492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0-rc-5"
-
-**2023-02-10** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
