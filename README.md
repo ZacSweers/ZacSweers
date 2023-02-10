@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-09** — opened PR [#49](https://github.com/slackhq/compose-lints/pull/49) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc mutable parameter fixes"
+
+**2023-02-09** — created branch `z/mutableParamsFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-09** — commented on [#48](https://github.com/slackhq/compose-lints/issues/48#issuecomment-1425098088) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-09** — opened issue [#48](https://github.com/slackhq/compose-lints/issues/48) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve mutable parameters message"
+
 **2023-02-09** — commented on [#45](https://github.com/slackhq/compose-lints/pull/45#issuecomment-1424931156) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-09** — merged PR [#45](https://github.com/slackhq/compose-lints/pull/45) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix possible typo in README"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-09** — deleted branch `z/fixImportAliases` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
 
 **2023-02-09** — opened PR [#44](https://github.com/slackhq/compose-lints/pull/44) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add installation instructions to index.md"
-
-**2023-02-09** — created branch `z/installation` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-09** — closed issue [#35](https://github.com/slackhq/compose-lints/issues/35) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "404 For https://slackhq.github.io/compose-lints"
-
-**2023-02-09** — commented on [#35](https://github.com/slackhq/compose-lints/issues/35#issuecomment-1424888661) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-09** — deleted branch `ke/support-return-value` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
