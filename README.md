@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-11** — opened PR [#501](https://github.com/ZacSweers/CatchUp/pull/501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP theme screen"
+
 **2023-02-11** — opened PR [#243](https://github.com/slackhq/slack-gradle-plugin/pull/243) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make loc gradle 8 compatible"
 
 **2023-02-10** — deleted branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-10** — opened PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
 
 **2023-02-10** — created branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1426562223) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
