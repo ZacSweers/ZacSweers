@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-02-10** — merged PR [#25](https://github.com/ZacSweers/ZacSweers/pull/25) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.15.0"
+
 **2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-02-10** — merged PR [#121](https://github.com/ZacSweers/redacted-compiler-plugin/pull/121) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.15.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-10** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-10** — merged PR [#497](https://github.com/ZacSweers/CatchUp/pull/497) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.7.0"
-
-**2023-02-10** — opened issue [#450](https://github.com/slackhq/circuit/issues/450) on [slackhq/circuit](https://github.com/slackhq/circuit): "Proposal: split circuit-core up"
-
-**2023-02-10** — closed issue [#48](https://github.com/slackhq/compose-lints/issues/48) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve mutable parameters message"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
