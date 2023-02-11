@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-10** — deleted branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-10** — merged PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
+
+**2023-02-10** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-10** — merged PR [#498](https://github.com/ZacSweers/CatchUp/pull/498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.15.0"
+
+**2023-02-10** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-10** — merged PR [#499](https://github.com/ZacSweers/CatchUp/pull/499) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.180.0"
+
+**2023-02-10** — opened PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
+
+**2023-02-10** — created branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-02-10** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1426562223) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-02-10** — merged PR [#25](https://github.com/ZacSweers/ZacSweers/pull/25) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.15.0"
-
-**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-02-10** — merged PR [#121](https://github.com/ZacSweers/redacted-compiler-plugin/pull/121) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.15.0"
-
-**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-10** — merged PR [#385](https://github.com/ZacSweers/MoshiX/pull/385) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.15.0"
-
-**2023-02-10** — merged PR [#1474](https://github.com/square/kotlinpoet/pull/1474) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin spotless to v6.15.0"
-
-**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-02-10** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
