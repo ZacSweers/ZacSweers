@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-11** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-11** — merged PR [#452](https://github.com/slackhq/circuit/pull/452) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.15.0"
+
+**2023-02-11** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-11** — merged PR [#54](https://github.com/slackhq/compose-lints/pull/54) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.15.0"
+
 **2023-02-11** — opened PR [#501](https://github.com/ZacSweers/CatchUp/pull/501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP theme screen"
 
 **2023-02-11** — opened PR [#243](https://github.com/slackhq/slack-gradle-plugin/pull/243) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make loc gradle 8 compatible"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-10** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-10** — merged PR [#498](https://github.com/ZacSweers/CatchUp/pull/498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.15.0"
-
-**2023-02-10** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — merged PR [#499](https://github.com/ZacSweers/CatchUp/pull/499) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.180.0"
-
-**2023-02-10** — opened PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
-
-**2023-02-10** — created branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
