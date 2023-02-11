@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-11** — deleted branch `renovate/androidx-browser` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-11** — merged PR [#451](https://github.com/slackhq/circuit/pull/451) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.browser:browser to v1.5.0"
+
 **2023-02-11** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-11** — merged PR [#452](https://github.com/slackhq/circuit/pull/452) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.15.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-10** — deleted branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-10** — merged PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
-
-**2023-02-10** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — merged PR [#498](https://github.com/ZacSweers/CatchUp/pull/498) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
