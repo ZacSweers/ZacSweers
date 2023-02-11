@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-02-10** — merged PR [#121](https://github.com/ZacSweers/redacted-compiler-plugin/pull/121) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.15.0"
+
+**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-10** — merged PR [#385](https://github.com/ZacSweers/MoshiX/pull/385) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.15.0"
+
+**2023-02-10** — merged PR [#1474](https://github.com/square/kotlinpoet/pull/1474) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin spotless to v6.15.0"
+
+**2023-02-10** — deleted branch `renovate/com.diffplug.spotless-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-10** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-10** — merged PR [#497](https://github.com/ZacSweers/CatchUp/pull/497) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.7.0"
+
 **2023-02-10** — opened issue [#450](https://github.com/slackhq/circuit/issues/450) on [slackhq/circuit](https://github.com/slackhq/circuit): "Proposal: split circuit-core up"
 
 **2023-02-10** — closed issue [#48](https://github.com/slackhq/compose-lints/issues/48) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve mutable parameters message"
-
-**2023-02-10** — merged PR [#49](https://github.com/slackhq/compose-lints/pull/49) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc mutable parameter fixes"
-
-**2023-02-10** — deleted branch `z/mutableParamsFixes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-10** — created tag `0.7.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-10** — created branch `z/themeScreen` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — commented on [#449](https://github.com/slackhq/circuit/pull/449#issuecomment-1426017697) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-10** — closed issue [#448](https://github.com/slackhq/circuit/issues/448) on [slackhq/circuit](https://github.com/slackhq/circuit): "circuit-retained has a min SDK of 28"
-
-**2023-02-10** — closed issue [#259](https://github.com/slackhq/circuit/issues/259) on [slackhq/circuit](https://github.com/slackhq/circuit): "Split baseline profiles into their corresponding artifacts"
-
-**2023-02-10** — deleted branch `z/fixRetainedAndBaselines` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
