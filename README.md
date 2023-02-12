@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-12** — deleted branch `renovate/major-com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-12** — merged PR [#453](https://github.com/slackhq/circuit/pull/453) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2"
+
 **2023-02-12** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1426966239) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2023-02-12** — opened PR [#247](https://github.com/slackhq/slack-gradle-plugin/pull/247) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework download progress and use workers in robolectric jar downloads"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-11** — created branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-11** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-11** — merged PR [#244](https://github.com/slackhq/slack-gradle-plugin/pull/244) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.15.0"
-
-**2023-02-11** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
