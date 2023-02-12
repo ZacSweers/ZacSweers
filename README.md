@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-11** — opened issue [#498](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/498) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Plugin uses deprecated Gradle VersionNumber API"
+
 **2023-02-11** — opened issue [#497](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/497) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Gradle 8.0/AGP 8.0 support"
 
 **2023-02-11** — opened PR [#246](https://github.com/slackhq/slack-gradle-plugin/pull/246) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-11** — opened issue [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use worker APIs"
 
 **2023-02-11** — deleted branch `renovate/androidx-browser` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-11** — merged PR [#451](https://github.com/slackhq/circuit/pull/451) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.browser:browser to v1.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
