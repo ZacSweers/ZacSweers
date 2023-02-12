@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-11** — opened issue [#497](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/497) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Gradle 8.0/AGP 8.0 support"
+
+**2023-02-11** — opened PR [#246](https://github.com/slackhq/slack-gradle-plugin/pull/246) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.0"
+
+**2023-02-11** — created branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-11** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-11** — merged PR [#244](https://github.com/slackhq/slack-gradle-plugin/pull/244) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.15.0"
+
+**2023-02-11** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-11** — merged PR [#242](https://github.com/slackhq/slack-gradle-plugin/pull/242) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.4.0"
+
+**2023-02-11** — opened issue [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use worker APIs"
+
 **2023-02-11** — deleted branch `renovate/androidx-browser` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-11** — merged PR [#451](https://github.com/slackhq/circuit/pull/451) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.browser:browser to v1.5.0"
-
-**2023-02-11** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-11** — merged PR [#452](https://github.com/slackhq/circuit/pull/452) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.15.0"
-
-**2023-02-11** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-11** — merged PR [#54](https://github.com/slackhq/compose-lints/pull/54) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.15.0"
-
-**2023-02-11** — opened PR [#501](https://github.com/ZacSweers/CatchUp/pull/501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP theme screen"
-
-**2023-02-11** — opened PR [#243](https://github.com/slackhq/slack-gradle-plugin/pull/243) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make loc gradle 8 compatible"
-
-**2023-02-10** — deleted branch `z/deadCodeCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-10** — merged PR [#500](https://github.com/ZacSweers/CatchUp/pull/500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Dead code cleanup + -Werror"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
