@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-13** — created tag `0.5.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-13** — deleted branch `z/workerRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-13** — merged PR [#247](https://github.com/slackhq/slack-gradle-plugin/pull/247) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework download progress and use workers in robolectric jar downloads"
+
+**2023-02-13** — closed issue [#223](https://github.com/slackhq/slack-gradle-plugin/issues/223) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "ModuleStats not cacheable across machines"
+
+**2023-02-13** — deleted branch `z/locPortability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-13** — merged PR [#243](https://github.com/slackhq/slack-gradle-plugin/pull/243) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make loc gradle 8 compatible + fix portability"
+
 **2023-02-12** — deleted branch `renovate/major-com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-12** — merged PR [#453](https://github.com/slackhq/circuit/pull/453) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-12** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1426966239) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2023-02-12** — opened PR [#247](https://github.com/slackhq/slack-gradle-plugin/pull/247) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework download progress and use workers in robolectric jar downloads"
-
-**2023-02-12** — created branch `z/workerRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-11** — opened issue [#498](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/498) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Plugin uses deprecated Gradle VersionNumber API"
-
-**2023-02-11** — opened issue [#497](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/497) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "Gradle 8.0/AGP 8.0 support"
-
-**2023-02-11** — opened PR [#246](https://github.com/slackhq/slack-gradle-plugin/pull/246) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.0"
-
-**2023-02-11** — created branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-11** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
