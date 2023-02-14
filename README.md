@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-13** — opened PR [#504](https://github.com/ZacSweers/CatchUp/pull/504) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 1.8.20 prep"
+
+**2023-02-13** — created branch `z/kotlin1820` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-13** — commented on [#59](https://github.com/slackhq/EitherNet/pull/59#issuecomment-1429099356) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-02-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-02-13** — merged PR [#138](https://github.com/ZacSweers/kotlin-compile-testing/pull/138) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8"
+
+**2023-02-13** — opened PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.20 prep"
+
+**2023-02-13** — created branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-02-13** — opened PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Kotlin 1.8.20 prep"
+
+**2023-02-13** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1429074623) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-02-13** — opened PR [#689](https://github.com/square/anvil/pull/689) to [square/anvil](https://github.com/square/anvil): "Test Kotlin 1.8.20-Beta"
-
-**2023-02-13** — created branch `z/kotlin1820Beta` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-02-13** — opened issue [#688](https://github.com/square/anvil/issues/688) on [square/anvil](https://github.com/square/anvil): "Component merging appears to be broken in Kotlin 1.8.20-Beta"
-
-**2023-02-13** — commented on [#454](https://github.com/slackhq/circuit/pull/454#issuecomment-1428854009) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-13** — opened PR [#454](https://github.com/slackhq/circuit/pull/454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Kotlin 1.8.20 prep"
-
-**2023-02-13** — created branch `z/kotlin1820` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-13** — created tag `0.5.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-13** — deleted branch `z/workerRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-13** — merged PR [#247](https://github.com/slackhq/slack-gradle-plugin/pull/247) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rework download progress and use workers in robolectric jar downloads"
-
-**2023-02-13** — closed issue [#223](https://github.com/slackhq/slack-gradle-plugin/issues/223) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "ModuleStats not cacheable across machines"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
