@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-14** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-14** — merged PR [#455](https://github.com/slackhq/circuit/pull/455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8"
+
 **2023-02-14** — deleted branch `renovate/major-com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-14** — merged PR [#505](https://github.com/ZacSweers/CatchUp/pull/505) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-13** — opened PR [#504](https://github.com/ZacSweers/CatchUp/pull/504) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 1.8.20 prep"
 
 **2023-02-13** — created branch `z/kotlin1820` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-13** — commented on [#59](https://github.com/slackhq/EitherNet/pull/59#issuecomment-1429099356) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-02-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
