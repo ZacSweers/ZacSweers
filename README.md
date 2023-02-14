@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-14** — deleted branch `z/ndkBaseDirFix` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
+
 **2023-02-14** — closed issue [#1476](https://github.com/square/kotlinpoet/issues/1476) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "java.lang.NoSuchMethodError: 'java.io.OutputStream com.google.devtools.ksp.processing.CodeGenerator.createNewFile$default(com.google.devtools.ksp.processing.CodeGenerator, com.google.devtools.ksp.processing.Dependencies, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object)'"
 
 **2023-02-14** — commented on [#1476](https://github.com/square/kotlinpoet/issues/1476#issuecomment-1429222722) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-13** — merged PR [#138](https://github.com/ZacSweers/kotlin-compile-testing/pull/138) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8"
 
 **2023-02-13** — opened PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.20 prep"
-
-**2023-02-13** — created branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
