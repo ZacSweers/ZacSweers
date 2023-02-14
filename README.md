@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-14** — closed issue [#1476](https://github.com/square/kotlinpoet/issues/1476) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "java.lang.NoSuchMethodError: 'java.io.OutputStream com.google.devtools.ksp.processing.CodeGenerator.createNewFile$default(com.google.devtools.ksp.processing.CodeGenerator, com.google.devtools.ksp.processing.Dependencies, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object)'"
+
+**2023-02-14** — commented on [#1476](https://github.com/square/kotlinpoet/issues/1476#issuecomment-1429222722) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-14** — commented on [#193](https://github.com/slackhq/slack-gradle-plugin/pull/193#issuecomment-1429208487) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-13** — opened PR [#504](https://github.com/ZacSweers/CatchUp/pull/504) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 1.8.20 prep"
 
 **2023-02-13** — created branch `z/kotlin1820` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-13** — opened PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.20 prep"
 
 **2023-02-13** — created branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-02-13** — opened PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Kotlin 1.8.20 prep"
-
-**2023-02-13** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1429074623) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-13** — opened PR [#689](https://github.com/square/anvil/pull/689) to [square/anvil](https://github.com/square/anvil): "Test Kotlin 1.8.20-Beta"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
