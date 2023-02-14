@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-14** — closed issue [#57](https://github.com/slackhq/compose-lints/issues/57) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Unable to suppress Lint warnings"
+
+**2023-02-14** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1430419641) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-14** — opened issue [#82](https://github.com/dropbox/dependency-guard/issues/82) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: suppressible logging output"
+
 **2023-02-14** — commented on [#53](https://github.com/slackhq/compose-lints/pull/53#issuecomment-1430252926) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-14** — merged PR [#55](https://github.com/slackhq/compose-lints/pull/55) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-14** — deleted branch `renovate/major-com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-14** — merged PR [#505](https://github.com/ZacSweers/CatchUp/pull/505) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6"
-
-**2023-02-14** — deleted branch `z/ndkBaseDirFix` on [ZacSweers/bugsnag-android-gradle-plugin](https://github.com/ZacSweers/bugsnag-android-gradle-plugin)
-
-**2023-02-14** — closed issue [#1476](https://github.com/square/kotlinpoet/issues/1476) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "java.lang.NoSuchMethodError: 'java.io.OutputStream com.google.devtools.ksp.processing.CodeGenerator.createNewFile$default(com.google.devtools.ksp.processing.CodeGenerator, com.google.devtools.ksp.processing.Dependencies, java.lang.String, java.lang.String, java.lang.String, int, java.lang.Object)'"
-
-**2023-02-14** — commented on [#1476](https://github.com/square/kotlinpoet/issues/1476#issuecomment-1429222722) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
