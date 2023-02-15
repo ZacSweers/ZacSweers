@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1431681773) in [oshi/oshi](https://github.com/oshi/oshi)
+
+**2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1431667204) in [oshi/oshi](https://github.com/oshi/oshi)
+
 **2023-02-15** — deleted branch `cb/v1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-15** — created tag `1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-14** — closed issue [#57](https://github.com/slackhq/compose-lints/issues/57) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Unable to suppress Lint warnings"
-
-**2023-02-14** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1430419641) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-14** — opened issue [#82](https://github.com/dropbox/dependency-guard/issues/82) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: suppressible logging output"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
