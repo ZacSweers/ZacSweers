@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — deleted branch `z/composeLints` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-15** — merged PR [#459](https://github.com/ZacSweers/CatchUp/pull/459) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate compose-lints"
+
+**2023-02-15** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-15** — merged PR [#502](https://github.com/ZacSweers/CatchUp/pull/502) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0"
+
 **2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1431681773) in [oshi/oshi](https://github.com/oshi/oshi)
 
 **2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1431667204) in [oshi/oshi](https://github.com/oshi/oshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — merged PR [#59](https://github.com/slackhq/compose-lints/pull/59) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "v1.0.1"
 
 **2023-02-15** — deleted branch `test-renovate/sqldelight` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — closed PR [#249](https://github.com/slackhq/slack-gradle-plugin/pull/249) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency app.cash.sqldelight:gradle-plugin to v2.0.0-SNAPSHOT"
-
-**2023-02-15** — merged PR [#250](https://github.com/slackhq/slack-gradle-plugin/pull/250) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.1"
-
-**2023-02-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-14** — closed issue [#57](https://github.com/slackhq/compose-lints/issues/57) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Unable to suppress Lint warnings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
