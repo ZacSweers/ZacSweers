@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — opened PR [#252](https://github.com/slackhq/slack-gradle-plugin/pull/252) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add back MergeFileTask"
+
+**2023-02-15** — created branch `z/addBackFile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-15** — deleted branch `z/composeLints` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-15** — merged PR [#459](https://github.com/ZacSweers/CatchUp/pull/459) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate compose-lints"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — deleted branch `cb/v1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-15** — created tag `1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-15** — merged PR [#59](https://github.com/slackhq/compose-lints/pull/59) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "v1.0.1"
-
-**2023-02-15** — deleted branch `test-renovate/sqldelight` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
