@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — deleted branch `cb/v1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-15** — created tag `1.0.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-15** — merged PR [#59](https://github.com/slackhq/compose-lints/pull/59) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "v1.0.1"
+
 **2023-02-15** — deleted branch `test-renovate/sqldelight` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-15** — closed PR [#249](https://github.com/slackhq/slack-gradle-plugin/pull/249) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency app.cash.sqldelight:gradle-plugin to v2.0.0-SNAPSHOT"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-14** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1430419641) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-14** — opened issue [#82](https://github.com/dropbox/dependency-guard/issues/82) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Feature request: suppressible logging output"
-
-**2023-02-14** — commented on [#53](https://github.com/slackhq/compose-lints/pull/53#issuecomment-1430252926) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-14** — merged PR [#55](https://github.com/slackhq/compose-lints/pull/55) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8"
-
-**2023-02-14** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
