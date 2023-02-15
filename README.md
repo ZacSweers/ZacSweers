@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — deleted branch `test-renovate/sqldelight` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-15** — closed PR [#249](https://github.com/slackhq/slack-gradle-plugin/pull/249) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency app.cash.sqldelight:gradle-plugin to v2.0.0-SNAPSHOT"
+
+**2023-02-15** — merged PR [#250](https://github.com/slackhq/slack-gradle-plugin/pull/250) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.1"
+
+**2023-02-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-14** — closed issue [#57](https://github.com/slackhq/compose-lints/issues/57) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Unable to suppress Lint warnings"
 
 **2023-02-14** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1430419641) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-14** — merged PR [#55](https://github.com/slackhq/compose-lints/pull/55) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8"
 
 **2023-02-14** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-14** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-14** — merged PR [#455](https://github.com/slackhq/circuit/pull/455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8"
-
-**2023-02-14** — deleted branch `renovate/major-com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-14** — merged PR [#505](https://github.com/ZacSweers/CatchUp/pull/505) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
