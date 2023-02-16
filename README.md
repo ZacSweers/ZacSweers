@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-16** — deleted branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-16** — merged PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
+
 **2023-02-16** — closed issue [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use worker APIs"
 
 **2023-02-16** — commented on [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245#issuecomment-1433707573) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-16** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-02-16** — merged PR [#123](https://github.com/ZacSweers/redacted-compiler-plugin/pull/123) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.0"
-
-**2023-02-16** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432621625) in [oshi/oshi](https://github.com/oshi/oshi)
-
-**2023-02-16** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432593249) in [oshi/oshi](https://github.com/oshi/oshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
