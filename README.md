@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432511475) in [oshi/oshi](https://github.com/oshi/oshi)
+
 **2023-02-15** — opened issue [#3896](https://github.com/cashapp/sqldelight/issues/3896) on [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "The Gradle plugin shades in a number of libraries that should be repackaged"
 
 **2023-02-15** — created tag `0.5.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — merged PR [#253](https://github.com/slackhq/slack-gradle-plugin/pull/253) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add jna-platform to ensure matching versions"
 
 **2023-02-15** — opened PR [#253](https://github.com/slackhq/slack-gradle-plugin/pull/253) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add jna-platform to ensure matching versions"
-
-**2023-02-15** — created branch `z/oshiFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
