@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-16** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-02-16** — merged PR [#123](https://github.com/ZacSweers/redacted-compiler-plugin/pull/123) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.0"
+
 **2023-02-16** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432621625) in [oshi/oshi](https://github.com/oshi/oshi)
 
 **2023-02-16** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432593249) in [oshi/oshi](https://github.com/oshi/oshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — opened issue [#3896](https://github.com/cashapp/sqldelight/issues/3896) on [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "The Gradle plugin shades in a number of libraries that should be repackaged"
 
 **2023-02-15** — created tag `0.5.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — closed PR [#251](https://github.com/slackhq/slack-gradle-plugin/pull/251) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
