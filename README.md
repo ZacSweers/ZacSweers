@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-16** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432593249) in [oshi/oshi](https://github.com/oshi/oshi)
+
+**2023-02-16** — opened issue [#255](https://github.com/slackhq/slack-gradle-plugin/issues/255) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow bootstrap to write and prepare common git hooks"
+
+**2023-02-16** — opened PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
+
+**2023-02-16** — created branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-15** — commented on [#2282](https://github.com/oshi/oshi/issues/2282#issuecomment-1432511475) in [oshi/oshi](https://github.com/oshi/oshi)
 
 **2023-02-15** — opened issue [#3896](https://github.com/cashapp/sqldelight/issues/3896) on [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "The Gradle plugin shades in a number of libraries that should be repackaged"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-15** — closed PR [#251](https://github.com/slackhq/slack-gradle-plugin/pull/251) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8"
 
 **2023-02-15** — commented on [#251](https://github.com/slackhq/slack-gradle-plugin/pull/251#issuecomment-1432012650) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — created tag `0.5.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — deleted branch `z/oshiFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-15** — merged PR [#253](https://github.com/slackhq/slack-gradle-plugin/pull/253) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add jna-platform to ensure matching versions"
-
-**2023-02-15** — opened PR [#253](https://github.com/slackhq/slack-gradle-plugin/pull/253) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add jna-platform to ensure matching versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
