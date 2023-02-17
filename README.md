@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-17** — closed issue [#255](https://github.com/slackhq/slack-gradle-plugin/issues/255) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow bootstrap to write and prepare common git hooks"
+
+**2023-02-17** — deleted branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-17** — merged PR [#256](https://github.com/slackhq/slack-gradle-plugin/pull/256) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up git hooks and offer them in SGP too"
+
 **2023-02-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-17** — merged PR [#387](https://github.com/ZacSweers/MoshiX/pull/387) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-16** — merged PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
 
 **2023-02-16** — closed issue [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use worker APIs"
-
-**2023-02-16** — commented on [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245#issuecomment-1433707573) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-16** — opened PR [#256](https://github.com/slackhq/slack-gradle-plugin/pull/256) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up git hooks and offer them in SGP too"
-
-**2023-02-16** — created branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
