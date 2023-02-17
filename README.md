@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-17** — merged PR [#387](https://github.com/ZacSweers/MoshiX/pull/387) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.0"
+
+**2023-02-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-17** — merged PR [#506](https://github.com/ZacSweers/CatchUp/pull/506) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha05"
+
 **2023-02-16** — deleted branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-16** — merged PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-16** — opened PR [#256](https://github.com/slackhq/slack-gradle-plugin/pull/256) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up git hooks and offer them in SGP too"
 
 **2023-02-16** — created branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-16** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-16** — merged PR [#503](https://github.com/ZacSweers/CatchUp/pull/503) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.7"
-
-**2023-02-16** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-02-16** — merged PR [#123](https://github.com/ZacSweers/redacted-compiler-plugin/pull/123) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
