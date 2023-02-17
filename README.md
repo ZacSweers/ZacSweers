@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-17** — commented on [#450](https://github.com/slackhq/circuit/issues/450#issuecomment-1435225999) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-02-17** — closed issue [#255](https://github.com/slackhq/slack-gradle-plugin/issues/255) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow bootstrap to write and prepare common git hooks"
 
 **2023-02-17** — deleted branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-16** — deleted branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-16** — merged PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
-
-**2023-02-16** — closed issue [#245](https://github.com/slackhq/slack-gradle-plugin/issues/245) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use worker APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
