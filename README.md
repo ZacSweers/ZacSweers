@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-18** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1435773884) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-02-18** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1435773746) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-02-18** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1435753788) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
 
 **2023-02-18** — opened PR [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Introduce Nexus.Logger abstraction for logging"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-18** — merged PR [#61](https://github.com/slackhq/compose-lints/pull/61) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha05"
 
 **2023-02-18** — merged PR [#53](https://github.com/slackhq/compose-lints/pull/53) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update ViewModelInjectionDetector to support a lint option"
-
-**2023-02-18** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1435703543) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2023-02-18** — deleted branch `renovate/org.jsoup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
