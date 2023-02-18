@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-18** — deleted branch `renovate/org.jsoup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-18** — merged PR [#509](https://github.com/ZacSweers/CatchUp/pull/509) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.15.4"
+
 **2023-02-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-17** — commented on [#450](https://github.com/slackhq/circuit/issues/450#issuecomment-1435225999) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-17** — closed issue [#255](https://github.com/slackhq/slack-gradle-plugin/issues/255) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow bootstrap to write and prepare common git hooks"
-
-**2023-02-17** — deleted branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-17** — merged PR [#256](https://github.com/slackhq/slack-gradle-plugin/pull/256) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up git hooks and offer them in SGP too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
