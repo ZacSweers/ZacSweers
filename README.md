@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-17** — opened issue [#23957](https://github.com/gradle/gradle/issues/23957) on [gradle/gradle](https://github.com/gradle/gradle): "Clean up Gradle configurationg caches periodically"
+
 **2023-02-17** — commented on [#450](https://github.com/slackhq/circuit/issues/450#issuecomment-1435225999) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-17** — closed issue [#255](https://github.com/slackhq/slack-gradle-plugin/issues/255) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow bootstrap to write and prepare common git hooks"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-17** — merged PR [#506](https://github.com/ZacSweers/CatchUp/pull/506) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha05"
 
 **2023-02-16** — deleted branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-16** — merged PR [#254](https://github.com/slackhq/slack-gradle-plugin/pull/254) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix noisy robolectric log"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
