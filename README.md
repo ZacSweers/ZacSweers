@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-18** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1435753788) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+**2023-02-18** — opened PR [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Introduce Nexus.Logger abstraction for logging"
+
 **2023-02-18** — created branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
 
 **2023-02-18** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-18** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1435703543) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-02-18** — deleted branch `renovate/org.jsoup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-18** — merged PR [#509](https://github.com/ZacSweers/CatchUp/pull/509) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.15.4"
-
-**2023-02-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
