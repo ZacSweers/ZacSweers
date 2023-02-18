@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-02-17** — merged PR [#26](https://github.com/ZacSweers/ZacSweers/pull/26) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8"
+
+**2023-02-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-17** — merged PR [#508](https://github.com/ZacSweers/CatchUp/pull/508) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0.1"
+
 **2023-02-17** — opened issue [#23957](https://github.com/gradle/gradle/issues/23957) on [gradle/gradle](https://github.com/gradle/gradle): "Clean up Gradle configurationg caches periodically"
 
 **2023-02-17** — commented on [#450](https://github.com/slackhq/circuit/issues/450#issuecomment-1435225999) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-17** — deleted branch `z/hooks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-17** — merged PR [#256](https://github.com/slackhq/slack-gradle-plugin/pull/256) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up git hooks and offer them in SGP too"
-
-**2023-02-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-17** — merged PR [#387](https://github.com/ZacSweers/MoshiX/pull/387) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.0"
-
-**2023-02-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-17** — merged PR [#506](https://github.com/ZacSweers/CatchUp/pull/506) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha05"
-
-**2023-02-16** — deleted branch `z/fixLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
