@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-18** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-18** — merged PR [#257](https://github.com/slackhq/slack-gradle-plugin/pull/257) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta03"
+
+**2023-02-18** — opened PR [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove kotlin DSL dependency"
+
+**2023-02-18** — created branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-18** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1435773884) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-02-18** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1435773746) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-18** — created branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
 
 **2023-02-18** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-18** — merged PR [#63](https://github.com/slackhq/compose-lints/pull/63) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.0.1"
-
-**2023-02-18** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-18** — merged PR [#61](https://github.com/slackhq/compose-lints/pull/61) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha05"
-
-**2023-02-18** — merged PR [#53](https://github.com/slackhq/compose-lints/pull/53) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update ViewModelInjectionDetector to support a lint option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
