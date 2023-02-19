@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-19** — closed issue [#190](https://github.com/slackhq/slack-gradle-plugin/issues/190) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Kotlin Gradle DSL from plugin classpath"
+
+**2023-02-19** — deleted branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-19** — merged PR [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove kotlin DSL dependency"
+
+**2023-02-19** — commented on [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258#issuecomment-1436084754) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-19** — merged PR [#511](https://github.com/ZacSweers/CatchUp/pull/511) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.19.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-19** — opened PR [#259](https://github.com/slackhq/slack-gradle-plugin/pull/259) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Better support fully modularized lints"
 
 **2023-02-18** — created branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-18** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-18** — merged PR [#257](https://github.com/slackhq/slack-gradle-plugin/pull/257) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta03"
-
-**2023-02-18** — opened PR [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove kotlin DSL dependency"
-
-**2023-02-18** — created branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
