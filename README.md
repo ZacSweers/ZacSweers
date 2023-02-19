@@ -6,6 +6,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 <!-- githubActivity starts -->
 **2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
+**2023-02-19** — merged PR [#511](https://github.com/ZacSweers/CatchUp/pull/511) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.19.0"
+
+**2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-02-19** — merged PR [#510](https://github.com/ZacSweers/CatchUp/pull/510) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.17.0"
 
 **2023-02-19** — opened PR [#259](https://github.com/slackhq/slack-gradle-plugin/pull/259) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Better support fully modularized lints"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-18** — opened PR [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove kotlin DSL dependency"
 
 **2023-02-18** — created branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-18** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1435773884) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-02-18** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1435773746) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
