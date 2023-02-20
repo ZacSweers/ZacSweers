@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-20** — commented on [#692](https://github.com/square/anvil/issues/692#issuecomment-1437448317) in [square/anvil](https://github.com/square/anvil)
+
 **2023-02-20** — deleted branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-20** — merged PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-20** — opened PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
 
 **2023-02-20** — created branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-20** — closed issue [#1633](https://github.com/square/moshi/issues/1633) on [square/moshi](https://github.com/square/moshi): "Access nested values in json object"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
