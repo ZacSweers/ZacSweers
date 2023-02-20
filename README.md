@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-20** — deleted branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-20** — merged PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
+
+**2023-02-20** — created tag `0.5.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-20** — deleted branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-20** — merged PR [#259](https://github.com/slackhq/slack-gradle-plugin/pull/259) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Better support fully modularized lints"
+
+**2023-02-20** — deleted branch `z/fixNamedLazy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-20** — merged PR [#260](https://github.com/slackhq/slack-gradle-plugin/pull/260) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix accidental configureEach in namedLazy"
+
 **2023-02-20** — opened PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
 
 **2023-02-20** — created branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-20** — closed issue [#1633](https://github.com/square/moshi/issues/1633) on [square/moshi](https://github.com/square/moshi): "Access nested values in json object"
-
-**2023-02-20** — commented on [#1633](https://github.com/square/moshi/issues/1633#issuecomment-1437163693) in [square/moshi](https://github.com/square/moshi)
-
-**2023-02-19** — opened PR [#260](https://github.com/slackhq/slack-gradle-plugin/pull/260) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix accidental configureEach in namedLazy"
-
-**2023-02-19** — created branch `z/fixNamedLazy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-19** — closed issue [#190](https://github.com/slackhq/slack-gradle-plugin/issues/190) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Kotlin Gradle DSL from plugin classpath"
-
-**2023-02-19** — deleted branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-19** — merged PR [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove kotlin DSL dependency"
-
-**2023-02-19** — commented on [#258](https://github.com/slackhq/slack-gradle-plugin/pull/258#issuecomment-1436084754) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
