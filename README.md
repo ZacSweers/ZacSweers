@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-19** — opened PR [#260](https://github.com/slackhq/slack-gradle-plugin/pull/260) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix accidental configureEach in namedLazy"
+
+**2023-02-19** — created branch `z/fixNamedLazy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-02-19** — closed issue [#190](https://github.com/slackhq/slack-gradle-plugin/issues/190) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove Kotlin Gradle DSL from plugin classpath"
 
 **2023-02-19** — deleted branch `z/removeKotlinDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-19** — merged PR [#510](https://github.com/ZacSweers/CatchUp/pull/510) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.17.0"
-
-**2023-02-19** — opened PR [#259](https://github.com/slackhq/slack-gradle-plugin/pull/259) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Better support fully modularized lints"
-
-**2023-02-18** — created branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
