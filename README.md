@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-20** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-20** — merged PR [#456](https://github.com/slackhq/circuit/pull/456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.0.1"
+
+**2023-02-20** — deleted branch `renovate/org.jsoup` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-20** — merged PR [#457](https://github.com/slackhq/circuit/pull/457) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jsoup:jsoup to v1.15.4"
+
+**2023-02-20** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-20** — merged PR [#458](https://github.com/slackhq/circuit/pull/458) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.0.13"
+
 **2023-02-20** — commented on [#692](https://github.com/square/anvil/issues/692#issuecomment-1437448317) in [square/anvil](https://github.com/square/anvil)
 
 **2023-02-20** — deleted branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-20** — merged PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
 
 **2023-02-20** — created tag `0.5.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-20** — deleted branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-20** — merged PR [#259](https://github.com/slackhq/slack-gradle-plugin/pull/259) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Better support fully modularized lints"
-
-**2023-02-20** — deleted branch `z/fixNamedLazy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-20** — merged PR [#260](https://github.com/slackhq/slack-gradle-plugin/pull/260) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix accidental configureEach in namedLazy"
-
-**2023-02-20** — opened PR [#459](https://github.com/slackhq/circuit/pull/459) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change state and event marker interfaces to `@Stable`"
-
-**2023-02-20** — created branch `z/stable` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
