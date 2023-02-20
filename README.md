@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-20** — closed issue [#1633](https://github.com/square/moshi/issues/1633) on [square/moshi](https://github.com/square/moshi): "Access nested values in json object"
+
+**2023-02-20** — commented on [#1633](https://github.com/square/moshi/issues/1633#issuecomment-1437163693) in [square/moshi](https://github.com/square/moshi)
+
 **2023-02-19** — opened PR [#260](https://github.com/slackhq/slack-gradle-plugin/pull/260) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix accidental configureEach in namedLazy"
 
 **2023-02-19** — created branch `z/fixNamedLazy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-19** — merged PR [#511](https://github.com/ZacSweers/CatchUp/pull/511) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.19.0"
-
-**2023-02-19** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-19** — merged PR [#510](https://github.com/ZacSweers/CatchUp/pull/510) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.17.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
