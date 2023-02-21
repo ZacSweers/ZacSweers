@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-21** — deleted branch `renovate/versionsplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-02-21** — merged PR [#461](https://github.com/slackhq/circuit/pull/461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ben-manes.versions to v0.46.0"
+
 **2023-02-21** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-21** — merged PR [#514](https://github.com/ZacSweers/CatchUp/pull/514) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin versions to v0.46.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-20** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-20** — merged PR [#456](https://github.com/slackhq/circuit/pull/456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.0.1"
-
-**2023-02-20** — deleted branch `renovate/org.jsoup` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-20** — merged PR [#457](https://github.com/slackhq/circuit/pull/457) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jsoup:jsoup to v1.15.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
