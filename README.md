@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-21** — deleted branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-02-21** — merged PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
+
 **2023-02-21** — opened PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
 
 **2023-02-21** — created branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-21** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-02-21** — merged PR [#460](https://github.com/slackhq/circuit/pull/460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.7.1"
-
-**2023-02-21** — opened PR [#38](https://github.com/slackhq/slack-lints/pull/38) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement ParcelizeFunctionPropertyDetectorTest"
-
-**2023-02-21** — created branch `z/functionParcels` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
