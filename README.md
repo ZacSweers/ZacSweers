@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-22** — created tag `0.2.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-02-22** — deleted branch `z/readmeUpdates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-02-22** — merged PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
+
+**2023-02-22** — opened PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
+
+**2023-02-22** — created branch `z/readmeUpdates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-02-22** — merged PR [#62](https://github.com/slackhq/compose-lints/pull/62) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix CompositionLocals docs Markdown link"
 
 **2023-02-22** — commented on [#62](https://github.com/slackhq/compose-lints/pull/62#issuecomment-1440336024) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-22** — merged PR [#65](https://github.com/slackhq/compose-lints/pull/65) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha06"
 
 **2023-02-22** — deleted branch `z/functionParcels` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-02-22** — merged PR [#38](https://github.com/slackhq/slack-lints/pull/38) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement ParcelizeFunctionPropertyDetectorTest"
-
-**2023-02-21** — deleted branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-21** — merged PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
-
-**2023-02-21** — opened PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
-
-**2023-02-21** — created branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
