@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-22** — merged PR [#62](https://github.com/slackhq/compose-lints/pull/62) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix CompositionLocals docs Markdown link"
+
+**2023-02-22** — commented on [#62](https://github.com/slackhq/compose-lints/pull/62#issuecomment-1440336024) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-22** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-02-22** — merged PR [#65](https://github.com/slackhq/compose-lints/pull/65) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha06"
+
+**2023-02-22** — deleted branch `z/functionParcels` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-02-22** — merged PR [#38](https://github.com/slackhq/slack-lints/pull/38) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement ParcelizeFunctionPropertyDetectorTest"
+
 **2023-02-21** — deleted branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-02-21** — merged PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-21** — opened PR [#262](https://github.com/slackhq/slack-gradle-plugin/pull/262) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully catch JNA issues"
 
 **2023-02-21** — created branch `z/cleanerJnaLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-21** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-21** — merged PR [#261](https://github.com/slackhq/slack-gradle-plugin/pull/261) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.46.0"
-
-**2023-02-21** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-21** — merged PR [#515](https://github.com/ZacSweers/CatchUp/pull/515) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha06"
-
-**2023-02-21** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-21** — merged PR [#460](https://github.com/slackhq/circuit/pull/460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
