@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441234356) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-02-23** — commented on [#388](https://github.com/ZacSweers/MoshiX/pull/388#issuecomment-1441244038) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441228636) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-02-23** — merged PR [#388](https://github.com/ZacSweers/MoshiX/pull/388) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a typo in the sealed readme"
 
-**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441227290) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-02-23** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441226049) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-02-23** — merged PR [#516](https://github.com/ZacSweers/CatchUp/pull/516) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.10.0-beta01"
 
-**2023-02-22** — commented on [#1633](https://github.com/square/moshi/issues/1633#issuecomment-1441190689) in [square/moshi](https://github.com/square/moshi)
+**2023-02-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-22** — opened issue [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "7.4.1 always requires NDK to be installed, even if unused"
+**2023-02-23** — merged PR [#518](https://github.com/ZacSweers/CatchUp/pull/518) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0"
 
-**2023-02-22** — created tag `0.2.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-02-23** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-22** — deleted branch `z/readmeUpdates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-02-23** — merged PR [#520](https://github.com/ZacSweers/CatchUp/pull/520) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-alpha06"
 
-**2023-02-22** — merged PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
+**2023-02-23** — merged PR [#521](https://github.com/ZacSweers/CatchUp/pull/521) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-rc01"
 
-**2023-02-22** — opened PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
+**2023-02-23** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
