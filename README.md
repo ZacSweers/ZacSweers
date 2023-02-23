@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-22** — commented on [#1633](https://github.com/square/moshi/issues/1633#issuecomment-1441190689) in [square/moshi](https://github.com/square/moshi)
+
+**2023-02-22** — opened issue [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "7.4.1 always requires NDK to be installed, even if unused"
+
 **2023-02-22** — created tag `0.2.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-02-22** — deleted branch `z/readmeUpdates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-22** — commented on [#62](https://github.com/slackhq/compose-lints/pull/62#issuecomment-1440336024) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-22** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-22** — merged PR [#65](https://github.com/slackhq/compose-lints/pull/65) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha06"
-
-**2023-02-22** — deleted branch `z/functionParcels` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
