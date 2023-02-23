@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441234356) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441228636) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441227290) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-23** — commented on [#1428](https://github.com/square/kotlinpoet/pull/1428#issuecomment-1441226049) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-02-22** — commented on [#1633](https://github.com/square/moshi/issues/1633#issuecomment-1441190689) in [square/moshi](https://github.com/square/moshi)
 
 **2023-02-22** — opened issue [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "7.4.1 always requires NDK to be installed, even if unused"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-22** — merged PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
 
 **2023-02-22** — opened PR [#39](https://github.com/slackhq/slack-lints/pull/39) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Small readme updates"
-
-**2023-02-22** — created branch `z/readmeUpdates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-02-22** — merged PR [#62](https://github.com/slackhq/compose-lints/pull/62) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix CompositionLocals docs Markdown link"
-
-**2023-02-22** — commented on [#62](https://github.com/slackhq/compose-lints/pull/62#issuecomment-1440336024) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-22** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
