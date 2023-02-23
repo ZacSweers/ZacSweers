@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — opened PR [#1483](https://github.com/square/kotlinpoet/pull/1483) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Test only JDKs 8, 11, 17, and 19"
+
+**2023-02-23** — created branch `z/updateJdks` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-02-23** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-02-23** — merged PR [#1481](https://github.com/square/kotlinpoet/pull/1481) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.14"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-23** — merged PR [#518](https://github.com/ZacSweers/CatchUp/pull/518) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0"
-
-**2023-02-23** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-23** — merged PR [#520](https://github.com/ZacSweers/CatchUp/pull/520) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-alpha06"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
