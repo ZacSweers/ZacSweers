@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-02-23** — merged PR [#1481](https://github.com/square/kotlinpoet/pull/1481) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.14"
+
 **2023-02-23** — commented on [#388](https://github.com/ZacSweers/MoshiX/pull/388#issuecomment-1441244038) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-23** — merged PR [#388](https://github.com/ZacSweers/MoshiX/pull/388) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a typo in the sealed readme"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-23** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-23** — merged PR [#520](https://github.com/ZacSweers/CatchUp/pull/520) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-alpha06"
-
-**2023-02-23** — merged PR [#521](https://github.com/ZacSweers/CatchUp/pull/521) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0-rc01"
-
-**2023-02-23** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
