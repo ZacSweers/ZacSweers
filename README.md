@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1442354190) in [gradle/gradle](https://github.com/gradle/gradle)
+
+**2023-02-23** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1442353733) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2023-02-23** — opened PR [#1483](https://github.com/square/kotlinpoet/pull/1483) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Test only JDKs 8, 11, 17, and 19"
 
 **2023-02-23** — created branch `z/updateJdks` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-23** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-23** — merged PR [#516](https://github.com/ZacSweers/CatchUp/pull/516) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.10.0-beta01"
-
-**2023-02-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-23** — merged PR [#518](https://github.com/ZacSweers/CatchUp/pull/518) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
