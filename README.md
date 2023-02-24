@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-23** — merged PR [#523](https://github.com/ZacSweers/CatchUp/pull/523) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.22.0"
+
 **2023-02-23** — deleted branch `z/updateJdks` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-02-23** — merged PR [#1483](https://github.com/square/kotlinpoet/pull/1483) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Test only JDKs 8, 11, 17, and 19"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-23** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-02-23** — merged PR [#1481](https://github.com/square/kotlinpoet/pull/1481) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.14"
-
-**2023-02-23** — commented on [#388](https://github.com/ZacSweers/MoshiX/pull/388#issuecomment-1441244038) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-23** — merged PR [#388](https://github.com/ZacSweers/MoshiX/pull/388) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix a typo in the sealed readme"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
