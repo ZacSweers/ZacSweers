@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-23** — merged PR [#519](https://github.com/ZacSweers/CatchUp/pull/519) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-alpha07"
+
+**2023-02-23** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-23** — merged PR [#517](https://github.com/ZacSweers/CatchUp/pull/517) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.0-beta02"
+
 **2023-02-23** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-23** — merged PR [#523](https://github.com/ZacSweers/CatchUp/pull/523) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.22.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-23** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1442354190) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-02-23** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1442353733) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2023-02-23** — opened PR [#1483](https://github.com/square/kotlinpoet/pull/1483) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Test only JDKs 8, 11, 17, and 19"
-
-**2023-02-23** — created branch `z/updateJdks` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-02-23** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-02-23** — merged PR [#1481](https://github.com/square/kotlinpoet/pull/1481) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.0.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
