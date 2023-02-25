@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-25** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
+
+**2023-02-25** — merged PR [#1630](https://github.com/square/moshi/pull/1630) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8"
+
+**2023-02-25** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
+
+**2023-02-25** — closed PR [#1634](https://github.com/square/moshi/pull/1634) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenShadow to v8"
+
+**2023-02-25** — commented on [#1634](https://github.com/square/moshi/pull/1634#issuecomment-1445176657) in [square/moshi](https://github.com/square/moshi)
+
+**2023-02-25** — closed PR [#1617](https://github.com/square/moshi/pull/1617) to [square/moshi](https://github.com/square/moshi): "Update plugin japicmp to v0.4.1"
+
+**2023-02-25** — commented on [#1617](https://github.com/square/moshi/pull/1617#issuecomment-1445175639) in [square/moshi](https://github.com/square/moshi)
+
+**2023-02-25** — closed PR [#1625](https://github.com/square/moshi/pull/1625) to [square/moshi](https://github.com/square/moshi): "fix issue-874, details see link: https://github.com/square/moshi/issues/874"
+
+**2023-02-25** — commented on [#1625](https://github.com/square/moshi/pull/1625#issuecomment-1445169544) in [square/moshi](https://github.com/square/moshi)
+
 **2023-02-24** — commented on [#24007](https://github.com/gradle/gradle/issues/24007#issuecomment-1444860103) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2023-02-24** — closed issue [#544](https://github.com/aws/amazon-chime-sdk-android/issues/544) on [aws/amazon-chime-sdk-android](https://github.com/aws/amazon-chime-sdk-android): "0.17.10 isn't published to maven central"
-
-**2023-02-24** — commented on [#544](https://github.com/aws/amazon-chime-sdk-android/issues/544#issuecomment-1444595303) in [aws/amazon-chime-sdk-android](https://github.com/aws/amazon-chime-sdk-android)
-
-**2023-02-24** — opened issue [#544](https://github.com/aws/amazon-chime-sdk-android/issues/544) on [aws/amazon-chime-sdk-android](https://github.com/aws/amazon-chime-sdk-android): "0.17.10 isn't published to maven central"
-
-**2023-02-24** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1444558607) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-02-24** — deleted branch `z/immutableEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-24** — merged PR [#465](https://github.com/slackhq/circuit/pull/465) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make events immutable again"
-
-**2023-02-24** — deleted branch `z/stableCoroutineScope` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-02-24** — merged PR [#466](https://github.com/slackhq/circuit/pull/466) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add StableCoroutineScope"
-
-**2023-02-24** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
