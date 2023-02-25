@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-25** — commented on [#1614](https://github.com/square/moshi/pull/1614#issuecomment-1445183448) in [square/moshi](https://github.com/square/moshi)
+
 **2023-02-25** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
 
 **2023-02-25** — merged PR [#1630](https://github.com/square/moshi/pull/1630) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — closed PR [#1625](https://github.com/square/moshi/pull/1625) to [square/moshi](https://github.com/square/moshi): "fix issue-874, details see link: https://github.com/square/moshi/issues/874"
 
 **2023-02-25** — commented on [#1625](https://github.com/square/moshi/pull/1625#issuecomment-1445169544) in [square/moshi](https://github.com/square/moshi)
-
-**2023-02-24** — commented on [#24007](https://github.com/gradle/gradle/issues/24007#issuecomment-1444860103) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
