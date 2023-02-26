@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-26** — deleted branch `z/unused` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-26** — merged PR [#526](https://github.com/ZacSweers/CatchUp/pull/526) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Clear out unused resources"
+
+**2023-02-26** — opened PR [#526](https://github.com/ZacSweers/CatchUp/pull/526) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Clear out unused resources"
+
+**2023-02-25** — created branch `z/unused` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-02-25** — deleted branch `z/moreFinalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-25** — merged PR [#525](https://github.com/ZacSweers/CatchUp/pull/525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More cleanups"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — deleted branch `z/finalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-25** — merged PR [#524](https://github.com/ZacSweers/CatchUp/pull/524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Finish removing fragments"
-
-**2023-02-25** — opened PR [#524](https://github.com/ZacSweers/CatchUp/pull/524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Finish removing fragments"
-
-**2023-02-25** — created branch `z/finalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-02-25** — merged PR [#64](https://github.com/slackhq/compose-lints/pull/64) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.0.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
