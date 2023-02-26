@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-25** — deleted branch `z/moreFinalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-25** — merged PR [#525](https://github.com/ZacSweers/CatchUp/pull/525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More cleanups"
+
 **2023-02-25** — opened PR [#525](https://github.com/ZacSweers/CatchUp/pull/525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More cleanups"
 
 **2023-02-25** — created branch `z/moreFinalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-25** — merged PR [#64](https://github.com/slackhq/compose-lints/pull/64) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.0.14"
-
-**2023-02-25** — commented on [#1614](https://github.com/square/moshi/pull/1614#issuecomment-1445183448) in [square/moshi](https://github.com/square/moshi)
-
-**2023-02-25** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
