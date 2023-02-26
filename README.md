@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-25** — deleted branch `z/finalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-25** — merged PR [#524](https://github.com/ZacSweers/CatchUp/pull/524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Finish removing fragments"
+
+**2023-02-25** — opened PR [#524](https://github.com/ZacSweers/CatchUp/pull/524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Finish removing fragments"
+
 **2023-02-25** — created branch `z/finalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — merged PR [#1630](https://github.com/square/moshi/pull/1630) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8"
 
 **2023-02-25** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
-
-**2023-02-25** — closed PR [#1634](https://github.com/square/moshi/pull/1634) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenShadow to v8"
-
-**2023-02-25** — commented on [#1634](https://github.com/square/moshi/pull/1634#issuecomment-1445176657) in [square/moshi](https://github.com/square/moshi)
-
-**2023-02-25** — closed PR [#1617](https://github.com/square/moshi/pull/1617) to [square/moshi](https://github.com/square/moshi): "Update plugin japicmp to v0.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
