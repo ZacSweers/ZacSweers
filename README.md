@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-25** — created branch `z/finalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-02-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-02-25** — merged PR [#64](https://github.com/slackhq/compose-lints/pull/64) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.0.14"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — commented on [#1634](https://github.com/square/moshi/pull/1634#issuecomment-1445176657) in [square/moshi](https://github.com/square/moshi)
 
 **2023-02-25** — closed PR [#1617](https://github.com/square/moshi/pull/1617) to [square/moshi](https://github.com/square/moshi): "Update plugin japicmp to v0.4.1"
-
-**2023-02-25** — commented on [#1617](https://github.com/square/moshi/pull/1617#issuecomment-1445175639) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
