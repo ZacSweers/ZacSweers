@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-26** — deleted branch `z/releaseFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-26** — merged PR [#527](https://github.com/ZacSweers/CatchUp/pull/527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Release build fixes"
+
 **2023-02-26** — opened PR [#527](https://github.com/ZacSweers/CatchUp/pull/527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Release build fixes"
 
 **2023-02-26** — created branch `z/releaseFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-25** — deleted branch `z/moreFinalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-25** — merged PR [#525](https://github.com/ZacSweers/CatchUp/pull/525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More cleanups"
-
-**2023-02-25** — opened PR [#525](https://github.com/ZacSweers/CatchUp/pull/525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More cleanups"
-
-**2023-02-25** — created branch `z/moreFinalStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
