@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-26** — deleted branch `z/daynightFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-26** — merged PR [#528](https://github.com/ZacSweers/CatchUp/pull/528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Clean up reusable and daynight"
+
 **2023-02-26** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-26** — merged PR [#530](https://github.com/ZacSweers/CatchUp/pull/530) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v3.5.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-26** — deleted branch `z/releaseFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-26** — merged PR [#527](https://github.com/ZacSweers/CatchUp/pull/527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Release build fixes"
-
-**2023-02-26** — opened PR [#527](https://github.com/ZacSweers/CatchUp/pull/527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Release build fixes"
-
-**2023-02-26** — created branch `z/releaseFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
