@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-27** — merged PR [#531](https://github.com/ZacSweers/CatchUp/pull/531) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha07"
+
+**2023-02-27** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-02-27** — merged PR [#393](https://github.com/ZacSweers/MoshiX/pull/393) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v7.4.2"
+
 **2023-02-27** — commented on [#3929](https://github.com/cashapp/sqldelight/pull/3929#issuecomment-1446879801) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
 
 **2023-02-27** — commented on [#59](https://github.com/slackhq/EitherNet/pull/59#issuecomment-1446864661) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-27** — opened PR [#3930](https://github.com/cashapp/sqldelight/pull/3930) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Small Gradle plugin QoL improvements"
 
 **2023-02-27** — created branch `z/extensionImprovements` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2023-02-27** — opened PR [#3929](https://github.com/cashapp/sqldelight/pull/3929) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Some small Gradle plugin fixes"
-
-**2023-02-27** — created branch `z/gradleFixes` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2023-02-26** — deleted branch `z/daynightFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-26** — merged PR [#528](https://github.com/ZacSweers/CatchUp/pull/528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Clean up reusable and daynight"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
