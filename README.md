@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-27** — merged PR [#533](https://github.com/ZacSweers/CatchUp/pull/533) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.9"
+
+**2023-02-27** — commented on [#1642](https://github.com/android/android-test/issues/1642#issuecomment-1447145752) in [android/android-test](https://github.com/android/android-test)
+
 **2023-02-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-27** — merged PR [#532](https://github.com/ZacSweers/CatchUp/pull/532) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.3-alpha01"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-27** — merged PR [#265](https://github.com/slackhq/slack-gradle-plugin/pull/265) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v7.6.1"
 
 **2023-02-27** — created tag `0.5.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-02-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-27** — merged PR [#531](https://github.com/ZacSweers/CatchUp/pull/531) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha07"
-
-**2023-02-27** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
