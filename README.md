@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-27** — commented on [#3929](https://github.com/cashapp/sqldelight/pull/3929#issuecomment-1446879801) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
+
+**2023-02-27** — commented on [#59](https://github.com/slackhq/EitherNet/pull/59#issuecomment-1446864661) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-02-27** — commented on [#3930](https://github.com/cashapp/sqldelight/pull/3930#issuecomment-1446541976) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
 
 **2023-02-27** — commented on [#3930](https://github.com/cashapp/sqldelight/pull/3930#issuecomment-1445773835) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-26** — deleted branch `z/daynightFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-26** — merged PR [#528](https://github.com/ZacSweers/CatchUp/pull/528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Clean up reusable and daynight"
-
-**2023-02-26** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-26** — merged PR [#530](https://github.com/ZacSweers/CatchUp/pull/530) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v3.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
