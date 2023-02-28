@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-28** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1448946504) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
+
 **2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-27** — merged PR [#394](https://github.com/ZacSweers/MoshiX/pull/394) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.16.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-27** — merged PR [#27](https://github.com/ZacSweers/ZacSweers/pull/27) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.46.0"
 
 **2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-02-27** — merged PR [#125](https://github.com/ZacSweers/redacted-compiler-plugin/pull/125) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
