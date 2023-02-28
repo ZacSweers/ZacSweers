@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-02-27** — opened issue [#154](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/154) on [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android): "MAMEnrollmentManager.getRegisteredAccountStatus() deprecated without notes"
+**2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-02-27** — commented on [#1027](https://github.com/AzureAD/microsoft-authentication-library-for-android/issues/1027#issuecomment-1447272723) in [AzureAD/microsoft-authentication-library-for-android](https://github.com/AzureAD/microsoft-authentication-library-for-android)
+**2023-02-27** — merged PR [#394](https://github.com/ZacSweers/MoshiX/pull/394) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.16.0"
 
-**2023-02-27** — commented on [#1642](https://github.com/android/android-test/issues/1642#issuecomment-1447219632) in [android/android-test](https://github.com/android/android-test)
+**2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-02-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-27** — merged PR [#28](https://github.com/ZacSweers/ZacSweers/pull/28) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.16.0"
 
-**2023-02-27** — merged PR [#533](https://github.com/ZacSweers/CatchUp/pull/533) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.9"
+**2023-02-27** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-02-27** — commented on [#1642](https://github.com/android/android-test/issues/1642#issuecomment-1447145752) in [android/android-test](https://github.com/android/android-test)
+**2023-02-27** — merged PR [#534](https://github.com/ZacSweers/CatchUp/pull/534) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.16.0"
 
-**2023-02-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-02-27** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-02-27** — merged PR [#532](https://github.com/ZacSweers/CatchUp/pull/532) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.5.3-alpha01"
+**2023-02-27** — merged PR [#27](https://github.com/ZacSweers/ZacSweers/pull/27) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.46.0"
 
-**2023-02-27** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-02-27** — merged PR [#264](https://github.com/slackhq/slack-gradle-plugin/pull/264) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.4.1"
+**2023-02-27** — merged PR [#125](https://github.com/ZacSweers/redacted-compiler-plugin/pull/125) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
