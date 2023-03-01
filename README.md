@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-01** — opened PR [#3454](https://github.com/JetBrains/kotlin-web-site/pull/3454) to [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site): "Fix formatting in ksp-overview"
+
+**2023-02-28** — opened issue [#156](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/156) on [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android): "Feedback on the new preview plugin"
+
+**2023-02-28** — opened issue [#155](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/155) on [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android): "Strange Gradle crash when testing new preview implementation in 9.4.0"
+
 **2023-02-28** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-02-28** — merged PR [#536](https://github.com/ZacSweers/CatchUp/pull/536) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-02-27** — merged PR [#394](https://github.com/ZacSweers/MoshiX/pull/394) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.16.0"
-
-**2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-02-27** — merged PR [#28](https://github.com/ZacSweers/ZacSweers/pull/28) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.16.0"
-
-**2023-02-27** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
