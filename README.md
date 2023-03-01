@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-28** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-02-28** — merged PR [#536](https://github.com/ZacSweers/CatchUp/pull/536) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.0"
+
+**2023-02-28** — opened PR [#33](https://github.com/square/gradle-dependencies-sorter/pull/33) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Small updates"
+
 **2023-02-28** — created branch `z/setUpCi` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-02-28** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1448946504) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-27** — merged PR [#28](https://github.com/ZacSweers/ZacSweers/pull/28) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.16.0"
 
 **2023-02-27** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-02-27** — merged PR [#534](https://github.com/ZacSweers/CatchUp/pull/534) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.16.0"
-
-**2023-02-27** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-02-27** — merged PR [#27](https://github.com/ZacSweers/ZacSweers/pull/27) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.46.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
