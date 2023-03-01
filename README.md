@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-01** — opened PR [#34](https://github.com/square/gradle-dependencies-sorter/pull/34) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Clikt demo!"
+
+**2023-03-01** — created branch `z/clikt` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-03-01** — opened PR [#3454](https://github.com/JetBrains/kotlin-web-site/pull/3454) to [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site): "Fix formatting in ksp-overview"
 
 **2023-02-28** — opened issue [#156](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/156) on [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android): "Feedback on the new preview plugin"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-28** — created branch `z/setUpCi` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-02-28** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1448946504) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
-
-**2023-02-27** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-02-27** — merged PR [#394](https://github.com/ZacSweers/MoshiX/pull/394) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
