@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-01** — deleted branch `patch-1` on [ZacSweers/kotlin-web-site](https://github.com/ZacSweers/kotlin-web-site)
+
 **2023-03-01** — opened PR [#34](https://github.com/square/gradle-dependencies-sorter/pull/34) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Clikt demo!"
 
 **2023-03-01** — created branch `z/clikt` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-02-28** — opened PR [#33](https://github.com/square/gradle-dependencies-sorter/pull/33) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Small updates"
 
 **2023-02-28** — created branch `z/setUpCi` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-02-28** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1448946504) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
