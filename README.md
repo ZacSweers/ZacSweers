@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-02** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-02** — merged PR [#538](https://github.com/ZacSweers/CatchUp/pull/538) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.4"
+
 **2023-03-01** — commented on [#475](https://github.com/slackhq/circuit/pull/475#issuecomment-1450961485) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-01** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1450871082) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-01** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-03-01** — merged PR [#68](https://github.com/slackhq/compose-lints/pull/68) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha07"
-
-**2023-03-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-01** — merged PR [#70](https://github.com/slackhq/compose-lints/pull/70) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
