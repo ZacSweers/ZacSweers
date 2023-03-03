@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-03** — opened PR [#541](https://github.com/ZacSweers/CatchUp/pull/541) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement Summarizer"
+
 **2023-03-03** — created branch `z/summarizer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-03** — opened issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-02** — merged PR [#537](https://github.com/ZacSweers/CatchUp/pull/537) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.183.0"
 
 **2023-03-02** — opened PR [#539](https://github.com/ZacSweers/CatchUp/pull/539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP split mutable and read-only gemoji DB"
-
-**2023-03-02** — created branch `z/sqldelightMore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
