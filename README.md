@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-03** — opened issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
+
 **2023-03-03** — opened PR [#540](https://github.com/ZacSweers/CatchUp/pull/540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update BottomSheetOverlay to m3"
 
 **2023-03-03** — created branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-02** — created branch `z/sqldelightMore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-02** — commented on [#476](https://github.com/slackhq/circuit/pull/476#issuecomment-1452694021) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-02** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
