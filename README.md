@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-05** — commented on [#75](https://github.com/slackhq/compose-lints/pull/75#issuecomment-1455215461) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-03-05** — opened PR [#75](https://github.com/slackhq/compose-lints/pull/75) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement M2ApiDetector"
+
+**2023-03-05** — created branch `z/m2ApiDetector` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-03-05** — deleted branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-05** — merged PR [#540](https://github.com/ZacSweers/CatchUp/pull/540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update BottomSheetOverlay to m3"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-05** — opened PR [#547](https://github.com/ZacSweers/CatchUp/pull/547) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve image handling and unsplash support"
 
 **2023-03-05** — created branch `z/unsplashColors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-05** — opened issue [#546](https://github.com/ZacSweers/CatchUp/issues/546) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
-
-**2023-03-05** — opened PR [#545](https://github.com/ZacSweers/CatchUp/pull/545) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro R8 issue"
-
-**2023-03-05** — created branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
