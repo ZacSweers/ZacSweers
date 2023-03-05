@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-05** — opened PR [#547](https://github.com/ZacSweers/CatchUp/pull/547) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve image handling and unsplash support"
+
+**2023-03-05** — created branch `z/unsplashColors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-05** — opened issue [#546](https://github.com/ZacSweers/CatchUp/issues/546) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
+
 **2023-03-05** — opened PR [#545](https://github.com/ZacSweers/CatchUp/pull/545) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro R8 issue"
 
 **2023-03-05** — created branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-04** — merged PR [#478](https://github.com/slackhq/circuit/pull/478) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.4"
-
-**2023-03-04** — commented on [#481](https://github.com/slackhq/circuit/pull/481#issuecomment-1454981323) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-04** — deleted branch `z/textUiCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-04** — merged PR [#543](https://github.com/ZacSweers/CatchUp/pull/543) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Text UI cleanup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
