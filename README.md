@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-05** — deleted branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-05** — merged PR [#540](https://github.com/ZacSweers/CatchUp/pull/540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update BottomSheetOverlay to m3"
+
+**2023-03-05** — opened issue [#1647](https://github.com/coil-kt/coil/issues/1647) on [coil-kt/coil](https://github.com/coil-kt/coil): "Crossfade transitions don't appear to work in this repro project"
+
 **2023-03-05** — deleted branch `z/unsplashColors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-05** — merged PR [#547](https://github.com/ZacSweers/CatchUp/pull/547) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve image handling and unsplash support"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-05** — opened PR [#545](https://github.com/ZacSweers/CatchUp/pull/545) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro R8 issue"
 
 **2023-03-05** — created branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-05** — deleted branch `z/summarizer` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-05** — merged PR [#541](https://github.com/ZacSweers/CatchUp/pull/541) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement Summarizer"
-
-**2023-03-05** — opened issue [#544](https://github.com/ZacSweers/CatchUp/issues/544) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate product hunt to v2 API + remove makers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
