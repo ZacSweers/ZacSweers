@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-05** — opened issue [#544](https://github.com/ZacSweers/CatchUp/issues/544) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate product hunt to v2 API + remove makers"
+
 **2023-03-04** — deleted branch `renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-04** — merged PR [#478](https://github.com/slackhq/circuit/pull/478) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-04** — merged PR [#542](https://github.com/ZacSweers/CatchUp/pull/542) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.0.2"
 
 **2023-03-04** — opened PR [#543](https://github.com/ZacSweers/CatchUp/pull/543) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Text UI cleanup"
-
-**2023-03-04** — created branch `z/textUiCleanup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
