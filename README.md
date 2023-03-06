@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-06** — commented on [#396](https://github.com/ZacSweers/MoshiX/issues/396#issuecomment-1456693747) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-03-06** — deleted branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-06** — merged PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-05** — created branch `z/m2ApiDetector` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-03-05** — deleted branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-05** — merged PR [#540](https://github.com/ZacSweers/CatchUp/pull/540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update BottomSheetOverlay to m3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
