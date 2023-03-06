@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-06** — deleted branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-06** — merged PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
+
 **2023-03-06** — opened issue [#273](https://github.com/slackhq/slack-gradle-plugin/issues/273) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't try to capture thermals if JNA throws an exception"
 
 **2023-03-06** — opened PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-05** — deleted branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-05** — merged PR [#540](https://github.com/ZacSweers/CatchUp/pull/540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update BottomSheetOverlay to m3"
-
-**2023-03-05** — opened issue [#1647](https://github.com/coil-kt/coil/issues/1647) on [coil-kt/coil](https://github.com/coil-kt/coil): "Crossfade transitions don't appear to work in this repro project"
-
-**2023-03-05** — deleted branch `z/unsplashColors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
