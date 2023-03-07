@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-06** — opened PR [#550](https://github.com/ZacSweers/CatchUp/pull/550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bugsnag to 8.0.0-beta01"
+
+**2023-03-06** — created branch `z/bugsnag8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-06** — commented on [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503#issuecomment-1457462251) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+
+**2023-03-06** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-06** — merged PR [#549](https://github.com/ZacSweers/CatchUp/pull/549) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha08"
+
 **2023-03-06** — commented on [#396](https://github.com/ZacSweers/MoshiX/issues/396#issuecomment-1456693747) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-03-06** — deleted branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-06** — opened issue [#273](https://github.com/slackhq/slack-gradle-plugin/issues/273) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't try to capture thermals if JNA throws an exception"
 
 **2023-03-06** — opened PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
-
-**2023-03-06** — created branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-05** — commented on [#75](https://github.com/slackhq/compose-lints/pull/75#issuecomment-1455215461) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-05** — opened PR [#75](https://github.com/slackhq/compose-lints/pull/75) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement M2ApiDetector"
-
-**2023-03-05** — created branch `z/m2ApiDetector` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-05** — deleted branch `z/m3BottomSheet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
