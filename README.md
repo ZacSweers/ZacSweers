@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-06** — deleted branch `z/bugsnag8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-07** — created tag `1.1.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-06** — merged PR [#550](https://github.com/ZacSweers/CatchUp/pull/550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bugsnag to 8.0.0-beta01"
+**2023-03-07** — deleted branch `z/m2ApiDetector` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-06** — opened PR [#550](https://github.com/ZacSweers/CatchUp/pull/550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bugsnag to 8.0.0-beta01"
+**2023-03-07** — merged PR [#75](https://github.com/slackhq/compose-lints/pull/75) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement M2ApiDetector"
 
-**2023-03-06** — created branch `z/bugsnag8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-07** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-06** — commented on [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503#issuecomment-1457462251) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
+**2023-03-07** — merged PR [#76](https://github.com/slackhq/compose-lints/pull/76) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.1"
 
-**2023-03-06** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-07** — deleted branch `renovate/pymdown-extensions-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-06** — merged PR [#549](https://github.com/ZacSweers/CatchUp/pull/549) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha08"
+**2023-03-07** — merged PR [#77](https://github.com/slackhq/compose-lints/pull/77) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v9.10"
 
-**2023-03-06** — commented on [#396](https://github.com/ZacSweers/MoshiX/issues/396#issuecomment-1456693747) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-03-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-06** — deleted branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-07** — merged PR [#78](https://github.com/slackhq/compose-lints/pull/78) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha08"
 
-**2023-03-06** — merged PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
+**2023-03-07** — merged PR [#74](https://github.com/slackhq/compose-lints/pull/74) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin dokka to v1.8.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
