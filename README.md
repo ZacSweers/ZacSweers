@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-07** — opened PR [#276](https://github.com/slackhq/slack-gradle-plugin/pull/276) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add lintErrorRuleIds property"
+
+**2023-03-07** — created branch `z/moreLintControls` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-07** — opened PR [#275](https://github.com/slackhq/slack-gradle-plugin/pull/275) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Stop recording thermals if we receive an error or unknown state"
+
+**2023-03-07** — created branch `z/moreThermals` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-07** — created tag `1.1.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-03-07** — deleted branch `z/m2ApiDetector` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-07** — merged PR [#76](https://github.com/slackhq/compose-lints/pull/76) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.1"
 
 **2023-03-07** — deleted branch `renovate/pymdown-extensions-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-07** — merged PR [#77](https://github.com/slackhq/compose-lints/pull/77) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v9.10"
-
-**2023-03-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-07** — merged PR [#78](https://github.com/slackhq/compose-lints/pull/78) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha08"
-
-**2023-03-07** — merged PR [#74](https://github.com/slackhq/compose-lints/pull/74) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin dokka to v1.8.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
