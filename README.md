@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-06** — deleted branch `z/bugsnag8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-06** — merged PR [#550](https://github.com/ZacSweers/CatchUp/pull/550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bugsnag to 8.0.0-beta01"
+
 **2023-03-06** — opened PR [#550](https://github.com/ZacSweers/CatchUp/pull/550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bugsnag to 8.0.0-beta01"
 
 **2023-03-06** — created branch `z/bugsnag8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-06** — deleted branch `z/removeM2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-06** — merged PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
-
-**2023-03-06** — opened issue [#273](https://github.com/slackhq/slack-gradle-plugin/issues/273) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't try to capture thermals if JNA throws an exception"
-
-**2023-03-06** — opened PR [#548](https://github.com/ZacSweers/CatchUp/pull/548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove remaining M2 refs where possible"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
