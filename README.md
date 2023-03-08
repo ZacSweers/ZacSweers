@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-08** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-03-08** — merged PR [#1488](https://github.com/square/kotlinpoet/pull/1488) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin dokka to v1.8.10"
+
 **2023-03-07** — merged PR [#79](https://github.com/slackhq/compose-lints/pull/79) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Small rule tweaks to m3"
 
 **2023-03-07** — deleted branch `z/updateRule` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-07** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-07** — merged PR [#552](https://github.com/ZacSweers/CatchUp/pull/552) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.10"
-
-**2023-03-07** — deleted branch `renovate/com.slack.lint.compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-07** — merged PR [#551](https://github.com/ZacSweers/CatchUp/pull/551) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
