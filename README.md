@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-07** — commented on [#480](https://github.com/slackhq/circuit/pull/480#issuecomment-1458922887) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-07** — merged PR [#79](https://github.com/slackhq/compose-lints/pull/79) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Small rule tweaks to m3"
 
-**2023-03-07** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-07** — deleted branch `z/updateRule` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-03-07** — merged PR [#272](https://github.com/slackhq/slack-gradle-plugin/pull/272) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.dokka to v1.8.10"
+**2023-03-07** — deleted branch `revert-276-z/moreLintControls` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-07** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-07** — merged PR [#277](https://github.com/slackhq/slack-gradle-plugin/pull/277) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Add lintErrorRuleIds property""
 
-**2023-03-07** — merged PR [#274](https://github.com/slackhq/slack-gradle-plugin/pull/274) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.2"
+**2023-03-07** — opened PR [#277](https://github.com/slackhq/slack-gradle-plugin/pull/277) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Add lintErrorRuleIds property""
 
-**2023-03-07** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-07** — created branch `revert-276-z/moreLintControls` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-07** — merged PR [#271](https://github.com/slackhq/slack-gradle-plugin/pull/271) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.4"
+**2023-03-07** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-07** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-07** — merged PR [#552](https://github.com/ZacSweers/CatchUp/pull/552) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.5.10"
 
-**2023-03-07** — merged PR [#270](https://github.com/slackhq/slack-gradle-plugin/pull/270) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta04"
+**2023-03-07** — deleted branch `renovate/com.slack.lint.compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-07** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-07** — merged PR [#551](https://github.com/ZacSweers/CatchUp/pull/551) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
