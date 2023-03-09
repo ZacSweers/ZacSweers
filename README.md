@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-09** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1462340598) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
+
+**2023-03-09** — merged PR [#75](https://github.com/uber/RxDogTag/pull/75) to [uber/RxDogTag](https://github.com/uber/RxDogTag): "Keep class names instead of package names in case repackageclasses is…"
+
+**2023-03-09** — merged PR [#74](https://github.com/uber/RxDogTag/pull/74) to [uber/RxDogTag](https://github.com/uber/RxDogTag): "Keep class names instead of package names in case repackageclasses is enabled"
+
 **2023-03-08** — commented on [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503#issuecomment-1460729274) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 
 **2023-03-08** — commented on [#80](https://github.com/slackhq/compose-lints/issues/80#issuecomment-1460623871) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-08** — deleted branch `z/enableByDefaultFalse` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-03-08** — merged PR [#81](https://github.com/slackhq/compose-lints/pull/81) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use setEnableByDefault instead for M2ApiDetector"
-
-**2023-03-08** — opened PR [#81](https://github.com/slackhq/compose-lints/pull/81) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Use setEnableByDefault instead for M2ApiDetector"
-
-**2023-03-08** — created branch `z/enableByDefaultFalse` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-08** — commented on [#80](https://github.com/slackhq/compose-lints/issues/80#issuecomment-1460552051) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
