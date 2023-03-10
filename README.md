@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-10** — deleted branch `test-renovate/compose-jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-10** — merged PR [#279](https://github.com/slackhq/slack-gradle-plugin/pull/279) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.3.1"
+
+**2023-03-10** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-10** — merged PR [#278](https://github.com/slackhq/slack-gradle-plugin/pull/278) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta05"
+
 **2023-03-09** — deleted branch `renovate/dokka` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-09** — merged PR [#481](https://github.com/slackhq/circuit/pull/481) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.dokka to v1.8.10"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-09** — closed issue [#73](https://github.com/uber/RxDogTag/issues/73) on [uber/RxDogTag](https://github.com/uber/RxDogTag): "Issue with Proguard and AGP 7.0.2 (RxDogTag 1.0.1)"
 
 **2023-03-09** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1462416483) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
-
-**2023-03-09** — created tag `1.0.2` on [uber/RxDogTag](https://github.com/uber/RxDogTag)
-
-**2023-03-09** — created tag `2.0.2` on [uber/RxDogTag](https://github.com/uber/RxDogTag)
-
-**2023-03-09** — commented on [#73](https://github.com/uber/RxDogTag/issues/73#issuecomment-1462340598) in [uber/RxDogTag](https://github.com/uber/RxDogTag)
-
-**2023-03-09** — merged PR [#75](https://github.com/uber/RxDogTag/pull/75) to [uber/RxDogTag](https://github.com/uber/RxDogTag): "Keep class names instead of package names in case repackageclasses is…"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
