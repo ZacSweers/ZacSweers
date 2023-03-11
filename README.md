@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-11** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-11** — merged PR [#489](https://github.com/slackhq/circuit/pull/489) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.5.0"
+
 **2023-03-11** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-11** — merged PR [#487](https://github.com/slackhq/circuit/pull/487) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-10** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-10** — closed PR [#564](https://github.com/ZacSweers/CatchUp/pull/564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.12.0-alpha01"
-
-**2023-03-10** — deleted branch `renovate/com.uber.rxdogtag2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-10** — merged PR [#562](https://github.com/ZacSweers/CatchUp/pull/562) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.uber.rxdogtag2 to v2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
