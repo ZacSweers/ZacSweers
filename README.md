@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-10** — opened PR [#281](https://github.com/slackhq/slack-gradle-plugin/pull/281) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Consolidate common lint logic to LintTasks"
+**2023-03-10** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-10** — created branch `z/globalLintTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-10** — closed PR [#564](https://github.com/ZacSweers/CatchUp/pull/564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.12.0-alpha01"
 
-**2023-03-10** — opened PR [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revamp unit test handling"
+**2023-03-10** — deleted branch `renovate/com.uber.rxdogtag2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-10** — created branch `z/unitTestRevamp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-10** — merged PR [#562](https://github.com/ZacSweers/CatchUp/pull/562) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.uber.rxdogtag2 to v2.0.2"
 
-**2023-03-10** — deleted branch `test-renovate/compose-jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-10** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-10** — merged PR [#279](https://github.com/slackhq/slack-gradle-plugin/pull/279) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.3.1"
+**2023-03-10** — merged PR [#563](https://github.com/ZacSweers/CatchUp/pull/563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.0"
 
-**2023-03-10** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-10** — merged PR [#556](https://github.com/ZacSweers/CatchUp/pull/556) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-alpha08"
 
-**2023-03-10** — merged PR [#278](https://github.com/slackhq/slack-gradle-plugin/pull/278) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-beta05"
+**2023-03-10** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-09** — deleted branch `renovate/dokka` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-10** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-09** — merged PR [#481](https://github.com/slackhq/circuit/pull/481) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.dokka to v1.8.10"
+**2023-03-10** — merged PR [#561](https://github.com/ZacSweers/CatchUp/pull/561) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.29.2-rc"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
