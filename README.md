@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-12** — opened issue [#43](https://github.com/square/gradle-dependencies-sorter/issues/43) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Log file location is no longer output in 0.2"
+
 **2023-03-11** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-11** — merged PR [#489](https://github.com/slackhq/circuit/pull/489) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.5.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-11** — merged PR [#488](https://github.com/slackhq/circuit/pull/488) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.8.0"
 
 **2023-03-10** — deleted branch `renovate/androidx-core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-10** — closed PR [#564](https://github.com/ZacSweers/CatchUp/pull/564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-core to v1.12.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
