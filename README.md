@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-12** — deleted branch `renovate/androidx-lifecycle` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-12** — merged PR [#484](https://github.com/slackhq/circuit/pull/484) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-lifecycle to v2.6.0"
+
 **2023-03-12** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-12** — merged PR [#565](https://github.com/ZacSweers/CatchUp/pull/565) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-11** — merged PR [#487](https://github.com/slackhq/circuit/pull/487) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.2"
 
 **2023-03-11** — deleted branch `renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-11** — merged PR [#486](https://github.com/slackhq/circuit/pull/486) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to v1.3.1"
-
-**2023-03-11** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
