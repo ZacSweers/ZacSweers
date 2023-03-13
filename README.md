@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-13** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1466918996) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
 **2023-03-12** — commented on [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280#issuecomment-1465431944) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-12** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-12** — merged PR [#484](https://github.com/slackhq/circuit/pull/484) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-lifecycle to v2.6.0"
 
 **2023-03-12** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-12** — merged PR [#565](https://github.com/ZacSweers/CatchUp/pull/565) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
