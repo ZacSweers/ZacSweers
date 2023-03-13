@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-12** — commented on [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280#issuecomment-1465431944) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-12** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-12** — merged PR [#282](https://github.com/slackhq/slack-gradle-plugin/pull/282) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.2"
+
 **2023-03-12** — commented on [#82](https://github.com/dropbox/dependency-guard/issues/82#issuecomment-1465412086) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2023-03-12** — opened PR [#490](https://github.com/slackhq/circuit/pull/490) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) Split up artifacts part 1: runtime"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-12** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-12** — merged PR [#565](https://github.com/ZacSweers/CatchUp/pull/565) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.2"
-
-**2023-03-12** — opened issue [#43](https://github.com/square/gradle-dependencies-sorter/issues/43) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Log file location is no longer output in 0.2"
-
-**2023-03-11** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-11** — merged PR [#489](https://github.com/slackhq/circuit/pull/489) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
