@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-14** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1468703198) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
 **2023-03-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-14** — merged PR [#283](https://github.com/slackhq/slack-gradle-plugin/pull/283) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.17.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-12** — merged PR [#282](https://github.com/slackhq/slack-gradle-plugin/pull/282) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.2"
 
 **2023-03-12** — commented on [#82](https://github.com/dropbox/dependency-guard/issues/82#issuecomment-1465412086) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
-
-**2023-03-12** — opened PR [#490](https://github.com/slackhq/circuit/pull/490) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) Split up artifacts part 1: runtime"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
