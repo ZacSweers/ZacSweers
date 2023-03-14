@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-14** — merged PR [#47](https://github.com/square/gradle-dependencies-sorter/pull/47) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Ignore local.properties and ANTLR codegen dir"
+**2023-03-14** — deleted branch `z/homeScreenCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-14** — closed issue [#38](https://github.com/square/gradle-dependencies-sorter/issues/38) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Project doesn't build out of the box"
+**2023-03-14** — merged PR [#475](https://github.com/slackhq/circuit/pull/475) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up HomeScreen nav example"
 
-**2023-03-14** — merged PR [#46](https://github.com/square/gradle-dependencies-sorter/pull/46) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add version badge to README.md"
+**2023-03-14** — created tag `0.6.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-14** — merged PR [#35](https://github.com/square/gradle-dependencies-sorter/pull/35) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add a basic `.editorconfig` file"
+**2023-03-14** — deleted branch `z/koverProp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-14** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1468703198) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-03-14** — merged PR [#284](https://github.com/slackhq/slack-gradle-plugin/pull/284) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kover property"
 
-**2023-03-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-14** — opened PR [#284](https://github.com/slackhq/slack-gradle-plugin/pull/284) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kover property"
 
-**2023-03-14** — merged PR [#283](https://github.com/slackhq/slack-gradle-plugin/pull/283) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.17.0"
+**2023-03-14** — created branch `z/koverProp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-14** — commented on [#19](https://github.com/square/gradle-dependencies-sorter/issues/19#issuecomment-1468355500) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-03-14** — deleted branch `z/unitTestRevamp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-13** — commented on [#490](https://github.com/slackhq/circuit/pull/490#issuecomment-1467041236) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-14** — merged PR [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revamp unit test handling"
 
-**2023-03-13** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1466918996) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-03-14** — deleted branch `z/globalLintTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
