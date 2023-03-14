@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-14** — opened PR [#92](https://github.com/dropbox/dependency-guard/pull/92) to [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Suppress "no changes" output by default"
+
+**2023-03-14** — created branch `z/quietOutput` on [ZacSweers/dependency-guard](https://github.com/ZacSweers/dependency-guard)
+
 **2023-03-14** — deleted branch `z/homeScreenCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-14** — merged PR [#475](https://github.com/slackhq/circuit/pull/475) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up HomeScreen nav example"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-14** — created branch `z/koverProp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-14** — deleted branch `z/unitTestRevamp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-14** — merged PR [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revamp unit test handling"
-
-**2023-03-14** — deleted branch `z/globalLintTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
