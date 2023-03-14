@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-14** — merged PR [#283](https://github.com/slackhq/slack-gradle-plugin/pull/283) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.17.0"
+
 **2023-03-14** — commented on [#19](https://github.com/square/gradle-dependencies-sorter/issues/19#issuecomment-1468355500) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-03-13** — commented on [#490](https://github.com/slackhq/circuit/pull/490#issuecomment-1467041236) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-12** — commented on [#82](https://github.com/dropbox/dependency-guard/issues/82#issuecomment-1465412086) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2023-03-12** — opened PR [#490](https://github.com/slackhq/circuit/pull/490) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) Split up artifacts part 1: runtime"
-
-**2023-03-12** — created branch `z/splitArtifacts` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-12** — deleted branch `renovate/androidx-lifecycle` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
