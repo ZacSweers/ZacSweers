@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-14** — merged PR [#47](https://github.com/square/gradle-dependencies-sorter/pull/47) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Ignore local.properties and ANTLR codegen dir"
+
+**2023-03-14** — closed issue [#38](https://github.com/square/gradle-dependencies-sorter/issues/38) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Project doesn't build out of the box"
+
+**2023-03-14** — merged PR [#46](https://github.com/square/gradle-dependencies-sorter/pull/46) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add version badge to README.md"
+
+**2023-03-14** — merged PR [#35](https://github.com/square/gradle-dependencies-sorter/pull/35) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add a basic `.editorconfig` file"
+
 **2023-03-14** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1468703198) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-03-14** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-13** — commented on [#490](https://github.com/slackhq/circuit/pull/490#issuecomment-1467041236) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-13** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1466918996) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-03-12** — commented on [#280](https://github.com/slackhq/slack-gradle-plugin/pull/280#issuecomment-1465431944) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-12** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-12** — merged PR [#282](https://github.com/slackhq/slack-gradle-plugin/pull/282) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.2"
-
-**2023-03-12** — commented on [#82](https://github.com/dropbox/dependency-guard/issues/82#issuecomment-1465412086) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
