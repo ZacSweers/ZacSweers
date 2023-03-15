@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-15** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1470785543) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-03-15** — created tag `0.6.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-15** — opened PR [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP Skippy"
+
+**2023-03-15** — created branch `z/skippy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-15** — merged PR [#285](https://github.com/slackhq/slack-gradle-plugin/pull/285) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Removed unsupported arg from UnitTests"
+
 **2023-03-15** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1470639497) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-03-14** — opened PR [#92](https://github.com/dropbox/dependency-guard/pull/92) to [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Suppress "no changes" output by default"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-14** — deleted branch `z/homeScreenCleanup` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-14** — merged PR [#475](https://github.com/slackhq/circuit/pull/475) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up HomeScreen nav example"
-
-**2023-03-14** — created tag `0.6.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-14** — deleted branch `z/koverProp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-14** — merged PR [#284](https://github.com/slackhq/slack-gradle-plugin/pull/284) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kover property"
-
-**2023-03-14** — opened PR [#284](https://github.com/slackhq/slack-gradle-plugin/pull/284) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kover property"
-
-**2023-03-14** — created branch `z/koverProp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
