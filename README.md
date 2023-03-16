@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-16** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-03-16** — merged PR [#82](https://github.com/slackhq/compose-lints/pull/82) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.3"
+
+**2023-03-16** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-16** — merged PR [#497](https://github.com/slackhq/circuit/pull/497) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.17.0"
+
+**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-03-16** — merged PR [#83](https://github.com/slackhq/compose-lints/pull/83) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.17.0"
+
+**2023-03-16** — commented on [#87](https://github.com/slackhq/compose-lints/issues/87#issuecomment-1472339773) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-03-16** — closed issue [#87](https://github.com/slackhq/compose-lints/issues/87) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Provide jar file to be used with detekt plugin in IntelliJ Android Studio"
+
 **2023-03-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-16** — merged PR [#567](https://github.com/ZacSweers/CatchUp/pull/567) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.185.0"
-
-**2023-03-16** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-16** — deleted branch `renovate/com.github.alorma` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-16** — merged PR [#568](https://github.com/ZacSweers/CatchUp/pull/568) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha09"
-
-**2023-03-16** — merged PR [#571](https://github.com/ZacSweers/CatchUp/pull/571) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update com.github.alorma to v0.25.0"
-
-**2023-03-16** — merged PR [#566](https://github.com/ZacSweers/CatchUp/pull/566) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.17.0"
-
-**2023-03-16** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-16** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-16** — merged PR [#570](https://github.com/ZacSweers/CatchUp/pull/570) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
