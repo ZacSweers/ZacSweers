@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-16** — merged PR [#497](https://github.com/slackhq/circuit/pull/497) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.17.0"
 
 **2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-16** — merged PR [#83](https://github.com/slackhq/compose-lints/pull/83) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.17.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
