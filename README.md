@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-16** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-03-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-16** — merged PR [#85](https://github.com/slackhq/compose-lints/pull/85) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha09"
+**2023-03-16** — merged PR [#395](https://github.com/ZacSweers/MoshiX/pull/395) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.8.10"
 
-**2023-03-16** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-16** — merged PR [#82](https://github.com/slackhq/compose-lints/pull/82) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.3"
+**2023-03-16** — merged PR [#398](https://github.com/ZacSweers/MoshiX/pull/398) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.17.0"
 
-**2023-03-16** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-16** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-16** — merged PR [#497](https://github.com/slackhq/circuit/pull/497) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.17.0"
+**2023-03-16** — closed PR [#397](https://github.com/ZacSweers/MoshiX/pull/397) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-292"
 
-**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-03-16** — merged PR [#126](https://github.com/ZacSweers/redacted-compiler-plugin/pull/126) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.8.10"
+
+**2023-03-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-03-16** — merged PR [#127](https://github.com/ZacSweers/redacted-compiler-plugin/pull/127) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.17.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
