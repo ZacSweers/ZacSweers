@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-03-16** — opened PR [#287](https://github.com/slackhq/slack-gradle-plugin/pull/287) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add affected projects property as inputs to configuring tests, android tests, and lint."
 
-**2023-03-16** — merged PR [#395](https://github.com/ZacSweers/MoshiX/pull/395) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.8.10"
+**2023-03-16** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-03-16** — merged PR [#142](https://github.com/ZacSweers/kotlin-compile-testing/pull/142) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.2.0"
 
-**2023-03-16** — merged PR [#398](https://github.com/ZacSweers/MoshiX/pull/398) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.17.0"
+**2023-03-16** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-16** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-03-16** — merged PR [#391](https://github.com/ZacSweers/MoshiX/pull/391) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenShadow to v8"
 
-**2023-03-16** — closed PR [#397](https://github.com/ZacSweers/MoshiX/pull/397) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-292"
+**2023-03-16** — created branch `z/skippyInputs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-16** — merged PR [#126](https://github.com/ZacSweers/redacted-compiler-plugin/pull/126) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.8.10"
+**2023-03-16** — deleted branch `renovate/com.dropbox.dependency-guard-0.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-03-16** — merged PR [#495](https://github.com/slackhq/circuit/pull/495) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin dependencyGuard to v0.4.3"
 
-**2023-03-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-03-16** — commented on [#391](https://github.com/ZacSweers/MoshiX/pull/391#issuecomment-1472717242) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-16** — merged PR [#127](https://github.com/ZacSweers/redacted-compiler-plugin/pull/127) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.17.0"
+**2023-03-16** — commented on [#120](https://github.com/ZacSweers/redacted-compiler-plugin/pull/120#issuecomment-1472707377) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
