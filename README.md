@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-17** — commented on [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286#issuecomment-1473272698) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-16** — commented on [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286#issuecomment-1472946055) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-16** — deleted branch `z/skippyInputs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-16** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-16** — merged PR [#572](https://github.com/ZacSweers/CatchUp/pull/572) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.3.1"
-
-**2023-03-16** — opened PR [#287](https://github.com/slackhq/slack-gradle-plugin/pull/287) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add affected projects property as inputs to configuring tests, android tests, and lint."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
