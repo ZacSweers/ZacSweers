@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-16** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-16** — merged PR [#569](https://github.com/ZacSweers/CatchUp/pull/569) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.5"
+
+**2023-03-16** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-16** — merged PR [#494](https://github.com/slackhq/circuit/pull/494) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.3"
+
+**2023-03-16** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-16** — merged PR [#572](https://github.com/ZacSweers/CatchUp/pull/572) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.3.1"
+
 **2023-03-16** — opened PR [#287](https://github.com/slackhq/slack-gradle-plugin/pull/287) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add affected projects property as inputs to configuring tests, android tests, and lint."
 
 **2023-03-16** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-16** — merged PR [#142](https://github.com/ZacSweers/kotlin-compile-testing/pull/142) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.2.0"
 
 **2023-03-16** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-16** — merged PR [#391](https://github.com/ZacSweers/MoshiX/pull/391) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenShadow to v8"
-
-**2023-03-16** — created branch `z/skippyInputs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-16** — deleted branch `renovate/com.dropbox.dependency-guard-0.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-16** — merged PR [#495](https://github.com/slackhq/circuit/pull/495) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin dependencyGuard to v0.4.3"
-
-**2023-03-16** — commented on [#391](https://github.com/ZacSweers/MoshiX/pull/391#issuecomment-1472717242) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-16** — commented on [#120](https://github.com/ZacSweers/redacted-compiler-plugin/pull/120#issuecomment-1472707377) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
