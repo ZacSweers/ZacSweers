@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-17** — opened PR [#293](https://github.com/slackhq/slack-gradle-plugin/pull/293) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Use FakeFileSystem in tests"
+
+**2023-03-17** — created branch `z/reproFakeFSIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-17** — opened PR [#292](https://github.com/slackhq/slack-gradle-plugin/pull/292) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Improve pattern configuration"
 
 **2023-03-17** — created branch `z/buildUponPatterns` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-17** — opened PR [#289](https://github.com/slackhq/slack-gradle-plugin/pull/289) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log verbosely in debug mode when skipping task deps"
 
 **2023-03-17** — created branch `z/nonExistentAffectedProjectsFile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-17** — created branch `z/stringPathMatcher` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-17** — created branch `z/verboseLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
