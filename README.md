@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-17** — deleted branch `z/skippy` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-17** — merged PR [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement ComputeAffectedProjects"
+
+**2023-03-17** — commented on [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286#issuecomment-1474252343) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-17** — commented on [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286#issuecomment-1473272698) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-16** — commented on [#286](https://github.com/slackhq/slack-gradle-plugin/pull/286#issuecomment-1472946055) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-16** — merged PR [#569](https://github.com/ZacSweers/CatchUp/pull/569) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.7.5"
 
 **2023-03-16** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-16** — merged PR [#494](https://github.com/slackhq/circuit/pull/494) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.3"
-
-**2023-03-16** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-16** — merged PR [#572](https://github.com/ZacSweers/CatchUp/pull/572) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.3.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
