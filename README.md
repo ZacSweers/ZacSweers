@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-18** — deleted branch `z/imageFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-18** — merged PR [#575](https://github.com/ZacSweers/CatchUp/pull/575) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc image fixes"
+
+**2023-03-18** — opened PR [#575](https://github.com/ZacSweers/CatchUp/pull/575) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc image fixes"
+
+**2023-03-18** — created branch `z/imageFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-03-17** — opened PR [#293](https://github.com/slackhq/slack-gradle-plugin/pull/293) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Use FakeFileSystem in tests"
 
 **2023-03-17** — created branch `z/reproFakeFSIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-17** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-17** — merged PR [#288](https://github.com/slackhq/slack-gradle-plugin/pull/288) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.3.1"
-
-**2023-03-17** — opened PR [#291](https://github.com/slackhq/slack-gradle-plugin/pull/291) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow relative project paths and check existence"
-
-**2023-03-17** — opened PR [#290](https://github.com/slackhq/slack-gradle-plugin/pull/290) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement StringPathMatcher for logging"
-
-**2023-03-17** — opened PR [#289](https://github.com/slackhq/slack-gradle-plugin/pull/289) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log verbosely in debug mode when skipping task deps"
-
-**2023-03-17** — created branch `z/nonExistentAffectedProjectsFile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
