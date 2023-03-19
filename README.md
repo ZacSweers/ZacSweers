@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-19** — closed PR [#468](https://github.com/uber/AutoDispose/pull/468) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Testing, please ignore. (itnzfv)"
+
 **2023-03-19** — opened PR [#577](https://github.com/ZacSweers/CatchUp/pull/577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove HEAD checks for content types"
 
 **2023-03-19** — created branch `z/misc` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-18** — created branch `z/imageFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-17** — opened PR [#293](https://github.com/slackhq/slack-gradle-plugin/pull/293) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Use FakeFileSystem in tests"
-
-**2023-03-17** — created branch `z/reproFakeFSIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
