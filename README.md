@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-20** — merged PR [#578](https://github.com/ZacSweers/CatchUp/pull/578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.5"
+
 **2023-03-19** — deleted branch `z/misc` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-19** — merged PR [#577](https://github.com/ZacSweers/CatchUp/pull/577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove HEAD checks for content types"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-18** — opened PR [#576](https://github.com/ZacSweers/CatchUp/pull/576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "ImageViewer testing"
 
 **2023-03-18** — created branch `z/moreImageViewerStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-18** — deleted branch `z/imageFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-18** — merged PR [#575](https://github.com/ZacSweers/CatchUp/pull/575) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc image fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
