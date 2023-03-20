@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-20** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-20** — merged PR [#294](https://github.com/slackhq/slack-gradle-plugin/pull/294) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.1"
+
 **2023-03-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-20** — merged PR [#578](https://github.com/ZacSweers/CatchUp/pull/578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.5"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-19** — opened PR [#577](https://github.com/ZacSweers/CatchUp/pull/577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove HEAD checks for content types"
 
 **2023-03-19** — created branch `z/misc` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-18** — opened PR [#576](https://github.com/ZacSweers/CatchUp/pull/576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "ImageViewer testing"
-
-**2023-03-18** — created branch `z/moreImageViewerStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
