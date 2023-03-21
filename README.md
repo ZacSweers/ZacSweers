@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-20** — closed PR [#499](https://github.com/slackhq/circuit/pull/499) to [slackhq/circuit](https://github.com/slackhq/circuit): "Suppressing libs error which happens in Gradle 7.2 Version Catalog Pl…"
+**2023-03-20** — created tag `0.7.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-20** — commented on [#499](https://github.com/slackhq/circuit/pull/499#issuecomment-1476855641) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-20** — deleted branch `z/buildUponPatterns` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-20** — commented on [#13510](https://github.com/gradle/gradle/issues/13510#issuecomment-1476689784) in [gradle/gradle](https://github.com/gradle/gradle)
+**2023-03-20** — merged PR [#292](https://github.com/slackhq/slack-gradle-plugin/pull/292) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Improve pattern configuration"
 
-**2023-03-20** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-20** — deleted branch `z/reproFakeFSIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-20** — merged PR [#294](https://github.com/slackhq/slack-gradle-plugin/pull/294) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.1"
+**2023-03-20** — merged PR [#293](https://github.com/slackhq/slack-gradle-plugin/pull/293) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Use FakeFileSystem in tests"
 
-**2023-03-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-20** — deleted branch `z/nonExistentAffectedProjectsFile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-20** — merged PR [#578](https://github.com/ZacSweers/CatchUp/pull/578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.12.5"
+**2023-03-20** — merged PR [#291](https://github.com/slackhq/slack-gradle-plugin/pull/291) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Allow relative project paths and check existence"
 
-**2023-03-19** — deleted branch `z/misc` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-20** — deleted branch `z/stringPathMatcher` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-03-19** — merged PR [#577](https://github.com/ZacSweers/CatchUp/pull/577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove HEAD checks for content types"
+**2023-03-20** — merged PR [#290](https://github.com/slackhq/slack-gradle-plugin/pull/290) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Implement StringPathMatcher for logging"
 
-**2023-03-19** — closed PR [#76](https://github.com/uber/RxDogTag/pull/76) to [uber/RxDogTag](https://github.com/uber/RxDogTag): "Testing, please ignore. (trkhjq)"
+**2023-03-20** — deleted branch `z/verboseLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
