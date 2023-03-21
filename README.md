@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-21** — opened PR [#583](https://github.com/ZacSweers/CatchUp/pull/583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Skippy testing"
+
+**2023-03-21** — created branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-03-21** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-21** — merged PR [#579](https://github.com/ZacSweers/CatchUp/pull/579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.0.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-20** — merged PR [#574](https://github.com/ZacSweers/CatchUp/pull/574) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.0"
 
 **2023-03-20** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-20** — created tag `0.7.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-20** — deleted branch `z/buildUponPatterns` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
