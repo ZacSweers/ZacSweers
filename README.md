@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-21** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-21** — merged PR [#579](https://github.com/ZacSweers/CatchUp/pull/579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.0.1"
+
+**2023-03-21** — deleted branch `z/moreCiChecks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-21** — merged PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
+
+**2023-03-21** — opened PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
+
+**2023-03-21** — created branch `z/moreCiChecks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-03-20** — merged PR [#574](https://github.com/ZacSweers/CatchUp/pull/574) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.0"
 
 **2023-03-20** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-20** — created tag `0.7.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-20** — deleted branch `z/buildUponPatterns` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-20** — merged PR [#292](https://github.com/slackhq/slack-gradle-plugin/pull/292) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Improve pattern configuration"
-
-**2023-03-20** — deleted branch `z/reproFakeFSIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-20** — merged PR [#293](https://github.com/slackhq/slack-gradle-plugin/pull/293) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Use FakeFileSystem in tests"
-
-**2023-03-20** — deleted branch `z/nonExistentAffectedProjectsFile` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-20** — merged PR [#291](https://github.com/slackhq/slack-gradle-plugin/pull/291) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "[Skippy] Allow relative project paths and check existence"
-
-**2023-03-20** — deleted branch `z/stringPathMatcher` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
