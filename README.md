@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-21** — opened PR [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rename capitalizeUS + remove deprecated use"
+
+**2023-03-21** — created tag `0.7.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-21** — created branch `z/capitalizeUS` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-21** — opened PR [#583](https://github.com/ZacSweers/CatchUp/pull/583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Skippy testing"
 
 **2023-03-21** — created branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-21** — merged PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
 
 **2023-03-21** — opened PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
-
-**2023-03-21** — created branch `z/moreCiChecks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-20** — merged PR [#574](https://github.com/ZacSweers/CatchUp/pull/574) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.0"
-
-**2023-03-20** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
