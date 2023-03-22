@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-22** — created tag `0.7.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — deleted branch `z/capitalizeUS` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — merged PR [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rename capitalizeUS + remove deprecated use"
+
+**2023-03-22** — commented on [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296#issuecomment-1480013192) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — deleted branch `z/sneakyNull` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — merged PR [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix Detekt build caching"
+
+**2023-03-22** — commented on [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298#issuecomment-1480013000) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-22** — merged PR [#295](https://github.com/slackhq/slack-gradle-plugin/pull/295) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.5"
+
 **2023-03-22** — commented on [#5925](https://github.com/detekt/detekt/issues/5925#issuecomment-1479539087) in [detekt/detekt](https://github.com/detekt/detekt)
-
-**2023-03-21** — opened PR [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix Detekt build caching"
-
-**2023-03-21** — created branch `z/sneakyNull` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-21** — opened issue [#297](https://github.com/slackhq/slack-gradle-plugin/issues/297) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add Detekt to Skippy"
-
-**2023-03-21** — opened issue [#5925](https://github.com/detekt/detekt/issues/5925) on [detekt/detekt](https://github.com/detekt/detekt): "Detekt.jdkHome breaks remote build caching"
-
-**2023-03-21** — opened PR [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rename capitalizeUS + remove deprecated use"
-
-**2023-03-21** — created tag `0.7.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-21** — created branch `z/capitalizeUS` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-21** — opened PR [#583](https://github.com/ZacSweers/CatchUp/pull/583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Skippy testing"
-
-**2023-03-21** — created branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
