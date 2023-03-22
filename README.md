@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-22** — commented on [#5925](https://github.com/detekt/detekt/issues/5925#issuecomment-1479539087) in [detekt/detekt](https://github.com/detekt/detekt)
+
 **2023-03-21** — opened PR [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix Detekt build caching"
 
 **2023-03-21** — created branch `z/sneakyNull` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-21** — opened PR [#583](https://github.com/ZacSweers/CatchUp/pull/583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Skippy testing"
 
 **2023-03-21** — created branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-21** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
