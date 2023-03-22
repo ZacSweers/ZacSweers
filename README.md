@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-21** — opened PR [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix Detekt build caching"
+
+**2023-03-21** — created branch `z/sneakyNull` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-21** — opened issue [#297](https://github.com/slackhq/slack-gradle-plugin/issues/297) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add Detekt to Skippy"
+
+**2023-03-21** — opened issue [#5925](https://github.com/detekt/detekt/issues/5925) on [detekt/detekt](https://github.com/detekt/detekt): "Detekt.jdkHome breaks remote build caching"
+
 **2023-03-21** — opened PR [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rename capitalizeUS + remove deprecated use"
 
 **2023-03-21** — created tag `0.7.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-21** — created branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-21** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-21** — merged PR [#579](https://github.com/ZacSweers/CatchUp/pull/579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.0.1"
-
-**2023-03-21** — deleted branch `z/moreCiChecks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-21** — merged PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
-
-**2023-03-21** — opened PR [#582](https://github.com/ZacSweers/CatchUp/pull/582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Conditionally include app target + integrate focus"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
