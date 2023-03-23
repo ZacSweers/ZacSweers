@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-23** — deleted branch `renovate/androidx-lifecycle` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-23** — merged PR [#502](https://github.com/slackhq/circuit/pull/502) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-lifecycle to v2.6.1"
+
 **2023-03-23** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-23** — merged PR [#600](https://github.com/ZacSweers/CatchUp/pull/600) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-23** — commented on [#1644](https://github.com/square/moshi/pull/1644#issuecomment-1481170096) in [square/moshi](https://github.com/square/moshi)
 
 **2023-03-23** — closed PR [#1644](https://github.com/square/moshi/pull/1644) to [square/moshi](https://github.com/square/moshi): "fix the readme file error"
-
-**2023-03-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-22** — merged PR [#580](https://github.com/ZacSweers/CatchUp/pull/580) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
