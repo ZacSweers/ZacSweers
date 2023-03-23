@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-22** — created tag `0.7.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-22** — deleted branch `z/capitalizeUS` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — merged PR [#595](https://github.com/ZacSweers/CatchUp/pull/595) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.4.0"
 
-**2023-03-22** — merged PR [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Rename capitalizeUS + remove deprecated use"
+**2023-03-22** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-22** — commented on [#296](https://github.com/slackhq/slack-gradle-plugin/pull/296#issuecomment-1480013192) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — merged PR [#594](https://github.com/ZacSweers/CatchUp/pull/594) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0-alpha01"
 
-**2023-03-22** — deleted branch `z/sneakyNull` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-22** — merged PR [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix Detekt build caching"
+**2023-03-22** — merged PR [#593](https://github.com/ZacSweers/CatchUp/pull/593) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.30.0"
 
-**2023-03-22** — commented on [#298](https://github.com/slackhq/slack-gradle-plugin/pull/298#issuecomment-1480013000) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-22** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-22** — merged PR [#592](https://github.com/ZacSweers/CatchUp/pull/592) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.6.1"
 
-**2023-03-22** — merged PR [#295](https://github.com/slackhq/slack-gradle-plugin/pull/295) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.5"
+**2023-03-22** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-22** — commented on [#5925](https://github.com/detekt/detekt/issues/5925#issuecomment-1479539087) in [detekt/detekt](https://github.com/detekt/detekt)
+**2023-03-22** — merged PR [#581](https://github.com/ZacSweers/CatchUp/pull/581) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidTestSupport to v1.6.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
