@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-23** — closed issue [#1643](https://github.com/square/moshi/issues/1643) on [square/moshi](https://github.com/square/moshi): "[ReadMe error]"
+
+**2023-03-23** — commented on [#1643](https://github.com/square/moshi/issues/1643#issuecomment-1481170474) in [square/moshi](https://github.com/square/moshi)
+
+**2023-03-23** — commented on [#1644](https://github.com/square/moshi/pull/1644#issuecomment-1481170096) in [square/moshi](https://github.com/square/moshi)
+
+**2023-03-23** — closed PR [#1644](https://github.com/square/moshi/pull/1644) to [square/moshi](https://github.com/square/moshi): "fix the readme file error"
+
 **2023-03-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-22** — merged PR [#580](https://github.com/ZacSweers/CatchUp/pull/580) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha10"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-22** — commented on [#598](https://github.com/ZacSweers/CatchUp/pull/598#issuecomment-1480554709) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-22** — opened PR [#598](https://github.com/ZacSweers/CatchUp/pull/598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Test Room kotlin code gen"
-
-**2023-03-22** — created branch `z/roomKotlinTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-22** — deleted branch `z/skippyTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-22** — merged PR [#583](https://github.com/ZacSweers/CatchUp/pull/583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Skippy testing"
-
-**2023-03-22** — created tag `0.7.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
