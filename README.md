@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-24** — created tag `0.7.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-24** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-24** — merged PR [#515](https://github.com/slackhq/circuit/pull/515) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.0"
+
 **2023-03-24** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1483057840) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-03-24** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-24** — deleted branch `z/globalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-24** — merged PR [#299](https://github.com/slackhq/slack-gradle-plugin/pull/299) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new `globalDetekt` + consolidate detekt logic + add skippy support"
-
-**2023-03-24** — opened PR [#514](https://github.com/slackhq/circuit/pull/514) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up filter UI, M3 bottom sheet, and color tweaks"
-
-**2023-03-24** — commented on [#351](https://github.com/slackhq/circuit/issues/351#issuecomment-1482256004) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-23** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
