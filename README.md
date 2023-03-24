@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-24** — opened PR [#514](https://github.com/slackhq/circuit/pull/514) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up filter UI, M3 bottom sheet, and color tweaks"
+
+**2023-03-24** — commented on [#351](https://github.com/slackhq/circuit/issues/351#issuecomment-1482256004) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-03-23** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-23** — merged PR [#506](https://github.com/slackhq/circuit/pull/506) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.30.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-23** — merged PR [#508](https://github.com/slackhq/circuit/pull/508) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-material to v1.4.0"
 
 **2023-03-23** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-23** — merged PR [#510](https://github.com/slackhq/circuit/pull/510) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-ui to v1.4.0"
-
-**2023-03-23** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
