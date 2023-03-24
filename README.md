@@ -9,20 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-24** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-24** — merged PR [#515](https://github.com/slackhq/circuit/pull/515) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.0"
-
-**2023-03-24** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1483057840) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-24** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-24** — merged PR [#300](https://github.com/slackhq/slack-gradle-plugin/pull/300) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.3"
-
-**2023-03-24** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-24** — merged PR [#301](https://github.com/slackhq/slack-gradle-plugin/pull/301) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.25.0"
-
-**2023-03-24** — deleted branch `z/globalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-24** — merged PR [#299](https://github.com/slackhq/slack-gradle-plugin/pull/299) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new `globalDetekt` + consolidate detekt logic + add skippy support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
