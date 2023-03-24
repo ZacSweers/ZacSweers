@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-23** — deleted branch `renovate/androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-23** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — merged PR [#513](https://github.com/slackhq/circuit/pull/513) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023.03.00"
+**2023-03-23** — merged PR [#506](https://github.com/slackhq/circuit/pull/506) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.30.0"
 
-**2023-03-23** — merged PR [#603](https://github.com/ZacSweers/CatchUp/pull/603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-config to v21.3.0"
+**2023-03-23** — deleted branch `renovate/markdown-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-23** — merged PR [#503](https://github.com/slackhq/circuit/pull/503) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Markdown to v3.4.3"
 
-**2023-03-23** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-03-23** — commented on [#1551](https://github.com/google/accompanist/issues/1551#issuecomment-1482134712) in [google/accompanist](https://github.com/google/accompanist)
 
-**2023-03-23** — merged PR [#400](https://github.com/ZacSweers/MoshiX/pull/400) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.0"
+**2023-03-23** — deleted branch `renovate/compose-material` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — created branch `z/improveFilter` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-23** — merged PR [#508](https://github.com/slackhq/circuit/pull/508) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-material to v1.4.0"
 
-**2023-03-23** — merged PR [#511](https://github.com/slackhq/circuit/pull/511) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.4.0"
+**2023-03-23** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — deleted branch `renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-23** — merged PR [#510](https://github.com/slackhq/circuit/pull/510) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-ui to v1.4.0"
 
-**2023-03-23** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-23** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
