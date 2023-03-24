@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-24** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1483057840) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-03-24** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-24** — merged PR [#300](https://github.com/slackhq/slack-gradle-plugin/pull/300) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-24** — commented on [#351](https://github.com/slackhq/circuit/issues/351#issuecomment-1482256004) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-23** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-23** — merged PR [#506](https://github.com/slackhq/circuit/pull/506) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.30.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
