@@ -4,11 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-24** — created tag `0.7.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-03-24** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-24** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-24** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-24** — merged PR [#515](https://github.com/slackhq/circuit/pull/515) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.0"
+**2023-03-24** — merged PR [#606](https://github.com/ZacSweers/CatchUp/pull/606) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0-alpha02"
+
+**2023-03-24** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-24** — merged PR [#607](https://github.com/ZacSweers/CatchUp/pull/607) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-alpha03"
+
+**2023-03-24** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-24** — merged PR [#608](https://github.com/ZacSweers/CatchUp/pull/608) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.5"
+
+**2023-03-24** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-03-24** — closed PR [#402](https://github.com/ZacSweers/MoshiX/pull/402) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.8.20-326"
+
+**2023-03-24** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1483409641) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
