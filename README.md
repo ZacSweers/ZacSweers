@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-24** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-24** — merged PR [#300](https://github.com/slackhq/slack-gradle-plugin/pull/300) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.3"
+
+**2023-03-24** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-24** — merged PR [#301](https://github.com/slackhq/slack-gradle-plugin/pull/301) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.25.0"
+
+**2023-03-24** — deleted branch `z/globalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-03-24** — merged PR [#299](https://github.com/slackhq/slack-gradle-plugin/pull/299) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new `globalDetekt` + consolidate detekt logic + add skippy support"
+
 **2023-03-24** — opened PR [#514](https://github.com/slackhq/circuit/pull/514) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up filter UI, M3 bottom sheet, and color tweaks"
 
 **2023-03-24** — commented on [#351](https://github.com/slackhq/circuit/issues/351#issuecomment-1482256004) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-23** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-23** — merged PR [#506](https://github.com/slackhq/circuit/pull/506) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.30.0"
-
-**2023-03-23** — deleted branch `renovate/markdown-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-23** — merged PR [#503](https://github.com/slackhq/circuit/pull/503) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Markdown to v3.4.3"
-
-**2023-03-23** — commented on [#1551](https://github.com/google/accompanist/issues/1551#issuecomment-1482134712) in [google/accompanist](https://github.com/google/accompanist)
-
-**2023-03-23** — deleted branch `renovate/compose-material` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-23** — merged PR [#508](https://github.com/slackhq/circuit/pull/508) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-material to v1.4.0"
-
-**2023-03-23** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
