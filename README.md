@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-23** — deleted branch `renovate/androidx-lifecycle` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-03-23** — deleted branch `renovate/androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — merged PR [#502](https://github.com/slackhq/circuit/pull/502) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-lifecycle to v2.6.1"
+**2023-03-23** — merged PR [#513](https://github.com/slackhq/circuit/pull/513) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023.03.00"
 
-**2023-03-23** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-23** — merged PR [#603](https://github.com/ZacSweers/CatchUp/pull/603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-config to v21.3.0"
 
-**2023-03-23** — merged PR [#600](https://github.com/ZacSweers/CatchUp/pull/600) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.0"
+**2023-03-23** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-23** — merged PR [#601](https://github.com/ZacSweers/CatchUp/pull/601) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.29.0"
+**2023-03-23** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-23** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-03-23** — merged PR [#400](https://github.com/ZacSweers/MoshiX/pull/400) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.0"
 
-**2023-03-23** — closed issue [#1643](https://github.com/square/moshi/issues/1643) on [square/moshi](https://github.com/square/moshi): "[ReadMe error]"
+**2023-03-23** — created branch `z/improveFilter` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — commented on [#1643](https://github.com/square/moshi/issues/1643#issuecomment-1481170474) in [square/moshi](https://github.com/square/moshi)
+**2023-03-23** — merged PR [#511](https://github.com/slackhq/circuit/pull/511) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.4.0"
 
-**2023-03-23** — commented on [#1644](https://github.com/square/moshi/pull/1644#issuecomment-1481170096) in [square/moshi](https://github.com/square/moshi)
+**2023-03-23** — deleted branch `renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-03-23** — closed PR [#1644](https://github.com/square/moshi/pull/1644) to [square/moshi](https://github.com/square/moshi): "fix the readme file error"
+**2023-03-23** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
