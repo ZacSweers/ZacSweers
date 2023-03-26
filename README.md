@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-26** — deleted branch `renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-26** — merged PR [#519](https://github.com/slackhq/circuit/pull/519) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.6"
+
 **2023-03-26** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-26** — merged PR [#610](https://github.com/ZacSweers/CatchUp/pull/610) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.3.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-25** — merged PR [#303](https://github.com/slackhq/slack-gradle-plugin/pull/303) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.12.6"
 
 **2023-03-25** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-25** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-25** — merged PR [#516](https://github.com/slackhq/circuit/pull/516) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
