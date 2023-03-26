@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-26** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-03-26** — merged PR [#610](https://github.com/ZacSweers/CatchUp/pull/610) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.3.0"
+
 **2023-03-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-25** — merged PR [#517](https://github.com/slackhq/circuit/pull/517) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-25** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-25** — merged PR [#516](https://github.com/slackhq/circuit/pull/516) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.1"
-
-**2023-03-25** — created tag `0.7.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-25** — commented on [#5925](https://github.com/detekt/detekt/issues/5925#issuecomment-1483918113) in [detekt/detekt](https://github.com/detekt/detekt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
