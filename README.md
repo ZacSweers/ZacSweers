@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-26** — commented on [#520](https://github.com/slackhq/circuit/pull/520#issuecomment-1484316516) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-26** — commented on [#60](https://github.com/InflationX/ViewPump/issues/60#issuecomment-1484271862) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-
-**2023-03-26** — commented on [#520](https://github.com/slackhq/circuit/pull/520#issuecomment-1484233638) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-26** — commented on [#3981](https://github.com/cashapp/sqldelight/pull/3981#issuecomment-1484202141) in [cashapp/sqldelight](https://github.com/cashapp/sqldelight)
-
-**2023-03-26** — deleted branch `renovate/com.gradle.enterprise-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
