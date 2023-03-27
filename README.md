@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-26** — closed issue [#1651](https://github.com/square/moshi/issues/1651) on [square/moshi](https://github.com/square/moshi): "hsjsjss"
+
 **2023-03-26** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-26** — merged PR [#609](https://github.com/ZacSweers/CatchUp/pull/609) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.6"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-26** — merged PR [#519](https://github.com/slackhq/circuit/pull/519) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update plugin com.gradle.enterprise to v3.12.6"
 
 **2023-03-26** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-26** — merged PR [#610](https://github.com/ZacSweers/CatchUp/pull/610) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
