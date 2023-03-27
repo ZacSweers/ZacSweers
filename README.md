@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-27** — commented on [#5940](https://github.com/detekt/detekt/issues/5940#issuecomment-1485779595) in [detekt/detekt](https://github.com/detekt/detekt)
+
+**2023-03-27** — commented on [#5940](https://github.com/detekt/detekt/issues/5940#issuecomment-1485751740) in [detekt/detekt](https://github.com/detekt/detekt)
+
+**2023-03-27** — opened issue [#5947](https://github.com/detekt/detekt/issues/5947) on [detekt/detekt](https://github.com/detekt/detekt): "Feature request: create type resolution and non-type-resolution variants of Detekt tasks to make configuration easier"
+
 **2023-03-27** — created tag `0.7.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-27** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-26** — closed issue [#1651](https://github.com/square/moshi/issues/1651) on [square/moshi](https://github.com/square/moshi): "hsjsjss"
 
 **2023-03-26** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-26** — merged PR [#609](https://github.com/ZacSweers/CatchUp/pull/609) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
