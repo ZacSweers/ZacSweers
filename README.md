@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-28** — deleted branch `renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-28** — merged PR [#520](https://github.com/slackhq/circuit/pull/520) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.3.0"
+
+**2023-03-28** — opened PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
+
+**2023-03-28** — created branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-03-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-28** — merged PR [#613](https://github.com/ZacSweers/CatchUp/pull/613) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.8"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-03-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-27** — merged PR [#604](https://github.com/ZacSweers/CatchUp/pull/604) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.1"
-
-**2023-03-27** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-27** — merged PR [#611](https://github.com/ZacSweers/CatchUp/pull/611) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.187.1"
-
-**2023-03-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
