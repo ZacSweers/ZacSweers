@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-03-27** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-03-27** — merged PR [#602](https://github.com/ZacSweers/CatchUp/pull/602) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.20-RC2-1.0.9"
 
-**2023-03-27** — merged PR [#33](https://github.com/slackhq/compose-lints/pull/33) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Markdown to v3.4.3"
+**2023-03-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-27** — deleted branch `renovate/markdown-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-03-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-27** — merged PR [#92](https://github.com/slackhq/compose-lints/pull/92) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.4"
+**2023-03-27** — merged PR [#604](https://github.com/ZacSweers/CatchUp/pull/604) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.1"
 
-**2023-03-27** — commented on [#5940](https://github.com/detekt/detekt/issues/5940#issuecomment-1485779595) in [detekt/detekt](https://github.com/detekt/detekt)
+**2023-03-27** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-27** — commented on [#5940](https://github.com/detekt/detekt/issues/5940#issuecomment-1485751740) in [detekt/detekt](https://github.com/detekt/detekt)
+**2023-03-27** — merged PR [#611](https://github.com/ZacSweers/CatchUp/pull/611) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.187.1"
 
-**2023-03-27** — opened issue [#5947](https://github.com/detekt/detekt/issues/5947) on [detekt/detekt](https://github.com/detekt/detekt): "Feature request: create type resolution and non-type-resolution variants of Detekt tasks to make configuration easier"
+**2023-03-27** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-03-27** — created tag `0.7.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-27** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-03-27** — merged PR [#90](https://github.com/slackhq/compose-lints/pull/90) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.25.1"
+**2023-03-27** — merged PR [#612](https://github.com/ZacSweers/CatchUp/pull/612) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
