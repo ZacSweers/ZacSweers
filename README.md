@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-29** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1489007144) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-29** — merged PR [#514](https://github.com/slackhq/circuit/pull/514) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up filter UI, M3 bottom sheet, and color tweaks"
+
+**2023-03-29** — deleted branch `z/improveFilter` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-29** — closed issue [#351](https://github.com/slackhq/circuit/issues/351) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample filter can get into a bad state"
+
 **2023-03-29** — commented on [#76](https://github.com/InflationX/ViewPump/pull/76#issuecomment-1488967560) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-03-29** — commented on [#496](https://github.com/slackhq/circuit/pull/496#issuecomment-1488785795) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-29** — deleted branch `z/reset` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-03-29** — merged PR [#75](https://github.com/InflationX/ViewPump/pull/75) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add ViewPump.reset() function"
-
-**2023-03-29** — opened PR [#76](https://github.com/InflationX/ViewPump/pull/76) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Proposal: remove singletons, scope ViewPumps instead"
-
-**2023-03-29** — created branch `z/alternativeApi` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-
-**2023-03-29** — opened PR [#75](https://github.com/InflationX/ViewPump/pull/75) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add ViewPump.reset() function"
-
-**2023-03-29** — created branch `z/reset` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
