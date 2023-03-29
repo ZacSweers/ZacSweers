@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-29** — opened PR [#75](https://github.com/InflationX/ViewPump/pull/75) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add ViewPump.reset() function"
+
+**2023-03-29** — created branch `z/reset` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-29** — deleted branch `z/modernize` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-29** — merged PR [#74](https://github.com/InflationX/ViewPump/pull/74) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Modernize build infra + updated nullability from SDK"
+
 **2023-03-28** — opened PR [#74](https://github.com/InflationX/ViewPump/pull/74) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Modernize build infra + updated nullability from SDK"
 
 **2023-03-28** — created branch `z/modernize` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-28** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1487514619) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-28** — deleted branch `renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-28** — merged PR [#520](https://github.com/slackhq/circuit/pull/520) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.3.0"
-
-**2023-03-28** — opened PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
-
-**2023-03-28** — created branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
