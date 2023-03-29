@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-28** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1487514619) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-03-28** — deleted branch `renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-28** — merged PR [#520](https://github.com/slackhq/circuit/pull/520) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil to v2.3.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-27** — merged PR [#602](https://github.com/ZacSweers/CatchUp/pull/602) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.20-RC2-1.0.9"
 
 **2023-03-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
