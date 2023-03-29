@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-28** — opened PR [#74](https://github.com/InflationX/ViewPump/pull/74) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Modernize build infra + updated nullability from SDK"
+
+**2023-03-28** — created branch `z/modernize` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-28** — created branch `main` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-28** — deleted branch `master` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
 **2023-03-28** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1487514619) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-28** — deleted branch `renovate/coil` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-28** — created branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-03-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-28** — merged PR [#613](https://github.com/ZacSweers/CatchUp/pull/613) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.8"
-
-**2023-03-28** — created tag `0.7.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-03-27** — merged PR [#602](https://github.com/ZacSweers/CatchUp/pull/602) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.8.20-RC2-1.0.9"
-
-**2023-03-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
