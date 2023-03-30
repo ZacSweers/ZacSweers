@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-30** — opened PR [#78](https://github.com/InflationX/ViewPump/pull/78) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Prepare changelog for 2.1.0"
+
+**2023-03-30** — created branch `z/210changelog` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-30** — deleted branch `z/optimizeClone` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-30** — deleted branch `z/alternativeApi` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-30** — closed issue [#47](https://github.com/InflationX/ViewPump/issues/47) on [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Multiple `ViewPump` instances"
+
+**2023-03-30** — merged PR [#76](https://github.com/InflationX/ViewPump/pull/76) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Proposal: remove singletons, scope ViewPumps instead"
+
 **2023-03-30** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1490535579) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-03-30** — merged PR [#399](https://github.com/ZacSweers/MoshiX/pull/399) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenShadow to v8.1.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-30** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-03-30** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-30** — merged PR [#401](https://github.com/ZacSweers/MoshiX/pull/401) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.1"
-
-**2023-03-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-30** — closed PR [#403](https://github.com/ZacSweers/MoshiX/pull/403) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.0-moon-100535"
-
-**2023-03-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-03-30** — closed PR [#130](https://github.com/ZacSweers/redacted-compiler-plugin/pull/130) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.20"
-
-**2023-03-30** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
