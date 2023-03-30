@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-30** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1490535579) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-03-30** — merged PR [#399](https://github.com/ZacSweers/MoshiX/pull/399) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenShadow to v8.1.1"
+
+**2023-03-30** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-03-30** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-03-30** — merged PR [#401](https://github.com/ZacSweers/MoshiX/pull/401) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.1"
+
+**2023-03-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-03-30** — closed PR [#403](https://github.com/ZacSweers/MoshiX/pull/403) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.0-moon-100535"
+
 **2023-03-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-03-30** — closed PR [#130](https://github.com/ZacSweers/redacted-compiler-plugin/pull/130) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.20"
 
 **2023-03-30** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-30** — closed PR [#524](https://github.com/slackhq/circuit/pull/524) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-SNAPSHOT"
-
-**2023-03-30** — commented on [#524](https://github.com/slackhq/circuit/pull/524#issuecomment-1490511175) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-29** — commented on [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129#issuecomment-1489557137) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-03-29** — closed issue [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Incompatibility with Kotlin 1.8.20-RC2"
-
-**2023-03-29** — deleted branch `ke/tacos` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-29** — merged PR [#496](https://github.com/slackhq/circuit/pull/496) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new Tacos sample app demonstrating Presenter Composition"
-
-**2023-03-29** — closed issue [#50](https://github.com/InflationX/ViewPump/issues/50) on [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Optimize cloneInContext"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
