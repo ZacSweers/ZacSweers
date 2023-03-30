@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-29** — commented on [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129#issuecomment-1489557137) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-03-29** — closed issue [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Incompatibility with Kotlin 1.8.20-RC2"
+
 **2023-03-29** — deleted branch `ke/tacos` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-29** — merged PR [#496](https://github.com/slackhq/circuit/pull/496) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new Tacos sample app demonstrating Presenter Composition"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-29** — deleted branch `z/improveFilter` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-03-29** — closed issue [#351](https://github.com/slackhq/circuit/issues/351) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample filter can get into a bad state"
-
-**2023-03-29** — commented on [#76](https://github.com/InflationX/ViewPump/pull/76#issuecomment-1488967560) in [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-
-**2023-03-29** — commented on [#496](https://github.com/slackhq/circuit/pull/496#issuecomment-1488785795) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
