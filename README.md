@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-30** — deleted branch `z/210changelog` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-30** — merged PR [#78](https://github.com/InflationX/ViewPump/pull/78) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Prepare changelog for 2.1.0"
+
+**2023-03-30** — deleted branch `cj/refs/secretenamechange` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
+**2023-03-30** — merged PR [#79](https://github.com/InflationX/ViewPump/pull/79) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Update ci.yml"
+
 **2023-03-30** — opened PR [#78](https://github.com/InflationX/ViewPump/pull/78) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Prepare changelog for 2.1.0"
 
 **2023-03-30** — created branch `z/210changelog` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-30** — closed issue [#47](https://github.com/InflationX/ViewPump/issues/47) on [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Multiple `ViewPump` instances"
 
 **2023-03-30** — merged PR [#76](https://github.com/InflationX/ViewPump/pull/76) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Proposal: remove singletons, scope ViewPumps instead"
-
-**2023-03-30** — commented on [#384](https://github.com/ZacSweers/MoshiX/pull/384#issuecomment-1490535579) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-30** — merged PR [#399](https://github.com/ZacSweers/MoshiX/pull/399) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenShadow to v8.1.1"
-
-**2023-03-30** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-03-30** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
