@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-03-30** — closed PR [#130](https://github.com/ZacSweers/redacted-compiler-plugin/pull/130) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.20"
+
+**2023-03-30** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-03-30** — closed PR [#524](https://github.com/slackhq/circuit/pull/524) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-SNAPSHOT"
+
+**2023-03-30** — commented on [#524](https://github.com/slackhq/circuit/pull/524#issuecomment-1490511175) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-03-29** — commented on [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129#issuecomment-1489557137) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-03-29** — closed issue [#129](https://github.com/ZacSweers/redacted-compiler-plugin/issues/129) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Incompatibility with Kotlin 1.8.20-RC2"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-29** — merged PR [#496](https://github.com/slackhq/circuit/pull/496) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new Tacos sample app demonstrating Presenter Composition"
 
 **2023-03-29** — closed issue [#50](https://github.com/InflationX/ViewPump/issues/50) on [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Optimize cloneInContext"
-
-**2023-03-29** — merged PR [#77](https://github.com/InflationX/ViewPump/pull/77) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Optimize cloneInContext"
-
-**2023-03-29** — commented on [#514](https://github.com/slackhq/circuit/pull/514#issuecomment-1489007144) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-29** — merged PR [#514](https://github.com/slackhq/circuit/pull/514) to [slackhq/circuit](https://github.com/slackhq/circuit): "Clean up filter UI, M3 bottom sheet, and color tweaks"
-
-**2023-03-29** — deleted branch `z/improveFilter` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-03-29** — closed issue [#351](https://github.com/slackhq/circuit/issues/351) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample filter can get into a bad state"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
