@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-31** — commented on [#362](https://github.com/facebook/ktfmt/issues/362#issuecomment-1492673283) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2023-03-31** — deleted branch `z/anotherErrorLevel` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-03-31** — merged PR [#80](https://github.com/InflationX/ViewPump/pull/80) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add missing severity to ViewPumpContextWrapper.get()"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-31** — closed PR [#527](https://github.com/slackhq/circuit/pull/527) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin to v1.8.20"
 
 **2023-03-31** — deleted branch `renovate/com.android.tools` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-03-31** — merged PR [#616](https://github.com/ZacSweers/CatchUp/pull/616) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.0.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
