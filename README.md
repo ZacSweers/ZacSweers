@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-30** — opened PR [#80](https://github.com/InflationX/ViewPump/pull/80) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add missing severity to ViewPumpContextWrapper.get()"
+
+**2023-03-30** — created branch `z/anotherErrorLevel` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
 **2023-03-30** — deleted branch `z/210changelog` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-03-30** — merged PR [#78](https://github.com/InflationX/ViewPump/pull/78) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Prepare changelog for 2.1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-03-30** — deleted branch `z/optimizeClone` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-03-30** — deleted branch `z/alternativeApi` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-
-**2023-03-30** — closed issue [#47](https://github.com/InflationX/ViewPump/issues/47) on [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Multiple `ViewPump` instances"
-
-**2023-03-30** — merged PR [#76](https://github.com/InflationX/ViewPump/pull/76) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Proposal: remove singletons, scope ViewPumps instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
