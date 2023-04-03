@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-03** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1494691405) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-03** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1494633130) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-04-03** — deleted branch `renovate/de.mr-pine.utils` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-03** — merged PR [#614](https://github.com/ZacSweers/CatchUp/pull/614) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency de.mr-pine.utils:zoomables to v1.3.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-03** — merged PR [#617](https://github.com/ZacSweers/CatchUp/pull/617) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.9"
 
 **2023-04-03** — merged PR [#621](https://github.com/ZacSweers/CatchUp/pull/621) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.4.0"
-
-**2023-04-03** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-03** — created tag `0.22.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
