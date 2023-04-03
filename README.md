@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-03** — commented on [#454](https://github.com/slackhq/circuit/pull/454#issuecomment-1494879154) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-03** — commented on [#1280](https://github.com/google/ksp/issues/1280#issuecomment-1494856166) in [google/ksp](https://github.com/google/ksp)
+
 **2023-04-03** — deleted branch `renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-03** — merged PR [#528](https://github.com/slackhq/circuit/pull/528) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2.0.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-03** — deleted branch `renovate/de.mr-pine.utils` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-03** — merged PR [#614](https://github.com/ZacSweers/CatchUp/pull/614) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency de.mr-pine.utils:zoomables to v1.3.0"
-
-**2023-04-03** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-03** — merged PR [#615](https://github.com/ZacSweers/CatchUp/pull/615) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
