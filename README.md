@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-03** — deleted branch `renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-03** — merged PR [#528](https://github.com/slackhq/circuit/pull/528) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2.0.3"
+
+**2023-04-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-03** — merged PR [#529](https://github.com/slackhq/circuit/pull/529) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.5"
+
 **2023-04-03** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1494691405) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-03** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1494633130) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-03** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-03** — merged PR [#615](https://github.com/ZacSweers/CatchUp/pull/615) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha11"
-
-**2023-04-03** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-03** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-03** — merged PR [#617](https://github.com/ZacSweers/CatchUp/pull/617) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.9"
-
-**2023-04-03** — merged PR [#621](https://github.com/ZacSweers/CatchUp/pull/621) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
