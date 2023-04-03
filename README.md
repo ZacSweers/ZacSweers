@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-02** — commented on [#8073](https://github.com/robolectric/robolectric/issues/8073#issuecomment-1493577863) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+**2023-04-03** — created tag `0.22.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-04-01** — opened issue [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Create dependency output tasks, consume in module stats and skippy"
+**2023-04-03** — created tag `1.4.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-01** — closed issue [#297](https://github.com/slackhq/slack-gradle-plugin/issues/297) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add Detekt to Skippy"
+**2023-04-03** — merged PR [#128](https://github.com/ZacSweers/redacted-compiler-plugin/pull/128) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.1"
 
-**2023-04-01** — commented on [#297](https://github.com/slackhq/slack-gradle-plugin/issues/297#issuecomment-1493126163) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-03** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-01** — created tag `0.7.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-01** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-03** — closed PR [#131](https://github.com/ZacSweers/redacted-compiler-plugin/pull/131) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.devtools.ksp:symbol-processing to v1.8.20-1.0.10"
 
-**2023-04-01** — merged PR [#307](https://github.com/slackhq/slack-gradle-plugin/pull/307) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.5.4"
+**2023-04-03** — deleted branch `z/kotlin1820beta` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-01** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-03** — merged PR [#120](https://github.com/ZacSweers/redacted-compiler-plugin/pull/120) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8.20 support"
 
-**2023-04-01** — merged PR [#304](https://github.com/slackhq/slack-gradle-plugin/pull/304) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-rc01"
+**2023-04-03** — deleted branch `z/kotlin1820` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-03-31** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1492760494) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-04-03** — merged PR [#384](https://github.com/ZacSweers/MoshiX/pull/384) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 1.8.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
