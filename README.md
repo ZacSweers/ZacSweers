@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-03** — deleted branch `renovate/de.mr-pine.utils` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-03** — merged PR [#614](https://github.com/ZacSweers/CatchUp/pull/614) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency de.mr-pine.utils:zoomables to v1.3.0"
+
+**2023-04-03** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-03** — merged PR [#615](https://github.com/ZacSweers/CatchUp/pull/615) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-alpha11"
+
+**2023-04-03** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-03** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-03** — merged PR [#617](https://github.com/ZacSweers/CatchUp/pull/617) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.7.9"
+
+**2023-04-03** — merged PR [#621](https://github.com/ZacSweers/CatchUp/pull/621) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.4.0"
+
+**2023-04-03** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-04-03** — created tag `0.22.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-03** — created tag `1.4.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-03** — merged PR [#128](https://github.com/ZacSweers/redacted-compiler-plugin/pull/128) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.1"
-
-**2023-04-03** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-03** — closed PR [#131](https://github.com/ZacSweers/redacted-compiler-plugin/pull/131) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.devtools.ksp:symbol-processing to v1.8.20-1.0.10"
-
-**2023-04-03** — deleted branch `z/kotlin1820beta` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-03** — merged PR [#120](https://github.com/ZacSweers/redacted-compiler-plugin/pull/120) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 1.8.20 support"
-
-**2023-04-03** — deleted branch `z/kotlin1820` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-03** — merged PR [#384](https://github.com/ZacSweers/MoshiX/pull/384) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 1.8.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
