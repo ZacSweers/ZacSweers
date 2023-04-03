@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-02** — commented on [#8073](https://github.com/robolectric/robolectric/issues/8073#issuecomment-1493577863) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2023-04-01** — opened issue [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Create dependency output tasks, consume in module stats and skippy"
 
 **2023-04-01** — closed issue [#297](https://github.com/slackhq/slack-gradle-plugin/issues/297) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add Detekt to Skippy"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-01** — merged PR [#304](https://github.com/slackhq/slack-gradle-plugin/pull/304) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0-rc01"
 
 **2023-03-31** — commented on [#109](https://github.com/slackhq/keeper/issues/109#issuecomment-1492760494) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-03-31** — commented on [#362](https://github.com/facebook/ktfmt/issues/362#issuecomment-1492673283) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
