@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-03** — merged PR [#405](https://github.com/ZacSweers/MoshiX/pull/405) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.22.0"
+
 **2023-04-03** — deleted branch `z/testing` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-04-03** — merged PR [#82](https://github.com/InflationX/ViewPump/pull/82) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Add testing notes + small readme formatting fixes."
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-03** — deleted branch `renovate/com.android.tools` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-03** — merged PR [#528](https://github.com/slackhq/circuit/pull/528) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.android.tools:desugar_jdk_libs to v2.0.3"
-
-**2023-04-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-03** — merged PR [#529](https://github.com/slackhq/circuit/pull/529) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
