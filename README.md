@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-05** — commented on [#1508](https://github.com/square/kotlinpoet/pull/1508#issuecomment-1497915860) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-04-05** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-05** — commented on [#532](https://github.com/slackhq/circuit/pull/532#issuecomment-1497821822) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-04** — merged PR [#93](https://github.com/slackhq/compose-lints/pull/93) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha11"
 
 **2023-04-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-04** — closed PR [#95](https://github.com/slackhq/compose-lints/pull/95) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.20-1.0.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
