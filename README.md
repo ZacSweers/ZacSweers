@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-05** — opened PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
+
+**2023-04-05** — created branch `z/nullabilityImprovements` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+
 **2023-04-05** — commented on [#1508](https://github.com/square/kotlinpoet/pull/1508#issuecomment-1497915860) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-04-05** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-04** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-04** — merged PR [#94](https://github.com/slackhq/compose-lints/pull/94) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.5"
-
-**2023-04-04** — merged PR [#93](https://github.com/slackhq/compose-lints/pull/93) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.1.0-alpha11"
-
-**2023-04-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
