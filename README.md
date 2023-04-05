@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-05** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-05** — commented on [#532](https://github.com/slackhq/circuit/pull/532#issuecomment-1497821822) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-05** — closed PR [#532](https://github.com/slackhq/circuit/pull/532) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.22.0"
+
 **2023-04-04** — opened issue [#72](https://github.com/romannurik/SlidesCodeHighlighter/issues/72) on [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter): "Editor injects spaces after every second letter press in safari in some conditions"
 
 **2023-04-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-04** — closed PR [#95](https://github.com/slackhq/compose-lints/pull/95) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.20-1.0.10"
-
-**2023-04-04** — commented on [#95](https://github.com/slackhq/compose-lints/pull/95#issuecomment-1496236616) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-03** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1495304818) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-03** — opened issue [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Optimize skippy affected projects by defining configurations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
