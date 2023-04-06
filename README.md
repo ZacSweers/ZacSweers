@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-06** — deleted branch `gh-readonly-queue/main/pr-534-4227347bd15778bd0dff1f1075a9ad9ae63011b1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — created tag `0.8.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — merged PR [#541](https://github.com/slackhq/circuit/pull/541) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.18.0"
+**2023-04-06** — merged PR [#480](https://github.com/slackhq/circuit/pull/480) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.0.2"
 
-**2023-04-06** — deleted branch `renovate/androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — merged PR [#534](https://github.com/slackhq/circuit/pull/534) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-material to v1.4.1"
 
-**2023-04-06** — deleted branch `renovate/androidx.core` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/compose-material` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — deleted branch `renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — merged PR [#537](https://github.com/slackhq/circuit/pull/537) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.4.1"
+**2023-04-06** — deleted branch `renovate/renovatebot-github-action-36.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — merged PR [#539](https://github.com/slackhq/circuit/pull/539) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023.04.00"
+**2023-04-06** — merged PR [#543](https://github.com/slackhq/circuit/pull/543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v36"
 
-**2023-04-06** — merged PR [#540](https://github.com/slackhq/circuit/pull/540) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.core:core-ktx to v1.10.0"
+**2023-04-06** — commented on [#480](https://github.com/slackhq/circuit/pull/480#issuecomment-1499365916) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-06** — deleted branch `renovate/compose-runtime` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
