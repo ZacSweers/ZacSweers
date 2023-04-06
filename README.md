@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-05** — closed PR [#531](https://github.com/slackhq/circuit/pull/531) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.8.20-1.0.10"
+
+**2023-04-05** — deleted branch `z/defaultNavDecoration` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-05** — merged PR [#533](https://github.com/slackhq/circuit/pull/533) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move default NavDecoration to CircuitConfig"
+
 **2023-04-05** — opened PR [#533](https://github.com/slackhq/circuit/pull/533) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move default NavDecoration to CircuitConfig"
 
 **2023-04-05** — created branch `z/defaultNavDecoration` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-05** — opened PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
 
 **2023-04-05** — created branch `z/nullabilityImprovements` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
-
-**2023-04-05** — commented on [#1508](https://github.com/square/kotlinpoet/pull/1508#issuecomment-1497915860) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-05** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-05** — commented on [#532](https://github.com/slackhq/circuit/pull/532#issuecomment-1497821822) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-05** — closed PR [#532](https://github.com/slackhq/circuit/pull/532) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
