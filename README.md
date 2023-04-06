@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-06** — commented on [#1466](https://github.com/square/kotlinpoet/pull/1466#issuecomment-1499249533) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-04-06** — deleted branch `gh-readonly-queue/main/pr-534-4227347bd15778bd0dff1f1075a9ad9ae63011b1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/spotless` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-05** — closed PR [#531](https://github.com/slackhq/circuit/pull/531) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.8.20-1.0.10"
+**2023-04-06** — merged PR [#541](https://github.com/slackhq/circuit/pull/541) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.diffplug.spotless to v6.18.0"
 
-**2023-04-05** — deleted branch `z/defaultNavDecoration` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — deleted branch `renovate/androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-05** — merged PR [#533](https://github.com/slackhq/circuit/pull/533) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move default NavDecoration to CircuitConfig"
+**2023-04-06** — deleted branch `renovate/androidx.core` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-05** — opened PR [#533](https://github.com/slackhq/circuit/pull/533) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move default NavDecoration to CircuitConfig"
+**2023-04-06** — deleted branch `renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-05** — created branch `z/defaultNavDecoration` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-06** — merged PR [#537](https://github.com/slackhq/circuit/pull/537) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.4.1"
 
-**2023-04-05** — deleted branch `z/nullabilityImprovements` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
+**2023-04-06** — merged PR [#539](https://github.com/slackhq/circuit/pull/539) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023.04.00"
 
-**2023-04-05** — merged PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
+**2023-04-06** — merged PR [#540](https://github.com/slackhq/circuit/pull/540) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.core:core-ktx to v1.10.0"
 
-**2023-04-05** — opened PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
+**2023-04-06** — deleted branch `renovate/compose-runtime` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
