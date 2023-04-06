@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-06** — commented on [#1280](https://github.com/google/ksp/issues/1280#issuecomment-1499594753) in [google/ksp](https://github.com/google/ksp)
+
 **2023-04-06** — created tag `0.8.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-06** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-06** — merged PR [#543](https://github.com/slackhq/circuit/pull/543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v36"
 
 **2023-04-06** — commented on [#480](https://github.com/slackhq/circuit/pull/480#issuecomment-1499365916) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-06** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
