@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-05** — opened PR [#533](https://github.com/slackhq/circuit/pull/533) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move default NavDecoration to CircuitConfig"
+
+**2023-04-05** — created branch `z/defaultNavDecoration` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-05** — deleted branch `z/nullabilityImprovements` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 
 **2023-04-05** — merged PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-05** — commented on [#532](https://github.com/slackhq/circuit/pull/532#issuecomment-1497821822) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-05** — closed PR [#532](https://github.com/slackhq/circuit/pull/532) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.22.0"
-
-**2023-04-04** — opened issue [#72](https://github.com/romannurik/SlidesCodeHighlighter/issues/72) on [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter): "Editor injects spaces after every second letter press in safari in some conditions"
-
-**2023-04-04** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
