@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-06** — commented on [#1466](https://github.com/square/kotlinpoet/pull/1466#issuecomment-1499249533) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-05** — closed PR [#531](https://github.com/slackhq/circuit/pull/531) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.8.20-1.0.10"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-05** — merged PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
 
 **2023-04-05** — opened PR [#86](https://github.com/InflationX/ViewPump/pull/86) to [InflationX/ViewPump](https://github.com/InflationX/ViewPump): "Better propagate nullability for `AttributeSet`"
-
-**2023-04-05** — created branch `z/nullabilityImprovements` on [InflationX/ViewPump](https://github.com/InflationX/ViewPump)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
