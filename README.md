@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-06** — merged PR [#623](https://github.com/ZacSweers/CatchUp/pull/623) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.189.0"
+**2023-04-07** — closed PR [#586](https://github.com/ZacSweers/CatchUp/pull/586) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout - abandoned"
 
-**2023-04-06** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-06** — merged PR [#624](https://github.com/ZacSweers/CatchUp/pull/624) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.4.1"
+**2023-04-07** — merged PR [#618](https://github.com/ZacSweers/CatchUp/pull/618) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.0"
 
-**2023-04-06** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-06** — merged PR [#625](https://github.com/ZacSweers/CatchUp/pull/625) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0-beta02"
+**2023-04-07** — closed PR [#491](https://github.com/ZacSweers/CatchUp/pull/491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.8.0-alpha02"
 
-**2023-04-06** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-06** — merged PR [#627](https://github.com/ZacSweers/CatchUp/pull/627) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-alpha04"
+**2023-04-07** — closed PR [#630](https://github.com/ZacSweers/CatchUp/pull/630) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.8.0"
 
-**2023-04-06** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-06** — merged PR [#626](https://github.com/ZacSweers/CatchUp/pull/626) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.4.1"
+**2023-04-07** — closed PR [#628](https://github.com/ZacSweers/CatchUp/pull/628) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
