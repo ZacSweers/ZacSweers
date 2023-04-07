@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-07** — commented on [#53](https://github.com/square/gradle-dependencies-sorter/pull/53#issuecomment-1500665123) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-04-07** — closed issue [#21](https://github.com/square/gradle-dependencies-sorter/issues/21) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: document fat jar download location"
+
+**2023-04-07** — merged PR [#55](https://github.com/square/gradle-dependencies-sorter/pull/55) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Document location of the fat jar to download"
+
+**2023-04-07** — commented on [#55](https://github.com/square/gradle-dependencies-sorter/pull/55#issuecomment-1500664819) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
 **2023-04-07** — commented on [#25](https://github.com/square/gradle-dependencies-sorter/pull/25#issuecomment-1500575846) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-04-07** — merged PR [#40](https://github.com/square/gradle-dependencies-sorter/pull/40) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support for Map-syntax version of project(...)"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-07** — opened PR [#54](https://github.com/square/gradle-dependencies-sorter/pull/54) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Close logger after invocation"
 
 **2023-04-07** — commented on [#53](https://github.com/square/gradle-dependencies-sorter/pull/53#issuecomment-1500561286) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-04-07** — opened PR [#53](https://github.com/square/gradle-dependencies-sorter/pull/53) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Allow function call dependency declarations"
-
-**2023-04-07** — created branch `z/fixMissingLoggerClose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-04-07** — created branch `z/functionCallDeps` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-04-07** — deleted branch `z/fixPathTraversal` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
