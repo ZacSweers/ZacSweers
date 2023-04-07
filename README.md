@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-07** — commented on [#41](https://github.com/square/gradle-dependencies-sorter/issues/41#issuecomment-1500439190) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-07** — commented on [#25](https://github.com/square/gradle-dependencies-sorter/pull/25#issuecomment-1500575846) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
-**2023-04-07** — commented on [#42](https://github.com/square/gradle-dependencies-sorter/issues/42#issuecomment-1500435612) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-07** — merged PR [#40](https://github.com/square/gradle-dependencies-sorter/pull/40) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Support for Map-syntax version of project(...)"
 
-**2023-04-07** — closed issue [#19](https://github.com/square/gradle-dependencies-sorter/issues/19) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "versions.toml support"
+**2023-04-07** — opened PR [#55](https://github.com/square/gradle-dependencies-sorter/pull/55) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Document location of the fat jar to download"
 
-**2023-04-07** — commented on [#19](https://github.com/square/gradle-dependencies-sorter/issues/19#issuecomment-1500429355) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-07** — created branch `z/docFarJar` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
-**2023-04-07** — commented on [#52](https://github.com/square/gradle-dependencies-sorter/pull/52#issuecomment-1500423550) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-07** — opened PR [#54](https://github.com/square/gradle-dependencies-sorter/pull/54) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Close logger after invocation"
 
-**2023-04-07** — opened PR [#52](https://github.com/square/gradle-dependencies-sorter/pull/52) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix path traversal issue + simplify"
+**2023-04-07** — commented on [#53](https://github.com/square/gradle-dependencies-sorter/pull/53#issuecomment-1500561286) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
-**2023-04-07** — created branch `z/fixPathTraversal` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-04-07** — opened PR [#53](https://github.com/square/gradle-dependencies-sorter/pull/53) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Allow function call dependency declarations"
 
-**2023-04-07** — commented on [#44](https://github.com/square/gradle-dependencies-sorter/issues/44#issuecomment-1500421586) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-07** — created branch `z/fixMissingLoggerClose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
-**2023-04-07** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-07** — created branch `z/functionCallDeps` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
-**2023-04-07** — closed PR [#586](https://github.com/ZacSweers/CatchUp/pull/586) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout - abandoned"
+**2023-04-07** — deleted branch `z/fixPathTraversal` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
