@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-08** — commented on [#7581](https://github.com/robolectric/robolectric/issues/7581#issuecomment-1500786160) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2023-04-07** — commented on [#53](https://github.com/square/gradle-dependencies-sorter/pull/53#issuecomment-1500665123) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-04-07** — closed issue [#21](https://github.com/square/gradle-dependencies-sorter/issues/21) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Feature request: document fat jar download location"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-07** — created branch `z/docFarJar` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-04-07** — opened PR [#54](https://github.com/square/gradle-dependencies-sorter/pull/54) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Close logger after invocation"
-
-**2023-04-07** — commented on [#53](https://github.com/square/gradle-dependencies-sorter/pull/53#issuecomment-1500561286) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
