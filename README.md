@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-09** — created branch `z/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-09** — deleted branch `renovate/datastore` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-09** — merged PR [#545](https://github.com/slackhq/circuit/pull/545) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.datastore:datastore-preferences to 1.1.0-alpha04"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-09** — reopened PR [#545](https://github.com/slackhq/circuit/pull/545) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-SNAPSHOT"
 
 **2023-04-09** — closed PR [#545](https://github.com/slackhq/circuit/pull/545) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-SNAPSHOT"
-
-**2023-04-09** — closed PR [#548](https://github.com/slackhq/circuit/pull/548) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.9.0-moon-100535"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
