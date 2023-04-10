@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-10** — commented on [#51](https://github.com/square/gradle-dependencies-sorter/pull/51#issuecomment-1502114939) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-04-10** — merged PR [#51](https://github.com/square/gradle-dependencies-sorter/pull/51) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add thread safety for log file creation"
+
 **2023-04-10** — closed issue [#633](https://github.com/ZacSweers/CatchUp/issues/633) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reporting Vulnerability"
 
 **2023-04-10** — commented on [#633](https://github.com/ZacSweers/CatchUp/issues/633#issuecomment-1501813837) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-10** — closed PR [#544](https://github.com/slackhq/circuit/pull/544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.5"
 
 **2023-04-10** — commented on [#544](https://github.com/slackhq/circuit/pull/544#issuecomment-1501777900) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-10** — created branch `z/removeSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-10** — deleted branch `renovate/datastore` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
