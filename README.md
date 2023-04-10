@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-09** — opened PR [#549](https://github.com/slackhq/circuit/pull/549) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate SqlDelight for Star sample repository and make it a more realistic and robust impl"
+
 **2023-04-09** — created branch `z/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-09** — deleted branch `renovate/datastore` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-09** — merged PR [#546](https://github.com/slackhq/circuit/pull/546) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.6"
 
 **2023-04-09** — reopened PR [#545](https://github.com/slackhq/circuit/pull/545) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-SNAPSHOT"
-
-**2023-04-09** — closed PR [#545](https://github.com/slackhq/circuit/pull/545) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.datastore:datastore-preferences to v1.1.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
