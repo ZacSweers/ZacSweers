@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-11** — merged PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
+
+**2023-04-11** — deleted branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-04-11** — deleted branch `z/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-11** — merged PR [#549](https://github.com/slackhq/circuit/pull/549) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate SqlDelight for Star sample repository and make it a more realistic and robust impl"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-11** — closed PR [#311](https://github.com/slackhq/slack-gradle-plugin/pull/311) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.4.0"
 
 **2023-04-11** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-11** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-11** — closed PR [#312](https://github.com/slackhq/slack-gradle-plugin/pull/312) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
