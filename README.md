@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-10** — opened PR [#551](https://github.com/slackhq/circuit/pull/551) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract maven snapshot URLs to avoid renovate indexing them"
 
 **2023-04-10** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-10** — closed PR [#544](https://github.com/slackhq/circuit/pull/544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.5"
-
-**2023-04-10** — commented on [#544](https://github.com/slackhq/circuit/pull/544#issuecomment-1501777900) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
