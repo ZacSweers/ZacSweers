@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-11** — merged PR [#552](https://github.com/slackhq/circuit/pull/552) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Pygments to v2.15.0"
+**2023-04-11** — deleted branch `z/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-11** — deleted branch `renovate/pygments-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-11** — merged PR [#549](https://github.com/slackhq/circuit/pull/549) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate SqlDelight for Star sample repository and make it a more realistic and robust impl"
 
-**2023-04-10** — commented on [#51](https://github.com/square/gradle-dependencies-sorter/pull/51#issuecomment-1502114939) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-04-11** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-10** — merged PR [#51](https://github.com/square/gradle-dependencies-sorter/pull/51) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Add thread safety for log file creation"
+**2023-04-11** — closed PR [#306](https://github.com/slackhq/slack-gradle-plugin/pull/306) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.20"
 
-**2023-04-10** — closed issue [#633](https://github.com/ZacSweers/CatchUp/issues/633) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Reporting Vulnerability"
+**2023-04-11** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-10** — commented on [#633](https://github.com/ZacSweers/CatchUp/issues/633#issuecomment-1501813837) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-11** — closed PR [#310](https://github.com/slackhq/slack-gradle-plugin/pull/310) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.8.20-1.0.10"
+
+**2023-04-11** — closed PR [#311](https://github.com/slackhq/slack-gradle-plugin/pull/311) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.4.0"
+
+**2023-04-11** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-11** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-11** — closed PR [#312](https://github.com/slackhq/slack-gradle-plugin/pull/312) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
