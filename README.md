@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-12** — merged PR [#551](https://github.com/slackhq/circuit/pull/551) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract maven snapshot URLs to avoid renovate indexing them"
+
+**2023-04-12** — deleted branch `z/removeSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-12** — deleted branch `renovate/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-12** — closed PR [#553](https://github.com/slackhq/circuit/pull/553) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update sqldelight to v2.0.0-SNAPSHOT"
+
 **2023-04-11** — merged PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
 
 **2023-04-11** — deleted branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-11** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-11** — closed PR [#306](https://github.com/slackhq/slack-gradle-plugin/pull/306) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.20"
-
-**2023-04-11** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-11** — closed PR [#310](https://github.com/slackhq/slack-gradle-plugin/pull/310) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.8.20-1.0.10"
-
-**2023-04-11** — closed PR [#311](https://github.com/slackhq/slack-gradle-plugin/pull/311) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.4.0"
-
-**2023-04-11** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
