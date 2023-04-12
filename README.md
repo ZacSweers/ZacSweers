@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-12** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-12** — merged PR [#35](https://github.com/ZacSweers/ZacSweers/pull/35) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.1"
+
 **2023-04-12** — opened PR [#555](https://github.com/slackhq/circuit/pull/555) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add bi-directional flow/circuit interop to samples"
 
 **2023-04-12** — created branch `z/moreInterop` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-11** — merged PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
 
 **2023-04-11** — deleted branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-11** — deleted branch `z/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-11** — merged PR [#549](https://github.com/slackhq/circuit/pull/549) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate SqlDelight for Star sample repository and make it a more realistic and robust impl"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
