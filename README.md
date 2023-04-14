@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-14** — merged PR [#558](https://github.com/slackhq/circuit/pull/558) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-beta02"
+
+**2023-04-14** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-14** — deleted branch `renovate/major-lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-14** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-14** — merged PR [#101](https://github.com/slackhq/compose-lints/pull/101) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31"
+
+**2023-04-14** — merged PR [#102](https://github.com/slackhq/compose-lints/pull/102) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8"
+
+**2023-04-14** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-14** — closed PR [#559](https://github.com/slackhq/circuit/pull/559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.20"
+
 **2023-04-14** — commented on [#396](https://github.com/ZacSweers/MoshiX/issues/396#issuecomment-1508095422) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-13** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-13** — merged PR [#406](https://github.com/ZacSweers/MoshiX/pull/406) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.18.0"
-
-**2023-04-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-13** — merged PR [#409](https://github.com/ZacSweers/MoshiX/pull/409) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.1"
-
-**2023-04-13** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-13** — merged PR [#132](https://github.com/ZacSweers/redacted-compiler-plugin/pull/132) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.18.0"
-
-**2023-04-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-13** — merged PR [#133](https://github.com/ZacSweers/redacted-compiler-plugin/pull/133) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.1"
-
-**2023-04-13** — commented on [#1657](https://github.com/square/moshi/issues/1657#issuecomment-1507776437) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
