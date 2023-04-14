@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-12** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-04-13** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-04-12** — merged PR [#35](https://github.com/ZacSweers/ZacSweers/pull/35) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.1"
+**2023-04-13** — merged PR [#406](https://github.com/ZacSweers/MoshiX/pull/406) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.18.0"
 
-**2023-04-12** — opened PR [#555](https://github.com/slackhq/circuit/pull/555) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add bi-directional flow/circuit interop to samples"
+**2023-04-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-04-12** — created branch `z/moreInterop` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-13** — merged PR [#409](https://github.com/ZacSweers/MoshiX/pull/409) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.1"
 
-**2023-04-12** — merged PR [#551](https://github.com/slackhq/circuit/pull/551) to [slackhq/circuit](https://github.com/slackhq/circuit): "Extract maven snapshot URLs to avoid renovate indexing them"
+**2023-04-13** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-12** — deleted branch `z/removeSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-13** — merged PR [#132](https://github.com/ZacSweers/redacted-compiler-plugin/pull/132) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.18.0"
 
-**2023-04-12** — deleted branch `renovate/sqldelight` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-13** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-12** — closed PR [#553](https://github.com/slackhq/circuit/pull/553) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update sqldelight to v2.0.0-SNAPSHOT"
+**2023-04-13** — merged PR [#133](https://github.com/ZacSweers/redacted-compiler-plugin/pull/133) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.1"
 
-**2023-04-11** — merged PR [#305](https://github.com/slackhq/slack-gradle-plugin/pull/305) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add kotlinCompilerPluginClasspath to default configurations"
+**2023-04-13** — commented on [#1657](https://github.com/square/moshi/issues/1657#issuecomment-1507776437) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-11** — deleted branch `z/kotlinPluginClasspath` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-13** — deleted branch `renovate/major-agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
