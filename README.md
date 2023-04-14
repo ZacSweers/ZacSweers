@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-14** — merged PR [#558](https://github.com/slackhq/circuit/pull/558) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-beta02"
+**2023-04-14** — deleted branch `z/providersIn8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-14** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-14** — deleted branch `test-renovate/major-agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-14** — deleted branch `renovate/major-lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-14** — merged PR [#320](https://github.com/slackhq/slack-gradle-plugin/pull/320) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce GitExecValueSource"
 
-**2023-04-14** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-14** — merged PR [#319](https://github.com/slackhq/slack-gradle-plugin/pull/319) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8 (major)"
 
-**2023-04-14** — merged PR [#101](https://github.com/slackhq/compose-lints/pull/101) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31"
+**2023-04-14** — deleted branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-14** — merged PR [#102](https://github.com/slackhq/compose-lints/pull/102) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8"
+**2023-04-14** — merged PR [#246](https://github.com/slackhq/slack-gradle-plugin/pull/246) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.1"
 
-**2023-04-14** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-14** — deleted branch `renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-14** — closed PR [#559](https://github.com/slackhq/circuit/pull/559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.20"
+**2023-04-14** — merged PR [#556](https://github.com/slackhq/circuit/pull/556) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-alpha13"
 
-**2023-04-14** — commented on [#396](https://github.com/ZacSweers/MoshiX/issues/396#issuecomment-1508095422) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-04-14** — opened PR [#560](https://github.com/slackhq/circuit/pull/560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update snapshots and remove stale snapshots"
 
-**2023-04-13** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-04-14** — created branch `z/removeStaleSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
