@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-15** — created tag `0.8.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-04-15** — deleted branch `renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-15** — merged PR [#561](https://github.com/slackhq/circuit/pull/561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-alpha.11"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-14** — merged PR [#319](https://github.com/slackhq/slack-gradle-plugin/pull/319) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8 (major)"
 
 **2023-04-14** — deleted branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-14** — merged PR [#246](https://github.com/slackhq/slack-gradle-plugin/pull/246) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
