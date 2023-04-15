@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-14** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1509475515) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-04-14** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1509033812) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-14** — deleted branch `z/providersIn8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-14** — deleted branch `renovate/androidx.benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-14** — merged PR [#556](https://github.com/slackhq/circuit/pull/556) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.benchmark:benchmark-macro-junit4 to v1.2.0-alpha13"
-
-**2023-04-14** — opened PR [#560](https://github.com/slackhq/circuit/pull/560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update snapshots and remove stale snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
