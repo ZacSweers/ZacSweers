@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-15** — created tag `0.14.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-04-15** — closed issue [#109](https://github.com/slackhq/keeper/issues/109) on [slackhq/keeper](https://github.com/slackhq/keeper): "ClassNotFoundException for MultipleArtifact.ALL_CLASSES_DIR with AGP 8.0.0-alpha09"
+
+**2023-04-15** — deleted branch `z/agp8` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-04-15** — merged PR [#117](https://github.com/slackhq/keeper/pull/117) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 8/Gradle 8"
+
 **2023-04-15** — created tag `0.8.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-15** — deleted branch `renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-14** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1509033812) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-14** — deleted branch `z/providersIn8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-14** — deleted branch `test-renovate/major-agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-14** — merged PR [#320](https://github.com/slackhq/slack-gradle-plugin/pull/320) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce GitExecValueSource"
-
-**2023-04-14** — merged PR [#319](https://github.com/slackhq/slack-gradle-plugin/pull/319) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
