@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-14** — merged PR [#320](https://github.com/slackhq/slack-gradle-plugin/pull/320) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Introduce GitExecValueSource"
 
 **2023-04-14** — merged PR [#319](https://github.com/slackhq/slack-gradle-plugin/pull/319) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8 (major)"
-
-**2023-04-14** — deleted branch `z/gradle8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
