@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-15** — closed issue [#118](https://github.com/slackhq/keeper/issues/118) on [slackhq/keeper](https://github.com/slackhq/keeper): "Look into using ExecOperations rather than extending JavaTask"
+**2023-04-16** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-15** — commented on [#118](https://github.com/slackhq/keeper/issues/118#issuecomment-1510025939) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-04-16** — merged PR [#635](https://github.com/ZacSweers/CatchUp/pull/635) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13"
 
-**2023-04-15** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1510025907) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-04-16** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-15** — created tag `0.14.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-04-16** — merged PR [#639](https://github.com/ZacSweers/CatchUp/pull/639) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.1"
 
-**2023-04-15** — closed issue [#109](https://github.com/slackhq/keeper/issues/109) on [slackhq/keeper](https://github.com/slackhq/keeper): "ClassNotFoundException for MultipleArtifact.ALL_CLASSES_DIR with AGP 8.0.0-alpha09"
+**2023-04-16** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-15** — deleted branch `z/agp8` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-04-16** — merged PR [#640](https://github.com/ZacSweers/CatchUp/pull/640) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.0"
 
-**2023-04-15** — merged PR [#117](https://github.com/slackhq/keeper/pull/117) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 8/Gradle 8"
+**2023-04-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-15** — created tag `0.8.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-16** — merged PR [#634](https://github.com/ZacSweers/CatchUp/pull/634) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.1"
 
-**2023-04-15** — deleted branch `renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-16** — closed issue [#1658](https://github.com/square/moshi/issues/1658) on [square/moshi](https://github.com/square/moshi): "KotlinJsonAdapterFactory block too much main thread, even causing ANR."
 
-**2023-04-15** — merged PR [#561](https://github.com/slackhq/circuit/pull/561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-alpha.11"
+**2023-04-16** — commented on [#1658](https://github.com/square/moshi/issues/1658#issuecomment-1510376593) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
