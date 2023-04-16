@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-15** — closed issue [#118](https://github.com/slackhq/keeper/issues/118) on [slackhq/keeper](https://github.com/slackhq/keeper): "Look into using ExecOperations rather than extending JavaTask"
+
+**2023-04-15** — commented on [#118](https://github.com/slackhq/keeper/issues/118#issuecomment-1510025939) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-04-15** — commented on [#117](https://github.com/slackhq/keeper/pull/117#issuecomment-1510025907) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-04-15** — created tag `0.14.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-04-15** — closed issue [#109](https://github.com/slackhq/keeper/issues/109) on [slackhq/keeper](https://github.com/slackhq/keeper): "ClassNotFoundException for MultipleArtifact.ALL_CLASSES_DIR with AGP 8.0.0-alpha09"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-15** — deleted branch `renovate/okhttp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-15** — merged PR [#561](https://github.com/slackhq/circuit/pull/561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update okhttp to v5.0.0-alpha.11"
-
-**2023-04-14** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1509475515) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-14** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1509033812) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-14** — deleted branch `z/providersIn8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
