@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-16** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-16** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — merged PR [#635](https://github.com/ZacSweers/CatchUp/pull/635) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13"
+**2023-04-16** — merged PR [#563](https://github.com/slackhq/circuit/pull/563) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.1 + AGP 8"
 
-**2023-04-16** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-16** — deleted branch `renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — merged PR [#639](https://github.com/ZacSweers/CatchUp/pull/639) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.1"
+**2023-04-16** — closed PR [#554](https://github.com/slackhq/circuit/pull/554) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to v1.4.0"
 
-**2023-04-16** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-16** — commented on [#554](https://github.com/slackhq/circuit/pull/554#issuecomment-1510431426) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — merged PR [#640](https://github.com/ZacSweers/CatchUp/pull/640) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.0"
+**2023-04-16** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-16** — closed PR [#557](https://github.com/slackhq/circuit/pull/557) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.5"
 
-**2023-04-16** — merged PR [#634](https://github.com/ZacSweers/CatchUp/pull/634) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.1"
+**2023-04-16** — commented on [#557](https://github.com/slackhq/circuit/pull/557#issuecomment-1510431383) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — closed issue [#1658](https://github.com/square/moshi/issues/1658) on [square/moshi](https://github.com/square/moshi): "KotlinJsonAdapterFactory block too much main thread, even causing ANR."
+**2023-04-16** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — commented on [#1658](https://github.com/square/moshi/issues/1658#issuecomment-1510376593) in [square/moshi](https://github.com/square/moshi)
+**2023-04-16** — closed PR [#562](https://github.com/slackhq/circuit/pull/562) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
