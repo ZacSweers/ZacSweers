@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-16** — created tag `0.22.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — commented on [#521](https://github.com/slackhq/circuit/issues/521#issuecomment-1510457208) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-16** — closed issue [#411](https://github.com/ZacSweers/MoshiX/issues/411) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[Android] No JsonAdapter for NestedSealed interface if R8 enabled"
+
+**2023-04-16** — deleted branch `z/keepNames` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — merged PR [#413](https://github.com/ZacSweers/MoshiX/pull/413) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep names on `@NestedSealed` types"
+
+**2023-04-16** — commented on [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133#issuecomment-1510455780) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2023-04-16** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1510454702) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-16** — opened PR [#413](https://github.com/ZacSweers/MoshiX/pull/413) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep names on `@NestedSealed` types"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-16** — created branch `z/keepNames` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-16** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-16** — merged PR [#134](https://github.com/ZacSweers/redacted-compiler-plugin/pull/134) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.2"
-
-**2023-04-16** — merged PR [#412](https://github.com/ZacSweers/MoshiX/pull/412) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.2"
-
-**2023-04-16** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-16** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-16** — merged PR [#408](https://github.com/ZacSweers/MoshiX/pull/408) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.5"
-
-**2023-04-16** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
