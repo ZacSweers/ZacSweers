@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-16** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1510454702) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — opened PR [#413](https://github.com/ZacSweers/MoshiX/pull/413) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep names on `@NestedSealed` types"
+
+**2023-04-16** — created branch `z/keepNames` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-04-16** — merged PR [#134](https://github.com/ZacSweers/redacted-compiler-plugin/pull/134) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.2"
+
+**2023-04-16** — merged PR [#412](https://github.com/ZacSweers/MoshiX/pull/412) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.2"
+
+**2023-04-16** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-16** — merged PR [#408](https://github.com/ZacSweers/MoshiX/pull/408) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.5"
+
 **2023-04-16** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — merged PR [#563](https://github.com/slackhq/circuit/pull/563) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.1 + AGP 8"
-
-**2023-04-16** — deleted branch `renovate/compose-jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — closed PR [#554](https://github.com/slackhq/circuit/pull/554) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-jb to v1.4.0"
-
-**2023-04-16** — commented on [#554](https://github.com/slackhq/circuit/pull/554#issuecomment-1510431426) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — closed PR [#557](https://github.com/slackhq/circuit/pull/557) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.5"
-
-**2023-04-16** — commented on [#557](https://github.com/slackhq/circuit/pull/557#issuecomment-1510431383) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-16** — closed PR [#562](https://github.com/slackhq/circuit/pull/562) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
