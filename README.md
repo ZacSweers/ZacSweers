@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-16** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-17** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — merged PR [#641](https://github.com/ZacSweers/CatchUp/pull/641) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update moshix to v0.22.1"
+**2023-04-17** — merged PR [#566](https://github.com/slackhq/circuit/pull/566) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.2"
 
-**2023-04-16** — created tag `0.22.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-04-17** — commented on [#567](https://github.com/slackhq/circuit/pull/567#issuecomment-1511526153) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-16** — commented on [#521](https://github.com/slackhq/circuit/issues/521#issuecomment-1510457208) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-17** — deleted branch `renovate/pymdown-extensions-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-04-16** — closed issue [#411](https://github.com/ZacSweers/MoshiX/issues/411) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[Android] No JsonAdapter for NestedSealed interface if R8 enabled"
+**2023-04-17** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-04-16** — deleted branch `z/keepNames` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-04-17** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-04-16** — merged PR [#413](https://github.com/ZacSweers/MoshiX/pull/413) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep names on `@NestedSealed` types"
+**2023-04-17** — deleted branch `gh-readonly-queue/main/pr-96-6c7572870f69d03bd9726d5ff5a000d063a37fd4` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-04-16** — commented on [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133#issuecomment-1510455780) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-04-17** — merged PR [#98](https://github.com/slackhq/compose-lints/pull/98) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v9.11"
 
-**2023-04-16** — commented on [#411](https://github.com/ZacSweers/MoshiX/issues/411#issuecomment-1510454702) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-04-17** — merged PR [#97](https://github.com/slackhq/compose-lints/pull/97) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.6"
 
-**2023-04-16** — opened PR [#413](https://github.com/ZacSweers/MoshiX/pull/413) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Keep names on `@NestedSealed` types"
+**2023-04-17** — deleted branch `gh-readonly-queue/main/pr-99-6c7572870f69d03bd9726d5ff5a000d063a37fd4` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
