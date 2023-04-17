@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-17** — merged PR [#31](https://github.com/ZacSweers/ZacSweers/pull/31) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.20"
+
+**2023-04-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-17** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-17** — merged PR [#32](https://github.com/ZacSweers/ZacSweers/pull/32) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.10"
+
 **2023-04-17** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-17** — merged PR [#566](https://github.com/slackhq/circuit/pull/566) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.2"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-17** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-17** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-17** — deleted branch `gh-readonly-queue/main/pr-96-6c7572870f69d03bd9726d5ff5a000d063a37fd4` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-17** — merged PR [#98](https://github.com/slackhq/compose-lints/pull/98) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v9.11"
-
-**2023-04-17** — merged PR [#97](https://github.com/slackhq/compose-lints/pull/97) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.6"
-
-**2023-04-17** — deleted branch `gh-readonly-queue/main/pr-99-6c7572870f69d03bd9726d5ff5a000d063a37fd4` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
