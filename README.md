@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-18** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1513392992) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-04-17** — commented on [#155](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/155#issuecomment-1512378320) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
 
 **2023-04-17** — commented on [#155](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/155#issuecomment-1512377819) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-17** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-17** — merged PR [#566](https://github.com/slackhq/circuit/pull/566) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.vanniktech.maven.publish to v0.25.2"
-
-**2023-04-17** — commented on [#567](https://github.com/slackhq/circuit/pull/567#issuecomment-1511526153) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
