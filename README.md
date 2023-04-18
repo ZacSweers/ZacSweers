@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-18** — created branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-18** — merged PR [#96](https://github.com/slackhq/compose-lints/pull/96) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.18.0"
+
+**2023-04-18** — opened PR [#107](https://github.com/slackhq/compose-lints/pull/107) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Only run the M2ApiDetector on Kotlin files"
+
 **2023-04-18** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1513750870) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-04-18** — opened PR [#754](https://github.com/cashapp/paparazzi/pull/754) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Update layoutlib to Android Studio Flamingo"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-18** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1513392992) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-17** — commented on [#155](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/155#issuecomment-1512378320) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2023-04-17** — commented on [#155](https://github.com/msintuneappsdk/ms-intune-app-sdk-android/issues/155#issuecomment-1512377819) in [msintuneappsdk/ms-intune-app-sdk-android](https://github.com/msintuneappsdk/ms-intune-app-sdk-android)
-
-**2023-04-17** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1511983197) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-17** — merged PR [#31](https://github.com/ZacSweers/ZacSweers/pull/31) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.20"
-
-**2023-04-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
