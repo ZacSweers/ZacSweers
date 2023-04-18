@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-18** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1513750870) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2023-04-18** — opened PR [#754](https://github.com/cashapp/paparazzi/pull/754) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Update layoutlib to Android Studio Flamingo"
+
+**2023-04-18** — created branch `z/updateLayoutLib` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+
 **2023-04-18** — opened issue [#106](https://github.com/slackhq/compose-lints/issues/106) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint crash when updating to Kotlin 1.8.20"
 
 **2023-04-18** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1513392992) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-17** — merged PR [#31](https://github.com/ZacSweers/ZacSweers/pull/31) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.20"
 
 **2023-04-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-04-17** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-04-17** — merged PR [#32](https://github.com/ZacSweers/ZacSweers/pull/32) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.10"
-
-**2023-04-17** — deleted branch `renovate/mavenpublish` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
