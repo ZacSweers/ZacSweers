@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — closed issue [#91](https://github.com/slackhq/compose-lints/issues/91) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint to use collectAsStateWithLifecycle() instead of just collectAsState()"
+
+**2023-04-19** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1514842076) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-19** — created tag `1.2.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-19** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-19** — merged PR [#108](https://github.com/slackhq/compose-lints/pull/108) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.15.1"
+
 **2023-04-19** — deleted branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-19** — merged PR [#107](https://github.com/slackhq/compose-lints/pull/107) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Only run the M2ApiDetector on Kotlin files"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-19** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-04-19** — merged PR [#36](https://github.com/ZacSweers/ZacSweers/pull/36) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.11"
-
-**2023-04-18** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-18** — merged PR [#104](https://github.com/slackhq/compose-lints/pull/104) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.20-1.0.11"
-
-**2023-04-18** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-18** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-18** — merged PR [#99](https://github.com/slackhq/compose-lints/pull/99) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
