@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — deleted branch `renovate/tornado-6.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-19** — merged PR [#571](https://github.com/slackhq/circuit/pull/571) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency tornado to v6.3"
+
+**2023-04-19** — deleted branch `renovate/pygments-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-19** — merged PR [#570](https://github.com/slackhq/circuit/pull/570) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Pygments to v2.15.1"
+
+**2023-04-19** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-19** — closed PR [#569](https://github.com/slackhq/circuit/pull/569) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.22.1"
+
+**2023-04-19** — commented on [#569](https://github.com/slackhq/circuit/pull/569#issuecomment-1514890579) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-19** — closed issue [#91](https://github.com/slackhq/compose-lints/issues/91) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint to use collectAsStateWithLifecycle() instead of just collectAsState()"
 
 **2023-04-19** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1514842076) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-19** — created tag `1.2.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-19** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-19** — merged PR [#108](https://github.com/slackhq/compose-lints/pull/108) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.15.1"
-
-**2023-04-19** — deleted branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-19** — merged PR [#107](https://github.com/slackhq/compose-lints/pull/107) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Only run the M2ApiDetector on Kotlin files"
-
-**2023-04-19** — closed issue [#106](https://github.com/slackhq/compose-lints/issues/106) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint crash when updating to Kotlin 1.8.20"
-
-**2023-04-19** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-04-19** — merged PR [#36](https://github.com/ZacSweers/ZacSweers/pull/36) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
