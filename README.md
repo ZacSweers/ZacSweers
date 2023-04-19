@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — deleted branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-19** — merged PR [#107](https://github.com/slackhq/compose-lints/pull/107) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Only run the M2ApiDetector on Kotlin files"
+
+**2023-04-19** — closed issue [#106](https://github.com/slackhq/compose-lints/issues/106) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint crash when updating to Kotlin 1.8.20"
+
 **2023-04-19** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-04-19** — merged PR [#36](https://github.com/ZacSweers/ZacSweers/pull/36) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.11"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-18** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-18** — merged PR [#99](https://github.com/slackhq/compose-lints/pull/99) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.15.0"
-
-**2023-04-18** — merged PR [#105](https://github.com/slackhq/compose-lints/pull/105) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3"
-
-**2023-04-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-18** — created branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
