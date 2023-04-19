@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — deleted branch `z/removeStaleSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-19** — merged PR [#560](https://github.com/slackhq/circuit/pull/560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update snapshots and remove stale snapshots"
+
 **2023-04-19** — deleted branch `renovate/tornado-6.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-19** — merged PR [#571](https://github.com/slackhq/circuit/pull/571) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency tornado to v6.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-19** — commented on [#569](https://github.com/slackhq/circuit/pull/569#issuecomment-1514890579) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-19** — closed issue [#91](https://github.com/slackhq/compose-lints/issues/91) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint to use collectAsStateWithLifecycle() instead of just collectAsState()"
-
-**2023-04-19** — commented on [#91](https://github.com/slackhq/compose-lints/issues/91#issuecomment-1514842076) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-19** — created tag `1.2.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
