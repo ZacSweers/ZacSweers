@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-19** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-19** — merged PR [#36](https://github.com/ZacSweers/ZacSweers/pull/36) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.20-1.0.11"
+
 **2023-04-18** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-18** — merged PR [#104](https://github.com/slackhq/compose-lints/pull/104) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.20-1.0.11"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-18** — created branch `z/kotlinOnlyM2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-18** — merged PR [#96](https://github.com/slackhq/compose-lints/pull/96) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.18.0"
-
-**2023-04-18** — opened PR [#107](https://github.com/slackhq/compose-lints/pull/107) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Only run the M2ApiDetector on Kotlin files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
