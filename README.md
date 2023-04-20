@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-20** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — merged PR [#579](https://github.com/slackhq/circuit/pull/579) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-rc01"
+
+**2023-04-20** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — merged PR [#575](https://github.com/slackhq/circuit/pull/575) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-ui to v1.4.2"
+
+**2023-04-20** — merged PR [#578](https://github.com/slackhq/circuit/pull/578) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.foundation:foundation to v1.4.2"
+
+**2023-04-20** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — deleted branch `renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — merged PR [#581](https://github.com/slackhq/circuit/pull/581) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-alpha03"
+
 **2023-04-20** — closed PR [#577](https://github.com/slackhq/circuit/pull/577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.6"
 
 **2023-04-20** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — commented on [#577](https://github.com/slackhq/circuit/pull/577#issuecomment-1516504453) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — commented on [#1663](https://github.com/square/moshi/issues/1663#issuecomment-1516500119) in [square/moshi](https://github.com/square/moshi)
-
-**2023-04-20** — deleted branch `renovate/compose-animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — merged PR [#576](https://github.com/slackhq/circuit/pull/576) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.4.2"
-
-**2023-04-20** — deleted branch `renovate/compose-runtime` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — merged PR [#574](https://github.com/slackhq/circuit/pull/574) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-runtime to v1.4.2"
-
-**2023-04-20** — deleted branch `renovate/androidx.compose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — merged PR [#580](https://github.com/slackhq/circuit/pull/580) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2023.04.01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
