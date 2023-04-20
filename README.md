@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-20** — opened PR [#583](https://github.com/slackhq/circuit/pull/583) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial iOS testing"
+
+**2023-04-20** — created branch `z/iOS` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — opened PR [#582](https://github.com/slackhq/circuit/pull/582) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify circuit/screen wording"
+
 **2023-04-20** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-20** — merged PR [#579](https://github.com/slackhq/circuit/pull/579) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-rc01"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-20** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-20** — deleted branch `renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — merged PR [#581](https://github.com/slackhq/circuit/pull/581) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-alpha03"
-
-**2023-04-20** — closed PR [#577](https://github.com/slackhq/circuit/pull/577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.6"
-
-**2023-04-20** — deleted branch `renovate/compose-compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
