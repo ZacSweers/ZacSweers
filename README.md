@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-20** — opened PR [#583](https://github.com/slackhq/circuit/pull/583) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial iOS testing"
+**2023-04-20** — deleted branch `renovate/com.slack.lint.compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-20** — created branch `z/iOS` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-20** — merged PR [#650](https://github.com/ZacSweers/CatchUp/pull/650) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.2.0"
 
-**2023-04-20** — opened PR [#582](https://github.com/slackhq/circuit/pull/582) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify circuit/screen wording"
+**2023-04-20** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-20** — deleted branch `renovate/compose-material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-20** — merged PR [#649](https://github.com/ZacSweers/CatchUp/pull/649) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-beta01"
 
-**2023-04-20** — merged PR [#579](https://github.com/slackhq/circuit/pull/579) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.1.0-rc01"
+**2023-04-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-20** — deleted branch `renovate/compose-foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-20** — merged PR [#648](https://github.com/ZacSweers/CatchUp/pull/648) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-beta01"
 
-**2023-04-20** — merged PR [#575](https://github.com/slackhq/circuit/pull/575) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-ui to v1.4.2"
+**2023-04-20** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-20** — merged PR [#578](https://github.com/slackhq/circuit/pull/578) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.foundation:foundation to v1.4.2"
+**2023-04-20** — merged PR [#636](https://github.com/ZacSweers/CatchUp/pull/636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.8.0-alpha03"
 
-**2023-04-20** — deleted branch `renovate/compose-ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-20** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-20** — deleted branch `renovate/androidx.test.uiautomator` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-20** — merged PR [#647](https://github.com/ZacSweers/CatchUp/pull/647) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.4.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
