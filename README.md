@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-20** — closed issue [#1662](https://github.com/square/moshi/issues/1662) on [square/moshi](https://github.com/square/moshi): "address TODO comment in `LinkedHashTreeMap.kt`"
+
+**2023-04-20** — commented on [#1662](https://github.com/square/moshi/issues/1662#issuecomment-1516478691) in [square/moshi](https://github.com/square/moshi)
+
+**2023-04-20** — deleted branch `renovate/compose-material` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — merged PR [#573](https://github.com/slackhq/circuit/pull/573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose-material to v1.4.2"
+
+**2023-04-20** — deleted branch `renovate/androidx-activity` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — merged PR [#572](https://github.com/slackhq/circuit/pull/572) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update androidx-activity to v1.7.1"
+
+**2023-04-20** — commented on [#1663](https://github.com/square/moshi/issues/1663#issuecomment-1516459440) in [square/moshi](https://github.com/square/moshi)
+
 **2023-04-20** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1515726890) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-04-20** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1515710887) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-04-20** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1515707651) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
-
-**2023-04-20** — deleted branch `z/moreInterop` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — merged PR [#555](https://github.com/slackhq/circuit/pull/555) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add bi-directional flow/circuit interop to samples"
-
-**2023-04-20** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — closed PR [#567](https://github.com/slackhq/circuit/pull/567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.6.0"
-
-**2023-04-20** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-20** — closed PR [#568](https://github.com/slackhq/circuit/pull/568) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.8.20-1.0.11"
-
-**2023-04-20** — opened issue [#8162](https://github.com/robolectric/robolectric/issues/8162) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Lots of noisy warnings about "JNI call made without checking exceptions""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
