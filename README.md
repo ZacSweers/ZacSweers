@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-20** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — closed PR [#567](https://github.com/slackhq/circuit/pull/567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.6.0"
+
+**2023-04-20** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-20** — closed PR [#568](https://github.com/slackhq/circuit/pull/568) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.8.20-1.0.11"
+
+**2023-04-20** — opened issue [#8162](https://github.com/robolectric/robolectric/issues/8162) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Lots of noisy warnings about "JNI call made without checking exceptions""
+
 **2023-04-19** — deleted branch `z/removeStaleSnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-19** — merged PR [#560](https://github.com/slackhq/circuit/pull/560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update snapshots and remove stale snapshots"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-19** — merged PR [#571](https://github.com/slackhq/circuit/pull/571) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency tornado to v6.3"
 
 **2023-04-19** — deleted branch `renovate/pygments-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-19** — merged PR [#570](https://github.com/slackhq/circuit/pull/570) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Pygments to v2.15.1"
-
-**2023-04-19** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-19** — closed PR [#569](https://github.com/slackhq/circuit/pull/569) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.22.1"
-
-**2023-04-19** — commented on [#569](https://github.com/slackhq/circuit/pull/569#issuecomment-1514890579) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-19** — closed issue [#91](https://github.com/slackhq/compose-lints/issues/91) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint to use collectAsStateWithLifecycle() instead of just collectAsState()"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
