@@ -73,7 +73,7 @@ private fun fetchBlogActivity(
 private suspend fun <T : Any, E : Any> retryWithBackoff(
   times: Int,
   initialDelay: Long = 1000, // 1 second
-  maxDelay: Long = 5000,     // 5 second
+  maxDelay: Long = 60000,    // 60 seconds
   factor: Double = 2.0,
   block: suspend () -> ApiResult<T, E>
 ): ApiResult<T, E> {
@@ -103,7 +103,7 @@ private fun fetchGithubActivity(
   val moshi = Moshi.Builder().build()
   val githubApi = GitHubApi.create(client, moshi)
   val result = runBlocking {
-    retryWithBackoff(5) {
+    retryWithBackoff(10) {
       githubApi.getUserActivity("ZacSweers")
     }
   }
