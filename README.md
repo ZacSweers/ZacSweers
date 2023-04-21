@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-04-21** — merged PR [#418](https://github.com/ZacSweers/MoshiX/pull/418) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.1.1"
+
+**2023-04-21** — merged PR [#137](https://github.com/ZacSweers/redacted-compiler-plugin/pull/137) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.1.1"
+
+**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2023-04-21** — commented on [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503#issuecomment-1518192466) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
 
 **2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-21** — merged PR [#651](https://github.com/ZacSweers/CatchUp/pull/651) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.1"
 
 **2023-04-21** — merged PR [#37](https://github.com/ZacSweers/ZacSweers/pull/37) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.1.1"
-
-**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-04-21** — deleted branch `z/kotlin1820` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-21** — merged PR [#454](https://github.com/slackhq/circuit/pull/454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.8.20 + switch to Roborazzi"
-
-**2023-04-20** — opened issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
