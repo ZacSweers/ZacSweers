@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-20** — opened issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
+
 **2023-04-20** — deleted branch `renovate/com.slack.lint.compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-20** — merged PR [#650](https://github.com/ZacSweers/CatchUp/pull/650) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.2.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-20** — merged PR [#636](https://github.com/ZacSweers/CatchUp/pull/636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.8.0-alpha03"
 
 **2023-04-20** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-20** — merged PR [#647](https://github.com/ZacSweers/CatchUp/pull/647) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.4.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
