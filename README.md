@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-21** — merged PR [#37](https://github.com/ZacSweers/ZacSweers/pull/37) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.1.1"
+
+**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-21** — deleted branch `z/kotlin1820` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-21** — merged PR [#454](https://github.com/slackhq/circuit/pull/454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.8.20 + switch to Roborazzi"
+
 **2023-04-20** — opened issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
 
 **2023-04-20** — deleted branch `renovate/com.slack.lint.compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-20** — merged PR [#649](https://github.com/ZacSweers/CatchUp/pull/649) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-beta01"
 
 **2023-04-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-20** — merged PR [#648](https://github.com/ZacSweers/CatchUp/pull/648) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.1.0-beta01"
-
-**2023-04-20** — deleted branch `renovate/androidx-activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-20** — merged PR [#636](https://github.com/ZacSweers/CatchUp/pull/636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx-activity to v1.8.0-alpha03"
-
-**2023-04-20** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
