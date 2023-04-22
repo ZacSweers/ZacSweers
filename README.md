@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-22** — deleted branch `renovate/tornado-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-04-22** — merged PR [#1527](https://github.com/square/kotlinpoet/pull/1527) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency tornado to v6.3.1"
+
 **2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-04-21** — merged PR [#418](https://github.com/ZacSweers/MoshiX/pull/418) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.1.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-21** — merged PR [#652](https://github.com/ZacSweers/CatchUp/pull/652) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.1.1"
 
 **2023-04-21** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-21** — merged PR [#651](https://github.com/ZacSweers/CatchUp/pull/651) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.1"
-
-**2023-04-21** — merged PR [#37](https://github.com/ZacSweers/ZacSweers/pull/37) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
