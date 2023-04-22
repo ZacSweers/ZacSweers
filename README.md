@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-22** — commented on [#92](https://github.com/dropbox/dependency-guard/pull/92#issuecomment-1518723254) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+
+**2023-04-22** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-22** — deleted branch `renovate/tornado-6.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-22** — merged PR [#585](https://github.com/slackhq/circuit/pull/585) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency tornado to v6.3.1"
+
+**2023-04-22** — merged PR [#584](https://github.com/slackhq/circuit/pull/584) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.1.1"
+
+**2023-04-22** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-22** — merged PR [#110](https://github.com/slackhq/compose-lints/pull/110) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.1.1"
+
+**2023-04-22** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-22** — merged PR [#111](https://github.com/slackhq/compose-lints/pull/111) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.1"
+
 **2023-04-22** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1518644993) in [square/anvil](https://github.com/square/anvil)
-
-**2023-04-22** — deleted branch `renovate/tornado-6.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-22** — merged PR [#1527](https://github.com/square/kotlinpoet/pull/1527) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency tornado to v6.3.1"
-
-**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-21** — merged PR [#418](https://github.com/ZacSweers/MoshiX/pull/418) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.1.1"
-
-**2023-04-21** — merged PR [#137](https://github.com/ZacSweers/redacted-compiler-plugin/pull/137) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.1.1"
-
-**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-21** — commented on [#503](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/503#issuecomment-1518192466) in [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin)
-
-**2023-04-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-21** — merged PR [#652](https://github.com/ZacSweers/CatchUp/pull/652) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
