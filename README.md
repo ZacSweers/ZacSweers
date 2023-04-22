@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-22** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1518724583) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+**2023-04-22** — created tag `0.8.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-22** — commented on [#92](https://github.com/dropbox/dependency-guard/pull/92#issuecomment-1518723254) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+**2023-04-22** — opened PR [#653](https://github.com/ZacSweers/CatchUp/pull/653) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update SGP w/ logging"
 
-**2023-04-22** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-22** — created branch `z/testBuildServicesIssues` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-04-22** — deleted branch `renovate/tornado-6.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-04-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-22** — merged PR [#585](https://github.com/slackhq/circuit/pull/585) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency tornado to v6.3.1"
+**2023-04-22** — merged PR [#327](https://github.com/slackhq/slack-gradle-plugin/pull/327) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.20.0"
 
-**2023-04-22** — merged PR [#584](https://github.com/slackhq/circuit/pull/584) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.1.1"
+**2023-04-22** — reopened PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
 
-**2023-04-22** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-22** — closed PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
 
-**2023-04-22** — merged PR [#110](https://github.com/slackhq/compose-lints/pull/110) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.1.1"
+**2023-04-22** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-22** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-22** — merged PR [#321](https://github.com/slackhq/slack-gradle-plugin/pull/321) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0"
 
-**2023-04-22** — merged PR [#111](https://github.com/slackhq/compose-lints/pull/111) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.1"
+**2023-04-22** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
