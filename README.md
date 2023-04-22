@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-22** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1518724583) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
 **2023-04-22** — commented on [#92](https://github.com/dropbox/dependency-guard/pull/92#issuecomment-1518723254) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2023-04-22** — deleted branch `renovate/gradle-8.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-22** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-22** — merged PR [#111](https://github.com/slackhq/compose-lints/pull/111) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.1"
-
-**2023-04-22** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1518644993) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
