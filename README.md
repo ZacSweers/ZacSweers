@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-22** — created tag `0.8.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-22** — created tag `0.8.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-04-22** — created tag `0.8.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-22** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1518829076) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-22** — created branch `z/testBuildServicesIssues` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-22** — merged PR [#327](https://github.com/slackhq/slack-gradle-plugin/pull/327) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.20.0"
-
-**2023-04-22** — reopened PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
