@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-22** — created tag `0.8.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-22** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1518829076) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2023-04-22** — deleted branch `z/updateLayoutLib` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+
+**2023-04-22** — closed PR [#754](https://github.com/cashapp/paparazzi/pull/754) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Update layoutlib to Android Studio Flamingo"
+
 **2023-04-22** — created tag `0.8.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-22** — opened PR [#653](https://github.com/ZacSweers/CatchUp/pull/653) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update SGP w/ logging"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-22** — merged PR [#327](https://github.com/slackhq/slack-gradle-plugin/pull/327) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.20.0"
 
 **2023-04-22** — reopened PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
-
-**2023-04-22** — closed PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
-
-**2023-04-22** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-22** — merged PR [#321](https://github.com/slackhq/slack-gradle-plugin/pull/321) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.0"
-
-**2023-04-22** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
