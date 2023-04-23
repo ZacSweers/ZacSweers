@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-23** — commented on [#1499](https://github.com/square/kotlinpoet/pull/1499#issuecomment-1519191980) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-04-23** — deleted branch `renovate/termcolor-2.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-04-23** — merged PR [#1530](https://github.com/square/kotlinpoet/pull/1530) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency termcolor to v2.3.0"
+
 **2023-04-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-23** — merged PR [#654](https://github.com/ZacSweers/CatchUp/pull/654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.7"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-23** — created tag `0.8.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-23** — commented on [#583](https://github.com/slackhq/circuit/pull/583#issuecomment-1519105993) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-23** — opened issue [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "linkDebugFrameworkIosSimulatorArm64 failures with "Module ... has a reference to symbol ... CompositionLocalProvider ... Neither the module itself nor its dependencies contain such declaration.""
-
-**2023-04-23** — deleted branch `renovate/roborazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-23** — merged PR [#587](https://github.com/slackhq/circuit/pull/587) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update roborazzi to v1.1.0-rc-1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
