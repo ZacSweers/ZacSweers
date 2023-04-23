@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-23** — commented on [#1665](https://github.com/square/moshi/pull/1665#issuecomment-1518945029) in [square/moshi](https://github.com/square/moshi)
+**2023-04-23** — commented on [#583](https://github.com/slackhq/circuit/pull/583#issuecomment-1519105993) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-23** — closed PR [#1665](https://github.com/square/moshi/pull/1665) to [square/moshi](https://github.com/square/moshi): "DefaultConstructorMarker is now public"
+**2023-04-23** — opened issue [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "linkDebugFrameworkIosSimulatorArm64 failures with "Module ... has a reference to symbol ... CompositionLocalProvider ... Neither the module itself nor its dependencies contain such declaration.""
 
-**2023-04-23** — closed PR [#1545](https://github.com/square/moshi/pull/1545) to [square/moshi](https://github.com/square/moshi): "DefaultConstructorMarker is now public"
+**2023-04-23** — deleted branch `renovate/roborazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-23** — commented on [#1545](https://github.com/square/moshi/pull/1545#issuecomment-1518939952) in [square/moshi](https://github.com/square/moshi)
+**2023-04-23** — merged PR [#587](https://github.com/slackhq/circuit/pull/587) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update roborazzi to v1.1.0-rc-1"
 
-**2023-04-22** — closed PR [#1594](https://github.com/square/moshi/pull/1594) to [square/moshi](https://github.com/square/moshi): "Adding support for inline classes and unsigned integers"
+**2023-04-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-22** — closed PR [#1623](https://github.com/square/moshi/pull/1623) to [square/moshi](https://github.com/square/moshi): "fix PolymorphicJsonAdapterFactory with FallbackJsonAdapter deserialize empty object error."
+**2023-04-23** — merged PR [#586](https://github.com/slackhq/circuit/pull/586) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.7"
 
-**2023-04-22** — closed PR [#1650](https://github.com/square/moshi/pull/1650) to [square/moshi](https://github.com/square/moshi): "Allow PolymorphicJsonAdapterFactory's fallback adapter to handle case…"
+**2023-04-23** — opened PR [#588](https://github.com/slackhq/circuit/pull/588) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable auto-merge with merge queue"
 
-**2023-04-22** — commented on [#1650](https://github.com/square/moshi/pull/1650#issuecomment-1518916812) in [square/moshi](https://github.com/square/moshi)
+**2023-04-23** — created branch `z/automerge` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-04-22** — deleted branch `z/metadataReflect` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
+**2023-04-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-04-22** — closed PR [#1183](https://github.com/square/moshi/pull/1183) to [square/moshi](https://github.com/square/moshi): "Remove kotlin-reflect, replace with kotlinx-metadata-jvm"
+**2023-04-23** — merged PR [#112](https://github.com/slackhq/compose-lints/pull/112) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
