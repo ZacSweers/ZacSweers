@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-23** — closed PR [#1545](https://github.com/square/moshi/pull/1545) to [square/moshi](https://github.com/square/moshi): "DefaultConstructorMarker is now public"
+
+**2023-04-23** — commented on [#1545](https://github.com/square/moshi/pull/1545#issuecomment-1518939952) in [square/moshi](https://github.com/square/moshi)
+
 **2023-04-22** — closed PR [#1594](https://github.com/square/moshi/pull/1594) to [square/moshi](https://github.com/square/moshi): "Adding support for inline classes and unsigned integers"
 
 **2023-04-22** — closed PR [#1623](https://github.com/square/moshi/pull/1623) to [square/moshi](https://github.com/square/moshi): "fix PolymorphicJsonAdapterFactory with FallbackJsonAdapter deserialize empty object error."
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-22** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-1518915764) in [square/moshi](https://github.com/square/moshi)
 
 **2023-04-22** — closed PR [#773](https://github.com/square/moshi/pull/773) to [square/moshi](https://github.com/square/moshi): "Create Benchmarks Project"
-
-**2023-04-22** — commented on [#1545](https://github.com/square/moshi/pull/1545#issuecomment-1518915580) in [square/moshi](https://github.com/square/moshi)
-
-**2023-04-22** — closed PR [#1553](https://github.com/square/moshi/pull/1553) to [square/moshi](https://github.com/square/moshi): "Publish 1.14.0-SNAPSHOT from the 1.14 branch."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
