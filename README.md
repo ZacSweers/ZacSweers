@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-23** — merged PR [#654](https://github.com/ZacSweers/CatchUp/pull/654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.7"
+
 **2023-04-23** — deleted branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
 
 **2023-04-23** — closed PR [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Introduce Nexus.Logger abstraction for logging"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-23** — deleted branch `renovate/roborazzi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-23** — merged PR [#587](https://github.com/slackhq/circuit/pull/587) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update roborazzi to v1.1.0-rc-1"
-
-**2023-04-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-23** — merged PR [#586](https://github.com/slackhq/circuit/pull/586) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
