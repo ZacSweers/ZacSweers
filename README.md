@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-23** — commented on [#1665](https://github.com/square/moshi/pull/1665#issuecomment-1518945029) in [square/moshi](https://github.com/square/moshi)
+
+**2023-04-23** — closed PR [#1665](https://github.com/square/moshi/pull/1665) to [square/moshi](https://github.com/square/moshi): "DefaultConstructorMarker is now public"
+
 **2023-04-23** — closed PR [#1545](https://github.com/square/moshi/pull/1545) to [square/moshi](https://github.com/square/moshi): "DefaultConstructorMarker is now public"
 
 **2023-04-23** — commented on [#1545](https://github.com/square/moshi/pull/1545#issuecomment-1518939952) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-22** — deleted branch `z/metadataReflect` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
 
 **2023-04-22** — closed PR [#1183](https://github.com/square/moshi/pull/1183) to [square/moshi](https://github.com/square/moshi): "Remove kotlin-reflect, replace with kotlinx-metadata-jvm"
-
-**2023-04-22** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-1518915764) in [square/moshi](https://github.com/square/moshi)
-
-**2023-04-22** — closed PR [#773](https://github.com/square/moshi/pull/773) to [square/moshi](https://github.com/square/moshi): "Create Benchmarks Project"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
