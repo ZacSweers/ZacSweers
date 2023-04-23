@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-23** — deleted branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
+
+**2023-04-23** — closed PR [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Introduce Nexus.Logger abstraction for logging"
+
+**2023-04-23** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1519122473) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+**2023-04-23** — created tag `0.8.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-04-23** — commented on [#583](https://github.com/slackhq/circuit/pull/583#issuecomment-1519105993) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-23** — opened issue [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "linkDebugFrameworkIosSimulatorArm64 failures with "Module ... has a reference to symbol ... CompositionLocalProvider ... Neither the module itself nor its dependencies contain such declaration.""
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-23** — merged PR [#586](https://github.com/slackhq/circuit/pull/586) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.7"
-
-**2023-04-23** — opened PR [#588](https://github.com/slackhq/circuit/pull/588) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable auto-merge with merge queue"
-
-**2023-04-23** — created branch `z/automerge` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-23** — merged PR [#112](https://github.com/slackhq/compose-lints/pull/112) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
