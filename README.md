@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-22** — created tag `0.8.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — opened PR [#328](https://github.com/slackhq/slack-gradle-plugin/pull/328) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove moshi-kotlin and only use code gen"
 
-**2023-04-22** — created tag `0.8.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — created branch `z/removeKotlinReflect` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-22** — created tag `0.8.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — commented on [#1561](https://github.com/square/moshi/pull/1561#issuecomment-1518906111) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — commented on [#754](https://github.com/cashapp/paparazzi/pull/754#issuecomment-1518829076) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+**2023-04-22** — deleted branch `renovate/kotlincompiletesting` on [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — deleted branch `z/updateLayoutLib` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+**2023-04-22** — closed PR [#1639](https://github.com/square/moshi/pull/1639) to [square/moshi](https://github.com/square/moshi): "Update kotlinCompileTesting to v1.5.0"
 
-**2023-04-22** — closed PR [#754](https://github.com/cashapp/paparazzi/pull/754) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Update layoutlib to Android Studio Flamingo"
+**2023-04-22** — commented on [#1639](https://github.com/square/moshi/pull/1639#issuecomment-1518905743) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — created tag `0.8.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — opened PR [#653](https://github.com/ZacSweers/CatchUp/pull/653) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update SGP w/ logging"
+**2023-04-22** — closed PR [#1638](https://github.com/square/moshi/pull/1638) to [square/moshi](https://github.com/square/moshi): "Update plugin dokka to v1.8.10"
 
-**2023-04-22** — created branch `z/testBuildServicesIssues` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-04-22** — commented on [#1638](https://github.com/square/moshi/pull/1638#issuecomment-1518905704) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
