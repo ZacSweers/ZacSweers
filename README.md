@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-22** — opened PR [#328](https://github.com/slackhq/slack-gradle-plugin/pull/328) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove moshi-kotlin and only use code gen"
+**2023-04-22** — closed PR [#1594](https://github.com/square/moshi/pull/1594) to [square/moshi](https://github.com/square/moshi): "Adding support for inline classes and unsigned integers"
 
-**2023-04-22** — created branch `z/removeKotlinReflect` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-22** — closed PR [#1623](https://github.com/square/moshi/pull/1623) to [square/moshi](https://github.com/square/moshi): "fix PolymorphicJsonAdapterFactory with FallbackJsonAdapter deserialize empty object error."
 
-**2023-04-22** — commented on [#1561](https://github.com/square/moshi/pull/1561#issuecomment-1518906111) in [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — closed PR [#1650](https://github.com/square/moshi/pull/1650) to [square/moshi](https://github.com/square/moshi): "Allow PolymorphicJsonAdapterFactory's fallback adapter to handle case…"
 
-**2023-04-22** — deleted branch `renovate/kotlincompiletesting` on [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — commented on [#1650](https://github.com/square/moshi/pull/1650#issuecomment-1518916812) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — closed PR [#1639](https://github.com/square/moshi/pull/1639) to [square/moshi](https://github.com/square/moshi): "Update kotlinCompileTesting to v1.5.0"
+**2023-04-22** — deleted branch `z/metadataReflect` on [ZacSweers/moshi](https://github.com/ZacSweers/moshi)
 
-**2023-04-22** — commented on [#1639](https://github.com/square/moshi/pull/1639#issuecomment-1518905743) in [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — closed PR [#1183](https://github.com/square/moshi/pull/1183) to [square/moshi](https://github.com/square/moshi): "Remove kotlin-reflect, replace with kotlinx-metadata-jvm"
 
-**2023-04-22** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-1518915764) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — closed PR [#1638](https://github.com/square/moshi/pull/1638) to [square/moshi](https://github.com/square/moshi): "Update plugin dokka to v1.8.10"
+**2023-04-22** — closed PR [#773](https://github.com/square/moshi/pull/773) to [square/moshi](https://github.com/square/moshi): "Create Benchmarks Project"
 
-**2023-04-22** — commented on [#1638](https://github.com/square/moshi/pull/1638#issuecomment-1518905704) in [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — commented on [#1545](https://github.com/square/moshi/pull/1545#issuecomment-1518915580) in [square/moshi](https://github.com/square/moshi)
 
-**2023-04-22** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
+**2023-04-22** — closed PR [#1553](https://github.com/square/moshi/pull/1553) to [square/moshi](https://github.com/square/moshi): "Publish 1.14.0-SNAPSHOT from the 1.14 branch."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
