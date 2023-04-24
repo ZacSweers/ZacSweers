@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-24** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1520359978) in [google/dagger](https://github.com/google/dagger)
+
+**2023-04-24** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1520343890) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
+**2023-04-24** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1520341338) in [google/dagger](https://github.com/google/dagger)
+
 **2023-04-24** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1520283199) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
 
 **2023-04-23** — commented on [#1499](https://github.com/square/kotlinpoet/pull/1499#issuecomment-1519191980) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-23** — merged PR [#654](https://github.com/ZacSweers/CatchUp/pull/654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.7"
 
 **2023-04-23** — deleted branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
-
-**2023-04-23** — closed PR [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Introduce Nexus.Logger abstraction for logging"
-
-**2023-04-23** — commented on [#525](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/525#issuecomment-1519122473) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
-
-**2023-04-23** — created tag `0.8.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
