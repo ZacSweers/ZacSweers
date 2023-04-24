@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-24** — closed issue [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "`linkDebugFrameworkIosSimulatorArm64` failures with "Module ... has a reference to symbol ... CompositionLocalProvider ... Neither the module itself nor its dependencies contain such declaration.""
+
+**2023-04-24** — commented on [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088#issuecomment-1520610095) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
+**2023-04-24** — deleted branch `renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-24** — merged PR [#590](https://github.com/slackhq/circuit/pull/590) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.3.0"
+
+**2023-04-24** — merged PR [#589](https://github.com/slackhq/circuit/pull/589) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.autonomousapps.dependency-analysis to v1.20.0"
+
+**2023-04-24** — deleted branch `renovate/termcolor-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-24** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1520359978) in [google/dagger](https://github.com/google/dagger)
 
 **2023-04-24** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1520343890) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-24** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1520341338) in [google/dagger](https://github.com/google/dagger)
 
 **2023-04-24** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1520283199) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
-
-**2023-04-23** — commented on [#1499](https://github.com/square/kotlinpoet/pull/1499#issuecomment-1519191980) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-23** — deleted branch `renovate/termcolor-2.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-23** — merged PR [#1530](https://github.com/square/kotlinpoet/pull/1530) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency termcolor to v2.3.0"
-
-**2023-04-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-23** — merged PR [#654](https://github.com/ZacSweers/CatchUp/pull/654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.8.7"
-
-**2023-04-23** — deleted branch `z/betterProgress` on [ZacSweers/gradle-maven-publish-plugin](https://github.com/ZacSweers/gradle-maven-publish-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
