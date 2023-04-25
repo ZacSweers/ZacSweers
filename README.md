@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — deleted branch `z/wording` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-25** — merged PR [#582](https://github.com/slackhq/circuit/pull/582) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify circuit/screen wording"
+
+**2023-04-25** — merged PR [#588](https://github.com/slackhq/circuit/pull/588) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable auto-merge with merge queue"
+
+**2023-04-25** — deleted branch `z/automerge` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-25** — merged PR [#592](https://github.com/slackhq/circuit/pull/592) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.21"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — closed issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
 
 **2023-04-25** — commented on [#345](https://github.com/Kotlin/kotlinx-kover/issues/345#issuecomment-1522063047) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
-
-**2023-04-25** — closed issue [#1666](https://github.com/square/moshi/issues/1666) on [square/moshi](https://github.com/square/moshi): "Numbers are parsed as Double by default"
-
-**2023-04-25** — commented on [#1666](https://github.com/square/moshi/issues/1666#issuecomment-1521776706) in [square/moshi](https://github.com/square/moshi)
-
-**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-04-25** — merged PR [#38](https://github.com/ZacSweers/ZacSweers/pull/38) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
