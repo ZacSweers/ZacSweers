@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — deleted branch `z/noPlatformKover` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — merged PR [#331](https://github.com/slackhq/slack-gradle-plugin/pull/331) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable kover on the platform project"
+
+**2023-04-25** — opened PR [#331](https://github.com/slackhq/slack-gradle-plugin/pull/331) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable kover on the platform project"
+
+**2023-04-25** — created branch `z/noPlatformKover` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — deleted branch `test-renovate/major-bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — merged PR [#330](https://github.com/slackhq/slack-gradle-plugin/pull/330) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8"
+
 **2023-04-25** — deleted branch `z/wording` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-04-25** — merged PR [#582](https://github.com/slackhq/circuit/pull/582) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify circuit/screen wording"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — merged PR [#588](https://github.com/slackhq/circuit/pull/588) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable auto-merge with merge queue"
 
 **2023-04-25** — deleted branch `z/automerge` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-25** — merged PR [#592](https://github.com/slackhq/circuit/pull/592) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.21"
-
-**2023-04-25** — merged PR [#591](https://github.com/slackhq/circuit/pull/591) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.8"
-
-**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-25** — closed issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
-
-**2023-04-25** — commented on [#345](https://github.com/Kotlin/kotlinx-kover/issues/345#issuecomment-1522063047) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
