@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-04-25** — merged PR [#592](https://github.com/slackhq/circuit/pull/592) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.21"
+
+**2023-04-25** — merged PR [#591](https://github.com/slackhq/circuit/pull/591) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.1.8"
+
+**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-04-25** — closed issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
 
 **2023-04-25** — commented on [#345](https://github.com/Kotlin/kotlinx-kover/issues/345#issuecomment-1522063047) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-04-25** — merged PR [#38](https://github.com/ZacSweers/ZacSweers/pull/38) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.21"
-
-**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-25** — merged PR [#138](https://github.com/ZacSweers/redacted-compiler-plugin/pull/138) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.21"
-
-**2023-04-24** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-24** — merged PR [#1531](https://github.com/square/kotlinpoet/pull/1531) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.1.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
