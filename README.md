@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — closed issue [#345](https://github.com/Kotlin/kotlinx-kover/issues/345) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "0.7.0 feedback: The new DSL is too difficult to configure at a global/convention level"
+
+**2023-04-25** — commented on [#345](https://github.com/Kotlin/kotlinx-kover/issues/345#issuecomment-1522063047) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
+
 **2023-04-25** — closed issue [#1666](https://github.com/square/moshi/issues/1666) on [square/moshi](https://github.com/square/moshi): "Numbers are parsed as Double by default"
 
 **2023-04-25** — commented on [#1666](https://github.com/square/moshi/issues/1666#issuecomment-1521776706) in [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-24** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-04-24** — merged PR [#1531](https://github.com/square/kotlinpoet/pull/1531) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.1.8"
-
-**2023-04-24** — deleted branch `renovate/org.gradle.toolchains.foojay-resolver-convention-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-24** — merged PR [#1532](https://github.com/square/kotlinpoet/pull/1532) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin org.gradle.toolchains.foojay-resolver-convention to v0.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
