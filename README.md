@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — merged PR [#329](https://github.com/slackhq/slack-gradle-plugin/pull/329) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.21"
+
+**2023-04-25** — deleted branch `z/removeKotlinReflect` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — merged PR [#328](https://github.com/slackhq/slack-gradle-plugin/pull/328) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove moshi-kotlin and only use code gen"
+
+**2023-04-25** — deleted branch `z/kotlin1820` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-25** — merged PR [#248](https://github.com/slackhq/slack-gradle-plugin/pull/248) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.8.20"
+
 **2023-04-25** — deleted branch `z/noPlatformKover` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-25** — merged PR [#331](https://github.com/slackhq/slack-gradle-plugin/pull/331) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable kover on the platform project"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — opened PR [#331](https://github.com/slackhq/slack-gradle-plugin/pull/331) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable kover on the platform project"
 
 **2023-04-25** — created branch `z/noPlatformKover` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-25** — deleted branch `test-renovate/major-bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-25** — merged PR [#330](https://github.com/slackhq/slack-gradle-plugin/pull/330) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8"
-
-**2023-04-25** — deleted branch `z/wording` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-25** — merged PR [#582](https://github.com/slackhq/circuit/pull/582) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify circuit/screen wording"
-
-**2023-04-25** — merged PR [#588](https://github.com/slackhq/circuit/pull/588) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable auto-merge with merge queue"
-
-**2023-04-25** — deleted branch `z/automerge` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
