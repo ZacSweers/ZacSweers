@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-25** — closed issue [#1666](https://github.com/square/moshi/issues/1666) on [square/moshi](https://github.com/square/moshi): "Numbers are parsed as Double by default"
+
+**2023-04-25** — commented on [#1666](https://github.com/square/moshi/issues/1666#issuecomment-1521776706) in [square/moshi](https://github.com/square/moshi)
+
+**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-04-25** — merged PR [#38](https://github.com/ZacSweers/ZacSweers/pull/38) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.8.21"
+
+**2023-04-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-04-25** — merged PR [#138](https://github.com/ZacSweers/redacted-compiler-plugin/pull/138) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.21"
+
 **2023-04-24** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-04-24** — merged PR [#1531](https://github.com/square/kotlinpoet/pull/1531) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.1.8"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-24** — deleted branch `renovate/org.gradle.toolchains.foojay-resolver-convention-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-04-24** — merged PR [#1532](https://github.com/square/kotlinpoet/pull/1532) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin org.gradle.toolchains.foojay-resolver-convention to v0.5.0"
-
-**2023-04-24** — deleted branch `renovate/termcolor-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-24** — merged PR [#113](https://github.com/slackhq/compose-lints/pull/113) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency termcolor to v2.3.0"
-
-**2023-04-24** — closed issue [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "`linkDebugFrameworkIosSimulatorArm64` failures with "Module ... has a reference to symbol ... CompositionLocalProvider ... Neither the module itself nor its dependencies contain such declaration.""
-
-**2023-04-24** — commented on [#3088](https://github.com/JetBrains/compose-multiplatform/issues/3088#issuecomment-1520610095) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-
-**2023-04-24** — deleted branch `renovate/dependencyanalysisplugin` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-04-24** — merged PR [#590](https://github.com/slackhq/circuit/pull/590) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency termcolor to v2.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
