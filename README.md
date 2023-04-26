@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-26** — deleted branch `z/gradefulExtensionFailure` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-26** — merged PR [#332](https://github.com/slackhq/slack-gradle-plugin/pull/332) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully handle extensions that fail to load"
+
 **2023-04-26** — opened issue [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Performance Characteristics only report "unknown""
 
 **2023-04-25** — opened PR [#332](https://github.com/slackhq/slack-gradle-plugin/pull/332) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully handle extensions that fail to load"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — created tag `0.8.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-25** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-25** — merged PR [#329](https://github.com/slackhq/slack-gradle-plugin/pull/329) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.21"
-
-**2023-04-25** — deleted branch `z/removeKotlinReflect` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
