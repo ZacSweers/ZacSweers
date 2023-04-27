@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-27** — opened issue [#522](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/522) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "8.0.0 tries to read the Gradle version but version parser doesn't handle gradle nightly versions"
+
 **2023-04-27** — commented on [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169#issuecomment-1525760730) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
 
 **2023-04-26** — opened PR [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169) to [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Add Buildkite metadata/links to scans"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-25** — commented on [#97](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/97#issuecomment-1522676122) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
 
 **2023-04-25** — created branch `z/gradefulExtensionFailure` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-25** — created tag `0.8.10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
