@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-27** — opened issue [#522](https://github.com/bugsnag/bugsnag-android-gradle-plugin/issues/522) on [bugsnag/bugsnag-android-gradle-plugin](https://github.com/bugsnag/bugsnag-android-gradle-plugin): "8.0.0 tries to read the Gradle version but version parser doesn't handle gradle nightly versions"
+**2023-04-27** — deleted branch `z/fixArgsInGenerics` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2023-04-27** — commented on [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169#issuecomment-1525760730) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
+**2023-04-27** — closed issue [#1513](https://github.com/square/kotlinpoet/issues/1513) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName function returns ClassName for alias type instead of ParameterizedTypeName"
 
-**2023-04-26** — opened PR [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169) to [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Add Buildkite metadata/links to scans"
+**2023-04-27** — merged PR [#1529](https://github.com/square/kotlinpoet/pull/1529) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix arguments handling in KSType.toTypeName()"
 
-**2023-04-26** — created branch `z/buildkite` on [ZacSweers/common-custom-user-data-gradle-plugin](https://github.com/ZacSweers/common-custom-user-data-gradle-plugin)
+**2023-04-27** — merged PR [#136](https://github.com/ZacSweers/redacted-compiler-plugin/pull/136) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.1"
 
-**2023-04-26** — deleted branch `z/gradefulExtensionFailure` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-27** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-04-26** — merged PR [#332](https://github.com/slackhq/slack-gradle-plugin/pull/332) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully handle extensions that fail to load"
+**2023-04-27** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-04-26** — opened issue [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Performance Characteristics only report "unknown""
+**2023-04-27** — merged PR [#417](https://github.com/ZacSweers/MoshiX/pull/417) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.1"
 
-**2023-04-25** — opened PR [#332](https://github.com/slackhq/slack-gradle-plugin/pull/332) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Gracefully handle extensions that fail to load"
+**2023-04-27** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-04-25** — commented on [#97](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/97#issuecomment-1522676122) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
+**2023-04-27** — merged PR [#416](https://github.com/ZacSweers/MoshiX/pull/416) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.21-1.0.11"
 
-**2023-04-25** — created branch `z/gradefulExtensionFailure` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-27** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
