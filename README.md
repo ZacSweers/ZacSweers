@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-27** — opened issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP"
+
+**2023-04-27** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1526536765) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
+**2023-04-27** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1526497505) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
+**2023-04-27** — commented on [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419#issuecomment-1526451824) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-04-27** — opened issue [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Feature request: add a mechanism for authenticated git clones"
 
 **2023-04-27** — closed issue [#273](https://github.com/slackhq/slack-gradle-plugin/issues/273) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't try to capture thermals if JNA throws an exception"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-27** — merged PR [#1529](https://github.com/square/kotlinpoet/pull/1529) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix arguments handling in KSType.toTypeName()"
 
 **2023-04-27** — merged PR [#136](https://github.com/ZacSweers/redacted-compiler-plugin/pull/136) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.1"
-
-**2023-04-27** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-04-27** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-04-27** — merged PR [#417](https://github.com/ZacSweers/MoshiX/pull/417) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.1"
-
-**2023-04-27** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
