@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-27** — opened PR [#336](https://github.com/slackhq/slack-gradle-plugin/pull/336) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add debugging for slacktools extension loading + fix classloader"
+
+**2023-04-27** — opened PR [#335](https://github.com/slackhq/slack-gradle-plugin/pull/335) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support dagger KSP"
+
+**2023-04-27** — created branch `z/toolsLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-27** — created branch `z/daggerKsp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-27** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-27** — closed issue [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Performance Characteristics only report "unknown""
+
+**2023-04-27** — commented on [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419#issuecomment-1526824097) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-04-27** — opened issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
 
 **2023-04-27** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-1526567512) in [square/anvil](https://github.com/square/anvil)
 
 **2023-04-27** — opened issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP"
-
-**2023-04-27** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1526536765) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
-
-**2023-04-27** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1526497505) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
-
-**2023-04-27** — commented on [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419#issuecomment-1526451824) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
-
-**2023-04-27** — opened issue [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Feature request: add a mechanism for authenticated git clones"
-
-**2023-04-27** — closed issue [#273](https://github.com/slackhq/slack-gradle-plugin/issues/273) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't try to capture thermals if JNA throws an exception"
-
-**2023-04-27** — deleted branch `z/fixArgsInGenerics` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-04-27** — closed issue [#1513](https://github.com/square/kotlinpoet/issues/1513) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName function returns ClassName for alias type instead of ParameterizedTypeName"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
