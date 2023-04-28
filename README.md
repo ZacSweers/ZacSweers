@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-28** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.3.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-04-28** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-28** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.14.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-04-28** — merged PR [#29](https://github.com/slackhq/auto-value-kotlin/pull/29) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.10.1 to 1.13.0"
 
-**2023-04-28** — deleted branch `dependabot/gradle/com.google.testing.compile-compile-testing-0.21.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-28** — merged PR [#30](https://github.com/slackhq/auto-value-kotlin/pull/30) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.12.0 to 1.14.0"
+**2023-04-28** — merged PR [#21](https://github.com/slackhq/auto-value-kotlin/pull/21) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.18.0 to 0.25.2"
 
-**2023-04-28** — merged PR [#23](https://github.com/slackhq/auto-value-kotlin/pull/23) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.testing.compile:compile-testing from 0.19 to 0.21.0"
+**2023-04-28** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.18.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-28** — merged PR [#24](https://github.com/slackhq/auto-value-kotlin/pull/24) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.0.0 to 3.3.0"
+**2023-04-28** — merged PR [#22](https://github.com/slackhq/auto-value-kotlin/pull/22) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.diffplug.spotless from 6.0.0 to 6.18.0"
 
-**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
-**2023-04-28** — merged PR [#41](https://github.com/slackhq/slack-lints/pull/41) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.23.2 to 0.25.2"
+**2023-04-28** — merged PR [#42](https://github.com/slackhq/moshi-gson-interop/pull/42) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.17.0 to 0.25.2"
 
-**2023-04-28** — deleted branch `dependabot/gradle/jvm-1.8.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-04-28** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-28** — merged PR [#37](https://github.com/slackhq/moshi-gson-interop/pull/37) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.5.31 to 1.8.21"
+**2023-04-28** — merged PR [#28](https://github.com/slackhq/auto-value-kotlin/pull/28) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.8.2 to 1.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
