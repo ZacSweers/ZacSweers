@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-27** — opened PR [#336](https://github.com/slackhq/slack-gradle-plugin/pull/336) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add debugging for slacktools extension loading + fix classloader"
+**2023-04-28** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.3.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-27** — opened PR [#335](https://github.com/slackhq/slack-gradle-plugin/pull/335) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support dagger KSP"
+**2023-04-28** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.14.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-27** — created branch `z/toolsLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-28** — deleted branch `dependabot/gradle/com.google.testing.compile-compile-testing-0.21.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-04-27** — created branch `z/daggerKsp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-28** — merged PR [#30](https://github.com/slackhq/auto-value-kotlin/pull/30) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.12.0 to 1.14.0"
 
-**2023-04-27** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-04-28** — merged PR [#23](https://github.com/slackhq/auto-value-kotlin/pull/23) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.testing.compile:compile-testing from 0.19 to 0.21.0"
 
-**2023-04-27** — closed issue [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "Performance Characteristics only report "unknown""
+**2023-04-28** — merged PR [#24](https://github.com/slackhq/auto-value-kotlin/pull/24) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.0.0 to 3.3.0"
 
-**2023-04-27** — commented on [#419](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/419#issuecomment-1526824097) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-04-27** — opened issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
+**2023-04-28** — merged PR [#41](https://github.com/slackhq/slack-lints/pull/41) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.23.2 to 0.25.2"
 
-**2023-04-27** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-1526567512) in [square/anvil](https://github.com/square/anvil)
+**2023-04-28** — deleted branch `dependabot/gradle/jvm-1.8.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
-**2023-04-27** — opened issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP"
+**2023-04-28** — merged PR [#37](https://github.com/slackhq/moshi-gson-interop/pull/37) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.5.31 to 1.8.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
