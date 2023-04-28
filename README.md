@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-28** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-28** — merged PR [#114](https://github.com/slackhq/compose-lints/pull/114) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.8"
+
+**2023-04-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-28** — merged PR [#115](https://github.com/slackhq/compose-lints/pull/115) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.21-1.0.11"
+
 **2023-04-28** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-04-28** — merged PR [#663](https://github.com/ZacSweers/CatchUp/pull/663) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.13.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-04-28** — merged PR [#21](https://github.com/slackhq/auto-value-kotlin/pull/21) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.18.0 to 0.25.2"
-
-**2023-04-28** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.18.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-04-28** — merged PR [#22](https://github.com/slackhq/auto-value-kotlin/pull/22) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.diffplug.spotless from 6.0.0 to 6.18.0"
-
-**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-04-28** — merged PR [#42](https://github.com/slackhq/moshi-gson-interop/pull/42) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.17.0 to 0.25.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
