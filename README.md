@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-28** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-04-28** — merged PR [#663](https://github.com/ZacSweers/CatchUp/pull/663) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.13.1"
+
 **2023-04-28** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-04-28** — merged PR [#29](https://github.com/slackhq/auto-value-kotlin/pull/29) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.10.1 to 1.13.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-04-28** — merged PR [#42](https://github.com/slackhq/moshi-gson-interop/pull/42) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.17.0 to 0.25.2"
-
-**2023-04-28** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-04-28** — merged PR [#28](https://github.com/slackhq/auto-value-kotlin/pull/28) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.8.2 to 1.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
