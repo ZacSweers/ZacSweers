@@ -4,21 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-28** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-04-28** — merged PR [#109](https://github.com/slackhq/compose-lints/pull/109) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.x alphas"
+
+**2023-04-28** — merged PR [#1534](https://github.com/square/kotlinpoet/pull/1534) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName fixed to work with aliased types"
+
 **2023-04-28** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-28** — merged PR [#114](https://github.com/slackhq/compose-lints/pull/114) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.8"
 
 **2023-04-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-28** — merged PR [#115](https://github.com/slackhq/compose-lints/pull/115) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.21-1.0.11"
-
-**2023-04-28** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-04-28** — merged PR [#663](https://github.com/ZacSweers/CatchUp/pull/663) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.13.1"
-
-**2023-04-28** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-04-28** — merged PR [#29](https://github.com/slackhq/auto-value-kotlin/pull/29) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.10.1 to 1.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
