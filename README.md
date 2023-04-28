@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-28** — opened issue [#340](https://github.com/slackhq/slack-gradle-plugin/issues/340) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
+
 **2023-04-28** — closed issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
 
 **2023-04-28** — merged PR [#335](https://github.com/slackhq/slack-gradle-plugin/pull/335) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support dagger KSP"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-04-28** — merged PR [#337](https://github.com/slackhq/slack-gradle-plugin/pull/337) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.8.21-1.0.11"
-
-**2023-04-28** — opened PR [#339](https://github.com/slackhq/slack-gradle-plugin/pull/339) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update from `useK2` to new approach for K2 testing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
