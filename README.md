@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-04-28** — merged PR [#29](https://github.com/slackhq/auto-value-kotlin/pull/29) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.10.1 to 1.13.0"
-
-**2023-04-28** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-04-28** — merged PR [#21](https://github.com/slackhq/auto-value-kotlin/pull/21) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.18.0 to 0.25.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
