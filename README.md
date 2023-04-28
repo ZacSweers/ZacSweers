@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-28** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1527970516) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
 **2023-04-28** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-04-28** — merged PR [#109](https://github.com/slackhq/compose-lints/pull/109) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.x alphas"
@@ -11,8 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — merged PR [#1534](https://github.com/square/kotlinpoet/pull/1534) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName fixed to work with aliased types"
 
 **2023-04-28** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-04-28** — merged PR [#114](https://github.com/slackhq/compose-lints/pull/114) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
