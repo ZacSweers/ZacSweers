@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-27** — opened issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
+
+**2023-04-27** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-1526567512) in [square/anvil](https://github.com/square/anvil)
+
 **2023-04-27** — opened issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP"
 
 **2023-04-27** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1526536765) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-27** — deleted branch `z/fixArgsInGenerics` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-04-27** — closed issue [#1513](https://github.com/square/kotlinpoet/issues/1513) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName function returns ClassName for alias type instead of ParameterizedTypeName"
-
-**2023-04-27** — merged PR [#1529](https://github.com/square/kotlinpoet/pull/1529) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix arguments handling in KSType.toTypeName()"
-
-**2023-04-27** — merged PR [#136](https://github.com/ZacSweers/redacted-compiler-plugin/pull/136) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
