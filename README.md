@@ -4,15 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-28** — commented on [#1084](https://github.com/Triple-T/gradle-play-publisher/pull/1084#issuecomment-1527970516) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+**2023-04-28** — closed issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
 
-**2023-04-28** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-28** — merged PR [#335](https://github.com/slackhq/slack-gradle-plugin/pull/335) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support dagger KSP"
 
-**2023-04-28** — merged PR [#109](https://github.com/slackhq/compose-lints/pull/109) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.x alphas"
+**2023-04-28** — deleted branch `z/daggerKsp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-28** — merged PR [#1534](https://github.com/square/kotlinpoet/pull/1534) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSType.toTypeName fixed to work with aliased types"
+**2023-04-28** — deleted branch `z/toolsLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-04-28** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-04-28** — merged PR [#336](https://github.com/slackhq/slack-gradle-plugin/pull/336) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add debugging for slacktools extension loading + fix classloader"
+
+**2023-04-28** — deleted branch `z/k2Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-28** — merged PR [#339](https://github.com/slackhq/slack-gradle-plugin/pull/339) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update from `useK2` to new approach for K2 testing"
+
+**2023-04-28** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-28** — merged PR [#337](https://github.com/slackhq/slack-gradle-plugin/pull/337) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.8.21-1.0.11"
+
+**2023-04-28** — opened PR [#339](https://github.com/slackhq/slack-gradle-plugin/pull/339) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update from `useK2` to new approach for K2 testing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
