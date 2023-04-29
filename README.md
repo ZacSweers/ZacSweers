@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-29** — commented on [#1194](https://github.com/diffplug/spotless/issues/1194#issuecomment-1528644487) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2023-04-28** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.44` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-04-28** — merged PR [#49](https://github.com/slackhq/slack-lints/pull/49) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.facebook:ktfmt from 0.43 to 0.44"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — merged PR [#336](https://github.com/slackhq/slack-gradle-plugin/pull/336) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add debugging for slacktools extension loading + fix classloader"
 
 **2023-04-28** — deleted branch `z/k2Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-28** — merged PR [#339](https://github.com/slackhq/slack-gradle-plugin/pull/339) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update from `useK2` to new approach for K2 testing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
