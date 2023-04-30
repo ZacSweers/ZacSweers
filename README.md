@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-30** — deleted branch `test-renovate/ktfmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-30** — merged PR [#341](https://github.com/slackhq/slack-gradle-plugin/pull/341) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.facebook:ktfmt to v0.44"
+
+**2023-04-30** — closed issue [#340](https://github.com/slackhq/slack-gradle-plugin/issues/340) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
+
+**2023-04-30** — deleted branch `z/skippyDiagnostiocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-04-30** — merged PR [#338](https://github.com/slackhq/slack-gradle-plugin/pull/338) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
+
 **2023-04-29** — commented on [#1194](https://github.com/diffplug/spotless/issues/1194#issuecomment-1528644487) in [diffplug/spotless](https://github.com/diffplug/spotless)
 
 **2023-04-28** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.44` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -11,18 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-28** — merged PR [#49](https://github.com/slackhq/slack-lints/pull/49) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.facebook:ktfmt from 0.43 to 0.44"
 
 **2023-04-28** — opened issue [#340](https://github.com/slackhq/slack-gradle-plugin/issues/340) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
-
-**2023-04-28** — closed issue [#334](https://github.com/slackhq/slack-gradle-plugin/issues/334) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support Dagger KSP in dagger() extensions"
-
-**2023-04-28** — merged PR [#335](https://github.com/slackhq/slack-gradle-plugin/pull/335) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Support dagger KSP"
-
-**2023-04-28** — deleted branch `z/daggerKsp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-28** — deleted branch `z/toolsLogging` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-28** — merged PR [#336](https://github.com/slackhq/slack-gradle-plugin/pull/336) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add debugging for slacktools extension loading + fix classloader"
-
-**2023-04-28** — deleted branch `z/k2Prep` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
