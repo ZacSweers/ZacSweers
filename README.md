@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-04-30** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-04-30** — merged PR [#31](https://github.com/slackhq/auto-value-kotlin/pull/31) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.18.1 to 1.22.0"
+
 **2023-04-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.8.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-04-30** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-30** — merged PR [#341](https://github.com/slackhq/slack-gradle-plugin/pull/341) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.facebook:ktfmt to v0.44"
 
 **2023-04-30** — closed issue [#340](https://github.com/slackhq/slack-gradle-plugin/issues/340) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
-
-**2023-04-30** — deleted branch `z/skippyDiagnostiocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-30** — merged PR [#338](https://github.com/slackhq/slack-gradle-plugin/pull/338) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add extra skippy diagnostics to SlackTools"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
