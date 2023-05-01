@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-01** — commented on [#1527](https://github.com/square/moshi/pull/1527#issuecomment-1530142809) in [square/moshi](https://github.com/square/moshi)
+
 **2023-05-01** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-01** — merged PR [#666](https://github.com/ZacSweers/CatchUp/pull/666) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-30** — merged PR [#32](https://github.com/slackhq/auto-value-kotlin/pull/32) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.13.0 to 1.13.1"
 
 **2023-04-30** — created tag `0.9.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-04-30** — deleted branch `test-renovate/ktfmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
