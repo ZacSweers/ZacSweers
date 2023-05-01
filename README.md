@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-01** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1530193557) in [google/dagger](https://github.com/google/dagger)
+
 **2023-05-01** — commented on [#1527](https://github.com/square/moshi/pull/1527#issuecomment-1530142809) in [square/moshi](https://github.com/square/moshi)
 
 **2023-05-01** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-30** — merged PR [#33](https://github.com/slackhq/auto-value-kotlin/pull/33) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.5.31 to 1.8.21"
 
 **2023-04-30** — merged PR [#32](https://github.com/slackhq/auto-value-kotlin/pull/32) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.13.0 to 1.13.1"
-
-**2023-04-30** — created tag `0.9.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
