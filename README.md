@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-02** — merged PR [#1527](https://github.com/square/moshi/pull/1527) to [square/moshi](https://github.com/square/moshi): "KSP error messaging: Include name of the type being processed when creating the adapterGenerator fails"
+
 **2023-05-01** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-05-01** — merged PR [#116](https://github.com/slackhq/compose-lints/pull/116) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.44"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-04-30** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-04-30** — merged PR [#31](https://github.com/slackhq/auto-value-kotlin/pull/31) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.18.1 to 1.22.0"
-
-**2023-04-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.8.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
