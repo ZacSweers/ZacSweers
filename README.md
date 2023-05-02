@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-02** — commented on [#1513](https://github.com/square/kotlinpoet/issues/1513#issuecomment-1531545973) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-05-02** — merged PR [#1527](https://github.com/square/moshi/pull/1527) to [square/moshi](https://github.com/square/moshi): "KSP error messaging: Include name of the type being processed when creating the adapterGenerator fails"
 
 **2023-05-01** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-01** — merged PR [#666](https://github.com/ZacSweers/CatchUp/pull/666) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.0"
 
 **2023-04-30** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-04-30** — merged PR [#31](https://github.com/slackhq/auto-value-kotlin/pull/31) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.18.1 to 1.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
