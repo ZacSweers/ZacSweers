@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-02** — deleted branch `renovate/org.jsoup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-02** — merged PR [#665](https://github.com/ZacSweers/CatchUp/pull/665) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.16.1"
+
+**2023-05-02** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-02** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-02** — merged PR [#669](https://github.com/ZacSweers/CatchUp/pull/669) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha02"
+
+**2023-05-02** — deleted branch `renovate/com.bugsnag.android.gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-02** — merged PR [#668](https://github.com/ZacSweers/CatchUp/pull/668) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin bugsnag to v8.0.1"
+
+**2023-05-02** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-02** — closed PR [#664](https://github.com/ZacSweers/CatchUp/pull/664) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.46"
+
 **2023-05-02** — commented on [#1513](https://github.com/square/kotlinpoet/issues/1513#issuecomment-1531545973) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-02** — merged PR [#1527](https://github.com/square/moshi/pull/1527) to [square/moshi](https://github.com/square/moshi): "KSP error messaging: Include name of the type being processed when creating the adapterGenerator fails"
-
-**2023-05-01** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-05-01** — merged PR [#116](https://github.com/slackhq/compose-lints/pull/116) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.44"
-
-**2023-05-01** — commented on [#60](https://github.com/slackhq/compose-lints/issues/60#issuecomment-1530810838) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-05-01** — commented on [#3701](https://github.com/google/dagger/issues/3701#issuecomment-1530193557) in [google/dagger](https://github.com/google/dagger)
-
-**2023-05-01** — commented on [#1527](https://github.com/square/moshi/pull/1527#issuecomment-1530142809) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-01** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-01** — merged PR [#666](https://github.com/ZacSweers/CatchUp/pull/666) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.0"
-
-**2023-04-30** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
