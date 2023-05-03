@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-05-03** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-03** — deleted branch `renovate/mkdocs-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-05-03** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-03** — merged PR [#120](https://github.com/slackhq/compose-lints/pull/120) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.9"
+**2023-05-03** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-03** — merged PR [#119](https://github.com/slackhq/compose-lints/pull/119) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs to v1.4.3"
+**2023-05-03** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-02** — deleted branch `renovate/org.jsoup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-03** — merged PR [#342](https://github.com/slackhq/slack-gradle-plugin/pull/342) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8.0.1"
 
-**2023-05-02** — merged PR [#665](https://github.com/ZacSweers/CatchUp/pull/665) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.16.1"
+**2023-05-03** — merged PR [#345](https://github.com/slackhq/slack-gradle-plugin/pull/345) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8.0.1"
 
-**2023-05-02** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-03** — merged PR [#343](https://github.com/slackhq/slack-gradle-plugin/pull/343) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.0.1"
 
-**2023-05-02** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-03** — merged PR [#344](https://github.com/slackhq/slack-gradle-plugin/pull/344) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools:common to v31.0.1"
 
-**2023-05-02** — merged PR [#669](https://github.com/ZacSweers/CatchUp/pull/669) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha02"
+**2023-05-03** — opened PR [#346](https://github.com/slackhq/slack-gradle-plugin/pull/346) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set vendor + simplify toolchain setup"
 
-**2023-05-02** — deleted branch `renovate/com.bugsnag.android.gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-03** — created branch `z/vendorRequirements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
