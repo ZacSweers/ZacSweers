@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-03** — deleted branch `z/vendorRequirements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-03** — merged PR [#346](https://github.com/slackhq/slack-gradle-plugin/pull/346) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set vendor + simplify toolchain setup"
+
 **2023-05-03** — deleted branch `z/moreImageViewerStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-03** — merged PR [#576](https://github.com/ZacSweers/CatchUp/pull/576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use telephoto for image viewer"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-03** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-03** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-03** — merged PR [#342](https://github.com/slackhq/slack-gradle-plugin/pull/342) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8.0.1"
-
-**2023-05-03** — merged PR [#345](https://github.com/slackhq/slack-gradle-plugin/pull/345) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
