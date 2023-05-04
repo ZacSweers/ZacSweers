@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-04** — created tag `0.9.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-04** — deleted branch `test-renovate/org.jgrapht` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-04** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-04** — merged PR [#347](https://github.com/slackhq/slack-gradle-plugin/pull/347) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.2"
+
+**2023-05-04** — merged PR [#348](https://github.com/slackhq/slack-gradle-plugin/pull/348) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jgrapht:jgrapht-core to v1.5.2"
+
+**2023-05-04** — deleted branch `z/koverWorkaround` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-04** — merged PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
+
+**2023-05-04** — opened PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
+
+**2023-05-04** — created branch `z/koverWorkaround` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-04** — commented on [#362](https://github.com/Kotlin/kotlinx-kover/issues/362#issuecomment-1535305321) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
-
-**2023-05-04** — opened issue [#362](https://github.com/Kotlin/kotlinx-kover/issues/362) on [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover): "applicationVariants/libraryVariants are eagerly evaluated and result in missed test data"
-
-**2023-05-04** — commented on [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169#issuecomment-1535047421) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
-
-**2023-05-03** — deleted branch `z/vendorRequirements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-03** — merged PR [#346](https://github.com/slackhq/slack-gradle-plugin/pull/346) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set vendor + simplify toolchain setup"
-
-**2023-05-03** — deleted branch `z/moreImageViewerStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-03** — merged PR [#576](https://github.com/ZacSweers/CatchUp/pull/576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use telephoto for image viewer"
-
-**2023-05-03** — merged PR [#470](https://github.com/ZacSweers/CatchUp/pull/470) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.8.21"
-
-**2023-05-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-03** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
