@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-05** — closed issue [#122](https://github.com/slackhq/keeper/issues/122) on [slackhq/keeper](https://github.com/slackhq/keeper): "Task `...AndroidTestClassesForKeeper` uses output of task `...testFixturesJar` without delcaring an explicit dependency"
+
+**2023-05-05** — commented on [#122](https://github.com/slackhq/keeper/issues/122#issuecomment-1536705803) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-05-05** — created tag `0.9.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-05** — created tag `0.9.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-04** — merged PR [#348](https://github.com/slackhq/slack-gradle-plugin/pull/348) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jgrapht:jgrapht-core to v1.5.2"
 
 **2023-05-04** — deleted branch `z/koverWorkaround` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-04** — merged PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
-
-**2023-05-04** — opened PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
