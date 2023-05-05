@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-05** — created tag `0.9.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-05** — created tag `0.9.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-04** — created tag `0.9.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-04** — deleted branch `test-renovate/org.jgrapht` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-04** — merged PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
 
 **2023-05-04** — opened PR [#349](https://github.com/slackhq/slack-gradle-plugin/pull/349) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around kover bug"
-
-**2023-05-04** — created branch `z/koverWorkaround` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-04** — commented on [#362](https://github.com/Kotlin/kotlinx-kover/issues/362#issuecomment-1535305321) in [Kotlin/kotlinx-kover](https://github.com/Kotlin/kotlinx-kover)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
