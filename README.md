@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-05** — closed issue [#122](https://github.com/slackhq/keeper/issues/122) on [slackhq/keeper](https://github.com/slackhq/keeper): "Task `...AndroidTestClassesForKeeper` uses output of task `...testFixturesJar` without delcaring an explicit dependency"
+**2023-05-05** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
 
-**2023-05-05** — commented on [#122](https://github.com/slackhq/keeper/issues/122#issuecomment-1536705803) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-05-05** — merged PR [#1635](https://github.com/square/moshi/pull/1635) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenShadow to v8.1.1"
 
-**2023-05-05** — created tag `0.9.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — merged PR [#1542](https://github.com/square/moshi/pull/1542) to [square/moshi](https://github.com/square/moshi): "Make class instances with type parameter info equal to equivalent parameterized types."
 
-**2023-05-05** — created tag `0.9.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — closed issue [#1670](https://github.com/square/moshi/issues/1670) on [square/moshi](https://github.com/square/moshi): "Build failing on kotlin 1.8.21 targeting kotlin 1.9 language version"
 
-**2023-05-04** — created tag `0.9.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — commented on [#1670](https://github.com/square/moshi/issues/1670#issuecomment-1536839640) in [square/moshi](https://github.com/square/moshi)
 
-**2023-05-04** — deleted branch `test-renovate/org.jgrapht` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — commented on [#1542](https://github.com/square/moshi/pull/1542#issuecomment-1536832886) in [square/moshi](https://github.com/square/moshi)
 
-**2023-05-04** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 
-**2023-05-04** — merged PR [#347](https://github.com/slackhq/slack-gradle-plugin/pull/347) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.2"
+**2023-05-05** — merged PR [#1614](https://github.com/square/moshi/pull/1614) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
 
-**2023-05-04** — merged PR [#348](https://github.com/slackhq/slack-gradle-plugin/pull/348) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jgrapht:jgrapht-core to v1.5.2"
+**2023-05-05** — deleted branch `renovate/kotlinpoet` on [square/moshi](https://github.com/square/moshi)
 
-**2023-05-04** — deleted branch `z/koverWorkaround` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-05** — closed PR [#1668](https://github.com/square/moshi/pull/1668) to [square/moshi](https://github.com/square/moshi): "Update kotlinpoet to v1.13.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
