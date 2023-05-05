@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-05** — opened PR [#1671](https://github.com/square/moshi/pull/1671) to [square/moshi](https://github.com/square/moshi): "1.15.0 preperations"
+
+**2023-05-05** — created branch `z/kotlin18moshi15` on [square/moshi](https://github.com/square/moshi)
+
 **2023-05-05** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
 
 **2023-05-05** — merged PR [#1635](https://github.com/square/moshi/pull/1635) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenShadow to v8.1.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-05** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 
 **2023-05-05** — merged PR [#1614](https://github.com/square/moshi/pull/1614) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
-
-**2023-05-05** — deleted branch `renovate/kotlinpoet` on [square/moshi](https://github.com/square/moshi)
-
-**2023-05-05** — closed PR [#1668](https://github.com/square/moshi/pull/1668) to [square/moshi](https://github.com/square/moshi): "Update kotlinpoet to v1.13.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
