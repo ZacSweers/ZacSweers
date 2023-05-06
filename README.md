@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-06** — opened PR [#617](https://github.com/slackhq/circuit/pull/617) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use M3 WindowSizeClass for Star sample size handling"
+
+**2023-05-06** — opened PR [#616](https://github.com/slackhq/circuit/pull/616) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix Animal description can be null"
+
+**2023-05-06** — created branch `z/windowsizeclass` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-06** — created branch `z/nullDescription` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-05** — opened PR [#352](https://github.com/slackhq/slack-gradle-plugin/pull/352) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use disallowChanges where possible"
 
 **2023-05-05** — created branch `z/disallow` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-05** — created branch `z/kotlin18moshi15` on [square/moshi](https://github.com/square/moshi)
 
 **2023-05-05** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
-
-**2023-05-05** — merged PR [#1635](https://github.com/square/moshi/pull/1635) to [square/moshi](https://github.com/square/moshi): "Update plugin mavenShadow to v8.1.1"
-
-**2023-05-05** — merged PR [#1542](https://github.com/square/moshi/pull/1542) to [square/moshi](https://github.com/square/moshi): "Make class instances with type parameter info equal to equivalent parameterized types."
-
-**2023-05-05** — closed issue [#1670](https://github.com/square/moshi/issues/1670) on [square/moshi](https://github.com/square/moshi): "Build failing on kotlin 1.8.21 targeting kotlin 1.9 language version"
-
-**2023-05-05** — commented on [#1670](https://github.com/square/moshi/issues/1670#issuecomment-1536839640) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
