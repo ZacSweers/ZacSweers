@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-06** — opened PR [#617](https://github.com/slackhq/circuit/pull/617) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use M3 WindowSizeClass for Star sample size handling"
+**2023-05-06** — opened issue [#706](https://github.com/square/anvil/issues/706) on [square/anvil](https://github.com/square/anvil): "2.4.4 is incompatible with KotlinPoet 1.13.x"
 
-**2023-05-06** — opened PR [#616](https://github.com/slackhq/circuit/pull/616) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix Animal description can be null"
+**2023-05-06** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1537197296) in [square/anvil](https://github.com/square/anvil)
 
-**2023-05-06** — created branch `z/windowsizeclass` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-06** — commented on [#698](https://github.com/square/anvil/issues/698#issuecomment-1537197231) in [square/anvil](https://github.com/square/anvil)
 
-**2023-05-06** — created branch `z/nullDescription` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-06** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-05** — opened PR [#352](https://github.com/slackhq/slack-gradle-plugin/pull/352) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use disallowChanges where possible"
+**2023-05-06** — merged PR [#675](https://github.com/ZacSweers/CatchUp/pull/675) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.9.0"
 
-**2023-05-05** — created branch `z/disallow` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-06** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-05** — opened issue [#25014](https://github.com/gradle/gradle/issues/25014) on [gradle/gradle](https://github.com/gradle/gradle): "Feature request: expose `ProjectLayout.getBuildFile()`"
+**2023-05-06** — merged PR [#677](https://github.com/ZacSweers/CatchUp/pull/677) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.0"
 
-**2023-05-05** — opened PR [#1671](https://github.com/square/moshi/pull/1671) to [square/moshi](https://github.com/square/moshi): "1.15.0 preperations"
+**2023-05-06** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-05** — created branch `z/kotlin18moshi15` on [square/moshi](https://github.com/square/moshi)
+**2023-05-06** — merged PR [#676](https://github.com/ZacSweers/CatchUp/pull/676) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.13.2"
 
-**2023-05-05** — deleted branch `renovate/com.github.johnrengelman.shadow-8.x` on [square/moshi](https://github.com/square/moshi)
+**2023-05-06** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
