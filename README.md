@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-05** — opened PR [#352](https://github.com/slackhq/slack-gradle-plugin/pull/352) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use disallowChanges where possible"
+
+**2023-05-05** — created branch `z/disallow` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-05** — opened issue [#25014](https://github.com/gradle/gradle/issues/25014) on [gradle/gradle](https://github.com/gradle/gradle): "Feature request: expose `ProjectLayout.getBuildFile()`"
+
 **2023-05-05** — opened PR [#1671](https://github.com/square/moshi/pull/1671) to [square/moshi](https://github.com/square/moshi): "1.15.0 preperations"
 
 **2023-05-05** — created branch `z/kotlin18moshi15` on [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-05** — closed issue [#1670](https://github.com/square/moshi/issues/1670) on [square/moshi](https://github.com/square/moshi): "Build failing on kotlin 1.8.21 targeting kotlin 1.9 language version"
 
 **2023-05-05** — commented on [#1670](https://github.com/square/moshi/issues/1670#issuecomment-1536839640) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-05** — commented on [#1542](https://github.com/square/moshi/pull/1542#issuecomment-1536832886) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-05** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
-
-**2023-05-05** — merged PR [#1614](https://github.com/square/moshi/pull/1614) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
