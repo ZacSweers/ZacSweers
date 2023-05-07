@@ -4,21 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-06** — opened issue [#706](https://github.com/square/anvil/issues/706) on [square/anvil](https://github.com/square/anvil): "2.4.4 is incompatible with KotlinPoet 1.13.x"
+**2023-05-07** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-06** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1537197296) in [square/anvil](https://github.com/square/anvil)
+**2023-05-07** — merged PR [#679](https://github.com/ZacSweers/CatchUp/pull/679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update corbind to v1.8.0"
 
-**2023-05-06** — commented on [#698](https://github.com/square/anvil/issues/698#issuecomment-1537197231) in [square/anvil](https://github.com/square/anvil)
+**2023-05-07** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-06** — deleted branch `renovate/com.google.android.material` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-07** — merged PR [#678](https://github.com/ZacSweers/CatchUp/pull/678) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.7.0"
 
-**2023-05-06** — merged PR [#675](https://github.com/ZacSweers/CatchUp/pull/675) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.9.0"
+**2023-05-07** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-06** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-06** — merged PR [#677](https://github.com/ZacSweers/CatchUp/pull/677) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.0"
-
-**2023-05-06** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-07** — merged PR [#672](https://github.com/ZacSweers/CatchUp/pull/672) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-alpha19"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
