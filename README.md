@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-07** — commented on [#1086](https://github.com/Triple-T/gradle-play-publisher/pull/1086#issuecomment-1537532437) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
+**2023-05-07** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1537529487) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-05-07** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-1537504213) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-07** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-07** — merged PR [#679](https://github.com/ZacSweers/CatchUp/pull/679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update corbind to v1.8.0"
 
 **2023-05-07** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-07** — merged PR [#678](https://github.com/ZacSweers/CatchUp/pull/678) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.7.0"
-
-**2023-05-07** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
