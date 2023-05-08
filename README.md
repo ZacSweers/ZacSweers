@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-07** — commented on [#1086](https://github.com/Triple-T/gradle-play-publisher/pull/1086#issuecomment-1537654672) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
+
+**2023-05-07** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.13.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-05-07** — merged PR [#34](https://github.com/slackhq/auto-value-kotlin/pull/34) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.13.1 to 1.13.2"
+
 **2023-05-07** — commented on [#1086](https://github.com/Triple-T/gradle-play-publisher/pull/1086#issuecomment-1537535460) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
 
 **2023-05-07** — commented on [#1086](https://github.com/Triple-T/gradle-play-publisher/pull/1086#issuecomment-1537532437) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-07** — merged PR [#39](https://github.com/ZacSweers/ZacSweers/pull/39) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.21-1.0.11"
 
 **2023-05-07** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-05-07** — merged PR [#40](https://github.com/ZacSweers/ZacSweers/pull/40) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.0"
-
-**2023-05-07** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-07** — merged PR [#679](https://github.com/ZacSweers/CatchUp/pull/679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update corbind to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
