@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-08** — deleted branch `z/iOS` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-08** — merged PR [#583](https://github.com/slackhq/circuit/pull/583) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial iOS support"
+
 **2023-05-07** — opened issue [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "`experiment-config-cache` action doesn't appear to grep correctly"
 
 **2023-05-07** — commented on [#1086](https://github.com/Triple-T/gradle-play-publisher/pull/1086#issuecomment-1537654672) in [Triple-T/gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-07** — commented on [#421](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/421#issuecomment-1537529487) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
 
 **2023-05-07** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-1537504213) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-07** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-05-07** — merged PR [#39](https://github.com/ZacSweers/ZacSweers/pull/39) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.21-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
