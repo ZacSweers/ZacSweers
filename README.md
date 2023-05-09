@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-09** — opened PR [#354](https://github.com/slackhq/slack-gradle-plugin/pull/354) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log computed androidTest projects in Skippy"
+
+**2023-05-09** — created branch `z/affectedAndroidTestProjects` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-08** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-08** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-08** — created branch `z/fixTest` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-08** — deleted branch `z/iOS` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-08** — merged PR [#583](https://github.com/slackhq/circuit/pull/583) to [slackhq/circuit](https://github.com/slackhq/circuit): "Initial iOS support"
-
-**2023-05-07** — opened issue [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429) on [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts): "`experiment-config-cache` action doesn't appear to grep correctly"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
