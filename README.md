@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-09** — created tag `0.9.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-09** — deleted branch `z/disallow` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-09** — merged PR [#352](https://github.com/slackhq/slack-gradle-plugin/pull/352) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use disallowChanges where possible"
+
+**2023-05-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-09** — closed PR [#423](https://github.com/ZacSweers/MoshiX/pull/423) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.20-mercury-653"
+
 **2023-05-09** — deleted branch `z/affectedAndroidTestProjects` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-09** — closed issue [#353](https://github.com/slackhq/slack-gradle-plugin/issues/353) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Write affected androidTest projects in skippy diagnostics"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-09** — opened PR [#354](https://github.com/slackhq/slack-gradle-plugin/pull/354) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log computed androidTest projects in Skippy"
 
 **2023-05-09** — created branch `z/affectedAndroidTestProjects` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-08** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-08** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-08** — merged PR [#351](https://github.com/slackhq/slack-gradle-plugin/pull/351) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.6.0"
-
-**2023-05-08** — merged PR [#350](https://github.com/slackhq/slack-gradle-plugin/pull/350) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.1"
-
-**2023-05-08** — opened issue [#353](https://github.com/slackhq/slack-gradle-plugin/issues/353) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Write affected androidTest projects in skippy diagnostics"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
