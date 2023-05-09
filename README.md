@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-09** — opened PR [#355](https://github.com/slackhq/slack-gradle-plugin/pull/355) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve git version matching"
+
+**2023-05-09** — created branch `z/betterGitVersionChecks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-09** — created tag `0.9.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-09** — deleted branch `z/disallow` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-09** — closed issue [#353](https://github.com/slackhq/slack-gradle-plugin/issues/353) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Write affected androidTest projects in skippy diagnostics"
 
 **2023-05-09** — merged PR [#354](https://github.com/slackhq/slack-gradle-plugin/pull/354) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log computed androidTest projects in Skippy"
-
-**2023-05-09** — opened PR [#354](https://github.com/slackhq/slack-gradle-plugin/pull/354) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Log computed androidTest projects in Skippy"
-
-**2023-05-09** — created branch `z/affectedAndroidTestProjects` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
