@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-10** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-10** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-10** — merged PR [#356](https://github.com/slackhq/slack-gradle-plugin/pull/356) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.6.1"
+
+**2023-05-10** — merged PR [#357](https://github.com/slackhq/slack-gradle-plugin/pull/357) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.2"
+
 **2023-05-10** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-10** — merged PR [#680](https://github.com/ZacSweers/CatchUp/pull/680) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.2"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-09** — merged PR [#355](https://github.com/slackhq/slack-gradle-plugin/pull/355) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve git version matching"
 
 **2023-05-09** — merged PR [#617](https://github.com/slackhq/circuit/pull/617) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use M3 WindowSizeClass for Star sample size handling"
-
-**2023-05-09** — deleted branch `z/windowsizeclass` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-09** — deleted branch `z/fixTest` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-09** — merged PR [#618](https://github.com/slackhq/circuit/pull/618) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetDetailTest"
-
-**2023-05-09** — deleted branch `z/nullDescription` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
