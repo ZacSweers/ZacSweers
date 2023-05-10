@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-10** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-10** — merged PR [#680](https://github.com/ZacSweers/CatchUp/pull/680) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.2"
+
 **2023-05-09** — created tag `0.9.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-09** — deleted branch `z/betterGitVersionChecks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-09** — merged PR [#618](https://github.com/slackhq/circuit/pull/618) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetDetailTest"
 
 **2023-05-09** — deleted branch `z/nullDescription` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-09** — merged PR [#616](https://github.com/slackhq/circuit/pull/616) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix Animal description can be null"
-
-**2023-05-09** — opened PR [#355](https://github.com/slackhq/slack-gradle-plugin/pull/355) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve git version matching"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
