@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1543313861) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
+**2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1543304661) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-05-10** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-10** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-09** — created tag `0.9.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-09** — deleted branch `z/betterGitVersionChecks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-09** — merged PR [#355](https://github.com/slackhq/slack-gradle-plugin/pull/355) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve git version matching"
-
-**2023-05-09** — merged PR [#617](https://github.com/slackhq/circuit/pull/617) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use M3 WindowSizeClass for Star sample size handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
