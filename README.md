@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-11** — commented on [#706](https://github.com/square/anvil/issues/706#issuecomment-1544622417) in [square/anvil](https://github.com/square/anvil)
+
+**2023-05-11** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-11** — merged PR [#689](https://github.com/ZacSweers/CatchUp/pull/689) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.2-alpha"
+
+**2023-05-11** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-11** — merged PR [#690](https://github.com/ZacSweers/CatchUp/pull/690) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.30.0"
+
 **2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1544433056) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
 
 **2023-05-11** — opened PR [#623](https://github.com/slackhq/circuit/pull/623) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new baseline profile plugin"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-11** — merged PR [#682](https://github.com/ZacSweers/CatchUp/pull/682) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.6"
-
-**2023-05-11** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-11** — merged PR [#684](https://github.com/ZacSweers/CatchUp/pull/684) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-alpha04"
-
-**2023-05-11** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-11** — merged PR [#685](https://github.com/ZacSweers/CatchUp/pull/685) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0"
-
-**2023-05-11** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
