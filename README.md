@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1544433056) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-05-11** — opened PR [#623](https://github.com/slackhq/circuit/pull/623) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new baseline profile plugin"
 
 **2023-05-11** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1543999010) in [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — merged PR [#685](https://github.com/ZacSweers/CatchUp/pull/685) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.0"
 
 **2023-05-11** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-11** — merged PR [#686](https://github.com/ZacSweers/CatchUp/pull/686) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
