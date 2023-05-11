@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-11** — opened PR [#623](https://github.com/slackhq/circuit/pull/623) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new baseline profile plugin"
+
 **2023-05-11** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1543999010) in [square/anvil](https://github.com/square/anvil)
 
 **2023-05-11** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-11** — merged PR [#686](https://github.com/ZacSweers/CatchUp/pull/686) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-rc01"
-
-**2023-05-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
