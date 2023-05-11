@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-11** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1543999010) in [square/anvil](https://github.com/square/anvil)
+
 **2023-05-11** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-11** — merged PR [#682](https://github.com/ZacSweers/CatchUp/pull/682) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.6"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — merged PR [#686](https://github.com/ZacSweers/CatchUp/pull/686) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.6.0-rc01"
 
 **2023-05-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-11** — merged PR [#688](https://github.com/ZacSweers/CatchUp/pull/688) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
