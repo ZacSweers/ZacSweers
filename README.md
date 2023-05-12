@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-12** — opened PR [#1675](https://github.com/square/moshi/pull/1675) to [square/moshi](https://github.com/square/moshi): "Update CHANGELOG.md for 1.15.0"
+
+**2023-05-12** — created branch `z/changelog115` on [square/moshi](https://github.com/square/moshi)
+
 **2023-05-12** — commented on [#624](https://github.com/slackhq/circuit/pull/624#issuecomment-1545998893) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-11** — opened issue [#358](https://github.com/slackhq/slack-gradle-plugin/issues/358) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate androidTest from regular tests in affected projects in Skippy"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — merged PR [#690](https://github.com/ZacSweers/CatchUp/pull/690) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.30.0"
 
 **2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1544433056) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
-
-**2023-05-11** — opened PR [#623](https://github.com/slackhq/circuit/pull/623) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add new baseline profile plugin"
-
-**2023-05-11** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1543999010) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
