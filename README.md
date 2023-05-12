@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-12** — opened PR [#625](https://github.com/slackhq/circuit/pull/625) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small STAR sample preview fixes"
+
+**2023-05-12** — created branch `z/morePreviews` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-12** — opened PR [#1675](https://github.com/square/moshi/pull/1675) to [square/moshi](https://github.com/square/moshi): "Update CHANGELOG.md for 1.15.0"
 
 **2023-05-12** — created branch `z/changelog115` on [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-11** — merged PR [#689](https://github.com/ZacSweers/CatchUp/pull/689) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.2-alpha"
 
 **2023-05-11** — deleted branch `renovate/com.bugsnag` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-11** — merged PR [#690](https://github.com/ZacSweers/CatchUp/pull/690) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.30.0"
-
-**2023-05-11** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1544433056) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
