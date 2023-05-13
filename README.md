@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-12** — commented on [#491](https://github.com/slackhq/circuit/pull/491#issuecomment-1546448924) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-05-12** — opened PR [#625](https://github.com/slackhq/circuit/pull/625) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small STAR sample preview fixes"
+**2023-05-12** — merged PR [#421](https://github.com/ZacSweers/MoshiX/pull/421) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.1"
 
-**2023-05-12** — created branch `z/morePreviews` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-12** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-05-12** — opened PR [#1675](https://github.com/square/moshi/pull/1675) to [square/moshi](https://github.com/square/moshi): "Update CHANGELOG.md for 1.15.0"
+**2023-05-12** — merged PR [#424](https://github.com/ZacSweers/MoshiX/pull/424) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.0"
 
-**2023-05-12** — created branch `z/changelog115` on [square/moshi](https://github.com/square/moshi)
+**2023-05-12** — deleted branch `renovate/moshi` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-05-12** — commented on [#624](https://github.com/slackhq/circuit/pull/624#issuecomment-1545998893) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-12** — merged PR [#425](https://github.com/ZacSweers/MoshiX/pull/425) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update moshi to v1.15.0"
 
-**2023-05-11** — opened issue [#358](https://github.com/slackhq/slack-gradle-plugin/issues/358) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate androidTest from regular tests in affected projects in Skippy"
+**2023-05-12** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-11** — commented on [#706](https://github.com/square/anvil/issues/706#issuecomment-1544622417) in [square/anvil](https://github.com/square/anvil)
+**2023-05-12** — merged PR [#691](https://github.com/ZacSweers/CatchUp/pull/691) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.1"
 
-**2023-05-11** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-12** — deleted branch `renovate/com.squareup.moshi-moshi-kotlin-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-11** — merged PR [#689](https://github.com/ZacSweers/CatchUp/pull/689) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.2-alpha"
+**2023-05-12** — merged PR [#693](https://github.com/ZacSweers/CatchUp/pull/693) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
