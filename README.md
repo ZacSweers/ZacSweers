@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-14** — deleted branch `renovate/moshi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-14** — merged PR [#628](https://github.com/slackhq/circuit/pull/628) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update moshi to v1.15.0"
+
+**2023-05-14** — closed issue [#1678](https://github.com/square/moshi/issues/1678) on [square/moshi](https://github.com/square/moshi): "Could not find the enum entry for"
+
+**2023-05-14** — commented on [#1678](https://github.com/square/moshi/issues/1678#issuecomment-1546948294) in [square/moshi](https://github.com/square/moshi)
+
 **2023-05-13** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-05-13** — merged PR [#42](https://github.com/ZacSweers/ZacSweers/pull/42) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-12** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-05-12** — merged PR [#424](https://github.com/ZacSweers/MoshiX/pull/424) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.0"
-
-**2023-05-12** — deleted branch `renovate/moshi` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-05-12** — merged PR [#425](https://github.com/ZacSweers/MoshiX/pull/425) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update moshi to v1.15.0"
-
-**2023-05-12** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-12** — merged PR [#691](https://github.com/ZacSweers/CatchUp/pull/691) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
