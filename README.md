@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-15** — opened PR [#361](https://github.com/slackhq/slack-gradle-plugin/pull/361) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update dependency com.squareup.moshi:moshi to v1.15.0""
+
+**2023-05-15** — created branch `revert-360-test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-15** — merged PR [#359](https://github.com/slackhq/slack-gradle-plugin/pull/359) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.6.2"
 
 **2023-05-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-14** — merged PR [#35](https://github.com/slackhq/auto-value-kotlin/pull/35) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.14.0 to 1.15.0"
 
 **2023-05-14** — deleted branch `renovate/moshi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-14** — merged PR [#628](https://github.com/slackhq/circuit/pull/628) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update moshi to v1.15.0"
-
-**2023-05-14** — closed issue [#1678](https://github.com/square/moshi/issues/1678) on [square/moshi](https://github.com/square/moshi): "Could not find the enum entry for"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
