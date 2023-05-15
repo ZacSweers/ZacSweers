@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-14** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.15.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-05-14** — merged PR [#35](https://github.com/slackhq/auto-value-kotlin/pull/35) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.14.0 to 1.15.0"
+
 **2023-05-14** — deleted branch `renovate/moshi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-14** — merged PR [#628](https://github.com/slackhq/circuit/pull/628) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update moshi to v1.15.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-05-12** — merged PR [#421](https://github.com/ZacSweers/MoshiX/pull/421) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.1"
-
-**2023-05-12** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-05-12** — merged PR [#424](https://github.com/ZacSweers/MoshiX/pull/424) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
