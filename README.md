@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-15** — created tag `0.9.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-15** — deleted branch `z/morePreviews` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-15** — merged PR [#625](https://github.com/slackhq/circuit/pull/625) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small STAR sample preview fixes"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-15** — merged PR [#359](https://github.com/slackhq/slack-gradle-plugin/pull/359) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.6.2"
 
 **2023-05-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-15** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
