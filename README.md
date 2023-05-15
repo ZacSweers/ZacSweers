@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-15** — merged PR [#359](https://github.com/slackhq/slack-gradle-plugin/pull/359) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.6.2"
+
+**2023-05-15** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-15** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-15** — merged PR [#360](https://github.com/slackhq/slack-gradle-plugin/pull/360) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.moshi:moshi to v1.15.0"
+
+**2023-05-15** — created tag `0.9.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-05-14** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.15.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-05-14** — merged PR [#35](https://github.com/slackhq/auto-value-kotlin/pull/35) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.14.0 to 1.15.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-14** — merged PR [#628](https://github.com/slackhq/circuit/pull/628) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update moshi to v1.15.0"
 
 **2023-05-14** — closed issue [#1678](https://github.com/square/moshi/issues/1678) on [square/moshi](https://github.com/square/moshi): "Could not find the enum entry for"
-
-**2023-05-14** — commented on [#1678](https://github.com/square/moshi/issues/1678#issuecomment-1546948294) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-13** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-05-13** — merged PR [#42](https://github.com/ZacSweers/ZacSweers/pull/42) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.1"
-
-**2023-05-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-05-12** — merged PR [#421](https://github.com/ZacSweers/MoshiX/pull/421) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
