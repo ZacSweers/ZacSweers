@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-16** — merged PR [#697](https://github.com/ZacSweers/CatchUp/pull/697) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha04"
+
 **2023-05-16** — commented on [#1547](https://github.com/square/kotlinpoet/issues/1547#issuecomment-1549118405) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-16** — opened issue [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176) on [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Index out of bounds"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-15** — commented on [#706](https://github.com/square/anvil/issues/706#issuecomment-1548567346) in [square/anvil](https://github.com/square/anvil)
 
 **2023-05-15** — created tag `0.9.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-15** — deleted branch `z/morePreviews` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-15** — merged PR [#625](https://github.com/slackhq/circuit/pull/625) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small STAR sample preview fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
