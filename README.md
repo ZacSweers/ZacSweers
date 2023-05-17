@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-17** — commented on [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50#issuecomment-1551894358) in [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin)
+
 **2023-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-16** — merged PR [#697](https://github.com/ZacSweers/CatchUp/pull/697) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha04"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-15** — deleted branch `dependabot/gradle/moshiVersion-1.15.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-05-15** — commented on [#706](https://github.com/square/anvil/issues/706#issuecomment-1548567346) in [square/anvil](https://github.com/square/anvil)
-
-**2023-05-15** — created tag `0.9.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
