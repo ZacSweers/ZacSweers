@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-18** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-18** — merged PR [#698](https://github.com/ZacSweers/CatchUp/pull/698) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.11"
+
 **2023-05-17** — commented on [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50#issuecomment-1551894358) in [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin)
 
 **2023-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-16** — opened issue [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50) on [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin): "missing-error ENV flag does not appear to be respected"
 
 **2023-05-15** — merged PR [#44](https://github.com/slackhq/moshi-gson-interop/pull/44) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump moshiVersion from 1.14.0 to 1.15.0"
-
-**2023-05-15** — deleted branch `dependabot/gradle/moshiVersion-1.15.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-05-15** — commented on [#706](https://github.com/square/anvil/issues/706#issuecomment-1548567346) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
