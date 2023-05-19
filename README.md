@@ -15,14 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-18** — opened PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
 
 **2023-05-18** — created branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-18** — opened PR [#635](https://github.com/slackhq/circuit/pull/635) to [slackhq/circuit](https://github.com/slackhq/circuit): "try/catch http exceptions when fetching bios"
-
-**2023-05-18** — created branch `z/catch` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-18** — deleted branch `z/updatedBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-18** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
