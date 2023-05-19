@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-18** — opened PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
+
+**2023-05-18** — created branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-05-18** — deleted branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-18** — merged PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-18** — deleted branch `z/updatedBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-18** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-18** — merged PR [#698](https://github.com/ZacSweers/CatchUp/pull/698) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.11"
-
-**2023-05-17** — commented on [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50#issuecomment-1551894358) in [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
