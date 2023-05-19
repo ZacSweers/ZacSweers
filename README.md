@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — deleted branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-05-19** — merged PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
+
+**2023-05-19** — deleted branch `patch-1` on [ZacSweers/redwood](https://github.com/ZacSweers/redwood)
+
 **2023-05-19** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-19** — merged PR [#701](https://github.com/ZacSweers/CatchUp/pull/701) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-19** — opened PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
 
 **2023-05-19** — created branch `z/baselineProfiles` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-19** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-19** — merged PR [#692](https://github.com/ZacSweers/CatchUp/pull/692) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.0"
-
-**2023-05-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
