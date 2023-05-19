@@ -4,9 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-18** — opened PR [#87](https://github.com/takahirom/roborazzi/pull/87) to [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Modernize AGP integration"
+**2023-05-19** — commented on [#700](https://github.com/ZacSweers/CatchUp/pull/700#issuecomment-1554016147) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-18** — created branch `z/modernizeAndroid` on [ZacSweers/roborazzi](https://github.com/ZacSweers/roborazzi)
+**2023-05-19** — opened PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
+
+**2023-05-19** — created branch `z/baselineProfiles` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-19** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-19** — merged PR [#692](https://github.com/ZacSweers/CatchUp/pull/692) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.0"
+
+**2023-05-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-19** — merged PR [#696](https://github.com/ZacSweers/CatchUp/pull/696) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.8"
+
+**2023-05-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-19** — merged PR [#699](https://github.com/ZacSweers/CatchUp/pull/699) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.191.0"
+
+**2023-05-18** — opened PR [#87](https://github.com/takahirom/roborazzi/pull/87) to [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Modernize AGP integration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
