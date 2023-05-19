@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — created tag `1.4.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-05-19** — merged PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.21 updates"
+
+**2023-05-19** — deleted branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-05-19** — deleted branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-19** — merged PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-19** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1554041573) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2023-05-19** — opened PR [#1092](https://github.com/cashapp/redwood/pull/1092) to [cashapp/redwood](https://github.com/cashapp/redwood): "Use release flag in JavaCompile"
-
-**2023-05-19** — commented on [#700](https://github.com/ZacSweers/CatchUp/pull/700#issuecomment-1554016147) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-19** — opened PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
-
-**2023-05-19** — created branch `z/baselineProfiles` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
