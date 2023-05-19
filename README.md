@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1555049571) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2023-05-19** — commented on [#1553](https://github.com/square/kotlinpoet/issues/1553#issuecomment-1555016316) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-05-19** — created tag `1.4.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-19** — merged PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.21 updates"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-19** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-19** — merged PR [#701](https://github.com/ZacSweers/CatchUp/pull/701) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.41.2.2"
-
-**2023-05-19** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1554041573) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2023-05-19** — opened PR [#1092](https://github.com/cashapp/redwood/pull/1092) to [cashapp/redwood](https://github.com/cashapp/redwood): "Use release flag in JavaCompile"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
