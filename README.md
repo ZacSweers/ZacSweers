@@ -4,7 +4,9 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-18** — opened PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
+**2023-05-18** — opened PR [#87](https://github.com/takahirom/roborazzi/pull/87) to [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Modernize AGP integration"
+
+**2023-05-18** — created branch `z/modernizeAndroid` on [ZacSweers/roborazzi](https://github.com/ZacSweers/roborazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
