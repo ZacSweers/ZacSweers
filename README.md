@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1554041573) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2023-05-19** — opened PR [#1092](https://github.com/cashapp/redwood/pull/1092) to [cashapp/redwood](https://github.com/cashapp/redwood): "Use release flag in JavaCompile"
+
 **2023-05-19** — commented on [#700](https://github.com/ZacSweers/CatchUp/pull/700#issuecomment-1554016147) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-19** — opened PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-19** — merged PR [#696](https://github.com/ZacSweers/CatchUp/pull/696) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.8"
 
 **2023-05-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-19** — merged PR [#699](https://github.com/ZacSweers/CatchUp/pull/699) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.191.0"
-
-**2023-05-18** — opened PR [#87](https://github.com/takahirom/roborazzi/pull/87) to [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Modernize AGP integration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
