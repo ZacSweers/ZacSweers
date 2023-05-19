@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-18** — deleted branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-18** — merged PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
+
+**2023-05-18** — opened PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
+
+**2023-05-18** — created branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-18** — opened PR [#635](https://github.com/slackhq/circuit/pull/635) to [slackhq/circuit](https://github.com/slackhq/circuit): "try/catch http exceptions when fetching bios"
+
+**2023-05-18** — created branch `z/catch` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-18** — deleted branch `z/updatedBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-18** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-18** — merged PR [#698](https://github.com/ZacSweers/CatchUp/pull/698) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.11"
 
 **2023-05-17** — commented on [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50#issuecomment-1551894358) in [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin)
-
-**2023-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-16** — merged PR [#697](https://github.com/ZacSweers/CatchUp/pull/697) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha04"
-
-**2023-05-16** — commented on [#1547](https://github.com/square/kotlinpoet/issues/1547#issuecomment-1549118405) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-16** — opened issue [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176) on [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Index out of bounds"
-
-**2023-05-16** — commented on [#169](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/169#issuecomment-1549086827) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
-
-**2023-05-16** — opened issue [#50](https://github.com/buildkite-plugins/test-collector-buildkite-plugin/issues/50) on [buildkite-plugins/test-collector-buildkite-plugin](https://github.com/buildkite-plugins/test-collector-buildkite-plugin): "missing-error ENV flag does not appear to be respected"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
