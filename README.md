@@ -5,16 +5,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2023-05-18** — opened PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
-
-**2023-05-18** — created branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-18** — deleted branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-18** — merged PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
-
-**2023-05-18** — opened PR [#636](https://github.com/slackhq/circuit/pull/636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetListTest"
-
-**2023-05-18** — created branch `z/petlisttest` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
