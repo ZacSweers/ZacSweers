@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-19** — deleted branch `renovate/peter-evans-create-pull-request-5.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-19** — merged PR [#637](https://github.com/slackhq/circuit/pull/637) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update peter-evans/create-pull-request action to v5"
+
 **2023-05-19** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.4.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-19** — merged PR [#50](https://github.com/slackhq/slack-lints/pull/50) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.3.1 to 1.4.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-19** — deleted branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-19** — deleted branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-19** — merged PR [#60](https://github.com/slackhq/EitherNet/pull/60) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Implement retryWithExponentialBackoff"
-
-**2023-05-19** — deleted branch `patch-1` on [ZacSweers/redwood](https://github.com/ZacSweers/redwood)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
