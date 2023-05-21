@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-21** — opened issue [#64](https://github.com/slackhq/slack-lints/issues/64) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid Record types"
+
+**2023-05-21** — opened issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
+
+**2023-05-21** — opened issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
+
 **2023-05-21** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-21** — merged PR [#702](https://github.com/ZacSweers/CatchUp/pull/702) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.4.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-21** — closed PR [#54](https://github.com/slackhq/slack-lints/pull/54) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v7.6.1"
 
 **2023-05-21** — commented on [#54](https://github.com/slackhq/slack-lints/pull/54#issuecomment-1556259433) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — closed PR [#55](https://github.com/slackhq/slack-lints/pull/55) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.1.0-beta03"
-
-**2023-05-21** — commented on [#55](https://github.com/slackhq/slack-lints/pull/55#issuecomment-1556259392) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
