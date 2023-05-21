@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-21** — commented on [#1561](https://github.com/square/moshi/pull/1561#issuecomment-1556248668) in [square/moshi](https://github.com/square/moshi)
+**2023-05-21** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-21** — deleted branch `test-renovate/okhttp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-05-21** — merged PR [#702](https://github.com/ZacSweers/CatchUp/pull/702) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.4.0"
 
-**2023-05-21** — closed PR [#362](https://github.com/slackhq/slack-gradle-plugin/pull/362) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okhttp to v5.0.0-SNAPSHOT"
+**2023-05-21** — commented on [#53](https://github.com/slackhq/slack-lints/issues/53#issuecomment-1556260796) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-05-21** — opened issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
+**2023-05-21** — opened issue [#61](https://github.com/slackhq/slack-lints/issues/61) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid mocking value classes"
 
-**2023-05-21** — merged PR [#1561](https://github.com/square/moshi/pull/1561) to [square/moshi](https://github.com/square/moshi): "Open Kotlin sampels by default in README.md"
+**2023-05-21** — deleted branch `renovate/gradle-7.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-05-21** — opened issue [#52](https://github.com/slackhq/slack-lints/issues/52) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] List against mocking types that have suspend functions or return `Flow`"
+**2023-05-21** — closed PR [#54](https://github.com/slackhq/slack-lints/pull/54) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v7.6.1"
 
-**2023-05-21** — opened issue [#51](https://github.com/slackhq/slack-lints/issues/51) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid mocking platform types"
+**2023-05-21** — commented on [#54](https://github.com/slackhq/slack-lints/pull/54#issuecomment-1556259433) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-05-21** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [square/moshi](https://github.com/square/moshi)
+**2023-05-21** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-05-21** — merged PR [#1676](https://github.com/square/moshi/pull/1676) to [square/moshi](https://github.com/square/moshi): "Update dependency com.squareup.moshi:moshi to v1.15.0"
+**2023-05-21** — closed PR [#55](https://github.com/slackhq/slack-lints/pull/55) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.1.0-beta03"
 
-**2023-05-21** — deleted branch `renovate/com.squareup.moshi-moshi-adapters-1.x` on [square/moshi](https://github.com/square/moshi)
+**2023-05-21** — commented on [#55](https://github.com/slackhq/slack-lints/pull/55#issuecomment-1556259392) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
