@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-19** — deleted branch `renovate/peter-evans-create-pull-request-5.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-21** — commented on [#1561](https://github.com/square/moshi/pull/1561#issuecomment-1556248668) in [square/moshi](https://github.com/square/moshi)
 
-**2023-05-19** — merged PR [#637](https://github.com/slackhq/circuit/pull/637) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update peter-evans/create-pull-request action to v5"
+**2023-05-21** — deleted branch `test-renovate/okhttp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-19** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.4.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-05-21** — closed PR [#362](https://github.com/slackhq/slack-gradle-plugin/pull/362) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okhttp to v5.0.0-SNAPSHOT"
 
-**2023-05-19** — merged PR [#50](https://github.com/slackhq/slack-lints/pull/50) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.3.1 to 1.4.0"
+**2023-05-21** — opened issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
 
-**2023-05-19** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1555049571) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+**2023-05-21** — merged PR [#1561](https://github.com/square/moshi/pull/1561) to [square/moshi](https://github.com/square/moshi): "Open Kotlin sampels by default in README.md"
 
-**2023-05-19** — commented on [#1553](https://github.com/square/kotlinpoet/issues/1553#issuecomment-1555016316) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-05-21** — opened issue [#52](https://github.com/slackhq/slack-lints/issues/52) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] List against mocking types that have suspend functions or return `Flow`"
 
-**2023-05-19** — created tag `1.4.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-05-21** — opened issue [#51](https://github.com/slackhq/slack-lints/issues/51) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid mocking platform types"
 
-**2023-05-19** — merged PR [#59](https://github.com/slackhq/EitherNet/pull/59) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Kotlin 1.8.21 updates"
+**2023-05-21** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [square/moshi](https://github.com/square/moshi)
 
-**2023-05-19** — deleted branch `z/kotlin1820` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-05-21** — merged PR [#1676](https://github.com/square/moshi/pull/1676) to [square/moshi](https://github.com/square/moshi): "Update dependency com.squareup.moshi:moshi to v1.15.0"
 
-**2023-05-19** — deleted branch `z/exponentialBackoff` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-05-21** — deleted branch `renovate/com.squareup.moshi-moshi-adapters-1.x` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
