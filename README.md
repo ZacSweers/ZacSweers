@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-22** — merged PR [#704](https://github.com/ZacSweers/CatchUp/pull/704) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.42.0.0"
+
+**2023-05-22** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-05-21** — commented on [#53](https://github.com/slackhq/slack-lints/issues/53#issuecomment-1556472215) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-21** — opened PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-21** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-21** — merged PR [#702](https://github.com/ZacSweers/CatchUp/pull/702) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.4.0"
-
-**2023-05-21** — commented on [#53](https://github.com/slackhq/slack-lints/issues/53#issuecomment-1556260796) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — opened issue [#61](https://github.com/slackhq/slack-lints/issues/61) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid mocking value classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
