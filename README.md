@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-22** — opened PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
+
+**2023-05-22** — created branch `z/moreDoNotMockTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-22** — opened issue [#140](https://github.com/ZacSweers/redacted-compiler-plugin/issues/140) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
+
 **2023-05-22** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-22** — merged PR [#703](https://github.com/ZacSweers/CatchUp/pull/703) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.3"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-21** — opened PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
 
 **2023-05-21** — created branch `z/reproLintStaticImportBug` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — opened issue [#64](https://github.com/slackhq/slack-lints/issues/64) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid Record types"
-
-**2023-05-21** — opened issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
-
-**2023-05-21** — opened issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
