@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-21** — opened PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
+
+**2023-05-21** — created branch `z/reproLintStaticImportBug` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-05-21** — opened issue [#64](https://github.com/slackhq/slack-lints/issues/64) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid Record types"
 
 **2023-05-21** — opened issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-21** — opened issue [#61](https://github.com/slackhq/slack-lints/issues/61) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid mocking value classes"
 
 **2023-05-21** — deleted branch `renovate/gradle-7.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — closed PR [#54](https://github.com/slackhq/slack-lints/pull/54) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v7.6.1"
-
-**2023-05-21** — commented on [#54](https://github.com/slackhq/slack-lints/pull/54#issuecomment-1556259433) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
