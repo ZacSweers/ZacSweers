@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-23** — created branch `z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-23** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1559818209) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-23** — opened PR [#643](https://github.com/slackhq/circuit/pull/643) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 1.9.0"
+
+**2023-05-23** — created branch `z/kotlin19` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-22** — opened PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
 
 **2023-05-22** — created branch `z/moreDoNotMockTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-22** — merged PR [#703](https://github.com/ZacSweers/CatchUp/pull/703) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.3"
 
 **2023-05-22** — merged PR [#704](https://github.com/ZacSweers/CatchUp/pull/704) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.42.0.0"
-
-**2023-05-22** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-21** — commented on [#53](https://github.com/slackhq/slack-lints/issues/53#issuecomment-1556472215) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-21** — opened PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
-
-**2023-05-21** — created branch `z/reproLintStaticImportBug` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
