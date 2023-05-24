@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-24** — merged PR [#127](https://github.com/slackhq/compose-lints/pull/127) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.0"
+**2023-05-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-05-24** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-05-24** — merged PR [#427](https://github.com/ZacSweers/MoshiX/pull/427) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.19.0"
 
-**2023-05-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-05-24** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-05-24** — merged PR [#705](https://github.com/ZacSweers/CatchUp/pull/705) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto.service:auto-service to v1.1.0"
 
-**2023-05-24** — merged PR [#69](https://github.com/slackhq/slack-lints/pull/69) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.19.0"
+**2023-05-24** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — merged PR [#68](https://github.com/slackhq/slack-lints/pull/68) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.0"
+**2023-05-24** — merged PR [#706](https://github.com/ZacSweers/CatchUp/pull/706) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.0"
 
-**2023-05-24** — merged PR [#126](https://github.com/slackhq/compose-lints/pull/126) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
+**2023-05-24** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — deleted branch `renovate/com.google.auto.service` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-05-24** — merged PR [#707](https://github.com/ZacSweers/CatchUp/pull/707) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.19.0"
 
-**2023-05-24** — merged PR [#45](https://github.com/slackhq/moshi-gson-interop/pull/45) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.22.0 to 1.23.0"
+**2023-05-24** — deleted branch `renovate/moshi` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-05-24** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-05-24** — merged PR [#41](https://github.com/ZacSweers/ZacSweers/pull/41) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update moshi to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
