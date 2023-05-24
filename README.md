@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-24** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-05-24** — merged PR [#139](https://github.com/ZacSweers/redacted-compiler-plugin/pull/139) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.44"
+
+**2023-05-24** — deleted branch `renovate/autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-05-24** — merged PR [#141](https://github.com/ZacSweers/redacted-compiler-plugin/pull/141) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
+
+**2023-05-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-05-24** — merged PR [#142](https://github.com/ZacSweers/redacted-compiler-plugin/pull/142) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.19.0"
+
+**2023-05-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [square/moshi](https://github.com/square/moshi)
+
 **2023-05-24** — opened issue [#1387](https://github.com/google/ksp/issues/1387) on [google/ksp](https://github.com/google/ksp): "1.9.0-Beta does not respect KGP's new project-level compiler options"
 
 **2023-05-24** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-annotations-1.1.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-24** — merged PR [#67](https://github.com/slackhq/slack-lints/pull/67) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.auto.service:auto-service-annotations from 1.0.1 to 1.1.0"
-
-**2023-05-24** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-1.1.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-05-24** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-05-24** — merged PR [#36](https://github.com/slackhq/auto-value-kotlin/pull/36) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.service:auto-service from 1.0.1 to 1.1.0"
-
-**2023-05-24** — merged PR [#37](https://github.com/slackhq/auto-value-kotlin/pull/37) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.22.0 to 1.23.0"
-
-**2023-05-24** — deleted branch `z/updates` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-24** — merged PR [#60](https://github.com/slackhq/slack-lints/pull/60) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update repo dependencies"
-
-**2023-05-24** — opened PR [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin to 1.9.0-Beta"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
