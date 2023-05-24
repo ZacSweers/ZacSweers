@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-23** — deleted branch `z/catch` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-23** — merged PR [#635](https://github.com/slackhq/circuit/pull/635) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eithernet in star sample for networking semantics"
+
 **2023-05-23** — created branch `z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-23** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1559818209) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-22** — opened issue [#140](https://github.com/ZacSweers/redacted-compiler-plugin/issues/140) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
 
 **2023-05-22** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-22** — merged PR [#703](https://github.com/ZacSweers/CatchUp/pull/703) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.3"
-
-**2023-05-22** — merged PR [#704](https://github.com/ZacSweers/CatchUp/pull/704) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.42.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
