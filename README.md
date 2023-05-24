@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-23** — opened PR [#428](https://github.com/ZacSweers/MoshiX/pull/428) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 1.9.0 prep"
+
+**2023-05-23** — created branch `z/kotlin19` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-23** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-23** — merged PR [#420](https://github.com/ZacSweers/MoshiX/pull/420) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.44"
+
+**2023-05-23** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-23** — merged PR [#419](https://github.com/ZacSweers/MoshiX/pull/419) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.11.0"
+
+**2023-05-23** — deleted branch `renovate/autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-23** — merged PR [#426](https://github.com/ZacSweers/MoshiX/pull/426) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update autoService to v1.1.0"
+
 **2023-05-23** — deleted branch `z/catch` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-23** — merged PR [#635](https://github.com/slackhq/circuit/pull/635) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use eithernet in star sample for networking semantics"
-
-**2023-05-23** — created branch `z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-23** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1559818209) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-23** — opened PR [#643](https://github.com/slackhq/circuit/pull/643) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 1.9.0"
-
-**2023-05-23** — created branch `z/kotlin19` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-22** — opened PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
-
-**2023-05-22** — created branch `z/moreDoNotMockTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-22** — opened issue [#140](https://github.com/ZacSweers/redacted-compiler-plugin/issues/140) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
-
-**2023-05-22** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
