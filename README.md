@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-05-25** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-05-24** — merged PR [#427](https://github.com/ZacSweers/MoshiX/pull/427) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.19.0"
+**2023-05-25** — merged PR [#429](https://github.com/ZacSweers/MoshiX/pull/429) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.2"
 
-**2023-05-24** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-25** — merged PR [#708](https://github.com/ZacSweers/CatchUp/pull/708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
 
-**2023-05-24** — merged PR [#705](https://github.com/ZacSweers/CatchUp/pull/705) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto.service:auto-service to v1.1.0"
+**2023-05-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-25** — merged PR [#709](https://github.com/ZacSweers/CatchUp/pull/709) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta01"
 
-**2023-05-24** — merged PR [#706](https://github.com/ZacSweers/CatchUp/pull/706) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.0"
+**2023-05-25** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-25** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — merged PR [#707](https://github.com/ZacSweers/CatchUp/pull/707) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.19.0"
+**2023-05-25** — merged PR [#710](https://github.com/ZacSweers/CatchUp/pull/710) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-alpha20"
 
-**2023-05-24** — deleted branch `renovate/moshi` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-05-25** — deleted branch `renovate/androidx.recyclerview` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-24** — merged PR [#41](https://github.com/ZacSweers/ZacSweers/pull/41) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update moshi to v1.15.0"
+**2023-05-25** — merged PR [#711](https://github.com/ZacSweers/CatchUp/pull/711) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.recyclerview:recyclerview to v1.3.1-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
