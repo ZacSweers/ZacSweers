@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — opened issue [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable the robolectric jars task if robolectric isn't enabled for a project"
+
+**2023-05-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-25** — merged PR [#70](https://github.com/slackhq/slack-lints/pull/70) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.0.2"
+
+**2023-05-25** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-05-25** — merged PR [#128](https://github.com/slackhq/compose-lints/pull/128) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.19.0"
+
 **2023-05-25** — commented on [#1498](https://github.com/square/kotlinpoet/issues/1498#issuecomment-1563132379) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-25** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-05-25** — merged PR [#429](https://github.com/ZacSweers/MoshiX/pull/429) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.2"
-
-**2023-05-25** — merged PR [#708](https://github.com/ZacSweers/CatchUp/pull/708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.constraintlayout"
-
-**2023-05-25** — deleted branch `renovate/androidx.constraintlayout` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-25** — merged PR [#709](https://github.com/ZacSweers/CatchUp/pull/709) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta01"
-
-**2023-05-25** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-25** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
