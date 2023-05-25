@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563592384) in [google/ksp](https://github.com/google/ksp)
+
 **2023-05-25** — opened issue [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable the robolectric jars task if robolectric isn't enabled for a project"
 
 **2023-05-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — merged PR [#713](https://github.com/ZacSweers/CatchUp/pull/713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.3"
 
 **2023-05-25** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-05-25** — merged PR [#429](https://github.com/ZacSweers/MoshiX/pull/429) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
