@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-25** — merged PR [#713](https://github.com/ZacSweers/CatchUp/pull/713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.3"
+
 **2023-05-25** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-05-25** — merged PR [#429](https://github.com/ZacSweers/MoshiX/pull/429) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.0.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-25** — merged PR [#710](https://github.com/ZacSweers/CatchUp/pull/710) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-alpha20"
-
-**2023-05-25** — deleted branch `renovate/androidx.recyclerview` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-25** — merged PR [#711](https://github.com/ZacSweers/CatchUp/pull/711) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.recyclerview:recyclerview to v1.3.1-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
