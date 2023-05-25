@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563592384) in [google/ksp](https://github.com/google/ksp)
+**2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563626457) in [google/ksp](https://github.com/google/ksp)
 
-**2023-05-25** — opened issue [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable the robolectric jars task if robolectric isn't enabled for a project"
+**2023-05-25** — opened PR [#61](https://github.com/slackhq/EitherNet/pull/61) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prep for Kotlin 1.9.0"
 
-**2023-05-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-05-25** — created branch `z/kotlin19prep` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2023-05-25** — merged PR [#70](https://github.com/slackhq/slack-lints/pull/70) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.0.2"
+**2023-05-25** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1563614350) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-25** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-05-25** — deleted branch `test-renovate/com.google.auto.service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-25** — merged PR [#128](https://github.com/slackhq/compose-lints/pull/128) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.19.0"
+**2023-05-25** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-25** — commented on [#1498](https://github.com/square/kotlinpoet/issues/1498#issuecomment-1563132379) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-05-25** — merged PR [#365](https://github.com/slackhq/slack-gradle-plugin/pull/365) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
 
-**2023-05-25** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-25** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-25** — merged PR [#713](https://github.com/ZacSweers/CatchUp/pull/713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.3"
+**2023-05-25** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-25** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-05-25** — merged PR [#366](https://github.com/slackhq/slack-gradle-plugin/pull/366) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.23.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
