@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — commented on [#1498](https://github.com/square/kotlinpoet/issues/1498#issuecomment-1563132379) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-05-25** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-25** — merged PR [#713](https://github.com/ZacSweers/CatchUp/pull/713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-25** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-25** — merged PR [#710](https://github.com/ZacSweers/CatchUp/pull/710) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v1.0.0-alpha20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
