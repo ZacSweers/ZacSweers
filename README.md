@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-05-25** — merged PR [#43](https://github.com/ZacSweers/ZacSweers/pull/43) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.0"
+
 **2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563626457) in [google/ksp](https://github.com/google/ksp)
 
 **2023-05-25** — opened PR [#61](https://github.com/slackhq/EitherNet/pull/61) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prep for Kotlin 1.9.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — merged PR [#365](https://github.com/slackhq/slack-gradle-plugin/pull/365) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
 
 **2023-05-25** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-25** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-25** — merged PR [#366](https://github.com/slackhq/slack-gradle-plugin/pull/366) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.23.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
