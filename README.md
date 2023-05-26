@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-26** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1563862914) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-26** — opened issue [#650](https://github.com/slackhq/circuit/issues/650) on [slackhq/circuit](https://github.com/slackhq/circuit): "Figure out iOS story with UI"
+
+**2023-05-26** — opened issue [#649](https://github.com/slackhq/circuit/issues/649) on [slackhq/circuit](https://github.com/slackhq/circuit): "Support Kotlin/Compose JS"
+
+**2023-05-26** — opened PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
+
+**2023-05-26** — created branch `z/commonIO` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-26** — created tag `0.9.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-26** — closed issue [#1682](https://github.com/square/moshi/issues/1682) on [square/moshi](https://github.com/square/moshi): "RegularExpression"
 
 **2023-05-26** — commented on [#1682](https://github.com/square/moshi/issues/1682#issuecomment-1563834039) in [square/moshi](https://github.com/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1563787577) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-25** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-25** — merged PR [#1479](https://github.com/square/kotlinpoet/pull/1479) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.1"
-
-**2023-05-25** — deleted branch `renovate/kotlin-and-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-25** — merged PR [#1569](https://github.com/square/kotlinpoet/pull/1569) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update Kotlin and KSP"
-
-**2023-05-25** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-05-25** — merged PR [#43](https://github.com/ZacSweers/ZacSweers/pull/43) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.0"
-
-**2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563626457) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
