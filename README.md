@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-26** — deleted branch `z/commonIO` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-26** — merged PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
+
 **2023-05-26** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1563862914) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-26** — opened issue [#650](https://github.com/slackhq/circuit/issues/650) on [slackhq/circuit](https://github.com/slackhq/circuit): "Figure out iOS story with UI"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — closed issue [#1682](https://github.com/square/moshi/issues/1682) on [square/moshi](https://github.com/square/moshi): "RegularExpression"
 
 **2023-05-26** — commented on [#1682](https://github.com/square/moshi/issues/1682#issuecomment-1563834039) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1563787577) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-25** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
