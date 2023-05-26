@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-26** — merged PR [#652](https://github.com/slackhq/circuit/pull/652) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-macros-plugin to v1"
+
+**2023-05-26** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-26** — merged PR [#71](https://github.com/slackhq/slack-lints/pull/71) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha05"
+
 **2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-05-26** — merged PR [#130](https://github.com/slackhq/compose-lints/pull/130) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — merged PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
 
 **2023-05-26** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1563862914) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-26** — opened issue [#650](https://github.com/slackhq/circuit/issues/650) on [slackhq/circuit](https://github.com/slackhq/circuit): "Figure out iOS story with UI"
-
-**2023-05-26** — opened issue [#649](https://github.com/slackhq/circuit/issues/649) on [slackhq/circuit](https://github.com/slackhq/circuit): "Support Kotlin/Compose JS"
-
-**2023-05-26** — opened PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
-
-**2023-05-26** — created branch `z/commonIO` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
