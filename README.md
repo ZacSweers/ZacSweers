@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-26** — closed issue [#1682](https://github.com/square/moshi/issues/1682) on [square/moshi](https://github.com/square/moshi): "RegularExpression"
+
+**2023-05-26** — commented on [#1682](https://github.com/square/moshi/issues/1682#issuecomment-1563834039) in [square/moshi](https://github.com/square/moshi)
+
 **2023-05-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1563787577) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-25** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — merged PR [#43](https://github.com/ZacSweers/ZacSweers/pull/43) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.0"
 
 **2023-05-25** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1563626457) in [google/ksp](https://github.com/google/ksp)
-
-**2023-05-25** — opened PR [#61](https://github.com/slackhq/EitherNet/pull/61) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prep for Kotlin 1.9.0"
-
-**2023-05-25** — created branch `z/kotlin19prep` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
