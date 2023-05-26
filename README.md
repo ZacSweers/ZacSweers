@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-25** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-25** — merged PR [#1479](https://github.com/square/kotlinpoet/pull/1479) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.1"
+
+**2023-05-25** — deleted branch `renovate/kotlin-and-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-25** — merged PR [#1569](https://github.com/square/kotlinpoet/pull/1569) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update Kotlin and KSP"
+
 **2023-05-25** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-05-25** — merged PR [#43](https://github.com/ZacSweers/ZacSweers/pull/43) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-25** — created branch `z/kotlin19prep` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-25** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1563614350) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-25** — deleted branch `test-renovate/com.google.auto.service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-25** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-25** — merged PR [#365](https://github.com/slackhq/slack-gradle-plugin/pull/365) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
-
-**2023-05-25** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
