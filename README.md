@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-05-26** — merged PR [#130](https://github.com/slackhq/compose-lints/pull/130) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1"
+
+**2023-05-26** — commented on [#653](https://github.com/slackhq/circuit/issues/653#issuecomment-1564617813) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-26** — deleted branch `z/commonIO` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-26** — merged PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — opened PR [#648](https://github.com/slackhq/circuit/pull/648) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to common Dispatchers.IO impl in counter sample"
 
 **2023-05-26** — created branch `z/commonIO` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-26** — created tag `0.9.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-26** — closed issue [#1682](https://github.com/square/moshi/issues/1682) on [square/moshi](https://github.com/square/moshi): "RegularExpression"
-
-**2023-05-26** — commented on [#1682](https://github.com/square/moshi/issues/1682#issuecomment-1563834039) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
