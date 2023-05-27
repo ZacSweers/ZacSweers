@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565422793) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565421651) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-05-27** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-27** — merged PR [#718](https://github.com/ZacSweers/CatchUp/pull/718) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.9.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1564857698) in [square/retrofit](https://github.com/square/retrofit)
 
 **2023-05-26** — commented on [#315](https://github.com/square/moshi/issues/315#issuecomment-1564857223) in [square/moshi](https://github.com/square/moshi)
-
-**2023-05-26** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1564855946) in [google/ksp](https://github.com/google/ksp)
-
-**2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
