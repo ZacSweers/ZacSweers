@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-27** — merged PR [#719](https://github.com/ZacSweers/CatchUp/pull/719) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.191.1"
 
 **2023-05-27** — closed issue [#284](https://github.com/ZacSweers/CatchUp/issues/284) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Compose Implementation"
-
-**2023-05-27** — commented on [#284](https://github.com/ZacSweers/CatchUp/issues/284#issuecomment-1565482085) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
