@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-27** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-27** — merged PR [#718](https://github.com/ZacSweers/CatchUp/pull/718) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.9.0"
+
+**2023-05-27** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-27** — merged PR [#720](https://github.com/ZacSweers/CatchUp/pull/720) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v32"
+
+**2023-05-27** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-05-27** — merged PR [#431](https://github.com/ZacSweers/MoshiX/pull/431) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32"
+
 **2023-05-26** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1564857698) in [square/retrofit](https://github.com/square/retrofit)
 
 **2023-05-26** — commented on [#315](https://github.com/square/moshi/issues/315#issuecomment-1564857223) in [square/moshi](https://github.com/square/moshi)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-26** — commented on [#1387](https://github.com/google/ksp/issues/1387#issuecomment-1564855946) in [google/ksp](https://github.com/google/ksp)
 
 **2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-26** — merged PR [#652](https://github.com/slackhq/circuit/pull/652) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-macros-plugin to v1"
-
-**2023-05-26** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-26** — merged PR [#71](https://github.com/slackhq/slack-lints/pull/71) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha05"
-
-**2023-05-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-05-26** — merged PR [#130](https://github.com/slackhq/compose-lints/pull/130) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1"
-
-**2023-05-26** — commented on [#653](https://github.com/slackhq/circuit/issues/653#issuecomment-1564617813) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
