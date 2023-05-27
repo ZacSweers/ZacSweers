@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565423902) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565422793) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565421651) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-27** — merged PR [#431](https://github.com/ZacSweers/MoshiX/pull/431) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32"
 
 **2023-05-26** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1564857698) in [square/retrofit](https://github.com/square/retrofit)
-
-**2023-05-26** — commented on [#315](https://github.com/square/moshi/issues/315#issuecomment-1564857223) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
