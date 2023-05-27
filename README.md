@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-27** — merged PR [#715](https://github.com/ZacSweers/CatchUp/pull/715) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha05"
+
+**2023-05-27** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-27** — merged PR [#717](https://github.com/ZacSweers/CatchUp/pull/717) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-database to v20.2.2"
+
+**2023-05-27** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-27** — merged PR [#719](https://github.com/ZacSweers/CatchUp/pull/719) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.191.1"
+
+**2023-05-27** — closed issue [#284](https://github.com/ZacSweers/CatchUp/issues/284) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Compose Implementation"
+
+**2023-05-27** — commented on [#284](https://github.com/ZacSweers/CatchUp/issues/284#issuecomment-1565482085) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565423902) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565422793) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-27** — commented on [#1578](https://github.com/square/kotlinpoet/issues/1578#issuecomment-1565421651) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-27** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-27** — merged PR [#718](https://github.com/ZacSweers/CatchUp/pull/718) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.9.0"
-
-**2023-05-27** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-27** — merged PR [#720](https://github.com/ZacSweers/CatchUp/pull/720) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v32"
-
-**2023-05-27** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-05-27** — merged PR [#431](https://github.com/ZacSweers/MoshiX/pull/431) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32"
-
-**2023-05-26** — commented on [#3181](https://github.com/square/retrofit/issues/3181#issuecomment-1564857698) in [square/retrofit](https://github.com/square/retrofit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
