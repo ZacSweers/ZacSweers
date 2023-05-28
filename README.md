@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-28** — opened PR [#143](https://github.com/ZacSweers/redacted-compiler-plugin/pull/143) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 1.9.0"
+
+**2023-05-28** — opened issue [#139](https://github.com/Kotlin/binary-compatibility-validator/issues/139) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Support K2 Compiler"
+
+**2023-05-28** — created branch `z/kotlin19` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-05-28** — opened issue [#74](https://github.com/slackhq/slack-lints/issues/74) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location for DoNotMock checks with nested elements"
+
 **2023-05-28** — opened issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
 
 **2023-05-28** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — merged PR [#375](https://github.com/slackhq/slack-gradle-plugin/pull/375) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32"
 
 **2023-05-28** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — merged PR [#374](https://github.com/slackhq/slack-gradle-plugin/pull/374) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.19.0"
-
-**2023-05-28** — merged PR [#372](https://github.com/slackhq/slack-gradle-plugin/pull/372) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
