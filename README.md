@@ -4,13 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-28** — opened issue [#72](https://github.com/slackhq/slack-lints/issues/72) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid using implicit internal APIs"
+**2023-05-28** — opened issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
 
-**2023-05-27** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1565645203) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-28** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-27** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1565644187) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-28** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-05-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-28** — merged PR [#375](https://github.com/slackhq/slack-gradle-plugin/pull/375) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32"
+
+**2023-05-28** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-28** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-28** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-05-28** — merged PR [#374](https://github.com/slackhq/slack-gradle-plugin/pull/374) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.19.0"
+
+**2023-05-28** — merged PR [#372](https://github.com/slackhq/slack-gradle-plugin/pull/372) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
