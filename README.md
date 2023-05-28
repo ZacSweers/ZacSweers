@@ -4,13 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-28** — opened issue [#72](https://github.com/slackhq/slack-lints/issues/72) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid using implicit internal APIs"
+
 **2023-05-27** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1565645203) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-27** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1565644187) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-27** — merged PR [#715](https://github.com/ZacSweers/CatchUp/pull/715) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
