@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-28** — created branch `z/improvedReauth` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-05-28** — opened PR [#143](https://github.com/ZacSweers/redacted-compiler-plugin/pull/143) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 1.9.0"
 
 **2023-05-28** — opened issue [#139](https://github.com/Kotlin/binary-compatibility-validator/issues/139) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Support K2 Compiler"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-28** — merged PR [#375](https://github.com/slackhq/slack-gradle-plugin/pull/375) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32"
-
-**2023-05-28** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
