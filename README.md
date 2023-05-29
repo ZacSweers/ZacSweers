@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — opened PR [#75](https://github.com/slackhq/slack-lints/pull/75) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlinx-metadata for more accurate Kotlin checks"
+
+**2023-05-29** — created branch `z/metadata` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-05-28** — opened PR [#713](https://github.com/square/anvil/pull/713) to [square/anvil](https://github.com/square/anvil): "(WIP) Support Dagger KSP"
 
 **2023-05-28** — created branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — merged PR [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 1.8.21"
 
 **2023-05-28** — deleted branch `z/kotlin1820` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-28** — commented on [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133#issuecomment-1566340481) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-28** — merged PR [#143](https://github.com/ZacSweers/kotlin-compile-testing/pull/143) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.25.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
