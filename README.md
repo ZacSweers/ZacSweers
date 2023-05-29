@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — closed issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
+
+**2023-05-29** — deleted branch `z/metadata` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-29** — merged PR [#75](https://github.com/slackhq/slack-lints/pull/75) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlinx-metadata for more accurate Kotlin checks"
+
 **2023-05-29** — deleted branch `z/oneMoreFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-29** — merged PR [#1581](https://github.com/square/kotlinpoet/pull/1581) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix one more missing API in binary compatibility override in Annotatable.Builder"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — commented on [#363](https://github.com/slackhq/slack-gradle-plugin/issues/363#issuecomment-1567333700) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-29** — opened PR [#1581](https://github.com/square/kotlinpoet/pull/1581) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix one more missing API in binary compatibility override in Annotatable.Builder"
-
-**2023-05-29** — created branch `z/oneMoreFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-29** — commented on [#1580](https://github.com/square/kotlinpoet/pull/1580#issuecomment-1567293835) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-29** — opened issue [#140](https://github.com/Kotlin/binary-compatibility-validator/issues/140) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Feature request: support validating against past versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
