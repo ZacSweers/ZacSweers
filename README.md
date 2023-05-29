@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-28** — deleted branch `z/kotlin19` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-28** — merged PR [#721](https://github.com/ZacSweers/CatchUp/pull/721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.9.0-Beta"
+
+**2023-05-28** — commented on [#362](https://github.com/facebook/ktfmt/issues/362#issuecomment-1566335282) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2023-05-28** — opened PR [#721](https://github.com/ZacSweers/CatchUp/pull/721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.9.0-Beta"
+
+**2023-05-28** — created branch `z/kotlin19` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-05-28** — created branch `z/improvedReauth` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-28** — opened PR [#143](https://github.com/ZacSweers/redacted-compiler-plugin/pull/143) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 1.9.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — created branch `z/kotlin19` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-05-28** — opened issue [#74](https://github.com/slackhq/slack-lints/issues/74) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location for DoNotMock checks with nested elements"
-
-**2023-05-28** — opened issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
-
-**2023-05-28** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-28** — merged PR [#375](https://github.com/slackhq/slack-gradle-plugin/pull/375) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
