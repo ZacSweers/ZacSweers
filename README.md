@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-28** — opened PR [#713](https://github.com/square/anvil/pull/713) to [square/anvil](https://github.com/square/anvil): "(WIP) Support Dagger KSP"
+
+**2023-05-28** — created branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-05-28** — opened PR [#152](https://github.com/ZacSweers/kotlin-compile-testing/pull/152) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 1.9.0"
 
 **2023-05-28** — created branch `z/kotlin19` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — commented on [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133#issuecomment-1566340481) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-05-28** — merged PR [#143](https://github.com/ZacSweers/kotlin-compile-testing/pull/143) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.25.2"
-
-**2023-05-28** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-28** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
