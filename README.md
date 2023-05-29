@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — deleted branch `renovate/com.squareup` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-05-29** — merged PR [#153](https://github.com/ZacSweers/kotlin-compile-testing/pull/153) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup:kotlinpoet to v1.14.0"
+
 **2023-05-29** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-29** — merged PR [#722](https://github.com/ZacSweers/CatchUp/pull/722) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.3-beta"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-28** — opened PR [#152](https://github.com/ZacSweers/kotlin-compile-testing/pull/152) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 1.9.0"
 
 **2023-05-28** — created branch `z/kotlin19` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-28** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-28** — merged PR [#151](https://github.com/ZacSweers/kotlin-compile-testing/pull/151) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
