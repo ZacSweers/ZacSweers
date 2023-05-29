@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-05-28** — deleted branch `z/kotlin19` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-28** — opened PR [#152](https://github.com/ZacSweers/kotlin-compile-testing/pull/152) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 1.9.0"
 
-**2023-05-28** — merged PR [#721](https://github.com/ZacSweers/CatchUp/pull/721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.9.0-Beta"
+**2023-05-28** — created branch `z/kotlin19` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-05-28** — commented on [#362](https://github.com/facebook/ktfmt/issues/362#issuecomment-1566335282) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2023-05-28** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-05-28** — opened PR [#721](https://github.com/ZacSweers/CatchUp/pull/721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to Kotlin 1.9.0-Beta"
+**2023-05-28** — merged PR [#151](https://github.com/ZacSweers/kotlin-compile-testing/pull/151) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.0"
 
-**2023-05-28** — created branch `z/kotlin19` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-05-28** — merged PR [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 1.8.21"
 
-**2023-05-28** — created branch `z/improvedReauth` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-05-28** — deleted branch `z/kotlin1820` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-05-28** — opened PR [#143](https://github.com/ZacSweers/redacted-compiler-plugin/pull/143) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 1.9.0"
+**2023-05-28** — commented on [#133](https://github.com/ZacSweers/kotlin-compile-testing/pull/133#issuecomment-1566340481) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-05-28** — opened issue [#139](https://github.com/Kotlin/binary-compatibility-validator/issues/139) on [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator): "Support K2 Compiler"
+**2023-05-28** — merged PR [#143](https://github.com/ZacSweers/kotlin-compile-testing/pull/143) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.25.2"
 
-**2023-05-28** — created branch `z/kotlin19` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-05-28** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-05-28** — opened issue [#74](https://github.com/slackhq/slack-lints/issues/74) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location for DoNotMock checks with nested elements"
+**2023-05-28** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
