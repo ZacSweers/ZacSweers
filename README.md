@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — commented on [#1580](https://github.com/square/kotlinpoet/pull/1580#issuecomment-1567223502) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-29** — deleted branch `z/abiFixes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-29** — closed issue [#1579](https://github.com/square/kotlinpoet/issues/1579) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "1.14.0 has breaking ABI changes to documentable and annotatable builders"
+
+**2023-05-29** — merged PR [#1580](https://github.com/square/kotlinpoet/pull/1580) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Restore ABI stability for annotatable and documentable builders"
+
 **2023-05-29** — opened PR [#1580](https://github.com/square/kotlinpoet/pull/1580) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Restore ABI stability for annotatable and documentable builders"
 
 **2023-05-29** — created branch `z/abiFixes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — opened issue [#1579](https://github.com/square/kotlinpoet/issues/1579) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "1.14.0 has a breaking ABI change"
 
 **2023-05-29** — deleted branch `renovate/com.squareup` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-05-29** — merged PR [#153](https://github.com/ZacSweers/kotlin-compile-testing/pull/153) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup:kotlinpoet to v1.14.0"
-
-**2023-05-29** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-29** — merged PR [#722](https://github.com/ZacSweers/CatchUp/pull/722) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.3-beta"
-
-**2023-05-29** — opened PR [#75](https://github.com/slackhq/slack-lints/pull/75) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlinx-metadata for more accurate Kotlin checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
