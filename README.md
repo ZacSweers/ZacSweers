@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — commented on [#62](https://github.com/slackhq/EitherNet/issues/62#issuecomment-1567439248) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-05-29** — opened issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
+
 **2023-05-29** — closed issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
 
 **2023-05-29** — deleted branch `z/metadata` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — created branch `z/updateComment` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-05-29** — closed issue [#363](https://github.com/slackhq/slack-gradle-plugin/issues/363) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Request to add com.sun.tools.javac.model to bootstrap update."
-
-**2023-05-29** — commented on [#363](https://github.com/slackhq/slack-gradle-plugin/issues/363#issuecomment-1567333700) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-29** — opened PR [#1581](https://github.com/square/kotlinpoet/pull/1581) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix one more missing API in binary compatibility override in Annotatable.Builder"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
