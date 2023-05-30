@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — commented on [#1580](https://github.com/square/kotlinpoet/pull/1580#issuecomment-1568487953) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-05-30** — closed issue [#1586](https://github.com/square/moshi/issues/1586) on [square/moshi](https://github.com/square/moshi): "Kotlin 1.7.20 Support"
+
 **2023-05-29** — opened PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
 
 **2023-05-29** — created branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — merged PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
 
 **2023-05-29** — commented on [#62](https://github.com/slackhq/EitherNet/issues/62#issuecomment-1567439248) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-29** — opened issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
-
-**2023-05-29** — closed issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
