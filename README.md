@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-05-30** — merged PR [#725](https://github.com/ZacSweers/CatchUp/pull/725) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-rc01"
+
+**2023-05-30** — merged PR [#724](https://github.com/ZacSweers/CatchUp/pull/724) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.1"
+
+**2023-05-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-05-30** — commented on [#1580](https://github.com/square/kotlinpoet/pull/1580#issuecomment-1568487953) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-05-30** — closed issue [#1586](https://github.com/square/moshi/issues/1586) on [square/moshi](https://github.com/square/moshi): "Kotlin 1.7.20 Support"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — closed issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
 
 **2023-05-29** — closed issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
-
-**2023-05-29** — deleted branch `z/moreDoNotMockTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-29** — closed issue [#64](https://github.com/slackhq/slack-lints/issues/64) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid Record types"
-
-**2023-05-29** — merged PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
-
-**2023-05-29** — commented on [#62](https://github.com/slackhq/EitherNet/issues/62#issuecomment-1567439248) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
