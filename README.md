@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.6.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-30** — merged PR [#78](https://github.com/slackhq/slack-lints/pull/78) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.0 to 0.6.1"
+
+**2023-05-30** — deleted branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-30** — merged PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
+
+**2023-05-30** — closed issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
+
 **2023-05-30** — commented on [#63](https://github.com/slackhq/EitherNet/pull/63#issuecomment-1568880543) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-30** — merged PR [#724](https://github.com/ZacSweers/CatchUp/pull/724) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.1"
 
 **2023-05-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-30** — commented on [#1580](https://github.com/square/kotlinpoet/pull/1580#issuecomment-1568487953) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-30** — closed issue [#1586](https://github.com/square/moshi/issues/1586) on [square/moshi](https://github.com/square/moshi): "Kotlin 1.7.20 Support"
-
-**2023-05-29** — opened PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
-
-**2023-05-29** — created branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-29** — closed issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
