@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — commented on [#63](https://github.com/slackhq/EitherNet/pull/63#issuecomment-1568880543) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-05-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-05-30** — merged PR [#725](https://github.com/ZacSweers/CatchUp/pull/725) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-rc01"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — created branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-29** — closed issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
-
-**2023-05-29** — closed issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
