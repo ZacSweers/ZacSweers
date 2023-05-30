@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — closed issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
+
+**2023-05-29** — closed issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
+
+**2023-05-29** — deleted branch `z/moreDoNotMockTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-29** — closed issue [#64](https://github.com/slackhq/slack-lints/issues/64) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid Record types"
+
+**2023-05-29** — merged PR [#66](https://github.com/slackhq/slack-lints/pull/66) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add more DoNotMock types"
+
 **2023-05-29** — commented on [#62](https://github.com/slackhq/EitherNet/issues/62#issuecomment-1567439248) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-29** — opened issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — deleted branch `z/metadata` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-29** — merged PR [#75](https://github.com/slackhq/slack-lints/pull/75) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlinx-metadata for more accurate Kotlin checks"
-
-**2023-05-29** — deleted branch `z/oneMoreFix` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-05-29** — merged PR [#1581](https://github.com/square/kotlinpoet/pull/1581) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix one more missing API in binary compatibility override in Annotatable.Builder"
-
-**2023-05-29** — opened PR [#376](https://github.com/slackhq/slack-gradle-plugin/pull/376) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update bootstrap opens comment for clarity"
-
-**2023-05-29** — created branch `z/updateComment` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-05-29** — closed issue [#363](https://github.com/slackhq/slack-gradle-plugin/issues/363) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Request to add com.sun.tools.javac.model to bootstrap update."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
