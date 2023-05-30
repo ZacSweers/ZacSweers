@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-29** — opened PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
+
+**2023-05-29** — created branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-05-29** — closed issue [#62](https://github.com/slackhq/slack-lints/issues/62) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid sealed classes"
 
 **2023-05-29** — closed issue [#63](https://github.com/slackhq/slack-lints/issues/63) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Extend DoNotMock to forbid object types"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-29** — opened issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
 
 **2023-05-29** — closed issue [#53](https://github.com/slackhq/slack-lints/issues/53) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotMock false negatives"
-
-**2023-05-29** — deleted branch `z/metadata` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-29** — merged PR [#75](https://github.com/slackhq/slack-lints/pull/75) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Use kotlinx-metadata for more accurate Kotlin checks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
