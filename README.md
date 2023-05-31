@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.4` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-05-31** — merged PR [#47](https://github.com/slackhq/moshi-gson-interop/pull/47) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.1.3 to 1.1.4"
+
+**2023-05-31** — closed issue [#74](https://github.com/slackhq/slack-lints/issues/74) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location for DoNotMock checks with nested elements"
+
+**2023-05-31** — deleted branch `z/betterErrorLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-31** — merged PR [#79](https://github.com/slackhq/slack-lints/pull/79) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location reporting + fix type resolution in mock detector"
+
 **2023-05-30** — opened PR [#79](https://github.com/slackhq/slack-lints/pull/79) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location reporting + fix type resolution in mock detector"
 
 **2023-05-30** — created branch `z/betterErrorLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-30** — closed issue [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176) on [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Index out of bounds in buildFinished action"
 
 **2023-05-30** — commented on [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176#issuecomment-1569350810) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
-
-**2023-05-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.6.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-30** — merged PR [#78](https://github.com/slackhq/slack-lints/pull/78) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.0 to 0.6.1"
-
-**2023-05-30** — deleted branch `z/consolidateMockDetectors` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-30** — merged PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
-
-**2023-05-30** — closed issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
