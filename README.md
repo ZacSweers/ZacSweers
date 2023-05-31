@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — merged PR [#145](https://github.com/ZacSweers/redacted-compiler-plugin/pull/145) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.1.4"
+
+**2023-05-31** — deleted branch `renovate/com.google.truth` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2023-05-31** — created tag `1.4.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-31** — merged PR [#63](https://github.com/slackhq/EitherNet/pull/63) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix NPE crash when body is null due to Http code 204 or 205"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — created tag `0.3.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-31** — merged PR [#82](https://github.com/slackhq/slack-lints/pull/82) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error messages in mock detectors"
-
-**2023-05-31** — deleted branch `z/betterErrorMessages` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-31** — opened PR [#82](https://github.com/slackhq/slack-lints/pull/82) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error messages in mock detectors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
