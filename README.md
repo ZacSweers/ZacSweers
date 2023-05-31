@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1571040662) in [square/anvil](https://github.com/square/anvil)
+
 **2023-05-31** — deleted branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-31** — closed issue [#653](https://github.com/slackhq/circuit/issues/653) on [slackhq/circuit](https://github.com/slackhq/circuit): "All NavEvent subclasses are internal"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — opened PR [#660](https://github.com/slackhq/circuit/pull/660) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent subtypes public"
 
 **2023-05-31** — created branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-31** — merged PR [#45](https://github.com/ZacSweers/ZacSweers/pull/45) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
