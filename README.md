@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — opened issue [#20](https://github.com/cdsap/InfoKotlinProcess/issues/20) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "index out of bounds exception thrown while logging to scans"
+
+**2023-05-30** — closed issue [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176) on [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Index out of bounds in buildFinished action"
+
+**2023-05-30** — commented on [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176#issuecomment-1569350810) in [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin)
+
 **2023-05-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.6.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-30** — merged PR [#78](https://github.com/slackhq/slack-lints/pull/78) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.0 to 0.6.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-30** — commented on [#63](https://github.com/slackhq/EitherNet/pull/63#issuecomment-1568880543) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-05-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-05-30** — merged PR [#725](https://github.com/ZacSweers/CatchUp/pull/725) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-rc01"
-
-**2023-05-30** — merged PR [#724](https://github.com/ZacSweers/CatchUp/pull/724) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.1"
-
-**2023-05-30** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
