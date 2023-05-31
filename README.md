@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.4.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-05-31** — deleted branch `ke/remove-nav-events` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-31** — closed PR [#476](https://github.com/slackhq/circuit/pull/476) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove NavEvents and obtain Navigator via CompositionLocal"
+
+**2023-05-31** — commented on [#476](https://github.com/slackhq/circuit/pull/476#issuecomment-1570789236) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-31** — opened PR [#660](https://github.com/slackhq/circuit/pull/660) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent subtypes public"
+
+**2023-05-31** — created branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-31** — merged PR [#45](https://github.com/ZacSweers/ZacSweers/pull/45) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.1"
+
+**2023-05-31** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2023-05-31** — merged PR [#145](https://github.com/ZacSweers/redacted-compiler-plugin/pull/145) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.1.4"
 
 **2023-05-31** — deleted branch `renovate/com.google.truth` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-05-31** — created tag `1.4.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-31** — merged PR [#63](https://github.com/slackhq/EitherNet/pull/63) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix NPE crash when body is null due to Http code 204 or 205"
-
-**2023-05-31** — commented on [#63](https://github.com/slackhq/EitherNet/pull/63#issuecomment-1570494002) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-31** — closed issue [#51](https://github.com/slackhq/slack-lints/issues/51) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid mocking platform types"
-
-**2023-05-31** — merged PR [#81](https://github.com/slackhq/slack-lints/pull/81) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement PlatformTypeMockDetector"
-
-**2023-05-31** — deleted branch `z/platformTypeMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-31** — created tag `0.3.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-05-31** — merged PR [#82](https://github.com/slackhq/slack-lints/pull/82) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve error messages in mock detectors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
