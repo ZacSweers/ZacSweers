@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — deleted branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-05-31** — closed issue [#653](https://github.com/slackhq/circuit/issues/653) on [slackhq/circuit](https://github.com/slackhq/circuit): "All NavEvent subclasses are internal"
+
+**2023-05-31** — merged PR [#660](https://github.com/slackhq/circuit/pull/660) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent subtypes public"
+
 **2023-05-31** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.4.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-05-31** — deleted branch `ke/remove-nav-events` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — created branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-31** — merged PR [#45](https://github.com/ZacSweers/ZacSweers/pull/45) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.4.1"
-
-**2023-05-31** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-05-31** — merged PR [#145](https://github.com/ZacSweers/redacted-compiler-plugin/pull/145) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.1.4"
-
-**2023-05-31** — deleted branch `renovate/com.google.truth` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
