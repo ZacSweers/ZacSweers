@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-30** — opened PR [#79](https://github.com/slackhq/slack-lints/pull/79) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve location reporting + fix type resolution in mock detector"
+
+**2023-05-30** — created branch `z/betterErrorLocation` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-05-30** — opened issue [#20](https://github.com/cdsap/InfoKotlinProcess/issues/20) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "index out of bounds exception thrown while logging to scans"
 
 **2023-05-30** — closed issue [#176](https://github.com/gradle/common-custom-user-data-gradle-plugin/issues/176) on [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Index out of bounds in buildFinished action"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-30** — merged PR [#77](https://github.com/slackhq/slack-lints/pull/77) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consolidate mock checks to a single detector"
 
 **2023-05-30** — closed issue [#76](https://github.com/slackhq/slack-lints/issues/76) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Unify mock detectors to a single detector"
-
-**2023-05-30** — commented on [#63](https://github.com/slackhq/EitherNet/pull/63#issuecomment-1568880543) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-05-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
