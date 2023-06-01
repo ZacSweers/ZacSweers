@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-01** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1572669681) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-06-01** — merged PR [#84](https://github.com/slackhq/slack-lints/pull/84) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.1 to 0.6.2"
+
+**2023-06-01** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.6.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-06-01** — commented on [#710](https://github.com/square/anvil/issues/710#issuecomment-1571304326) in [square/anvil](https://github.com/square/anvil)
 
 **2023-05-31** — commented on [#708](https://github.com/square/anvil/issues/708#issuecomment-1571296483) in [square/anvil](https://github.com/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1571280046) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-05-31** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1571040662) in [square/anvil](https://github.com/square/anvil)
-
-**2023-05-31** — deleted branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-05-31** — closed issue [#653](https://github.com/slackhq/circuit/issues/653) on [slackhq/circuit](https://github.com/slackhq/circuit): "All NavEvent subclasses are internal"
-
-**2023-05-31** — merged PR [#660](https://github.com/slackhq/circuit/pull/660) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent subtypes public"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
