@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-05-31** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1571280046) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-05-31** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1571040662) in [square/anvil](https://github.com/square/anvil)
 
 **2023-05-31** — deleted branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — commented on [#476](https://github.com/slackhq/circuit/pull/476#issuecomment-1570789236) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-05-31** — opened PR [#660](https://github.com/slackhq/circuit/pull/660) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent subtypes public"
-
-**2023-05-31** — created branch `z/publicEvents` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
