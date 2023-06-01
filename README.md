@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-01** — deleted branch `renovate/kotlin-monorepo` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-06-01** — merged PR [#1586](https://github.com/square/kotlinpoet/pull/1586) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.2"
+
 **2023-06-01** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1572669681) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-06-01** — merged PR [#84](https://github.com/slackhq/slack-lints/pull/84) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.1 to 0.6.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-05-31** — commented on [#707](https://github.com/square/anvil/issues/707#issuecomment-1571296276) in [square/anvil](https://github.com/square/anvil)
 
 **2023-05-31** — commented on [#710](https://github.com/square/anvil/issues/710#issuecomment-1571296233) in [square/anvil](https://github.com/square/anvil)
-
-**2023-05-31** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1571280046) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-05-31** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1571040662) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
