@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-01** — deleted branch `renovate/kotlin-monorepo` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-06-02** — deleted branch `renovate/com.google.truth` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-01** — merged PR [#1586](https://github.com/square/kotlinpoet/pull/1586) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.2"
+**2023-06-02** — merged PR [#726](https://github.com/ZacSweers/CatchUp/pull/726) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.1.4"
 
-**2023-06-01** — commented on [#29](https://github.com/ZacSweers/auto-service-ksp/issues/29#issuecomment-1572669681) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-06-02** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-01** — merged PR [#84](https://github.com/slackhq/slack-lints/pull/84) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.1 to 0.6.2"
+**2023-06-02** — merged PR [#727](https://github.com/ZacSweers/CatchUp/pull/727) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha06"
 
-**2023-06-01** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.6.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-06-02** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-01** — commented on [#710](https://github.com/square/anvil/issues/710#issuecomment-1571304326) in [square/anvil](https://github.com/square/anvil)
+**2023-06-02** — merged PR [#728](https://github.com/ZacSweers/CatchUp/pull/728) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.192.0"
 
-**2023-05-31** — commented on [#708](https://github.com/square/anvil/issues/708#issuecomment-1571296483) in [square/anvil](https://github.com/square/anvil)
+**2023-06-02** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-31** — commented on [#705](https://github.com/square/anvil/issues/705#issuecomment-1571296382) in [square/anvil](https://github.com/square/anvil)
+**2023-06-02** — merged PR [#714](https://github.com/ZacSweers/CatchUp/pull/714) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.2"
 
-**2023-05-31** — commented on [#707](https://github.com/square/anvil/issues/707#issuecomment-1571296276) in [square/anvil](https://github.com/square/anvil)
+**2023-06-02** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-05-31** — commented on [#710](https://github.com/square/anvil/issues/710#issuecomment-1571296233) in [square/anvil](https://github.com/square/anvil)
+**2023-06-02** — merged PR [#716](https://github.com/ZacSweers/CatchUp/pull/716) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
