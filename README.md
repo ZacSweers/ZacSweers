@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-03** — closed issue [#36](https://github.com/square/gradle-dependencies-sorter/issues/36) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Plugin skips validation due to parse error on unrelated block"
+
+**2023-06-03** — merged PR [#50](https://github.com/square/gradle-dependencies-sorter/pull/50) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Tolerate project declarations in text blocks"
+
+**2023-06-03** — deleted branch `JakeWharton-patch-1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-06-03** — merged PR [#62](https://github.com/square/gradle-dependencies-sorter/pull/62) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Have badge link to central"
+
 **2023-06-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-06-03** — merged PR [#131](https://github.com/slackhq/compose-lints/pull/131) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.3"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-02** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-02** — merged PR [#727](https://github.com/ZacSweers/CatchUp/pull/727) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha06"
-
-**2023-06-02** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-02** — merged PR [#728](https://github.com/ZacSweers/CatchUp/pull/728) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.192.0"
-
-**2023-06-02** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-02** — merged PR [#714](https://github.com/ZacSweers/CatchUp/pull/714) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
