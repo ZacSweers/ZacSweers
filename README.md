@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-03** — merged PR [#131](https://github.com/slackhq/compose-lints/pull/131) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.3"
+
 **2023-06-02** — deleted branch `renovate/com.google.truth` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-02** — merged PR [#726](https://github.com/ZacSweers/CatchUp/pull/726) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.1.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-02** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-02** — merged PR [#714](https://github.com/ZacSweers/CatchUp/pull/714) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.2"
-
-**2023-06-02** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-02** — merged PR [#716](https://github.com/ZacSweers/CatchUp/pull/716) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
