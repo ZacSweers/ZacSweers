@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-06-03** — merged PR [#435](https://github.com/ZacSweers/MoshiX/pull/435) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.2"
+
+**2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-06-03** — merged PR [#146](https://github.com/ZacSweers/redacted-compiler-plugin/pull/146) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.2"
+
 **2023-06-03** — closed issue [#36](https://github.com/square/gradle-dependencies-sorter/issues/36) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Plugin skips validation due to parse error on unrelated block"
 
 **2023-06-03** — merged PR [#50](https://github.com/square/gradle-dependencies-sorter/pull/50) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Tolerate project declarations in text blocks"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-06-03** — merged PR [#131](https://github.com/slackhq/compose-lints/pull/131) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.3"
-
-**2023-06-02** — deleted branch `renovate/com.google.truth` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-02** — merged PR [#726](https://github.com/ZacSweers/CatchUp/pull/726) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.1.4"
-
-**2023-06-02** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-02** — merged PR [#727](https://github.com/ZacSweers/CatchUp/pull/727) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha06"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
