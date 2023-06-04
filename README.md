@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-04** — commented on [#665](https://github.com/slackhq/circuit/issues/665#issuecomment-1575598968) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-04** — opened PR [#666](https://github.com/slackhq/circuit/pull/666) to [slackhq/circuit](https://github.com/slackhq/circuit): "Control all config changes in sample android apps"
+
+**2023-06-04** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-03** — merged PR [#435](https://github.com/ZacSweers/MoshiX/pull/435) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-03** — merged PR [#50](https://github.com/square/gradle-dependencies-sorter/pull/50) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Tolerate project declarations in text blocks"
 
 **2023-06-03** — deleted branch `JakeWharton-patch-1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-06-03** — merged PR [#62](https://github.com/square/gradle-dependencies-sorter/pull/62) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Have badge link to central"
-
-**2023-06-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-03** — merged PR [#131](https://github.com/slackhq/compose-lints/pull/131) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
