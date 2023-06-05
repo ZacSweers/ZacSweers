@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-05** — commented on [#428](https://github.com/ZacSweers/MoshiX/pull/428#issuecomment-1576794659) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-06-04** — commented on [#58](https://github.com/square/gradle-dependencies-sorter/pull/58#issuecomment-1575973893) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-06-04** — merged PR [#58](https://github.com/square/gradle-dependencies-sorter/pull/58) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Sort add function call in depedencies"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-03** — merged PR [#435](https://github.com/ZacSweers/MoshiX/pull/435) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.2"
-
-**2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
