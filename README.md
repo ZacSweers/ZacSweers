@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-05** — opened PR [#64](https://github.com/square/gradle-dependencies-sorter/pull/64) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Split Gradle tasks into check and sort"
+**2023-06-05** — commented on [#1538](https://github.com/square/kotlinpoet/pull/1538#issuecomment-1577503376) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2023-06-05** — created branch `z/splitTasks` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-06-05** — merged PR [#733](https://github.com/ZacSweers/CatchUp/pull/733) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.193.0"
 
-**2023-06-05** — opened PR [#63](https://github.com/square/gradle-dependencies-sorter/pull/63) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Flip quiet to verbose"
+**2023-06-05** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-05** — created branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-06-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-06-05** — deleted branch `z/fixMissingLoggerClose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-06-05** — merged PR [#147](https://github.com/ZacSweers/redacted-compiler-plugin/pull/147) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.8.20"
 
-**2023-06-05** — closed issue [#43](https://github.com/square/gradle-dependencies-sorter/issues/43) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Log file location is no longer output in 0.2"
+**2023-06-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-05** — merged PR [#54](https://github.com/square/gradle-dependencies-sorter/pull/54) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Close logger after invocation"
+**2023-06-05** — merged PR [#436](https://github.com/ZacSweers/MoshiX/pull/436) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.8.20"
 
-**2023-06-05** — deleted branch `z/functionCallDeps` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-06-05** — deleted branch `z/splitTasks` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
-**2023-06-05** — commented on [#428](https://github.com/ZacSweers/MoshiX/pull/428#issuecomment-1576794659) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-06-05** — closed issue [#60](https://github.com/square/gradle-dependencies-sorter/issues/60) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Consider using two tasks rather than one with an argument"
 
-**2023-06-04** — commented on [#58](https://github.com/square/gradle-dependencies-sorter/pull/58#issuecomment-1575973893) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2023-06-05** — merged PR [#64](https://github.com/square/gradle-dependencies-sorter/pull/64) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Split Gradle tasks into check and sort"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
