@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-05** — deleted branch `z/functionCallDeps` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-06-05** — commented on [#428](https://github.com/ZacSweers/MoshiX/pull/428#issuecomment-1576794659) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-04** — commented on [#58](https://github.com/square/gradle-dependencies-sorter/pull/58#issuecomment-1575973893) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-04** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-03** — merged PR [#435](https://github.com/ZacSweers/MoshiX/pull/435) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
