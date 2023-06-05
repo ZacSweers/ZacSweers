@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-05** — opened PR [#64](https://github.com/square/gradle-dependencies-sorter/pull/64) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Split Gradle tasks into check and sort"
+
+**2023-06-05** — created branch `z/splitTasks` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-06-05** — opened PR [#63](https://github.com/square/gradle-dependencies-sorter/pull/63) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Flip quiet to verbose"
 
 **2023-06-05** — created branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-05** — commented on [#428](https://github.com/ZacSweers/MoshiX/pull/428#issuecomment-1576794659) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-04** — commented on [#58](https://github.com/square/gradle-dependencies-sorter/pull/58#issuecomment-1575973893) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-06-04** — merged PR [#58](https://github.com/square/gradle-dependencies-sorter/pull/58) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Sort add function call in depedencies"
-
-**2023-06-04** — closed issue [#18](https://github.com/square/gradle-dependencies-sorter/issues/18) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Function parsing issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
