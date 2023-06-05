@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-05** — created branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
+**2023-06-05** — deleted branch `z/fixMissingLoggerClose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
+**2023-06-05** — closed issue [#43](https://github.com/square/gradle-dependencies-sorter/issues/43) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Log file location is no longer output in 0.2"
+
+**2023-06-05** — merged PR [#54](https://github.com/square/gradle-dependencies-sorter/pull/54) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Close logger after invocation"
+
 **2023-06-05** — deleted branch `z/functionCallDeps` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-06-05** — commented on [#428](https://github.com/ZacSweers/MoshiX/pull/428#issuecomment-1576794659) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-04** — closed issue [#18](https://github.com/square/gradle-dependencies-sorter/issues/18) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Function parsing issue"
 
 **2023-06-04** — merged PR [#53](https://github.com/square/gradle-dependencies-sorter/pull/53) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Allow function call dependency declarations"
-
-**2023-06-04** — commented on [#665](https://github.com/slackhq/circuit/issues/665#issuecomment-1575598968) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-04** — opened PR [#666](https://github.com/slackhq/circuit/pull/666) to [slackhq/circuit](https://github.com/slackhq/circuit): "Control all config changes in sample android apps"
-
-**2023-06-04** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
