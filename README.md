@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-04** — commented on [#58](https://github.com/square/gradle-dependencies-sorter/pull/58#issuecomment-1575973893) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-06-04** — merged PR [#58](https://github.com/square/gradle-dependencies-sorter/pull/58) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Sort add function call in depedencies"
+
+**2023-06-04** — closed issue [#18](https://github.com/square/gradle-dependencies-sorter/issues/18) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Function parsing issue"
+
+**2023-06-04** — merged PR [#53](https://github.com/square/gradle-dependencies-sorter/pull/53) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Allow function call dependency declarations"
+
 **2023-06-04** — commented on [#665](https://github.com/slackhq/circuit/issues/665#issuecomment-1575598968) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-04** — opened PR [#666](https://github.com/slackhq/circuit/pull/666) to [slackhq/circuit](https://github.com/slackhq/circuit): "Control all config changes in sample android apps"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-03** — merged PR [#435](https://github.com/ZacSweers/MoshiX/pull/435) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.13.2"
 
 **2023-06-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-03** — merged PR [#146](https://github.com/ZacSweers/redacted-compiler-plugin/pull/146) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.13.2"
-
-**2023-06-03** — closed issue [#36](https://github.com/square/gradle-dependencies-sorter/issues/36) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Plugin skips validation due to parse error on unrelated block"
-
-**2023-06-03** — merged PR [#50](https://github.com/square/gradle-dependencies-sorter/pull/50) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Tolerate project declarations in text blocks"
-
-**2023-06-03** — deleted branch `JakeWharton-patch-1` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
