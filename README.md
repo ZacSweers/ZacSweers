@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-06** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-06-06** — merged PR [#48](https://github.com/slackhq/moshi-gson-interop/pull/48) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
+
 **2023-06-05** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-06-05** — merged PR [#42](https://github.com/slackhq/auto-value-kotlin/pull/42) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-05** — commented on [#1538](https://github.com/square/kotlinpoet/pull/1538#issuecomment-1577503376) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-06-05** — merged PR [#733](https://github.com/ZacSweers/CatchUp/pull/733) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.193.0"
-
-**2023-06-05** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
