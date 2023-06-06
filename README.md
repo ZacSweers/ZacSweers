@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-06** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-06** — closed issue [#665](https://github.com/slackhq/circuit/issues/665) on [slackhq/circuit](https://github.com/slackhq/circuit): "samples.Interop - counter reset after configuration changes + UI can't handle landscape"
+
+**2023-06-06** — merged PR [#666](https://github.com/slackhq/circuit/pull/666) to [slackhq/circuit](https://github.com/slackhq/circuit): "Control all config changes in sample android apps"
+
 **2023-06-06** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-06-06** — merged PR [#48](https://github.com/slackhq/moshi-gson-interop/pull/48) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-05** — deleted branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-06-05** — closed issue [#61](https://github.com/square/gradle-dependencies-sorter/issues/61) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Do not log in Gradle lifecycle scope"
-
-**2023-06-05** — merged PR [#63](https://github.com/square/gradle-dependencies-sorter/pull/63) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Flip quiet to verbose"
-
-**2023-06-05** — commented on [#1538](https://github.com/square/kotlinpoet/pull/1538#issuecomment-1577503376) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-06-05** — merged PR [#733](https://github.com/ZacSweers/CatchUp/pull/733) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.193.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
