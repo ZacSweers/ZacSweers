@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-05** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-06-05** — merged PR [#42](https://github.com/slackhq/auto-value-kotlin/pull/42) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
+
 **2023-06-05** — deleted branch `z/quiet` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-06-05** — deleted branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-05** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-05** — merged PR [#147](https://github.com/ZacSweers/redacted-compiler-plugin/pull/147) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.8.20"
-
-**2023-06-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
