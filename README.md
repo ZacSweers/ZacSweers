@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-06** — opened PR [#379](https://github.com/slackhq/slack-gradle-plugin/pull/379) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make robolectric optional"
+
+**2023-06-06** — created branch `z/optionalRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-06** — closed issue [#1679](https://github.com/square/moshi/issues/1679) on [square/moshi](https://github.com/square/moshi): "@Json(name = "key") with KotlinJsonAdapterFactory not working when using kotlin 1.8.x and R8."
+
+**2023-06-06** — commented on [#1679](https://github.com/square/moshi/issues/1679#issuecomment-1579120745) in [square/moshi](https://github.com/square/moshi)
+
+**2023-06-06** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-06** — merged PR [#132](https://github.com/slackhq/compose-lints/pull/132) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin dokka to v1.8.20"
+
 **2023-06-06** — closed issue [#667](https://github.com/slackhq/circuit/issues/667) on [slackhq/circuit](https://github.com/slackhq/circuit): "Error during IR lowering: Backend Internal error with Kotlin compiler "
 
 **2023-06-06** — commented on [#667](https://github.com/slackhq/circuit/issues/667#issuecomment-1579101995) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-06** — deleted branch `z/updateComment` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-06** — merged PR [#376](https://github.com/slackhq/slack-gradle-plugin/pull/376) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update bootstrap opens comment for clarity"
-
-**2023-06-06** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-06** — deleted branch `test-renovate/com.google.truth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-06** — merged PR [#378](https://github.com/slackhq/slack-gradle-plugin/pull/378) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.dokka to v1.8.20"
-
-**2023-06-06** — merged PR [#377](https://github.com/slackhq/slack-gradle-plugin/pull/377) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.truth:truth to v1.1.4"
-
-**2023-06-06** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-06** — closed issue [#665](https://github.com/slackhq/circuit/issues/665) on [slackhq/circuit](https://github.com/slackhq/circuit): "samples.Interop - counter reset after configuration changes + UI can't handle landscape"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
