@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-06** — opened PR [#383](https://github.com/slackhq/slack-gradle-plugin/pull/383) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up jvm args in project"
+**2023-06-06** — created tag `0.9.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — opened PR [#382](https://github.com/slackhq/slack-gradle-plugin/pull/382) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve unit test OOM handling"
+**2023-06-06** — merged PR [#379](https://github.com/slackhq/slack-gradle-plugin/pull/379) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make robolectric optional"
 
-**2023-06-06** — opened PR [#381](https://github.com/slackhq/slack-gradle-plugin/pull/381) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use ExitOnOutOfMemoryError for OOMs"
+**2023-06-06** — deleted branch `z/optionalRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — created branch `z/argsCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — deleted branch `z/jdkStrictness` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — created branch `z/testOOMs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — merged PR [#380](https://github.com/slackhq/slack-gradle-plugin/pull/380) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix bootstrap not using jvm vendor property"
 
-**2023-06-06** — created branch `z/jvmArgImprovements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — deleted branch `z/argsCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — opened PR [#380](https://github.com/slackhq/slack-gradle-plugin/pull/380) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix bootstrap not using jvm vendor property"
+**2023-06-06** — merged PR [#383](https://github.com/slackhq/slack-gradle-plugin/pull/383) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up jvm args in project"
 
-**2023-06-06** — created branch `z/jdkStrictness` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — deleted branch `z/testOOMs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — opened PR [#379](https://github.com/slackhq/slack-gradle-plugin/pull/379) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make robolectric optional"
+**2023-06-06** — merged PR [#382](https://github.com/slackhq/slack-gradle-plugin/pull/382) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve unit test OOM handling"
 
-**2023-06-06** — created branch `z/optionalRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — deleted branch `z/jvmArgImprovements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
