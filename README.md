@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-06** — closed issue [#667](https://github.com/slackhq/circuit/issues/667) on [slackhq/circuit](https://github.com/slackhq/circuit): "Error during IR lowering: Backend Internal error with Kotlin compiler "
+
+**2023-06-06** — commented on [#667](https://github.com/slackhq/circuit/issues/667#issuecomment-1579101995) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-06** — deleted branch `z/updateComment` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-06** — merged PR [#376](https://github.com/slackhq/slack-gradle-plugin/pull/376) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update bootstrap opens comment for clarity"
+
+**2023-06-06** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-06** — deleted branch `test-renovate/com.google.truth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-06** — merged PR [#378](https://github.com/slackhq/slack-gradle-plugin/pull/378) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.dokka to v1.8.20"
+
+**2023-06-06** — merged PR [#377](https://github.com/slackhq/slack-gradle-plugin/pull/377) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.truth:truth to v1.1.4"
+
 **2023-06-06** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-06** — closed issue [#665](https://github.com/slackhq/circuit/issues/665) on [slackhq/circuit](https://github.com/slackhq/circuit): "samples.Interop - counter reset after configuration changes + UI can't handle landscape"
-
-**2023-06-06** — merged PR [#666](https://github.com/slackhq/circuit/pull/666) to [slackhq/circuit](https://github.com/slackhq/circuit): "Control all config changes in sample android apps"
-
-**2023-06-06** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-06-06** — merged PR [#48](https://github.com/slackhq/moshi-gson-interop/pull/48) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
-
-**2023-06-05** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-06-05** — merged PR [#42](https://github.com/slackhq/auto-value-kotlin/pull/42) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.10 to 1.8.20"
-
-**2023-06-05** — deleted branch `z/quiet` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-06-05** — deleted branch `z/verbose` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-06-05** — closed issue [#61](https://github.com/square/gradle-dependencies-sorter/issues/61) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Do not log in Gradle lifecycle scope"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
