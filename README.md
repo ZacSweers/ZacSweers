@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-07** — merged PR [#87](https://github.com/slackhq/slack-lints/pull/87) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha07"
+
 **2023-06-06** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-06** — merged PR [#732](https://github.com/ZacSweers/CatchUp/pull/732) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.9.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-06** — merged PR [#437](https://github.com/ZacSweers/MoshiX/pull/437) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Force kotlin 1.8 for gradle plugin"
 
 **2023-06-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-06** — merged PR [#144](https://github.com/ZacSweers/redacted-compiler-plugin/pull/144) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.2"
-
-**2023-06-06** — opened PR [#437](https://github.com/ZacSweers/MoshiX/pull/437) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Force kotlin 1.8 for gradle plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
