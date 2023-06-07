@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-07** — opened PR [#65](https://github.com/square/gradle-dependencies-sorter/pull/65) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare 0.3 release notes"
+
+**2023-06-07** — created branch `z/changelog` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
 **2023-06-07** — opened PR [#671](https://github.com/slackhq/circuit/pull/671) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a vertical carousel in detail page in star sample"
 
 **2023-06-07** — created branch `z/verticalCarousel` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-07** — merged PR [#123](https://github.com/slackhq/compose-lints/pull/123) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.2"
 
 **2023-06-07** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-07** — merged PR [#736](https://github.com/ZacSweers/CatchUp/pull/736) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta02"
-
-**2023-06-07** — merged PR [#737](https://github.com/ZacSweers/CatchUp/pull/737) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
