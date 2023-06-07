@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-07** — created branch `z/telephoto` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-07** — opened PR [#669](https://github.com/slackhq/circuit/pull/669) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP integrate image viewer in Star sample"
+
 **2023-06-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-06-07** — merged PR [#87](https://github.com/slackhq/slack-lints/pull/87) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha07"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-06** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1579739561) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-06** — deleted branch `z/forceGradleKotlinVersion` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-06** — merged PR [#437](https://github.com/ZacSweers/MoshiX/pull/437) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Force kotlin 1.8 for gradle plugin"
-
-**2023-06-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
