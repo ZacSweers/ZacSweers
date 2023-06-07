@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-07** — created branch `z/telephoto` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-06-07** — opened PR [#671](https://github.com/slackhq/circuit/pull/671) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a vertical carousel in detail page in star sample"
 
-**2023-06-07** — opened PR [#669](https://github.com/slackhq/circuit/pull/669) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP integrate image viewer in Star sample"
+**2023-06-07** — created branch `z/verticalCarousel` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-06-07** — deleted branch `z/starFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-07** — merged PR [#87](https://github.com/slackhq/slack-lints/pull/87) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha07"
+**2023-06-07** — closed issue [#119](https://github.com/slackhq/circuit/issues/119) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail pager state not retained on rotation"
 
-**2023-06-06** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-07** — merged PR [#670](https://github.com/slackhq/circuit/pull/670) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small star sample fixes"
 
-**2023-06-06** — merged PR [#732](https://github.com/ZacSweers/CatchUp/pull/732) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.9.1"
+**2023-06-07** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-06-06** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-07** — merged PR [#123](https://github.com/slackhq/compose-lints/pull/123) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.2"
 
-**2023-06-06** — merged PR [#735](https://github.com/ZacSweers/CatchUp/pull/735) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.10"
+**2023-06-07** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-06** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1579739561) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-07** — merged PR [#736](https://github.com/ZacSweers/CatchUp/pull/736) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta02"
 
-**2023-06-06** — deleted branch `z/forceGradleKotlinVersion` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-06-07** — merged PR [#737](https://github.com/ZacSweers/CatchUp/pull/737) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
