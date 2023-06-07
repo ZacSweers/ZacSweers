@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-06** — merged PR [#734](https://github.com/ZacSweers/CatchUp/pull/734) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha07"
+**2023-06-06** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1579739561) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-06** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-06** — deleted branch `z/forceGradleKotlinVersion` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-06** — created tag `0.9.10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — merged PR [#437](https://github.com/ZacSweers/MoshiX/pull/437) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Force kotlin 1.8 for gradle plugin"
 
-**2023-06-06** — created tag `0.9.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-06-06** — merged PR [#379](https://github.com/slackhq/slack-gradle-plugin/pull/379) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make robolectric optional"
+**2023-06-06** — merged PR [#144](https://github.com/ZacSweers/redacted-compiler-plugin/pull/144) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.6.2"
 
-**2023-06-06** — deleted branch `z/optionalRobolectric` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — opened PR [#437](https://github.com/ZacSweers/MoshiX/pull/437) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Force kotlin 1.8 for gradle plugin"
 
-**2023-06-06** — deleted branch `z/jdkStrictness` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — created branch `z/forceGradleKotlinVersion` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-06** — merged PR [#380](https://github.com/slackhq/slack-gradle-plugin/pull/380) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix bootstrap not using jvm vendor property"
+**2023-06-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-06** — deleted branch `z/argsCleanup` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-06** — merged PR [#432](https://github.com/ZacSweers/MoshiX/pull/432) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
-**2023-06-06** — merged PR [#383](https://github.com/slackhq/slack-gradle-plugin/pull/383) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Clean up jvm args in project"
+**2023-06-06** — merged PR [#433](https://github.com/ZacSweers/MoshiX/pull/433) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
