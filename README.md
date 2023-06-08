@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-08** — merged PR [#385](https://github.com/slackhq/slack-gradle-plugin/pull/385) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.22"
+
+**2023-06-08** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-08** — merged PR [#384](https://github.com/slackhq/slack-gradle-plugin/pull/384) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.3"
+
 **2023-06-08** — deleted branch `fix-tests` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-06-08** — merged PR [#66](https://github.com/square/gradle-dependencies-sorter/pull/66) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Move 'text' earlier in the grammar. For some reasons this fixes the tests."
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-08** — opened PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Try disallowing compilation issues in mock detector tests again"
 
 **2023-06-08** — created branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-08** — opened PR [#89](https://github.com/slackhq/slack-lints/pull/89) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update java sealed test checks"
-
-**2023-06-08** — created branch `z/updateMockLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-08** — opened PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
-
-**2023-06-08** — created branch `z/reproValueClassIssue` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
