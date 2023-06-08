@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — created branch `z/reproValueClassIssue` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-06-08** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-06-08** — merged PR [#49](https://github.com/slackhq/moshi-gson-interop/pull/49) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.8.21 to 1.8.22"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-07** — merged PR [#1538](https://github.com/square/kotlinpoet/pull/1538) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "feat(ksp): add option to convert KSAnnotation to AnnotationSpec while omitting default values"
 
 **2023-06-07** — opened PR [#65](https://github.com/square/gradle-dependencies-sorter/pull/65) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare 0.3 release notes"
-
-**2023-06-07** — created branch `z/changelog` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
