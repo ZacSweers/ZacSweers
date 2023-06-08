@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-06-08** — merged PR [#49](https://github.com/slackhq/moshi-gson-interop/pull/49) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.8.21 to 1.8.22"
+
 **2023-06-07** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-06-07** — merged PR [#43](https://github.com/slackhq/auto-value-kotlin/pull/43) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.8.21 to 1.8.22"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-07** — opened PR [#65](https://github.com/square/gradle-dependencies-sorter/pull/65) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare 0.3 release notes"
 
 **2023-06-07** — created branch `z/changelog` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-06-07** — opened PR [#671](https://github.com/slackhq/circuit/pull/671) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a vertical carousel in detail page in star sample"
-
-**2023-06-07** — created branch `z/verticalCarousel` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
