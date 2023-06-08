@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-07** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-06-07** — merged PR [#43](https://github.com/slackhq/auto-value-kotlin/pull/43) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.8.21 to 1.8.22"
+
+**2023-06-07** — commented on [#3893](https://github.com/google/dagger/issues/3893#issuecomment-1581712603) in [google/dagger](https://github.com/google/dagger)
+
+**2023-06-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-06-07** — merged PR [#148](https://github.com/ZacSweers/redacted-compiler-plugin/pull/148) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.22"
+
+**2023-06-07** — merged PR [#1538](https://github.com/square/kotlinpoet/pull/1538) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "feat(ksp): add option to convert KSAnnotation to AnnotationSpec while omitting default values"
+
 **2023-06-07** — opened PR [#65](https://github.com/square/gradle-dependencies-sorter/pull/65) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare 0.3 release notes"
 
 **2023-06-07** — created branch `z/changelog` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-07** — opened PR [#671](https://github.com/slackhq/circuit/pull/671) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use a vertical carousel in detail page in star sample"
 
 **2023-06-07** — created branch `z/verticalCarousel` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-07** — deleted branch `z/starFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-07** — closed issue [#119](https://github.com/slackhq/circuit/issues/119) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample detail pager state not retained on rotation"
-
-**2023-06-07** — merged PR [#670](https://github.com/slackhq/circuit/pull/670) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small star sample fixes"
-
-**2023-06-07** — deleted branch `renovate/tornado-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-07** — merged PR [#123](https://github.com/slackhq/compose-lints/pull/123) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency tornado to v6.3.2"
-
-**2023-06-07** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
