@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — deleted branch `fix-tests` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2023-06-08** — merged PR [#66](https://github.com/square/gradle-dependencies-sorter/pull/66) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Move 'text' earlier in the grammar. For some reasons this fixes the tests."
+
+**2023-06-08** — opened PR [#91](https://github.com/slackhq/slack-lints/pull/91) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix android SDK home lookup + remove unnecessary stubs"
+
+**2023-06-08** — created branch `z/androidHome` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-08** — opened PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Try disallowing compilation issues in mock detector tests again"
+
+**2023-06-08** — created branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-08** — opened PR [#89](https://github.com/slackhq/slack-lints/pull/89) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update java sealed test checks"
+
+**2023-06-08** — created branch `z/updateMockLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-08** — opened PR [#88](https://github.com/slackhq/slack-lints/pull/88) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Enable value class checking for issue repro"
+
 **2023-06-08** — created branch `z/reproValueClassIssue` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-08** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-06-08** — merged PR [#49](https://github.com/slackhq/moshi-gson-interop/pull/49) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.8.21 to 1.8.22"
-
-**2023-06-07** — deleted branch `dependabot/gradle/jvm-1.8.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-06-07** — merged PR [#43](https://github.com/slackhq/auto-value-kotlin/pull/43) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.8.21 to 1.8.22"
-
-**2023-06-07** — commented on [#3893](https://github.com/google/dagger/issues/3893#issuecomment-1581712603) in [google/dagger](https://github.com/google/dagger)
-
-**2023-06-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-07** — merged PR [#148](https://github.com/ZacSweers/redacted-compiler-plugin/pull/148) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.8.22"
-
-**2023-06-07** — merged PR [#1538](https://github.com/square/kotlinpoet/pull/1538) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "feat(ksp): add option to convert KSAnnotation to AnnotationSpec while omitting default values"
-
-**2023-06-07** — opened PR [#65](https://github.com/square/gradle-dependencies-sorter/pull/65) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Prepare 0.3 release notes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
