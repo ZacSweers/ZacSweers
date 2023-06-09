@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-06-08** — merged PR [#438](https://github.com/ZacSweers/MoshiX/pull/438) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.22-1.0.11"
+
+**2023-06-08** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-06-08** — merged PR [#47](https://github.com/ZacSweers/ZacSweers/pull/47) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.8.22-1.0.11"
+
 **2023-06-08** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-08** — merged PR [#385](https://github.com/slackhq/slack-gradle-plugin/pull/385) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.kotlin.jvm to v1.8.22"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-08** — deleted branch `fix-tests` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2023-06-08** — merged PR [#66](https://github.com/square/gradle-dependencies-sorter/pull/66) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Move 'text' earlier in the grammar. For some reasons this fixes the tests."
-
-**2023-06-08** — opened PR [#91](https://github.com/slackhq/slack-lints/pull/91) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix android SDK home lookup + remove unnecessary stubs"
-
-**2023-06-08** — created branch `z/androidHome` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-08** — opened PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Try disallowing compilation issues in mock detector tests again"
-
-**2023-06-08** — created branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
