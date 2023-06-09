@@ -10,7 +10,7 @@ kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.8.22-1.0.11" }
 moshix = { id = "dev.zacsweers.moshix", version = "0.22.1" }
 spotless = { id = "com.diffplug.spotless", version = "6.19.0" }
-versions = { id = "com.github.ben-manes.versions", version = "0.46.0" }
+versions = { id = "com.github.ben-manes.versions", version = "0.47.0" }
 
 [libraries]
 clikt = "com.github.ajalt:clikt:2.8.0"
