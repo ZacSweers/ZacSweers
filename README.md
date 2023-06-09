@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-09** — deleted branch `patch-2` on [ZacSweers/linguist](https://github.com/ZacSweers/linguist)
+
 **2023-06-09** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-06-09** — merged PR [#93](https://github.com/slackhq/slack-lints/pull/93) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.devtools.ksp from 1.8.21-1.0.11 to 1.8.22-1.0.11"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-09** — merged PR [#48](https://github.com/ZacSweers/ZacSweers/pull/48) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.47.0"
 
 **2023-06-08** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-08** — merged PR [#439](https://github.com/ZacSweers/MoshiX/pull/439) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32.0.1-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
