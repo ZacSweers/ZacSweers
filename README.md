@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-08** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-06-08** — merged PR [#439](https://github.com/ZacSweers/MoshiX/pull/439) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32.0.1-jre"
+
 **2023-06-08** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-08** — merged PR [#438](https://github.com/ZacSweers/MoshiX/pull/438) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.8.22-1.0.11"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-08** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-08** — merged PR [#384](https://github.com/slackhq/slack-gradle-plugin/pull/384) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.3"
-
-**2023-06-08** — deleted branch `fix-tests` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2023-06-08** — merged PR [#66](https://github.com/square/gradle-dependencies-sorter/pull/66) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Move 'text' earlier in the grammar. For some reasons this fixes the tests."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
