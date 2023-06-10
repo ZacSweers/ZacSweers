@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-09** — deleted branch `patch-2` on [ZacSweers/linguist](https://github.com/ZacSweers/linguist)
+**2023-06-09** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-09** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-06-09** — merged PR [#673](https://github.com/slackhq/circuit/pull/673) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.22"
 
-**2023-06-09** — merged PR [#93](https://github.com/slackhq/slack-lints/pull/93) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.devtools.ksp from 1.8.21-1.0.11 to 1.8.22-1.0.11"
+**2023-06-09** — deleted branch `renovate/com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — merged PR [#744](https://github.com/ZacSweers/CatchUp/pull/744) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6.0.1"
 
-**2023-06-09** — merged PR [#742](https://github.com/ZacSweers/CatchUp/pull/742) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v32.0.1-jre"
+**2023-06-09** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — merged PR [#740](https://github.com/ZacSweers/CatchUp/pull/740) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.194.0"
 
-**2023-06-09** — merged PR [#743](https://github.com/ZacSweers/CatchUp/pull/743) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin versions to v0.47.0"
+**2023-06-09** — opened PR [#94](https://github.com/slackhq/slack-lints/pull/94) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add the option to allow denylisted APIs in tests"
 
-**2023-06-09** — deleted branch `renovate/com.github.ben-manes.versions-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-06-09** — created branch `z/allowInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-06-09** — merged PR [#48](https://github.com/ZacSweers/ZacSweers/pull/48) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin versions to v0.47.0"
+**2023-06-09** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-06-08** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-06-09** — merged PR [#92](https://github.com/slackhq/slack-lints/pull/92) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.8.22-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
