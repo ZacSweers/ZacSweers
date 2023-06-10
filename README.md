@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-09** — deleted branch `z/compileSdk34` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-09** — merged PR [#745](https://github.com/ZacSweers/CatchUp/pull/745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to compileSdk 34"
+
 **2023-06-09** — deleted branch `renovate/major-androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-09** — merged PR [#739](https://github.com/ZacSweers/CatchUp/pull/739) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-09** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-09** — closed PR [#738](https://github.com/ZacSweers/CatchUp/pull/738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.7.0-alpha01"
-
-**2023-06-09** — commented on [#676](https://github.com/slackhq/circuit/pull/676#issuecomment-1585426176) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-09** — opened PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
