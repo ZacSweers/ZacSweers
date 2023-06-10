@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-09** — opened PR [#745](https://github.com/ZacSweers/CatchUp/pull/745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to compileSdk 34"
+
+**2023-06-09** — merged PR [#741](https://github.com/ZacSweers/CatchUp/pull/741) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.3"
+
+**2023-06-09** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-09** — created branch `z/compileSdk34` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-06-09** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-09** — merged PR [#673](https://github.com/slackhq/circuit/pull/673) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.22"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-09** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-09** — merged PR [#740](https://github.com/ZacSweers/CatchUp/pull/740) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.194.0"
-
-**2023-06-09** — opened PR [#94](https://github.com/slackhq/slack-lints/pull/94) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add the option to allow denylisted APIs in tests"
-
-**2023-06-09** — created branch `z/allowInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-09** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-09** — merged PR [#92](https://github.com/slackhq/slack-lints/pull/92) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.8.22-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
