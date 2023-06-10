@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-09** — opened PR [#745](https://github.com/ZacSweers/CatchUp/pull/745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to compileSdk 34"
+**2023-06-09** — deleted branch `renovate/major-androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — merged PR [#741](https://github.com/ZacSweers/CatchUp/pull/741) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.3"
+**2023-06-09** — merged PR [#739](https://github.com/ZacSweers/CatchUp/pull/739) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3"
 
-**2023-06-09** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — created branch `z/compileSdk34` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — closed PR [#729](https://github.com/ZacSweers/CatchUp/pull/729) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha05"
 
-**2023-06-09** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-06-09** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — merged PR [#673](https://github.com/slackhq/circuit/pull/673) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.8.22"
+**2023-06-09** — closed PR [#730](https://github.com/ZacSweers/CatchUp/pull/730) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.12.0-alpha05"
 
-**2023-06-09** — deleted branch `renovate/com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-09** — merged PR [#744](https://github.com/ZacSweers/CatchUp/pull/744) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6.0.1"
+**2023-06-09** — closed PR [#738](https://github.com/ZacSweers/CatchUp/pull/738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.7.0-alpha01"
 
-**2023-06-09** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-09** — commented on [#676](https://github.com/slackhq/circuit/pull/676#issuecomment-1585426176) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-09** — merged PR [#740](https://github.com/ZacSweers/CatchUp/pull/740) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.194.0"
+**2023-06-09** — opened PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
