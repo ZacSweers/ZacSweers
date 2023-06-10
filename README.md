@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-10** — opened PR [#746](https://github.com/ZacSweers/CatchUp/pull/746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro for https://youtrack.jetbrains.com/issue/KT-59220"
+
+**2023-06-10** — created branch `z/reproBranch` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-06-09** — deleted branch `z/compileSdk34` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-09** — merged PR [#745](https://github.com/ZacSweers/CatchUp/pull/745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to compileSdk 34"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-09** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-09** — closed PR [#730](https://github.com/ZacSweers/CatchUp/pull/730) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.12.0-alpha05"
-
-**2023-06-09** — deleted branch `renovate/fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-09** — closed PR [#738](https://github.com/ZacSweers/CatchUp/pull/738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update fragment to v1.7.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
