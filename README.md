@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-10** — opened PR [#746](https://github.com/ZacSweers/CatchUp/pull/746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro for https://youtrack.jetbrains.com/issue/KT-59220"
+**2023-06-11** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-06-10** — created branch `z/reproBranch` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-11** — merged PR [#14](https://github.com/slackhq/kotlin-cli-util/pull/14) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.4.0 to 3.5.2"
 
-**2023-06-09** — deleted branch `z/compileSdk34` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.3.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-06-09** — merged PR [#745](https://github.com/ZacSweers/CatchUp/pull/745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to compileSdk 34"
+**2023-06-11** — merged PR [#17](https://github.com/slackhq/kotlin-cli-util/pull/17) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.0.0 to 3.3.0"
 
-**2023-06-09** — deleted branch `renovate/major-androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-11** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-06-09** — merged PR [#739](https://github.com/ZacSweers/CatchUp/pull/739) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3"
+**2023-06-11** — closed PR [#13](https://github.com/slackhq/kotlin-cli-util/pull/13) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.19.0 to 1.23.0"
 
-**2023-06-09** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-11** — commented on [#13](https://github.com/slackhq/kotlin-cli-util/pull/13#issuecomment-1586256289) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-06-09** — closed PR [#729](https://github.com/ZacSweers/CatchUp/pull/729) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha05"
+**2023-06-11** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-06-09** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-11** — merged PR [#18](https://github.com/slackhq/kotlin-cli-util/pull/18) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.dokka from 1.6.10 to 1.8.20 and other build tools"
 
-**2023-06-09** — closed PR [#730](https://github.com/ZacSweers/CatchUp/pull/730) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.12.0-alpha05"
+**2023-06-11** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.19.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
