@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-11** — deleted branch `revert-16-dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-11** — merged PR [#19](https://github.com/slackhq/kotlin-cli-util/pull/19) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix bad maven publish merge"
+
+**2023-06-11** — opened PR [#19](https://github.com/slackhq/kotlin-cli-util/pull/19) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Revert "Bump com.vanniktech.maven.publish from 0.19.0 to 0.25.2""
+
+**2023-06-11** — created branch `revert-16-dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-11** — merged PR [#16](https://github.com/slackhq/kotlin-cli-util/pull/16) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.vanniktech.maven.publish from 0.19.0 to 0.25.2"
+
+**2023-06-11** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-11** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-11** — merged PR [#14](https://github.com/slackhq/kotlin-cli-util/pull/14) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.4.0 to 3.5.2"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.3.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-11** — merged PR [#17](https://github.com/slackhq/kotlin-cli-util/pull/17) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.0.0 to 3.3.0"
-
-**2023-06-11** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — closed PR [#13](https://github.com/slackhq/kotlin-cli-util/pull/13) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.19.0 to 1.23.0"
-
-**2023-06-11** — commented on [#13](https://github.com/slackhq/kotlin-cli-util/pull/13#issuecomment-1586256289) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.8.20` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — merged PR [#18](https://github.com/slackhq/kotlin-cli-util/pull/18) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.dokka from 1.6.10 to 1.8.20 and other build tools"
-
-**2023-06-11** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.19.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
