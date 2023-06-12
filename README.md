@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-12** — deleted branch `bryanstern-circuit-docs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-12** — merged PR [#677](https://github.com/slackhq/circuit/pull/677) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add clarifying links to States and Events documentation"
+
+**2023-06-12** — commented on [#677](https://github.com/slackhq/circuit/pull/677#issuecomment-1587475230) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-06-11** — deleted branch `revert-16-dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-11** — merged PR [#19](https://github.com/slackhq/kotlin-cli-util/pull/19) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix bad maven publish merge"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-11** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-11** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — merged PR [#14](https://github.com/slackhq/kotlin-cli-util/pull/14) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.4.0 to 3.5.2"
-
-**2023-06-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.3.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — merged PR [#17](https://github.com/slackhq/kotlin-cli-util/pull/17) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.0.0 to 3.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
