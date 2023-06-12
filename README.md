@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-12** — commented on [#660](https://github.com/gradle/gradle-build-action/issues/660#issuecomment-1587886964) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
+
 **2023-06-12** — commented on [#20](https://github.com/cdsap/InfoKotlinProcess/issues/20#issuecomment-1587583400) in [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess)
 
 **2023-06-12** — closed issue [#20](https://github.com/cdsap/InfoKotlinProcess/issues/20) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "index out of bounds exception thrown while logging to scans"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-11** — opened PR [#19](https://github.com/slackhq/kotlin-cli-util/pull/19) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Revert "Bump com.vanniktech.maven.publish from 0.19.0 to 0.25.2""
 
 **2023-06-11** — created branch `revert-16-dependabot/gradle/com.vanniktech.maven.publish-0.25.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-11** — merged PR [#16](https://github.com/slackhq/kotlin-cli-util/pull/16) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.vanniktech.maven.publish from 0.19.0 to 0.25.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
