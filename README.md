@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-12** — merged PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
+
+**2023-06-12** — deleted branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-12** — opened issue [#396](https://github.com/slackhq/slack-gradle-plugin/issues/396) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Create an icon for the Skate plugin"
+
+**2023-06-12** — opened issue [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add artifactory publishing support for Skate"
+
+**2023-06-12** — opened issue [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add metrics reporting to Skate plugin"
+
+**2023-06-12** — opened issue [#393](https://github.com/slackhq/slack-gradle-plugin/issues/393) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add bugsnag crash reporting to Skate plugin"
+
+**2023-06-12** — opened issue [#392](https://github.com/slackhq/slack-gradle-plugin/issues/392) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make "What's New" panel in Skate plugin"
+
+**2023-06-12** — opened PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
+
+**2023-06-12** — created branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-12** — deleted branch `z/jdk20` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-12** — merged PR [#390](https://github.com/slackhq/slack-gradle-plugin/pull/390) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 20"
-
-**2023-06-12** — opened PR [#390](https://github.com/slackhq/slack-gradle-plugin/pull/390) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 20"
-
-**2023-06-12** — created branch `z/jdk20` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-12** — opened PR [#20](https://github.com/slackhq/kotlin-cli-util/pull/20) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream processed exec implementation"
-
-**2023-06-12** — commented on [#442](https://github.com/ZacSweers/MoshiX/issues/442#issuecomment-1587965734) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-12** — opened issue [#442](https://github.com/ZacSweers/MoshiX/issues/442) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "UninitializedPropertyAccessException thrown during compilation with a value class param"
-
-**2023-06-12** — created branch `z/processedExec` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-12** — commented on [#660](https://github.com/gradle/gradle-build-action/issues/660#issuecomment-1587886964) in [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action)
-
-**2023-06-12** — commented on [#20](https://github.com/cdsap/InfoKotlinProcess/issues/20#issuecomment-1587583400) in [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
