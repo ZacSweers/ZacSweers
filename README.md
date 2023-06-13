@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-12** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-1.1.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
 **2023-06-12** — merged PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
 
 **2023-06-12** — deleted branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-12** — opened PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
 
 **2023-06-12** — created branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-12** — deleted branch `z/jdk20` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
