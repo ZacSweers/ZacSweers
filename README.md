@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-13** — merged PR [#96](https://github.com/slackhq/slack-lints/pull/96) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
+
+**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-13** — merged PR [#136](https://github.com/slackhq/compose-lints/pull/136) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
+
 **2023-06-13** — deleted branch `renovate/autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-06-13** — merged PR [#150](https://github.com/ZacSweers/redacted-compiler-plugin/pull/150) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-12** — merged PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
 
 **2023-06-12** — deleted branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-12** — opened issue [#396](https://github.com/slackhq/slack-gradle-plugin/issues/396) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Create an icon for the Skate plugin"
-
-**2023-06-12** — opened issue [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add artifactory publishing support for Skate"
-
-**2023-06-12** — opened issue [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add metrics reporting to Skate plugin"
-
-**2023-06-12** — opened issue [#393](https://github.com/slackhq/slack-gradle-plugin/issues/393) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add bugsnag crash reporting to Skate plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
