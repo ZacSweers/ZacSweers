@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-13** — deleted branch `renovate/autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-06-13** — merged PR [#150](https://github.com/ZacSweers/redacted-compiler-plugin/pull/150) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
+
 **2023-06-13** — merged PR [#679](https://github.com/slackhq/circuit/pull/679) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow creation of multiple RetainedStateRegistry instances"
 
 **2023-06-12** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-1.1.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-12** — opened issue [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add metrics reporting to Skate plugin"
 
 **2023-06-12** — opened issue [#393](https://github.com/slackhq/slack-gradle-plugin/issues/393) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add bugsnag crash reporting to Skate plugin"
-
-**2023-06-12** — opened issue [#392](https://github.com/slackhq/slack-gradle-plugin/issues/392) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make "What's New" panel in Skate plugin"
-
-**2023-06-12** — opened PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
