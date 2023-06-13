@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-13** — merged PR [#389](https://github.com/slackhq/slack-gradle-plugin/pull/389) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.3"
+
+**2023-06-13** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-13** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-13** — deleted branch `test-renovate/com.google.auto.service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-06-13** — merged PR [#96](https://github.com/slackhq/slack-lints/pull/96) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
-
-**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-13** — merged PR [#136](https://github.com/slackhq/compose-lints/pull/136) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
