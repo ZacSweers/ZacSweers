@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-13** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-13** — deleted branch `test-renovate/com.google.auto.service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-13** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-13** — merged PR [#388](https://github.com/slackhq/slack-gradle-plugin/pull/388) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.47.0"
+
+**2023-06-13** — merged PR [#386](https://github.com/slackhq/slack-gradle-plugin/pull/386) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.0.1-jre"
+
+**2023-06-13** — merged PR [#397](https://github.com/slackhq/slack-gradle-plugin/pull/397) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
+
 **2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-06-13** — merged PR [#96](https://github.com/slackhq/slack-lints/pull/96) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-06-13** — merged PR [#136](https://github.com/slackhq/compose-lints/pull/136) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
-
-**2023-06-13** — deleted branch `renovate/autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-13** — merged PR [#150](https://github.com/ZacSweers/redacted-compiler-plugin/pull/150) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
-
-**2023-06-13** — merged PR [#679](https://github.com/slackhq/circuit/pull/679) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow creation of multiple RetainedStateRegistry instances"
-
-**2023-06-12** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-1.1.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-06-12** — merged PR [#391](https://github.com/slackhq/slack-gradle-plugin/pull/391) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Start basic Skate plugin skeleton"
-
-**2023-06-12** — deleted branch `z/intellijPluginSkeleton` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
