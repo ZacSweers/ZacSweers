@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-13** — merged PR [#747](https://github.com/ZacSweers/CatchUp/pull/747) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto.service:auto-service to v1.1.1"
+
+**2023-06-13** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-13** — merged PR [#748](https://github.com/ZacSweers/CatchUp/pull/748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.2"
+
+**2023-06-13** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-13** — merged PR [#749](https://github.com/ZacSweers/CatchUp/pull/749) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.195.0"
+
+**2023-06-13** — deleted branch `z/moreLints` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
+
+**2023-06-13** — closed PR [#1842](https://github.com/google/dagger/pull/1842) to [google/dagger](https://github.com/google/dagger): "Upstream DoNotCallProvidersDetector"
+
 **2023-06-13** — merged PR [#389](https://github.com/slackhq/slack-gradle-plugin/pull/389) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.3"
 
 **2023-06-13** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-13** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-13** — deleted branch `test-renovate/com.google.auto.service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-13** — deleted branch `test-renovate/versionsplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-13** — merged PR [#388](https://github.com/slackhq/slack-gradle-plugin/pull/388) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ben-manes.versions to v0.47.0"
-
-**2023-06-13** — merged PR [#386](https://github.com/slackhq/slack-gradle-plugin/pull/386) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.0.1-jre"
-
-**2023-06-13** — merged PR [#397](https://github.com/slackhq/slack-gradle-plugin/pull/397) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
-
-**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-13** — merged PR [#96](https://github.com/slackhq/slack-lints/pull/96) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
