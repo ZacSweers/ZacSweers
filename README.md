@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-15** — created tag `1.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-15** — deleted branch `z/processedExec` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-15** — merged PR [#20](https://github.com/slackhq/kotlin-cli-util/pull/20) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream processed exec implementation"
+
 **2023-06-15** — commented on [#1600](https://github.com/square/kotlinpoet/issues/1600#issuecomment-1592922166) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-06-14** — merged PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-14** — created branch `z/configDebugging` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-13** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-13** — merged PR [#747](https://github.com/ZacSweers/CatchUp/pull/747) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto.service:auto-service to v1.1.1"
-
-**2023-06-13** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-13** — merged PR [#748](https://github.com/ZacSweers/CatchUp/pull/748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
