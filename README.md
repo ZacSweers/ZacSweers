@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-14** — merged PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
+
+**2023-06-14** — deleted branch `z/sdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-14** — commented on [#676](https://github.com/slackhq/circuit/pull/676#issuecomment-1592199332) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-14** — opened PR [#682](https://github.com/slackhq/circuit/pull/682) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP add validation APIs"
+
+**2023-06-14** — created branch `z/configDebugging` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-06-13** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-13** — merged PR [#747](https://github.com/ZacSweers/CatchUp/pull/747) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto.service:auto-service to v1.1.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-13** — merged PR [#748](https://github.com/ZacSweers/CatchUp/pull/748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.2"
 
 **2023-06-13** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-13** — merged PR [#749](https://github.com/ZacSweers/CatchUp/pull/749) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.195.0"
-
-**2023-06-13** — deleted branch `z/moreLints` on [ZacSweers/dagger](https://github.com/ZacSweers/dagger)
-
-**2023-06-13** — closed PR [#1842](https://github.com/google/dagger/pull/1842) to [google/dagger](https://github.com/google/dagger): "Upstream DoNotCallProvidersDetector"
-
-**2023-06-13** — merged PR [#389](https://github.com/slackhq/slack-gradle-plugin/pull/389) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.3"
-
-**2023-06-13** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
