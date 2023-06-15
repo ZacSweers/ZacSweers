@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-15** — commented on [#1600](https://github.com/square/kotlinpoet/issues/1600#issuecomment-1592922166) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-06-14** — merged PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
 
 **2023-06-14** — deleted branch `z/sdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-13** — deleted branch `renovate/com.google.auto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-13** — merged PR [#748](https://github.com/ZacSweers/CatchUp/pull/748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.auto:auto-common to v1.2.2"
-
-**2023-06-13** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
