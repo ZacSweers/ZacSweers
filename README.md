@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-15** — deleted branch `ap_tool_window_whats_new` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-15** — commented on [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398#issuecomment-1594015395) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-15** — closed PR [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Stub side panel files from studio "
+
 **2023-06-15** — created tag `1.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-15** — deleted branch `z/processedExec` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-14** — deleted branch `z/sdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-14** — commented on [#676](https://github.com/slackhq/circuit/pull/676#issuecomment-1592199332) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-14** — opened PR [#682](https://github.com/slackhq/circuit/pull/682) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP add validation APIs"
-
-**2023-06-14** — created branch `z/configDebugging` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-13** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
