@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-16** — created branch `z/descriptionProp` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-16** — opened issue [#915](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/915) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Project.getConvention is deprecated and scheduled for removal in Gradle 9.0"
 
 **2023-06-15** — deleted branch `ap_tool_window_whats_new` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-15** — commented on [#1600](https://github.com/square/kotlinpoet/issues/1600#issuecomment-1592922166) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-06-14** — merged PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
-
-**2023-06-14** — deleted branch `z/sdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
