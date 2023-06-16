@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-16** — opened PR [#22](https://github.com/slackhq/kotlin-cli-util/pull/22) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add basic argument parsing test"
+
+**2023-06-16** — opened PR [#21](https://github.com/slackhq/kotlin-cli-util/pull/21) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add an optional description to Issue"
+
+**2023-06-16** — created branch `z/fixEquals` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-16** — created branch `z/descriptionProp` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-16** — opened issue [#915](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/915) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Project.getConvention is deprecated and scheduled for removal in Gradle 9.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-15** — created tag `1.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-15** — deleted branch `z/processedExec` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-15** — merged PR [#20](https://github.com/slackhq/kotlin-cli-util/pull/20) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream processed exec implementation"
-
-**2023-06-15** — commented on [#1600](https://github.com/square/kotlinpoet/issues/1600#issuecomment-1592922166) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-06-14** — merged PR [#676](https://github.com/slackhq/circuit/pull/676) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Compile SDK 34"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
