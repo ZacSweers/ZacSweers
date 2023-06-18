@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-17** — commented on [#669](https://github.com/slackhq/circuit/pull/669#issuecomment-1595937282) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-06-16** — commented on [#400](https://github.com/slackhq/slack-gradle-plugin/pull/400#issuecomment-1595345725) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-16** — opened PR [#22](https://github.com/slackhq/kotlin-cli-util/pull/22) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add basic argument parsing test"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-15** — commented on [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398#issuecomment-1594015395) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-15** — closed PR [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Stub side panel files from studio "
-
-**2023-06-15** — created tag `1.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
