@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-18** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-18** — merged PR [#751](https://github.com/ZacSweers/CatchUp/pull/751) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.198.0"
+
+**2023-06-18** — deleted branch `renovate/com.google.firebase` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-18** — merged PR [#752](https://github.com/ZacSweers/CatchUp/pull/752) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-perf to v20.3.3"
+
 **2023-06-17** — commented on [#669](https://github.com/slackhq/circuit/pull/669#issuecomment-1595937282) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-16** — commented on [#400](https://github.com/slackhq/slack-gradle-plugin/pull/400#issuecomment-1595345725) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-16** — created branch `z/fixEquals` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-16** — created branch `z/descriptionProp` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-16** — opened issue [#915](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/915) on [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Project.getConvention is deprecated and scheduled for removal in Gradle 9.0"
-
-**2023-06-15** — deleted branch `ap_tool_window_whats_new` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-15** — commented on [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398#issuecomment-1594015395) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-15** — closed PR [#398](https://github.com/slackhq/slack-gradle-plugin/pull/398) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Stub side panel files from studio "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
