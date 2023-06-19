@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-19** — merged PR [#402](https://github.com/slackhq/slack-gradle-plugin/pull/402) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.7.1"
+
+**2023-06-19** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-19** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-19** — merged PR [#401](https://github.com/slackhq/slack-gradle-plugin/pull/401) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.0"
+
+**2023-06-19** — opened issue [#104](https://github.com/takahirom/roborazzi/issues/104) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Single compose test always fails locally, does not fail CI verify call even when snapshots are missing"
+
 **2023-06-18** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-06-18** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-18** — merged PR [#45](https://github.com/slackhq/auto-value-kotlin/pull/45) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.8.21-1.0.11 to 1.8.22-1.0.11"
 
 **2023-06-18** — deleted branch `renovate/com.google.truth` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-18** — merged PR [#753](https://github.com/ZacSweers/CatchUp/pull/753) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.1.5"
-
-**2023-06-18** — deleted branch `renovate/com.google.truth` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-18** — merged PR [#151](https://github.com/ZacSweers/redacted-compiler-plugin/pull/151) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.1.5"
-
-**2023-06-18** — merged PR [#445](https://github.com/ZacSweers/MoshiX/pull/445) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.1.5"
-
-**2023-06-18** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
