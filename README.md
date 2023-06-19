@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-18** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-06-18** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-06-18** — merged PR [#47](https://github.com/slackhq/auto-value-kotlin/pull/47) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.1.3 to 1.1.5"
+
+**2023-06-18** — merged PR [#45](https://github.com/slackhq/auto-value-kotlin/pull/45) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.8.21-1.0.11 to 1.8.22-1.0.11"
+
 **2023-06-18** — deleted branch `renovate/com.google.truth` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-18** — merged PR [#753](https://github.com/ZacSweers/CatchUp/pull/753) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.1.5"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-18** — merged PR [#445](https://github.com/ZacSweers/MoshiX/pull/445) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.1.5"
 
 **2023-06-18** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-18** — deleted branch `renovate/com.google.truth` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-18** — merged PR [#444](https://github.com/ZacSweers/MoshiX/pull/444) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.1.5"
-
-**2023-06-18** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-18** — merged PR [#751](https://github.com/ZacSweers/CatchUp/pull/751) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.198.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
