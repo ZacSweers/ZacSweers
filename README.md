@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-20** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1599291819) in [square/anvil](https://github.com/square/anvil)
+
+**2023-06-20** — opened PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
+
+**2023-06-20** — created branch `z/fixICRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-06-19** — opened issue [#406](https://github.com/slackhq/slack-gradle-plugin/issues/406) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make DependencyRake use all available version catalogs"
 
 **2023-06-19** — commented on [#25418](https://github.com/gradle/gradle/issues/25418#issuecomment-1597476286) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-19** — merged PR [#401](https://github.com/slackhq/slack-gradle-plugin/pull/401) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.0"
 
 **2023-06-19** — opened issue [#104](https://github.com/takahirom/roborazzi/issues/104) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Single compose test always fails locally, does not fail CI verify call even when snapshots are missing"
-
-**2023-06-18** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-06-18** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-06-18** — merged PR [#47](https://github.com/slackhq/auto-value-kotlin/pull/47) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.1.3 to 1.1.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
