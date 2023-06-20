@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-20** — merged PR [#404](https://github.com/slackhq/slack-gradle-plugin/pull/404) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.truth:truth to v1.1.5"
+
+**2023-06-20** — merged PR [#407](https://github.com/slackhq/slack-gradle-plugin/pull/407) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.4"
+
+**2023-06-20** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-20** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-20** — deleted branch `test-renovate/com.google.truth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-20** — merged PR [#405](https://github.com/slackhq/slack-gradle-plugin/pull/405) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.7.2"
+
+**2023-06-20** — opened issue [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a skate feature to linkify feature flags"
+
 **2023-06-20** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1599291819) in [square/anvil](https://github.com/square/anvil)
 
 **2023-06-20** — opened PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
 
 **2023-06-20** — created branch `z/fixICRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-06-19** — opened issue [#406](https://github.com/slackhq/slack-gradle-plugin/issues/406) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make DependencyRake use all available version catalogs"
-
-**2023-06-19** — commented on [#25418](https://github.com/gradle/gradle/issues/25418#issuecomment-1597476286) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2023-06-19** — merged PR [#402](https://github.com/slackhq/slack-gradle-plugin/pull/402) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.7.1"
-
-**2023-06-19** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-19** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-19** — merged PR [#401](https://github.com/slackhq/slack-gradle-plugin/pull/401) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.0"
-
-**2023-06-19** — opened issue [#104](https://github.com/takahirom/roborazzi/issues/104) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Single compose test always fails locally, does not fail CI verify call even when snapshots are missing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
