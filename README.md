@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-20** — deleted branch `z/kotlin19` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2023-06-20** — closed PR [#712](https://github.com/square/anvil/pull/712) to [square/anvil](https://github.com/square/anvil): "Prepare for Kotlin 1.9.0"
+
+**2023-06-20** — commented on [#712](https://github.com/square/anvil/pull/712#issuecomment-1599433818) in [square/anvil](https://github.com/square/anvil)
+
 **2023-06-20** — merged PR [#404](https://github.com/slackhq/slack-gradle-plugin/pull/404) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.truth:truth to v1.1.5"
 
 **2023-06-20** — merged PR [#407](https://github.com/slackhq/slack-gradle-plugin/pull/407) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.13.4"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-20** — merged PR [#405](https://github.com/slackhq/slack-gradle-plugin/pull/405) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.7.2"
 
 **2023-06-20** — opened issue [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a skate feature to linkify feature flags"
-
-**2023-06-20** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1599291819) in [square/anvil](https://github.com/square/anvil)
-
-**2023-06-20** — opened PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
-
-**2023-06-20** — created branch `z/fixICRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
