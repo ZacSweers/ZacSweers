@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-19** — opened issue [#406](https://github.com/slackhq/slack-gradle-plugin/issues/406) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make DependencyRake use all available version catalogs"
+
 **2023-06-19** — commented on [#25418](https://github.com/gradle/gradle/issues/25418#issuecomment-1597476286) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-06-19** — merged PR [#402](https://github.com/slackhq/slack-gradle-plugin/pull/402) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.7.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-18** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.8.22-1.0.11` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-06-18** — merged PR [#47](https://github.com/slackhq/auto-value-kotlin/pull/47) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.1.3 to 1.1.5"
-
-**2023-06-18** — merged PR [#45](https://github.com/slackhq/auto-value-kotlin/pull/45) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.8.21-1.0.11 to 1.8.22-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
