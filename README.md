@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-20** — merged PR [#759](https://github.com/ZacSweers/CatchUp/pull/759) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha09"
+
+**2023-06-20** — commented on [#104](https://github.com/takahirom/roborazzi/issues/104#issuecomment-1600026216) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2023-06-20** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-06-20** — merged PR [#50](https://github.com/slackhq/moshi-gson-interop/pull/50) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.1.4 to 1.1.5"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-20** — merged PR [#756](https://github.com/ZacSweers/CatchUp/pull/756) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.4"
 
 **2023-06-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-20** — merged PR [#754](https://github.com/ZacSweers/CatchUp/pull/754) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.200.0"
-
-**2023-06-20** — deleted branch `renovate/com.github.ajalt.clikt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-20** — merged PR [#757](https://github.com/ZacSweers/CatchUp/pull/757) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v3.5.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
