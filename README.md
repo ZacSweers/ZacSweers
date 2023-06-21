@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-21** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-21** — merged PR [#24](https://github.com/slackhq/kotlin-cli-util/pull/24) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.truth:truth from 1.1.4 to 1.1.5"
+
+**2023-06-21** — deleted branch `dependabot/gradle/com.bugsnag-bugsnag-3.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-21** — merged PR [#23](https://github.com/slackhq/kotlin-cli-util/pull/23) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.bugsnag:bugsnag from 3.6.4 to 3.7.0"
+
+**2023-06-21** — closed issue [#98](https://github.com/slackhq/slack-lints/issues/98) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Library lint checks reference invalid APIs"
+
+**2023-06-21** — commented on [#98](https://github.com/slackhq/slack-lints/issues/98#issuecomment-1601407818) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-06-21** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-06-21** — merged PR [#149](https://github.com/ZacSweers/redacted-compiler-plugin/pull/149) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.22-1.0.11"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-06-21** — deleted branch `renovate/major-turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-21** — merged PR [#686](https://github.com/slackhq/circuit/pull/686) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.turbine:turbine to v1"
-
-**2023-06-21** — opened PR [#410](https://github.com/slackhq/slack-gradle-plugin/pull/410) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP Add option to use relative paths in android test APKs"
-
-**2023-06-21** — created branch `z/relativePaths` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-21** — closed PR [#443](https://github.com/ZacSweers/MoshiX/pull/443) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.20-station-823"
-
-**2023-06-21** — deleted branch `renovate/autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-21** — merged PR [#440](https://github.com/ZacSweers/MoshiX/pull/440) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update autoService to v1.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
