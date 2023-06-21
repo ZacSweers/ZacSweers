@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-21** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-06-20** — merged PR [#759](https://github.com/ZacSweers/CatchUp/pull/759) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha09"
+**2023-06-21** — merged PR [#149](https://github.com/ZacSweers/redacted-compiler-plugin/pull/149) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.22-1.0.11"
 
-**2023-06-20** — commented on [#104](https://github.com/takahirom/roborazzi/issues/104#issuecomment-1600026216) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+**2023-06-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-20** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-06-21** — deleted branch `renovate/major-turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-20** — merged PR [#50](https://github.com/slackhq/moshi-gson-interop/pull/50) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.1.4 to 1.1.5"
+**2023-06-21** — merged PR [#686](https://github.com/slackhq/circuit/pull/686) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.turbine:turbine to v1"
 
-**2023-06-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-21** — opened PR [#410](https://github.com/slackhq/slack-gradle-plugin/pull/410) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP Add option to use relative paths in android test APKs"
 
-**2023-06-20** — merged PR [#750](https://github.com/ZacSweers/CatchUp/pull/750) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha08"
+**2023-06-21** — created branch `z/relativePaths` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-20** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-21** — closed PR [#443](https://github.com/ZacSweers/MoshiX/pull/443) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.20-station-823"
 
-**2023-06-20** — merged PR [#756](https://github.com/ZacSweers/CatchUp/pull/756) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.13.4"
+**2023-06-21** — deleted branch `renovate/autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-06-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-21** — merged PR [#440](https://github.com/ZacSweers/MoshiX/pull/440) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update autoService to v1.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
