@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-21** — deleted branch `z/descriptionProp` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-21** — merged PR [#21](https://github.com/slackhq/kotlin-cli-util/pull/21) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add an optional description to Issue"
+
+**2023-06-21** — deleted branch `z/fixEquals` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-21** — merged PR [#22](https://github.com/slackhq/kotlin-cli-util/pull/22) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add basic argument parsing test"
+
+**2023-06-21** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-21** — merged PR [#761](https://github.com/ZacSweers/CatchUp/pull/761) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-RC-1.0.11"
+
 **2023-06-21** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-21** — merged PR [#24](https://github.com/slackhq/kotlin-cli-util/pull/24) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.truth:truth from 1.1.4 to 1.1.5"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-21** — deleted branch `dependabot/gradle/com.bugsnag-bugsnag-3.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-21** — merged PR [#23](https://github.com/slackhq/kotlin-cli-util/pull/23) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.bugsnag:bugsnag from 3.6.4 to 3.7.0"
-
-**2023-06-21** — closed issue [#98](https://github.com/slackhq/slack-lints/issues/98) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Library lint checks reference invalid APIs"
-
-**2023-06-21** — commented on [#98](https://github.com/slackhq/slack-lints/issues/98#issuecomment-1601407818) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-21** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-06-21** — merged PR [#149](https://github.com/ZacSweers/redacted-compiler-plugin/pull/149) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.8.22-1.0.11"
-
-**2023-06-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-21** — deleted branch `renovate/major-turbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
