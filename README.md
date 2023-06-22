@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-21** — deleted branch `z/descriptionProp` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-06-21** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-21** — merged PR [#21](https://github.com/slackhq/kotlin-cli-util/pull/21) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add an optional description to Issue"
+**2023-06-21** — merged PR [#760](https://github.com/ZacSweers/CatchUp/pull/760) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.201.0"
 
-**2023-06-21** — deleted branch `z/fixEquals` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-06-21** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-21** — merged PR [#22](https://github.com/slackhq/kotlin-cli-util/pull/22) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add basic argument parsing test"
+**2023-06-21** — merged PR [#762](https://github.com/ZacSweers/CatchUp/pull/762) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha06"
 
-**2023-06-21** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-06-21** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-21** — merged PR [#761](https://github.com/ZacSweers/CatchUp/pull/761) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-RC-1.0.11"
+**2023-06-21** — merged PR [#763](https://github.com/ZacSweers/CatchUp/pull/763) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-beta01"
 
-**2023-06-21** — deleted branch `dependabot/gradle/com.google.truth-truth-1.1.5` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-06-21** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-21** — merged PR [#24](https://github.com/slackhq/kotlin-cli-util/pull/24) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.truth:truth from 1.1.4 to 1.1.5"
+**2023-06-21** — merged PR [#764](https://github.com/ZacSweers/CatchUp/pull/764) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.1"
 
-**2023-06-21** — deleted branch `dependabot/gradle/com.bugsnag-bugsnag-3.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-06-21** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-21** — merged PR [#23](https://github.com/slackhq/kotlin-cli-util/pull/23) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.bugsnag:bugsnag from 3.6.4 to 3.7.0"
+**2023-06-21** — merged PR [#765](https://github.com/ZacSweers/CatchUp/pull/765) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
