@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-22** — opened PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
+
+**2023-06-22** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-22** — created branch `z/testPublishSnapshot` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-06-21** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-21** — merged PR [#763](https://github.com/ZacSweers/CatchUp/pull/763) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-beta01"
 
 **2023-06-21** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-21** — merged PR [#764](https://github.com/ZacSweers/CatchUp/pull/764) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.material3:material3 to v1.1.1"
-
-**2023-06-21** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
