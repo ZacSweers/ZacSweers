@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-23** — created tag `1.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-23** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-23** — merged PR [#25](https://github.com/slackhq/kotlin-cli-util/pull/25) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.5.2 to 3.5.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-22** — created branch `z/testPublishSnapshot` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-06-21** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-21** — merged PR [#760](https://github.com/ZacSweers/CatchUp/pull/760) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.201.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
