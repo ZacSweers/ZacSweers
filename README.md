@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-23** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-23** — merged PR [#25](https://github.com/slackhq/kotlin-cli-util/pull/25) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.5.2 to 3.5.4"
+
+**2023-06-23** — deleted branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-06-23** — merged PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
+
+**2023-06-23** — commented on [#26](https://github.com/slackhq/kotlin-cli-util/pull/26#issuecomment-1604536467) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-22** — opened PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
 
 **2023-06-22** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-21** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-21** — merged PR [#760](https://github.com/ZacSweers/CatchUp/pull/760) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.201.0"
-
-**2023-06-21** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-21** — merged PR [#762](https://github.com/ZacSweers/CatchUp/pull/762) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha06"
-
-**2023-06-21** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-21** — merged PR [#763](https://github.com/ZacSweers/CatchUp/pull/763) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-beta01"
-
-**2023-06-21** — deleted branch `renovate/androidx.compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
