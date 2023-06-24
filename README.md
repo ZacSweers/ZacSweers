@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-24** — commented on [#104](https://github.com/takahirom/roborazzi/issues/104#issuecomment-1605720789) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2023-06-24** — created tag `0.9.11` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-24** — closed issue [#411](https://github.com/slackhq/slack-gradle-plugin/issues/411) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix thermlog and rosetta detection "
+
+**2023-06-24** — closed issue [#399](https://github.com/slackhq/slack-gradle-plugin/issues/399) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow local overrides for jvmVendor to support alternative JDKs"
+
+**2023-06-24** — closed issue [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable the robolectric jars task if robolectric isn't enabled for a project"
+
+**2023-06-24** — commented on [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369#issuecomment-1605715259) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-24** — commented on [#411](https://github.com/slackhq/slack-gradle-plugin/issues/411#issuecomment-1605715019) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-24** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-24** — merged PR [#413](https://github.com/slackhq/slack-gradle-plugin/pull/413) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.1"
 
 **2023-06-23** — created tag `1.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-23** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-23** — merged PR [#25](https://github.com/slackhq/kotlin-cli-util/pull/25) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 3.5.2 to 3.5.4"
-
-**2023-06-23** — deleted branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-23** — merged PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
-
-**2023-06-23** — commented on [#26](https://github.com/slackhq/kotlin-cli-util/pull/26#issuecomment-1604536467) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-22** — opened PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
-
-**2023-06-22** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
