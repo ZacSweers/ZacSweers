@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-24** — commented on [#104](https://github.com/takahirom/roborazzi/issues/104#issuecomment-1605720789) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+**2023-06-24** — opened PR [#123](https://github.com/slackhq/keeper/pull/123) to [slackhq/keeper](https://github.com/slackhq/keeper): "Prep for AGP 8.1"
 
-**2023-06-24** — created tag `0.9.11` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-24** — created tag `0.9.13` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-24** — closed issue [#411](https://github.com/slackhq/slack-gradle-plugin/issues/411) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix thermlog and rosetta detection "
+**2023-06-24** — created branch `z/agp81` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
-**2023-06-24** — closed issue [#399](https://github.com/slackhq/slack-gradle-plugin/issues/399) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Allow local overrides for jvmVendor to support alternative JDKs"
+**2023-06-24** — commented on [#140](https://github.com/requery/sqlite-android/issues/140#issuecomment-1605731647) in [requery/sqlite-android](https://github.com/requery/sqlite-android)
 
-**2023-06-24** — closed issue [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't enable the robolectric jars task if robolectric isn't enabled for a project"
+**2023-06-24** — created tag `0.9.12` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-06-24** — commented on [#369](https://github.com/slackhq/slack-gradle-plugin/issues/369#issuecomment-1605715259) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-24** — deleted branch `z/stateless` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-24** — commented on [#411](https://github.com/slackhq/slack-gradle-plugin/issues/411#issuecomment-1605715019) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-24** — closed PR [#565](https://github.com/slackhq/circuit/pull/565) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype stateless presenters"
 
-**2023-06-24** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-24** — deleted branch `z/telephoto` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-06-24** — merged PR [#413](https://github.com/slackhq/slack-gradle-plugin/pull/413) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.1"
+**2023-06-24** — closed issue [#129](https://github.com/slackhq/circuit/issues/129) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample - Add a full screen photo viewer from detail"
 
-**2023-06-23** — created tag `1.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-06-24** — merged PR [#669](https://github.com/slackhq/circuit/pull/669) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate image viewer in Star sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
