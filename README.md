@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-24** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-24** — merged PR [#413](https://github.com/slackhq/slack-gradle-plugin/pull/413) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.1"
+
 **2023-06-23** — created tag `1.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-06-23** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-3.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-22** — opened PR [#26](https://github.com/slackhq/kotlin-cli-util/pull/26) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Fix stderror not being captured in processed exec and max retries"
 
 **2023-06-22** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-22** — created branch `z/testPublishSnapshot` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-06-21** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
