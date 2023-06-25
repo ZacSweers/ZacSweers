@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-25** — opened PR [#415](https://github.com/slackhq/slack-gradle-plugin/pull/415) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove strict kt file checking"
+
+**2023-06-25** — created branch `z/cleanups` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-25** — opened PR [#414](https://github.com/slackhq/slack-gradle-plugin/pull/414) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up docs publishing infra"
+
+**2023-06-25** — created branch `z/docs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-25** — created branch `z/deploySiteInRelease` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-25** — commented on [#139](https://github.com/slackhq/compose-lints/pull/139#issuecomment-1606164836) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-24** — created tag `0.9.13` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-24** — created branch `z/agp81` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-06-24** — commented on [#140](https://github.com/requery/sqlite-android/issues/140#issuecomment-1605731647) in [requery/sqlite-android](https://github.com/requery/sqlite-android)
-
-**2023-06-24** — created tag `0.9.12` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-24** — deleted branch `z/stateless` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-24** — closed PR [#565](https://github.com/slackhq/circuit/pull/565) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype stateless presenters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
