@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-25** — created branch `z/deploySiteInRelease` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-25** — commented on [#139](https://github.com/slackhq/compose-lints/pull/139#issuecomment-1606164836) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-25** — created tag `0.9.14` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-24** — opened PR [#123](https://github.com/slackhq/keeper/pull/123) to [slackhq/keeper](https://github.com/slackhq/keeper): "Prep for AGP 8.1"
 
 **2023-06-24** — created tag `0.9.13` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-24** — deleted branch `z/stateless` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-24** — closed PR [#565](https://github.com/slackhq/circuit/pull/565) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype stateless presenters"
-
-**2023-06-24** — deleted branch `z/telephoto` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-24** — closed issue [#129](https://github.com/slackhq/circuit/issues/129) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample - Add a full screen photo viewer from detail"
-
-**2023-06-24** — merged PR [#669](https://github.com/slackhq/circuit/pull/669) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate image viewer in Star sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
