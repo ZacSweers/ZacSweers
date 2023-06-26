@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-26** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-26** — merged PR [#769](https://github.com/ZacSweers/CatchUp/pull/769) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.14"
+
 **2023-06-25** — opened issue [#770](https://github.com/ZacSweers/CatchUp/issues/770) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use a ModifierLocal for scroll to top"
 
 **2023-06-25** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1606356050) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-25** — created branch `z/deploySiteInRelease` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-25** — commented on [#139](https://github.com/slackhq/compose-lints/pull/139#issuecomment-1606164836) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-25** — created tag `0.9.14` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-24** — opened PR [#123](https://github.com/slackhq/keeper/pull/123) to [slackhq/keeper](https://github.com/slackhq/keeper): "Prep for AGP 8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
