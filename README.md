@@ -13,10 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-26** — merged PR [#414](https://github.com/slackhq/slack-gradle-plugin/pull/414) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up docs publishing infra"
 
 **2023-06-26** — merged PR [#415](https://github.com/slackhq/slack-gradle-plugin/pull/415) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove strict kt file checking"
-
-**2023-06-26** — deleted branch `z/cleanups` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-26** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
