@@ -15,12 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-26** — deleted branch `z/cleanups` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-26** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-26** — merged PR [#769](https://github.com/ZacSweers/CatchUp/pull/769) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.14"
-
-**2023-06-25** — opened issue [#770](https://github.com/ZacSweers/CatchUp/issues/770) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use a ModifierLocal for scroll to top"
-
-**2023-06-25** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1606356050) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
