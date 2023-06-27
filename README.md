@@ -4,15 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-26** — commented on [#412](https://github.com/slackhq/slack-gradle-plugin/pull/412#issuecomment-1608411485) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-26** — deleted branch `z/updateMockLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-06-26** — created branch `gh-pages` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-26** — merged PR [#89](https://github.com/slackhq/slack-lints/pull/89) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update java sealed test checks"
 
-**2023-06-26** — deleted branch `z/docs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-26** — deleted branch `z/androidHome` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-06-26** — merged PR [#414](https://github.com/slackhq/slack-gradle-plugin/pull/414) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set up docs publishing infra"
+**2023-06-26** — merged PR [#91](https://github.com/slackhq/slack-lints/pull/91) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix android SDK home lookup + remove unnecessary stubs"
 
-**2023-06-26** — merged PR [#415](https://github.com/slackhq/slack-gradle-plugin/pull/415) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove strict kt file checking"
+**2023-06-26** — deleted branch `z/allowInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-26** — merged PR [#94](https://github.com/slackhq/slack-lints/pull/94) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add the option to allow denylisted APIs in tests"
+
+**2023-06-26** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-annotations-1.1.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-26** — merged PR [#95](https://github.com/slackhq/slack-lints/pull/95) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.auto.service:auto-service-annotations from 1.1.0 to 1.1.1"
+
+**2023-06-26** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-26** — merged PR [#97](https://github.com/slackhq/slack-lints/pull/97) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha09"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
