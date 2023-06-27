@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-27** — opened PR [#419](https://github.com/slackhq/slack-gradle-plugin/pull/419) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Second pass at docs"
+
+**2023-06-27** — created branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-27** — opened PR [#694](https://github.com/slackhq/circuit/pull/694) to [slackhq/circuit](https://github.com/slackhq/circuit): "Publish docs with releases"
 
 **2023-06-27** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-27** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-06-27** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-27** — merged PR [#121](https://github.com/slackhq/compose-lints/pull/121) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha09"
-
-**2023-06-27** — merged PR [#138](https://github.com/slackhq/compose-lints/pull/138) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
