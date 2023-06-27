@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-27** — commented on [#123](https://github.com/slackhq/keeper/pull/123#issuecomment-1608818450) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-06-27** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-27** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-27** — merged PR [#121](https://github.com/slackhq/compose-lints/pull/121) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha09"
+
+**2023-06-27** — merged PR [#138](https://github.com/slackhq/compose-lints/pull/138) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.17"
+
+**2023-06-27** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-27** — merged PR [#133](https://github.com/slackhq/compose-lints/pull/133) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.22-1.0.11"
+
+**2023-06-27** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1608795566) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-27** — created tag `1.2.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-06-27** — commented on [#123](https://github.com/slackhq/keeper/pull/123#issuecomment-1608783566) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-06-26** — deleted branch `z/updateMockLints` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-26** — merged PR [#89](https://github.com/slackhq/slack-lints/pull/89) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update java sealed test checks"
-
-**2023-06-26** — deleted branch `z/androidHome` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-26** — merged PR [#91](https://github.com/slackhq/slack-lints/pull/91) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Fix android SDK home lookup + remove unnecessary stubs"
-
-**2023-06-26** — deleted branch `z/allowInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-26** — merged PR [#94](https://github.com/slackhq/slack-lints/pull/94) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add the option to allow denylisted APIs in tests"
-
-**2023-06-26** — deleted branch `dependabot/gradle/com.google.auto.service-auto-service-annotations-1.1.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-26** — merged PR [#95](https://github.com/slackhq/slack-lints/pull/95) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.auto.service:auto-service-annotations from 1.1.0 to 1.1.1"
-
-**2023-06-26** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
