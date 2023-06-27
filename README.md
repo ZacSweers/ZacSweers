@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-27** — merged PR [#771](https://github.com/ZacSweers/CatchUp/pull/771) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.6.0-alpha03"
+
+**2023-06-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-27** — merged PR [#772](https://github.com/ZacSweers/CatchUp/pull/772) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha10"
+
 **2023-06-27** — opened PR [#419](https://github.com/slackhq/slack-gradle-plugin/pull/419) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Second pass at docs"
 
 **2023-06-27** — created branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-27** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-27** — merged PR [#417](https://github.com/slackhq/slack-gradle-plugin/pull/417) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.2"
-
-**2023-06-27** — merged PR [#418](https://github.com/slackhq/slack-gradle-plugin/pull/418) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.17"
-
-**2023-06-27** — commented on [#123](https://github.com/slackhq/keeper/pull/123#issuecomment-1608818450) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-06-27** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-27** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
