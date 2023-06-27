@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-27** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-27** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-27** — merged PR [#417](https://github.com/slackhq/slack-gradle-plugin/pull/417) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.2"
+
+**2023-06-27** — merged PR [#418](https://github.com/slackhq/slack-gradle-plugin/pull/418) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.17"
+
 **2023-06-27** — commented on [#123](https://github.com/slackhq/keeper/pull/123#issuecomment-1608818450) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-06-27** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-27** — merged PR [#138](https://github.com/slackhq/compose-lints/pull/138) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.17"
 
 **2023-06-27** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-27** — merged PR [#133](https://github.com/slackhq/compose-lints/pull/133) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.8.22-1.0.11"
-
-**2023-06-27** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1608795566) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-06-27** — created tag `1.2.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-06-27** — commented on [#123](https://github.com/slackhq/keeper/pull/123#issuecomment-1608783566) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
