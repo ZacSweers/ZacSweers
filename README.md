@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-28** — merged PR [#101](https://github.com/slackhq/slack-lints/pull/101) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha10"
+
+**2023-06-28** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-06-28** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-06-28** — merged PR [#140](https://github.com/slackhq/compose-lints/pull/140) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha10"
+
+**2023-06-28** — opened issue [#25541](https://github.com/gradle/gradle/issues/25541) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle property induced CC changes have an unhelpful error message"
+
+**2023-06-28** — deleted branch `z/deploySiteInRelease` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-28** — merged PR [#694](https://github.com/slackhq/circuit/pull/694) to [slackhq/circuit](https://github.com/slackhq/circuit): "Publish docs with releases"
+
 **2023-06-27** — opened issue [#695](https://github.com/slackhq/circuit/issues/695) on [slackhq/circuit](https://github.com/slackhq/circuit): "Small padding bug in landscape/tablet UI for the star detail UI"
 
 **2023-06-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-27** — merged PR [#771](https://github.com/ZacSweers/CatchUp/pull/771) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.6.0-alpha03"
-
-**2023-06-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-27** — merged PR [#772](https://github.com/ZacSweers/CatchUp/pull/772) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha10"
-
-**2023-06-27** — opened PR [#419](https://github.com/slackhq/slack-gradle-plugin/pull/419) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Second pass at docs"
-
-**2023-06-27** — created branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-27** — opened PR [#694](https://github.com/slackhq/circuit/pull/694) to [slackhq/circuit](https://github.com/slackhq/circuit): "Publish docs with releases"
-
-**2023-06-27** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-27** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
