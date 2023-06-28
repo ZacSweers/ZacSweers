@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-27** — opened issue [#695](https://github.com/slackhq/circuit/issues/695) on [slackhq/circuit](https://github.com/slackhq/circuit): "Small padding bug in landscape/tablet UI for the star detail UI"
+
 **2023-06-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-27** — merged PR [#771](https://github.com/ZacSweers/CatchUp/pull/771) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.6.0-alpha03"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-27** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-27** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-27** — merged PR [#417](https://github.com/slackhq/slack-gradle-plugin/pull/417) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
