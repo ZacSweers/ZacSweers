@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-28** — opened issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
+
+**2023-06-28** — opened issue [#423](https://github.com/slackhq/slack-gradle-plugin/issues/423) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for customizing the maven url for robolectric jar download + credentials"
+
+**2023-06-28** — opened issue [#422](https://github.com/slackhq/slack-gradle-plugin/issues/422) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Robolectric jar downloads should retry w/ exponential backoff"
+
+**2023-06-28** — opened PR [#699](https://github.com/slackhq/circuit/pull/699) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small sample fixes"
+
+**2023-06-28** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-28** — deleted branch `test-renovate/org.jetbrains.intellij-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-28** — deleted branch `test-renovate/compose-jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-28** — merged PR [#101](https://github.com/slackhq/slack-lints/pull/101) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha10"
 
 **2023-06-28** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-06-28** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-06-28** — merged PR [#140](https://github.com/slackhq/compose-lints/pull/140) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha10"
-
-**2023-06-28** — opened issue [#25541](https://github.com/gradle/gradle/issues/25541) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle property induced CC changes have an unhelpful error message"
-
-**2023-06-28** — deleted branch `z/deploySiteInRelease` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-28** — merged PR [#694](https://github.com/slackhq/circuit/pull/694) to [slackhq/circuit](https://github.com/slackhq/circuit): "Publish docs with releases"
-
-**2023-06-27** — opened issue [#695](https://github.com/slackhq/circuit/issues/695) on [slackhq/circuit](https://github.com/slackhq/circuit): "Small padding bug in landscape/tablet UI for the star detail UI"
-
-**2023-06-27** — deleted branch `renovate/androidtestsupport` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-27** — merged PR [#771](https://github.com/ZacSweers/CatchUp/pull/771) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:runner to v1.6.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
