@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-28** — deleted branch `z/gradleFixes` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
+
+**2023-06-28** — closed PR [#3929](https://github.com/cashapp/sqldelight/pull/3929) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Some small Gradle plugin fixes"
+
 **2023-06-28** — opened PR [#425](https://github.com/slackhq/slack-gradle-plugin/pull/425) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using detached configurations for robolectric jar downloads"
 
 **2023-06-28** — created branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-28** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-28** — deleted branch `test-renovate/org.jetbrains.intellij-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — deleted branch `test-renovate/compose-jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — merged PR [#101](https://github.com/slackhq/slack-lints/pull/101) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
