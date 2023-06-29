@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-28** — closed issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
+
+**2023-06-28** — deleted branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-28** — closed issue [#422](https://github.com/slackhq/slack-gradle-plugin/issues/422) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Robolectric jar downloads should retry w/ exponential backoff"
+
+**2023-06-28** — deleted branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-28** — closed issue [#423](https://github.com/slackhq/slack-gradle-plugin/issues/423) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for customizing the maven url for robolectric jar download + credentials"
+
+**2023-06-28** — merged PR [#425](https://github.com/slackhq/slack-gradle-plugin/pull/425) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using detached configurations for robolectric jar downloads"
+
+**2023-06-28** — merged PR [#419](https://github.com/slackhq/slack-gradle-plugin/pull/419) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Second pass at docs"
+
 **2023-06-28** — deleted branch `z/gradleFixes` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
 
 **2023-06-28** — closed PR [#3929](https://github.com/cashapp/sqldelight/pull/3929) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Some small Gradle plugin fixes"
 
 **2023-06-28** — opened PR [#425](https://github.com/slackhq/slack-gradle-plugin/pull/425) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using detached configurations for robolectric jar downloads"
-
-**2023-06-28** — created branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — opened issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
-
-**2023-06-28** — opened issue [#423](https://github.com/slackhq/slack-gradle-plugin/issues/423) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for customizing the maven url for robolectric jar download + credentials"
-
-**2023-06-28** — opened issue [#422](https://github.com/slackhq/slack-gradle-plugin/issues/422) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Robolectric jar downloads should retry w/ exponential backoff"
-
-**2023-06-28** — opened PR [#699](https://github.com/slackhq/circuit/pull/699) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small sample fixes"
-
-**2023-06-28** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-28** — deleted branch `test-renovate/org.jetbrains.intellij-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
