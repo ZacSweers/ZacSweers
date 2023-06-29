@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-29** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-29** — closed issue [#695](https://github.com/slackhq/circuit/issues/695) on [slackhq/circuit](https://github.com/slackhq/circuit): "Small padding bug in landscape/tablet UI for the star detail UI"
+
+**2023-06-29** — merged PR [#699](https://github.com/slackhq/circuit/pull/699) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small sample fixes"
+
+**2023-06-29** — created branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-06-28** — closed issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
 
 **2023-06-28** — deleted branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-28** — closed issue [#423](https://github.com/slackhq/slack-gradle-plugin/issues/423) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for customizing the maven url for robolectric jar download + credentials"
 
 **2023-06-28** — merged PR [#425](https://github.com/slackhq/slack-gradle-plugin/pull/425) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using detached configurations for robolectric jar downloads"
-
-**2023-06-28** — merged PR [#419](https://github.com/slackhq/slack-gradle-plugin/pull/419) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Second pass at docs"
-
-**2023-06-28** — deleted branch `z/gradleFixes` on [ZacSweers/sqldelight](https://github.com/ZacSweers/sqldelight)
-
-**2023-06-28** — closed PR [#3929](https://github.com/cashapp/sqldelight/pull/3929) to [cashapp/sqldelight](https://github.com/cashapp/sqldelight): "Some small Gradle plugin fixes"
-
-**2023-06-28** — opened PR [#425](https://github.com/slackhq/slack-gradle-plugin/pull/425) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using detached configurations for robolectric jar downloads"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
