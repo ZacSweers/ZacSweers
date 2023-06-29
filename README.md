@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-29** — created tag `0.9.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-29** — deleted branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-29** — merged PR [#429](https://github.com/slackhq/slack-gradle-plugin/pull/429) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify CI"
+
 **2023-06-29** — opened PR [#429](https://github.com/slackhq/slack-gradle-plugin/pull/429) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify CI"
 
 **2023-06-29** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-28** — closed issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
 
 **2023-06-28** — deleted branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — closed issue [#422](https://github.com/slackhq/slack-gradle-plugin/issues/422) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Robolectric jar downloads should retry w/ exponential backoff"
-
-**2023-06-28** — deleted branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — closed issue [#423](https://github.com/slackhq/slack-gradle-plugin/issues/423) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for customizing the maven url for robolectric jar download + credentials"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
