@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-06-30** — merged PR [#448](https://github.com/ZacSweers/MoshiX/pull/448) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.2"
+
 **2023-06-30** — opened PR [#435](https://github.com/slackhq/slack-gradle-plugin/pull/435) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake account for all version catalogs"
 
 **2023-06-30** — created branch `z/rakeAllCatalogs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-30** — created tag `0.10.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-06-30** — closed issue [#706](https://github.com/slackhq/circuit/issues/706) on [slackhq/circuit](https://github.com/slackhq/circuit): "Action Required: Fix Renovate Configuration"
-
-**2023-06-30** — deleted branch `cb/use-mp-compose-compiler` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2023-06-30** — commented on [#707](https://github.com/slackhq/circuit/pull/707#issuecomment-1615034590) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
