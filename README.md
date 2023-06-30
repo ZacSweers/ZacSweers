@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — opened issue [#8335](https://github.com/robolectric/robolectric/issues/8335) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Constructor-injected Activities are not supported in `Robolectric.buildActivity()`"
+
 **2023-06-29** — created tag `0.9.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-29** — deleted branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-29** — created branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-06-28** — closed issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
-
-**2023-06-28** — deleted branch `z/robolectricWithConfigurations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
