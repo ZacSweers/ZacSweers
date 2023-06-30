@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — opened PR [#435](https://github.com/slackhq/slack-gradle-plugin/pull/435) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake account for all version catalogs"
+
+**2023-06-30** — created branch `z/rakeAllCatalogs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-30** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-30** — merged PR [#434](https://github.com/slackhq/slack-gradle-plugin/pull/434) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.1.0-jre"
+
+**2023-06-30** — deleted branch `test-renovate/fxchen-code-review-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-30** — closed PR [#433](https://github.com/slackhq/slack-gradle-plugin/pull/433) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update fxchen/code-review action to v0.2.7"
+
+**2023-06-30** — created tag `0.10.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-30** — closed issue [#706](https://github.com/slackhq/circuit/issues/706) on [slackhq/circuit](https://github.com/slackhq/circuit): "Action Required: Fix Renovate Configuration"
+
+**2023-06-30** — deleted branch `cb/use-mp-compose-compiler` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
 **2023-06-30** — commented on [#707](https://github.com/slackhq/circuit/pull/707#issuecomment-1615034590) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-30** — opened PR [#707](https://github.com/slackhq/circuit/pull/707) to [slackhq/circuit](https://github.com/slackhq/circuit): "Don't use the compose compiler for multiplatform"
-
-**2023-06-30** — closed PR [#704](https://github.com/slackhq/circuit/pull/704) to [slackhq/circuit](https://github.com/slackhq/circuit): "Stop forcing Jetpack Compose compiler plugin"
-
-**2023-06-30** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-30** — merged PR [#705](https://github.com/slackhq/circuit/pull/705) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.11.0"
-
-**2023-06-30** — merged PR [#700](https://github.com/slackhq/circuit/pull/700) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.8"
-
-**2023-06-30** — deleted branch `renovate/compose.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-30** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-30** — merged PR [#701](https://github.com/slackhq/circuit/pull/701) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.7.0"
-
-**2023-06-30** — commented on [#704](https://github.com/slackhq/circuit/pull/704#issuecomment-1614934130) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
