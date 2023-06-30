@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — commented on [#707](https://github.com/slackhq/circuit/pull/707#issuecomment-1615034590) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-30** — opened PR [#707](https://github.com/slackhq/circuit/pull/707) to [slackhq/circuit](https://github.com/slackhq/circuit): "Don't use the compose compiler for multiplatform"
+
+**2023-06-30** — closed PR [#704](https://github.com/slackhq/circuit/pull/704) to [slackhq/circuit](https://github.com/slackhq/circuit): "Stop forcing Jetpack Compose compiler plugin"
+
+**2023-06-30** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-30** — merged PR [#705](https://github.com/slackhq/circuit/pull/705) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v0.11.0"
+
+**2023-06-30** — merged PR [#700](https://github.com/slackhq/circuit/pull/700) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.4.8"
+
+**2023-06-30** — deleted branch `renovate/compose.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-30** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-06-30** — merged PR [#701](https://github.com/slackhq/circuit/pull/701) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.7.0"
+
 **2023-06-30** — commented on [#704](https://github.com/slackhq/circuit/pull/704#issuecomment-1614934130) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-30** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#778](https://github.com/ZacSweers/CatchUp/pull/778) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.8.4"
-
-**2023-06-30** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#781](https://github.com/ZacSweers/CatchUp/pull/781) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.12"
-
-**2023-06-30** — opened issue [#8335](https://github.com/robolectric/robolectric/issues/8335) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Constructor-injected Activities are not supported in `Robolectric.buildActivity()`"
-
-**2023-06-29** — created tag `0.9.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-29** — deleted branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-29** — merged PR [#429](https://github.com/slackhq/slack-gradle-plugin/pull/429) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify CI"
-
-**2023-06-29** — opened PR [#429](https://github.com/slackhq/slack-gradle-plugin/pull/429) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
