@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-30** — merged PR [#778](https://github.com/ZacSweers/CatchUp/pull/778) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.8.4"
+
+**2023-06-30** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-06-30** — merged PR [#781](https://github.com/ZacSweers/CatchUp/pull/781) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.12"
+
 **2023-06-30** — opened issue [#8335](https://github.com/robolectric/robolectric/issues/8335) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Constructor-injected Activities are not supported in `Robolectric.buildActivity()`"
 
 **2023-06-29** — created tag `0.9.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-29** — opened PR [#429](https://github.com/slackhq/slack-gradle-plugin/pull/429) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify CI"
 
 **2023-06-29** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-06-29** — closed issue [#695](https://github.com/slackhq/circuit/issues/695) on [slackhq/circuit](https://github.com/slackhq/circuit): "Small padding bug in landscape/tablet UI for the star detail UI"
-
-**2023-06-29** — merged PR [#699](https://github.com/slackhq/circuit/pull/699) to [slackhq/circuit](https://github.com/slackhq/circuit): "Couple small sample fixes"
-
-**2023-06-29** — created branch `z/ciUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-06-28** — closed issue [#424](https://github.com/slackhq/slack-gradle-plugin/issues/424) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Try using dependency resolution for robolectric jars"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
