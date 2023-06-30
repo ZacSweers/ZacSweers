@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-06-30** — deleted branch `z/fixLintNotCheckingTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-06-30** — merged PR [#436](https://github.com/slackhq/slack-gradle-plugin/pull/436) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable lint on test sources by default"
+
 **2023-06-30** — opened PR [#708](https://github.com/slackhq/circuit/pull/708) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable lint on test sources too"
 
 **2023-06-30** — created branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-06-30** — merged PR [#435](https://github.com/slackhq/slack-gradle-plugin/pull/435) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake account for all version catalogs"
 
 **2023-06-30** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-06-30** — merged PR [#448](https://github.com/ZacSweers/MoshiX/pull/448) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.2"
-
-**2023-06-30** — opened PR [#435](https://github.com/slackhq/slack-gradle-plugin/pull/435) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake account for all version catalogs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
