@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-01** — commented on [#891](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/891#issuecomment-1615949778) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2023-07-01** — commented on [#907](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/907#issuecomment-1615948789) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2023-07-01** — opened issue [#440](https://github.com/slackhq/slack-gradle-plugin/issues/440) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake configuration-cache friendly"
+
+**2023-07-01** — opened issue [#439](https://github.com/slackhq/slack-gradle-plugin/issues/439) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply dependency rake on platform projects"
+
 **2023-07-01** — deleted branch `renovate/tikxml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-01** — merged PR [#784](https://github.com/ZacSweers/CatchUp/pull/784) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.tickaroo.tikxml:converter-htmlescape to v0.8.15"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-01** — closed issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
 
 **2023-07-01** — commented on [#391](https://github.com/ZacSweers/CatchUp/issues/391#issuecomment-1615530821) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-01** — deleted branch `z/xml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-01** — closed issue [#546](https://github.com/ZacSweers/CatchUp/issues/546) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
-
-**2023-07-01** — merged PR [#783](https://github.com/ZacSweers/CatchUp/pull/783) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
-
-**2023-07-01** — opened PR [#783](https://github.com/ZacSweers/CatchUp/pull/783) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
