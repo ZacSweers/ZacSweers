@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-06-30** — created tag `0.9.16` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-30** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-30** — deleted branch `z/fixLintNotCheckingTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-30** — merged PR [#779](https://github.com/ZacSweers/CatchUp/pull/779) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.16"
 
-**2023-06-30** — merged PR [#436](https://github.com/slackhq/slack-gradle-plugin/pull/436) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable lint on test sources by default"
+**2023-06-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-30** — opened PR [#708](https://github.com/slackhq/circuit/pull/708) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable lint on test sources too"
+**2023-06-30** — merged PR [#773](https://github.com/ZacSweers/CatchUp/pull/773) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-rc02"
 
-**2023-06-30** — created branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-06-30** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-30** — opened PR [#436](https://github.com/slackhq/slack-gradle-plugin/pull/436) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable lint onf test sources by default"
+**2023-06-30** — merged PR [#774](https://github.com/ZacSweers/CatchUp/pull/774) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.2"
 
-**2023-06-30** — created branch `z/fixLintNotCheckingTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-30** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-30** — closed issue [#406](https://github.com/slackhq/slack-gradle-plugin/issues/406) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make DependencyRake use all available version catalogs"
+**2023-06-30** — merged PR [#775](https://github.com/ZacSweers/CatchUp/pull/775) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.2"
 
-**2023-06-30** — deleted branch `z/rakeAllCatalogs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-06-30** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-06-30** — merged PR [#435](https://github.com/slackhq/slack-gradle-plugin/pull/435) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake account for all version catalogs"
+**2023-06-30** — merged PR [#776](https://github.com/ZacSweers/CatchUp/pull/776) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
