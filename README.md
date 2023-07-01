@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-01** — closed issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
+
+**2023-07-01** — commented on [#391](https://github.com/ZacSweers/CatchUp/issues/391#issuecomment-1615530821) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-01** — deleted branch `z/xml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-01** — closed issue [#546](https://github.com/ZacSweers/CatchUp/issues/546) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
+
+**2023-07-01** — merged PR [#783](https://github.com/ZacSweers/CatchUp/pull/783) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
+
+**2023-07-01** — opened PR [#783](https://github.com/ZacSweers/CatchUp/pull/783) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove tikxml"
+
+**2023-07-01** — created branch `z/xml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-06-30** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-06-30** — merged PR [#779](https://github.com/ZacSweers/CatchUp/pull/779) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.16"
 
 **2023-06-30** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#773](https://github.com/ZacSweers/CatchUp/pull/773) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0-rc02"
-
-**2023-06-30** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#774](https://github.com/ZacSweers/CatchUp/pull/774) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.2"
-
-**2023-06-30** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#775](https://github.com/ZacSweers/CatchUp/pull/775) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.2"
-
-**2023-06-30** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-06-30** — merged PR [#776](https://github.com/ZacSweers/CatchUp/pull/776) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.5.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
