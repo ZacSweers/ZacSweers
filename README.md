@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-07-02** — merged PR [#153](https://github.com/ZacSweers/redacted-compiler-plugin/pull/153) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.3"
+
+**2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-02** — merged PR [#449](https://github.com/ZacSweers/MoshiX/pull/449) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.3"
+
 **2023-07-01** — commented on [#891](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/891#issuecomment-1615949778) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2023-07-01** — commented on [#907](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/907#issuecomment-1615948789) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-01** — deleted branch `renovate/tikxml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-01** — merged PR [#784](https://github.com/ZacSweers/CatchUp/pull/784) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.tickaroo.tikxml:converter-htmlescape to v0.8.15"
-
-**2023-07-01** — opened PR [#785](https://github.com/ZacSweers/CatchUp/pull/785) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Product Hunt API to graphql V2"
-
-**2023-07-01** — created branch `z/graphQLPH` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-01** — closed issue [#391](https://github.com/ZacSweers/CatchUp/issues/391) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up includedBuild for SGP for easier testability"
-
-**2023-07-01** — commented on [#391](https://github.com/ZacSweers/CatchUp/issues/391#issuecomment-1615530821) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
