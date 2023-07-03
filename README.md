@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — opened PR [#789](https://github.com/ZacSweers/CatchUp/pull/789) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Rake dependencies"
+
+**2023-07-03** — opened PR [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "WIP Support for correctly resolving KMP artifacts"
+
+**2023-07-03** — created branch `z/kmpSupport` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
+**2023-07-03** — created branch `z/rakeDeps` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-03** — commented on [#446](https://github.com/ZacSweers/MoshiX/issues/446#issuecomment-1618903785) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-03** — deleted branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — merged PR [#51](https://github.com/slackhq/moshi-gson-interop/pull/51) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
 
 **2023-07-03** — deleted branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-03** — merged PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
-
-**2023-07-03** — opened PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
-
-**2023-07-03** — closed issue [#68](https://github.com/ZacSweers/CatchUp/issues/68) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Slashdot Feed#itemList is null sometimes"
-
-**2023-07-03** — closed issue [#153](https://github.com/ZacSweers/CatchUp/issues/153) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Support Lobsters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
