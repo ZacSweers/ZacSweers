@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — deleted branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-03** — merged PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
+
 **2023-07-03** — opened PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
 
 **2023-07-03** — closed issue [#68](https://github.com/ZacSweers/CatchUp/issues/68) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Slashdot Feed#itemList is null sometimes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — closed issue [#113](https://github.com/ZacSweers/CatchUp/issues/113) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use ViewModel for state management/restoration"
 
 **2023-07-03** — closed issue [#100](https://github.com/ZacSweers/CatchUp/issues/100) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Full black background for OLED displays"
-
-**2023-07-03** — closed issue [#88](https://github.com/ZacSweers/CatchUp/issues/88) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Specify what current daynight mode is in auto summary"
-
-**2023-07-03** — closed issue [#39](https://github.com/ZacSweers/CatchUp/issues/39) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Investigate switching to arch components paging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
