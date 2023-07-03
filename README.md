@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-02** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-02** — merged PR [#787](https://github.com/ZacSweers/CatchUp/pull/787) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.5-beta"
+
+**2023-07-02** — deleted branch `z/scrollUpModifier` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-02** — closed issue [#770](https://github.com/ZacSweers/CatchUp/issues/770) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use a ModifierLocal for scroll to top"
+
+**2023-07-02** — merged PR [#786](https://github.com/ZacSweers/CatchUp/pull/786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement ScrollToTop"
+
 **2023-07-02** — opened PR [#786](https://github.com/ZacSweers/CatchUp/pull/786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement ScrollToTop"
 
 **2023-07-02** — created branch `z/scrollUpModifier` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-02** — merged PR [#153](https://github.com/ZacSweers/redacted-compiler-plugin/pull/153) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.3"
 
 **2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-02** — merged PR [#449](https://github.com/ZacSweers/MoshiX/pull/449) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.25.3"
-
-**2023-07-01** — commented on [#891](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/891#issuecomment-1615949778) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2023-07-01** — commented on [#907](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/issues/907#issuecomment-1615948789) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2023-07-01** — opened issue [#440](https://github.com/slackhq/slack-gradle-plugin/issues/440) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake configuration-cache friendly"
-
-**2023-07-01** — opened issue [#439](https://github.com/slackhq/slack-gradle-plugin/issues/439) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply dependency rake on platform projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
