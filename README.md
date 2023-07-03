@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-02** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-03** — closed issue [#68](https://github.com/ZacSweers/CatchUp/issues/68) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Slashdot Feed#itemList is null sometimes"
 
-**2023-07-02** — merged PR [#787](https://github.com/ZacSweers/CatchUp/pull/787) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.31.5-beta"
+**2023-07-03** — closed issue [#153](https://github.com/ZacSweers/CatchUp/issues/153) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Support Lobsters"
 
-**2023-07-02** — deleted branch `z/scrollUpModifier` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-03** — closed issue [#187](https://github.com/ZacSweers/CatchUp/issues/187) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix daynight settings"
 
-**2023-07-02** — closed issue [#770](https://github.com/ZacSweers/CatchUp/issues/770) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use a ModifierLocal for scroll to top"
+**2023-07-03** — closed issue [#126](https://github.com/ZacSweers/CatchUp/issues/126) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Explore lightening text on touch in night mode"
 
-**2023-07-02** — merged PR [#786](https://github.com/ZacSweers/CatchUp/pull/786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement ScrollToTop"
+**2023-07-03** — closed issue [#97](https://github.com/ZacSweers/CatchUp/issues/97) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Better handling for append-only services"
 
-**2023-07-02** — opened PR [#786](https://github.com/ZacSweers/CatchUp/pull/786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement ScrollToTop"
+**2023-07-03** — closed issue [#113](https://github.com/ZacSweers/CatchUp/issues/113) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use ViewModel for state management/restoration"
 
-**2023-07-02** — created branch `z/scrollUpModifier` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-03** — closed issue [#100](https://github.com/ZacSweers/CatchUp/issues/100) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Full black background for OLED displays"
 
-**2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-07-03** — closed issue [#88](https://github.com/ZacSweers/CatchUp/issues/88) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Specify what current daynight mode is in auto summary"
 
-**2023-07-02** — merged PR [#153](https://github.com/ZacSweers/redacted-compiler-plugin/pull/153) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.3"
+**2023-07-03** — closed issue [#39](https://github.com/ZacSweers/CatchUp/issues/39) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Investigate switching to arch components paging"
 
-**2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-03** — closed issue [#85](https://github.com/ZacSweers/CatchUp/issues/85) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Catch-up viewholders with no clicks url should fall back to comments url if present"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
