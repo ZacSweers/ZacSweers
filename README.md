@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-07-03** — merged PR [#51](https://github.com/slackhq/moshi-gson-interop/pull/51) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
+
 **2023-07-03** — deleted branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-03** — merged PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — closed issue [#126](https://github.com/ZacSweers/CatchUp/issues/126) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Explore lightening text on touch in night mode"
 
 **2023-07-03** — closed issue [#97](https://github.com/ZacSweers/CatchUp/issues/97) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Better handling for append-only services"
-
-**2023-07-03** — closed issue [#113](https://github.com/ZacSweers/CatchUp/issues/113) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use ViewModel for state management/restoration"
-
-**2023-07-03** — closed issue [#100](https://github.com/ZacSweers/CatchUp/issues/100) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Full black background for OLED displays"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
