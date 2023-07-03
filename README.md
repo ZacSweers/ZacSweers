@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — deleted branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-03** — merged PR [#708](https://github.com/slackhq/circuit/pull/708) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable lint on test sources too"
+
 **2023-07-03** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-07-03** — merged PR [#51](https://github.com/slackhq/moshi-gson-interop/pull/51) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — closed issue [#153](https://github.com/ZacSweers/CatchUp/issues/153) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Support Lobsters"
 
 **2023-07-03** — closed issue [#187](https://github.com/ZacSweers/CatchUp/issues/187) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix daynight settings"
-
-**2023-07-03** — closed issue [#126](https://github.com/ZacSweers/CatchUp/issues/126) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Explore lightening text on touch in night mode"
-
-**2023-07-03** — closed issue [#97](https://github.com/ZacSweers/CatchUp/issues/97) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Better handling for append-only services"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
