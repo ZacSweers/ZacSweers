@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — commented on [#446](https://github.com/ZacSweers/MoshiX/issues/446#issuecomment-1618903785) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-07-03** — deleted branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-03** — merged PR [#708](https://github.com/slackhq/circuit/pull/708) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable lint on test sources too"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — closed issue [#68](https://github.com/ZacSweers/CatchUp/issues/68) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Slashdot Feed#itemList is null sometimes"
 
 **2023-07-03** — closed issue [#153](https://github.com/ZacSweers/CatchUp/issues/153) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Support Lobsters"
-
-**2023-07-03** — closed issue [#187](https://github.com/ZacSweers/CatchUp/issues/187) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix daynight settings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
