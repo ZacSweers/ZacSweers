@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-02** — opened PR [#786](https://github.com/ZacSweers/CatchUp/pull/786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement ScrollToTop"
+
+**2023-07-02** — created branch `z/scrollUpModifier` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-07-02** — merged PR [#153](https://github.com/ZacSweers/redacted-compiler-plugin/pull/153) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.25.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-01** — opened issue [#440](https://github.com/slackhq/slack-gradle-plugin/issues/440) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake configuration-cache friendly"
 
 **2023-07-01** — opened issue [#439](https://github.com/slackhq/slack-gradle-plugin/issues/439) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply dependency rake on platform projects"
-
-**2023-07-01** — deleted branch `renovate/tikxml` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-01** — merged PR [#784](https://github.com/ZacSweers/CatchUp/pull/784) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.tickaroo.tikxml:converter-htmlescape to v0.8.15"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
