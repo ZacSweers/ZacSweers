@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-03** — opened PR [#788](https://github.com/ZacSweers/CatchUp/pull/788) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "misc UI cleanups"
+
 **2023-07-03** — closed issue [#68](https://github.com/ZacSweers/CatchUp/issues/68) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Slashdot Feed#itemList is null sometimes"
 
 **2023-07-03** — closed issue [#153](https://github.com/ZacSweers/CatchUp/issues/153) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "[Feature request] Support Lobsters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — closed issue [#88](https://github.com/ZacSweers/CatchUp/issues/88) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Specify what current daynight mode is in auto summary"
 
 **2023-07-03** — closed issue [#39](https://github.com/ZacSweers/CatchUp/issues/39) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Investigate switching to arch components paging"
-
-**2023-07-03** — closed issue [#85](https://github.com/ZacSweers/CatchUp/issues/85) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Catch-up viewholders with no clicks url should fall back to comments url if present"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
