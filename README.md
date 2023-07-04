@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-04** — opened PR [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Add gradle property to disable compatibility mismatch"
+
+**2023-07-04** — created branch `z/addOptionToDisable` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
 **2023-07-03** — deleted branch `z/rakeDeps` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-03** — merged PR [#789](https://github.com/ZacSweers/CatchUp/pull/789) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Rake dependencies"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — created branch `z/rakeDeps` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-03** — commented on [#446](https://github.com/ZacSweers/MoshiX/issues/446#issuecomment-1618903785) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-03** — deleted branch `z/lintTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-03** — merged PR [#708](https://github.com/slackhq/circuit/pull/708) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable lint on test sources too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
