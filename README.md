@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-05** — deleted branch `renovate/major-com.github.ajalt.clikt` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-05** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-05** — merged PR [#716](https://github.com/slackhq/circuit/pull/716) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ajalt.clikt:clikt to v4"
+**2023-07-05** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-05** — merged PR [#790](https://github.com/ZacSweers/CatchUp/pull/790) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4"
+**2023-07-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-05** — merged PR [#791](https://github.com/ZacSweers/CatchUp/pull/791) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4"
+**2023-07-05** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-04** — commented on [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919#issuecomment-1620684615) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2023-07-05** — merged PR [#438](https://github.com/slackhq/slack-gradle-plugin/pull/438) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.2"
 
-**2023-07-04** — commented on [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919#issuecomment-1620643857) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2023-07-05** — merged PR [#443](https://github.com/slackhq/slack-gradle-plugin/pull/443) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.18"
 
-**2023-07-04** — opened PR [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Add gradle property to disable compatibility mismatch"
+**2023-07-05** — merged PR [#442](https://github.com/slackhq/slack-gradle-plugin/pull/442) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.25.3"
 
-**2023-07-04** — created branch `z/addOptionToDisable` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+**2023-07-05** — merged PR [#441](https://github.com/slackhq/slack-gradle-plugin/pull/441) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.4"
 
-**2023-07-03** — deleted branch `z/rakeDeps` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-05** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-03** — merged PR [#789](https://github.com/ZacSweers/CatchUp/pull/789) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Rake dependencies"
+**2023-07-05** — merged PR [#437](https://github.com/slackhq/slack-gradle-plugin/pull/437) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.1.1-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
