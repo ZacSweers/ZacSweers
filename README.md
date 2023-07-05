@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-05** — merged PR [#790](https://github.com/ZacSweers/CatchUp/pull/790) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4"
+
+**2023-07-05** — merged PR [#791](https://github.com/ZacSweers/CatchUp/pull/791) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4"
+
 **2023-07-04** — commented on [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919#issuecomment-1620684615) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2023-07-04** — commented on [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919#issuecomment-1620643857) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-03** — commented on [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919#issuecomment-1619424319) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2023-07-03** — opened PR [#789](https://github.com/ZacSweers/CatchUp/pull/789) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Rake dependencies"
-
-**2023-07-03** — opened PR [#919](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/919) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "WIP Support for correctly resolving KMP artifacts"
-
-**2023-07-03** — created branch `z/kmpSupport` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
