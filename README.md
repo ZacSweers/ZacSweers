@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-05** — deleted branch `renovate/io.github.pdvrieze.xmlutil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-05** — merged PR [#792](https://github.com/ZacSweers/CatchUp/pull/792) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update io.github.pdvrieze.xmlutil to v0.86.1"
+
+**2023-07-05** — opened PR [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Deprecate dependencyAnalysis.dependencies for structure"
+
+**2023-07-05** — created branch `z/dependencyDSL` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
 **2023-07-05** — opened PR [#444](https://github.com/slackhq/slack-gradle-plugin/pull/444) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake improvements"
 
 **2023-07-05** — created branch `z/rakeFixed` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-05** — deleted branch `test-renovate/mavenpublish` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-05** — merged PR [#438](https://github.com/slackhq/slack-gradle-plugin/pull/438) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.2"
-
-**2023-07-05** — merged PR [#443](https://github.com/slackhq/slack-gradle-plugin/pull/443) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.18"
-
-**2023-07-05** — merged PR [#442](https://github.com/slackhq/slack-gradle-plugin/pull/442) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.25.3"
-
-**2023-07-05** — merged PR [#441](https://github.com/slackhq/slack-gradle-plugin/pull/441) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
