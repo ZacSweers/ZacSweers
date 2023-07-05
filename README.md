@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-05** — opened PR [#444](https://github.com/slackhq/slack-gradle-plugin/pull/444) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake improvements"
+
+**2023-07-05** — created branch `z/rakeFixed` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-05** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-05** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-05** — merged PR [#442](https://github.com/slackhq/slack-gradle-plugin/pull/442) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.vanniktech.maven.publish to v0.25.3"
 
 **2023-07-05** — merged PR [#441](https://github.com/slackhq/slack-gradle-plugin/pull/441) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.4"
-
-**2023-07-05** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-05** — merged PR [#437](https://github.com/slackhq/slack-gradle-plugin/pull/437) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.1.1-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
