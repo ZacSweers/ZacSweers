@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-06** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-06** — closed PR [#717](https://github.com/slackhq/circuit/pull/717) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.9.0"
+
+**2023-07-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-06** — merged PR [#793](https://github.com/ZacSweers/CatchUp/pull/793) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.0"
+
+**2023-07-06** — created tag `0.3.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-06** — created tag `0.23.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-07-06** — created tag `1.5.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-07-06** — opened PR [#167](https://github.com/ZacSweers/kotlin-compile-testing/pull/167) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update test to use kspWithCompilation"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-06** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-07-06** — closed PR [#166](https://github.com/ZacSweers/kotlin-compile-testing/pull/166) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.0-1.0.11"
-
-**2023-07-06** — deleted branch `z/kotlin19` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-06** — merged PR [#152](https://github.com/ZacSweers/kotlin-compile-testing/pull/152) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update to Kotlin 1.9.0"
-
-**2023-07-06** — deleted branch `z/kotlin19` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-06** — merged PR [#143](https://github.com/ZacSweers/redacted-compiler-plugin/pull/143) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 1.9.0"
-
-**2023-07-06** — closed issue [#62](https://github.com/slackhq/EitherNet/issues/62) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Api<Unit, Throwable> crashes with NPE when http code is 204 or 205"
-
-**2023-07-06** — commented on [#62](https://github.com/slackhq/EitherNet/issues/62#issuecomment-1624328117) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
