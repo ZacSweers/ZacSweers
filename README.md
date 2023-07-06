@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-06** — closed issue [#439](https://github.com/slackhq/slack-gradle-plugin/issues/439) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply dependency rake on platform projects"
+**2023-07-06** — commented on [#152](https://github.com/ZacSweers/kotlin-compile-testing/pull/152#issuecomment-1624170737) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-07-06** — closed issue [#440](https://github.com/slackhq/slack-gradle-plugin/issues/440) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake configuration-cache friendly"
+**2023-07-06** — commented on [#308](https://github.com/slackhq/slack-gradle-plugin/issues/308#issuecomment-1624158033) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-06** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-06** — opened issue [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support KSP compilations"
 
-**2023-07-06** — closed PR [#445](https://github.com/slackhq/slack-gradle-plugin/pull/445) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin to v1.9.0"
+**2023-07-06** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-07-06** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-06** — closed PR [#159](https://github.com/ZacSweers/kotlin-compile-testing/pull/159) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v1.9.20-station-823"
 
-**2023-07-06** — merged PR [#102](https://github.com/slackhq/slack-lints/pull/102) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.2"
+**2023-07-06** — deleted branch `renovate/com.google.auto.service` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-07-06** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-06** — merged PR [#158](https://github.com/ZacSweers/kotlin-compile-testing/pull/158) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.auto.service:auto-service-annotations to v1.1.1"
 
-**2023-07-06** — merged PR [#104](https://github.com/slackhq/slack-lints/pull/104) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
+**2023-07-06** — deleted branch `renovate/com.squareup` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-07-06** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-07-06** — merged PR [#154](https://github.com/ZacSweers/kotlin-compile-testing/pull/154) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup:kotlinpoet to v1.14.2"
 
-**2023-07-06** — merged PR [#50](https://github.com/slackhq/auto-value-kotlin/pull/50) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
+**2023-07-06** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
