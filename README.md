@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-06** — closed issue [#439](https://github.com/slackhq/slack-gradle-plugin/issues/439) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply dependency rake on platform projects"
+
+**2023-07-06** — closed issue [#440](https://github.com/slackhq/slack-gradle-plugin/issues/440) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make dependency rake configuration-cache friendly"
+
 **2023-07-06** — deleted branch `test-renovate/kotlin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-06** — closed PR [#445](https://github.com/slackhq/slack-gradle-plugin/pull/445) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin to v1.9.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-06** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-07-06** — merged PR [#50](https://github.com/slackhq/auto-value-kotlin/pull/50) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
-
-**2023-07-06** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-06** — closed PR [#103](https://github.com/slackhq/slack-lints/pull/103) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.25.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
