@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-06** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-06** — merged PR [#102](https://github.com/slackhq/slack-lints/pull/102) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.2"
+
+**2023-07-06** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-06** — merged PR [#104](https://github.com/slackhq/slack-lints/pull/104) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
+
+**2023-07-06** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.25.3` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-07-06** — merged PR [#50](https://github.com/slackhq/auto-value-kotlin/pull/50) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.25.2 to 0.25.3"
+
+**2023-07-06** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-06** — closed PR [#103](https://github.com/slackhq/slack-lints/pull/103) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.25.3"
+
 **2023-07-06** — deleted branch `dependabot/gradle/jvm-1.9.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-07-06** — merged PR [#52](https://github.com/slackhq/moshi-gson-interop/pull/52) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.8.22 to 1.9.0"
-
-**2023-07-06** — deleted branch `z/rakeFixed` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-06** — merged PR [#444](https://github.com/slackhq/slack-gradle-plugin/pull/444) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake improvements"
-
-**2023-07-05** — deleted branch `renovate/io.github.pdvrieze.xmlutil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-05** — merged PR [#792](https://github.com/ZacSweers/CatchUp/pull/792) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update io.github.pdvrieze.xmlutil to v0.86.1"
-
-**2023-07-05** — opened PR [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922) to [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin): "Deprecate dependencyAnalysis.dependencies for structure"
-
-**2023-07-05** — created branch `z/dependencyDSL` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
-
-**2023-07-05** — opened PR [#444](https://github.com/slackhq/slack-gradle-plugin/pull/444) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake improvements"
-
-**2023-07-05** — created branch `z/rakeFixed` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
