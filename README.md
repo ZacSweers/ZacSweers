@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-07** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-07** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-1625642304) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-07-07** — merged PR [#446](https://github.com/slackhq/slack-gradle-plugin/pull/446) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.4"
+**2023-07-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-07** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-07** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-07** — closed PR [#447](https://github.com/slackhq/slack-gradle-plugin/pull/447) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.11"
+**2023-07-07** — merged PR [#105](https://github.com/slackhq/slack-lints/pull/105) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha11"
 
-**2023-07-07** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-07** — merged PR [#106](https://github.com/slackhq/slack-lints/pull/106) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.0-1.0.11"
 
-**2023-07-07** — closed PR [#720](https://github.com/slackhq/circuit/pull/720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.0-1.0.11"
+**2023-07-07** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-07-07** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-07** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-07-07** — closed PR [#719](https://github.com/slackhq/circuit/pull/719) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.23.0"
+**2023-07-07** — merged PR [#142](https://github.com/slackhq/compose-lints/pull/142) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.25.3"
 
-**2023-07-07** — deleted branch `dependabot/gradle/jvm-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-07-07** — merged PR [#141](https://github.com/slackhq/compose-lints/pull/141) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2"
+
+**2023-07-07** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
