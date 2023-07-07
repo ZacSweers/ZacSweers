@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-07** — merged PR [#446](https://github.com/slackhq/slack-gradle-plugin/pull/446) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.4"
+
+**2023-07-07** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-07** — closed PR [#447](https://github.com/slackhq/slack-gradle-plugin/pull/447) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.11"
+
 **2023-07-07** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-07** — closed PR [#720](https://github.com/slackhq/circuit/pull/720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.0-1.0.11"
@@ -13,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — closed PR [#719](https://github.com/slackhq/circuit/pull/719) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.23.0"
 
 **2023-07-07** — deleted branch `dependabot/gradle/jvm-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-07-07** — merged PR [#53](https://github.com/slackhq/auto-value-kotlin/pull/53) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.8.22 to 1.9.0"
-
-**2023-07-07** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-07-07** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.0-1.0.11` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-07-07** — merged PR [#48](https://github.com/slackhq/auto-value-kotlin/pull/48) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.10.1 to 1.10.2"
-
-**2023-07-07** — merged PR [#52](https://github.com/slackhq/auto-value-kotlin/pull/52) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.8.22-1.0.11 to 1.9.0-1.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
