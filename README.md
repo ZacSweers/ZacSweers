@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1626164994) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-07** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-07-07** — merged PR [#152](https://github.com/ZacSweers/redacted-compiler-plugin/pull/152) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.2"
+
+**2023-07-07** — created tag `0.9.17` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-07** — deleted branch `z/updateIgnore` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-07** — merged PR [#723](https://github.com/slackhq/circuit/pull/723) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update .gitignore"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — commented on [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165#issuecomment-1625992967) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-07-07** — opened PR [#722](https://github.com/square/anvil/pull/722) to [square/anvil](https://github.com/square/anvil): "Demo KSP dual implementation"
-
-**2023-07-07** — created branch `z/refactorCodeGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-07-07** — deleted branch `z/fixICRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-07-07** — closed PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
-
-**2023-07-07** — commented on [#721](https://github.com/square/anvil/pull/721#issuecomment-1625898102) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
