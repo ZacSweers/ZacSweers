@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-07** — closed PR [#720](https://github.com/slackhq/circuit/pull/720) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.0-1.0.11"
+
+**2023-07-07** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-07** — closed PR [#719](https://github.com/slackhq/circuit/pull/719) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.23.0"
+
 **2023-07-07** — deleted branch `dependabot/gradle/jvm-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-07-07** — merged PR [#53](https://github.com/slackhq/auto-value-kotlin/pull/53) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.8.22 to 1.9.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — merged PR [#48](https://github.com/slackhq/auto-value-kotlin/pull/48) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.10.1 to 1.10.2"
 
 **2023-07-07** — merged PR [#52](https://github.com/slackhq/auto-value-kotlin/pull/52) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.8.22-1.0.11 to 1.9.0-1.0.11"
-
-**2023-07-07** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-07-07** — merged PR [#51](https://github.com/slackhq/auto-value-kotlin/pull/51) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.8.21 to 1.9.0"
-
-**2023-07-06** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-06** — closed PR [#717](https://github.com/slackhq/circuit/pull/717) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
