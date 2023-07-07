@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — deleted branch `z/updateIgnore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-07** — merged PR [#723](https://github.com/slackhq/circuit/pull/723) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update .gitignore"
+
+**2023-07-07** — opened PR [#723](https://github.com/slackhq/circuit/pull/723) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update .gitignore"
+
+**2023-07-07** — created branch `z/updateIgnore` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-07** — commented on [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165#issuecomment-1625992967) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2023-07-07** — opened PR [#722](https://github.com/square/anvil/pull/722) to [square/anvil](https://github.com/square/anvil): "Demo KSP dual implementation"
 
 **2023-07-07** — created branch `z/refactorCodeGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — closed PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
 
 **2023-07-07** — commented on [#721](https://github.com/square/anvil/pull/721#issuecomment-1625898102) in [square/anvil](https://github.com/square/anvil)
-
-**2023-07-07** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-07** — merged PR [#794](https://github.com/ZacSweers/CatchUp/pull/794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-1.0.11"
-
-**2023-07-07** — merged PR [#795](https://github.com/ZacSweers/CatchUp/pull/795) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update moshix to v0.23.0"
-
-**2023-07-07** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-07** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
