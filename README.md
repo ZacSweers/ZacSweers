@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — created branch `z/valueClasses` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2023-07-07** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1626164994) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-07** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — created branch `z/updateIgnore` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-07** — commented on [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165#issuecomment-1625992967) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-07** — opened PR [#722](https://github.com/square/anvil/pull/722) to [square/anvil](https://github.com/square/anvil): "Demo KSP dual implementation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
