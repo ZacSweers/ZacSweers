@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — opened PR [#722](https://github.com/square/anvil/pull/722) to [square/anvil](https://github.com/square/anvil): "Demo KSP dual implementation"
+
+**2023-07-07** — created branch `z/refactorCodeGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2023-07-07** — deleted branch `z/fixICRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2023-07-07** — closed PR [#720](https://github.com/square/anvil/pull/720) to [square/anvil](https://github.com/square/anvil): "Only clear the output dir the first round"
+
+**2023-07-07** — commented on [#721](https://github.com/square/anvil/pull/721#issuecomment-1625898102) in [square/anvil](https://github.com/square/anvil)
+
 **2023-07-07** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-07** — merged PR [#794](https://github.com/ZacSweers/CatchUp/pull/794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-1.0.11"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-07** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-07** — merged PR [#796](https://github.com/ZacSweers/CatchUp/pull/796) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha11"
-
-**2023-07-07** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-07** — merged PR [#797](https://github.com/ZacSweers/CatchUp/pull/797) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.4.0"
-
-**2023-07-07** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-1625642304) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
