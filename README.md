@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-07** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-07** — merged PR [#794](https://github.com/ZacSweers/CatchUp/pull/794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-1.0.11"
+
+**2023-07-07** — merged PR [#795](https://github.com/ZacSweers/CatchUp/pull/795) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update moshix to v0.23.0"
+
+**2023-07-07** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-07** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-07** — merged PR [#796](https://github.com/ZacSweers/CatchUp/pull/796) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha11"
+
+**2023-07-07** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-07** — merged PR [#797](https://github.com/ZacSweers/CatchUp/pull/797) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.4.0"
+
 **2023-07-07** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-1625642304) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-07** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-07** — merged PR [#105](https://github.com/slackhq/slack-lints/pull/105) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha11"
-
-**2023-07-07** — merged PR [#106](https://github.com/slackhq/slack-lints/pull/106) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.0-1.0.11"
-
-**2023-07-07** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-07** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-07** — merged PR [#142](https://github.com/slackhq/compose-lints/pull/142) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.25.3"
-
-**2023-07-07** — merged PR [#141](https://github.com/slackhq/compose-lints/pull/141) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2"
-
-**2023-07-07** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
