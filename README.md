@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-08** — deleted branch `z/roomKotlinTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-08** — merged PR [#598](https://github.com/ZacSweers/CatchUp/pull/598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use kotlin code gen in Room"
+
 **2023-07-08** — opened issue [#800](https://github.com/ZacSweers/CatchUp/issues/800) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement colors support for github languages"
 
 **2023-07-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-07** — closed issue [#140](https://github.com/ZacSweers/redacted-compiler-plugin/issues/140) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
 
 **2023-07-07** — merged PR [#156](https://github.com/ZacSweers/redacted-compiler-plugin/pull/156) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
-
-**2023-07-07** — opened PR [#156](https://github.com/ZacSweers/redacted-compiler-plugin/pull/156) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
-
-**2023-07-07** — created branch `z/valueClasses` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
