@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-08** — deleted branch `z/graphQLPH` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-08** — merged PR [#785](https://github.com/ZacSweers/CatchUp/pull/785) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Product Hunt API to graphql V2"
+
+**2023-07-08** — closed issue [#544](https://github.com/ZacSweers/CatchUp/issues/544) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate product hunt to v2 API + remove makers"
+
+**2023-07-08** — commented on [#785](https://github.com/ZacSweers/CatchUp/pull/785#issuecomment-1627479698) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-08** — deleted branch `z/roomKotlinTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-08** — merged PR [#598](https://github.com/ZacSweers/CatchUp/pull/598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use kotlin code gen in Room"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-08** — merged PR [#798](https://github.com/ZacSweers/CatchUp/pull/798) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.17-1.9.0"
 
 **2023-07-08** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#799](https://github.com/ZacSweers/CatchUp/pull/799) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.5.0"
-
-**2023-07-07** — deleted branch `z/valueClasses` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-07** — closed issue [#140](https://github.com/ZacSweers/redacted-compiler-plugin/issues/140) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
-
-**2023-07-07** — merged PR [#156](https://github.com/ZacSweers/redacted-compiler-plugin/pull/156) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support value classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
