@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `cb/remember-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2023-07-09** — merged PR [#726](https://github.com/slackhq/circuit/pull/726) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remember Presenter and UI in CircuitContent"
+
+**2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627764160) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-07-09** — opened PR [#802](https://github.com/ZacSweers/CatchUp/pull/802) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate entirely to sqldelight from ROOM"
 
 **2023-07-09** — created branch `z/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-08** — deleted branch `z/sqldelightMore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-08** — merged PR [#539](https://github.com/ZacSweers/CatchUp/pull/539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Split mutable and read-only gemoji DB"
-
-**2023-07-08** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#801](https://github.com/ZacSweers/CatchUp/pull/801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.0"
-
-**2023-07-08** — created tag `1.6.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
