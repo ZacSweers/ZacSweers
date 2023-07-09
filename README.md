@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `z/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-09** — merged PR [#802](https://github.com/ZacSweers/CatchUp/pull/802) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate entirely to sqldelight from ROOM"
+
+**2023-07-09** — deleted branch `cb/circuitcontent-public` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2023-07-09** — merged PR [#727](https://github.com/slackhq/circuit/pull/727) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CircuitContent overload with Navigator public"
+
 **2023-07-09** — deleted branch `cb/remember-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2023-07-09** — merged PR [#726](https://github.com/slackhq/circuit/pull/726) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remember Presenter and UI in CircuitContent"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — created branch `z/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627606088) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-08** — deleted branch `z/reproBranch` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — closed PR [#746](https://github.com/ZacSweers/CatchUp/pull/746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro for KT-59220"
-
-**2023-07-08** — deleted branch `z/sqldelightMore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#539](https://github.com/ZacSweers/CatchUp/pull/539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Split mutable and read-only gemoji DB"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
