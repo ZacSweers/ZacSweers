@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#39](https://github.com/ZacSweers/auto-service-ksp/pull/39) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.0"
+
+**2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627808013) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — created tag `1.1.0` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#50](https://github.com/ZacSweers/auto-service-ksp/pull/50) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Don't error on autoservice missing from classpath"
+
+**2023-07-09** — deleted branch `z/doNotError` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — closed issue [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Do not fail the build if `@AutoService` annotation is absent from compilation unit"
+
+**2023-07-09** — opened PR [#50](https://github.com/ZacSweers/auto-service-ksp/pull/50) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Don't error on autoservice missing from classpath"
+
+**2023-07-09** — created branch `z/doNotError` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-07-09** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#46](https://github.com/ZacSweers/auto-service-ksp/pull/46) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32"
-
-**2023-07-09** — deleted branch `renovate/autoservice` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#47](https://github.com/ZacSweers/auto-service-ksp/pull/47) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update autoService to v1.1.1"
-
-**2023-07-09** — deleted branch `z/modernizeRepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#43](https://github.com/ZacSweers/auto-service-ksp/pull/43) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Modernize things"
-
-**2023-07-09** — opened PR [#43](https://github.com/ZacSweers/auto-service-ksp/pull/43) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Modernize things"
-
-**2023-07-09** — created branch `z/modernizeRepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#42](https://github.com/ZacSweers/auto-service-ksp/pull/42) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/cache action to v3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
