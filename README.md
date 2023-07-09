@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — opened PR [#802](https://github.com/ZacSweers/CatchUp/pull/802) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate entirely to sqldelight from ROOM"
+
+**2023-07-09** — created branch `z/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627606088) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-07-08** — deleted branch `z/reproBranch` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-08** — closed PR [#746](https://github.com/ZacSweers/CatchUp/pull/746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro for KT-59220"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-08** — merged PR [#801](https://github.com/ZacSweers/CatchUp/pull/801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.0"
 
 **2023-07-08** — created tag `1.6.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-08** — deleted branch `z/graphQLPH` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#785](https://github.com/ZacSweers/CatchUp/pull/785) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Product Hunt API to graphql V2"
-
-**2023-07-08** — closed issue [#544](https://github.com/ZacSweers/CatchUp/issues/544) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate product hunt to v2 API + remove makers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
