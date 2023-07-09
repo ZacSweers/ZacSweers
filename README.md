@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — opened PR [#804](https://github.com/ZacSweers/CatchUp/pull/804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove RxJava entirely"
+
+**2023-07-09** — created branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-07-09** — merged PR [#157](https://github.com/ZacSweers/redacted-compiler-plugin/pull/157) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — created branch `z/excludeFunctinos` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
 
 **2023-07-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#39](https://github.com/ZacSweers/auto-service-ksp/pull/39) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.0"
-
-**2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627808013) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
