@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-07-09** — merged PR [#157](https://github.com/ZacSweers/redacted-compiler-plugin/pull/157) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
+**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#51](https://github.com/ZacSweers/auto-service-ksp/pull/51) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
 **2023-07-09** — commented on [#182](https://github.com/drewhamilton/Poko/pull/182#issuecomment-1627830221) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
 **2023-07-09** — opened PR [#182](https://github.com/drewhamilton/Poko/pull/182) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Add support for excludeFunctions."
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — merged PR [#39](https://github.com/ZacSweers/auto-service-ksp/pull/39) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.0"
 
 **2023-07-09** — commented on [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30#issuecomment-1627808013) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — created tag `1.1.0` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#50](https://github.com/ZacSweers/auto-service-ksp/pull/50) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Don't error on autoservice missing from classpath"
-
-**2023-07-09** — deleted branch `z/doNotError` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — closed issue [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Do not fail the build if `@AutoService` annotation is absent from compilation unit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
