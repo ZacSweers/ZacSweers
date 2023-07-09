@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#46](https://github.com/ZacSweers/auto-service-ksp/pull/46) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32"
+
+**2023-07-09** — deleted branch `renovate/autoservice` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#47](https://github.com/ZacSweers/auto-service-ksp/pull/47) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update autoService to v1.1.1"
+
+**2023-07-09** — deleted branch `z/modernizeRepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-09** — merged PR [#43](https://github.com/ZacSweers/auto-service-ksp/pull/43) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Modernize things"
+
+**2023-07-09** — opened PR [#43](https://github.com/ZacSweers/auto-service-ksp/pull/43) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Modernize things"
+
+**2023-07-09** — created branch `z/modernizeRepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-07-09** — deleted branch `renovate/actions-cache-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-07-09** — merged PR [#42](https://github.com/ZacSweers/auto-service-ksp/pull/42) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/cache action to v3"
-
-**2023-07-09** — deleted branch `renovate/dependencies.testing.truth` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#32](https://github.com/ZacSweers/auto-service-ksp/pull/32) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.1.5"
-
-**2023-07-09** — deleted branch `renovate/dependencies.autoservice.version` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#33](https://github.com/ZacSweers/auto-service-ksp/pull/33) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update Dependencies.AutoService.version to v1.1.1"
-
-**2023-07-09** — merged PR [#31](https://github.com/ZacSweers/auto-service-ksp/pull/31) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Configure Renovate"
-
-**2023-07-09** — deleted branch `renovate/configure` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — closed issue [#185](https://github.com/ZacSweers/CatchUp/issues/185) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Image viewer polish"
-
-**2023-07-09** — commented on [#800](https://github.com/ZacSweers/CatchUp/issues/800#issuecomment-1627787285) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
