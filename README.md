@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-08** — deleted branch `z/reproBranch` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-08** — closed PR [#746](https://github.com/ZacSweers/CatchUp/pull/746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro for KT-59220"
+
+**2023-07-08** — deleted branch `z/sqldelightMore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-08** — merged PR [#539](https://github.com/ZacSweers/CatchUp/pull/539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Split mutable and read-only gemoji DB"
+
+**2023-07-08** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-08** — merged PR [#801](https://github.com/ZacSweers/CatchUp/pull/801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.0"
+
 **2023-07-08** — created tag `1.6.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-07-08** — deleted branch `z/graphQLPH` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-08** — merged PR [#785](https://github.com/ZacSweers/CatchUp/pull/785) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Product Hunt API to graphql V2"
 
 **2023-07-08** — closed issue [#544](https://github.com/ZacSweers/CatchUp/issues/544) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate product hunt to v2 API + remove makers"
-
-**2023-07-08** — commented on [#785](https://github.com/ZacSweers/CatchUp/pull/785#issuecomment-1627479698) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — deleted branch `z/roomKotlinTesting` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#598](https://github.com/ZacSweers/CatchUp/pull/598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use kotlin code gen in Room"
-
-**2023-07-08** — opened issue [#800](https://github.com/ZacSweers/CatchUp/issues/800) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement colors support for github languages"
-
-**2023-07-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-08** — merged PR [#798](https://github.com/ZacSweers/CatchUp/pull/798) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.17-1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
