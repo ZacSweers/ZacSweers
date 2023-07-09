@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — commented on [#182](https://github.com/drewhamilton/Poko/pull/182#issuecomment-1627830221) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
+**2023-07-09** — opened PR [#182](https://github.com/drewhamilton/Poko/pull/182) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Add support for excludeFunctions."
+
+**2023-07-09** — created branch `z/excludeFunctinos` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
+
 **2023-07-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-07-09** — merged PR [#39](https://github.com/ZacSweers/auto-service-ksp/pull/39) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — deleted branch `z/doNotError` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-07-09** — closed issue [#30](https://github.com/ZacSweers/auto-service-ksp/issues/30) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Do not fail the build if `@AutoService` annotation is absent from compilation unit"
-
-**2023-07-09** — opened PR [#50](https://github.com/ZacSweers/auto-service-ksp/pull/50) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Don't error on autoservice missing from classpath"
-
-**2023-07-09** — created branch `z/doNotError` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
