@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-09** — merged PR [#453](https://github.com/ZacSweers/MoshiX/pull/453) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
+**2023-07-09** — deleted branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-09** — merged PR [#804](https://github.com/ZacSweers/CatchUp/pull/804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove RxJava entirely"
+
 **2023-07-09** — opened PR [#804](https://github.com/ZacSweers/CatchUp/pull/804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove RxJava entirely"
 
 **2023-07-09** — created branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,19 +23,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-07-09** — merged PR [#51](https://github.com/ZacSweers/auto-service-ksp/pull/51) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-09** — commented on [#182](https://github.com/drewhamilton/Poko/pull/182#issuecomment-1627830221) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2023-07-09** — opened PR [#182](https://github.com/drewhamilton/Poko/pull/182) to [drewhamilton/Poko](https://github.com/drewhamilton/Poko): "Add support for excludeFunctions."
-
-**2023-07-09** — created branch `z/excludeFunctinos` on [ZacSweers/Poko](https://github.com/ZacSweers/Poko)
-
-**2023-07-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
+
 **2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
 
 **2022-12-19** — [Improving Your Gradle Workflow by Not Auto-reloading Build Files](https://www.zacsweers.dev/improving-your-workflow-by-not-auto-reloading-build-files/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
 
 **2021-02-02** — [Disposables Can Cause Memory Leaks](https://www.zacsweers.dev/disposables-can-cause-memory-leaks/)
-
-**2021-01-29** — [Kapt's Hidden Test Costs](https://www.zacsweers.dev/kapts-hidden-test-costs/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
