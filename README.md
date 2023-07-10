@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-10** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-07-10** — merged PR [#54](https://github.com/slackhq/auto-value-kotlin/pull/54) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.3.0 to 3.4.0"
+
+**2023-07-10** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-10** — merged PR [#107](https://github.com/slackhq/slack-lints/pull/107) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
+**2023-07-10** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-10** — merged PR [#147](https://github.com/slackhq/compose-lints/pull/147) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
+**2023-07-10** — commented on [#148](https://github.com/slackhq/compose-lints/issues/148#issuecomment-1629251812) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-07-09** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1628010811) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2023-07-09** — deleted branch `z/modernizeAndroid` on [ZacSweers/roborazzi](https://github.com/ZacSweers/roborazzi)
 
 **2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-09** — merged PR [#453](https://github.com/ZacSweers/MoshiX/pull/453) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-09** — deleted branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-09** — merged PR [#804](https://github.com/ZacSweers/CatchUp/pull/804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove RxJava entirely"
-
-**2023-07-09** — opened PR [#804](https://github.com/ZacSweers/CatchUp/pull/804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove RxJava entirely"
-
-**2023-07-09** — created branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-09** — merged PR [#157](https://github.com/ZacSweers/redacted-compiler-plugin/pull/157) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
