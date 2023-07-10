@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-09** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1628010811) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2023-07-09** — deleted branch `z/modernizeAndroid` on [ZacSweers/roborazzi](https://github.com/ZacSweers/roborazzi)
+
 **2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-09** — merged PR [#453](https://github.com/ZacSweers/MoshiX/pull/453) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-07-09** — merged PR [#157](https://github.com/ZacSweers/redacted-compiler-plugin/pull/157) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-09** — merged PR [#51](https://github.com/ZacSweers/auto-service-ksp/pull/51) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
