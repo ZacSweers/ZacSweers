@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-11** — commented on [#455](https://github.com/ZacSweers/MoshiX/pull/455#issuecomment-1630938665) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-11** — merged PR [#455](https://github.com/ZacSweers/MoshiX/pull/455) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "remove local development section from README.md"
+
 **2023-07-10** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-07-10** — merged PR [#54](https://github.com/slackhq/auto-value-kotlin/pull/54) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.3.0 to 3.4.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-10** — commented on [#148](https://github.com/slackhq/compose-lints/issues/148#issuecomment-1629251812) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-07-09** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1628010811) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2023-07-09** — deleted branch `z/modernizeAndroid` on [ZacSweers/roborazzi](https://github.com/ZacSweers/roborazzi)
-
-**2023-07-09** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
