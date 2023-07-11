@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-11** — merged PR [#807](https://github.com/ZacSweers/CatchUp/pull/807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha12"
+
 **2023-07-11** — commented on [#455](https://github.com/ZacSweers/MoshiX/pull/455#issuecomment-1630938665) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-11** — merged PR [#455](https://github.com/ZacSweers/MoshiX/pull/455) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "remove local development section from README.md"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-10** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-07-10** — merged PR [#147](https://github.com/slackhq/compose-lints/pull/147) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-10** — commented on [#148](https://github.com/slackhq/compose-lints/issues/148#issuecomment-1629251812) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-09** — commented on [#87](https://github.com/takahirom/roborazzi/pull/87#issuecomment-1628010811) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
