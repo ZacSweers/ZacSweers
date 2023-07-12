@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-12** — opened PR [#459](https://github.com/slackhq/slack-gradle-plugin/pull/459) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate unit vs android test and don't affect android tests if only unit tests changed"
+**2023-07-12** — created tag `0.9.18` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — opened PR [#458](https://github.com/slackhq/slack-gradle-plugin/pull/458) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add dry-run mode to dependency rake and don't run on android test projects"
+**2023-07-12** — deleted branch `z/betterInstrumentationTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — created branch `z/betterInstrumentationTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-12** — closed issue [#358](https://github.com/slackhq/slack-gradle-plugin/issues/358) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate androidTest from regular tests in affected projects in Skippy"
 
-**2023-07-12** — created branch `z/moreDR` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-12** — merged PR [#459](https://github.com/slackhq/slack-gradle-plugin/pull/459) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate unit vs android test and don't affect android tests if only unit tests changed"
 
-**2023-07-12** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-12** — deleted branch `test-renovate/okio` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — merged PR [#108](https://github.com/slackhq/slack-lints/pull/108) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.2.1"
+**2023-07-12** — merged PR [#452](https://github.com/slackhq/slack-gradle-plugin/pull/452) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okio to v3.4.0"
 
-**2023-07-12** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.7.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-12** — deleted branch `test-renovate/org.jetbrains.intellij-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — merged PR [#110](https://github.com/slackhq/slack-lints/pull/110) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.2 to 0.7.0"
+**2023-07-12** — deleted branch `test-renovate/dev.zacsweers.autoservice` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — commented on [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920#issuecomment-1632939375) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2023-07-12** — deleted branch `test-renovate/fxchen-code-review-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-12** — commented on [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922#issuecomment-1632935984) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+**2023-07-12** — merged PR [#453](https://github.com/slackhq/slack-gradle-plugin/pull/453) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin intellij to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
