@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-12** — commented on [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920#issuecomment-1632939375) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
+**2023-07-12** — commented on [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922#issuecomment-1632935984) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
+
 **2023-07-12** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-07-12** — merged PR [#109](https://github.com/slackhq/slack-lints/pull/109) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha12"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-11** — merged PR [#807](https://github.com/ZacSweers/CatchUp/pull/807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha12"
 
 **2023-07-11** — commented on [#455](https://github.com/ZacSweers/MoshiX/pull/455#issuecomment-1630938665) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-11** — merged PR [#455](https://github.com/ZacSweers/MoshiX/pull/455) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "remove local development section from README.md"
-
-**2023-07-10** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
