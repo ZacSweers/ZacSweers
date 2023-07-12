@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-12** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-12** — merged PR [#108](https://github.com/slackhq/slack-lints/pull/108) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.2.1"
+
+**2023-07-12** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.7.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-12** — merged PR [#110](https://github.com/slackhq/slack-lints/pull/110) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.6.2 to 0.7.0"
+
 **2023-07-12** — commented on [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920#issuecomment-1632939375) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2023-07-12** — commented on [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922#issuecomment-1632935984) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-12** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-07-12** — merged PR [#150](https://github.com/slackhq/compose-lints/pull/150) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha12"
-
-**2023-07-11** — opened issue [#1448](https://github.com/google/ksp/issues/1448) on [google/ksp](https://github.com/google/ksp): "Support creating a simple `KSTypeArgument` from an existing type or declaration"
-
-**2023-07-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-11** — merged PR [#807](https://github.com/ZacSweers/CatchUp/pull/807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha12"
-
-**2023-07-11** — commented on [#455](https://github.com/ZacSweers/MoshiX/pull/455#issuecomment-1630938665) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
