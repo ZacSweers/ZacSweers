@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-12** — opened PR [#459](https://github.com/slackhq/slack-gradle-plugin/pull/459) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Differentiate unit vs android test and don't affect android tests if only unit tests changed"
+
+**2023-07-12** — opened PR [#458](https://github.com/slackhq/slack-gradle-plugin/pull/458) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add dry-run mode to dependency rake and don't run on android test projects"
+
+**2023-07-12** — created branch `z/betterInstrumentationTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-12** — created branch `z/moreDR` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-12** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-07-12** — merged PR [#108](https://github.com/slackhq/slack-lints/pull/108) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.2.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-12** — commented on [#920](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/920#issuecomment-1632939375) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
 
 **2023-07-12** — commented on [#922](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin/pull/922#issuecomment-1632935984) in [autonomousapps/dependency-analysis-android-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-android-gradle-plugin)
-
-**2023-07-12** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-12** — merged PR [#109](https://github.com/slackhq/slack-lints/pull/109) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha12"
-
-**2023-07-12** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-12** — merged PR [#150](https://github.com/slackhq/compose-lints/pull/150) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
