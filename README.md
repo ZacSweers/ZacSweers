@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-12** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-12** — merged PR [#109](https://github.com/slackhq/slack-lints/pull/109) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha12"
+
+**2023-07-12** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-12** — merged PR [#150](https://github.com/slackhq/compose-lints/pull/150) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha12"
+
 **2023-07-11** — opened issue [#1448](https://github.com/google/ksp/issues/1448) on [google/ksp](https://github.com/google/ksp): "Support creating a simple `KSTypeArgument` from an existing type or declaration"
 
 **2023-07-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-11** — merged PR [#455](https://github.com/ZacSweers/MoshiX/pull/455) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "remove local development section from README.md"
 
 **2023-07-10** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-07-10** — merged PR [#54](https://github.com/slackhq/auto-value-kotlin/pull/54) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.3.0 to 3.4.0"
-
-**2023-07-10** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-10** — merged PR [#107](https://github.com/slackhq/slack-lints/pull/107) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-10** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
