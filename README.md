@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-12** — opened PR [#1627](https://github.com/square/kotlinpoet/pull/1627) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlinx-metadata to 0.7.0"
+
+**2023-07-12** — created branch `z/metadataApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-07-12** — commented on [#1626](https://github.com/square/kotlinpoet/pull/1626#issuecomment-1633504164) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-07-12** — closed PR [#1626](https://github.com/square/kotlinpoet/pull/1626) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.7.0"
+
 **2023-07-12** — opened PR [#111](https://github.com/slackhq/slack-lints/pull/111) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Migrate to new kotlinx-metadata APIs"
 
 **2023-07-12** — created branch `z/updateMetadataApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-12** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-12** — merged PR [#452](https://github.com/ZacSweers/MoshiX/pull/452) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.23.0"
-
-**2023-07-12** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-12** — merged PR [#447](https://github.com/ZacSweers/MoshiX/pull/447) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32.1.1-jre"
-
-**2023-07-12** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-12** — merged PR [#454](https://github.com/ZacSweers/MoshiX/pull/454) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
