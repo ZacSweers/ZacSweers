@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-13** — opened issue [#809](https://github.com/ZacSweers/CatchUp/issues/809) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Open chrome custom tabs in split activity if possible"
+
 **2023-07-13** — merged PR [#149](https://github.com/slackhq/compose-lints/pull/149) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2.1"
 
 **2023-07-13** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-12** — closed PR [#1626](https://github.com/square/kotlinpoet/pull/1626) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.7.0"
 
 **2023-07-12** — opened PR [#111](https://github.com/slackhq/slack-lints/pull/111) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Migrate to new kotlinx-metadata APIs"
-
-**2023-07-12** — created branch `z/updateMetadataApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
