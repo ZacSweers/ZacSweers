@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-13** — opened PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
+
+**2023-07-13** — created branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-13** — commented on [#732](https://github.com/slackhq/circuit/issues/732#issuecomment-1634761831) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-13** — opened PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
+
+**2023-07-13** — created branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-13** — opened issue [#732](https://github.com/slackhq/circuit/issues/732) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample doesn't handle cutout in landscape"
+
 **2023-07-13** — opened issue [#809](https://github.com/ZacSweers/CatchUp/issues/809) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Open chrome custom tabs in split activity if possible"
 
 **2023-07-13** — merged PR [#149](https://github.com/slackhq/compose-lints/pull/149) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-13** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-07-13** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-13** — merged PR [#151](https://github.com/slackhq/compose-lints/pull/151) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.2"
-
-**2023-07-12** — opened PR [#1627](https://github.com/square/kotlinpoet/pull/1627) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlinx-metadata to 0.7.0"
-
-**2023-07-12** — created branch `z/metadataApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-07-12** — commented on [#1626](https://github.com/square/kotlinpoet/pull/1626#issuecomment-1633504164) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-07-12** — closed PR [#1626](https://github.com/square/kotlinpoet/pull/1626) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.7.0"
-
-**2023-07-12** — opened PR [#111](https://github.com/slackhq/slack-lints/pull/111) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Migrate to new kotlinx-metadata APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
