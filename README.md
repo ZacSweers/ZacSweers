@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-13** — merged PR [#149](https://github.com/slackhq/compose-lints/pull/149) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2.1"
+
+**2023-07-13** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-13** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-13** — merged PR [#151](https://github.com/slackhq/compose-lints/pull/151) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.2"
+
 **2023-07-12** — opened PR [#1627](https://github.com/square/kotlinpoet/pull/1627) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlinx-metadata to 0.7.0"
 
 **2023-07-12** — created branch `z/metadataApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-12** — opened PR [#111](https://github.com/slackhq/slack-lints/pull/111) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Migrate to new kotlinx-metadata APIs"
 
 **2023-07-12** — created branch `z/updateMetadataApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-12** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-12** — merged PR [#456](https://github.com/ZacSweers/MoshiX/pull/456) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinx-metadata to 0.7.0"
-
-**2023-07-12** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-12** — merged PR [#452](https://github.com/ZacSweers/MoshiX/pull/452) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.23.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
