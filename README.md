@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-14** — merged PR [#811](https://github.com/ZacSweers/CatchUp/pull/811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.47"
+
 **2023-07-13** — opened PR [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skate icon"
 
 **2023-07-13** — created branch `z/skateIcon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-13** — commented on [#732](https://github.com/slackhq/circuit/issues/732#issuecomment-1634761831) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-13** — opened PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
-
-**2023-07-13** — created branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-13** — opened issue [#732](https://github.com/slackhq/circuit/issues/732) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample doesn't handle cutout in landscape"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
