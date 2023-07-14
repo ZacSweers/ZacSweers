@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — deleted branch `z/metadataApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-07-14** — merged PR [#1627](https://github.com/square/kotlinpoet/pull/1627) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlinx-metadata to 0.7.0"
+
 **2023-07-14** — deleted branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-14** — merged PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-13** — deleted branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-13** — merged PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
-
-**2023-07-13** — opened PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
-
-**2023-07-13** — created branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
