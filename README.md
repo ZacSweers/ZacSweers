@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — deleted branch `renovate/com.github.ajalt.clikt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-14** — merged PR [#812](https://github.com/ZacSweers/CatchUp/pull/812) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.1.0"
+
+**2023-07-14** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-14** — merged PR [#813](https://github.com/ZacSweers/CatchUp/pull/813) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.1.0"
+
 **2023-07-14** — deleted branch `z/newDaggerArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-14** — merged PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-14** — commented on [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461#issuecomment-1636291892) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-14** — merged PR [#460](https://github.com/slackhq/slack-gradle-plugin/pull/460) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-macros-plugin to v1.0.2"
-
-**2023-07-14** — deleted branch `test-renovate/mkdocs-macros-plugin-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — merged PR [#462](https://github.com/slackhq/slack-gradle-plugin/pull/462) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.5"
-
-**2023-07-14** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
