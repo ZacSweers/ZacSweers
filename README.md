@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — deleted branch `z/newDaggerArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-14** — merged PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
+
 **2023-07-14** — deleted branch `z/skateIcon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-14** — merged PR [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skate icon"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-14** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-14** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — merged PR [#463](https://github.com/slackhq/slack-gradle-plugin/pull/463) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.1"
-
-**2023-07-14** — opened PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
