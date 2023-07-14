@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-13** — opened PR [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skate icon"
+
+**2023-07-13** — created branch `z/skateIcon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-13** — deleted branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-13** — merged PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-13** — created branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-13** — opened issue [#732](https://github.com/slackhq/circuit/issues/732) on [slackhq/circuit](https://github.com/slackhq/circuit): "Star sample doesn't handle cutout in landscape"
-
-**2023-07-13** — opened issue [#809](https://github.com/ZacSweers/CatchUp/issues/809) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Open chrome custom tabs in split activity if possible"
-
-**2023-07-13** — merged PR [#149](https://github.com/slackhq/compose-lints/pull/149) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
