@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — deleted branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-14** — merged PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
+
 **2023-07-14** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-14** — merged PR [#811](https://github.com/ZacSweers/CatchUp/pull/811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.47"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-13** — opened PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
 
 **2023-07-13** — created branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-13** — commented on [#732](https://github.com/slackhq/circuit/issues/732#issuecomment-1634761831) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-13** — opened PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
