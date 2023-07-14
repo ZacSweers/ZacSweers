@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-14** — merged PR [#460](https://github.com/slackhq/slack-gradle-plugin/pull/460) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-macros-plugin to v1.0.2"
+
+**2023-07-14** — deleted branch `test-renovate/mkdocs-macros-plugin-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-14** — merged PR [#462](https://github.com/slackhq/slack-gradle-plugin/pull/462) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.5"
+
+**2023-07-14** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-14** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-14** — merged PR [#463](https://github.com/slackhq/slack-gradle-plugin/pull/463) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.1"
+
+**2023-07-14** — opened PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
+
+**2023-07-14** — created branch `z/newDaggerArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-14** — deleted branch `z/metadataApis` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-07-14** — merged PR [#1627](https://github.com/square/kotlinpoet/pull/1627) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kotlinx-metadata to 0.7.0"
-
-**2023-07-14** — deleted branch `z/sinkCleanups` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-14** — merged PR [#733](https://github.com/slackhq/circuit/pull/733) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove intermediate event sinks"
-
-**2023-07-14** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-14** — merged PR [#811](https://github.com/ZacSweers/CatchUp/pull/811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.47"
-
-**2023-07-13** — opened PR [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skate icon"
-
-**2023-07-13** — created branch `z/skateIcon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-13** — deleted branch `z/circuitUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-13** — merged PR [#810](https://github.com/ZacSweers/CatchUp/pull/810) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove intermediate event sinks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
