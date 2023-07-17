@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-17** — closed issue [#446](https://github.com/ZacSweers/MoshiX/issues/446) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Consider separate task for proguard rule gen for Kotlin 2.0 support"
+
+**2023-07-17** — deleted branch `z/kspRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-17** — merged PR [#457](https://github.com/ZacSweers/MoshiX/pull/457) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Reimplement proguard rule gen in KSP"
+
+**2023-07-17** — opened PR [#457](https://github.com/ZacSweers/MoshiX/pull/457) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Reimplement proguard rule gen in KSP"
+
+**2023-07-17** — created branch `z/kspRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-07-16** — deleted branch `renovate/com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-16** — merged PR [#814](https://github.com/ZacSweers/CatchUp/pull/814) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6.1.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-16** — commented on [#809](https://github.com/ZacSweers/CatchUp/issues/809#issuecomment-1637217327) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-14** — deleted branch `renovate/com.github.ajalt.clikt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-14** — merged PR [#812](https://github.com/ZacSweers/CatchUp/pull/812) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.1.0"
-
-**2023-07-14** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-14** — merged PR [#813](https://github.com/ZacSweers/CatchUp/pull/813) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.1.0"
-
-**2023-07-14** — deleted branch `z/newDaggerArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — merged PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
