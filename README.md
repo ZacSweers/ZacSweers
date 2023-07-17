@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-16** — deleted branch `renovate/com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-16** — merged PR [#814](https://github.com/ZacSweers/CatchUp/pull/814) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.airbnb.android:lottie to v6.1.0"
+
+**2023-07-16** — closed issue [#809](https://github.com/ZacSweers/CatchUp/issues/809) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Open chrome custom tabs in split activity if possible"
+
+**2023-07-16** — commented on [#809](https://github.com/ZacSweers/CatchUp/issues/809#issuecomment-1637217327) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-14** — deleted branch `renovate/com.github.ajalt.clikt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-14** — merged PR [#812](https://github.com/ZacSweers/CatchUp/pull/812) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.1.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-14** — deleted branch `z/newDaggerArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-14** — merged PR [#464](https://github.com/slackhq/slack-gradle-plugin/pull/464) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new dagger flag to ignore provisioning keys"
-
-**2023-07-14** — deleted branch `z/skateIcon` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — merged PR [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skate icon"
-
-**2023-07-14** — commented on [#461](https://github.com/slackhq/slack-gradle-plugin/pull/461#issuecomment-1636291892) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-14** — merged PR [#460](https://github.com/slackhq/slack-gradle-plugin/pull/460) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-macros-plugin to v1.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
