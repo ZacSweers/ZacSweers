@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-17** — created tag `1.2.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-07-17** — merged PR [#467](https://github.com/slackhq/slack-gradle-plugin/pull/467) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Restore copyright + wire in build-time values"
+
+**2023-07-17** — deleted branch `z/fixCopyright` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-17** — opened PR [#467](https://github.com/slackhq/slack-gradle-plugin/pull/467) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Restore copyright + wire in build-time values"
 
 **2023-07-17** — opened PR [#466](https://github.com/slackhq/slack-gradle-plugin/pull/466) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Initial pass at docs for formatters"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-17** — deleted branch `z/kspRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-17** — merged PR [#457](https://github.com/ZacSweers/MoshiX/pull/457) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Reimplement proguard rule gen in KSP"
-
-**2023-07-17** — opened PR [#457](https://github.com/ZacSweers/MoshiX/pull/457) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Reimplement proguard rule gen in KSP"
-
-**2023-07-17** — created branch `z/kspRuleGen` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-16** — deleted branch `renovate/com.airbnb.android` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
