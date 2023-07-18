@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-18** — created tag `0.24.0-RC` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-07-18** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-18** — merged PR [#451](https://github.com/ZacSweers/MoshiX/pull/451) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.3.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-18** — deleted branch `renovate/pyyaml-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-07-18** — merged PR [#155](https://github.com/slackhq/compose-lints/pull/155) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.20.0"
-
-**2023-07-18** — merged PR [#154](https://github.com/slackhq/compose-lints/pull/154) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency PyYAML to v6.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
