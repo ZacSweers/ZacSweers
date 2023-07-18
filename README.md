@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-18** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-18** — merged PR [#451](https://github.com/ZacSweers/MoshiX/pull/451) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.3.0"
+
+**2023-07-18** — merged PR [#458](https://github.com/ZacSweers/MoshiX/pull/458) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.20.0"
+
+**2023-07-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-07-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-07-18** — merged PR [#112](https://github.com/slackhq/slack-lints/pull/112) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.20.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-18** — merged PR [#155](https://github.com/slackhq/compose-lints/pull/155) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.20.0"
 
 **2023-07-18** — merged PR [#154](https://github.com/slackhq/compose-lints/pull/154) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency PyYAML to v6.0.1"
-
-**2023-07-18** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.20.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-07-18** — merged PR [#53](https://github.com/slackhq/moshi-gson-interop/pull/53) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.19.0 to 6.20.0"
-
-**2023-07-18** — deleted branch `z/updateMetadataApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-18** — merged PR [#111](https://github.com/slackhq/slack-lints/pull/111) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Migrate to new kotlinx-metadata APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
