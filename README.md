@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-19** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-19** — merged PR [#113](https://github.com/slackhq/slack-lints/pull/113) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha13"
+
+**2023-07-19** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-19** — merged PR [#157](https://github.com/slackhq/compose-lints/pull/157) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha13"
+
+**2023-07-19** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-07-19** — merged PR [#156](https://github.com/slackhq/compose-lints/pull/156) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.19"
+
+**2023-07-19** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-19** — closed PR [#748](https://github.com/slackhq/circuit/pull/748) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.0"
+
+**2023-07-19** — commented on [#748](https://github.com/slackhq/circuit/pull/748#issuecomment-1642327191) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-07-19** — commented on [#743](https://github.com/slackhq/circuit/issues/743#issuecomment-1641471075) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-19** — closed issue [#743](https://github.com/slackhq/circuit/issues/743) on [slackhq/circuit](https://github.com/slackhq/circuit): "Got failure when running the project"
-
-**2023-07-18** — created tag `0.24.0-RC` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-18** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-18** — merged PR [#451](https://github.com/ZacSweers/MoshiX/pull/451) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.3.0"
-
-**2023-07-18** — merged PR [#458](https://github.com/ZacSweers/MoshiX/pull/458) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.20.0"
-
-**2023-07-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-18** — merged PR [#112](https://github.com/slackhq/slack-lints/pull/112) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.20.0"
-
-**2023-07-18** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
