@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-19** — merged PR [#740](https://github.com/slackhq/circuit/pull/740) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix EventListener.start callback order"
+
 **2023-07-19** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1642997711) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-07-19** — commented on [#460](https://github.com/ZacSweers/MoshiX/issues/460#issuecomment-1642886991) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-19** — merged PR [#156](https://github.com/slackhq/compose-lints/pull/156) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.19"
 
 **2023-07-19** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-19** — closed PR [#748](https://github.com/slackhq/circuit/pull/748) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
