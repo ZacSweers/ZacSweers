@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-20** — created branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-20** — deleted branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-20** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1644282171) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-20** — merged PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Disallow compilation issues in mock detector tests again"
 
-**2023-07-20** — commented on [#461](https://github.com/ZacSweers/MoshiX/issues/461#issuecomment-1644272841) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-20** — deleted branch `z/reproLintStaticImportBug` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-20** — created tag `0.24.0-RC2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-20** — closed PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
 
-**2023-07-20** — deleted branch `z/fixProguardFileLocation` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-20** — deleted branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-20** — closed issue [#461](https://github.com/ZacSweers/MoshiX/issues/461) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "0.24.0-rc: Proguard files are generated to the wrong location"
-
-**2023-07-20** — merged PR [#463](https://github.com/ZacSweers/MoshiX/pull/463) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule output location"
-
-**2023-07-20** — opened PR [#463](https://github.com/ZacSweers/MoshiX/pull/463) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule output location"
-
-**2023-07-20** — created branch `z/fixProguardFileLocation` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-20** — merged PR [#114](https://github.com/slackhq/slack-lints/pull/114) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add blocking rxjava and coroutines calls to denylist"
 
 **2023-07-20** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-20** — merged PR [#462](https://github.com/ZacSweers/MoshiX/pull/462) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.14.2"
+
+**2023-07-20** — opened PR [#114](https://github.com/slackhq/slack-lints/pull/114) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add blocking rxjava and coroutines calls to denylist"
+
+**2023-07-20** — created branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
