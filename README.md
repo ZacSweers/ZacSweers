@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-20** — created tag `0.4.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-20** — deleted branch `z/dateApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-07-20** — merged PR [#40](https://github.com/slackhq/slack-lints/pull/40) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add Date, DateFormat, and SimpleDateFormat to denylist"
+
 **2023-07-20** — deleted branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-07-20** — merged PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Disallow compilation issues in mock detector tests again"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-20** — merged PR [#114](https://github.com/slackhq/slack-lints/pull/114) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add blocking rxjava and coroutines calls to denylist"
 
 **2023-07-20** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-20** — merged PR [#462](https://github.com/ZacSweers/MoshiX/pull/462) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.14.2"
-
-**2023-07-20** — opened PR [#114](https://github.com/slackhq/slack-lints/pull/114) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add blocking rxjava and coroutines calls to denylist"
-
-**2023-07-20** — created branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
