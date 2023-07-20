@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-20** — created tag `0.11.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-07-20** — deleted branch `renovate/major-molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-20** — merged PR [#750](https://github.com/slackhq/circuit/pull/750) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-19** — commented on [#460](https://github.com/ZacSweers/MoshiX/issues/460#issuecomment-1642886991) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-07-19** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-07-19** — merged PR [#113](https://github.com/slackhq/slack-lints/pull/113) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
