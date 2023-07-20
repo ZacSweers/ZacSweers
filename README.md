@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-20** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-20** — created branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-07-20** — merged PR [#818](https://github.com/ZacSweers/CatchUp/pull/818) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.11.0"
+**2023-07-20** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-1644282171) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-07-20** — created tag `0.11.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-20** — commented on [#461](https://github.com/ZacSweers/MoshiX/issues/461#issuecomment-1644272841) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-07-20** — deleted branch `renovate/major-molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-20** — created tag `0.24.0-RC2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-07-20** — merged PR [#750](https://github.com/slackhq/circuit/pull/750) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v1"
+**2023-07-20** — deleted branch `z/fixProguardFileLocation` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-07-20** — closed issue [#381](https://github.com/slackhq/circuit/issues/381) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider implementing anvil code gen as a CodeGenerator"
+**2023-07-20** — closed issue [#461](https://github.com/ZacSweers/MoshiX/issues/461) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "0.24.0-rc: Proguard files are generated to the wrong location"
 
-**2023-07-20** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-20** — merged PR [#463](https://github.com/ZacSweers/MoshiX/pull/463) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule output location"
 
-**2023-07-20** — closed PR [#749](https://github.com/slackhq/circuit/pull/749) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.0"
+**2023-07-20** — opened PR [#463](https://github.com/ZacSweers/MoshiX/pull/463) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule output location"
 
-**2023-07-19** — merged PR [#740](https://github.com/slackhq/circuit/pull/740) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix EventListener.start callback order"
+**2023-07-20** — created branch `z/fixProguardFileLocation` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-07-19** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1642997711) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-07-20** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
