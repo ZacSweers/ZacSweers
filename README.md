@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-20** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-20** — merged PR [#818](https://github.com/ZacSweers/CatchUp/pull/818) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.11.0"
+
 **2023-07-20** — created tag `0.11.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-20** — deleted branch `renovate/major-molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-19** — merged PR [#740](https://github.com/slackhq/circuit/pull/740) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix EventListener.start callback order"
 
 **2023-07-19** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1642997711) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-07-19** — commented on [#460](https://github.com/ZacSweers/MoshiX/issues/460#issuecomment-1642886991) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-19** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
