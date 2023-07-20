@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-20** — deleted branch `renovate/major-molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-20** — merged PR [#750](https://github.com/slackhq/circuit/pull/750) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency app.cash.molecule:molecule-runtime to v1"
+
+**2023-07-20** — closed issue [#381](https://github.com/slackhq/circuit/issues/381) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider implementing anvil code gen as a CodeGenerator"
+
+**2023-07-20** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-20** — closed PR [#749](https://github.com/slackhq/circuit/pull/749) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.0"
+
 **2023-07-19** — merged PR [#740](https://github.com/slackhq/circuit/pull/740) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix EventListener.start callback order"
 
 **2023-07-19** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1642997711) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-19** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-07-19** — merged PR [#113](https://github.com/slackhq/slack-lints/pull/113) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha13"
-
-**2023-07-19** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-19** — merged PR [#157](https://github.com/slackhq/compose-lints/pull/157) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.2.0-alpha13"
-
-**2023-07-19** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-07-19** — merged PR [#156](https://github.com/slackhq/compose-lints/pull/156) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.1.19"
-
-**2023-07-19** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
