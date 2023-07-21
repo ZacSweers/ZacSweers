@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-21** — deleted branch `test-renovate/pyyaml-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-21** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-21** — merged PR [#470](https://github.com/slackhq/slack-gradle-plugin/pull/470) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.3"
+
+**2023-07-21** — merged PR [#469](https://github.com/slackhq/slack-gradle-plugin/pull/469) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency PyYAML to v6.0.1"
+
 **2023-07-21** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-21** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-21** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-21** — merged PR [#476](https://github.com/slackhq/slack-gradle-plugin/pull/476) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.14"
-
-**2023-07-21** — deleted branch `test-renovate/com.autonomousapps.plugin-best-practices-plugin-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — merged PR [#475](https://github.com/slackhq/slack-gradle-plugin/pull/475) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin bestPracticesPlugin to v0.10"
-
-**2023-07-21** — merged PR [#478](https://github.com/slackhq/slack-gradle-plugin/pull/478) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.20.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
