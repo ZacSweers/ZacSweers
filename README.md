@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-20** — created tag `0.4.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-21** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-20** — deleted branch `z/dateApis` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-21** — merged PR [#819](https://github.com/ZacSweers/CatchUp/pull/819) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-1.0.12"
 
-**2023-07-20** — merged PR [#40](https://github.com/slackhq/slack-lints/pull/40) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add Date, DateFormat, and SimpleDateFormat to denylist"
+**2023-07-21** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-07-20** — deleted branch `z/disallowCompilationFailuresInMocks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-21** — merged PR [#160](https://github.com/ZacSweers/redacted-compiler-plugin/pull/160) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.0-1.0.12"
 
-**2023-07-20** — merged PR [#90](https://github.com/slackhq/slack-lints/pull/90) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Disallow compilation issues in mock detector tests again"
+**2023-07-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-07-20** — deleted branch `z/reproLintStaticImportBug` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-21** — merged PR [#52](https://github.com/ZacSweers/auto-service-ksp/pull/52) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.2.1"
 
-**2023-07-20** — closed PR [#65](https://github.com/slackhq/slack-lints/pull/65) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Repro static import bug"
+**2023-07-21** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-07-20** — deleted branch `z/blockingCalls` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-07-21** — merged PR [#53](https://github.com/ZacSweers/auto-service-ksp/pull/53) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v6.20.0"
 
-**2023-07-20** — merged PR [#114](https://github.com/slackhq/slack-lints/pull/114) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add blocking rxjava and coroutines calls to denylist"
+**2023-07-21** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-07-20** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-07-21** — commented on [#751](https://github.com/slackhq/circuit/pull/751#issuecomment-1645761152) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
