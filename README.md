@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-21** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-21** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-21** — merged PR [#819](https://github.com/ZacSweers/CatchUp/pull/819) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.0-1.0.12"
+**2023-07-21** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-21** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-07-21** — merged PR [#472](https://github.com/slackhq/slack-gradle-plugin/pull/472) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.6"
 
-**2023-07-21** — merged PR [#160](https://github.com/ZacSweers/redacted-compiler-plugin/pull/160) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.0-1.0.12"
+**2023-07-21** — merged PR [#473](https://github.com/slackhq/slack-gradle-plugin/pull/473) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.19"
 
-**2023-07-21** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-07-21** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-21** — merged PR [#52](https://github.com/ZacSweers/auto-service-ksp/pull/52) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.2.1"
+**2023-07-21** — merged PR [#476](https://github.com/slackhq/slack-gradle-plugin/pull/476) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.14"
 
-**2023-07-21** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-07-21** — deleted branch `test-renovate/com.autonomousapps.plugin-best-practices-plugin-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-21** — merged PR [#53](https://github.com/ZacSweers/auto-service-ksp/pull/53) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v6.20.0"
+**2023-07-21** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-07-21** — deleted branch `renovate/molecule` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-21** — merged PR [#475](https://github.com/slackhq/slack-gradle-plugin/pull/475) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin bestPracticesPlugin to v0.10"
 
-**2023-07-21** — commented on [#751](https://github.com/slackhq/circuit/pull/751#issuecomment-1645761152) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-21** — merged PR [#478](https://github.com/slackhq/slack-gradle-plugin/pull/478) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update spotless to v6.20.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
