@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-21** — deleted branch `z/publishingSkate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-21** — merged PR [#479](https://github.com/slackhq/slack-gradle-plugin/pull/479) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement artifactory authenticator plugin + artifactory publishing for IJ plugins"
+
 **2023-07-21** — deleted branch `test-renovate/pyyaml-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-21** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-21** — merged PR [#472](https://github.com/slackhq/slack-gradle-plugin/pull/472) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.6"
 
 **2023-07-21** — merged PR [#473](https://github.com/slackhq/slack-gradle-plugin/pull/473) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.1.19"
-
-**2023-07-21** — deleted branch `test-renovate/com.gradle.enterprise-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — merged PR [#476](https://github.com/slackhq/slack-gradle-plugin/pull/476) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update plugin com.gradle.enterprise to v3.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
