@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-22** — merged PR [#466](https://github.com/ZacSweers/MoshiX/pull/466) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.kctfork:ksp to v0.3.1"
+
+**2023-07-22** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-22** — merged PR [#470](https://github.com/uber/AutoDispose/pull/470) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "[Coroutines Interop] Dispose the handle returned by `Job.invokeOnCompletion` when Rx subscription is disposed."
+
 **2023-07-22** — created tag `0.3.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-07-22** — merged PR [#168](https://github.com/ZacSweers/kotlin-compile-testing/pull/168) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.4.0"
-
-**2023-07-22** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-22** — merged PR [#169](https://github.com/ZacSweers/kotlin-compile-testing/pull/169) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
-
-**2023-07-22** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1646617269) in [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
