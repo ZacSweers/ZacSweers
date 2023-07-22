@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-22** — merged PR [#54](https://github.com/ZacSweers/auto-service-ksp/pull/54) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.0-1.0.12"
+
+**2023-07-22** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-22** — merged PR [#55](https://github.com/ZacSweers/auto-service-ksp/pull/55) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.kctfork:ksp to v0.3.1"
+
+**2023-07-22** — created branch `z/modernize` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-22** — created tag `0.24.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-07-22** — merged PR [#465](https://github.com/ZacSweers/MoshiX/pull/465) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.0-1.0.12"
+
 **2023-07-22** — merged PR [#466](https://github.com/ZacSweers/MoshiX/pull/466) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.kctfork:ksp to v0.3.1"
 
 **2023-07-22** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-07-22** — merged PR [#470](https://github.com/uber/AutoDispose/pull/470) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "[Coroutines Interop] Dispose the handle returned by `Job.invokeOnCompletion` when Rx subscription is disposed."
-
-**2023-07-22** — created tag `0.3.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-22** — merged PR [#171](https://github.com/ZacSweers/kotlin-compile-testing/pull/171) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.0-1.0.12"
-
-**2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-22** — merged PR [#170](https://github.com/ZacSweers/kotlin-compile-testing/pull/170) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.2.1"
-
-**2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-07-22** — merged PR [#168](https://github.com/ZacSweers/kotlin-compile-testing/pull/168) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
