@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-22** — created tag `0.3.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-22** — merged PR [#171](https://github.com/ZacSweers/kotlin-compile-testing/pull/171) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.0-1.0.12"
+
+**2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-22** — merged PR [#170](https://github.com/ZacSweers/kotlin-compile-testing/pull/170) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.2.1"
+
+**2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-22** — merged PR [#168](https://github.com/ZacSweers/kotlin-compile-testing/pull/168) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.4.0"
+
+**2023-07-22** — deleted branch `renovate/dev.zacsweers.autoservice` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-07-22** — merged PR [#169](https://github.com/ZacSweers/kotlin-compile-testing/pull/169) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.1.0"
+
 **2023-07-22** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-1646617269) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-07-21** — deleted branch `z/publishingSkate` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — merged PR [#479](https://github.com/slackhq/slack-gradle-plugin/pull/479) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement artifactory authenticator plugin + artifactory publishing for IJ plugins"
-
-**2023-07-21** — deleted branch `test-renovate/pyyaml-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — merged PR [#470](https://github.com/slackhq/slack-gradle-plugin/pull/470) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v1.2.3"
-
-**2023-07-21** — merged PR [#469](https://github.com/slackhq/slack-gradle-plugin/pull/469) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency PyYAML to v6.0.1"
-
-**2023-07-21** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-21** — merged PR [#472](https://github.com/slackhq/slack-gradle-plugin/pull/472) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
