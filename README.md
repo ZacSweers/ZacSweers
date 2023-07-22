@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-07-22** — merged PR [#53](https://github.com/ZacSweers/ZacSweers/pull/53) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.4.0"
+
+**2023-07-22** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-07-22** — merged PR [#54](https://github.com/ZacSweers/ZacSweers/pull/54) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.20.0"
+
+**2023-07-22** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-07-22** — merged PR [#49](https://github.com/ZacSweers/ZacSweers/pull/49) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.2"
+
+**2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-07-22** — merged PR [#50](https://github.com/ZacSweers/ZacSweers/pull/50) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.2.1"
+
+**2023-07-22** — opened PR [#471](https://github.com/uber/AutoDispose/pull/471) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Modernize repo"
+
 **2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-22** — merged PR [#158](https://github.com/ZacSweers/redacted-compiler-plugin/pull/158) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.2.1"
-
-**2023-07-22** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-22** — merged PR [#154](https://github.com/ZacSweers/redacted-compiler-plugin/pull/154) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.7.0"
-
-**2023-07-22** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-07-22** — merged PR [#159](https://github.com/ZacSweers/redacted-compiler-plugin/pull/159) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.20.0"
-
-**2023-07-22** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-22** — merged PR [#54](https://github.com/ZacSweers/auto-service-ksp/pull/54) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.0-1.0.12"
-
-**2023-07-22** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-22** — merged PR [#55](https://github.com/ZacSweers/auto-service-ksp/pull/55) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.kctfork:ksp to v0.3.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
