@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-22** — created tag `1.4.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-22** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-22** — deleted branch `1.4.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-22** — merged PR [#820](https://github.com/ZacSweers/CatchUp/pull/820) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.24.0"
 
-**2023-07-22** — created branch `1.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-22** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-22** — created branch `1.4.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-22** — merged PR [#808](https://github.com/ZacSweers/CatchUp/pull/808) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.18-1.9.0"
 
-**2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-07-22** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-22** — merged PR [#53](https://github.com/ZacSweers/ZacSweers/pull/53) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.4.0"
+**2023-07-22** — merged PR [#815](https://github.com/ZacSweers/CatchUp/pull/815) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.20.0"
 
-**2023-07-22** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-07-22** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-22** — merged PR [#54](https://github.com/ZacSweers/ZacSweers/pull/54) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.20.0"
+**2023-07-22** — merged PR [#816](https://github.com/ZacSweers/CatchUp/pull/816) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.14"
 
-**2023-07-22** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-07-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-22** — merged PR [#49](https://github.com/ZacSweers/ZacSweers/pull/49) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.2"
+**2023-07-22** — merged PR [#817](https://github.com/ZacSweers/CatchUp/pull/817) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
