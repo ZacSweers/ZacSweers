@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-22** — created tag `1.4.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-22** — deleted branch `1.4.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-22** — created branch `1.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-22** — created branch `1.4.x` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2023-07-22** — deleted branch `renovate/com.squareup.okio` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-07-22** — merged PR [#53](https://github.com/ZacSweers/ZacSweers/pull/53) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.4.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-22** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-07-22** — merged PR [#49](https://github.com/ZacSweers/ZacSweers/pull/49) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.2"
-
-**2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-07-22** — merged PR [#50](https://github.com/ZacSweers/ZacSweers/pull/50) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.2.1"
-
-**2023-07-22** — opened PR [#471](https://github.com/uber/AutoDispose/pull/471) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Modernize repo"
-
-**2023-07-22** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
