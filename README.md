@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-23** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-23** — closed PR [#753](https://github.com/slackhq/circuit/pull/753) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.0-1.0.12"
+
+**2023-07-23** — deleted branch `renovate/com.benasher44` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-23** — closed PR [#754](https://github.com/slackhq/circuit/pull/754) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.benasher44:uuid to v0.8.0"
+
+**2023-07-23** — commented on [#754](https://github.com/slackhq/circuit/pull/754#issuecomment-1646899009) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-07-23** — merged PR [#471](https://github.com/uber/AutoDispose/pull/471) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Modernize repo"
 
 **2023-07-23** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-22** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-22** — merged PR [#820](https://github.com/ZacSweers/CatchUp/pull/820) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.24.0"
-
-**2023-07-22** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-22** — merged PR [#808](https://github.com/ZacSweers/CatchUp/pull/808) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.18-1.9.0"
-
-**2023-07-22** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-22** — merged PR [#815](https://github.com/ZacSweers/CatchUp/pull/815) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.20.0"
-
-**2023-07-22** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
