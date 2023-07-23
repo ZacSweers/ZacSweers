@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-23** — merged PR [#471](https://github.com/uber/AutoDispose/pull/471) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Modernize repo"
+
+**2023-07-23** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-23** — closed PR [#755](https://github.com/slackhq/circuit/pull/755) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.24.0"
+
 **2023-07-22** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-22** — merged PR [#820](https://github.com/ZacSweers/CatchUp/pull/820) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.24.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-22** — merged PR [#815](https://github.com/ZacSweers/CatchUp/pull/815) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.20.0"
 
 **2023-07-22** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-22** — merged PR [#816](https://github.com/ZacSweers/CatchUp/pull/816) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.14"
-
-**2023-07-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-22** — merged PR [#817](https://github.com/ZacSweers/CatchUp/pull/817) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
