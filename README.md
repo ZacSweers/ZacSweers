@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648507687) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648504087) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-24** — commented on [#3323](https://github.com/JetBrains/compose-multiplatform/issues/3323#issuecomment-1648405553) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
 **2023-07-24** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-24** — merged PR [#821](https://github.com/ZacSweers/CatchUp/pull/821) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.4"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-23** — merged PR [#473](https://github.com/uber/AutoDispose/pull/473) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.jakewharton.rx2:replaying-share-kotlin from 2.0.1 to 2.2.0"
 
 **2023-07-23** — opened PR [#475](https://github.com/uber/AutoDispose/pull/475) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix internal regexp"
-
-**2023-07-23** — created branch `z/fixInternalRegexp` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-07-23** — opened PR [#474](https://github.com/uber/AutoDispose/pull/474) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix detach event completable not being removed from the view hierarchy"
-
-**2023-07-23** — created branch `z/fixAnotherLeak` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
