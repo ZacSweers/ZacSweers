@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-24** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-24** — merged PR [#822](https://github.com/ZacSweers/CatchUp/pull/822) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.18-1.9.0.4"
+
 **2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648507687) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648504087) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-23** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1646952763) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-23** — deleted branch `dependabot/gradle/com.jakewharton.rx2-replaying-share-kotlin-2.2.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-07-23** — merged PR [#473](https://github.com/uber/AutoDispose/pull/473) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.jakewharton.rx2:replaying-share-kotlin from 2.0.1 to 2.2.0"
-
-**2023-07-23** — opened PR [#475](https://github.com/uber/AutoDispose/pull/475) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix internal regexp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
