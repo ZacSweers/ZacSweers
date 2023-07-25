@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-24** — merged PR [#821](https://github.com/ZacSweers/CatchUp/pull/821) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.4"
 
 **2023-07-24** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1648053136) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-23** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1646952763) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
