@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-24** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1648053136) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-23** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1646952763) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-23** — deleted branch `dependabot/gradle/com.jakewharton.rx2-replaying-share-kotlin-2.2.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
