@@ -15,10 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-24** — commented on [#3323](https://github.com/JetBrains/compose-multiplatform/issues/3323#issuecomment-1648405553) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2023-07-24** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-24** — merged PR [#821](https://github.com/ZacSweers/CatchUp/pull/821) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.4"
-
-**2023-07-24** — commented on [#756](https://github.com/slackhq/circuit/pull/756#issuecomment-1648053136) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
