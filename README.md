@@ -4,15 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-24** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-25** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-07-24** — merged PR [#822](https://github.com/ZacSweers/CatchUp/pull/822) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.9.18-1.9.0.4"
+**2023-07-25** — merged PR [#55](https://github.com/ZacSweers/ZacSweers/pull/55) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3"
 
-**2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648507687) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-25** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648504087) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-07-25** — merged PR [#823](https://github.com/ZacSweers/CatchUp/pull/823) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.3"
 
-**2023-07-24** — commented on [#3323](https://github.com/JetBrains/compose-multiplatform/issues/3323#issuecomment-1648405553) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+**2023-07-25** — deleted branch `z/agp810` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — merged PR [#482](https://github.com/slackhq/slack-gradle-plugin/pull/482) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.1.0"
+
+**2023-07-25** — created tag `0.15.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-07-25** — closed issue [#119](https://github.com/slackhq/keeper/issues/119) on [slackhq/keeper](https://github.com/slackhq/keeper): "AGP 8.1.0: NoSuchMethodError L8DexDesugarLibTask.getKeepRulesFiles"
+
+**2023-07-25** — deleted branch `z/agp81` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-07-25** — merged PR [#123](https://github.com/slackhq/keeper/pull/123) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
