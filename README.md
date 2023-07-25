@@ -13,8 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-24** — commented on [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364#issuecomment-1648504087) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-24** — commented on [#3323](https://github.com/JetBrains/compose-multiplatform/issues/3323#issuecomment-1648405553) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-
-**2023-07-24** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
