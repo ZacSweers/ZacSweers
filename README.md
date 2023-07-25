@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-25** — deleted branch `z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — merged PR [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.9.0"
+
+**2023-07-25** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — merged PR [#480](https://github.com/slackhq/slack-gradle-plugin/pull/480) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.8.0"
+
+**2023-07-25** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — closed PR [#477](https://github.com/slackhq/slack-gradle-plugin/pull/477) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.12"
+
+**2023-07-25** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — closed PR [#481](https://github.com/slackhq/slack-gradle-plugin/pull/481) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.24.0"
+
 **2023-07-25** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-07-25** — merged PR [#55](https://github.com/ZacSweers/ZacSweers/pull/55) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3"
-
-**2023-07-25** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-25** — merged PR [#823](https://github.com/ZacSweers/CatchUp/pull/823) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.3"
-
-**2023-07-25** — deleted branch `z/agp810` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-25** — merged PR [#482](https://github.com/slackhq/slack-gradle-plugin/pull/482) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.1.0"
-
-**2023-07-25** — created tag `0.15.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-07-25** — closed issue [#119](https://github.com/slackhq/keeper/issues/119) on [slackhq/keeper](https://github.com/slackhq/keeper): "AGP 8.1.0: NoSuchMethodError L8DexDesugarLibTask.getKeepRulesFiles"
-
-**2023-07-25** — deleted branch `z/agp81` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-07-25** — merged PR [#123](https://github.com/slackhq/keeper/pull/123) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update to AGP 8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
