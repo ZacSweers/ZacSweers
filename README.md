@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-25** — deleted branch `dependabot/gradle/com.github.akarnokd-rxjava3-bridge-3.0.2` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-25** — merged PR [#472](https://github.com/uber/AutoDispose/pull/472) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.github.akarnokd:rxjava3-bridge from 3.0.0 to 3.0.2"
+
+**2023-07-25** — deleted branch `z/fixInternalRegexp` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-25** — merged PR [#475](https://github.com/uber/AutoDispose/pull/475) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix internal regexp"
+
+**2023-07-25** — deleted branch `z/fixAnotherLeak` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-25** — closed issue [#461](https://github.com/uber/AutoDispose/issues/461) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "Leak - DetachEventCompletable isn't removed when View is removed from ViewTree"
+
+**2023-07-25** — merged PR [#474](https://github.com/uber/AutoDispose/pull/474) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Fix detach event completable not being removed from the view hierarchy"
+
+**2023-07-25** — commented on [#457](https://github.com/slackhq/slack-gradle-plugin/pull/457#issuecomment-1650595411) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-07-25** — created tag `0.10.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-07-25** — deleted branch `z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-25** — merged PR [#364](https://github.com/slackhq/slack-gradle-plugin/pull/364) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.9.0"
-
-**2023-07-25** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-25** — merged PR [#480](https://github.com/slackhq/slack-gradle-plugin/pull/480) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.8.0"
-
-**2023-07-25** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-07-25** — closed PR [#477](https://github.com/slackhq/slack-gradle-plugin/pull/477) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
