@@ -14,7 +14,7 @@ versions = { id = "com.github.ben-manes.versions", version = "0.47.0" }
 
 [libraries]
 clikt = "com.github.ajalt:clikt:2.8.0"
-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.2"
+coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 eithernet = "com.slack.eithernet:eithernet:1.4.1"
 moshi = { module = "com.squareup.moshi:moshi", version.ref = "moshi" }
 moshi-adapters = { module = "com.squareup.moshi:moshi-adapters", version.ref = "moshi" }
