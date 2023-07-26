@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-25** — created tag `2.2.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-07-25** — deleted branch `kl/WhatsNew` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-07-25** — merged PR [#483](https://github.com/slackhq/slack-gradle-plugin/pull/483) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change CHANGELOG.md name to WHATSNEW.md"
+
 **2023-07-25** — deleted branch `revert-55-renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-07-25** — merged PR [#56](https://github.com/ZacSweers/ZacSweers/pull/56) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Revert "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3""
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-25** — merged PR [#826](https://github.com/ZacSweers/CatchUp/pull/826) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revert "Update coroutines to v1.7.3""
 
 **2023-07-25** — opened PR [#826](https://github.com/ZacSweers/CatchUp/pull/826) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revert "Update coroutines to v1.7.3""
-
-**2023-07-25** — created branch `revert-823-renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-25** — deleted branch `dependabot/gradle/com.github.akarnokd-rxjava3-bridge-3.0.2` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-07-25** — merged PR [#472](https://github.com/uber/AutoDispose/pull/472) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.github.akarnokd:rxjava3-bridge from 3.0.0 to 3.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
