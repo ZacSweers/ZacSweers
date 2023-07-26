@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-07-26** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-26** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-26** — closed PR [#759](https://github.com/slackhq/circuit/pull/759) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.4.3"
+**2023-07-26** — merged PR [#836](https://github.com/ZacSweers/CatchUp/pull/836) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-rc01"
 
-**2023-07-26** — commented on [#760](https://github.com/slackhq/circuit/pull/760#issuecomment-1651855119) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-26** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-26** — deleted branch `renovate/markdown-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-07-26** — merged PR [#837](https://github.com/ZacSweers/CatchUp/pull/837) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.0"
 
-**2023-07-26** — closed PR [#760](https://github.com/slackhq/circuit/pull/760) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency Markdown to v3.4.4"
+**2023-07-26** — deleted branch `renovate/preferences` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-26** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-07-26** — merged PR [#838](https://github.com/ZacSweers/CatchUp/pull/838) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.preference:preference to v1.2.1"
 
-**2023-07-26** — merged PR [#827](https://github.com/ZacSweers/CatchUp/pull/827) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.7.3"
+**2023-07-26** — deleted branch `renovate/androidx.window` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-26** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.7.3` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-26** — merged PR [#839](https://github.com/ZacSweers/CatchUp/pull/839) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.2.0-beta01"
 
-**2023-07-26** — merged PR [#476](https://github.com/uber/AutoDispose/pull/476) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.kotlinx:kotlinx-coroutines-core from 1.7.2 to 1.7.3"
+**2023-07-26** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-07-25** — created tag `2.2.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-07-26** — merged PR [#835](https://github.com/ZacSweers/CatchUp/pull/835) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.appcompat:appcompat to v1.7.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
