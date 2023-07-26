@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-26** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-26** — merged PR [#829](https://github.com/ZacSweers/CatchUp/pull/829) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha04"
+
+**2023-07-26** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-26** — merged PR [#841](https://github.com/ZacSweers/CatchUp/pull/841) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-alpha01"
+
+**2023-07-26** — merged PR [#840](https://github.com/ZacSweers/CatchUp/pull/840) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.0"
+
+**2023-07-26** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-07-26** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-26** — merged PR [#836](https://github.com/ZacSweers/CatchUp/pull/836) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-rc01"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-26** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-26** — merged PR [#837](https://github.com/ZacSweers/CatchUp/pull/837) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.0"
-
-**2023-07-26** — deleted branch `renovate/preferences` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#838](https://github.com/ZacSweers/CatchUp/pull/838) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.preference:preference to v1.2.1"
-
-**2023-07-26** — deleted branch `renovate/androidx.window` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#839](https://github.com/ZacSweers/CatchUp/pull/839) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.2.0-beta01"
-
-**2023-07-26** — deleted branch `renovate/androidx.appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#835](https://github.com/ZacSweers/CatchUp/pull/835) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.appcompat:appcompat to v1.7.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
