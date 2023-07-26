@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-26** — deleted branch `z/kotlin19` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-26** — merged PR [#643](https://github.com/slackhq/circuit/pull/643) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.9.0"
+
+**2023-07-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1652653352) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-07-26** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-26** — merged PR [#829](https://github.com/ZacSweers/CatchUp/pull/829) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha04"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-26** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-26** — deleted branch `renovate/androidx.browser` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#836](https://github.com/ZacSweers/CatchUp/pull/836) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.6.0-rc01"
-
-**2023-07-26** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#837](https://github.com/ZacSweers/CatchUp/pull/837) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
