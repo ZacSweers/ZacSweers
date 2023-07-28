@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-28** — commented on [#732](https://github.com/square/anvil/pull/732#issuecomment-1655110883) in [square/anvil](https://github.com/square/anvil)
+
+**2023-07-28** — deleted branch `renovate/androidx.test.uiautomator` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-28** — merged PR [#843](https://github.com/ZacSweers/CatchUp/pull/843) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-alpha04"
+
+**2023-07-28** — deleted branch `renovate/androidx.test` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-28** — merged PR [#844](https://github.com/ZacSweers/CatchUp/pull/844) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-alpha01"
+
+**2023-07-28** — opened PR [#732](https://github.com/square/anvil/pull/732) to [square/anvil](https://github.com/square/anvil): "Update kotlin compile testing to 0.3.1"
+
+**2023-07-28** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-28** — merged PR [#842](https://github.com/ZacSweers/CatchUp/pull/842) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.accompanist:accompanist-systemuicontroller to v0.31.6-rc"
+
+**2023-07-28** — created branch `z/updateKct` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-07-28** — deleted branch `z/baselineProfiles` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-28** — merged PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
-
-**2023-07-28** — opened PR [#768](https://github.com/slackhq/circuit/pull/768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix baseline profile generation"
-
-**2023-07-28** — created branch `z/fixBaselineProfileGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-27** — deleted branch `renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-27** — closed PR [#762](https://github.com/slackhq/circuit/pull/762) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v8.1.0"
-
-**2023-07-27** — commented on [#762](https://github.com/slackhq/circuit/pull/762#issuecomment-1652980387) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-26** — deleted branch `z/kotlin19` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-26** — merged PR [#643](https://github.com/slackhq/circuit/pull/643) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.9.0"
-
-**2023-07-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1652653352) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
