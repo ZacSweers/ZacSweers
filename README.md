@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-28** — created tag `0.12.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-28** — deleted branch `z/renameConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-28** — merged PR [#770](https://github.com/slackhq/circuit/pull/770) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename CircuitConfig -> Circuit"
+
+**2023-07-28** — deleted branch `z/eventSinkDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-07-28** — merged PR [#769](https://github.com/slackhq/circuit/pull/769) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update testing docs"
+
 **2023-07-28** — commented on [#1648](https://github.com/square/kotlinpoet/issues/1648#issuecomment-1656398012) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-07-28** — opened PR [#770](https://github.com/slackhq/circuit/pull/770) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename CircuitConfig -> Circuit"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-28** — opened PR [#769](https://github.com/slackhq/circuit/pull/769) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update testing docs"
 
 **2023-07-28** — created branch `z/eventSinkDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-28** — commented on [#732](https://github.com/square/anvil/pull/732#issuecomment-1656351669) in [square/anvil](https://github.com/square/anvil)
-
-**2023-07-28** — commented on [#732](https://github.com/square/anvil/pull/732#issuecomment-1655110883) in [square/anvil](https://github.com/square/anvil)
-
-**2023-07-28** — deleted branch `renovate/androidx.test.uiautomator` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-28** — merged PR [#843](https://github.com/ZacSweers/CatchUp/pull/843) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0-alpha04"
-
-**2023-07-28** — deleted branch `renovate/androidx.test` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
