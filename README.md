@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-28** — deleted branch `z/baselineProfiles` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-28** — merged PR [#700](https://github.com/ZacSweers/CatchUp/pull/700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Set up baseline profiles"
+
+**2023-07-28** — opened PR [#768](https://github.com/slackhq/circuit/pull/768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix baseline profile generation"
+
+**2023-07-28** — created branch `z/fixBaselineProfileGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-07-27** — deleted branch `renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-27** — closed PR [#762](https://github.com/slackhq/circuit/pull/762) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v8.1.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-26** — merged PR [#643](https://github.com/slackhq/circuit/pull/643) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.9.0"
 
 **2023-07-26** — commented on [#643](https://github.com/slackhq/circuit/pull/643#issuecomment-1652653352) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-26** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#829](https://github.com/ZacSweers/CatchUp/pull/829) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha04"
-
-**2023-07-26** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-26** — merged PR [#841](https://github.com/ZacSweers/CatchUp/pull/841) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
