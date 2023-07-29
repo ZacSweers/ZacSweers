@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-29** — closed issue [#1448](https://github.com/google/ksp/issues/1448) on [google/ksp](https://github.com/google/ksp): "Support creating a simple `KSTypeArgument` from an existing type or declaration"
+
+**2023-07-29** — commented on [#1448](https://github.com/google/ksp/issues/1448#issuecomment-1656922190) in [google/ksp](https://github.com/google/ksp)
+
 **2023-07-29** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-29** — merged PR [#846](https://github.com/ZacSweers/CatchUp/pull/846) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.7-1-8"
@@ -13,16 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-28** — merged PR [#845](https://github.com/ZacSweers/CatchUp/pull/845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.0"
 
 **2023-07-28** — created tag `0.12.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-28** — deleted branch `z/renameConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-28** — merged PR [#770](https://github.com/slackhq/circuit/pull/770) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename CircuitConfig -> Circuit"
-
-**2023-07-28** — deleted branch `z/eventSinkDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-28** — merged PR [#769](https://github.com/slackhq/circuit/pull/769) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update testing docs"
-
-**2023-07-28** — commented on [#1648](https://github.com/square/kotlinpoet/issues/1648#issuecomment-1656398012) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
