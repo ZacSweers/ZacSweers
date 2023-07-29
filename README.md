@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-28** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-28** — merged PR [#845](https://github.com/ZacSweers/CatchUp/pull/845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.0"
+
 **2023-07-28** — created tag `0.12.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-28** — deleted branch `z/renameConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-28** — opened PR [#770](https://github.com/slackhq/circuit/pull/770) to [slackhq/circuit](https://github.com/slackhq/circuit): "Rename CircuitConfig -> Circuit"
 
 **2023-07-28** — created branch `z/renameConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-28** — opened PR [#769](https://github.com/slackhq/circuit/pull/769) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update testing docs"
-
-**2023-07-28** — created branch `z/eventSinkDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
