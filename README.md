@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-30** — opened issue [#850](https://github.com/ZacSweers/CatchUp/issues/850) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix hackernews/firebase"
+
+**2023-07-30** — opened issue [#849](https://github.com/ZacSweers/CatchUp/issues/849) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add androidx release notes feed"
+
 **2023-07-30** — opened PR [#734](https://github.com/square/anvil/pull/734) to [square/anvil](https://github.com/square/anvil): "Update some impl IR APIs to more modern alternatives"
 
 **2023-07-30** — created branch `z/updateIrApis` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
