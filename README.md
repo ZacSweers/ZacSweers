@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-30** — opened PR [#734](https://github.com/square/anvil/pull/734) to [square/anvil](https://github.com/square/anvil): "Update some impl IR APIs to more modern alternatives"
+
+**2023-07-30** — created branch `z/updateIrApis` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-07-30** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-30** — closed PR [#847](https://github.com/ZacSweers/CatchUp/pull/847) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.7-1-8"
@@ -15,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-29** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-29** — merged PR [#846](https://github.com/ZacSweers/CatchUp/pull/846) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.7-1-8"
-
-**2023-07-28** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-28** — merged PR [#845](https://github.com/ZacSweers/CatchUp/pull/845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
