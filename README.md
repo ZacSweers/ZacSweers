@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-30** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-30** — closed PR [#847](https://github.com/ZacSweers/CatchUp/pull/847) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.7-1-8"
+
 **2023-07-29** — closed issue [#1448](https://github.com/google/ksp/issues/1448) on [google/ksp](https://github.com/google/ksp): "Support creating a simple `KSTypeArgument` from an existing type or declaration"
 
 **2023-07-29** — commented on [#1448](https://github.com/google/ksp/issues/1448#issuecomment-1656922190) in [google/ksp](https://github.com/google/ksp)
