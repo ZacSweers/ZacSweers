@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-31** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-31** — merged PR [#848](https://github.com/ZacSweers/CatchUp/pull/848) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.1"
+
+**2023-07-31** — deleted branch `renovate/com.github.ajalt.clikt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-31** — merged PR [#851](https://github.com/ZacSweers/CatchUp/pull/851) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.2.0"
+
+**2023-07-31** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-07-31** — merged PR [#852](https://github.com/ZacSweers/CatchUp/pull/852) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.2.0"
+
+**2023-07-31** — commented on [#725](https://github.com/square/anvil/pull/725#issuecomment-1657762477) in [square/anvil](https://github.com/square/anvil)
+
 **2023-07-30** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-30** — closed PR [#772](https://github.com/slackhq/circuit/pull/772) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.7-1-8"
 
 **2023-07-30** — opened issue [#850](https://github.com/ZacSweers/CatchUp/issues/850) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix hackernews/firebase"
-
-**2023-07-30** — opened issue [#849](https://github.com/ZacSweers/CatchUp/issues/849) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add androidx release notes feed"
-
-**2023-07-30** — opened PR [#734](https://github.com/square/anvil/pull/734) to [square/anvil](https://github.com/square/anvil): "Update some impl IR APIs to more modern alternatives"
-
-**2023-07-30** — created branch `z/updateIrApis` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-07-30** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-07-30** — closed PR [#847](https://github.com/ZacSweers/CatchUp/pull/847) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.7-1-8"
-
-**2023-07-29** — closed issue [#1448](https://github.com/google/ksp/issues/1448) on [google/ksp](https://github.com/google/ksp): "Support creating a simple `KSTypeArgument` from an existing type or declaration"
-
-**2023-07-29** — commented on [#1448](https://github.com/google/ksp/issues/1448#issuecomment-1656922190) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
