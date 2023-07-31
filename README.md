@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-31** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1658871369) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2023-07-31** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-07-31** — merged PR [#848](https://github.com/ZacSweers/CatchUp/pull/848) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-30** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-07-30** — closed PR [#772](https://github.com/slackhq/circuit/pull/772) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.7-1-8"
-
-**2023-07-30** — opened issue [#850](https://github.com/ZacSweers/CatchUp/issues/850) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix hackernews/firebase"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
