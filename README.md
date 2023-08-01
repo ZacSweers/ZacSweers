@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-01** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-01** — merged PR [#855](https://github.com/ZacSweers/CatchUp/pull/855) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.4"
+
 **2023-08-01** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-01** — merged PR [#854](https://github.com/ZacSweers/CatchUp/pull/854) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-01** — merged PR [#853](https://github.com/ZacSweers/CatchUp/pull/853) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha15"
 
 **2023-08-01** — commented on [#1712](https://github.com/square/moshi/issues/1712#issuecomment-1660777438) in [square/moshi](https://github.com/square/moshi)
-
-**2023-08-01** — closed issue [#1712](https://github.com/square/moshi/issues/1712) on [square/moshi](https://github.com/square/moshi): "Old guava version has security issues"
-
-**2023-08-01** — deleted branch `renovate/guava-monorepo` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
