@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-01** — commented on [#1712](https://github.com/square/moshi/issues/1712#issuecomment-1660717858) in [square/moshi](https://github.com/square/moshi)
+
+**2023-08-01** — deleted branch `z/fixBaselineProfileGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-01** — merged PR [#768](https://github.com/slackhq/circuit/pull/768) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix baseline profile generation"
+
 **2023-08-01** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-08-01** — merged PR [#54](https://github.com/slackhq/moshi-gson-interop/pull/54) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
