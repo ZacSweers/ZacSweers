@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-01** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-01** — merged PR [#854](https://github.com/ZacSweers/CatchUp/pull/854) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.1"
+
 **2023-08-01** — deleted branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2023-08-01** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-01** — closed issue [#1712](https://github.com/square/moshi/issues/1712) on [square/moshi](https://github.com/square/moshi): "Old guava version has security issues"
 
 **2023-08-01** — deleted branch `renovate/guava-monorepo` on [square/moshi](https://github.com/square/moshi)
-
-**2023-08-01** — merged PR [#1713](https://github.com/square/moshi/pull/1713) to [square/moshi](https://github.com/square/moshi): "Update dependency com.google.guava:guava to v32.1.2-jre"
-
-**2023-08-01** — created tag `0.12.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
