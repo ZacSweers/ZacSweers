@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-01** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-08-01** — merged PR [#54](https://github.com/slackhq/moshi-gson-interop/pull/54) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
+
 **2023-07-31** — deleted branch `z/updateIrApis` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
