@@ -5,10 +5,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2023-07-31** — deleted branch `z/updateIrApis` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-07-31** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-07-31** — merged PR [#56](https://github.com/ZacSweers/auto-service-ksp/pull/56) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32.1.2-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
