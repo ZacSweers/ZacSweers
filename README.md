@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-07-31** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-07-31** — merged PR [#56](https://github.com/ZacSweers/auto-service-ksp/pull/56) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32.1.2-jre"
+
 **2023-07-31** — commented on [#23957](https://github.com/gradle/gradle/issues/23957#issuecomment-1658871369) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-07-31** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-07-31** — merged PR [#852](https://github.com/ZacSweers/CatchUp/pull/852) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.2.0"
 
 **2023-07-31** — commented on [#725](https://github.com/square/anvil/pull/725#issuecomment-1657762477) in [square/anvil](https://github.com/square/anvil)
-
-**2023-07-30** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-07-30** — closed PR [#772](https://github.com/slackhq/circuit/pull/772) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.7-1-8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
