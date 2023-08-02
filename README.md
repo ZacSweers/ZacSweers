@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-02** — deleted branch `renovate/kct` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-08-02** — merged PR [#1650](https://github.com/square/kotlinpoet/pull/1650) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kct to v0.3.2"
+
 **2023-08-02** — created tag `0.3.2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-08-02** — deleted branch `z/kspCompilations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-02** — closed issue [#1714](https://github.com/square/moshi/issues/1714) on [square/moshi](https://github.com/square/moshi): "How to use MoshiConverterFactory for generic type of model classes in android ?"
 
 **2023-08-02** — commented on [#1714](https://github.com/square/moshi/issues/1714#issuecomment-1661673252) in [square/moshi](https://github.com/square/moshi)
-
-**2023-08-02** — opened PR [#172](https://github.com/ZacSweers/kotlin-compile-testing/pull/172) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix generated java sources from KSP not getting compiled"
-
-**2023-08-02** — commented on [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165#issuecomment-1661666670) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
