@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-01** — deleted branch `dependabot/gradle/errorProne-2.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-08-01** — merged PR [#477](https://github.com/uber/AutoDispose/pull/477) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.20.0 to 2.21.0"
+
 **2023-08-01** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-01** — merged PR [#855](https://github.com/ZacSweers/CatchUp/pull/855) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-01** — merged PR [#780](https://github.com/ZacSweers/CatchUp/pull/780) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v32.1.2-jre"
 
 **2023-08-01** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-01** — merged PR [#853](https://github.com/ZacSweers/CatchUp/pull/853) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha15"
-
-**2023-08-01** — commented on [#1712](https://github.com/square/moshi/issues/1712#issuecomment-1660777438) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
