@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-02** — opened PR [#740](https://github.com/square/anvil/pull/740) to [square/anvil](https://github.com/square/anvil): "Implement KSP support for ContributesMultibinding"
+
+**2023-08-02** — deleted branch `z/updateKct` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2023-08-02** — created branch `z/ksp/contributesMultibinding` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-08-01** — deleted branch `dependabot/gradle/errorProne-2.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-01** — merged PR [#477](https://github.com/uber/AutoDispose/pull/477) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.20.0 to 2.21.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-01** — merged PR [#854](https://github.com/ZacSweers/CatchUp/pull/854) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.1"
 
 **2023-08-01** — deleted branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2023-08-01** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-01** — merged PR [#780](https://github.com/ZacSweers/CatchUp/pull/780) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v32.1.2-jre"
-
-**2023-08-01** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
