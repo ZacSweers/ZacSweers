@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-02** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-02** — merged PR [#472](https://github.com/ZacSweers/MoshiX/pull/472) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.3.2"
+
 **2023-08-02** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-08-02** — merged PR [#57](https://github.com/ZacSweers/auto-service-ksp/pull/57) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.3.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-02** — closed PR [#167](https://github.com/ZacSweers/kotlin-compile-testing/pull/167) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update test to use kspWithCompilation"
 
 **2023-08-02** — deleted branch `z/improvedKspTesting` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-08-02** — closed issue [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support KSP compilations"
-
-**2023-08-02** — merged PR [#172](https://github.com/ZacSweers/kotlin-compile-testing/pull/172) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix generated java sources from KSP not getting compiled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
