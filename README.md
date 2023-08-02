@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-02** — opened PR [#740](https://github.com/square/anvil/pull/740) to [square/anvil](https://github.com/square/anvil): "Implement KSP support for ContributesMultibinding"
+**2023-08-02** — created tag `0.3.2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-08-02** — deleted branch `z/updateKct` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-08-02** — deleted branch `z/kspCompilations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-08-02** — created branch `z/ksp/contributesMultibinding` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-08-02** — closed PR [#167](https://github.com/ZacSweers/kotlin-compile-testing/pull/167) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update test to use kspWithCompilation"
 
-**2023-08-01** — deleted branch `dependabot/gradle/errorProne-2.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-08-02** — deleted branch `z/improvedKspTesting` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-08-01** — merged PR [#477](https://github.com/uber/AutoDispose/pull/477) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.20.0 to 2.21.0"
+**2023-08-02** — closed issue [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support KSP compilations"
 
-**2023-08-01** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-02** — merged PR [#172](https://github.com/ZacSweers/kotlin-compile-testing/pull/172) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix generated java sources from KSP not getting compiled"
 
-**2023-08-01** — merged PR [#855](https://github.com/ZacSweers/CatchUp/pull/855) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.4"
+**2023-08-02** — closed issue [#1714](https://github.com/square/moshi/issues/1714) on [square/moshi](https://github.com/square/moshi): "How to use MoshiConverterFactory for generic type of model classes in android ?"
 
-**2023-08-01** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-02** — commented on [#1714](https://github.com/square/moshi/issues/1714#issuecomment-1661673252) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-01** — merged PR [#854](https://github.com/ZacSweers/CatchUp/pull/854) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.12.1"
+**2023-08-02** — opened PR [#172](https://github.com/ZacSweers/kotlin-compile-testing/pull/172) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix generated java sources from KSP not getting compiled"
 
-**2023-08-01** — deleted branch `z/extension` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+**2023-08-02** — commented on [#165](https://github.com/ZacSweers/kotlin-compile-testing/issues/165#issuecomment-1661666670) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
