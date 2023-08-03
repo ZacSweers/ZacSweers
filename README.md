@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-02** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.0-1.0.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-08-02** — merged PR [#478](https://github.com/uber/AutoDispose/pull/478) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.0-1.0.12 to 1.9.0-1.0.13"
+
 **2023-08-02** — closed issue [#3994](https://github.com/google/dagger/issues/3994) on [google/dagger](https://github.com/google/dagger): "Feature request: backport KSP's improved method signatures in error messages to apt"
 
 **2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663178714) in [google/dagger](https://github.com/google/dagger)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-02** — opened issue [#3993](https://github.com/google/dagger/issues/3993) on [google/dagger](https://github.com/google/dagger): "[KSP] Support MapKey creator class generation"
 
 **2023-08-02** — opened issue [#3992](https://github.com/google/dagger/issues/3992) on [google/dagger](https://github.com/google/dagger): "[KSP] Processing crash when two assisted inject constructors are encountered"
-
-**2023-08-02** — opened issue [#3991](https://github.com/google/dagger/issues/3991) on [google/dagger](https://github.com/google/dagger): "[KSP] Multiple `@Inject` + `@AssistedInject` constructors error message regression"
-
-**2023-08-02** — opened issue [#3990](https://github.com/google/dagger/issues/3990) on [google/dagger](https://github.com/google/dagger): "[KSP] @receiver: site target qualifier annotations are not accounted for"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
