@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-02** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — merged PR [#472](https://github.com/ZacSweers/MoshiX/pull/472) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.3.2"
+**2023-08-02** — merged PR [#471](https://github.com/ZacSweers/MoshiX/pull/471) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32.1.2-jre"
 
-**2023-08-02** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-08-02** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — merged PR [#57](https://github.com/ZacSweers/auto-service-ksp/pull/57) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.3.2"
+**2023-08-02** — merged PR [#469](https://github.com/ZacSweers/MoshiX/pull/469) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.1.0"
 
-**2023-08-02** — deleted branch `renovate/kct` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-08-02** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — merged PR [#1650](https://github.com/square/kotlinpoet/pull/1650) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update kct to v0.3.2"
+**2023-08-02** — merged PR [#467](https://github.com/ZacSweers/MoshiX/pull/467) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.0"
 
-**2023-08-02** — created tag `0.3.2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — deleted branch `z/kspCompilations` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-08-02** — merged PR [#473](https://github.com/ZacSweers/MoshiX/pull/473) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.0-1.0.13"
 
-**2023-08-02** — closed PR [#167](https://github.com/ZacSweers/kotlin-compile-testing/pull/167) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update test to use kspWithCompilation"
+**2023-08-02** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-02** — deleted branch `z/improvedKspTesting` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-08-02** — merged PR [#57](https://github.com/ZacSweers/ZacSweers/pull/57) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
