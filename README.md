@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-02** — created branch `z/ksp/generics` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-08-02** — closed issue [#3994](https://github.com/google/dagger/issues/3994) on [google/dagger](https://github.com/google/dagger): "Feature request: backport KSP's improved method signatures in error messages to apt"
 
-**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663178714) in [google/dagger](https://github.com/google/dagger)
 
-**2023-08-02** — merged PR [#58](https://github.com/ZacSweers/auto-service-ksp/pull/58) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.0-1.0.13"
+**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663173065) in [google/dagger](https://github.com/google/dagger)
 
-**2023-08-02** — deleted branch `z/removeAnvilUtils` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663171858) in [google/dagger](https://github.com/google/dagger)
 
-**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-08-02** — opened issue [#3994](https://github.com/google/dagger/issues/3994) on [google/dagger](https://github.com/google/dagger): "Feature request: backport KSP's improved method signatures in error messages to apt"
 
-**2023-08-02** — merged PR [#161](https://github.com/ZacSweers/redacted-compiler-plugin/pull/161) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.0-1.0.13"
+**2023-08-02** — commented on [#3991](https://github.com/google/dagger/issues/3991#issuecomment-1663166972) in [google/dagger](https://github.com/google/dagger)
 
-**2023-08-02** — opened PR [#474](https://github.com/ZacSweers/MoshiX/pull/474) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove anvil compiler utils"
+**2023-08-02** — opened issue [#3993](https://github.com/google/dagger/issues/3993) on [google/dagger](https://github.com/google/dagger): "[KSP] Support MapKey creator class generation"
 
-**2023-08-02** — created branch `z/removeAnvilUtils` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — opened issue [#3992](https://github.com/google/dagger/issues/3992) on [google/dagger](https://github.com/google/dagger): "[KSP] Processing crash when two assisted inject constructors are encountered"
 
-**2023-08-02** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — opened issue [#3991](https://github.com/google/dagger/issues/3991) on [google/dagger](https://github.com/google/dagger): "[KSP] Multiple `@Inject` + `@AssistedInject` constructors error message regression"
 
-**2023-08-02** — closed PR [#470](https://github.com/ZacSweers/MoshiX/pull/470) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.7-1-8"
+**2023-08-02** — opened issue [#3990](https://github.com/google/dagger/issues/3990) on [google/dagger](https://github.com/google/dagger): "[KSP] @receiver: site target qualifier annotations are not accounted for"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
