@@ -19,7 +19,7 @@ eithernet = "com.slack.eithernet:eithernet:1.4.1"
 moshi = { module = "com.squareup.moshi:moshi", version.ref = "moshi" }
 moshi-adapters = { module = "com.squareup.moshi:moshi-adapters", version.ref = "moshi" }
 okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.11"
-okio = "com.squareup.okio:okio:3.4.0"
+okio = "com.squareup.okio:okio:3.5.0"
 retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 retrofit-moshi = { module = "com.squareup.retrofit2:converter-moshi", version.ref = "retrofit" }
 tikxml-annotation = { module = "com.tickaroo.tikxml:annotation", version.ref = "tikxml" }
