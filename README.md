@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-02** — closed issue [#1716](https://github.com/square/moshi/issues/1716) on [square/moshi](https://github.com/square/moshi): "Parsing json reading from java.io.Reader object."
+
+**2023-08-02** — commented on [#1716](https://github.com/square/moshi/issues/1716#issuecomment-1663252293) in [square/moshi](https://github.com/square/moshi)
+
 **2023-08-02** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-08-02** — merged PR [#155](https://github.com/ZacSweers/redacted-compiler-plugin/pull/155) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.3.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663178714) in [google/dagger](https://github.com/google/dagger)
 
 **2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663173065) in [google/dagger](https://github.com/google/dagger)
-
-**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663171858) in [google/dagger](https://github.com/google/dagger)
-
-**2023-08-02** — opened issue [#3994](https://github.com/google/dagger/issues/3994) on [google/dagger](https://github.com/google/dagger): "Feature request: backport KSP's improved method signatures in error messages to apt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
