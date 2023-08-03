@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-02** — closed issue [#1716](https://github.com/square/moshi/issues/1716) on [square/moshi](https://github.com/square/moshi): "Parsing json reading from java.io.Reader object."
+**2023-08-03** — opened PR [#1719](https://github.com/square/moshi/pull/1719) to [square/moshi](https://github.com/square/moshi): "Update to Kotlin 1.9.0"
 
-**2023-08-02** — commented on [#1716](https://github.com/square/moshi/issues/1716#issuecomment-1663252293) in [square/moshi](https://github.com/square/moshi)
+**2023-08-03** — created branch `z/kotlin192` on [square/moshi](https://github.com/square/moshi)
 
-**2023-08-02** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-08-03** — deleted branch `z/kotlin19` on [square/moshi](https://github.com/square/moshi)
 
-**2023-08-02** — merged PR [#155](https://github.com/ZacSweers/redacted-compiler-plugin/pull/155) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.3.2"
+**2023-08-03** — closed PR [#1717](https://github.com/square/moshi/pull/1717) to [square/moshi](https://github.com/square/moshi): "Update to Kotlin 1.9.0"
 
-**2023-08-02** — opened issue [#3995](https://github.com/google/dagger/issues/3995) on [google/dagger](https://github.com/google/dagger): "[KSP] Crash with primitive assisted parameters"
+**2023-08-03** — commented on [#1717](https://github.com/square/moshi/pull/1717#issuecomment-1663301823) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-02** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.0-1.0.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-08-03** — commented on [#1445](https://github.com/google/ksp/issues/1445#issuecomment-1663297005) in [google/ksp](https://github.com/google/ksp)
 
-**2023-08-02** — merged PR [#478](https://github.com/uber/AutoDispose/pull/478) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.0-1.0.12 to 1.9.0-1.0.13"
+**2023-08-03** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 
-**2023-08-02** — closed issue [#3994](https://github.com/google/dagger/issues/3994) on [google/dagger](https://github.com/google/dagger): "Feature request: backport KSP's improved method signatures in error messages to apt"
+**2023-08-03** — commented on [#1701](https://github.com/square/moshi/pull/1701#issuecomment-1663294602) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663178714) in [google/dagger](https://github.com/google/dagger)
+**2023-08-03** — closed PR [#1701](https://github.com/square/moshi/pull/1701) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
 
-**2023-08-02** — commented on [#3994](https://github.com/google/dagger/issues/3994#issuecomment-1663173065) in [google/dagger](https://github.com/google/dagger)
+**2023-08-03** — deleted branch `renovate/kotlincompiletesting` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
