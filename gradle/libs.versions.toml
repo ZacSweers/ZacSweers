@@ -8,7 +8,7 @@ tikxml = "0.8.13"
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.9.0-1.0.13" }
-moshix = { id = "dev.zacsweers.moshix", version = "0.22.1" }
+moshix = { id = "dev.zacsweers.moshix", version = "0.24.0" }
 spotless = { id = "com.diffplug.spotless", version = "6.20.0" }
 versions = { id = "com.github.ben-manes.versions", version = "0.47.0" }
 
