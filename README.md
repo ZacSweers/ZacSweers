@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — created branch `z/ksp/generics` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2023-08-02** — merged PR [#471](https://github.com/ZacSweers/MoshiX/pull/471) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v32.1.2-jre"
+**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-08-02** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — merged PR [#58](https://github.com/ZacSweers/auto-service-ksp/pull/58) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.0-1.0.13"
 
-**2023-08-02** — merged PR [#469](https://github.com/ZacSweers/MoshiX/pull/469) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.1.0"
+**2023-08-02** — deleted branch `z/removeAnvilUtils` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-08-02** — merged PR [#467](https://github.com/ZacSweers/MoshiX/pull/467) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.0"
+**2023-08-02** — merged PR [#161](https://github.com/ZacSweers/redacted-compiler-plugin/pull/161) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.0-1.0.13"
 
-**2023-08-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-08-02** — opened PR [#474](https://github.com/ZacSweers/MoshiX/pull/474) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove anvil compiler utils"
 
-**2023-08-02** — merged PR [#473](https://github.com/ZacSweers/MoshiX/pull/473) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.0-1.0.13"
+**2023-08-02** — created branch `z/removeAnvilUtils` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-08-02** — deleted branch `renovate/com.squareup.anvil` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-02** — merged PR [#57](https://github.com/ZacSweers/ZacSweers/pull/57) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.7.3"
+**2023-08-02** — closed PR [#470](https://github.com/ZacSweers/MoshiX/pull/470) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.anvil:compiler-utils to v2.4.7-1-8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
