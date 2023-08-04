@@ -1,9 +1,6 @@
 package dev.zacsweers
 
-fun createReadMe(
-  githubActivity: List<ActivityItem>,
-  blogActivity: List<ActivityItem>
-): String {
+fun createReadMe(githubActivity: List<ActivityItem>, blogActivity: List<ActivityItem>): String {
   return """
     Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on [Twitter](https://twitter.com/ZacSweers)/[Mastodon](https://hachyderm.io/@ZacSweers).
 
@@ -23,5 +20,6 @@ ${blogActivity.joinToString("\n\n") { "    $it" }}
     </td></tr></table>
     
     <sub><a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired by Simon Willison's auto-updating profile README.</a></sub>
-  """.trimIndent()
+  """
+    .trimIndent()
 }

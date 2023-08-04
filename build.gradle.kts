@@ -20,60 +20,48 @@ plugins {
   alias(libs.plugins.kotlin.jvm)
   alias(libs.plugins.kotlin.kapt)
   alias(libs.plugins.ksp)
-  `application`
+  application
   alias(libs.plugins.spotless)
-  alias(libs.plugins.versions)
   alias(libs.plugins.moshix)
 }
 
-moshi {
-  enableSealed.set(true)
-}
+moshi { enableSealed.set(true) }
+
+val jdk = libs.versions.jdk.get().toInt()
 
 tasks.withType<KotlinCompile>().configureEach {
   compilerOptions {
-    jvmTarget.set(JvmTarget.JVM_17)
-    freeCompilerArgs.addAll(
-      "-Xjsr305=strict",
-      "-progressive",
-      "-opt-in=kotlin.ExperimentalStdlibApi"
-    )
+    jvmTarget.set(JvmTarget.fromTarget(jdk.toString()))
+    freeCompilerArgs.add("-Xjsr305=strict")
+    progressiveMode.set(true)
+    optIn.add("kotlin.ExperimentalStdlibApi")
   }
 }
 
-java {
-  toolchain {
-    languageVersion.set(JavaLanguageVersion.of(17))
-  }
-}
+java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
-sourceSets {
-  main {
-    java {
-      srcDir("build/generated/source/kapt/main")
-    }
-  }
-}
+sourceSets { main { java { srcDir("build/generated/source/kapt/main") } } }
 
-configure<JavaApplication> {
-  mainClass.set("dev.zacsweers.UpdateReadmeKt")
-}
+application { mainClass.set("dev.zacsweers.UpdateReadmeKt") }
 
 // Fat jar configuration to run this as a standalone jar
 // Configuration borrowed from https://stackoverflow.com/a/49284432/3323598
 tasks.named<Jar>("jar") {
-  manifest {
-    attributes(
-      mapOf(
-        "Main-Class" to "dev.zacsweers.UpdateReadmeKt"
-      )
-    )
-  }
-  from(provider {
-    configurations.compileClasspath.get().filter { it.exists() }
-      .map { if (it.isDirectory()) it else zipTree(it) }
-  })
+  manifest { attributes(mapOf("Main-Class" to "dev.zacsweers.UpdateReadmeKt")) }
+  from(
+    provider {
+      configurations.compileClasspath
+        .get()
+        .filter { it.exists() }
+        .map { if (it.isDirectory()) it else zipTree(it) }
+    }
+  )
   duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+spotless {
+  kotlin { ktfmt("0.44").googleStyle() }
+  kotlinGradle { ktfmt("0.44").googleStyle() }
 }
 
 dependencies {

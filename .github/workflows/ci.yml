@@ -8,23 +8,20 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v3
-    - name: Install JDK 17
+    - name: Install JDK
       uses: actions/setup-java@v3
       with:
         distribution: 'zulu'
-        java-version: 17
-    - uses: actions/cache@v3
-      with:
-        path: |
-          ~/.gradle/caches
-          ~/.gradle/wrapper
-        key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
-        restore-keys: |
-          ${{ runner.os }}-gradle-
-    - name: Update README
-      run: |-
-        ./gradlew run --args="-o README.md"
-        cat README.md
+        java-version: 20
+
+   - name: Update README
+     id: gradle
+     uses: gradle/gradle-build-action@v2
+     with:
+       arguments: run --args="-o README.md"
+       gradle-home-cache-cleanup: true
+       cache-read-only: false
+
     - name: (Fail-only) Upload the build report
       if: failure()
       uses: actions/upload-artifact@v3
