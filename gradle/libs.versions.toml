@@ -1,13 +1,12 @@
 [versions]
-jdk = "19"
+jdk = "20"
 kotlin = "1.9.0"
 moshi = "1.15.0"
 retrofit = "2.9.0"
 xmlutil = "0.86.1"
 
 [plugins]
-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
-kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.9.0-1.0.13" }
 moshix = { id = "dev.zacsweers.moshix", version = "0.24.0" }
