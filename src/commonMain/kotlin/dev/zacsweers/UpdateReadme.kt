@@ -3,7 +3,6 @@ package dev.zacsweers
 import com.github.ajalt.clikt.core.CliktCommand
 import com.github.ajalt.clikt.parameters.options.option
 import com.github.ajalt.clikt.parameters.options.required
-import com.github.ajalt.clikt.parameters.types.file
 import com.slack.eithernet.ApiResult
 import com.slack.eithernet.ApiResult.Failure.HttpFailure
 import com.slack.eithernet.ApiResult.Success
@@ -14,11 +13,12 @@ import java.time.ZoneId
 import kotlin.system.exitProcess
 import kotlinx.coroutines.runBlocking
 import okhttp3.OkHttpClient
+import okio.FileSystem
 import retrofit2.HttpException
 
 class UpdateReadmeCommand : CliktCommand() {
 
-  val outputFile by option("-o", help = "The README.md file to write").file().required()
+  val outputFile by option("-o", help = "The README.md file to write").path().required()
 
   override fun run() {
     val okHttpClient = OkHttpClient.Builder().build()
@@ -27,7 +27,9 @@ class UpdateReadmeCommand : CliktCommand() {
     val blogActivity = fetchBlogActivity(okHttpClient)
 
     val newReadMe = createReadMe(githubActivity, blogActivity)
-    outputFile.writeText(newReadMe)
+    FileSystem.SYSTEM.write(outputFile) {
+      writeUtf8(newReadMe)
+    }
 
     // TODO why do I need to do this
     exitProcess(0)
