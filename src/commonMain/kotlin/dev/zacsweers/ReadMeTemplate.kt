@@ -2,7 +2,7 @@ package dev.zacsweers
 
 fun createReadMe(githubActivity: List<ActivityItem>, blogActivity: List<ActivityItem>): String {
   return """
-    Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on [Twitter](https://twitter.com/ZacSweers)/[Mastodon](https://hachyderm.io/@ZacSweers).
+    Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
     <table><tr><td valign="top" width="60%">
 
