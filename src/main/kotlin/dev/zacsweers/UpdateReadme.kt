@@ -9,7 +9,6 @@ import com.slack.eithernet.ApiResult.Failure.HttpFailure
 import com.slack.eithernet.ApiResult.Success
 import com.slack.eithernet.retryWithExponentialBackoff
 import com.squareup.moshi.Moshi
-import com.tickaroo.tikxml.TikXml
 import java.time.Instant
 import java.time.ZoneId
 import kotlin.system.exitProcess
@@ -44,14 +43,7 @@ private fun failureLogger(failure: ApiResult.Failure<*>) {
 }
 
 private fun fetchBlogActivity(client: OkHttpClient): List<ActivityItem> {
-  val blogApi =
-    BlogApi.create(
-      client,
-      TikXml.Builder()
-        .exceptionOnUnreadXml(false)
-        .addTypeConverter(Instant::class.java, InstantTypeConverter())
-        .build()
-    )
+  val blogApi = BlogApi.create(client)
 
   return runBlocking {
     val result =

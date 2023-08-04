@@ -18,11 +18,11 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 plugins {
   alias(libs.plugins.kotlin.jvm)
-  alias(libs.plugins.kotlin.kapt)
   alias(libs.plugins.ksp)
   application
   alias(libs.plugins.spotless)
   alias(libs.plugins.moshix)
+  alias(libs.plugins.kotlin.serialization)
 }
 
 moshi { enableSealed.set(true) }
@@ -39,8 +39,6 @@ tasks.withType<KotlinCompile>().configureEach {
 }
 
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
-
-sourceSets { main { java { srcDir("build/generated/source/kapt/main") } } }
 
 application { mainClass.set("dev.zacsweers.UpdateReadmeKt") }
 
@@ -65,8 +63,6 @@ spotless {
 }
 
 dependencies {
-  kapt(libs.tikxml.processor)
-
   implementation(libs.clikt)
   implementation(libs.coroutines)
   implementation(libs.eithernet)
@@ -78,8 +74,8 @@ dependencies {
   implementation(libs.moshi.adapters)
 
   // XML serialization
-  implementation(libs.tikxml.annotation)
-  implementation(libs.tikxml.core)
-  implementation(libs.tikxml.retrofit)
   implementation(libs.tikxml.htmlescape)
+  implementation(libs.xmlutil.core)
+  implementation(libs.xmlutil.serialization)
+  implementation(libs.retrofit.kotlinxSerialization)
 }
