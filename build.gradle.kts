@@ -25,6 +25,7 @@ plugins {
   alias(libs.plugins.spotless)
   alias(libs.plugins.moshix)
   alias(libs.plugins.kotlin.serialization)
+  alias(libs.plugins.compose)
 }
 
 moshi { enableSealed.set(true) }
@@ -46,6 +47,8 @@ tasks.withType<KotlinCompilationTask<*>>().configureEach {
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
 application { mainClass.set("dev.zacsweers.UpdateReadmeKt") }
+
+compose { kotlinCompilerPlugin.set(libs.compose.compiler.get().toString()) }
 
 kotlin {
   // region KMP Targets
@@ -73,6 +76,10 @@ kotlin {
         // XML serialization
         implementation(libs.tikxml.htmlescape)
         implementation(libs.retrofit.kotlinxSerialization)
+        // Compose
+        implementation(compose.desktop.currentOs)
+        implementation(libs.compose.markdown)
+        implementation(libs.compose.material3)
       }
     }
   }
@@ -80,6 +87,13 @@ kotlin {
   targets.withType<KotlinJvmTarget> {
     // Needed for 'application' plugin.
     withJava()
+  }
+}
+
+configurations.configureEach {
+  resolutionStrategy {
+    // TODO https://github.com/mikepenz/multiplatform-markdown-renderer/issues/61
+    force("org.jetbrains:markdown:0.3.1")
   }
 }
 
