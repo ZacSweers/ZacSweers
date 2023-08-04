@@ -10,18 +10,17 @@ import com.tickaroo.tikxml.annotation.PropertyElement
 import com.tickaroo.tikxml.annotation.Xml
 import com.tickaroo.tikxml.converter.htmlescape.HtmlEscapeStringConverter
 import com.tickaroo.tikxml.retrofit.TikXmlConverterFactory
+import java.time.Instant
+import java.time.format.DateTimeFormatter
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.create
 import retrofit2.http.GET
-import java.time.Instant
-import java.time.format.DateTimeFormatter
 
 // https://www.zacsweers.dev/rss/
 
 internal interface BlogApi {
-  @GET("/rss")
-  suspend fun main(): ApiResult<Feed, Unit>
+  @GET("/rss") suspend fun main(): ApiResult<Feed, Unit>
 
   companion object {
     fun create(client: OkHttpClient, tikXml: TikXml): BlogApi {
@@ -38,32 +37,20 @@ internal interface BlogApi {
   }
 }
 
-@Xml
-data class Feed(
-  @Element
-  val channel: Channel
-)
+@Xml data class Feed(@Element val channel: Channel)
 
 @Xml
 data class Channel(
-  @Element
-  val itemList: List<Entry>,
-
-  @PropertyElement
-  val title: String? = null,
-
-  @PropertyElement
-  val description: String? = null
+  @Element val itemList: List<Entry>,
+  @PropertyElement val title: String? = null,
+  @PropertyElement val description: String? = null
 )
 
 @Xml(name = "item")
 data class Entry(
-  @PropertyElement(converter = HtmlEscapeStringConverter::class)
-  val title: String,
-  @PropertyElement
-  val link: String,
-  @PropertyElement(converter = InstantTypeConverter::class)
-  val pubDate: Instant
+  @PropertyElement(converter = HtmlEscapeStringConverter::class) val title: String,
+  @PropertyElement val link: String,
+  @PropertyElement(converter = InstantTypeConverter::class) val pubDate: Instant
 )
 
 internal class InstantTypeConverter : TypeConverter<Instant> {
