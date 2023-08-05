@@ -93,7 +93,7 @@ kotlin {
 configurations.configureEach {
   resolutionStrategy {
     // TODO https://github.com/mikepenz/multiplatform-markdown-renderer/issues/61
-    force("org.jetbrains:markdown:0.3.1")
+    force("org.jetbrains:markdown:0.4.1")
   }
 }
 
