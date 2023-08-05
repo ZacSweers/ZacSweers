@@ -44,7 +44,7 @@ fun main() =
           horizontalAlignment = Alignment.CenterHorizontally
         ) {
           CircularProgressIndicator()
-          Text("Loading...", style = MaterialTheme.typography.titleLarge)
+          Text("Loading…", style = MaterialTheme.typography.titleLarge)
         }
       } else {
         val stateVertical = rememberScrollState(0)
