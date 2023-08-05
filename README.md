@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — closed issue [#51](https://github.com/ZacSweers/CatchUp/issues/51) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Make available scrolling distance in about header more dynamic"
+
+**2023-08-05** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-05** — closed PR [#723](https://github.com/ZacSweers/CatchUp/pull/723) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.14.0 - abandoned"
+
+**2023-08-05** — deleted branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-05** — closed PR [#545](https://github.com/ZacSweers/CatchUp/pull/545) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro R8 issue"
+
+**2023-08-05** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-05** — merged PR [#859](https://github.com/ZacSweers/CatchUp/pull/859) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.7.3"
+
+**2023-08-05** — commented on [#740](https://github.com/square/anvil/pull/740#issuecomment-1666593972) in [square/anvil](https://github.com/square/anvil)
+
 **2023-08-05** — deleted branch `z/animations` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-05** — merged PR [#64](https://github.com/ZacSweers/ZacSweers/pull/64) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Make progress animation and clean up output"
-
-**2023-08-05** — opened PR [#64](https://github.com/ZacSweers/ZacSweers/pull/64) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Make progress animation and clean up output"
-
-**2023-08-05** — created branch `z/animations` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-05** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-05** — merged PR [#63](https://github.com/ZacSweers/ZacSweers/pull/63) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.7.0"
-
-**2023-08-05** — deleted branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-05** — merged PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
-
-**2023-08-05** — opened PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
-
-**2023-08-05** — created branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
