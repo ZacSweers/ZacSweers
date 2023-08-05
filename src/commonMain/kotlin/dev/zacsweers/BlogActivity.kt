@@ -4,9 +4,7 @@ import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
-import java.time.format.DateTimeFormatter
 import kotlinx.datetime.Instant
-import kotlinx.datetime.toKotlinInstant
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.descriptors.PrimitiveKind
@@ -57,30 +55,9 @@ internal object InstantSerializer : KSerializer<Instant> {
   override val descriptor: SerialDescriptor =
     PrimitiveSerialDescriptor("Instant", PrimitiveKind.STRING)
 
-  override fun deserialize(decoder: Decoder): Instant {
-    return java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(decoder.decodeString()))
-      .toKotlinInstant()
-  }
+  override fun deserialize(decoder: Decoder) = parseRfc1123DateTime(decoder.decodeString())
 
   override fun serialize(encoder: Encoder, value: Instant) = throw NotImplementedError()
-}
-
-/**
- * A String TypeConverter that escapes and unescapes HTML characters directly from string. This one
- * uses apache 3 StringEscapeUtils borrowed from tikxml.
- */
-object HtmlEscapeStringSerializer : KSerializer<String> {
-
-  override val descriptor: SerialDescriptor =
-    PrimitiveSerialDescriptor("EscapedString", PrimitiveKind.STRING)
-
-  override fun deserialize(decoder: Decoder): String {
-    return StringEscapeUtils.unescapeHtml4(decoder.decodeString())
-  }
-
-  override fun serialize(encoder: Encoder, value: String) {
-    encoder.encodeString(StringEscapeUtils.escapeHtml4(value))
-  }
 }
 
 // suspend fun main() {
