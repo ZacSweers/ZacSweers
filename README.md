@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — created branch `z/animations` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-05** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-05** — merged PR [#63](https://github.com/ZacSweers/ZacSweers/pull/63) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.7.0"
+
 **2023-08-05** — deleted branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-05** — merged PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-05** — opened issue [#438](https://github.com/ajalt/clikt/issues/438) on [ajalt/clikt](https://github.com/ajalt/clikt): "Feature request: add a WASM target"
 
 **2023-08-04** — deleted branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-04** — merged PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
-
-**2023-08-04** — opened PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
-
-**2023-08-04** — created branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
