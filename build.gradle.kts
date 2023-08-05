@@ -115,13 +115,6 @@ kotlin {
   }
 }
 
-configurations.configureEach {
-  resolutionStrategy {
-    // TODO https://github.com/mikepenz/multiplatform-markdown-renderer/issues/61
-    force("org.jetbrains:markdown:0.3.1")
-  }
-}
-
 tasks.withType<KotlinJsCompile>().configureEach {
   // https://github.com/JetBrains/compose-multiplatform/issues/3418
   kotlinOptions.freeCompilerArgs +=
