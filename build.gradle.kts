@@ -46,7 +46,7 @@ tasks.withType<KotlinCompilationTask<*>>().configureEach {
 
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
-application { mainClass.set("dev.zacsweers.UpdateReadmeKt") }
+application { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") }
 
 compose { kotlinCompilerPlugin.set(libs.compose.compiler.get().toString()) }
 
