@@ -84,6 +84,8 @@ kotlin {
     }
     maybeCreate("jvmMain").apply {
       dependencies {
+        // To silence this stupid log https://www.slf4j.org/codes.html#StaticLoggerBinder
+        implementation(libs.slf4jNop)
         implementation(compose.runtime)
         // https://github.com/ajalt/clikt/issues/438
         implementation(libs.clikt)
