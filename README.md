@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — deleted branch `z/animations` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-05** — merged PR [#64](https://github.com/ZacSweers/ZacSweers/pull/64) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Make progress animation and clean up output"
+
+**2023-08-05** — opened PR [#64](https://github.com/ZacSweers/ZacSweers/pull/64) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Make progress animation and clean up output"
+
 **2023-08-05** — created branch `z/animations` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-05** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-05** — opened PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
 
 **2023-08-05** — created branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-05** — commented on [#157](https://github.com/pdvrieze/xmlutil/issues/157#issuecomment-1666383655) in [pdvrieze/xmlutil](https://github.com/pdvrieze/xmlutil)
-
-**2023-08-05** — opened issue [#438](https://github.com/ajalt/clikt/issues/438) on [ajalt/clikt](https://github.com/ajalt/clikt): "Feature request: add a WASM target"
-
-**2023-08-04** — deleted branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
