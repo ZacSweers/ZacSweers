@@ -1,30 +1,48 @@
 name: CI
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+  schedule:
+    - cron: '32 * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Install JDK
-      uses: actions/setup-java@v3
-      with:
-        distribution: 'zulu'
-        java-version: 20
+      - name: Checkout
+        uses: actions/checkout@v3
 
-   - name: Update README
-     id: gradle
-     uses: gradle/gradle-build-action@v2
-     with:
-       arguments: run --args="-o README.md"
-       gradle-home-cache-cleanup: true
-       cache-read-only: false
+      - name: Install JDK
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: 20
 
-    - name: (Fail-only) Upload the build report
-      if: failure()
-      uses: actions/upload-artifact@v3
-      with:
-        name: error-report
-        path: build-reports.zip
+      - name: Update README
+        id: gradle
+        uses: gradle/gradle-build-action@v2
+        with:
+          arguments: run --args="-o README.md"
+          gradle-home-cache-cleanup: true
+          cache-read-only: false
+
+      - name: (Fail-only) Upload the build report
+        if: failure()
+        uses: actions/upload-artifact@v3
+        with:
+          name: error-report
+          path: build-reports.zip
+
+      - name: Commit and push if changed
+        if: github.event_name != 'pull_request'
+        run: |
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push

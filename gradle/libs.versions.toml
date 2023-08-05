@@ -1,19 +1,24 @@
 [versions]
+compose = "1.5.0-beta01"
 jdk = "20"
 kotlin = "1.9.0"
 moshi = "1.15.0"
 retrofit = "2.9.0"
-tikxml = "0.8.13"
+xmlutil = "0.86.1"
 
 [plugins]
-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
-kotlin-kapt = { id = "org.jetbrains.kotlin.kapt", version.ref = "kotlin" }
+compose = { id = "org.jetbrains.compose", version.ref = "compose" }
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.9.0-1.0.13" }
 moshix = { id = "dev.zacsweers.moshix", version = "0.24.0" }
 spotless = { id = "com.diffplug.spotless", version = "6.20.0" }
 
 [libraries]
-clikt = "com.github.ajalt:clikt:2.8.0"
+clikt = "com.github.ajalt.clikt:clikt:4.2.0"
+compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.0"
+compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.6.1"
+compose-material3 = "org.jetbrains.compose.material3:material3:1.5.0-beta01"
 coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 eithernet = "com.slack.eithernet:eithernet:1.4.1"
 moshi = { module = "com.squareup.moshi:moshi", version.ref = "moshi" }
@@ -22,8 +27,7 @@ okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.11"
 okio = "com.squareup.okio:okio:3.5.0"
 retrofit = { module = "com.squareup.retrofit2:retrofit", version.ref = "retrofit" }
 retrofit-moshi = { module = "com.squareup.retrofit2:converter-moshi", version.ref = "retrofit" }
-tikxml-annotation = { module = "com.tickaroo.tikxml:annotation", version.ref = "tikxml" }
-tikxml-core = { module = "com.tickaroo.tikxml:core", version.ref = "tikxml" }
-tikxml-htmlescape = { module = "com.tickaroo.tikxml:converter-htmlescape", version.ref = "tikxml" }
-tikxml-processor = { module = "com.tickaroo.tikxml:processor", version.ref = "tikxml" }
-tikxml-retrofit = { module = "com.tickaroo.tikxml:retrofit-converter", version.ref = "tikxml" }
+retrofit-kotlinxSerialization = "com.jakewharton.retrofit:retrofit2-kotlinx-serialization-converter:1.0.0"
+tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
+xmlutil-core = { module = "io.github.pdvrieze.xmlutil:core", version.ref = "xmlutil" }
+xmlutil-serialization = { module = "io.github.pdvrieze.xmlutil:serialization", version.ref = "xmlutil" }
