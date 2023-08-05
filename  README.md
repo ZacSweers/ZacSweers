@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-04** — opened PR [#66](https://github.com/slackhq/EitherNet/pull/66) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNull and fold extensions"
+
+**2023-08-04** — created branch `z/extensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-08-04** — deleted branch `renovate/org.jetbrains-markdown-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-04** — closed PR [#60](https://github.com/ZacSweers/ZacSweers/pull/60) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains:markdown to v0.4.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-04** — created branch `z/kmmXml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-04** — opened issue [#61](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/61) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "NoSuchMethodError thrown using newer GFM versions"
-
-**2023-08-04** — commented on [#3990](https://github.com/google/dagger/issues/3990#issuecomment-1666168553) in [google/dagger](https://github.com/google/dagger)
-
-**2023-08-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
