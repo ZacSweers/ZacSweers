@@ -1,5 +1,7 @@
 package dev.zacsweers
 
+import androidx.compose.runtime.Composable
+import com.mikepenz.markdown.Markdown
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
 import io.ktor.client.HttpClientConfig
@@ -30,6 +32,11 @@ actual fun httpClient(config: HttpClientConfig<*>.() -> Unit) =
 actual fun parseRfc1123DateTime(dateTime: String): Instant {
   return java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(dateTime))
     .toKotlinInstant()
+}
+
+@Composable
+actual fun PlatformMarkdown(text: String) {
+  Markdown(text)
 }
 
 /**

@@ -20,7 +20,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.mikepenz.markdown.Markdown
 
 @Composable
 fun ReadMe() {
@@ -40,7 +39,7 @@ fun ReadMe() {
       val stateVertical = rememberScrollState(0)
       Box(Modifier.fillMaxSize()) {
         Box(Modifier.fillMaxSize().verticalScroll(stateVertical).padding(16.dp)) {
-          Markdown(markdown!!)
+          PlatformMarkdown(markdown!!)
         }
 
         VerticalScrollbar(
