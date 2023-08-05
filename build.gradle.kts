@@ -100,7 +100,7 @@ configurations.configureEach {
 // Fat jar configuration to run this as a standalone jar
 // Configuration borrowed from https://stackoverflow.com/a/49284432/3323598
 tasks.named<Jar>("jar") {
-  manifest { attributes(mapOf("Main-Class" to "dev.zacsweers.UpdateReadmeKt")) }
+  manifest { attributes(mapOf("Main-Class" to "dev.zacsweers.UpdateReadmeCommandKt")) }
   from(
     provider {
       configurations.compileClasspath
