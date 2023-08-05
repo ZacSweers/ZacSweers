@@ -54,28 +54,28 @@ kotlin {
   sourceSets {
     commonMain {
       dependencies {
-        implementation(libs.clikt)
-        implementation(libs.okio)
+        implementation(compose.material3)
         implementation(libs.kotlinx.coroutines)
         implementation(libs.kotlinx.datetime)
         implementation(libs.kotlinx.serialization.json)
+        // https://github.com/pdvrieze/xmlutil/issues/157
         implementation(libs.kotlinx.serialization.xml.core)
         implementation(libs.kotlinx.serialization.xml.serialization)
         implementation(libs.ktor.client)
         implementation(libs.ktor.client.contentNegotiation)
         implementation(libs.ktor.serialization.json)
-        implementation(libs.ktor.serialization.xml)
-        implementation(libs.compose.markdown)
-        implementation(libs.compose.material3)
-        // Compose
-        implementation(compose.desktop.currentOs)
+        implementation(libs.okio)
       }
     }
     maybeCreate("jvmMain").apply {
       dependencies {
+        // https://github.com/ajalt/clikt/issues/438
+        implementation(libs.clikt)
+        // https://github.com/mikepenz/multiplatform-markdown-renderer/issues/55
+        implementation(libs.compose.markdown)
+        implementation(compose.desktop.currentOs)
         implementation(libs.okhttp)
         implementation(libs.ktor.client.engine.okhttp)
-        // XML serialization
         implementation(libs.tikxml.htmlescape)
       }
     }

@@ -4,7 +4,6 @@ import io.ktor.client.plugins.HttpRequestRetry
 import io.ktor.client.plugins.contentnegotiation.ContentNegotiation
 import io.ktor.http.ContentType
 import io.ktor.serialization.kotlinx.json.json
-import io.ktor.serialization.kotlinx.xml.xml
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.withContext
@@ -108,6 +107,6 @@ class ReadMeUpdater {
 
   data class ActivityItem(val text: String, val timestamp: Instant) {
     override fun toString() =
-      "**${timestamp.toLocalDateTime(TimeZone.of("America/New_York"))}** — $text"
+      "**${timestamp.toLocalDateTime(TimeZone.of("America/New_York")).date}** — $text"
   }
 }
