@@ -1,28 +1,28 @@
-Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on [Twitter](https://twitter.com/ZacSweers)/[Mastodon](https://hachyderm.io/@ZacSweers).
+Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 <table><tr><td valign="top" width="60%">
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-03** — deleted branch `z/kotlin192` on [square/moshi](https://github.com/square/moshi)
+**2023-08-05** — deleted branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-03** — merged PR [#1719](https://github.com/square/moshi/pull/1719) to [square/moshi](https://github.com/square/moshi): "Update to Kotlin 1.9.0"
+**2023-08-05** — merged PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
 
-**2023-08-03** — deleted branch `z/fixSample` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-05** — opened PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
 
-**2023-08-03** — merged PR [#780](https://github.com/slackhq/circuit/pull/780) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the star sample KSP wiring"
+**2023-08-05** — created branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-03** — opened PR [#780](https://github.com/slackhq/circuit/pull/780) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the star sample KSP wiring"
+**2023-08-05** — commented on [#157](https://github.com/pdvrieze/xmlutil/issues/157#issuecomment-1666383655) in [pdvrieze/xmlutil](https://github.com/pdvrieze/xmlutil)
 
-**2023-08-03** — opened PR [#779](https://github.com/slackhq/circuit/pull/779) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) Update CM to 1.5.0"
+**2023-08-05** — opened issue [#438](https://github.com/ajalt/clikt/issues/438) on [ajalt/clikt](https://github.com/ajalt/clikt): "Feature request: add a WASM target"
 
-**2023-08-03** — created branch `z/fixSample` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-04** — deleted branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-03** — created branch `z/cm15Prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-04** — merged PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
 
-**2023-08-03** — commented on [#3995](https://github.com/google/dagger/issues/3995#issuecomment-1663413353) in [google/dagger](https://github.com/google/dagger)
+**2023-08-04** — opened PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
 
-**2023-08-03** — opened PR [#1719](https://github.com/square/moshi/pull/1719) to [square/moshi](https://github.com/square/moshi): "Update to Kotlin 1.9.0"
+**2023-08-04** — created branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 

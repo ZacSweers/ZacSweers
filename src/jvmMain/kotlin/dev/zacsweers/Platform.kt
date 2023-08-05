@@ -1,7 +1,7 @@
 package dev.zacsweers
 
 import androidx.compose.runtime.Composable
-import com.mikepenz.markdown.Markdown
+import com.mikepenz.markdown.compose.Markdown
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
 import io.ktor.client.HttpClientConfig
