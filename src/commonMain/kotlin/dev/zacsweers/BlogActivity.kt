@@ -1,6 +1,5 @@
 package dev.zacsweers
 
-import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
@@ -24,7 +23,7 @@ internal interface BlogApi {
     fun create(client: HttpClient): BlogApi {
       return object : BlogApi {
         override suspend fun main(): Feed {
-          return client.get("https://www.zacsweers.dev/rss").body()
+          return client.get("https://www.zacsweers.dev/rss/").body()
         }
       }
     }
@@ -37,13 +36,13 @@ data class Feed(val channel: Channel) {
   @Serializable
   @XmlSerialName("channel")
   data class Channel(
-    @XmlElement val itemList: List<Entry>,
+    @XmlElement val items: List<Item>,
     @XmlElement val title: String? = null,
     @XmlElement val description: String? = null
   ) {
     @Serializable
     @XmlSerialName("item")
-    data class Entry(
+    data class Item(
       @XmlElement @Serializable(HtmlEscapeStringSerializer::class) val title: String,
       @XmlElement val link: String,
       @XmlElement @Serializable(InstantSerializer::class) val pubDate: Instant
