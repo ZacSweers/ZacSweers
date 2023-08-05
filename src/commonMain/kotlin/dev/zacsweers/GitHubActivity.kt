@@ -1,22 +1,25 @@
 package dev.zacsweers
 
+import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
 import com.slack.eithernet.ApiResult
 import com.slack.eithernet.ApiResultCallAdapterFactory
 import com.slack.eithernet.ApiResultConverterFactory
-import com.squareup.moshi.Json
-import com.squareup.moshi.JsonAdapter
-import com.squareup.moshi.JsonClass
-import com.squareup.moshi.JsonReader
-import com.squareup.moshi.JsonWriter
-import com.squareup.moshi.Moshi
-import com.squareup.moshi.adapter
-import com.squareup.moshi.rawType
-import java.lang.reflect.Type
-import java.time.Instant
-import kotlin.reflect.KClass
+import kotlinx.datetime.Instant
+import kotlinx.serialization.KSerializer
+import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
+import kotlinx.serialization.descriptors.SerialDescriptor
+import kotlinx.serialization.descriptors.buildClassSerialDescriptor
+import kotlinx.serialization.encoding.Decoder
+import kotlinx.serialization.encoding.Encoder
+import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonDecoder
+import kotlinx.serialization.json.decodeFromJsonElement
+import kotlinx.serialization.json.jsonObject
+import kotlinx.serialization.json.jsonPrimitive
+import okhttp3.MediaType.Companion.toMediaType
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
-import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.create
 import retrofit2.http.GET
 import retrofit2.http.Path
@@ -28,33 +31,22 @@ interface GitHubApi {
   ): ApiResult<List<GitHubActivityEvent>, Unit>
 
   companion object {
-    fun create(client: OkHttpClient, moshi: Moshi): GitHubApi {
+    fun create(client: OkHttpClient): GitHubApi {
+      val json = Json { ignoreUnknownKeys = true }
       return Retrofit.Builder()
         .baseUrl("https://api.github.com")
         .validateEagerly(true)
         .client(client)
         .addCallAdapterFactory(ApiResultCallAdapterFactory)
         .addConverterFactory(ApiResultConverterFactory)
-        .addConverterFactory(
-          MoshiConverterFactory.create(
-            moshi
-              .newBuilder()
-              .add(
-                DefaultOnDataMismatchAdapter.newFactory(
-                  GitHubActivityEventPayload.Type::class.java,
-                  GitHubActivityEventPayload.Type.UNKNOWN
-                )
-              )
-              .add(GitHubActivityEvent.Factory)
-              .build()
-          )
-        )
+        .addConverterFactory(json.asConverterFactory("application/json".toMediaType()))
         .build()
         .create()
     }
   }
 }
 
+@Serializable(GitHubActivityEvent.Serializer::class)
 data class GitHubActivityEvent(
   val id: String,
   val createdAt: Instant,
@@ -62,89 +54,95 @@ data class GitHubActivityEvent(
   val public: Boolean,
   val repo: Repo?
 ) {
-  companion object Factory : JsonAdapter.Factory {
-    override fun create(type: Type, annotations: Set<Annotation>, moshi: Moshi): JsonAdapter<*>? {
-      if (type.rawType != GitHubActivityEvent::class.java) return null
-      if (annotations.isNotEmpty()) return null
+  object Serializer : KSerializer<GitHubActivityEvent> {
 
-      val typeAdapter = moshi.adapter<GitHubActivityEventPayload.Type>()
-      val repoAdapter = moshi.adapter<Repo>()
-      return object : JsonAdapter<GitHubActivityEvent>() {
-        override fun fromJson(reader: JsonReader): GitHubActivityEvent {
-          @Suppress("UNCHECKED_CAST") val value = reader.readJsonValue() as Map<String, *>
-          val payloadType =
-            value["type"]?.toString()?.let(typeAdapter::fromJsonValue) ?: error("No type found")
-          val payloadValue = value["payload"]
-          val payload =
-            if (payloadType != GitHubActivityEventPayload.Type.UNKNOWN && payloadValue != null) {
-              moshi.adapter(payloadType.subclass.java).fromJsonValue(payloadValue)
-            } else {
-              null
-            }
-          val id = value["id"]?.toString() ?: error("No id found")
-          val createdAt = value["created_at"]?.toString() ?: error("No created_at found")
-          val public = value["public"]?.toString()?.toBoolean() ?: error("No public found")
-          val repo = value["repo"]?.let { repoAdapter.fromJsonValue(it) }
+    override val descriptor: SerialDescriptor = buildClassSerialDescriptor("GitHubActivityEvent")
 
-          val createdAtInstant = Instant.parse(createdAt)
-          return GitHubActivityEvent(id, createdAtInstant, payload, public, repo)
+    override fun serialize(encoder: Encoder, value: GitHubActivityEvent) {
+      TODO("Not yet implemented")
+    }
+
+    override fun deserialize(decoder: Decoder): GitHubActivityEvent {
+      val input = decoder as? JsonDecoder ?: error("Expected JsonDecoder for this deserializer")
+      val tree = input.decodeJsonElement()
+      val payloadType =
+        tree.jsonObject["type"]?.let {
+          try {
+            input.json.decodeFromJsonElement<GitHubActivityEventPayload.Type>(it)
+          } catch (e: Exception) {
+            null
+          }
         }
-
-        override fun toJson(writer: JsonWriter, value: GitHubActivityEvent?) {
-          throw NotImplementedError()
+      val payloadValue = tree.jsonObject["payload"]
+      val payload =
+        if (payloadType != null && payloadValue != null) {
+          input.json.decodeFromJsonElement(payloadType.serializer, payloadValue)
+        } else {
+          null
         }
-      }
+      val id = tree.jsonObject["id"]?.jsonPrimitive?.content ?: error("No id found")
+      val createdAt =
+        tree.jsonObject["created_at"]?.let {
+          input.json.decodeFromJsonElement(Instant.serializer(), it)
+        }
+          ?: error("No created_at found")
+      val public =
+        tree.jsonObject["public"]?.jsonPrimitive?.content?.toBoolean() ?: error("No public found")
+      val repo =
+        tree.jsonObject["repo"]?.let { input.json.decodeFromJsonElement(Repo.serializer(), it) }
+
+      return GitHubActivityEvent(id, createdAt, payload, public, repo)
     }
   }
 }
 
 sealed interface GitHubActivityEventPayload {
-  enum class Type(val subclass: KClass<out GitHubActivityEventPayload>) {
-    UNKNOWN(UnknownPayload::class),
-    @Json(name = "IssuesEvent") ISSUE(IssuesEventPayload::class),
-    @Json(name = "IssueCommentEvent") ISSUE_COMMENT(IssueCommentEventPayload::class),
-    @Json(name = "PullRequestEvent") PULL_REQUEST(PullRequestPayload::class),
-    @Json(name = "CreateEvent") CREATE_EVENT(CreateEvent::class),
-    @Json(name = "DeleteEvent") DELETE_EVENT(DeleteEvent::class)
+  @Serializable
+  enum class Type(val serializer: KSerializer<out GitHubActivityEventPayload>) {
+    @SerialName(value = "IssuesEvent") ISSUE(IssuesEventPayload.serializer()),
+    @SerialName(value = "IssueCommentEvent") ISSUE_COMMENT(IssueCommentEventPayload.serializer()),
+    @SerialName(value = "PullRequestEvent") PULL_REQUEST(PullRequestPayload.serializer()),
+    @SerialName(value = "CreateEvent") CREATE_EVENT(CreateEvent.serializer()),
+    @SerialName(value = "DeleteEvent") DELETE_EVENT(DeleteEvent.serializer())
   }
 }
 
-object UnknownPayload : GitHubActivityEventPayload
+data object UnknownPayload : GitHubActivityEventPayload
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class IssuesEventPayload(val action: String, val issue: Issue) : GitHubActivityEventPayload
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class Issue(
   val title: String,
   val body: String? = null,
-  @Json(name = "html_url") val htmlUrl: String,
+  @SerialName(value = "html_url") val htmlUrl: String,
   val number: Int
 )
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class IssueCommentEventPayload(val action: String, val comment: Comment, val issue: Issue) :
   GitHubActivityEventPayload
 
-@JsonClass(generateAdapter = true)
-data class Comment(@Json(name = "html_url") val htmlUrl: String, val body: String)
+@Serializable
+data class Comment(@SerialName(value = "html_url") val htmlUrl: String, val body: String)
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class PullRequestPayload(
   val action: String,
   val number: Int,
-  @Json(name = "pull_request") val pullRequest: PullRequest
+  @SerialName(value = "pull_request") val pullRequest: PullRequest
 ) : GitHubActivityEventPayload
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class PullRequest(
-  @Json(name = "html_url") val htmlUrl: String,
+  @SerialName(value = "html_url") val htmlUrl: String,
   val title: String,
   val body: String?,
   val merged: Boolean? = false
 )
 
-@JsonClass(generateAdapter = true)
+@Serializable
 data class Repo(val name: String, val url: String) {
   fun adjustedUrl(): String {
     return url.replaceFirst("api.", "").replaceFirst("repos/", "")
@@ -153,10 +151,10 @@ data class Repo(val name: String, val url: String) {
   fun markdownUrl(): String = "[$name](${adjustedUrl()})"
 }
 
-@JsonClass(generateAdapter = true)
-data class CreateEvent(val ref: String?, @Json(name = "ref_type") val refType: String) :
+@Serializable
+data class CreateEvent(val ref: String?, @SerialName(value = "ref_type") val refType: String) :
   GitHubActivityEventPayload
 
-@JsonClass(generateAdapter = true)
-data class DeleteEvent(val ref: String?, @Json(name = "ref_type") val refType: String) :
+@Serializable
+data class DeleteEvent(val ref: String?, @SerialName(value = "ref_type") val refType: String) :
   GitHubActivityEventPayload
