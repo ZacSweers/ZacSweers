@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — commented on [#157](https://github.com/pdvrieze/xmlutil/issues/157#issuecomment-1666383655) in [pdvrieze/xmlutil](https://github.com/pdvrieze/xmlutil)
+
+**2023-08-05** — opened issue [#438](https://github.com/ajalt/clikt/issues/438) on [ajalt/clikt](https://github.com/ajalt/clikt): "Feature request: add a WASM target"
+
 **2023-08-04** — deleted branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-04** — merged PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-04** — deleted branch `renovate/org.jetbrains-markdown-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-04** — closed PR [#60](https://github.com/ZacSweers/ZacSweers/pull/60) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains:markdown to v0.4.1"
-
-**2023-08-04** — commented on [#60](https://github.com/ZacSweers/ZacSweers/pull/60#issuecomment-1666298277) in [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-04** — deleted branch `z/kmmXml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
