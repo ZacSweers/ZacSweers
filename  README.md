@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — deleted branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-05** — merged PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
+
 **2023-08-05** — opened PR [#62](https://github.com/ZacSweers/ZacSweers/pull/62) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Multiplatform more things"
 
 **2023-08-05** — created branch `z/moreKMP` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-04** — opened PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
 
 **2023-08-04** — created branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-04** — opened PR [#66](https://github.com/slackhq/EitherNet/pull/66) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNull and fold extensions"
-
-**2023-08-04** — created branch `z/extensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
