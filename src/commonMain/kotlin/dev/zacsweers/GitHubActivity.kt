@@ -1,9 +1,8 @@
 package dev.zacsweers
 
-import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
-import com.slack.eithernet.ApiResult
-import com.slack.eithernet.ApiResultCallAdapterFactory
-import com.slack.eithernet.ApiResultConverterFactory
+import io.ktor.client.HttpClient
+import io.ktor.client.call.body
+import io.ktor.client.request.get
 import kotlinx.datetime.Instant
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.SerialName
@@ -12,36 +11,23 @@ import kotlinx.serialization.descriptors.SerialDescriptor
 import kotlinx.serialization.descriptors.buildClassSerialDescriptor
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
-import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonDecoder
 import kotlinx.serialization.json.decodeFromJsonElement
 import kotlinx.serialization.json.jsonObject
 import kotlinx.serialization.json.jsonPrimitive
-import okhttp3.MediaType.Companion.toMediaType
-import okhttp3.OkHttpClient
-import retrofit2.Retrofit
-import retrofit2.create
-import retrofit2.http.GET
-import retrofit2.http.Path
 
 interface GitHubApi {
-  @GET("/users/{login}/events")
-  suspend fun getUserActivity(
-    @Path("login") login: String
-  ): ApiResult<List<GitHubActivityEvent>, Unit>
+  suspend fun getUserActivity(login: String): List<GitHubActivityEvent>
 
   companion object {
-    fun create(client: OkHttpClient): GitHubApi {
-      val json = Json { ignoreUnknownKeys = true }
-      return Retrofit.Builder()
-        .baseUrl("https://api.github.com")
-        .validateEagerly(true)
-        .client(client)
-        .addCallAdapterFactory(ApiResultCallAdapterFactory)
-        .addConverterFactory(ApiResultConverterFactory)
-        .addConverterFactory(json.asConverterFactory("application/json".toMediaType()))
-        .build()
-        .create()
+    fun create(client: HttpClient): GitHubApi {
+      return object : GitHubApi {
+        override suspend fun getUserActivity(login: String): List<GitHubActivityEvent> {
+          return client
+            .get("https://api.github.com/users/$login/events")
+            .body<List<GitHubActivityEvent>>()
+        }
+      }
     }
   }
 }
@@ -58,9 +44,8 @@ data class GitHubActivityEvent(
 
     override val descriptor: SerialDescriptor = buildClassSerialDescriptor("GitHubActivityEvent")
 
-    override fun serialize(encoder: Encoder, value: GitHubActivityEvent) {
-      TODO("Not yet implemented")
-    }
+    override fun serialize(encoder: Encoder, value: GitHubActivityEvent) =
+      throw NotImplementedError()
 
     override fun deserialize(decoder: Decoder): GitHubActivityEvent {
       val input = decoder as? JsonDecoder ?: error("Expected JsonDecoder for this deserializer")

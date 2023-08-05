@@ -17,10 +17,18 @@
 pluginManagement {
   repositories {
     mavenCentral()
+    // Skiko deps are here shrug
+    maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     gradlePluginPortal()
   }
 }
 
-dependencyResolutionManagement { repositories { mavenCentral() } }
+dependencyResolutionManagement {
+  repositories {
+    mavenCentral()
+    // Skiko deps are here shrug
+    maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
+  }
+}
 
 rootProject.name = "zacsweers-root"

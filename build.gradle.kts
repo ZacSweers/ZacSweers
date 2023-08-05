@@ -14,13 +14,14 @@
  * limitations under the License.
  */
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+import org.jetbrains.kotlin.gradle.dsl.KotlinJsCompile
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
+import org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension
 import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
 plugins {
   alias(libs.plugins.kotlin.multiplatform)
-  alias(libs.plugins.ksp)
   application
   alias(libs.plugins.spotless)
   alias(libs.plugins.kotlin.serialization)
@@ -45,37 +46,65 @@ java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
 application { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") }
 
-compose { kotlinCompilerPlugin.set(libs.compose.compiler.get().toString()) }
+compose {
+  kotlinCompilerPlugin.set(libs.compose.compiler.get().toString())
+  experimental { web.application {} }
+}
 
 kotlin {
   // region KMP Targets
   jvm()
+  js(IR) {
+    browser()
+    nodejs()
+    binaries.executable()
+  }
+  // No M3 for wasm() yet
+  //  wasm()
   // endregion
 
   sourceSets {
     commonMain {
       dependencies {
-        implementation(libs.clikt)
-        implementation(libs.coroutines)
-        implementation(libs.okio)
+        // TODO consolidate runtime deps again after
+        // https://github.com/JetBrains/compose-multiplatform/issues/3424
+        //        implementation(compose.runtime)
+        implementation(compose.material3)
+        implementation(libs.kotlinx.coroutines)
         implementation(libs.kotlinx.datetime)
         implementation(libs.kotlinx.serialization.json)
+        // https://github.com/pdvrieze/xmlutil/issues/157
         implementation(libs.kotlinx.serialization.xml.core)
         implementation(libs.kotlinx.serialization.xml.serialization)
+        implementation(libs.ktor.client)
+        implementation(libs.ktor.client.contentNegotiation)
+        implementation(libs.ktor.serialization.json)
+        implementation(libs.okio)
       }
     }
     maybeCreate("jvmMain").apply {
       dependencies {
-        implementation(libs.eithernet)
-        implementation(libs.okhttp)
-        implementation(libs.retrofit)
-        // XML serialization
-        implementation(libs.tikxml.htmlescape)
-        implementation(libs.retrofit.kotlinxSerialization)
-        // Compose
-        implementation(compose.desktop.currentOs)
+        implementation(compose.runtime)
+        // https://github.com/ajalt/clikt/issues/438
+        implementation(libs.clikt)
+        // https://github.com/mikepenz/multiplatform-markdown-renderer/issues/55
         implementation(libs.compose.markdown)
-        implementation(libs.compose.material3)
+        implementation(compose.desktop.currentOs)
+        implementation(libs.okhttp)
+        implementation(libs.ktor.client.engine.okhttp)
+        implementation(libs.tikxml.htmlescape)
+      }
+    }
+    maybeCreate("jsMain").apply {
+      dependencies {
+        implementation(compose.runtime)
+        implementation(compose.html.core)
+        implementation(compose.ui)
+        implementation(compose.foundation)
+        implementation(compose.material)
+        @OptIn(org.jetbrains.compose.ExperimentalComposeLibrary::class)
+        implementation(compose.components.resources)
+        implementation(libs.ktor.client.engine.js)
       }
     }
   }
@@ -93,6 +122,14 @@ configurations.configureEach {
   }
 }
 
+tasks.withType<KotlinJsCompile>().configureEach {
+  // https://github.com/JetBrains/compose-multiplatform/issues/3418
+  kotlinOptions.freeCompilerArgs +=
+    listOf(
+      "-Xklib-enable-signature-clash-checks=false",
+    )
+}
+
 // Fat jar configuration to run this as a standalone jar
 // Configuration borrowed from https://stackoverflow.com/a/49284432/3323598
 tasks.named<Jar>("jar") {
@@ -106,6 +143,15 @@ tasks.named<Jar>("jar") {
     }
   )
   duplicatesStrategy = DuplicatesStrategy.EXCLUDE
+}
+
+// a temporary workaround for a bug in jsRun invocation - see
+// https://youtrack.jetbrains.com/issue/KT-48273
+afterEvaluate {
+  rootProject.extensions.configure<NodeJsRootExtension> {
+    versions.webpackDevServer.version = "4.0.0"
+    versions.webpackCli.version = "4.10.0"
+  }
 }
 
 spotless {

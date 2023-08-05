@@ -1,6 +1,6 @@
 package dev.zacsweers
 
-import dev.zacsweers.ReadmeUpdater.ActivityItem
+import dev.zacsweers.ReadMeUpdater.ActivityItem
 
 fun createReadMe(githubActivity: List<ActivityItem>, blogActivity: List<ActivityItem>): String {
   return """

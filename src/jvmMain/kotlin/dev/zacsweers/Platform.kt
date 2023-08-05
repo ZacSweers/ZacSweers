@@ -1,0 +1,58 @@
+package dev.zacsweers
+
+import androidx.compose.runtime.Composable
+import com.mikepenz.markdown.Markdown
+import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
+import io.ktor.client.HttpClient
+import io.ktor.client.HttpClientConfig
+import io.ktor.client.engine.okhttp.OkHttp
+import java.time.format.DateTimeFormatter
+import java.util.concurrent.TimeUnit
+import kotlinx.datetime.Instant
+import kotlinx.datetime.toKotlinInstant
+import kotlinx.serialization.KSerializer
+import kotlinx.serialization.descriptors.PrimitiveKind
+import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
+import kotlinx.serialization.descriptors.SerialDescriptor
+import kotlinx.serialization.encoding.Decoder
+import kotlinx.serialization.encoding.Encoder
+
+actual fun httpClient(config: HttpClientConfig<*>.() -> Unit) =
+  HttpClient(OkHttp) {
+    config(this)
+
+    engine {
+      config {
+        retryOnConnectionFailure(true)
+        connectTimeout(0, TimeUnit.SECONDS)
+      }
+    }
+  }
+
+actual fun parseRfc1123DateTime(dateTime: String): Instant {
+  return java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(dateTime))
+    .toKotlinInstant()
+}
+
+@Composable
+actual fun PlatformMarkdown(text: String) {
+  Markdown(text)
+}
+
+/**
+ * A String TypeConverter that escapes and unescapes HTML characters directly from string. This one
+ * uses apache 3 StringEscapeUtils borrowed from tikxml.
+ */
+actual object HtmlEscapeStringSerializer : KSerializer<String> {
+
+  override val descriptor: SerialDescriptor =
+    PrimitiveSerialDescriptor("EscapedString", PrimitiveKind.STRING)
+
+  override fun deserialize(decoder: Decoder): String {
+    return StringEscapeUtils.unescapeHtml4(decoder.decodeString())
+  }
+
+  override fun serialize(encoder: Encoder, value: String) {
+    encoder.encodeString(StringEscapeUtils.escapeHtml4(value))
+  }
+}
