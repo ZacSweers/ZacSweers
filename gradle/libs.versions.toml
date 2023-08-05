@@ -27,6 +27,7 @@ kotlinx-serialization-xml-serialization = { module = "io.github.pdvrieze.xmlutil
 ktor-client = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
 ktor-client-contentNegotiation = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "ktor" }
 ktor-client-engine-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
+ktor-client-engine-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
 okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.11"
 okio = "com.squareup.okio:okio:3.5.0"

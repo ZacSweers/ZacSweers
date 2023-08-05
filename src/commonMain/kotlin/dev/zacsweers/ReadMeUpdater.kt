@@ -7,6 +7,7 @@ import io.ktor.serialization.kotlinx.json.json
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.async
 import kotlinx.coroutines.withContext
+import kotlinx.datetime.Clock
 import kotlinx.datetime.Instant
 import kotlinx.datetime.TimeZone
 import kotlinx.datetime.toLocalDateTime
@@ -17,7 +18,7 @@ class ReadMeUpdater {
 
   private val client = httpClient {
     install(HttpRequestRetry) {
-      retryOnExceptionOrServerErrors(maxRetries = 5)
+      retryOnExceptionOrServerErrors(maxRetries = 2)
       exponentialDelay()
     }
     install(ContentNegotiation) {
@@ -30,7 +31,7 @@ class ReadMeUpdater {
   }
 
   suspend fun generateReadme(): String {
-    return withContext(Dispatchers.IO) {
+    return withContext(Dispatchers.Default) {
       val githubActivity = async { fetchGithubActivity() }
       val blogActivity = async { fetchBlogActivity() }
 
@@ -46,9 +47,13 @@ class ReadMeUpdater {
       try {
         blogApi.main()
       } catch (e: Exception) {
-        throw IllegalStateException("Could not load blog content.", e)
+        println("Could not load blog content.")
+        e.printStackTrace()
+        return listOf(
+          ActivityItem("Could not load blog content. Please check back later.", Clock.System.now())
+        )
       }
-    return feed.channel.itemList
+    return feed.channel.items
       .map { entry ->
         ActivityItem(text = "[${entry.title}](${entry.link})", timestamp = entry.pubDate)
       }
@@ -61,7 +66,14 @@ class ReadMeUpdater {
       try {
         githubApi.getUserActivity("ZacSweers")
       } catch (e: Exception) {
-        throw IllegalStateException("Could not load GitHub activity.", e)
+        println("Could not load GitHub activity.")
+        e.printStackTrace()
+        return listOf(
+          ActivityItem(
+            "Could not load GitHub activity. Please check back later.",
+            Clock.System.now()
+          )
+        )
       }
     return events
       .filter { it.public }
