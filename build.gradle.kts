@@ -23,12 +23,9 @@ plugins {
   alias(libs.plugins.ksp)
   application
   alias(libs.plugins.spotless)
-  alias(libs.plugins.moshix)
   alias(libs.plugins.kotlin.serialization)
   alias(libs.plugins.compose)
 }
-
-moshi { enableSealed.set(true) }
 
 val jdk = libs.versions.jdk.get().toInt()
 
@@ -61,18 +58,17 @@ kotlin {
         implementation(libs.clikt)
         implementation(libs.coroutines)
         implementation(libs.okio)
-        implementation(libs.xmlutil.core)
-        implementation(libs.xmlutil.serialization)
+        implementation(libs.kotlinx.datetime)
+        implementation(libs.kotlinx.serialization.json)
+        implementation(libs.kotlinx.serialization.xml.core)
+        implementation(libs.kotlinx.serialization.xml.serialization)
       }
     }
     maybeCreate("jvmMain").apply {
       dependencies {
         implementation(libs.eithernet)
-        implementation(libs.moshi)
-        implementation(libs.moshi.adapters)
         implementation(libs.okhttp)
         implementation(libs.retrofit)
-        implementation(libs.retrofit.moshi)
         // XML serialization
         implementation(libs.tikxml.htmlescape)
         implementation(libs.retrofit.kotlinxSerialization)

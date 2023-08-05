@@ -2,12 +2,12 @@ package dev.zacsweers
 
 import com.slack.eithernet.ApiResult
 import com.slack.eithernet.retryWithExponentialBackoff
-import com.squareup.moshi.Moshi
-import java.time.Instant
 import java.time.ZoneId
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.runBlocking
 import kotlinx.coroutines.withContext
+import kotlinx.datetime.Instant
+import kotlinx.datetime.toJavaInstant
 import okhttp3.OkHttpClient
 import retrofit2.HttpException
 
@@ -51,8 +51,7 @@ class ReadmeUpdater {
   }
 
   private fun fetchGithubActivity(client: OkHttpClient): List<ActivityItem> {
-    val moshi = Moshi.Builder().build()
-    val githubApi = GitHubApi.create(client, moshi)
+    val githubApi = GitHubApi.create(client)
     val result = runBlocking {
       retryWithExponentialBackoff(maxAttempts = 10, onFailure = ::failureLogger) {
         githubApi.getUserActivity("ZacSweers")
@@ -107,7 +106,7 @@ class ReadmeUpdater {
 
   data class ActivityItem(val text: String, val timestamp: Instant) {
     override fun toString(): String {
-      return "**${timestamp.atZone(ZoneId.of("America/New_York")).toLocalDate()}** — $text"
+      return "**${timestamp.toJavaInstant().atZone(ZoneId.of("America/New_York")).toLocalDate()}** — $text"
     }
   }
 }

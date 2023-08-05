@@ -5,9 +5,10 @@ import com.slack.eithernet.ApiResult
 import com.slack.eithernet.ApiResultCallAdapterFactory
 import com.slack.eithernet.ApiResultConverterFactory
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
-import java.time.Instant
 import java.time.format.DateTimeFormatter
 import kotlin.system.exitProcess
+import kotlinx.datetime.Instant
+import kotlinx.datetime.toKotlinInstant
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.descriptors.PrimitiveKind
@@ -32,14 +33,13 @@ internal interface BlogApi {
   companion object {
     fun create(client: OkHttpClient): BlogApi {
       val xml = XML { defaultPolicy { ignoreUnknownChildren() } }
-      val contentType = "application/xml".toMediaType()
       return Retrofit.Builder()
         .baseUrl("https://www.zacsweers.dev")
         .validateEagerly(true)
         .client(client)
         .addCallAdapterFactory(ApiResultCallAdapterFactory)
         .addConverterFactory(ApiResultConverterFactory)
-        .addConverterFactory(xml.asConverterFactory(contentType))
+        .addConverterFactory(xml.asConverterFactory("application/xml".toMediaType()))
         .build()
         .create()
     }
@@ -71,7 +71,8 @@ internal object InstantSerializer : KSerializer<Instant> {
     PrimitiveSerialDescriptor("Instant", PrimitiveKind.STRING)
 
   override fun deserialize(decoder: Decoder): Instant =
-    Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(decoder.decodeString()))
+    java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(decoder.decodeString()))
+      .toKotlinInstant()
 
   override fun serialize(encoder: Encoder, value: Instant) = throw NotImplementedError()
 }
