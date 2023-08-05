@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-04** — deleted branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-04** — merged PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
+
+**2023-08-04** — opened PR [#61](https://github.com/ZacSweers/ZacSweers/pull/61) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Replace moshi with kotlinx-serialization"
+
+**2023-08-04** — created branch `z/kmmSerialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2023-08-04** — opened PR [#66](https://github.com/slackhq/EitherNet/pull/66) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNull and fold extensions"
 
 **2023-08-04** — created branch `z/extensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-04** — commented on [#60](https://github.com/ZacSweers/ZacSweers/pull/60#issuecomment-1666298277) in [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-04** — deleted branch `z/kmmXml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-04** — merged PR [#59](https://github.com/ZacSweers/ZacSweers/pull/59) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Bunch of multiplatform work"
-
-**2023-08-04** — opened PR [#59](https://github.com/ZacSweers/ZacSweers/pull/59) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Bunch of multiplatform work"
-
-**2023-08-04** — created branch `z/kmmXml` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-04** — opened issue [#61](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/61) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "NoSuchMethodError thrown using newer GFM versions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
