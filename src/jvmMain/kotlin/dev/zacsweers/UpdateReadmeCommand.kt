@@ -16,7 +16,7 @@ class UpdateReadmeCommand : CliktCommand() {
     option("-o", help = "The README.md file to write").path().required()
 
   override fun run() {
-    val newReadMe = runBlocking { ReadmeUpdater().generateReadme() }
+    val newReadMe = runBlocking { ReadMeUpdater().generateReadme() }
     FileSystem.SYSTEM.write(outputFile.toOkioPath()) { writeUtf8(newReadMe) }
 
     // TODO why do I need to do this

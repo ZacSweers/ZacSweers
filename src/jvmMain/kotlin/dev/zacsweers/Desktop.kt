@@ -35,7 +35,7 @@ fun main() =
       ),
   ) {
     MaterialTheme {
-      val readmeUpdater = remember { ReadmeUpdater() }
+      val readmeUpdater = remember { ReadMeUpdater() }
       val markdown by produceState<String?>(null) { value = readmeUpdater.generateReadme() }
       if (markdown == null) {
         Column(

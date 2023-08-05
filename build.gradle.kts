@@ -20,7 +20,6 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
 plugins {
   alias(libs.plugins.kotlin.multiplatform)
-  alias(libs.plugins.ksp)
   application
   alias(libs.plugins.spotless)
   alias(libs.plugins.kotlin.serialization)
@@ -56,26 +55,28 @@ kotlin {
     commonMain {
       dependencies {
         implementation(libs.clikt)
-        implementation(libs.coroutines)
         implementation(libs.okio)
+        implementation(libs.kotlinx.coroutines)
         implementation(libs.kotlinx.datetime)
         implementation(libs.kotlinx.serialization.json)
         implementation(libs.kotlinx.serialization.xml.core)
         implementation(libs.kotlinx.serialization.xml.serialization)
+        implementation(libs.ktor.client)
+        implementation(libs.ktor.client.contentNegotiation)
+        implementation(libs.ktor.serialization.json)
+        implementation(libs.ktor.serialization.xml)
+        implementation(libs.compose.markdown)
+        implementation(libs.compose.material3)
+        // Compose
+        implementation(compose.desktop.currentOs)
       }
     }
     maybeCreate("jvmMain").apply {
       dependencies {
-        implementation(libs.eithernet)
         implementation(libs.okhttp)
-        implementation(libs.retrofit)
+        implementation(libs.ktor.client.engine.okhttp)
         // XML serialization
         implementation(libs.tikxml.htmlescape)
-        implementation(libs.retrofit.kotlinxSerialization)
-        // Compose
-        implementation(compose.desktop.currentOs)
-        implementation(libs.compose.markdown)
-        implementation(libs.compose.material3)
       }
     }
   }

@@ -1,12 +1,10 @@
 package dev.zacsweers
 
-import com.jakewharton.retrofit2.converter.kotlinx.serialization.asConverterFactory
-import com.slack.eithernet.ApiResult
-import com.slack.eithernet.ApiResultCallAdapterFactory
-import com.slack.eithernet.ApiResultConverterFactory
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
+import io.ktor.client.HttpClient
+import io.ktor.client.call.body
+import io.ktor.client.request.get
 import java.time.format.DateTimeFormatter
-import kotlin.system.exitProcess
 import kotlinx.datetime.Instant
 import kotlinx.datetime.toKotlinInstant
 import kotlinx.serialization.KSerializer
@@ -16,32 +14,21 @@ import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor
 import kotlinx.serialization.descriptors.SerialDescriptor
 import kotlinx.serialization.encoding.Decoder
 import kotlinx.serialization.encoding.Encoder
-import nl.adaptivity.xmlutil.serialization.XML
 import nl.adaptivity.xmlutil.serialization.XmlElement
 import nl.adaptivity.xmlutil.serialization.XmlSerialName
-import okhttp3.MediaType.Companion.toMediaType
-import okhttp3.OkHttpClient
-import retrofit2.Retrofit
-import retrofit2.create
-import retrofit2.http.GET
 
 // https://www.zacsweers.dev/rss/
 
 internal interface BlogApi {
-  @GET("/rss") suspend fun main(): ApiResult<Feed, Unit>
+  suspend fun main(): Feed
 
   companion object {
-    fun create(client: OkHttpClient): BlogApi {
-      val xml = XML { defaultPolicy { ignoreUnknownChildren() } }
-      return Retrofit.Builder()
-        .baseUrl("https://www.zacsweers.dev")
-        .validateEagerly(true)
-        .client(client)
-        .addCallAdapterFactory(ApiResultCallAdapterFactory)
-        .addConverterFactory(ApiResultConverterFactory)
-        .addConverterFactory(xml.asConverterFactory("application/xml".toMediaType()))
-        .build()
-        .create()
+    fun create(client: HttpClient): BlogApi {
+      return object : BlogApi {
+        override suspend fun main(): Feed {
+          return client.get("https://www.zacsweers.dev/rss").body()
+        }
+      }
     }
   }
 }
@@ -70,9 +57,10 @@ internal object InstantSerializer : KSerializer<Instant> {
   override val descriptor: SerialDescriptor =
     PrimitiveSerialDescriptor("Instant", PrimitiveKind.STRING)
 
-  override fun deserialize(decoder: Decoder): Instant =
-    java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(decoder.decodeString()))
+  override fun deserialize(decoder: Decoder): Instant {
+    return java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(decoder.decodeString()))
       .toKotlinInstant()
+  }
 
   override fun serialize(encoder: Encoder, value: Instant) = throw NotImplementedError()
 }
@@ -95,20 +83,20 @@ object HtmlEscapeStringSerializer : KSerializer<String> {
   }
 }
 
-suspend fun main() {
-  val client = OkHttpClient.Builder().build()
-  val api = BlogApi.create(client)
-  when (val result = api.main()) {
-    is ApiResult.Success -> {
-      println(result.value)
-      exitProcess(0)
-    }
-    is ApiResult.Failure -> {
-      when (result) {
-        is ApiResult.Failure.NetworkFailure -> error(result.error)
-        is ApiResult.Failure.UnknownFailure -> error(result.error)
-        else -> error("Unknown failure: $result")
-      }
-    }
-  }
-}
+// suspend fun main() {
+//  val client = OkHttpClient.Builder().build()
+//  val api = BlogApi.create(client)
+//  when (val result = api.main()) {
+//    is ApiResult.Success -> {
+//      println(result.value)
+//      exitProcess(0)
+//    }
+//    is ApiResult.Failure -> {
+//      when (result) {
+//        is ApiResult.Failure.NetworkFailure -> error(result.error)
+//        is ApiResult.Failure.UnknownFailure -> error(result.error)
+//        else -> error("Unknown failure: $result")
+//      }
+//    }
+//  }
+// }
