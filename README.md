@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-05** — created branch `z/aboutWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-05** — created branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-05** — deleted branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-05** — closed PR [#723](https://github.com/ZacSweers/CatchUp/pull/723) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.14.0 - abandoned"
 
 **2023-08-05** — deleted branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — closed PR [#545](https://github.com/ZacSweers/CatchUp/pull/545) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro R8 issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
