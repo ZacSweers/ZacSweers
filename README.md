@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-07** — deleted branch `dependabot/gradle/errorProne-2.21.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-08-07** — merged PR [#480](https://github.com/uber/AutoDispose/pull/480) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.21.0 to 2.21.1"
+
 **2023-08-05** — created branch `z/aboutWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-05** — created branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-05** — closed issue [#51](https://github.com/ZacSweers/CatchUp/issues/51) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Make available scrolling distance in about header more dynamic"
 
 **2023-08-05** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — closed PR [#723](https://github.com/ZacSweers/CatchUp/pull/723) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup:kotlinpoet to v1.14.0 - abandoned"
-
-**2023-08-05** — deleted branch `z/reproR8` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
