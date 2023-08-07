@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-07** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-07** — merged PR [#120](https://github.com/slackhq/slack-lints/pull/120) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
+
+**2023-08-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-07** — merged PR [#119](https://github.com/slackhq/slack-lints/pull/119) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.1"
+
+**2023-08-07** — merged PR [#118](https://github.com/slackhq/slack-lints/pull/118) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.0"
+
+**2023-08-07** — merged PR [#117](https://github.com/slackhq/slack-lints/pull/117) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha15"
+
+**2023-08-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-07** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-08-07** — deleted branch `dependabot/gradle/errorProne-2.21.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-07** — merged PR [#480](https://github.com/uber/AutoDispose/pull/480) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.21.0 to 2.21.1"
-
-**2023-08-05** — created branch `z/aboutWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — created branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — deleted branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — merged PR [#860](https://github.com/ZacSweers/CatchUp/pull/860) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add animated action items row"
-
-**2023-08-05** — opened PR [#860](https://github.com/ZacSweers/CatchUp/pull/860) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add animated action items row"
-
-**2023-08-05** — created branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-05** — closed issue [#51](https://github.com/ZacSweers/CatchUp/issues/51) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Make available scrolling distance in about header more dynamic"
-
-**2023-08-05** — deleted branch `renovate/com.squareup` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
