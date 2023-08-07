@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-07** — opened issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+**2023-08-07** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — closed issue [#481](https://github.com/uber/AutoDispose/issues/481) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "ERROR: R8: Missing class com.google.errorprone.annotations.DoNotMock (referenced from: autodispose2.ScopeProvider and 1 other context)"
+**2023-08-07** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — commented on [#481](https://github.com/uber/AutoDispose/issues/481#issuecomment-1668110267) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-08-07** — merged PR [#499](https://github.com/slackhq/slack-gradle-plugin/pull/499) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs to v1.5.2"
 
-**2023-08-07** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-08-07** — merged PR [#497](https://github.com/slackhq/slack-gradle-plugin/pull/497) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools:common to v31.1.0"
 
-**2023-08-07** — merged PR [#120](https://github.com/slackhq/slack-lints/pull/120) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
+**2023-08-07** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-08-07** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — merged PR [#119](https://github.com/slackhq/slack-lints/pull/119) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.1"
+**2023-08-07** — merged PR [#498](https://github.com/slackhq/slack-gradle-plugin/pull/498) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.23.1"
 
-**2023-08-07** — merged PR [#118](https://github.com/slackhq/slack-lints/pull/118) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.0"
+**2023-08-07** — merged PR [#496](https://github.com/slackhq/slack-gradle-plugin/pull/496) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.7"
 
-**2023-08-07** — merged PR [#117](https://github.com/slackhq/slack-lints/pull/117) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha15"
+**2023-08-07** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-08-07** — merged PR [#495](https://github.com/slackhq/slack-gradle-plugin/pull/495) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
