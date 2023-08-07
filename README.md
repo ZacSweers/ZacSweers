@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-07** — opened issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+
+**2023-08-07** — closed issue [#481](https://github.com/uber/AutoDispose/issues/481) on [uber/AutoDispose](https://github.com/uber/AutoDispose): "ERROR: R8: Missing class com.google.errorprone.annotations.DoNotMock (referenced from: autodispose2.ScopeProvider and 1 other context)"
+
+**2023-08-07** — commented on [#481](https://github.com/uber/AutoDispose/issues/481#issuecomment-1668110267) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
 **2023-08-07** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-08-07** — merged PR [#120](https://github.com/slackhq/slack-lints/pull/120) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-07** — merged PR [#117](https://github.com/slackhq/slack-lints/pull/117) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha15"
 
 **2023-08-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-07** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-07** — deleted branch `dependabot/gradle/errorProne-2.21.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-07** — merged PR [#480](https://github.com/uber/AutoDispose/pull/480) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.21.0 to 2.21.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
