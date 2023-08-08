@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-08** — Could not load GitHub activity. Please check back later.
+**2023-08-08** — created tag `0.10.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-08** — created tag `0.9.19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-08** — created branch `0.9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — created tag `0.10.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — deleted branch `lp_update_default_apk_version_local` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — merged PR [#504](https://github.com/slackhq/slack-gradle-plugin/pull/504) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update default local version code"
+
+**2023-08-07** — deleted branch `revert-364-z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — closed PR [#487](https://github.com/slackhq/slack-gradle-plugin/pull/487) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update to Kotlin 1.9.0""
+
+**2023-08-07** — commented on [#487](https://github.com/slackhq/slack-gradle-plugin/pull/487#issuecomment-1668838233) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — deleted branch `revert-482-z/agp810` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
