@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-08** — deleted branch `z/fixRepoAuth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-08** — merged PR [#509](https://github.com/slackhq/slack-gradle-plugin/pull/509) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix authenticator plugin"
+
+**2023-08-08** — commented on [#509](https://github.com/slackhq/slack-gradle-plugin/pull/509#issuecomment-1670336881) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-08** — opened PR [#509](https://github.com/slackhq/slack-gradle-plugin/pull/509) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix authenticator plugin"
+
+**2023-08-08** — created branch `z/fixRepoAuth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-08** — deleted branch `renovate/detekt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-08** — merged PR [#773](https://github.com/slackhq/circuit/pull/773) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency io.gitlab.arturbosch.detekt to v1.23.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-08** — deleted branch `z/androidTestFix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-08** — merged PR [#507](https://github.com/slackhq/slack-gradle-plugin/pull/507) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't include androidTest information about projects if it's not enabled"
-
-**2023-08-08** — deleted branch `test-renovate/guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — merged PR [#505](https://github.com/slackhq/slack-gradle-plugin/pull/505) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v32.1.2-jre"
-
-**2023-08-08** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — closed PR [#506](https://github.com/slackhq/slack-gradle-plugin/pull/506) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.7-1-8"
-
-**2023-08-08** — opened PR [#507](https://github.com/slackhq/slack-gradle-plugin/pull/507) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't include androidTest information about projects if it's not enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
