@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-07** — deleted branch `lp_unify_version_code` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — created tag `0.10.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — merged PR [#503](https://github.com/slackhq/slack-gradle-plugin/pull/503) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use one version code for all apks"
+**2023-08-07** — deleted branch `lp_update_default_apk_version_local` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — commented on [#503](https://github.com/slackhq/slack-gradle-plugin/pull/503#issuecomment-1668757968) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — merged PR [#504](https://github.com/slackhq/slack-gradle-plugin/pull/504) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update default local version code"
 
-**2023-08-07** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — deleted branch `revert-364-z/kotlin19` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — closed PR [#487](https://github.com/slackhq/slack-gradle-plugin/pull/487) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update to Kotlin 1.9.0""
 
-**2023-08-07** — merged PR [#499](https://github.com/slackhq/slack-gradle-plugin/pull/499) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs to v1.5.2"
+**2023-08-07** — commented on [#487](https://github.com/slackhq/slack-gradle-plugin/pull/487#issuecomment-1668838233) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — merged PR [#497](https://github.com/slackhq/slack-gradle-plugin/pull/497) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools:common to v31.1.0"
+**2023-08-07** — deleted branch `revert-482-z/agp810` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — deleted branch `test-renovate/mkdocs-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — closed PR [#486](https://github.com/slackhq/slack-gradle-plugin/pull/486) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update to AGP 8.1.0 (#482)""
 
-**2023-08-07** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-07** — commented on [#486](https://github.com/slackhq/slack-gradle-plugin/pull/486#issuecomment-1668838168) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-07** — merged PR [#498](https://github.com/slackhq/slack-gradle-plugin/pull/498) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.23.1"
+**2023-08-07** — deleted branch `lp_revert_agp_upgrade` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
