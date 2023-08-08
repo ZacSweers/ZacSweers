@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-07** — deleted branch `lp_unify_version_code` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-07** — merged PR [#503](https://github.com/slackhq/slack-gradle-plugin/pull/503) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use one version code for all apks"
+
+**2023-08-07** — commented on [#503](https://github.com/slackhq/slack-gradle-plugin/pull/503#issuecomment-1668757968) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-07** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-07** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-07** — deleted branch `test-renovate/detekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-07** — merged PR [#498](https://github.com/slackhq/slack-gradle-plugin/pull/498) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update detekt to v1.23.1"
-
-**2023-08-07** — merged PR [#496](https://github.com/slackhq/slack-gradle-plugin/pull/496) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.7"
-
-**2023-08-07** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-07** — merged PR [#495](https://github.com/slackhq/slack-gradle-plugin/pull/495) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
