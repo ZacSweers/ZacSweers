@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-08** — merged PR [#864](https://github.com/ZacSweers/CatchUp/pull/864) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.3"
+
+**2023-08-08** — merged PR [#865](https://github.com/ZacSweers/CatchUp/pull/865) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.5.0"
+
+**2023-08-08** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-08** — created tag `1.5.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-08-08** — deleted branch `z/extensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-08** — closed PR [#500](https://github.com/slackhq/slack-gradle-plugin/pull/500) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add PluginRepositoryAuthProvider for Custom Repository Authentication "
 
 **2023-08-08** — commented on [#500](https://github.com/slackhq/slack-gradle-plugin/pull/500#issuecomment-1670357941) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — commented on [#501](https://github.com/slackhq/slack-gradle-plugin/issues/501#issuecomment-1670350760) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — opened issue [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add standard IDE plugins as dependencies in skate"
-
-**2023-08-08** — deleted branch `z/fixRepoAuth` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — merged PR [#509](https://github.com/slackhq/slack-gradle-plugin/pull/509) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix authenticator plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
