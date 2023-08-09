@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-09** — deleted branch `test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-09** — merged PR [#518](https://github.com/slackhq/slack-gradle-plugin/pull/518) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update sortDependencies to v0.4"
+
+**2023-08-09** — deleted branch `test-renovate/org.jetbrains` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-09** — merged PR [#515](https://github.com/slackhq/slack-gradle-plugin/pull/515) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.5.0"
+
+**2023-08-09** — deleted branch `test-renovate/pygments-2.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-09** — merged PR [#514](https://github.com/slackhq/slack-gradle-plugin/pull/514) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency Pygments to v2.16.1"
+
 **2023-08-09** — commented on [#283](https://github.com/Kotlin/KEEP/issues/283#issuecomment-1670803079) in [Kotlin/KEEP](https://github.com/Kotlin/KEEP)
 
 **2023-08-09** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-09** — merged PR [#513](https://github.com/slackhq/slack-gradle-plugin/pull/513) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.13"
 
 **2023-08-09** — deleted branch `test-renovate/okio` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-09** — merged PR [#516](https://github.com/slackhq/slack-gradle-plugin/pull/516) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okio to v3.5.0"
-
-**2023-08-09** — deleted branch `test-renovate/renovatebot-github-action-39.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-09** — merged PR [#519](https://github.com/slackhq/slack-gradle-plugin/pull/519) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v39"
-
-**2023-08-09** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-09** — closed PR [#517](https://github.com/slackhq/slack-gradle-plugin/pull/517) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.241.11"
-
-**2023-08-09** — deleted branch `test-renovate/mkdocs-macros-plugin-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
