@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-08** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-08** — merged PR [#66](https://github.com/ZacSweers/ZacSweers/pull/66) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.5.0"
+
 **2023-08-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-08** — merged PR [#864](https://github.com/ZacSweers/CatchUp/pull/864) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-08** — merged PR [#66](https://github.com/slackhq/EitherNet/pull/66) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNull and fold extensions"
 
 **2023-08-08** — deleted branch `kl/plugin_auth_service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-08** — closed PR [#500](https://github.com/slackhq/slack-gradle-plugin/pull/500) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add PluginRepositoryAuthProvider for Custom Repository Authentication "
-
-**2023-08-08** — commented on [#500](https://github.com/slackhq/slack-gradle-plugin/pull/500#issuecomment-1670357941) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
