@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-09** — deleted branch `kl/absolute_path` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-09** — merged PR [#493](https://github.com/slackhq/slack-gradle-plugin/pull/493) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change Skate Config Settings to an Absolute File Path within Project Directory"
+
 **2023-08-09** — deleted branch `renovate/macos-13.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-08-09** — merged PR [#162](https://github.com/ZacSweers/redacted-compiler-plugin/pull/162) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency macos to v13"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-09** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-09** — merged PR [#873](https://github.com/ZacSweers/CatchUp/pull/873) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-alpha03"
-
-**2023-08-09** — deleted branch `renovate/androidx.preference` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-09** — merged PR [#872](https://github.com/ZacSweers/CatchUp/pull/872) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.preference:preference-ktx to v1.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
