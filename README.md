@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-08** — deleted branch `renovate/com.slack.eithernet` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-08-09** — deleted branch `test-renovate/ksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-08** — merged PR [#66](https://github.com/ZacSweers/ZacSweers/pull/66) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.5.0"
+**2023-08-09** — merged PR [#513](https://github.com/slackhq/slack-gradle-plugin/pull/513) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update ksp to v1.9.0-1.0.13"
 
-**2023-08-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-09** — deleted branch `test-renovate/okio` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-08** — merged PR [#864](https://github.com/ZacSweers/CatchUp/pull/864) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.3"
+**2023-08-09** — merged PR [#516](https://github.com/slackhq/slack-gradle-plugin/pull/516) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okio to v3.5.0"
 
-**2023-08-08** — merged PR [#865](https://github.com/ZacSweers/CatchUp/pull/865) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.5.0"
+**2023-08-09** — deleted branch `test-renovate/renovatebot-github-action-39.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-08** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-09** — merged PR [#519](https://github.com/slackhq/slack-gradle-plugin/pull/519) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v39"
 
-**2023-08-08** — created tag `1.5.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-08-09** — deleted branch `test-renovate/renovatebot-github-action-32.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-08** — deleted branch `z/extensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-08-09** — closed PR [#517](https://github.com/slackhq/slack-gradle-plugin/pull/517) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update renovatebot/github-action action to v32.241.11"
 
-**2023-08-08** — merged PR [#66](https://github.com/slackhq/EitherNet/pull/66) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNull and fold extensions"
+**2023-08-09** — deleted branch `test-renovate/mkdocs-macros-plugin-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-08** — deleted branch `kl/plugin_auth_service` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-09** — deleted branch `test-renovate/fxchen-code-review-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
