@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-10** — created tag `0.10.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-10** — commented on [#26077](https://github.com/gradle/gradle/issues/26077#issuecomment-1673724903) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-08-10** — opened PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
@@ -15,14 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-10** — deleted branch `test-renovate/major-com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-10** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-10** — merged PR [#521](https://github.com/slackhq/slack-gradle-plugin/pull/521) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v2"
-
-**2023-08-10** — merged PR [#520](https://github.com/slackhq/slack-gradle-plugin/pull/520) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.moshi:moshi to v1.15.0"
-
-**2023-08-10** — deleted branch `z/panelHtml` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-10** — merged PR [#522](https://github.com/slackhq/slack-gradle-plugin/pull/522) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add fallback Html panel support for markdown rendering"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
