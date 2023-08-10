@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-10** — deleted branch `test-renovate/major-com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-10** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-10** — merged PR [#521](https://github.com/slackhq/slack-gradle-plugin/pull/521) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v2"
+
+**2023-08-10** — merged PR [#520](https://github.com/slackhq/slack-gradle-plugin/pull/520) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.moshi:moshi to v1.15.0"
+
+**2023-08-10** — deleted branch `z/panelHtml` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-10** — merged PR [#522](https://github.com/slackhq/slack-gradle-plugin/pull/522) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add fallback Html panel support for markdown rendering"
+
+**2023-08-10** — opened PR [#522](https://github.com/slackhq/slack-gradle-plugin/pull/522) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add fallback Html panel support for markdown rendering"
+
+**2023-08-10** — created branch `z/panelHtml` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-09** — deleted branch `kl/absolute_path` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-09** — merged PR [#493](https://github.com/slackhq/slack-gradle-plugin/pull/493) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Change Skate Config Settings to an Absolute File Path within Project Directory"
-
-**2023-08-09** — deleted branch `renovate/macos-13.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-08-09** — merged PR [#162](https://github.com/ZacSweers/redacted-compiler-plugin/pull/162) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency macos to v13"
-
-**2023-08-09** — deleted branch `renovate/androidx.compose.ui` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-09** — merged PR [#874](https://github.com/ZacSweers/CatchUp/pull/874) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.5.0"
-
-**2023-08-09** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-09** — merged PR [#867](https://github.com/ZacSweers/CatchUp/pull/867) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-beta03"
-
-**2023-08-09** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-09** — merged PR [#873](https://github.com/ZacSweers/CatchUp/pull/873) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
