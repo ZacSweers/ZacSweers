@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-10** — commented on [#26077](https://github.com/gradle/gradle/issues/26077#issuecomment-1673724903) in [gradle/gradle](https://github.com/gradle/gradle)
+
+**2023-08-10** — opened PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
+
 **2023-08-10** — created branch `z/patternsSupport` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-08-10** — opened issue [#26077](https://github.com/gradle/gradle/issues/26077) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle 8.3-rc-1 reports JDK 20 as unsupported in IntelliJ"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-10** — deleted branch `z/panelHtml` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-10** — merged PR [#522](https://github.com/slackhq/slack-gradle-plugin/pull/522) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add fallback Html panel support for markdown rendering"
-
-**2023-08-10** — opened PR [#522](https://github.com/slackhq/slack-gradle-plugin/pull/522) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add fallback Html panel support for markdown rendering"
-
-**2023-08-10** — created branch `z/panelHtml` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
