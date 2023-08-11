@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-11** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-11** — merged PR [#524](https://github.com/slackhq/slack-gradle-plugin/pull/524) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v2.1.0"
+
+**2023-08-11** — deleted branch `z/aboutWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-11** — merged PR [#876](https://github.com/ZacSweers/CatchUp/pull/876) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Another big pass at About header and other unrelated things"
+
+**2023-08-11** — opened PR [#876](https://github.com/ZacSweers/CatchUp/pull/876) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Another big pass at About header and other unrelated things"
+
+**2023-08-11** — opened PR [#211](https://github.com/JakeWharton/mosaic/pull/211) to [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic): "Fix gradle extension name in README"
+
+**2023-08-11** — closed PR [#1](https://github.com/ZacSweers/mosaic/pull/1) to [ZacSweers/mosaic](https://github.com/ZacSweers/mosaic): "Fix gradle extension name in README"
+
+**2023-08-11** — commented on [#1](https://github.com/ZacSweers/mosaic/pull/1#issuecomment-1675397226) in [ZacSweers/mosaic](https://github.com/ZacSweers/mosaic)
+
 **2023-08-11** — commented on [#1135](https://github.com/square/moshi/issues/1135#issuecomment-1675316436) in [square/moshi](https://github.com/square/moshi)
 
 **2023-08-11** — closed issue [#1689](https://github.com/square/moshi/issues/1689) on [square/moshi](https://github.com/square/moshi): "Add an ability to set timezone in Rfc3339DateJsonAdapter"
-
-**2023-08-11** — commented on [#1689](https://github.com/square/moshi/issues/1689#issuecomment-1675316015) in [square/moshi](https://github.com/square/moshi)
-
-**2023-08-11** — commented on [#1710](https://github.com/square/moshi/issues/1710#issuecomment-1675314023) in [square/moshi](https://github.com/square/moshi)
-
-**2023-08-11** — commented on [#1720](https://github.com/square/moshi/issues/1720#issuecomment-1675311857) in [square/moshi](https://github.com/square/moshi)
-
-**2023-08-11** — commented on [#789](https://github.com/slackhq/circuit/pull/789#issuecomment-1675300799) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-11** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-11** — merged PR [#793](https://github.com/slackhq/circuit/pull/793) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.9.0"
-
-**2023-08-11** — deleted branch `renovate/benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-11** — merged PR [#784](https://github.com/slackhq/circuit/pull/784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update benchmark to v1.2.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
