@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-10** — created tag `2.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-08-11** — commented on [#1135](https://github.com/square/moshi/issues/1135#issuecomment-1675316436) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-10** — deleted branch `z/patternsSupport` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-08-11** — closed issue [#1689](https://github.com/square/moshi/issues/1689) on [square/moshi](https://github.com/square/moshi): "Add an ability to set timezone in Rfc3339DateJsonAdapter"
 
-**2023-08-10** — merged PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
+**2023-08-11** — commented on [#1689](https://github.com/square/moshi/issues/1689#issuecomment-1675316015) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-10** — created tag `0.10.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-11** — commented on [#1710](https://github.com/square/moshi/issues/1710#issuecomment-1675314023) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-10** — commented on [#26077](https://github.com/gradle/gradle/issues/26077#issuecomment-1673724903) in [gradle/gradle](https://github.com/gradle/gradle)
+**2023-08-11** — commented on [#1720](https://github.com/square/moshi/issues/1720#issuecomment-1675311857) in [square/moshi](https://github.com/square/moshi)
 
-**2023-08-10** — opened PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
+**2023-08-11** — commented on [#789](https://github.com/slackhq/circuit/pull/789#issuecomment-1675300799) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-11** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-11** — merged PR [#793](https://github.com/slackhq/circuit/pull/793) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.9.0"
+
+**2023-08-11** — deleted branch `renovate/benchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-11** — merged PR [#784](https://github.com/slackhq/circuit/pull/784) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update benchmark to v1.2.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
