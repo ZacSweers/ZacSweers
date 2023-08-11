@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-10** — commented on [#26077](https://github.com/gradle/gradle/issues/26077#issuecomment-1673724903) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2023-08-10** — opened PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
-
-**2023-08-10** — created branch `z/patternsSupport` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
