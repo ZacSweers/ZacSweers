@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-10** — created tag `2.1.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-10** — deleted branch `z/patternsSupport` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-10** — merged PR [#38](https://github.com/slackhq/kotlin-cli-util/pull/38) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add support for matching patterns and single-item lists"
+
 **2023-08-10** — created tag `0.10.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-10** — commented on [#26077](https://github.com/gradle/gradle/issues/26077#issuecomment-1673724903) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -13,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-10** — created branch `z/patternsSupport` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-08-10** — opened issue [#26077](https://github.com/gradle/gradle/issues/26077) on [gradle/gradle](https://github.com/gradle/gradle): "Gradle 8.3-rc-1 reports JDK 20 as unsupported in IntelliJ"
-
-**2023-08-10** — deleted branch `test-renovate/major-com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-10** — deleted branch `test-renovate/moshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
