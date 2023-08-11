@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-11** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-11** — deleted branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-11** — merged PR [#524](https://github.com/slackhq/slack-gradle-plugin/pull/524) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v2.1.0"
+**2023-08-11** — merged PR [#878](https://github.com/ZacSweers/CatchUp/pull/878) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Expandable licenses items"
 
-**2023-08-11** — deleted branch `z/aboutWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-11** — commented on [#878](https://github.com/ZacSweers/CatchUp/pull/878#issuecomment-1675457646) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-11** — merged PR [#876](https://github.com/ZacSweers/CatchUp/pull/876) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Another big pass at About header and other unrelated things"
+**2023-08-11** — deleted branch `z/resourcePrefixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-11** — opened PR [#876](https://github.com/ZacSweers/CatchUp/pull/876) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Another big pass at About header and other unrelated things"
+**2023-08-11** — merged PR [#879](https://github.com/ZacSweers/CatchUp/pull/879) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to using resource prefixes in new SGP API"
 
-**2023-08-11** — opened PR [#211](https://github.com/JakeWharton/mosaic/pull/211) to [JakeWharton/mosaic](https://github.com/JakeWharton/mosaic): "Fix gradle extension name in README"
+**2023-08-11** — opened PR [#879](https://github.com/ZacSweers/CatchUp/pull/879) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to using resource prefixes in new SGP API"
 
-**2023-08-11** — closed PR [#1](https://github.com/ZacSweers/mosaic/pull/1) to [ZacSweers/mosaic](https://github.com/ZacSweers/mosaic): "Fix gradle extension name in README"
+**2023-08-11** — created branch `z/resourcePrefixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-11** — commented on [#1](https://github.com/ZacSweers/mosaic/pull/1#issuecomment-1675397226) in [ZacSweers/mosaic](https://github.com/ZacSweers/mosaic)
+**2023-08-11** — opened PR [#878](https://github.com/ZacSweers/CatchUp/pull/878) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Expandable licenses items"
 
-**2023-08-11** — commented on [#1135](https://github.com/square/moshi/issues/1135#issuecomment-1675316436) in [square/moshi](https://github.com/square/moshi)
+**2023-08-11** — opened PR [#877](https://github.com/ZacSweers/CatchUp/pull/877) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Demo compose preview bug"
 
-**2023-08-11** — closed issue [#1689](https://github.com/square/moshi/issues/1689) on [square/moshi](https://github.com/square/moshi): "Add an ability to set timezone in Rfc3339DateJsonAdapter"
+**2023-08-11** — created branch `z/demoComposeBugs` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
