@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-12** — deleted branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-12** — merged PR [#881](https://github.com/ZacSweers/CatchUp/pull/881) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx splash screen API"
+
 **2023-08-12** — opened PR [#881](https://github.com/ZacSweers/CatchUp/pull/881) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx splash screen API"
 
 **2023-08-12** — created branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-11** — created branch `z/deeplinking` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-11** — deleted branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-11** — merged PR [#878](https://github.com/ZacSweers/CatchUp/pull/878) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Expandable licenses items"
-
-**2023-08-11** — commented on [#878](https://github.com/ZacSweers/CatchUp/pull/878#issuecomment-1675457646) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
