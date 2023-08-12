@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-11** — opened issue [#525](https://github.com/slackhq/slack-gradle-plugin/issues/525) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Anvil dagger config isn't applied correctly if SGP isn't applied first in plugins"
+
 **2023-08-11** — opened PR [#880](https://github.com/ZacSweers/CatchUp/pull/880) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP DeepLinkHandler"
 
 **2023-08-11** — created branch `z/deeplinking` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-11** — opened PR [#879](https://github.com/ZacSweers/CatchUp/pull/879) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to using resource prefixes in new SGP API"
 
 **2023-08-11** — created branch `z/resourcePrefixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-11** — opened PR [#878](https://github.com/ZacSweers/CatchUp/pull/878) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Expandable licenses items"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
