@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-13** — deleted branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-13** — merged PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
+
+**2023-08-13** — opened PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
+
+**2023-08-13** — created branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-13** — opened PR [#798](https://github.com/slackhq/circuit/pull/798) to [slackhq/circuit](https://github.com/slackhq/circuit): "Export ios artifacts for circuit-test"
 
 **2023-08-13** — created branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-13** — created branch `z/circuitx` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-12** — deleted branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-12** — merged PR [#881](https://github.com/ZacSweers/CatchUp/pull/881) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx splash screen API"
-
-**2023-08-12** — opened PR [#881](https://github.com/ZacSweers/CatchUp/pull/881) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx splash screen API"
-
-**2023-08-12** — created branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-11** — deleted branch `z/deeplinking` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
