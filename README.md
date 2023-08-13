@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-13** — opened PR [#798](https://github.com/slackhq/circuit/pull/798) to [slackhq/circuit](https://github.com/slackhq/circuit): "Export ios artifacts for circuit-test"
+
+**2023-08-13** — created branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-13** — opened issue [#797](https://github.com/slackhq/circuit/issues/797) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android Extension Library"
+
+**2023-08-13** — opened PR [#796](https://github.com/slackhq/circuit/pull/796) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitX artifacts"
+
+**2023-08-13** — created branch `z/circuitx` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-12** — deleted branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-12** — merged PR [#881](https://github.com/ZacSweers/CatchUp/pull/881) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Adopt androidx splash screen API"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-12** — created branch `z/splash` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-11** — deleted branch `z/deeplinking` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-11** — merged PR [#880](https://github.com/ZacSweers/CatchUp/pull/880) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement DeepLinkHandler"
-
-**2023-08-11** — opened issue [#525](https://github.com/slackhq/slack-gradle-plugin/issues/525) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Anvil dagger config isn't applied correctly if SGP isn't applied first in plugins"
-
-**2023-08-11** — opened PR [#880](https://github.com/ZacSweers/CatchUp/pull/880) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "WIP DeepLinkHandler"
-
-**2023-08-11** — created branch `z/deeplinking` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-11** — deleted branch `z/expansions` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
