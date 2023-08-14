@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-14** — commented on [#799](https://github.com/slackhq/circuit/pull/799#issuecomment-1676636926) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-13** — opened PR [#800](https://github.com/slackhq/circuit/pull/800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to compile sdk 34"
+
+**2023-08-13** — created branch `z/compileSdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-13** — opened PR [#799](https://github.com/slackhq/circuit/pull/799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix new presenter instances of the same type not being recomposed"
 
 **2023-08-13** — created branch `z/fixState` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-13** — opened PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
 
 **2023-08-13** — created branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-13** — opened PR [#798](https://github.com/slackhq/circuit/pull/798) to [slackhq/circuit](https://github.com/slackhq/circuit): "Export ios artifacts for circuit-test"
-
-**2023-08-13** — created branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-13** — opened issue [#797](https://github.com/slackhq/circuit/issues/797) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android Extension Library"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
