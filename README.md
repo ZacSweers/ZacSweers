@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-13** — opened PR [#799](https://github.com/slackhq/circuit/pull/799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix new presenter instances of the same type not being recomposed"
+
+**2023-08-13** — created branch `z/fixState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-13** — created branch `z/servicesList` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-13** — deleted branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-13** — created branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-13** — opened issue [#797](https://github.com/slackhq/circuit/issues/797) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android Extension Library"
-
-**2023-08-13** — opened PR [#796](https://github.com/slackhq/circuit/pull/796) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitX artifacts"
-
-**2023-08-13** — created branch `z/circuitx` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
