@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-14** — opened PR [#884](https://github.com/ZacSweers/CatchUp/pull/884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for foldables"
+
 **2023-08-14** — commented on [#799](https://github.com/slackhq/circuit/pull/799#issuecomment-1676636926) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-13** — opened PR [#800](https://github.com/slackhq/circuit/pull/800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to compile sdk 34"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-13** — merged PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
 
 **2023-08-13** — opened PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
-
-**2023-08-13** — created branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
