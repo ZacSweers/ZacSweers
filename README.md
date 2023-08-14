@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-14** — deleted branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-14** — merged PR [#798](https://github.com/slackhq/circuit/pull/798) to [slackhq/circuit](https://github.com/slackhq/circuit): "Export ios artifacts for circuit-test"
+
+**2023-08-14** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-14** — merged PR [#885](https://github.com/ZacSweers/CatchUp/pull/885) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.3-rc-4"
+
+**2023-08-14** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-14** — merged PR [#69](https://github.com/ZacSweers/ZacSweers/pull/69) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.3-rc-4"
+
 **2023-08-14** — opened PR [#884](https://github.com/ZacSweers/CatchUp/pull/884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for foldables"
 
 **2023-08-14** — commented on [#799](https://github.com/slackhq/circuit/pull/799#issuecomment-1676636926) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-13** — opened PR [#800](https://github.com/slackhq/circuit/pull/800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to compile sdk 34"
 
 **2023-08-13** — created branch `z/compileSdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-13** — opened PR [#799](https://github.com/slackhq/circuit/pull/799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix new presenter instances of the same type not being recomposed"
-
-**2023-08-13** — created branch `z/fixState` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-13** — created branch `z/servicesList` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-13** — deleted branch `z/intentScreenCleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-13** — merged PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
-
-**2023-08-13** — opened PR [#883](https://github.com/ZacSweers/CatchUp/pull/883) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Productionize intent handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
