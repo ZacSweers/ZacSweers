@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — opened PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
+
+**2023-08-15** — created branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-15** — opened issue [#3120](https://github.com/Kotlin/dokka/issues/3120) on [Kotlin/dokka](https://github.com/Kotlin/dokka): "java.net.URL is no longer a supported property type in Gradle"
+
+**2023-08-15** — created tag `0.10.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-15** — opened PR [#529](https://github.com/slackhq/slack-gradle-plugin/pull/529) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve Skate changelog parsing logic"
 
 **2023-08-15** — created branch `z/pluginUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-15** — deleted branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-15** — merged PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
-
-**2023-08-15** — merged PR [#124](https://github.com/slackhq/slack-lints/pull/124) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha16"
-
-**2023-08-15** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-15** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-15** — merged PR [#67](https://github.com/ZacSweers/ZacSweers/pull/67) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
