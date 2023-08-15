@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-14** — deleted branch `z/fixState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-14** — opened PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
 
-**2023-08-14** — merged PR [#799](https://github.com/slackhq/circuit/pull/799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix new presenter instances of the same type not being recomposed"
+**2023-08-14** — deleted branch `z/fixBenchmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-14** — commented on [#799](https://github.com/slackhq/circuit/pull/799#issuecomment-1678115338) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-14** — merged PR [#887](https://github.com/ZacSweers/CatchUp/pull/887) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix missing sgp plugin in benchmark proj + regenerate"
 
-**2023-08-14** — deleted branch `renovate/compose.animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-14** — created branch `z/updateSarifFiltering` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-14** — closed PR [#789](https://github.com/slackhq/circuit/pull/789) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.animation:animation to v1.5.0"
+**2023-08-14** — commented on [#887](https://github.com/ZacSweers/CatchUp/pull/887#issuecomment-1678373023) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-14** — commented on [#789](https://github.com/slackhq/circuit/pull/789#issuecomment-1678109116) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-14** — opened PR [#887](https://github.com/ZacSweers/CatchUp/pull/887) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix missing sgp plugin in benchmark proj + regenerate"
 
-**2023-08-14** — deleted branch `z/compileSdk34` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-14** — created branch `z/fixBenchmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-14** — merged PR [#800](https://github.com/slackhq/circuit/pull/800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to compile sdk 34"
+**2023-08-14** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-14** — deleted branch `test-renovate/tornado-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-14** — merged PR [#886](https://github.com/ZacSweers/CatchUp/pull/886) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha16"
 
-**2023-08-14** — merged PR [#526](https://github.com/slackhq/slack-gradle-plugin/pull/526) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency tornado to v6.3.3"
+**2023-08-14** — opened PR [#527](https://github.com/slackhq/slack-gradle-plugin/pull/527) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve support for com.android.test projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
