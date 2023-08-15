@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-14** — deleted branch `z/fixState` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-14** — merged PR [#799](https://github.com/slackhq/circuit/pull/799) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix new presenter instances of the same type not being recomposed"
+
 **2023-08-14** — commented on [#799](https://github.com/slackhq/circuit/pull/799#issuecomment-1678115338) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-14** — deleted branch `renovate/compose.animation` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-14** — deleted branch `test-renovate/tornado-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-14** — merged PR [#526](https://github.com/slackhq/slack-gradle-plugin/pull/526) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency tornado to v6.3.3"
-
-**2023-08-14** — deleted branch `z/kmpTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-14** — merged PR [#798](https://github.com/slackhq/circuit/pull/798) to [slackhq/circuit](https://github.com/slackhq/circuit): "Export ios artifacts for circuit-test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
