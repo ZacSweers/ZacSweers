@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — opened PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
+
+**2023-08-15** — created branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-14** — deleted branch `z/updateSarifFiltering` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-14** — merged PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
+
+**2023-08-14** — commented on [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395#issuecomment-1678391912) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-14** — closed issue [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add artifactory publishing support for Skate"
+
+**2023-08-14** — deleted branch `z/servicesList` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-14** — merged PR [#884](https://github.com/ZacSweers/CatchUp/pull/884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for foldables"
+
 **2023-08-14** — opened PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
 
 **2023-08-14** — deleted branch `z/fixBenchmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — merged PR [#887](https://github.com/ZacSweers/CatchUp/pull/887) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix missing sgp plugin in benchmark proj + regenerate"
-
-**2023-08-14** — created branch `z/updateSarifFiltering` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — commented on [#887](https://github.com/ZacSweers/CatchUp/pull/887#issuecomment-1678373023) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — opened PR [#887](https://github.com/ZacSweers/CatchUp/pull/887) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix missing sgp plugin in benchmark proj + regenerate"
-
-**2023-08-14** — created branch `z/fixBenchmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — merged PR [#886](https://github.com/ZacSweers/CatchUp/pull/886) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-alpha16"
-
-**2023-08-14** — opened PR [#527](https://github.com/slackhq/slack-gradle-plugin/pull/527) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve support for com.android.test projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
