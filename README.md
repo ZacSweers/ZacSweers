@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — deleted branch `z/comAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-15** — merged PR [#527](https://github.com/slackhq/slack-gradle-plugin/pull/527) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve support for com.android.test projects"
+
+**2023-08-15** — deleted branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-15** — merged PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
+
+**2023-08-15** — merged PR [#124](https://github.com/slackhq/slack-lints/pull/124) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-alpha16"
+
+**2023-08-15** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-08-15** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-15** — merged PR [#67](https://github.com/ZacSweers/ZacSweers/pull/67) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-beta02"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-15** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-15** — merged PR [#70](https://github.com/ZacSweers/ZacSweers/pull/70) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.7.1"
-
-**2023-08-15** — opened PR [#801](https://github.com/slackhq/circuit/pull/801) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) JS Support"
-
-**2023-08-15** — created branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-15** — opened PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
-
-**2023-08-15** — created branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-14** — deleted branch `z/updateSarifFiltering` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — merged PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
