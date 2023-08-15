@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-15** — merged PR [#67](https://github.com/ZacSweers/ZacSweers/pull/67) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-beta02"
+
+**2023-08-15** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-15** — merged PR [#70](https://github.com/ZacSweers/ZacSweers/pull/70) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.7.1"
+
 **2023-08-15** — opened PR [#801](https://github.com/slackhq/circuit/pull/801) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) JS Support"
 
 **2023-08-15** — created branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-14** — deleted branch `z/updateSarifFiltering` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-14** — merged PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
-
-**2023-08-14** — commented on [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395#issuecomment-1678391912) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-14** — closed issue [#395](https://github.com/slackhq/slack-gradle-plugin/issues/395) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add artifactory publishing support for Skate"
-
-**2023-08-14** — deleted branch `z/servicesList` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-14** — merged PR [#884](https://github.com/ZacSweers/CatchUp/pull/884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for foldables"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
