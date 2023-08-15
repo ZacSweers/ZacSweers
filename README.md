@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — opened PR [#801](https://github.com/slackhq/circuit/pull/801) to [slackhq/circuit](https://github.com/slackhq/circuit): "(WIP) JS Support"
+
+**2023-08-15** — created branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-15** — opened PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
 
 **2023-08-15** — created branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-14** — deleted branch `z/servicesList` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-14** — merged PR [#884](https://github.com/ZacSweers/CatchUp/pull/884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for foldables"
-
-**2023-08-14** — opened PR [#888](https://github.com/ZacSweers/CatchUp/pull/888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Improve sarif file handling"
-
-**2023-08-14** — deleted branch `z/fixBenchmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
