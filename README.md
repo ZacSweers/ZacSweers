@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — opened PR [#529](https://github.com/slackhq/slack-gradle-plugin/pull/529) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve Skate changelog parsing logic"
+
+**2023-08-15** — created branch `z/pluginUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-15** — deleted branch `z/comAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-15** — merged PR [#527](https://github.com/slackhq/slack-gradle-plugin/pull/527) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve support for com.android.test projects"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-15** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-15** — merged PR [#67](https://github.com/ZacSweers/ZacSweers/pull/67) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-beta02"
-
-**2023-08-15** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-15** — merged PR [#70](https://github.com/ZacSweers/ZacSweers/pull/70) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
