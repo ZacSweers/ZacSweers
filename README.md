@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-15** — deleted branch `z/pluginUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-15** — merged PR [#529](https://github.com/slackhq/slack-gradle-plugin/pull/529) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve Skate changelog parsing logic"
+
 **2023-08-15** — opened PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
 
 **2023-08-15** — created branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-15** — deleted branch `z/comAndroidTest` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-15** — merged PR [#527](https://github.com/slackhq/slack-gradle-plugin/pull/527) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve support for com.android.test projects"
-
-**2023-08-15** — deleted branch `z/gradleUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-15** — merged PR [#528](https://github.com/slackhq/slack-gradle-plugin/pull/528) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle + update a few deprecated buildDir APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
