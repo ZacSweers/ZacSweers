@@ -4,25 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-16** — commented on [#3486](https://github.com/JetBrains/compose-multiplatform/issues/3486#issuecomment-1681088978) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
+**2023-08-16** — commented on [#801](https://github.com/slackhq/circuit/pull/801#issuecomment-1681063151) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-16** — merged PR [#779](https://github.com/slackhq/circuit/pull/779) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CM to 1.5.0-beta02"
 
 **2023-08-16** — deleted branch `z/cm15Prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-16** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-16** — merged PR [#68](https://github.com/ZacSweers/ZacSweers/pull/68) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-beta02"
-
-**2023-08-15** — deleted branch `z/pluginUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-15** — merged PR [#529](https://github.com/slackhq/slack-gradle-plugin/pull/529) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve Skate changelog parsing logic"
-
-**2023-08-15** — opened PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
-
-**2023-08-15** — created branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-15** — opened issue [#3120](https://github.com/Kotlin/dokka/issues/3120) on [Kotlin/dokka](https://github.com/Kotlin/dokka): "java.net.URL is no longer a supported property type in Gradle"
-
-**2023-08-15** — created tag `0.10.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
