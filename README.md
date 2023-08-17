@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-16** — opened PR [#533](https://github.com/slackhq/slack-gradle-plugin/pull/533) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add common IJ plugins we use as dependencies"
+**2023-08-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-08-16** — created branch `z/skateUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-17** — merged PR [#475](https://github.com/ZacSweers/MoshiX/pull/475) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.3"
 
-**2023-08-16** — deleted branch `z/circuitx` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-17** — merged PR [#875](https://github.com/ZacSweers/CatchUp/pull/875) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.5"
 
-**2023-08-16** — closed issue [#797](https://github.com/slackhq/circuit/issues/797) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android Extension Library"
+**2023-08-17** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-16** — merged PR [#796](https://github.com/slackhq/circuit/pull/796) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce CircuitX artifacts"
+**2023-08-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-16** — commented on [#796](https://github.com/slackhq/circuit/pull/796#issuecomment-1681275174) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-17** — merged PR [#889](https://github.com/ZacSweers/CatchUp/pull/889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.211.1"
 
-**2023-08-16** — commented on [#3486](https://github.com/JetBrains/compose-multiplatform/issues/3486#issuecomment-1681088978) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+**2023-08-17** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-16** — commented on [#801](https://github.com/slackhq/circuit/pull/801#issuecomment-1681063151) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-17** — merged PR [#890](https://github.com/ZacSweers/CatchUp/pull/890) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.21.0"
+
+**2023-08-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-17** — merged PR [#891](https://github.com/ZacSweers/CatchUp/pull/891) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
