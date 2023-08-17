@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-17** — merged PR [#125](https://github.com/slackhq/slack-lints/pull/125) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.3"
+
 **2023-08-17** — created tag `0.13.0-beta01` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-17** — deleted branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — merged PR [#875](https://github.com/ZacSweers/CatchUp/pull/875) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.5"
 
 **2023-08-17** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-17** — merged PR [#889](https://github.com/ZacSweers/CatchUp/pull/889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.211.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
