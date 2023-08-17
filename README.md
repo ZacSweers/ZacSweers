@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — closed issue [#806](https://github.com/slackhq/circuit/issues/806) on [slackhq/circuit](https://github.com/slackhq/circuit): "CircuitX artifact groups don't match documentation"
+
+**2023-08-17** — commented on [#806](https://github.com/slackhq/circuit/issues/806#issuecomment-1683038193) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-17** — commented on [#806](https://github.com/slackhq/circuit/issues/806#issuecomment-1682932566) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-17** — deleted branch `renovate/click-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — merged PR [#73](https://github.com/ZacSweers/ZacSweers/pull/73) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc01"
 
 **2023-08-17** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-17** — merged PR [#125](https://github.com/slackhq/slack-lints/pull/125) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.3"
-
-**2023-08-17** — created tag `0.13.0-beta01` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
