@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — commented on [#806](https://github.com/slackhq/circuit/issues/806#issuecomment-1682932566) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-17** — deleted branch `renovate/click-8.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-08-17** — merged PR [#1667](https://github.com/square/kotlinpoet/pull/1667) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency click to v8.1.7"
+
+**2023-08-17** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-17** — merged PR [#72](https://github.com/ZacSweers/ZacSweers/pull/72) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc01"
+
+**2023-08-17** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-17** — merged PR [#73](https://github.com/ZacSweers/ZacSweers/pull/73) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc01"
+
 **2023-08-17** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-08-17** — merged PR [#125](https://github.com/slackhq/slack-lints/pull/125) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.3"
 
 **2023-08-17** — created tag `0.13.0-beta01` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-17** — deleted branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-17** — closed issue [#649](https://github.com/slackhq/circuit/issues/649) on [slackhq/circuit](https://github.com/slackhq/circuit): "Support Kotlin/Compose JS/wasm"
-
-**2023-08-17** — merged PR [#801](https://github.com/slackhq/circuit/pull/801) to [slackhq/circuit](https://github.com/slackhq/circuit): "JS Support"
-
-**2023-08-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-17** — merged PR [#475](https://github.com/ZacSweers/MoshiX/pull/475) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.3"
-
-**2023-08-17** — merged PR [#875](https://github.com/ZacSweers/CatchUp/pull/875) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.5"
-
-**2023-08-17** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
