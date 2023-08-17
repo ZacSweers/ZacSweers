@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — created tag `0.13.0-beta01` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-17** — deleted branch `z/js` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-17** — closed issue [#649](https://github.com/slackhq/circuit/issues/649) on [slackhq/circuit](https://github.com/slackhq/circuit): "Support Kotlin/Compose JS/wasm"
+
+**2023-08-17** — merged PR [#801](https://github.com/slackhq/circuit/pull/801) to [slackhq/circuit](https://github.com/slackhq/circuit): "JS Support"
+
 **2023-08-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-08-17** — merged PR [#475](https://github.com/ZacSweers/MoshiX/pull/475) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.3"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-17** — merged PR [#889](https://github.com/ZacSweers/CatchUp/pull/889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.211.1"
-
-**2023-08-17** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-17** — merged PR [#890](https://github.com/ZacSweers/CatchUp/pull/890) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.21.0"
-
-**2023-08-17** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-17** — merged PR [#891](https://github.com/ZacSweers/CatchUp/pull/891) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
