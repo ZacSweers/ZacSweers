@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-16** — opened PR [#533](https://github.com/slackhq/slack-gradle-plugin/pull/533) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add common IJ plugins we use as dependencies"
+
+**2023-08-16** — created branch `z/skateUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-16** — deleted branch `z/circuitx` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-16** — closed issue [#797](https://github.com/slackhq/circuit/issues/797) on [slackhq/circuit](https://github.com/slackhq/circuit): "Android Extension Library"
