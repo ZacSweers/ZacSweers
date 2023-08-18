@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-18** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-18** — merged PR [#535](https://github.com/slackhq/slack-gradle-plugin/pull/535) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.7"
+
 **2023-08-18** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-08-18** — closed PR [#477](https://github.com/ZacSweers/MoshiX/pull/477) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-293"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — merged PR [#534](https://github.com/slackhq/slack-gradle-plugin/pull/534) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.3"
 
 **2023-08-17** — deleted branch `test-renovate/dependencyanalysisplugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-17** — merged PR [#532](https://github.com/slackhq/slack-gradle-plugin/pull/532) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependencyAnalysisPlugin to v1.21.0"
-
-**2023-08-17** — deleted branch `test-renovate/lunr-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
