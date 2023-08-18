@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — opened issue [#3](https://github.com/cdsap/TaskReport/issues/3) on [cdsap/TaskReport](https://github.com/cdsap/TaskReport): "Feature request: support negation tags"
+
+**2023-08-17** — commented on [#2](https://github.com/cdsap/TaskReport/issues/2#issuecomment-1683256526) in [cdsap/TaskReport](https://github.com/cdsap/TaskReport)
+
 **2023-08-17** — opened issue [#2](https://github.com/cdsap/TaskReport/issues/2) on [cdsap/TaskReport](https://github.com/cdsap/TaskReport): "Basic invocation fails with a GSON parse error"
 
 **2023-08-17** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — merged PR [#531](https://github.com/slackhq/slack-gradle-plugin/pull/531) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency lunr to v0.7.0.post1"
 
 **2023-08-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-17** — closed PR [#476](https://github.com/ZacSweers/MoshiX/pull/476) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-292"
-
-**2023-08-17** — closed issue [#806](https://github.com/slackhq/circuit/issues/806) on [slackhq/circuit](https://github.com/slackhq/circuit): "CircuitX artifact groups don't match documentation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
