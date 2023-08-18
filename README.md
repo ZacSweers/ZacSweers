@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-17** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-17** — closed PR [#476](https://github.com/ZacSweers/MoshiX/pull/476) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-292"
+
 **2023-08-17** — closed issue [#806](https://github.com/slackhq/circuit/issues/806) on [slackhq/circuit](https://github.com/slackhq/circuit): "CircuitX artifact groups don't match documentation"
 
 **2023-08-17** — commented on [#806](https://github.com/slackhq/circuit/issues/806#issuecomment-1683038193) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-17** — merged PR [#72](https://github.com/ZacSweers/ZacSweers/pull/72) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc01"
 
 **2023-08-17** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-17** — merged PR [#73](https://github.com/ZacSweers/ZacSweers/pull/73) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc01"
-
-**2023-08-17** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
