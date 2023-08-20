@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-20** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1685295866) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-20** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1685295424) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-08-20** — opened PR [#894](https://github.com/ZacSweers/CatchUp/pull/894) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
 
 **2023-08-20** — created branch `z/miscStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-19** — merged PR [#892](https://github.com/ZacSweers/CatchUp/pull/892) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Correctly animate title's movement in about screen's collapsing header"
 
 **2023-08-19** — commented on [#1025](https://github.com/cashapp/paparazzi/issues/1025#issuecomment-1684834045) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
-
-**2023-08-18** — deleted branch `test-renovate/click-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-18** — merged PR [#535](https://github.com/slackhq/slack-gradle-plugin/pull/535) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency click to v8.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
