@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-19** — merged PR [#893](https://github.com/ZacSweers/CatchUp/pull/893) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.212.0"
+
 **2023-08-19** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-19** — merged PR [#807](https://github.com/slackhq/circuit/pull/807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc01"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-18** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-08-18** — closed PR [#477](https://github.com/ZacSweers/MoshiX/pull/477) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-293"
-
-**2023-08-17** — opened issue [#3](https://github.com/cdsap/TaskReport/issues/3) on [cdsap/TaskReport](https://github.com/cdsap/TaskReport): "Feature request: support negation tags"
-
-**2023-08-17** — commented on [#2](https://github.com/cdsap/TaskReport/issues/2#issuecomment-1683256526) in [cdsap/TaskReport](https://github.com/cdsap/TaskReport)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
