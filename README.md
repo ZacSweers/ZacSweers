@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-21** — deleted branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-21** — merged PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
+
+**2023-08-21** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-21** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-21** — merged PR [#537](https://github.com/slackhq/slack-gradle-plugin/pull/537) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.5"
+
+**2023-08-21** — merged PR [#536](https://github.com/slackhq/slack-gradle-plugin/pull/536) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.8.1"
+
 **2023-08-21** — deleted branch `renovate/org.jetbrains.compose.compiler` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-21** — merged PR [#74](https://github.com/ZacSweers/ZacSweers/pull/74) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.1"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-20** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1685295866) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-08-20** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1685295424) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-20** — opened PR [#894](https://github.com/ZacSweers/CatchUp/pull/894) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
-
-**2023-08-20** — created branch `z/miscStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-19** — merged PR [#893](https://github.com/ZacSweers/CatchUp/pull/893) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.212.0"
-
-**2023-08-19** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-19** — merged PR [#807](https://github.com/slackhq/circuit/pull/807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
