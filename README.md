@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-21** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-21** — merged PR [#75](https://github.com/ZacSweers/ZacSweers/pull/75) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc02"
+
+**2023-08-21** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-21** — merged PR [#76](https://github.com/ZacSweers/ZacSweers/pull/76) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc02"
+
 **2023-08-21** — deleted branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-21** — merged PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-21** — merged PR [#537](https://github.com/slackhq/slack-gradle-plugin/pull/537) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.5"
 
 **2023-08-21** — merged PR [#536](https://github.com/slackhq/slack-gradle-plugin/pull/536) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.wire:wire-gradle-plugin to v4.8.1"
-
-**2023-08-21** — deleted branch `renovate/org.jetbrains.compose.compiler` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-21** — merged PR [#74](https://github.com/ZacSweers/ZacSweers/pull/74) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.1"
-
-**2023-08-20** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1685295866) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-20** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1685295424) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
