@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-21** — Could not load GitHub activity. Please check back later.
+**2023-08-20** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1685295866) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-20** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1685295424) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-20** — opened PR [#894](https://github.com/ZacSweers/CatchUp/pull/894) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
+
+**2023-08-20** — created branch `z/miscStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-19** — merged PR [#893](https://github.com/ZacSweers/CatchUp/pull/893) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.212.0"
+
+**2023-08-19** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-19** — merged PR [#807](https://github.com/slackhq/circuit/pull/807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc01"
+
+**2023-08-19** — merged PR [#892](https://github.com/ZacSweers/CatchUp/pull/892) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Correctly animate title's movement in about screen's collapsing header"
+
+**2023-08-19** — commented on [#1025](https://github.com/cashapp/paparazzi/issues/1025#issuecomment-1684834045) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
