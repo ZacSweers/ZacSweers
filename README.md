@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-22** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-22** — deleted branch `renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-08-22** — merged PR [#538](https://github.com/slackhq/slack-gradle-plugin/pull/538) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8.1.1"
+**2023-08-22** — merged PR [#809](https://github.com/slackhq/circuit/pull/809) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v8.1.1"
 
-**2023-08-22** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-08-22** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-22** — merged PR [#539](https://github.com/slackhq/slack-gradle-plugin/pull/539) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.1.1"
-
-**2023-08-22** — opened PR [#39](https://github.com/slackhq/kotlin-cli-util/pull/39) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Split out ShellSentry program from CLI"
-
-**2023-08-22** — created branch `z/extensibleShellSentry` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-08-22** — merged PR [#896](https://github.com/ZacSweers/CatchUp/pull/896) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.6.0"
 
 **2023-08-22** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-22** — merged PR [#77](https://github.com/ZacSweers/ZacSweers/pull/77) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc03"
+**2023-08-22** — merged PR [#79](https://github.com/ZacSweers/ZacSweers/pull/79) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc04"
 
 **2023-08-22** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-08-22** — merged PR [#78](https://github.com/ZacSweers/ZacSweers/pull/78) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc03"
+**2023-08-22** — merged PR [#80](https://github.com/ZacSweers/ZacSweers/pull/80) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc04"
+
+**2023-08-22** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-22** — closed PR [#480](https://github.com/ZacSweers/MoshiX/pull/480) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-294"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
