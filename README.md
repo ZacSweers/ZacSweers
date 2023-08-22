@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-22** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-08-22** — merged PR [#479](https://github.com/ZacSweers/MoshiX/pull/479) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.1.1"
+
 **2023-08-21** — opened PR [#895](https://github.com/ZacSweers/CatchUp/pull/895) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update ci.yml"
 
 **2023-08-21** — created branch `z/removeCiWorkaround` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-21** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-21** — merged PR [#76](https://github.com/ZacSweers/ZacSweers/pull/76) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc02"
-
-**2023-08-21** — deleted branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-21** — merged PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
