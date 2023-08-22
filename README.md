@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-22** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-22** — merged PR [#77](https://github.com/ZacSweers/ZacSweers/pull/77) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc03"
+
+**2023-08-22** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-08-22** — merged PR [#78](https://github.com/ZacSweers/ZacSweers/pull/78) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc03"
+
 **2023-08-22** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-08-22** — merged PR [#479](https://github.com/ZacSweers/MoshiX/pull/479) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.1.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-21** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-08-21** — merged PR [#1668](https://github.com/square/kotlinpoet/pull/1668) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.2.0"
-
-**2023-08-21** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-21** — merged PR [#75](https://github.com/ZacSweers/ZacSweers/pull/75) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc02"
-
-**2023-08-21** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-21** — merged PR [#76](https://github.com/ZacSweers/ZacSweers/pull/76) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
