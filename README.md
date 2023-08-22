@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-22** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-22** — merged PR [#538](https://github.com/slackhq/slack-gradle-plugin/pull/538) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update agp to v8.1.1"
+
+**2023-08-22** — deleted branch `test-renovate/com.android.tools.build-gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-22** — merged PR [#539](https://github.com/slackhq/slack-gradle-plugin/pull/539) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.tools.build:gradle to v8.1.1"
+
+**2023-08-22** — opened PR [#39](https://github.com/slackhq/kotlin-cli-util/pull/39) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Split out ShellSentry program from CLI"
+
+**2023-08-22** — created branch `z/extensibleShellSentry` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-08-22** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-22** — merged PR [#77](https://github.com/ZacSweers/ZacSweers/pull/77) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc03"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-22** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-22** — merged PR [#78](https://github.com/ZacSweers/ZacSweers/pull/78) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc03"
-
-**2023-08-22** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-22** — merged PR [#479](https://github.com/ZacSweers/MoshiX/pull/479) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.1.1"
-
-**2023-08-21** — opened PR [#895](https://github.com/ZacSweers/CatchUp/pull/895) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update ci.yml"
-
-**2023-08-21** — created branch `z/removeCiWorkaround` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-21** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-08-21** — merged PR [#1668](https://github.com/square/kotlinpoet/pull/1668) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
