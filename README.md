@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-21** — opened PR [#895](https://github.com/ZacSweers/CatchUp/pull/895) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update ci.yml"
+
+**2023-08-21** — created branch `z/removeCiWorkaround` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-21** — deleted branch `renovate/mkdocs-material-9.x` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-08-21** — merged PR [#1668](https://github.com/square/kotlinpoet/pull/1668) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency mkdocs-material to v9.2.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-21** — deleted branch `z/smallNits` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-21** — merged PR [#530](https://github.com/slackhq/slack-gradle-plugin/pull/530) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix a couple more deprecated gradle APIs"
-
-**2023-08-21** — deleted branch `test-renovate/com.github.oshi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-21** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
