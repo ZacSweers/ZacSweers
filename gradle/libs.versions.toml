@@ -17,7 +17,7 @@ spotless = { id = "com.diffplug.spotless", version = "6.20.0" }
 clikt = "com.github.ajalt.clikt:clikt:4.2.0"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.1"
 compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.7.1"
-compose-material3 = "org.jetbrains.compose.material3:material3:1.5.0-rc02"
+compose-material3 = "org.jetbrains.compose.material3:material3:1.5.0-rc03"
 eithernet = "com.slack.eithernet:eithernet:1.5.0"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.4.0"
