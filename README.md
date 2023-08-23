@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-23** — merged PR [#814](https://github.com/slackhq/circuit/pull/814) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.2.3"
+
+**2023-08-23** — merged PR [#815](https://github.com/slackhq/circuit/pull/815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demonstrate back handling for Compose Multiplatform"
+
 **2023-08-23** — commented on [#1025](https://github.com/cashapp/paparazzi/issues/1025#issuecomment-1690223488) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-08-23** — commented on [#31](https://github.com/google/ksp/issues/31#issuecomment-1690212256) in [google/ksp](https://github.com/google/ksp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — merged PR [#164](https://github.com/ZacSweers/redacted-compiler-plugin/pull/164) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.10"
 
 **2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-23** — merged PR [#897](https://github.com/ZacSweers/CatchUp/pull/897) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.10"
-
-**2023-08-22** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-22** — merged PR [#81](https://github.com/ZacSweers/ZacSweers/pull/81) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
