@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-22** — opened PR [#40](https://github.com/slackhq/kotlin-cli-util/pull/40) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce extension API to ShellSentry"
+
+**2023-08-22** — created branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-22** — deleted branch `z/extensibleShellSentry` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-22** — merged PR [#39](https://github.com/slackhq/kotlin-cli-util/pull/39) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Split out ShellSentry program from CLI"
+
 **2023-08-22** — deleted branch `renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-22** — merged PR [#809](https://github.com/slackhq/circuit/pull/809) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v8.1.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-22** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-22** — merged PR [#79](https://github.com/ZacSweers/ZacSweers/pull/79) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.0-rc04"
-
-**2023-08-22** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-22** — merged PR [#80](https://github.com/ZacSweers/ZacSweers/pull/80) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0-rc04"
-
-**2023-08-22** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-22** — closed PR [#480](https://github.com/ZacSweers/MoshiX/pull/480) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-saturn-294"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
