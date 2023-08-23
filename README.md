@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — commented on [#1025](https://github.com/cashapp/paparazzi/issues/1025#issuecomment-1690223488) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2023-08-23** — commented on [#31](https://github.com/google/ksp/issues/31#issuecomment-1690212256) in [google/ksp](https://github.com/google/ksp)
+
 **2023-08-23** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-23** — merged PR [#810](https://github.com/slackhq/circuit/pull/810) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc04"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-22** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-22** — merged PR [#81](https://github.com/ZacSweers/ZacSweers/pull/81) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.0"
-
-**2023-08-22** — opened PR [#40](https://github.com/slackhq/kotlin-cli-util/pull/40) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce extension API to ShellSentry"
-
-**2023-08-22** — created branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
