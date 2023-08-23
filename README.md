@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-23** — merged PR [#899](https://github.com/ZacSweers/CatchUp/pull/899) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-beta04"
+
 **2023-08-23** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-23** — merged PR [#898](https://github.com/ZacSweers/CatchUp/pull/898) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha07"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-23** — merged PR [#902](https://github.com/ZacSweers/CatchUp/pull/902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0-rc01"
-
-**2023-08-23** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-23** — merged PR [#903](https://github.com/ZacSweers/CatchUp/pull/903) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
