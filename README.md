@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-23** — deleted branch `z/removeCiWorkaround` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-08-23** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-23** — merged PR [#895](https://github.com/ZacSweers/CatchUp/pull/895) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update ci.yml"
+**2023-08-23** — merged PR [#898](https://github.com/ZacSweers/CatchUp/pull/898) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha07"
 
-**2023-08-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-23** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-23** — merged PR [#814](https://github.com/slackhq/circuit/pull/814) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.2.3"
+**2023-08-23** — merged PR [#900](https://github.com/ZacSweers/CatchUp/pull/900) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha04"
 
-**2023-08-23** — merged PR [#815](https://github.com/slackhq/circuit/pull/815) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demonstrate back handling for Compose Multiplatform"
+**2023-08-23** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-23** — commented on [#1025](https://github.com/cashapp/paparazzi/issues/1025#issuecomment-1690223488) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+**2023-08-23** — merged PR [#901](https://github.com/ZacSweers/CatchUp/pull/901) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha06"
 
-**2023-08-23** — commented on [#31](https://github.com/google/ksp/issues/31#issuecomment-1690212256) in [google/ksp](https://github.com/google/ksp)
+**2023-08-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-23** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-23** — merged PR [#902](https://github.com/ZacSweers/CatchUp/pull/902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0-rc01"
 
-**2023-08-23** — merged PR [#810](https://github.com/slackhq/circuit/pull/810) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc04"
+**2023-08-23** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-08-23** — merged PR [#903](https://github.com/ZacSweers/CatchUp/pull/903) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
