@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — deleted branch `z/removeCiWorkaround` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-23** — merged PR [#895](https://github.com/ZacSweers/CatchUp/pull/895) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update ci.yml"
+
 **2023-08-23** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-23** — merged PR [#814](https://github.com/slackhq/circuit/pull/814) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.2.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — merged PR [#810](https://github.com/slackhq/circuit/pull/810) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc04"
 
 **2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-08-23** — merged PR [#164](https://github.com/ZacSweers/redacted-compiler-plugin/pull/164) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.10"
-
-**2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
