@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-23** — merged PR [#810](https://github.com/slackhq/circuit/pull/810) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.5.0-rc04"
+
+**2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-08-23** — merged PR [#164](https://github.com/ZacSweers/redacted-compiler-plugin/pull/164) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.10"
+
+**2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-23** — merged PR [#897](https://github.com/ZacSweers/CatchUp/pull/897) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.10"
+
 **2023-08-22** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-08-22** — merged PR [#81](https://github.com/ZacSweers/ZacSweers/pull/81) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-22** — opened PR [#40](https://github.com/slackhq/kotlin-cli-util/pull/40) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce extension API to ShellSentry"
 
 **2023-08-22** — created branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-22** — deleted branch `z/extensibleShellSentry` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-22** — merged PR [#39](https://github.com/slackhq/kotlin-cli-util/pull/39) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Split out ShellSentry program from CLI"
-
-**2023-08-22** — deleted branch `renovate/agp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-22** — merged PR [#809](https://github.com/slackhq/circuit/pull/809) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update agp to v8.1.1"
-
-**2023-08-22** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-22** — merged PR [#896](https://github.com/ZacSweers/CatchUp/pull/896) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
