@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-24** — created tag `2.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-24** — opened PR [#908](https://github.com/ZacSweers/CatchUp/pull/908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate ShellSentry w/ AI"
+
+**2023-08-24** — created branch `z/processSentry` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-24** — deleted branch `z/miscStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-24** — merged PR [#894](https://github.com/ZacSweers/CatchUp/pull/894) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-24** — merged PR [#904](https://github.com/ZacSweers/CatchUp/pull/904) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.10-1.0.13"
 
 **2023-08-24** — deleted branch `dependabot/gradle/kotlin-1.9.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-24** — merged PR [#41](https://github.com/slackhq/kotlin-cli-util/pull/41) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.0 to 1.9.10"
-
-**2023-08-24** — created tag `2.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-24** — deleted branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
