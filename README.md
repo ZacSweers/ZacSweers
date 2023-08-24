@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-24** — deleted branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-24** — merged PR [#40](https://github.com/slackhq/kotlin-cli-util/pull/40) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce extension API to ShellSentry"
+
 **2023-08-24** — deleted branch `cb/kmp-source-sets` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2023-08-24** — merged PR [#822](https://github.com/slackhq/circuit/pull/822) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use the default target hierarchy for source sets"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-23** — merged PR [#482](https://github.com/uber/AutoDispose/pull/482) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.0-1.0.13 to 1.9.10-1.0.13"
-
-**2023-08-23** — deleted branch `dependabot/gradle/io.reactivex.rxjava3-rxjava-3.1.7` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-23** — merged PR [#483](https://github.com/uber/AutoDispose/pull/483) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump io.reactivex.rxjava3:rxjava from 3.1.6 to 3.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
