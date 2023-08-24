@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-24** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-24** — merged PR [#904](https://github.com/ZacSweers/CatchUp/pull/904) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.10-1.0.13"
+
+**2023-08-24** — deleted branch `dependabot/gradle/kotlin-1.9.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-24** — merged PR [#41](https://github.com/slackhq/kotlin-cli-util/pull/41) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.0 to 1.9.10"
+
+**2023-08-24** — created tag `2.2.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-08-24** — deleted branch `z/extensions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-08-24** — merged PR [#40](https://github.com/slackhq/kotlin-cli-util/pull/40) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce extension API to ShellSentry"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-24** — merged PR [#822](https://github.com/slackhq/circuit/pull/822) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use the default target hierarchy for source sets"
 
 **2023-08-24** — deleted branch `dependabot/gradle/jvm-1.9.10` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2023-08-24** — merged PR [#55](https://github.com/slackhq/moshi-gson-interop/pull/55) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.0 to 1.9.10"
-
-**2023-08-24** — deleted branch `dependabot/gradle/kotlin-1.9.10` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-24** — merged PR [#484](https://github.com/uber/AutoDispose/pull/484) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.0 to 1.9.10"
-
-**2023-08-23** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-23** — merged PR [#482](https://github.com/uber/AutoDispose/pull/482) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.0-1.0.13 to 1.9.10-1.0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
