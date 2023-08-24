@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-23** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-08-23** — merged PR [#165](https://github.com/ZacSweers/redacted-compiler-plugin/pull/165) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.10-1.0.13"
+
+**2023-08-23** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-08-23** — merged PR [#1674](https://github.com/square/kotlinpoet/pull/1674) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency com.google.devtools.ksp to v1.9.10-1.0.13"
+
+**2023-08-23** — merged PR [#83](https://github.com/ZacSweers/ZacSweers/pull/83) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.10-1.0.13"
+
+**2023-08-23** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2023-08-23** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-23** — merged PR [#899](https://github.com/ZacSweers/CatchUp/pull/899) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-beta04"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-23** — merged PR [#898](https://github.com/ZacSweers/CatchUp/pull/898) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-alpha07"
-
-**2023-08-23** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-23** — merged PR [#900](https://github.com/ZacSweers/CatchUp/pull/900) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha04"
-
-**2023-08-23** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-23** — merged PR [#901](https://github.com/ZacSweers/CatchUp/pull/901) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha06"
-
-**2023-08-23** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-23** — merged PR [#902](https://github.com/ZacSweers/CatchUp/pull/902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
