@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-24** — deleted branch `cb/kmp-source-sets` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2023-08-24** — merged PR [#822](https://github.com/slackhq/circuit/pull/822) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use the default target hierarchy for source sets"
+
+**2023-08-24** — deleted branch `dependabot/gradle/jvm-1.9.10` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-08-24** — merged PR [#55](https://github.com/slackhq/moshi-gson-interop/pull/55) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.0 to 1.9.10"
+
+**2023-08-24** — deleted branch `dependabot/gradle/kotlin-1.9.10` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-08-24** — merged PR [#484](https://github.com/uber/AutoDispose/pull/484) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.0 to 1.9.10"
+
 **2023-08-23** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-23** — merged PR [#482](https://github.com/uber/AutoDispose/pull/482) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.0-1.0.13 to 1.9.10-1.0.13"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-23** — deleted branch `dependabot/gradle/io.reactivex.rxjava3-rxjava-3.1.7` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-23** — merged PR [#483](https://github.com/uber/AutoDispose/pull/483) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump io.reactivex.rxjava3:rxjava from 3.1.6 to 3.1.7"
-
-**2023-08-23** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-08-23** — merged PR [#60](https://github.com/ZacSweers/auto-service-ksp/pull/60) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.10"
-
-**2023-08-23** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-08-23** — merged PR [#61](https://github.com/ZacSweers/auto-service-ksp/pull/61) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.10-1.0.13"
-
-**2023-08-23** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-08-23** — merged PR [#165](https://github.com/ZacSweers/redacted-compiler-plugin/pull/165) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.10-1.0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
