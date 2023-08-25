@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-25** — Could not load GitHub activity. Please check back later.
+**2023-08-24** — created tag `2.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-08-24** — opened PR [#908](https://github.com/ZacSweers/CatchUp/pull/908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate ShellSentry w/ AI"
+
+**2023-08-24** — created branch `z/processSentry` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-24** — deleted branch `z/miscStuff` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-24** — merged PR [#894](https://github.com/ZacSweers/CatchUp/pull/894) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
+
+**2023-08-24** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-24** — merged PR [#905](https://github.com/ZacSweers/CatchUp/pull/905) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.2.0-beta01"
+
+**2023-08-24** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-24** — merged PR [#904](https://github.com/ZacSweers/CatchUp/pull/904) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.10-1.0.13"
+
+**2023-08-24** — deleted branch `dependabot/gradle/kotlin-1.9.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
