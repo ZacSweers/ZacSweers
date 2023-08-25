@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-25** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-25** — merged PR [#127](https://github.com/slackhq/slack-lints/pull/127) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.1"
+
+**2023-08-25** — merged PR [#129](https://github.com/slackhq/slack-lints/pull/129) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-beta01"
+
 **2023-08-25** — opened PR [#548](https://github.com/slackhq/slack-gradle-plugin/pull/548) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upstream tracing APIs in a generalized way"
 
 **2023-08-25** — created branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — created branch `z/buildToolsOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-25** — created branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-25** — opened PR [#42](https://github.com/slackhq/kotlin-cli-util/pull/42) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Improve logging in ResultProcessor"
-
-**2023-08-25** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-25** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-25** — merged PR [#911](https://github.com/ZacSweers/CatchUp/pull/911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.213.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
