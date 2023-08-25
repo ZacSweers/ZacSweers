@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-25** — opened PR [#42](https://github.com/slackhq/kotlin-cli-util/pull/42) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Improve logging in ResultProcessor"
+
+**2023-08-25** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-08-25** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-25** — merged PR [#911](https://github.com/ZacSweers/CatchUp/pull/911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.213.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-25** — merged PR [#906](https://github.com/ZacSweers/CatchUp/pull/906) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.2"
-
-**2023-08-24** — created tag `2.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-08-24** — opened PR [#908](https://github.com/ZacSweers/CatchUp/pull/908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate ShellSentry w/ AI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
