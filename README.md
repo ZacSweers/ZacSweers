@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-25** — opened PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
+
+**2023-08-25** — opened PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
+
+**2023-08-25** — created branch `z/buildToolsOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-25** — created branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-25** — opened PR [#42](https://github.com/slackhq/kotlin-cli-util/pull/42) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Improve logging in ResultProcessor"
 
 **2023-08-25** — created branch `z/logging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-25** — merged PR [#910](https://github.com/ZacSweers/CatchUp/pull/910) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.42.0.1"
-
-**2023-08-25** — deleted branch `renovate/androidx.fragment` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-25** — merged PR [#907](https://github.com/ZacSweers/CatchUp/pull/907) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha03"
-
-**2023-08-25** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-25** — merged PR [#906](https://github.com/ZacSweers/CatchUp/pull/906) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
