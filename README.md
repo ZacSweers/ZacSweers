@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-25** — opened PR [#548](https://github.com/slackhq/slack-gradle-plugin/pull/548) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upstream tracing APIs in a generalized way"
+
+**2023-08-25** — created branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-08-25** — opened PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
 
 **2023-08-25** — opened PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-25** — merged PR [#911](https://github.com/ZacSweers/CatchUp/pull/911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.213.0"
-
-**2023-08-25** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-25** — merged PR [#910](https://github.com/ZacSweers/CatchUp/pull/910) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.42.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
