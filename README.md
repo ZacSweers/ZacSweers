@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-26** — created branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-26** — merged PR [#823](https://github.com/slackhq/circuit/pull/823) to [slackhq/circuit](https://github.com/slackhq/circuit): "Duplicated modifier for decorated content"
 
 **2023-08-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — opened PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
 
 **2023-08-25** — opened PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
-
-**2023-08-25** — created branch `z/buildToolsOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
