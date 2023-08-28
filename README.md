@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-28** — closed PR [#818](https://github.com/slackhq/circuit/pull/818) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.2"
+
+**2023-08-28** — commented on [#818](https://github.com/slackhq/circuit/pull/818#issuecomment-1696019415) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-28** — deleted branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-28** — closed issue [#827](https://github.com/slackhq/circuit/issues/827) on [slackhq/circuit](https://github.com/slackhq/circuit): "Can not provide own BackStack implementation"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-28** — commented on [#821](https://github.com/slackhq/circuit/pull/821#issuecomment-1695840707) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-28** — closed PR [#821](https://github.com/slackhq/circuit/pull/821) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.10-1.0.13"
-
-**2023-08-28** — opened PR [#912](https://github.com/ZacSweers/CatchUp/pull/912) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use upstream telephoto flick"
-
-**2023-08-28** — created branch `z/updateFlick` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-28** — opened issue [#42](https://github.com/saket/telephoto/issues/42) on [saket/telephoto](https://github.com/saket/telephoto): "FR: Expose APIs to apply elevation and shape to the internal `AsyncImage` in `ZoomableAsyncImage`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
