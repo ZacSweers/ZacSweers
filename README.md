@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-08-28** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-28** — deleted branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — closed PR [#818](https://github.com/slackhq/circuit/pull/818) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.2"
+**2023-08-28** — merged PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
 
-**2023-08-28** — commented on [#818](https://github.com/slackhq/circuit/pull/818#issuecomment-1696019415) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-28** — deleted branch `test-renovate/kotlin-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — deleted branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-28** — merged PR [#543](https://github.com/slackhq/slack-gradle-plugin/pull/543) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin monorepo to v1.9.10"
 
-**2023-08-28** — closed issue [#827](https://github.com/slackhq/circuit/issues/827) on [slackhq/circuit](https://github.com/slackhq/circuit): "Can not provide own BackStack implementation"
+**2023-08-28** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — merged PR [#829](https://github.com/slackhq/circuit/pull/829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Promote Screen to BackStack proper APIs"
+**2023-08-28** — merged PR [#541](https://github.com/slackhq/slack-gradle-plugin/pull/541) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.2.5"
 
-**2023-08-28** — opened PR [#829](https://github.com/slackhq/circuit/pull/829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pomote Screen to BackStack proper APIs"
+**2023-08-28** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-28** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — commented on [#821](https://github.com/slackhq/circuit/pull/821#issuecomment-1695840707) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-08-28** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-08-28** — closed PR [#821](https://github.com/slackhq/circuit/pull/821) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.10-1.0.13"
+**2023-08-28** — merged PR [#542](https://github.com/slackhq/slack-gradle-plugin/pull/542) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
