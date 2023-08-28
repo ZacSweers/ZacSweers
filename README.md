@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — deleted branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-28** — closed issue [#827](https://github.com/slackhq/circuit/issues/827) on [slackhq/circuit](https://github.com/slackhq/circuit): "Can not provide own BackStack implementation"
+
+**2023-08-28** — merged PR [#829](https://github.com/slackhq/circuit/pull/829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Promote Screen to BackStack proper APIs"
+
 **2023-08-28** — opened PR [#829](https://github.com/slackhq/circuit/pull/829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pomote Screen to BackStack proper APIs"
 
 **2023-08-28** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-28** — created branch `z/updateFlick` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-28** — opened issue [#42](https://github.com/saket/telephoto/issues/42) on [saket/telephoto](https://github.com/saket/telephoto): "FR: Expose APIs to apply elevation and shape to the internal `AsyncImage` in `ZoomableAsyncImage`"
-
-**2023-08-26** — created branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-26** — merged PR [#823](https://github.com/slackhq/circuit/pull/823) to [slackhq/circuit](https://github.com/slackhq/circuit): "Duplicated modifier for decorated content"
-
-**2023-08-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
