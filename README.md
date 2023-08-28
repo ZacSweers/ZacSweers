@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — opened issue [#42](https://github.com/saket/telephoto/issues/42) on [saket/telephoto](https://github.com/saket/telephoto): "FR: Expose APIs to apply elevation and shape to the internal `AsyncImage` in `ZoomableAsyncImage`"
+
 **2023-08-26** — created branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-26** — merged PR [#823](https://github.com/slackhq/circuit/pull/823) to [slackhq/circuit](https://github.com/slackhq/circuit): "Duplicated modifier for decorated content"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-25** — created branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-25** — opened PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
-
-**2023-08-25** — opened PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
