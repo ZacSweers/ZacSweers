@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — opened PR [#829](https://github.com/slackhq/circuit/pull/829) to [slackhq/circuit](https://github.com/slackhq/circuit): "Pomote Screen to BackStack proper APIs"
+
+**2023-08-28** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-28** — commented on [#821](https://github.com/slackhq/circuit/pull/821#issuecomment-1695840707) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-28** — closed PR [#821](https://github.com/slackhq/circuit/pull/821) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.10-1.0.13"
+
+**2023-08-28** — opened PR [#912](https://github.com/ZacSweers/CatchUp/pull/912) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Use upstream telephoto flick"
+
+**2023-08-28** — created branch `z/updateFlick` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-08-28** — opened issue [#42](https://github.com/saket/telephoto/issues/42) on [saket/telephoto](https://github.com/saket/telephoto): "FR: Expose APIs to apply elevation and shape to the internal `AsyncImage` in `ZoomableAsyncImage`"
 
 **2023-08-26** — created branch `z/improveBackstacks` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-26** — merged PR [#823](https://github.com/slackhq/circuit/pull/823) to [slackhq/circuit](https://github.com/slackhq/circuit): "Duplicated modifier for decorated content"
 
 **2023-08-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-25** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-08-25** — merged PR [#127](https://github.com/slackhq/slack-lints/pull/127) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.1"
-
-**2023-08-25** — merged PR [#129](https://github.com/slackhq/slack-lints/pull/129) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.2.0-beta01"
-
-**2023-08-25** — opened PR [#548](https://github.com/slackhq/slack-gradle-plugin/pull/548) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upstream tracing APIs in a generalized way"
-
-**2023-08-25** — created branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-25** — opened PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
