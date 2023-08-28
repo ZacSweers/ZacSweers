@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — opened issue [#1065](https://github.com/cashapp/paparazzi/issues/1065) on [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Native crash when rendering in parallel"
+
 **2023-08-28** — deleted branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-28** — merged PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-28** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-28** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — merged PR [#542](https://github.com/slackhq/slack-gradle-plugin/pull/542) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency io.reactivex.rxjava3:rxjava to v3.1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
