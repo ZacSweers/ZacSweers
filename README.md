@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-29** — deleted branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-29** — merged PR [#548](https://github.com/slackhq/slack-gradle-plugin/pull/548) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upstream tracing APIs in a generalized way"
+
 **2023-08-28** — commented on [#1065](https://github.com/cashapp/paparazzi/issues/1065#issuecomment-1696676825) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-08-28** — opened issue [#1065](https://github.com/cashapp/paparazzi/issues/1065) on [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Native crash when rendering in parallel"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-28** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-28** — merged PR [#541](https://github.com/slackhq/slack-gradle-plugin/pull/541) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.2.5"
-
-**2023-08-28** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
