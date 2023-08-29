@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-08-29** — merged PR [#131](https://github.com/slackhq/slack-lints/pull/131) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.diffplug.spotless from 6.20.0 to 6.21.0"
+
 **2023-08-29** — created tag `0.10.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-29** — merged PR [#550](https://github.com/slackhq/slack-gradle-plugin/pull/550) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.5.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-29** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-29** — deleted branch `z/buildToolsOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-29** — merged PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
-
-**2023-08-29** — deleted branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
