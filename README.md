@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-28** — commented on [#1065](https://github.com/cashapp/paparazzi/issues/1065#issuecomment-1696676825) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
 **2023-08-28** — opened issue [#1065](https://github.com/cashapp/paparazzi/issues/1065) on [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Native crash when rendering in parallel"
 
 **2023-08-28** — deleted branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-28** — deleted branch `test-renovate/com.android.tools-common-31.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-28** — deleted branch `test-renovate/com.slack.cli` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — deleted branch `test-renovate/io.reactivex.rxjava3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
