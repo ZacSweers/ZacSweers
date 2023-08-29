@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-29** — merged PR [#550](https://github.com/slackhq/slack-gradle-plugin/pull/550) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.5.0"
+
+**2023-08-29** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-08-29** — merged PR [#56](https://github.com/slackhq/moshi-gson-interop/pull/56) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.20.0 to 6.21.0"
+
+**2023-08-29** — merged PR [#549](https://github.com/slackhq/slack-gradle-plugin/pull/549) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.diffplug.spotless:spotless-plugin-gradle to v6.21.0"
+
+**2023-08-29** — deleted branch `test-renovate/spotless` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-29** — deleted branch `z/buildToolsOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-08-29** — merged PR [#547](https://github.com/slackhq/slack-gradle-plugin/pull/547) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add buildToolsVersionOverride"
+
 **2023-08-29** — deleted branch `z/tracing` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-29** — merged PR [#548](https://github.com/slackhq/slack-gradle-plugin/pull/548) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Upstream tracing APIs in a generalized way"
-
-**2023-08-28** — commented on [#1065](https://github.com/cashapp/paparazzi/issues/1065#issuecomment-1696676825) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
-
-**2023-08-28** — opened issue [#1065](https://github.com/cashapp/paparazzi/issues/1065) on [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Native crash when rendering in parallel"
-
-**2023-08-28** — deleted branch `z/useAndroidPluginVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — merged PR [#546](https://github.com/slackhq/slack-gradle-plugin/pull/546) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to `AndroidPluginVersion` in `AgpHandler` APIs"
-
-**2023-08-28** — deleted branch `test-renovate/kotlin-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — merged PR [#543](https://github.com/slackhq/slack-gradle-plugin/pull/543) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin monorepo to v1.9.10"
-
-**2023-08-28** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-28** — merged PR [#541](https://github.com/slackhq/slack-gradle-plugin/pull/541) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.2.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
