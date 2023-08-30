@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-30** — deleted branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-30** — merged PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
+
 **2023-08-30** — opened PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
 
 **2023-08-30** — created branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-29** — merged PR [#485](https://github.com/uber/AutoDispose/pull/485) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.20.0 to 6.21.0"
-
-**2023-08-29** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-29** — merged PR [#915](https://github.com/ZacSweers/CatchUp/pull/915) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
