@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-30** — created tag `0.14.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-30** — closed issue [#826](https://github.com/slackhq/circuit/issues/826) on [slackhq/circuit](https://github.com/slackhq/circuit): "rememberRetained can never work on non-Android platforms"
+
+**2023-08-30** — commented on [#826](https://github.com/slackhq/circuit/issues/826#issuecomment-1699818341) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-30** — deleted branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-30** — merged PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-30** — merged PR [#834](https://github.com/slackhq/circuit/pull/834) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CanRetainChecker API more customizable"
 
 **2023-08-30** — opened PR [#834](https://github.com/slackhq/circuit/pull/834) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CanRetainChecker API more customizable"
-
-**2023-08-30** — created branch `z/retainApiTweak` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-29** — merged PR [#485](https://github.com/uber/AutoDispose/pull/485) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.20.0 to 6.21.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
