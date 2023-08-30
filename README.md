@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-30** — opened PR [#834](https://github.com/slackhq/circuit/pull/834) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CanRetainChecker API more customizable"
+
+**2023-08-30** — created branch `z/retainApiTweak` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-08-29** — merged PR [#485](https://github.com/uber/AutoDispose/pull/485) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.20.0 to 6.21.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-29** — created tag `0.10.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-08-29** — merged PR [#550](https://github.com/slackhq/slack-gradle-plugin/pull/550) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.5.0"
-
-**2023-08-29** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-08-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.21.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
