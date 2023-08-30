@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-30** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-30** — merged PR [#920](https://github.com/ZacSweers/CatchUp/pull/920) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.214.0"
+
 **2023-08-30** — created tag `0.14.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-30** — closed issue [#826](https://github.com/slackhq/circuit/issues/826) on [slackhq/circuit](https://github.com/slackhq/circuit): "rememberRetained can never work on non-Android platforms"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-30** — created branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-08-30** — deleted branch `z/retainApiTweak` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-30** — merged PR [#834](https://github.com/slackhq/circuit/pull/834) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CanRetainChecker API more customizable"
-
-**2023-08-30** — opened PR [#834](https://github.com/slackhq/circuit/pull/834) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make CanRetainChecker API more customizable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
