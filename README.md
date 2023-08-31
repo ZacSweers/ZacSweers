@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-31** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-31** — merged PR [#914](https://github.com/ZacSweers/CatchUp/pull/914) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.43.0.0"
+
+**2023-08-31** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-08-31** — merged PR [#913](https://github.com/ZacSweers/CatchUp/pull/913) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.21.0"
+
 **2023-08-31** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-31** — merged PR [#918](https://github.com/ZacSweers/CatchUp/pull/918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-beta05"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-31** — merged PR [#88](https://github.com/ZacSweers/ZacSweers/pull/88) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.4"
 
 **2023-08-31** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-08-31** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-08-31** — merged PR [#484](https://github.com/ZacSweers/MoshiX/pull/484) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.9.0"
-
-**2023-08-31** — deleted branch `z/uploadProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-31** — merged PR [#841](https://github.com/slackhq/circuit/pull/841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upload successful baseline profiles"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
