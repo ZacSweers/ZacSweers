@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-30** — opened PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
 
 **2023-08-30** — created branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-30** — deleted branch `z/retainApiTweak` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
