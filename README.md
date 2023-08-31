@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-31** — opened PR [#841](https://github.com/slackhq/circuit/pull/841) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upload successful baseline profiles"
+
+**2023-08-31** — created branch `z/uploadProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-08-31** — deleted branch `cb/gesture-navigation` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2023-08-31** — merged PR [#840](https://github.com/slackhq/circuit/pull/840) to [slackhq/circuit](https://github.com/slackhq/circuit): "[CircuitX] Add Gesture Navigation Decoration"
+
+**2023-08-31** — opened issue [#922](https://github.com/ZacSweers/CatchUp/issues/922) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to new Dagger SPI API"
+
 **2023-08-30** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-30** — merged PR [#920](https://github.com/ZacSweers/CatchUp/pull/920) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.214.0"
@@ -13,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-30** — closed issue [#826](https://github.com/slackhq/circuit/issues/826) on [slackhq/circuit](https://github.com/slackhq/circuit): "rememberRetained can never work on non-Android platforms"
 
 **2023-08-30** — commented on [#826](https://github.com/slackhq/circuit/issues/826#issuecomment-1699818341) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-30** — deleted branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-08-30** — merged PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
-
-**2023-08-30** — opened PR [#835](https://github.com/slackhq/circuit/pull/835) to [slackhq/circuit](https://github.com/slackhq/circuit): "Upstream some navigation improvements from Tivi"
-
-**2023-08-30** — created branch `z/navigationImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
