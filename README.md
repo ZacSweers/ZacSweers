@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-01** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-09-01** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-01** — merged PR [#132](https://github.com/slackhq/slack-lints/pull/132) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin dokka to v1.9.0"
+**2023-09-01** — merged PR [#917](https://github.com/ZacSweers/CatchUp/pull/917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.48"
 
-**2023-09-01** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-784-5ea54039a9e5364430e2f80fd8bc2dba0c3031c6` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — merged PR [#85](https://github.com/ZacSweers/ZacSweers/pull/85) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0"
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-702-3f3f3d5739c2e651428b6eb633fb5adeb2d15178` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — deleted branch `renovate/com.mikepenz` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-09-01** — deleted branch `z/improvedReauth` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — merged PR [#87](https://github.com/ZacSweers/ZacSweers/pull/87) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.8.0"
+**2023-09-01** — deleted branch `ke/wizard-sample-app` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-535-a1a6d80f44f46123b4da33156f7fac6c1f8c09d0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — merged PR [#57](https://github.com/slackhq/moshi-gson-interop/pull/57) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-513-c299ceb70a8edf0dd3d56c6fc1b3c04dce855238` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-513-35f15c9881e096687cb9f777d281ef9ee07311cf` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-09-01** — merged PR [#62](https://github.com/ZacSweers/auto-service-ksp/pull/62) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v6.21.0"
+**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-539-b2aa3ef28d01811bbdd449205a39c478c3afc084` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
