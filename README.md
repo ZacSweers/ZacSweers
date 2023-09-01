@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-01** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-01** — merged PR [#132](https://github.com/slackhq/slack-lints/pull/132) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin dokka to v1.9.0"
+
 **2023-09-01** — deleted branch `renovate/org.jetbrains.compose.material3` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-09-01** — merged PR [#85](https://github.com/ZacSweers/ZacSweers/pull/85) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-09-01** — merged PR [#62](https://github.com/ZacSweers/auto-service-ksp/pull/62) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v6.21.0"
-
-**2023-09-01** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-09-01** — merged PR [#63](https://github.com/ZacSweers/auto-service-ksp/pull/63) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
