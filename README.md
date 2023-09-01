@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-01** — merged PR [#843](https://github.com/slackhq/circuit/pull/843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve logic for initial backstack setup in star"
+
+**2023-09-01** — opened PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
+
+**2023-09-01** — created branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-09-01** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-01** — merged PR [#115](https://github.com/slackhq/slack-lints/pull/115) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.10-1.0.13 + other stuff"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-01** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1703191118) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-01** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-01** — merged PR [#556](https://github.com/slackhq/slack-gradle-plugin/pull/556) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.dokka to v1.9.0"
-
-**2023-09-01** — opened PR [#558](https://github.com/slackhq/slack-gradle-plugin/pull/558) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Exclude slf4j from bugsnag dep"
-
-**2023-09-01** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
