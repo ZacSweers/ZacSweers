@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-01** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-01** — merged PR [#926](https://github.com/ZacSweers/CatchUp/pull/926) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.215.1"
+
 **2023-09-01** — merged PR [#843](https://github.com/slackhq/circuit/pull/843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve logic for initial backstack setup in star"
 
 **2023-09-01** — opened PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-01** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.5.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-01** — merged PR [#123](https://github.com/slackhq/slack-lints/pull/123) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.4.1 to 1.5.0"
-
-**2023-09-01** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1703191118) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-01** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
