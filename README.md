@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-08-31** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-08-31** — merged PR [#486](https://github.com/uber/AutoDispose/pull/486) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
+
 **2023-08-31** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-08-31** — merged PR [#914](https://github.com/ZacSweers/CatchUp/pull/914) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.43.0.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-08-31** — merged PR [#921](https://github.com/ZacSweers/CatchUp/pull/921) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.215.0"
 
 **2023-08-31** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-31** — merged PR [#88](https://github.com/ZacSweers/ZacSweers/pull/88) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.4"
-
-**2023-08-31** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
