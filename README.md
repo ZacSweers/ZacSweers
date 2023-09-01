@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-01** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-09-01** — merged PR [#57](https://github.com/slackhq/moshi-gson-interop/pull/57) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
+
+**2023-09-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-09-01** — merged PR [#62](https://github.com/ZacSweers/auto-service-ksp/pull/62) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v6.21.0"
+
 **2023-09-01** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-09-01** — merged PR [#63](https://github.com/ZacSweers/auto-service-ksp/pull/63) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-01** — deleted branch `renovate/org.jetbrains.kotlinx` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-01** — merged PR [#923](https://github.com/ZacSweers/CatchUp/pull/923) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.4.1"
-
-**2023-08-31** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-08-31** — merged PR [#486](https://github.com/uber/AutoDispose/pull/486) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
-
-**2023-08-31** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-08-31** — merged PR [#914](https://github.com/ZacSweers/CatchUp/pull/914) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.43.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
