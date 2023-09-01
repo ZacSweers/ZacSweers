@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-01** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-01** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-01** — merged PR [#917](https://github.com/ZacSweers/CatchUp/pull/917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.48"
+**2023-09-01** — merged PR [#115](https://github.com/slackhq/slack-lints/pull/115) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.10-1.0.13 + other stuff"
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-784-5ea54039a9e5364430e2f80fd8bc2dba0c3031c6` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1703202664) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-702-3f3f3d5739c2e651428b6eb633fb5adeb2d15178` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.5.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-01** — deleted branch `z/improvedReauth` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — merged PR [#123](https://github.com/slackhq/slack-lints/pull/123) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.4.1 to 1.5.0"
 
-**2023-09-01** — deleted branch `ke/wizard-sample-app` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1703191118) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-535-a1a6d80f44f46123b4da33156f7fac6c1f8c09d0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — deleted branch `test-renovate/dokka` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-513-c299ceb70a8edf0dd3d56c6fc1b3c04dce855238` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — merged PR [#556](https://github.com/slackhq/slack-gradle-plugin/pull/556) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.dokka to v1.9.0"
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-513-35f15c9881e096687cb9f777d281ef9ee07311cf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — opened PR [#558](https://github.com/slackhq/slack-gradle-plugin/pull/558) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Exclude slf4j from bugsnag dep"
 
-**2023-09-01** — deleted branch `gh-readonly-queue/main/pr-539-b2aa3ef28d01811bbdd449205a39c478c3afc084` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-01** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
