@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-02** — opened issue [#927](https://github.com/ZacSweers/CatchUp/issues/927) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Per-service preferences"
+
 **2023-09-02** — commented on [#42](https://github.com/saket/telephoto/issues/42#issuecomment-1703902193) in [saket/telephoto](https://github.com/saket/telephoto)
 
 **2023-09-02** — deleted branch `renovate/renovatebot-github-action-36.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-01** — opened PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
 
 **2023-09-01** — created branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-01** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
