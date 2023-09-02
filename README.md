@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-02** — deleted branch `z/fixTrendingParsing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-02** — merged PR [#928](https://github.com/ZacSweers/CatchUp/pull/928) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Small github service fixes"
+
+**2023-09-02** — opened PR [#928](https://github.com/ZacSweers/CatchUp/pull/928) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Small github service fixes"
+
+**2023-09-02** — created branch `z/fixTrendingParsing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-09-02** — opened issue [#927](https://github.com/ZacSweers/CatchUp/issues/927) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Per-service preferences"
 
 **2023-09-02** — commented on [#42](https://github.com/saket/telephoto/issues/42#issuecomment-1703902193) in [saket/telephoto](https://github.com/saket/telephoto)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-02** — commented on [#908](https://github.com/ZacSweers/CatchUp/pull/908#issuecomment-1703684076) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-01** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-01** — merged PR [#926](https://github.com/ZacSweers/CatchUp/pull/926) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.215.1"
-
-**2023-09-01** — merged PR [#843](https://github.com/slackhq/circuit/pull/843) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve logic for initial backstack setup in star"
-
-**2023-09-01** — opened PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
-
-**2023-09-01** — created branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
