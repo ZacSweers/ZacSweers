@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-03** — merged PR [#490](https://github.com/ZacSweers/MoshiX/pull/490) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.2"
+
+**2023-09-03** — deleted branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-03** — merged PR [#933](https://github.com/ZacSweers/CatchUp/pull/933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Initial bit of KMP support"
+
 **2023-09-03** — created tag `0.14.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-03** — deleted branch `renovate/renovatebot-github-action-39.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-03** — opened PR [#933](https://github.com/ZacSweers/CatchUp/pull/933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Initial bit of KMP support"
 
 **2023-09-03** — created branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-03** — closed issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuration name in gradle subplugin"
-
-**2023-09-03** — commented on [#488](https://github.com/ZacSweers/MoshiX/issues/488#issuecomment-1704383278) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-03** — created tag `0.24.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-03** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1704374438) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
