@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-02** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1703990998) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-09-02** — opened issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
 
-**2023-09-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-09-02** — opened issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuratoin name in gradle subplugin"
 
-**2023-09-02** — closed PR [#482](https://github.com/ZacSweers/MoshiX/pull/482) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.10-1.0.13"
+**2023-09-02** — created tag `1.6.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-09-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-09-02** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-09-02** — merged PR [#483](https://github.com/ZacSweers/MoshiX/pull/483) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.21.0"
+**2023-09-02** — merged PR [#167](https://github.com/ZacSweers/redacted-compiler-plugin/pull/167) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.0"
 
-**2023-09-02** — opened issue [#485](https://github.com/ZacSweers/MoshiX/issues/485) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Gracefully handle multiplatform JVM projects"
+**2023-09-02** — deleted branch `z/fixConfigurationName` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-09-02** — deleted branch `z/restructure` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-02** — merged PR [#168](https://github.com/ZacSweers/redacted-compiler-plugin/pull/168) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Simplify configuration name resolution"
 
-**2023-09-02** — merged PR [#930](https://github.com/ZacSweers/CatchUp/pull/930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Restructure packages to align on catchup.*"
+**2023-09-02** — created tag `0.24.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-09-02** — opened PR [#930](https://github.com/ZacSweers/CatchUp/pull/930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Restructure packages to align on catchup.*"
+**2023-09-02** — deleted branch `z/fixImplRef` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-09-02** — created branch `z/restructure` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-02** — closed issue [#485](https://github.com/ZacSweers/MoshiX/issues/485) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Gracefully handle multiplatform JVM projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
