@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-02** — opened issue [#929](https://github.com/ZacSweers/CatchUp/issues/929) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Multiplatform support"
+**2023-09-02** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-1703990998) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-09-02** — deleted branch `z/fixTrendingParsing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-02** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-09-02** — merged PR [#928](https://github.com/ZacSweers/CatchUp/pull/928) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Small github service fixes"
+**2023-09-02** — closed PR [#482](https://github.com/ZacSweers/MoshiX/pull/482) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.10-1.0.13"
 
-**2023-09-02** — opened PR [#928](https://github.com/ZacSweers/CatchUp/pull/928) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Small github service fixes"
+**2023-09-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-09-02** — created branch `z/fixTrendingParsing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-02** — merged PR [#483](https://github.com/ZacSweers/MoshiX/pull/483) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.21.0"
 
-**2023-09-02** — opened issue [#927](https://github.com/ZacSweers/CatchUp/issues/927) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Per-service preferences"
+**2023-09-02** — opened issue [#485](https://github.com/ZacSweers/MoshiX/issues/485) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Gracefully handle multiplatform JVM projects"
 
-**2023-09-02** — commented on [#42](https://github.com/saket/telephoto/issues/42#issuecomment-1703902193) in [saket/telephoto](https://github.com/saket/telephoto)
+**2023-09-02** — deleted branch `z/restructure` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-02** — deleted branch `renovate/renovatebot-github-action-36.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-02** — merged PR [#930](https://github.com/ZacSweers/CatchUp/pull/930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Restructure packages to align on catchup.*"
 
-**2023-09-02** — closed PR [#844](https://github.com/slackhq/circuit/pull/844) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v36.1.1"
+**2023-09-02** — opened PR [#930](https://github.com/ZacSweers/CatchUp/pull/930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Restructure packages to align on catchup.*"
 
-**2023-09-02** — commented on [#908](https://github.com/ZacSweers/CatchUp/pull/908#issuecomment-1703684076) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-02** — created branch `z/restructure` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
