@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-03** — Could not load GitHub activity. Please check back later.
+**2023-09-02** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-02** — merged PR [#932](https://github.com/ZacSweers/CatchUp/pull/932) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.1"
+
+**2023-09-02** — opened issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
+
+**2023-09-02** — opened issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuratoin name in gradle subplugin"
+
+**2023-09-02** — created tag `1.6.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-09-02** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-09-02** — merged PR [#167](https://github.com/ZacSweers/redacted-compiler-plugin/pull/167) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.0"
+
+**2023-09-02** — deleted branch `z/fixConfigurationName` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-09-02** — merged PR [#168](https://github.com/ZacSweers/redacted-compiler-plugin/pull/168) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Simplify configuration name resolution"
+
+**2023-09-02** — created tag `0.24.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
