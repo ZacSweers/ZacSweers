@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-03** — created tag `0.14.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-03** — deleted branch `renovate/renovatebot-github-action-39.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-03** — merged PR [#845](https://github.com/slackhq/circuit/pull/845) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v39"
+
+**2023-09-03** — created tag `0.10.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-03** — opened PR [#933](https://github.com/ZacSweers/CatchUp/pull/933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Initial bit of KMP support"
+
+**2023-09-03** — created branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-09-03** — closed issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuration name in gradle subplugin"
 
 **2023-09-03** — commented on [#488](https://github.com/ZacSweers/MoshiX/issues/488#issuecomment-1704383278) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-03** — created tag `0.24.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-09-03** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1704374438) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-03** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-09-03** — merged PR [#86](https://github.com/ZacSweers/ZacSweers/pull/86) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.21.0"
-
-**2023-09-03** — deleted branch `renovate/org.slf4j` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-09-03** — merged PR [#90](https://github.com/ZacSweers/ZacSweers/pull/90) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.9"
-
-**2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-03** — merged PR [#489](https://github.com/ZacSweers/MoshiX/pull/489) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
