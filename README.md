@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-03** — closed issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuration name in gradle subplugin"
+
+**2023-09-03** — commented on [#488](https://github.com/ZacSweers/MoshiX/issues/488#issuecomment-1704383278) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-03** — created tag `0.24.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-03** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1704374438) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-09-03** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-09-03** — merged PR [#86](https://github.com/ZacSweers/ZacSweers/pull/86) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.21.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-09-03** — merged PR [#489](https://github.com/ZacSweers/MoshiX/pull/489) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.1"
-
-**2023-09-02** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-02** — merged PR [#932](https://github.com/ZacSweers/CatchUp/pull/932) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.1"
-
-**2023-09-02** — opened issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
-
-**2023-09-02** — opened issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuratoin name in gradle subplugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
