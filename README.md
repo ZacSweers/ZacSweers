@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-03** — opened PR [#850](https://github.com/slackhq/circuit/pull/850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize rememberRetained"
+
+**2023-09-03** — created branch `z/portOptimization` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-03** — opened issue [#849](https://github.com/slackhq/circuit/issues/849) on [slackhq/circuit](https://github.com/slackhq/circuit): "Port rememberSaveable optimization to circuit-retained"
+
+**2023-09-03** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-03** — closed PR [#935](https://github.com/ZacSweers/CatchUp/pull/935) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.14.1"
+
+**2023-09-03** — opened PR [#934](https://github.com/ZacSweers/CatchUp/pull/934) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Circuit to 0.14.1 + use gesture nav"
+
+**2023-09-03** — created branch `z/updateCircuitAndGesture` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-09-03** — merged PR [#490](https://github.com/ZacSweers/MoshiX/pull/490) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.2"
 
 **2023-09-03** — deleted branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-03** — merged PR [#933](https://github.com/ZacSweers/CatchUp/pull/933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Initial bit of KMP support"
-
-**2023-09-03** — created tag `0.14.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-03** — deleted branch `renovate/renovatebot-github-action-39.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-03** — merged PR [#845](https://github.com/slackhq/circuit/pull/845) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v39"
-
-**2023-09-03** — created tag `0.10.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-03** — opened PR [#933](https://github.com/ZacSweers/CatchUp/pull/933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Initial bit of KMP support"
-
-**2023-09-03** — created branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
