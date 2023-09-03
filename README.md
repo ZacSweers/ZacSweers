@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-02** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-02** — merged PR [#932](https://github.com/ZacSweers/CatchUp/pull/932) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.6.1"
+
 **2023-09-02** — opened issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
 
 **2023-09-02** — opened issue [#488](https://github.com/ZacSweers/MoshiX/issues/488) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix KSP configuratoin name in gradle subplugin"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-02** — merged PR [#168](https://github.com/ZacSweers/redacted-compiler-plugin/pull/168) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Simplify configuration name resolution"
 
 **2023-09-02** — created tag `0.24.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-02** — deleted branch `z/fixImplRef` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-02** — closed issue [#485](https://github.com/ZacSweers/MoshiX/issues/485) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Gracefully handle multiplatform JVM projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
