@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-03** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-09-03** — merged PR [#487](https://github.com/uber/AutoDispose/pull/487) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.11 to 0.10.13"
+
 **2023-09-03** — opened PR [#850](https://github.com/slackhq/circuit/pull/850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize rememberRetained"
 
 **2023-09-03** — created branch `z/portOptimization` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-03** — created branch `z/updateCircuitAndGesture` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-03** — merged PR [#490](https://github.com/ZacSweers/MoshiX/pull/490) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.2"
-
-**2023-09-03** — deleted branch `z/kmpPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
