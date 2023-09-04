@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-04** — created branch `z/bookmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-04** — deleted branch `z/portOptimization` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-04** — closed issue [#849](https://github.com/slackhq/circuit/issues/849) on [slackhq/circuit](https://github.com/slackhq/circuit): "Port rememberSaveable optimization to circuit-retained"
+
+**2023-09-04** — merged PR [#850](https://github.com/slackhq/circuit/pull/850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize rememberRetained"
+
+**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-09-04** — merged PR [#169](https://github.com/ZacSweers/redacted-compiler-plugin/pull/169) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v4"
+
+**2023-09-04** — merged PR [#64](https://github.com/ZacSweers/auto-service-ksp/pull/64) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/checkout action to v4"
+
+**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-09-04** — merged PR [#491](https://github.com/ZacSweers/MoshiX/pull/491) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/checkout action to v4"
-
-**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-04** — merged PR [#937](https://github.com/ZacSweers/CatchUp/pull/937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/checkout action to v4"
-
-**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-09-04** — merged PR [#92](https://github.com/ZacSweers/ZacSweers/pull/92) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/checkout action to v4"
-
-**2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705391019) in [square/moshi](https://github.com/square/moshi)
-
-**2023-09-04** — closed issue [#1734](https://github.com/square/moshi/issues/1734) on [square/moshi](https://github.com/square/moshi): "Moshi's performance issues"
-
-**2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705380101) in [square/moshi](https://github.com/square/moshi)
-
-**2023-09-03** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
