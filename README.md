@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705391019) in [square/moshi](https://github.com/square/moshi)
+
+**2023-09-04** — closed issue [#1734](https://github.com/square/moshi/issues/1734) on [square/moshi](https://github.com/square/moshi): "Moshi's performance issues"
+
+**2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705380101) in [square/moshi](https://github.com/square/moshi)
+
 **2023-09-03** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-09-03** — merged PR [#487](https://github.com/uber/AutoDispose/pull/487) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.11 to 0.10.13"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-03** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-03** — closed PR [#935](https://github.com/ZacSweers/CatchUp/pull/935) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.14.1"
-
-**2023-09-03** — opened PR [#934](https://github.com/ZacSweers/CatchUp/pull/934) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Circuit to 0.14.1 + use gesture nav"
-
-**2023-09-03** — created branch `z/updateCircuitAndGesture` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-03** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
