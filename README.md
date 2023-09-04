@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-04** — merged PR [#491](https://github.com/ZacSweers/MoshiX/pull/491) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/checkout action to v4"
+
+**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-04** — merged PR [#937](https://github.com/ZacSweers/CatchUp/pull/937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/checkout action to v4"
+
+**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-09-04** — merged PR [#92](https://github.com/ZacSweers/ZacSweers/pull/92) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/checkout action to v4"
+
 **2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705391019) in [square/moshi](https://github.com/square/moshi)
 
 **2023-09-04** — closed issue [#1734](https://github.com/square/moshi/issues/1734) on [square/moshi](https://github.com/square/moshi): "Moshi's performance issues"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-04** — commented on [#1734](https://github.com/square/moshi/issues/1734#issuecomment-1705380101) in [square/moshi](https://github.com/square/moshi)
 
 **2023-09-03** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-09-03** — merged PR [#487](https://github.com/uber/AutoDispose/pull/487) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.11 to 0.10.13"
-
-**2023-09-03** — opened PR [#850](https://github.com/slackhq/circuit/pull/850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize rememberRetained"
-
-**2023-09-03** — created branch `z/portOptimization` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-03** — opened issue [#849](https://github.com/slackhq/circuit/issues/849) on [slackhq/circuit](https://github.com/slackhq/circuit): "Port rememberSaveable optimization to circuit-retained"
-
-**2023-09-03** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-03** — closed PR [#935](https://github.com/ZacSweers/CatchUp/pull/935) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
