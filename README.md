@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-04** — created branch `z/bookmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-05** — commented on [#552](https://github.com/cashapp/paparazzi/issues/552#issuecomment-1707203990) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
-**2023-09-04** — deleted branch `z/portOptimization` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-04** — closed issue [#849](https://github.com/slackhq/circuit/issues/849) on [slackhq/circuit](https://github.com/slackhq/circuit): "Port rememberSaveable optimization to circuit-retained"
+**2023-09-05** — merged PR [#560](https://github.com/slackhq/slack-gradle-plugin/pull/560) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.2.7"
 
-**2023-09-04** — merged PR [#850](https://github.com/slackhq/circuit/pull/850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize rememberRetained"
+**2023-09-05** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-09-05** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-04** — merged PR [#169](https://github.com/ZacSweers/redacted-compiler-plugin/pull/169) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v4"
+**2023-09-05** — merged PR [#563](https://github.com/slackhq/slack-gradle-plugin/pull/563) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3"
 
-**2023-09-04** — merged PR [#64](https://github.com/ZacSweers/auto-service-ksp/pull/64) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/checkout action to v4"
+**2023-09-05** — merged PR [#562](https://github.com/slackhq/slack-gradle-plugin/pull/562) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.6.1"
 
-**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-09-05** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-04** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-09-05** — closed PR [#561](https://github.com/slackhq/slack-gradle-plugin/pull/561) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.24.2"
 
-**2023-09-04** — merged PR [#491](https://github.com/ZacSweers/MoshiX/pull/491) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/checkout action to v4"
+**2023-09-05** — closed issue [#557](https://github.com/slackhq/slack-gradle-plugin/issues/557) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "LinkageError when resolving method 'org.slf4j.impl.StaticLoggerBinder.getLoggerFactory()'"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
