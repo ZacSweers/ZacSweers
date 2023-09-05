@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-05** — deleted branch `cb/gesture-nav-param-order` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2023-09-05** — merged PR [#852](https://github.com/slackhq/circuit/pull/852) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tweak GestureNavigationDecoration param order"
+
 **2023-09-05** — opened PR [#853](https://github.com/slackhq/circuit/pull/853) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix code gen doc formatting"
 
 **2023-09-05** — created branch `z/fixCodeGenDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-05** — merged PR [#560](https://github.com/slackhq/slack-gradle-plugin/pull/560) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.2.7"
-
-**2023-09-05** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-05** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
