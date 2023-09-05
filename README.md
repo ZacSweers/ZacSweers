@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-05** — opened PR [#853](https://github.com/slackhq/circuit/pull/853) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix code gen doc formatting"
+
+**2023-09-05** — created branch `z/fixCodeGenDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-05** — opened issue [#1524](https://github.com/google/ksp/issues/1524) on [google/ksp](https://github.com/google/ksp): "Adding KSP dependencies in `Project.afterEvaluate` results in KSP tasks not being registered"
 
 **2023-09-05** — opened PR [#492](https://github.com/ZacSweers/MoshiX/pull/492) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enable KSP proguard rule gen in ir tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-05** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-05** — deleted branch `test-renovate/dev.zacsweers.redacted` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-05** — merged PR [#563](https://github.com/slackhq/slack-gradle-plugin/pull/563) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3"
-
-**2023-09-05** — merged PR [#562](https://github.com/slackhq/slack-gradle-plugin/pull/562) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
