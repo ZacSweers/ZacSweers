@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-05** — opened issue [#1524](https://github.com/google/ksp/issues/1524) on [google/ksp](https://github.com/google/ksp): "Adding KSP dependencies in `Project.afterEvaluate` results in KSP tasks not being registered"
+
+**2023-09-05** — opened PR [#492](https://github.com/ZacSweers/MoshiX/pull/492) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enable KSP proguard rule gen in ir tests"
+
+**2023-09-05** — created branch `z/kspFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-09-05** — commented on [#552](https://github.com/cashapp/paparazzi/issues/552#issuecomment-1707203990) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-09-05** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-05** — merged PR [#563](https://github.com/slackhq/slack-gradle-plugin/pull/563) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3"
 
 **2023-09-05** — merged PR [#562](https://github.com/slackhq/slack-gradle-plugin/pull/562) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency dev.zacsweers.redacted:redacted-compiler-plugin-gradle to v1.6.1"
-
-**2023-09-05** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-05** — closed PR [#561](https://github.com/slackhq/slack-gradle-plugin/pull/561) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.24.2"
-
-**2023-09-05** — closed issue [#557](https://github.com/slackhq/slack-gradle-plugin/issues/557) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "LinkageError when resolving method 'org.slf4j.impl.StaticLoggerBinder.getLoggerFactory()'"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
