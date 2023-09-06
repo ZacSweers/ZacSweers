@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-06** — commented on [#552](https://github.com/cashapp/paparazzi/issues/552#issuecomment-1708710446) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2023-09-06** — commented on [#906](https://github.com/cashapp/paparazzi/issues/906#issuecomment-1708710054) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
+
+**2023-09-06** — deleted branch `z/fixScrolling` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-06** — merged PR [#566](https://github.com/slackhq/slack-gradle-plugin/pull/566) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix scrolling in HtmlPanel impl"
+
+**2023-09-06** — opened PR [#566](https://github.com/slackhq/slack-gradle-plugin/pull/566) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix scrolling in HtmlPanel impl"
+
+**2023-09-06** — created branch `z/fixScrolling` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-09-06** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1708619810) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-05** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1707618914) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-05** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1707618333) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-05** — deleted branch `cb/gesture-nav-param-order` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2023-09-05** — merged PR [#852](https://github.com/slackhq/circuit/pull/852) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tweak GestureNavigationDecoration param order"
-
-**2023-09-05** — opened PR [#853](https://github.com/slackhq/circuit/pull/853) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix code gen doc formatting"
-
-**2023-09-05** — created branch `z/fixCodeGenDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-05** — opened issue [#1524](https://github.com/google/ksp/issues/1524) on [google/ksp](https://github.com/google/ksp): "Adding KSP dependencies in `Project.afterEvaluate` results in KSP tasks not being registered"
-
-**2023-09-05** — opened PR [#492](https://github.com/ZacSweers/MoshiX/pull/492) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enable KSP proguard rule gen in ir tests"
-
-**2023-09-05** — created branch `z/kspFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
