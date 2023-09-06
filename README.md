@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-06** — created tag `0.24.3` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-06** — deleted branch `z/kspFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-06** — merged PR [#492](https://github.com/ZacSweers/MoshiX/pull/492) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enable KSP proguard rule gen in ir tests + fix them!"
+
 **2023-09-06** — commented on [#552](https://github.com/cashapp/paparazzi/issues/552#issuecomment-1708710446) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-09-06** — commented on [#906](https://github.com/cashapp/paparazzi/issues/906#issuecomment-1708710054) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-06** — created branch `z/fixScrolling` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-06** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1708619810) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-05** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1707618914) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-05** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1707618333) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-05** — deleted branch `cb/gesture-nav-param-order` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
