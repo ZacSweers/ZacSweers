@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-07** — merged PR [#858](https://github.com/slackhq/circuit/pull/858) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/checkout action to v4"
+
 **2023-09-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-07** — merged PR [#135](https://github.com/slackhq/slack-lints/pull/135) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha02"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-07** — closed PR [#857](https://github.com/slackhq/circuit/pull/857) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency me.saket.telephoto:zoomable-image-coil to v0.6.0"
 
 **2023-09-07** — commented on [#857](https://github.com/slackhq/circuit/pull/857#issuecomment-1710461884) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-06** — created tag `0.24.3` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-06** — deleted branch `z/kspFix` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
