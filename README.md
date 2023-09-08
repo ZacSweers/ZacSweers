@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-07** — merged PR [#135](https://github.com/slackhq/slack-lints/pull/135) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha02"
 
 **2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-07** — merged PR [#134](https://github.com/slackhq/slack-lints/pull/134) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/checkout action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
