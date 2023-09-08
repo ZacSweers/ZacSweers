@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-08** — opened PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
+
+**2023-09-08** — created branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-08** — created tag `0.5.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-08** — commented on [#1524](https://github.com/google/ksp/issues/1524#issuecomment-1712111801) in [google/ksp](https://github.com/google/ksp)
+
+**2023-09-08** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-08** — merged PR [#136](https://github.com/slackhq/slack-lints/pull/136) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha03"
+
+**2023-09-08** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1712103037) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
+**2023-09-08** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1712081996) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
+
 **2023-09-08** — created branch `z/annotatorExample` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.14` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-09-08** — merged PR [#488](https://github.com/uber/AutoDispose/pull/488) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.13 to 0.10.14"
-
-**2023-09-07** — deleted branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-07** — merged PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
-
-**2023-09-07** — deleted branch `z/fixCodeGenDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-07** — merged PR [#853](https://github.com/slackhq/circuit/pull/853) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix code gen doc formatting"
-
-**2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-07** — merged PR [#858](https://github.com/slackhq/circuit/pull/858) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/checkout action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
