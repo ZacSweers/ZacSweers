@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-07** — deleted branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-07** — merged PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
+
 **2023-09-07** — deleted branch `z/fixCodeGenDoc` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-07** — merged PR [#853](https://github.com/slackhq/circuit/pull/853) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix code gen doc formatting"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-07** — merged PR [#134](https://github.com/slackhq/slack-lints/pull/134) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/checkout action to v4"
-
-**2023-09-07** — commented on [#168](https://github.com/slackhq/compose-lints/issues/168#issuecomment-1710484947) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-09-07** — deleted branch `renovate/telephoto` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
