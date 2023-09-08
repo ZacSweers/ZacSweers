@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-08** — deleted branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-08** — merged PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
+
 **2023-09-08** — opened PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
 
 **2023-09-08** — created branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-08** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1712103037) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
 
 **2023-09-08** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1712081996) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
-
-**2023-09-08** — created branch `z/annotatorExample` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.14` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
