@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.14` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-09-08** — merged PR [#488](https://github.com/uber/AutoDispose/pull/488) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.13 to 0.10.14"
+
 **2023-09-07** — deleted branch `z/removeDaggerExtensionLint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-07** — merged PR [#133](https://github.com/slackhq/slack-lints/pull/133) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Revamp DaggerIssuesDetector"
@@ -15,12 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-07** — merged PR [#858](https://github.com/slackhq/circuit/pull/858) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/checkout action to v4"
-
-**2023-09-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-07** — merged PR [#135](https://github.com/slackhq/slack-lints/pull/135) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha02"
-
-**2023-09-07** — deleted branch `renovate/actions-checkout-4.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
