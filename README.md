@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-09** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-09** — closed PR [#874](https://github.com/slackhq/circuit/pull/874) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.8-1-8"
+
 **2023-09-09** — created tag `0.5.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-08** — deleted branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-08** — commented on [#1524](https://github.com/google/ksp/issues/1524#issuecomment-1712111801) in [google/ksp](https://github.com/google/ksp)
 
 **2023-09-08** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-08** — merged PR [#136](https://github.com/slackhq/slack-lints/pull/136) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha03"
-
-**2023-09-08** — commented on [#429](https://github.com/gradle/gradle-enterprise-build-validation-scripts/issues/429#issuecomment-1712103037) in [gradle/gradle-enterprise-build-validation-scripts](https://github.com/gradle/gradle-enterprise-build-validation-scripts)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
