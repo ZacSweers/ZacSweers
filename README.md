@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-09** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1712588843) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-09** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1712588571) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-09** — opened issue [#4065](https://github.com/google/dagger/issues/4065) on [google/dagger](https://github.com/google/dagger): "Possible incorrect lenience with generic types"
 
 **2023-09-09** — created tag `v2.4.7` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-08** — deleted branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-08** — merged PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
-
-**2023-09-08** — opened PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
-
-**2023-09-08** — created branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
