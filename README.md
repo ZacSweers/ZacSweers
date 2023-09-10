@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-10** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-10** — merged PR [#943](https://github.com/ZacSweers/CatchUp/pull/943) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha07"
+
+**2023-09-10** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-10** — merged PR [#942](https://github.com/ZacSweers/CatchUp/pull/942) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha05"
+
+**2023-09-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-10** — closed PR [#952](https://github.com/ZacSweers/CatchUp/pull/952) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.8-1-8"
+
 **2023-09-10** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-10** — merged PR [#951](https://github.com/ZacSweers/CatchUp/pull/951) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-alpha02"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-10** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-10** — merged PR [#947](https://github.com/ZacSweers/CatchUp/pull/947) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0"
-
-**2023-09-10** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-10** — merged PR [#946](https://github.com/ZacSweers/CatchUp/pull/946) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.0-alpha05"
-
-**2023-09-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-10** — merged PR [#945](https://github.com/ZacSweers/CatchUp/pull/945) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.8-1-8"
-
-**2023-09-10** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-10** — merged PR [#950](https://github.com/ZacSweers/CatchUp/pull/950) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
