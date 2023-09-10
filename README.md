@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-09** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1712588843) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-10** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-09** — commented on [#654](https://github.com/slackhq/circuit/pull/654#issuecomment-1712588571) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-10** — merged PR [#951](https://github.com/ZacSweers/CatchUp/pull/951) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-alpha02"
 
-**2023-09-09** — opened issue [#4065](https://github.com/google/dagger/issues/4065) on [google/dagger](https://github.com/google/dagger): "Possible incorrect lenience with generic types"
+**2023-09-10** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-09** — created tag `v2.4.7` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-09-10** — merged PR [#947](https://github.com/ZacSweers/CatchUp/pull/947) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0"
 
-**2023-09-09** — created tag `v2.4.8` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-09-10** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-09** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-10** — merged PR [#946](https://github.com/ZacSweers/CatchUp/pull/946) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.0-alpha05"
 
-**2023-09-09** — closed PR [#874](https://github.com/slackhq/circuit/pull/874) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.8-1-8"
+**2023-09-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-09** — created tag `0.5.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-09-10** — merged PR [#945](https://github.com/ZacSweers/CatchUp/pull/945) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.8-1-8"
 
-**2023-09-08** — deleted branch `z/fixBackHandlerName` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-10** — deleted branch `renovate/androidx.paging` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-08** — merged PR [#873](https://github.com/slackhq/circuit/pull/873) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix BackHandler name on iOS"
+**2023-09-10** — merged PR [#950](https://github.com/ZacSweers/CatchUp/pull/950) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
