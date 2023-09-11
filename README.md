@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-10** — commented on [#944](https://github.com/ZacSweers/CatchUp/pull/944#issuecomment-1713093663) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-09-10** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-10** — merged PR [#943](https://github.com/ZacSweers/CatchUp/pull/943) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha07"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-10** — merged PR [#951](https://github.com/ZacSweers/CatchUp/pull/951) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-alpha02"
 
 **2023-09-10** — deleted branch `renovate/androidx.annotation` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-10** — merged PR [#947](https://github.com/ZacSweers/CatchUp/pull/947) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
