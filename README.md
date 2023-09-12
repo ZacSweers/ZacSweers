@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-12** — deleted branch `z/bookmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-12** — closed issue [#102](https://github.com/ZacSweers/CatchUp/issues/102) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Feature to bookmark articles"
+
+**2023-09-12** — merged PR [#944](https://github.com/ZacSweers/CatchUp/pull/944) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement bookmarks"
+
+**2023-09-12** — commented on [#944](https://github.com/ZacSweers/CatchUp/pull/944#issuecomment-1715051949) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-09-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-09-11** — merged PR [#65](https://github.com/slackhq/auto-value-kotlin/pull/65) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.0-1.0.11 to 1.9.10-1.0.13"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-11** — deleted branch `dependabot/gradle/dev.zacsweers.autoservice-auto-service-ksp-1.1.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-09-11** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-09-11** — merged PR [#58](https://github.com/slackhq/auto-value-kotlin/pull/58) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
-
-**2023-09-11** — merged PR [#63](https://github.com/slackhq/auto-value-kotlin/pull/63) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.0 to 1.9.10"
-
-**2023-09-11** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-09-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.5.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
