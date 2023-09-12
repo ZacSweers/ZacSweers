@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-11** — merged PR [#953](https://github.com/ZacSweers/CatchUp/pull/953) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.5"
+**2023-09-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-09-11** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-11** — merged PR [#65](https://github.com/slackhq/auto-value-kotlin/pull/65) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.0-1.0.11 to 1.9.10-1.0.13"
 
-**2023-09-11** — commented on [#4065](https://github.com/google/dagger/issues/4065#issuecomment-1713795967) in [google/dagger](https://github.com/google/dagger)
+**2023-09-11** — deleted branch `dependabot/gradle/jvm-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-09-10** — commented on [#944](https://github.com/ZacSweers/CatchUp/pull/944#issuecomment-1713093663) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-11** — merged PR [#64](https://github.com/slackhq/auto-value-kotlin/pull/64) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.9.0 to 1.9.10"
 
-**2023-09-10** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-11** — deleted branch `dependabot/gradle/dev.zacsweers.autoservice-auto-service-ksp-1.1.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-09-10** — merged PR [#943](https://github.com/ZacSweers/CatchUp/pull/943) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha07"
+**2023-09-11** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-09-10** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-11** — merged PR [#58](https://github.com/slackhq/auto-value-kotlin/pull/58) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.0 to 1.23.1"
 
-**2023-09-10** — merged PR [#942](https://github.com/ZacSweers/CatchUp/pull/942) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha05"
+**2023-09-11** — merged PR [#63](https://github.com/slackhq/auto-value-kotlin/pull/63) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.0 to 1.9.10"
 
-**2023-09-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-11** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-09-10** — closed PR [#952](https://github.com/ZacSweers/CatchUp/pull/952) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.8-1-8"
+**2023-09-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.5.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
