@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-13** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-09-13** — merged PR [#69](https://github.com/slackhq/auto-value-kotlin/pull/69) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
+
 **2023-09-13** — merged PR [#170](https://github.com/slackhq/compose-lints/pull/170) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Slight Improvement for rules documentation "
 
 **2023-09-12** — commented on [#169](https://github.com/slackhq/compose-lints/issues/169#issuecomment-1716199844) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-09-11** — merged PR [#65](https://github.com/slackhq/auto-value-kotlin/pull/65) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.0-1.0.11 to 1.9.10-1.0.13"
-
-**2023-09-11** — deleted branch `dependabot/gradle/jvm-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-09-11** — merged PR [#64](https://github.com/slackhq/auto-value-kotlin/pull/64) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.9.0 to 1.9.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
