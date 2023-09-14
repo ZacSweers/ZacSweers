@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-14** — deleted branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-14** — merged PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `NestedContentListBenchmark`"
+
 **2023-09-14** — opened PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ListBenchmark"
 
 **2023-09-14** — created branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-12** — deleted branch `z/bookmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-12** — closed issue [#102](https://github.com/ZacSweers/CatchUp/issues/102) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Feature to bookmark articles"
-
-**2023-09-12** — merged PR [#944](https://github.com/ZacSweers/CatchUp/pull/944) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement bookmarks"
-
-**2023-09-12** — commented on [#944](https://github.com/ZacSweers/CatchUp/pull/944#issuecomment-1715051949) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
