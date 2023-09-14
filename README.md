@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-14** — opened PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ListBenchmark"
+
+**2023-09-14** — created branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-13** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-09-13** — merged PR [#69](https://github.com/slackhq/auto-value-kotlin/pull/69) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-12** — merged PR [#944](https://github.com/ZacSweers/CatchUp/pull/944) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Implement bookmarks"
 
 **2023-09-12** — commented on [#944](https://github.com/ZacSweers/CatchUp/pull/944#issuecomment-1715051949) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.10-1.0.13` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-09-11** — merged PR [#65](https://github.com/slackhq/auto-value-kotlin/pull/65) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.0-1.0.11 to 1.9.10-1.0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
