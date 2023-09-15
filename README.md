@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-15** — opened PR [#881](https://github.com/slackhq/circuit/pull/881) to [slackhq/circuit](https://github.com/slackhq/circuit): "More benchmarking work"
+
+**2023-09-15** — created branch `z/injectingMoreInBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-14** — deleted branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-14** — merged PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `NestedContentListBenchmark`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-13** — merged PR [#170](https://github.com/slackhq/compose-lints/pull/170) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Slight Improvement for rules documentation "
 
 **2023-09-12** — commented on [#169](https://github.com/slackhq/compose-lints/issues/169#issuecomment-1716199844) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-09-12** — deleted branch `z/bookmarks` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-12** — closed issue [#102](https://github.com/ZacSweers/CatchUp/issues/102) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Feature to bookmark articles"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
