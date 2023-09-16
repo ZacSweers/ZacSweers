@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-15** — opened PR [#881](https://github.com/slackhq/circuit/pull/881) to [slackhq/circuit](https://github.com/slackhq/circuit): "More benchmarking work"
+**2023-09-15** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-09-15** — created branch `z/injectingMoreInBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-15** — merged PR [#179](https://github.com/ZacSweers/kotlin-compile-testing/pull/179) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v1.9.10"
 
-**2023-09-14** — deleted branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-15** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-09-14** — merged PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement `NestedContentListBenchmark`"
+**2023-09-15** — merged PR [#182](https://github.com/ZacSweers/kotlin-compile-testing/pull/182) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout action to v4"
 
-**2023-09-14** — opened PR [#877](https://github.com/slackhq/circuit/pull/877) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ListBenchmark"
+**2023-09-15** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-09-14** — created branch `z/listBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-15** — merged PR [#181](https://github.com/ZacSweers/kotlin-compile-testing/pull/181) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v1.9.0"
 
-**2023-09-13** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-09-15** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-09-13** — merged PR [#69](https://github.com/slackhq/auto-value-kotlin/pull/69) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
+**2023-09-15** — merged PR [#180](https://github.com/ZacSweers/kotlin-compile-testing/pull/180) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.5.0"
 
-**2023-09-13** — merged PR [#170](https://github.com/slackhq/compose-lints/pull/170) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Slight Improvement for rules documentation "
+**2023-09-15** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-09-12** — commented on [#169](https://github.com/slackhq/compose-lints/issues/169#issuecomment-1716199844) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-15** — merged PR [#178](https://github.com/ZacSweers/kotlin-compile-testing/pull/178) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
