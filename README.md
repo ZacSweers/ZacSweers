@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-17** — deleted branch `z/injectingMoreInBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-17** — merged PR [#881](https://github.com/slackhq/circuit/pull/881) to [slackhq/circuit](https://github.com/slackhq/circuit): "More benchmarking work"
+
 **2023-09-15** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-09-15** — merged PR [#179](https://github.com/ZacSweers/kotlin-compile-testing/pull/179) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v1.9.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-15** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-09-15** — merged PR [#180](https://github.com/ZacSweers/kotlin-compile-testing/pull/180) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.5.0"
-
-**2023-09-15** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-09-15** — merged PR [#178](https://github.com/ZacSweers/kotlin-compile-testing/pull/178) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
