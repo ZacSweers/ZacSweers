@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-15** — merged PR [#181](https://github.com/ZacSweers/kotlin-compile-testing/pull/181) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v1.9.0"
 
 **2023-09-15** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-09-15** — merged PR [#180](https://github.com/ZacSweers/kotlin-compile-testing/pull/180) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
