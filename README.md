@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-19** — commented on [#1739](https://github.com/square/moshi/issues/1739#issuecomment-1725701863) in [square/moshi](https://github.com/square/moshi)
+
 **2023-09-17** — deleted branch `z/injectingMoreInBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-17** — merged PR [#881](https://github.com/slackhq/circuit/pull/881) to [slackhq/circuit](https://github.com/slackhq/circuit): "More benchmarking work"
