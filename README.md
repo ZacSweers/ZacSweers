@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-19** — commented on [#184](https://github.com/ZacSweers/kotlin-compile-testing/pull/184#issuecomment-1726251035) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-09-19** — opened PR [#184](https://github.com/ZacSweers/kotlin-compile-testing/pull/184) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for Kotlin 1.9.20"
+
+**2023-09-19** — created branch `z/kotlin1920` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2023-09-19** — commented on [#1739](https://github.com/square/moshi/issues/1739#issuecomment-1725701863) in [square/moshi](https://github.com/square/moshi)
 
 **2023-09-17** — deleted branch `z/injectingMoreInBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-15** — deleted branch `renovate/actions-checkout-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-09-15** — merged PR [#182](https://github.com/ZacSweers/kotlin-compile-testing/pull/182) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout action to v4"
-
-**2023-09-15** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-09-15** — merged PR [#181](https://github.com/ZacSweers/kotlin-compile-testing/pull/181) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v1.9.0"
-
-**2023-09-15** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
