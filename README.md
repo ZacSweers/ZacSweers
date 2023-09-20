@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-20** — commented on [#572](https://github.com/slackhq/slack-gradle-plugin/pull/572#issuecomment-1728150701) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-20** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-20** — merged PR [#568](https://github.com/slackhq/slack-gradle-plugin/pull/568) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.24.3"
+
+**2023-09-20** — deleted branch `test-renovate/actions-checkout-4.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-20** — merged PR [#565](https://github.com/slackhq/slack-gradle-plugin/pull/565) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/checkout action to v4"
+
+**2023-09-20** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-09-20** — merged PR [#493](https://github.com/ZacSweers/MoshiX/pull/493) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.3"
+
 **2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726979168) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726966458) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726964979) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726961162) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-19** — commented on [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171#issuecomment-1726332626) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-09-19** — opened PR [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for Kotlin 1.9.20"
-
-**2023-09-19** — created branch `z/kotlin1920` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-09-19** — commented on [#495](https://github.com/ZacSweers/MoshiX/pull/495#issuecomment-1726304114) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-19** — opened PR [#495](https://github.com/ZacSweers/MoshiX/pull/495) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 1.9.20"
-
-**2023-09-19** — created branch `z/kotlin1920` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
