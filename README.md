@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-20** — closed issue [#887](https://github.com/slackhq/circuit/issues/887) on [slackhq/circuit](https://github.com/slackhq/circuit): "circuit-retained gives no matching variant found when trying on multiplatform project"
+
+**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1728354108) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-20** — opened PR [#969](https://github.com/ZacSweers/CatchUp/pull/969) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for kotlin 1.9.20"
 
 **2023-09-20** — created branch `z/kotlin1920` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-20** — merged PR [#965](https://github.com/ZacSweers/CatchUp/pull/965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-rc01"
 
 **2023-09-20** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — merged PR [#954](https://github.com/ZacSweers/CatchUp/pull/954) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.8.0"
-
-**2023-09-20** — deleted branch `renovate/io.github.pdvrieze.xmlutil-core-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — merged PR [#961](https://github.com/ZacSweers/CatchUp/pull/961) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.86.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
