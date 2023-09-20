@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-20** — created tag `0.15.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — opened issue [#891](https://github.com/slackhq/circuit/issues/891) on [slackhq/circuit](https://github.com/slackhq/circuit): "Promote `circuit-retained` setup to `CircuitCompositionLocals`"
+
+**2023-09-20** — deleted branch `z/stablePresenterUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — merged PR [#890](https://github.com/slackhq/circuit/pull/890) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Presenter and Ui as stable"
+
+**2023-09-20** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-1728413673) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — commented on [#889](https://github.com/slackhq/circuit/pull/889#issuecomment-1728403240) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — opened PR [#890](https://github.com/slackhq/circuit/pull/890) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Presenter and Ui as stable"
+
+**2023-09-20** — created branch `z/stablePresenterUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — merged PR [#888](https://github.com/slackhq/circuit/pull/888) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow retained state to be retained whilst UIs and Presenters are on the back stack"
+
 **2023-09-20** — closed issue [#887](https://github.com/slackhq/circuit/issues/887) on [slackhq/circuit](https://github.com/slackhq/circuit): "circuit-retained gives no matching variant found when trying on multiplatform project"
-
-**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1728354108) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-09-20** — opened PR [#969](https://github.com/ZacSweers/CatchUp/pull/969) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for kotlin 1.9.20"
-
-**2023-09-20** — created branch `z/kotlin1920` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — merged PR [#964](https://github.com/ZacSweers/CatchUp/pull/964) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-rc01"
-
-**2023-09-20** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — merged PR [#965](https://github.com/ZacSweers/CatchUp/pull/965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-rc01"
-
-**2023-09-20** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
