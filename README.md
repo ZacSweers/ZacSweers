@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726979168) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726966458) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726964979) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726961162) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-19** — commented on [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171#issuecomment-1726332626) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-09-19** — opened PR [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for Kotlin 1.9.20"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-19** — opened PR [#495](https://github.com/ZacSweers/MoshiX/pull/495) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 1.9.20"
 
 **2023-09-19** — created branch `z/kotlin1920` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-09-19** — commented on [#184](https://github.com/ZacSweers/kotlin-compile-testing/pull/184#issuecomment-1726251035) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-09-19** — opened PR [#184](https://github.com/ZacSweers/kotlin-compile-testing/pull/184) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for Kotlin 1.9.20"
-
-**2023-09-19** — created branch `z/kotlin1920` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-09-19** — commented on [#1739](https://github.com/square/moshi/issues/1739#issuecomment-1725701863) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
