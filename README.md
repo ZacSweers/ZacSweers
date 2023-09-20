@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-20** — deleted branch `z/robolectricNative` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — opened PR [#969](https://github.com/ZacSweers/CatchUp/pull/969) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for kotlin 1.9.20"
 
-**2023-09-20** — merged PR [#574](https://github.com/slackhq/slack-gradle-plugin/pull/574) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable robolectric native graphics by default"
+**2023-09-20** — created branch `z/kotlin1920` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — opened PR [#67](https://github.com/slackhq/EitherNet/pull/67) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prepare for Kotlin 1.9.20"
+**2023-09-20** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — created branch `z/kotlin1920` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-09-20** — merged PR [#964](https://github.com/ZacSweers/CatchUp/pull/964) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0-rc01"
 
-**2023-09-20** — deleted branch `test-renovate/ktfmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — merged PR [#572](https://github.com/slackhq/slack-gradle-plugin/pull/572) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.facebook:ktfmt to v0.46"
+**2023-09-20** — merged PR [#965](https://github.com/ZacSweers/CatchUp/pull/965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.2.0-rc01"
 
-**2023-09-20** — deleted branch `kl/smoke_test` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — closed PR [#468](https://github.com/slackhq/slack-gradle-plugin/pull/468) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Smoke test for Skate Plugin"
+**2023-09-20** — merged PR [#954](https://github.com/ZacSweers/CatchUp/pull/954) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.8.0"
 
-**2023-09-20** — commented on [#468](https://github.com/slackhq/slack-gradle-plugin/pull/468#issuecomment-1728176201) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — deleted branch `renovate/io.github.pdvrieze.xmlutil-core-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — opened PR [#575](https://github.com/slackhq/slack-gradle-plugin/pull/575) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set kotlin module names"
+**2023-09-20** — merged PR [#961](https://github.com/ZacSweers/CatchUp/pull/961) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.86.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
