@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-20** — commented on [#572](https://github.com/slackhq/slack-gradle-plugin/pull/572#issuecomment-1728150701) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — deleted branch `z/robolectricNative` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-20** — deleted branch `test-renovate/moshix` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — merged PR [#574](https://github.com/slackhq/slack-gradle-plugin/pull/574) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Enable robolectric native graphics by default"
 
-**2023-09-20** — merged PR [#568](https://github.com/slackhq/slack-gradle-plugin/pull/568) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.24.3"
+**2023-09-20** — opened PR [#67](https://github.com/slackhq/EitherNet/pull/67) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prepare for Kotlin 1.9.20"
 
-**2023-09-20** — deleted branch `test-renovate/actions-checkout-4.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-20** — created branch `z/kotlin1920` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2023-09-20** — merged PR [#565](https://github.com/slackhq/slack-gradle-plugin/pull/565) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/checkout action to v4"
+**2023-09-20** — deleted branch `test-renovate/ktfmt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-20** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-09-20** — merged PR [#572](https://github.com/slackhq/slack-gradle-plugin/pull/572) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.facebook:ktfmt to v0.46"
 
-**2023-09-20** — merged PR [#493](https://github.com/ZacSweers/MoshiX/pull/493) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.24.3"
+**2023-09-20** — deleted branch `kl/smoke_test` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726979168) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — closed PR [#468](https://github.com/slackhq/slack-gradle-plugin/pull/468) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Smoke test for Skate Plugin"
 
-**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726966458) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — commented on [#468](https://github.com/slackhq/slack-gradle-plugin/pull/468#issuecomment-1728176201) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-20** — commented on [#887](https://github.com/slackhq/circuit/issues/887#issuecomment-1726964979) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — opened PR [#575](https://github.com/slackhq/slack-gradle-plugin/pull/575) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set kotlin module names"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
