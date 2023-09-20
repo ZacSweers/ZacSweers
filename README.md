@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-20** — created tag `0.15.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — opened issue [#891](https://github.com/slackhq/circuit/issues/891) on [slackhq/circuit](https://github.com/slackhq/circuit): "Promote `circuit-retained` setup to `CircuitCompositionLocals`"
+**2023-09-20** — closed PR [#975](https://github.com/ZacSweers/CatchUp/pull/975) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit"
 
-**2023-09-20** — deleted branch `z/stablePresenterUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — merged PR [#890](https://github.com/slackhq/circuit/pull/890) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Presenter and Ui as stable"
+**2023-09-20** — closed PR [#974](https://github.com/ZacSweers/CatchUp/pull/974) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit"
 
-**2023-09-20** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-1728413673) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — merged PR [#968](https://github.com/ZacSweers/CatchUp/pull/968) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha05"
 
-**2023-09-20** — commented on [#889](https://github.com/slackhq/circuit/pull/889#issuecomment-1728403240) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — opened PR [#890](https://github.com/slackhq/circuit/pull/890) to [slackhq/circuit](https://github.com/slackhq/circuit): "Mark Presenter and Ui as stable"
+**2023-09-20** — deleted branch `renovate/androidx.sqlite-sqlite-framework-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — created branch `z/stablePresenterUi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-09-20** — merged PR [#970](https://github.com/ZacSweers/CatchUp/pull/970) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-rc01"
 
-**2023-09-20** — merged PR [#888](https://github.com/slackhq/circuit/pull/888) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow retained state to be retained whilst UIs and Presenters are on the back stack"
+**2023-09-20** — deleted branch `renovate/androidx.window-window-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-20** — closed issue [#887](https://github.com/slackhq/circuit/issues/887) on [slackhq/circuit](https://github.com/slackhq/circuit): "circuit-retained gives no matching variant found when trying on multiplatform project"
+**2023-09-20** — merged PR [#971](https://github.com/ZacSweers/CatchUp/pull/971) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.2.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
