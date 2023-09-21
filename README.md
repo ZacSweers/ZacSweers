@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-20** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-20** — merged PR [#966](https://github.com/ZacSweers/CatchUp/pull/966) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha06"
+
 **2023-09-20** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-20** — closed PR [#975](https://github.com/ZacSweers/CatchUp/pull/975) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-20** — deleted branch `renovate/androidx.sqlite-sqlite-framework-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-20** — merged PR [#970](https://github.com/ZacSweers/CatchUp/pull/970) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.sqlite:sqlite-framework to v2.4.0-rc01"
-
-**2023-09-20** — deleted branch `renovate/androidx.window-window-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-20** — merged PR [#971](https://github.com/ZacSweers/CatchUp/pull/971) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.2.0-beta03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
