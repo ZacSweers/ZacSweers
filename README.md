@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-22** — opened issue [#750](https://github.com/square/anvil/issues/750) on [square/anvil](https://github.com/square/anvil): "Incorrect type validation for `@Binds`"
+
+**2023-09-22** — closed issue [#4065](https://github.com/google/dagger/issues/4065) on [google/dagger](https://github.com/google/dagger): "Possible incorrect lenience with generic types"
+
+**2023-09-22** — commented on [#4065](https://github.com/google/dagger/issues/4065#issuecomment-1732085497) in [google/dagger](https://github.com/google/dagger)
+
 **2023-09-22** — created tag `0.10.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-22** — deleted branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-22** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-22** — merged PR [#580](https://github.com/slackhq/slack-gradle-plugin/pull/580) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.0"
-
-**2023-09-22** — deleted branch `test-renovate/org.jetbrains-markdown-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#579](https://github.com/slackhq/slack-gradle-plugin/pull/579) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.5.1"
-
-**2023-09-22** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
