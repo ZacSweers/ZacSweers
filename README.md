@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-22** — opened PR [#582](https://github.com/slackhq/slack-gradle-plugin/pull/582) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8.3.0-alpha05+"
+
+**2023-09-22** — created branch `z/agp883` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-09-22** — opened issue [#750](https://github.com/square/anvil/issues/750) on [square/anvil](https://github.com/square/anvil): "Incorrect type validation for `@Binds`"
 
 **2023-09-22** — closed issue [#4065](https://github.com/google/dagger/issues/4065) on [google/dagger](https://github.com/google/dagger): "Possible incorrect lenience with generic types"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-22** — deleted branch `z/desugarConfigPlatform` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-22** — merged PR [#581](https://github.com/slackhq/slack-gradle-plugin/pull/581) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply boms to core library desugaring's interface"
-
-**2023-09-22** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#580](https://github.com/slackhq/slack-gradle-plugin/pull/580) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
