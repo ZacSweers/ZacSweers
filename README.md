@@ -11,8 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-21** — merged PR [#490](https://github.com/uber/AutoDispose/pull/490) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.facebook:ktfmt from 0.44 to 0.46"
 
 **2023-09-21** — commented on [#490](https://github.com/uber/AutoDispose/pull/490#issuecomment-1730467341) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-09-21** — commented on [#938](https://github.com/ZacSweers/CatchUp/pull/938#issuecomment-1730152281) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
