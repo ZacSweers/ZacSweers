@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-22** — created tag `0.10.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — deleted branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — merged PR [#466](https://github.com/slackhq/slack-gradle-plugin/pull/466) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Initial pass at docs for formatters"
+
+**2023-09-22** — deleted branch `z/desugarConfigPlatform` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — merged PR [#581](https://github.com/slackhq/slack-gradle-plugin/pull/581) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply boms to core library desugaring's interface"
+
+**2023-09-22** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — merged PR [#580](https://github.com/slackhq/slack-gradle-plugin/pull/580) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.0"
+
 **2023-09-22** — deleted branch `test-renovate/org.jetbrains-markdown-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-22** — merged PR [#579](https://github.com/slackhq/slack-gradle-plugin/pull/579) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.5.1"
 
 **2023-09-22** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#578](https://github.com/slackhq/slack-gradle-plugin/pull/578) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material-extensions to v1.2"
-
-**2023-09-22** — deleted branch `z/moduleNames` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#575](https://github.com/slackhq/slack-gradle-plugin/pull/575) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set kotlin module names"
-
-**2023-09-22** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — closed PR [#577](https://github.com/slackhq/slack-gradle-plugin/pull/577) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.8-1-8"
-
-**2023-09-22** — opened PR [#581](https://github.com/slackhq/slack-gradle-plugin/pull/581) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply boms to core library desugaring's interface"
-
-**2023-09-22** — created branch `z/desugarConfigPlatform` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
