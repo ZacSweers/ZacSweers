@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-22** — commented on [#172](https://github.com/ZacSweers/redacted-compiler-plugin/issues/172#issuecomment-1731562200) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2023-09-21** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.46` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-09-21** — merged PR [#490](https://github.com/uber/AutoDispose/pull/490) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.facebook:ktfmt from 0.44 to 0.46"
