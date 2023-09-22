@@ -4,13 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-22** — commented on [#172](https://github.com/ZacSweers/redacted-compiler-plugin/issues/172#issuecomment-1731562200) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-09-22** — deleted branch `test-renovate/org.jetbrains-markdown-0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-21** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.46` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-09-22** — merged PR [#579](https://github.com/slackhq/slack-gradle-plugin/pull/579) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains:markdown to v0.5.1"
 
-**2023-09-21** — merged PR [#490](https://github.com/uber/AutoDispose/pull/490) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.facebook:ktfmt from 0.44 to 0.46"
+**2023-09-22** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-09-21** — commented on [#490](https://github.com/uber/AutoDispose/pull/490#issuecomment-1730467341) in [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-09-22** — merged PR [#578](https://github.com/slackhq/slack-gradle-plugin/pull/578) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material-extensions to v1.2"
+
+**2023-09-22** — deleted branch `z/moduleNames` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — merged PR [#575](https://github.com/slackhq/slack-gradle-plugin/pull/575) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Set kotlin module names"
+
+**2023-09-22** — deleted branch `test-renovate/anvil` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-22** — closed PR [#577](https://github.com/slackhq/slack-gradle-plugin/pull/577) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.squareup.anvil:gradle-plugin to v2.4.8-1-8"
+
+**2023-09-22** — opened PR [#581](https://github.com/slackhq/slack-gradle-plugin/pull/581) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply boms to core library desugaring's interface"
+
+**2023-09-22** — created branch `z/desugarConfigPlatform` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
