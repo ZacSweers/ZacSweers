@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-23** — opened issue [#1714](https://github.com/google/accompanist/issues/1714) on [google/accompanist](https://github.com/google/accompanist): "Please release a new alpha built against 1.6.0-alpha06"
+
 **2023-09-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-23** — merged PR [#979](https://github.com/ZacSweers/CatchUp/pull/979) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.8"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-22** — closed issue [#4065](https://github.com/google/dagger/issues/4065) on [google/dagger](https://github.com/google/dagger): "Possible incorrect lenience with generic types"
 
 **2023-09-22** — commented on [#4065](https://github.com/google/dagger/issues/4065#issuecomment-1732085497) in [google/dagger](https://github.com/google/dagger)
-
-**2023-09-22** — created tag `0.10.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
