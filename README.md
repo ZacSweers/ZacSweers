@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-23** — merged PR [#979](https://github.com/ZacSweers/CatchUp/pull/979) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.8"
+
+**2023-09-23** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-23** — merged PR [#978](https://github.com/ZacSweers/CatchUp/pull/978) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.221.0"
+
 **2023-09-22** — opened PR [#582](https://github.com/slackhq/slack-gradle-plugin/pull/582) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8.3.0-alpha05+"
 
 **2023-09-22** — created branch `z/agp883` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-22** — commented on [#4065](https://github.com/google/dagger/issues/4065#issuecomment-1732085497) in [google/dagger](https://github.com/google/dagger)
 
 **2023-09-22** — created tag `0.10.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — deleted branch `z/moreDocs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#466](https://github.com/slackhq/slack-gradle-plugin/pull/466) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Initial pass at docs for formatters"
-
-**2023-09-22** — deleted branch `z/desugarConfigPlatform` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-22** — merged PR [#581](https://github.com/slackhq/slack-gradle-plugin/pull/581) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't apply boms to core library desugaring's interface"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
