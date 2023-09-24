@@ -4,9 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-23** — opened issue [#277](https://github.com/google/play-services-plugins/issues/277) on [google/play-services-plugins](https://github.com/google/play-services-plugins): "4.4.0 release has no release notes"
+**2023-09-24** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-23** — deleted branch `z/addOptionToDisable` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+**2023-09-24** — merged PR [#980](https://github.com/ZacSweers/CatchUp/pull/980) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.telephoto:zoomable-image-coil to v0.6.2"
+
+**2023-09-23** — opened issue [#277](https://github.com/google/play-services-plugins/issues/277) on [google/play-services-plugins](https://github.com/google/play-services-plugins): "4.4.0 release has no release notes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
