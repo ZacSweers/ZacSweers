@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-25** — opened issue [#5168](https://github.com/facebook/flipper/issues/5168) on [facebook/flipper](https://github.com/facebook/flipper): "Unsupported class file major version 61 with Flipper 0.221.0"
+
+**2023-09-25** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-25** — merged PR [#138](https://github.com/slackhq/slack-lints/pull/138) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha05"
+
+**2023-09-25** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1732896723) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-25** — opened PR [#142](https://github.com/slackhq/slack-lints/pull/142) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add a complex type assignment check test to DaggerIssuesDetectorTest"
+
+**2023-09-25** — created branch `z/moreDaggerCheck` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-09-24** — opened issue [#171](https://github.com/slackhq/compose-lints/issues/171) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a lint that looks for un-remembered instantiation of types or functions whose names end in "State""
 
 **2023-09-24** — commented on [#1714](https://github.com/google/accompanist/issues/1714#issuecomment-1732766237) in [google/accompanist](https://github.com/google/accompanist)
@@ -11,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-24** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-24** — merged PR [#980](https://github.com/ZacSweers/CatchUp/pull/980) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.telephoto:zoomable-image-coil to v0.6.2"
-
-**2023-09-23** — opened issue [#277](https://github.com/google/play-services-plugins/issues/277) on [google/play-services-plugins](https://github.com/google/play-services-plugins): "4.4.0 release has no release notes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
