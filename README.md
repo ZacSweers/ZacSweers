@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-24** — commented on [#1714](https://github.com/google/accompanist/issues/1714#issuecomment-1732766237) in [google/accompanist](https://github.com/google/accompanist)
+
 **2023-09-24** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-24** — merged PR [#980](https://github.com/ZacSweers/CatchUp/pull/980) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.telephoto:zoomable-image-coil to v0.6.2"
