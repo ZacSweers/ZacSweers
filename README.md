@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-24** — opened issue [#171](https://github.com/slackhq/compose-lints/issues/171) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Add a lint that looks for un-remembered instantiation of types or functions whose names end in "State""
+
 **2023-09-24** — commented on [#1714](https://github.com/google/accompanist/issues/1714#issuecomment-1732766237) in [google/accompanist](https://github.com/google/accompanist)
 
 **2023-09-24** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
