@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-25** — opened PR [#143](https://github.com/slackhq/slack-lints/pull/143) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port ExceptionMessageDetector check from AOSP"
+
+**2023-09-25** — created branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-09-25** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-1734361180) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-09-25** — deleted branch `test-renovate/com.github.oshi-oshi-core-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-25** — deleted branch `z/agp883` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-25** — merged PR [#582](https://github.com/slackhq/slack-gradle-plugin/pull/582) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8.3.0-alpha05+"
-
-**2023-09-25** — opened issue [#5168](https://github.com/facebook/flipper/issues/5168) on [facebook/flipper](https://github.com/facebook/flipper): "Unsupported class file major version 61 with Flipper 0.221.0"
-
-**2023-09-25** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
