@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-26** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1736043581) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-26** — deleted branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-26** — merged PR [#143](https://github.com/slackhq/slack-lints/pull/143) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port ExceptionMessageDetector check from AOSP"
+
 **2023-09-26** — opened PR [#69](https://github.com/slackhq/EitherNet/pull/69) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add shouldRetry overload for retries"
 
 **2023-09-26** — created branch `z/shouldRetry` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-26** — merged PR [#47](https://github.com/slackhq/kotlin-cli-util/pull/47) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.7 to 2.0.9"
 
 **2023-09-26** — deleted branch `dependabot/github_actions/actions/checkout-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-09-26** — merged PR [#45](https://github.com/slackhq/kotlin-cli-util/pull/45) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/checkout from 3 to 4"
-
-**2023-09-26** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-09-26** — merged PR [#44](https://github.com/slackhq/kotlin-cli-util/pull/44) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
