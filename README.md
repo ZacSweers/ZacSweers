@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-25** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-1734735755) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-26** — opened PR [#69](https://github.com/slackhq/EitherNet/pull/69) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add shouldRetry overload for retries"
 
-**2023-09-25** — opened PR [#143](https://github.com/slackhq/slack-lints/pull/143) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port ExceptionMessageDetector check from AOSP"
+**2023-09-26** — created branch `z/shouldRetry` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2023-09-25** — created branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-09-26** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.24.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-09-25** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-1734361180) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-26** — merged PR [#48](https://github.com/slackhq/kotlin-cli-util/pull/48) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.24.0 to 0.24.3"
 
-**2023-09-25** — deleted branch `test-renovate/com.github.oshi-oshi-core-6.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-26** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-09-25** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-26** — merged PR [#47](https://github.com/slackhq/kotlin-cli-util/pull/47) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.7 to 2.0.9"
 
-**2023-09-25** — merged PR [#586](https://github.com/slackhq/slack-gradle-plugin/pull/586) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.2"
+**2023-09-26** — deleted branch `dependabot/github_actions/actions/checkout-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-09-25** — merged PR [#585](https://github.com/slackhq/slack-gradle-plugin/pull/585) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.oshi:oshi-core to v6.4.6"
+**2023-09-26** — merged PR [#45](https://github.com/slackhq/kotlin-cli-util/pull/45) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/checkout from 3 to 4"
 
-**2023-09-25** — deleted branch `z/agp883` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-26** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-09-25** — merged PR [#582](https://github.com/slackhq/slack-gradle-plugin/pull/582) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for AGP 8.3.0-alpha05+"
+**2023-09-26** — merged PR [#44](https://github.com/slackhq/kotlin-cli-util/pull/44) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.dokka from 1.8.20 to 1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
