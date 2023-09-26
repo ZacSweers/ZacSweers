@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-26** — created tag `1.6.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-09-26** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-26** — merged PR [#140](https://github.com/slackhq/slack-lints/pull/140) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.46"
+
+**2023-09-26** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.46` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-09-26** — closed PR [#141](https://github.com/slackhq/slack-lints/pull/141) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.facebook:ktfmt from 0.44 to 0.46"
+
+**2023-09-26** — deleted branch `z/shouldRetry` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-09-26** — closed issue [#68](https://github.com/slackhq/EitherNet/issues/68) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add an escape hatch to retries"
+
+**2023-09-26** — merged PR [#69](https://github.com/slackhq/EitherNet/pull/69) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add shouldRetry overload for retries"
+
 **2023-09-26** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1736043581) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-26** — deleted branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — merged PR [#143](https://github.com/slackhq/slack-lints/pull/143) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port ExceptionMessageDetector check from AOSP"
-
-**2023-09-26** — opened PR [#69](https://github.com/slackhq/EitherNet/pull/69) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add shouldRetry overload for retries"
-
-**2023-09-26** — created branch `z/shouldRetry` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-09-26** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.24.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-09-26** — merged PR [#48](https://github.com/slackhq/kotlin-cli-util/pull/48) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.24.0 to 0.24.3"
-
-**2023-09-26** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-09-26** — merged PR [#47](https://github.com/slackhq/kotlin-cli-util/pull/47) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.7 to 2.0.9"
-
-**2023-09-26** — deleted branch `dependabot/github_actions/actions/checkout-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
