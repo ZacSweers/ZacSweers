@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-26** — merged PR [#126](https://github.com/slackhq/slack-lints/pull/126) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Extract mock annotations/classes/methods into Lint options"
+
+**2023-09-26** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1736218671) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-09-26** — created tag `1.6.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-09-26** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-26** — closed issue [#68](https://github.com/slackhq/EitherNet/issues/68) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add an escape hatch to retries"
 
 **2023-09-26** — merged PR [#69](https://github.com/slackhq/EitherNet/pull/69) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add shouldRetry overload for retries"
-
-**2023-09-26** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1736043581) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — deleted branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
