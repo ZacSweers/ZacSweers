@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-25** — commented on [#171](https://github.com/slackhq/compose-lints/issues/171#issuecomment-1734735755) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-09-25** — opened PR [#143](https://github.com/slackhq/slack-lints/pull/143) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Port ExceptionMessageDetector check from AOSP"
 
 **2023-09-25** — created branch `z/portGoogleChecks` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
