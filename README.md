@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-27** — closed PR [#938](https://github.com/ZacSweers/CatchUp/pull/938) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha04 - abandoned"
+
+**2023-09-27** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-27** — merged PR [#982](https://github.com/ZacSweers/CatchUp/pull/982) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.5.2"
+
+**2023-09-27** — opened PR [#903](https://github.com/slackhq/circuit/pull/903) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement Context.findActivity() with tailrec"
+
+**2023-09-27** — created branch `z/tailrec` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-09-26** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-09-26** — merged PR [#96](https://github.com/ZacSweers/ZacSweers/pull/96) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.2"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-26** — merged PR [#981](https://github.com/ZacSweers/CatchUp/pull/981) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.222.0"
 
 **2023-09-26** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-26** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-09-26** — merged PR [#97](https://github.com/ZacSweers/ZacSweers/pull/97) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
-
-**2023-09-26** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-26** — merged PR [#983](https://github.com/ZacSweers/CatchUp/pull/983) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
-
-**2023-09-26** — created tag `0.6.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — closed issue [#99](https://github.com/slackhq/slack-lints/issues/99) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[Feature Request] Add support for other mocking frameworks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
