@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-26** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-09-26** — merged PR [#96](https://github.com/ZacSweers/ZacSweers/pull/96) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.2"
+
 **2023-09-26** — merged PR [#981](https://github.com/ZacSweers/CatchUp/pull/981) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.222.0"
 
 **2023-09-26** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-26** — created tag `0.6.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-26** — closed issue [#99](https://github.com/slackhq/slack-lints/issues/99) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[Feature Request] Add support for other mocking frameworks"
-
-**2023-09-26** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1736263055) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — merged PR [#126](https://github.com/slackhq/slack-lints/pull/126) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Extract mock annotations/classes/methods into Lint options"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
