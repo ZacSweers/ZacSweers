@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-26** — merged PR [#981](https://github.com/ZacSweers/CatchUp/pull/981) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.222.0"
+
+**2023-09-26** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-26** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-09-26** — merged PR [#97](https://github.com/ZacSweers/ZacSweers/pull/97) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
+
+**2023-09-26** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-26** — merged PR [#983](https://github.com/ZacSweers/CatchUp/pull/983) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
+
 **2023-09-26** — created tag `0.6.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-26** — closed issue [#99](https://github.com/slackhq/slack-lints/issues/99) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[Feature Request] Add support for other mocking frameworks"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-26** — commented on [#99](https://github.com/slackhq/slack-lints/issues/99#issuecomment-1736263055) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-26** — merged PR [#126](https://github.com/slackhq/slack-lints/pull/126) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Extract mock annotations/classes/methods into Lint options"
-
-**2023-09-26** — commented on [#126](https://github.com/slackhq/slack-lints/pull/126#issuecomment-1736218671) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — created tag `1.6.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-09-26** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — merged PR [#140](https://github.com/slackhq/slack-lints/pull/140) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.46"
-
-**2023-09-26** — deleted branch `dependabot/gradle/com.facebook-ktfmt-0.46` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-26** — closed PR [#141](https://github.com/slackhq/slack-lints/pull/141) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.facebook:ktfmt from 0.44 to 0.46"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
