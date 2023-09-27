@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-27** — opened issue [#751](https://github.com/square/anvil/issues/751) on [square/anvil](https://github.com/square/anvil): "Support KSP in factory generation"
+
 **2023-09-27** — deleted branch `z/skateUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-27** — closed PR [#533](https://github.com/slackhq/slack-gradle-plugin/pull/533) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add common IJ plugins we use as dependencies"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-27** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-27** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-09-27** — merged PR [#144](https://github.com/slackhq/slack-lints/pull/144) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
