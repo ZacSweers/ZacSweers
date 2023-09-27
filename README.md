@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-27** — deleted branch `z/skateUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-27** — closed PR [#533](https://github.com/slackhq/slack-gradle-plugin/pull/533) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add common IJ plugins we use as dependencies"
+
+**2023-09-27** — commented on [#533](https://github.com/slackhq/slack-gradle-plugin/pull/533#issuecomment-1737644287) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-09-27** — deleted branch `sc_model_translator` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-27** — merged PR [#587](https://github.com/slackhq/slack-gradle-plugin/pull/587) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Model translator generation"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-27** — deleted branch `test-renovate/wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-27** — merged PR [#144](https://github.com/slackhq/slack-lints/pull/144) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v1.6.0"
-
-**2023-09-27** — deleted branch `renovate/com.slack.eithernet` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-27** — closed PR [#938](https://github.com/ZacSweers/CatchUp/pull/938) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha04 - abandoned"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
