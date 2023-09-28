@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-09-28** — merged PR [#146](https://github.com/slackhq/compose-lints/pull/146) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Kotlin 1.9.10 + gradle 8.3 and a couple other things"
+
 **2023-09-28** — created tag `0.10.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-28** — deleted branch `z/moveDebugProbesSelector` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-28** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-09-28** — merged PR [#164](https://github.com/slackhq/compose-lints/pull/164) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.1"
-
-**2023-09-28** — merged PR [#163](https://github.com/slackhq/compose-lints/pull/163) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.1.1"
-
-**2023-09-28** — commented on [#137](https://github.com/slackhq/compose-lints/issues/137#issuecomment-1739813685) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
