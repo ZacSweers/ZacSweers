@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-28** — commented on [#590](https://github.com/slackhq/slack-gradle-plugin/pull/590#issuecomment-1739791216) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — opened PR [#593](https://github.com/slackhq/slack-gradle-plugin/pull/593) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update permission checks to use file provider APIs"
+**2023-09-28** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — opened PR [#592](https://github.com/slackhq/slack-gradle-plugin/pull/592) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove assets merging caching control"
+**2023-09-28** — merged PR [#164](https://github.com/slackhq/compose-lints/pull/164) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.1"
 
-**2023-09-28** — opened PR [#591](https://github.com/slackhq/slack-gradle-plugin/pull/591) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Move debugprobes exclusion to release builds only"
+**2023-09-28** — merged PR [#163](https://github.com/slackhq/compose-lints/pull/163) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.1.1"
 
-**2023-09-28** — created branch `z/disallowChanges` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — commented on [#137](https://github.com/slackhq/compose-lints/issues/137#issuecomment-1739813685) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — created branch `z/mergeAssetsCaching` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — deleted branch `renovate/mkdocs-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — created branch `z/moveDebugProbesSelector` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — merged PR [#162](https://github.com/slackhq/compose-lints/pull/162) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs to v1.5.3"
 
-**2023-09-28** — opened issue [#172](https://github.com/slackhq/compose-lints/issues/172) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update parameter stability checker to account for enclosing classes/receiver params"
+**2023-09-28** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-27** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-28** — merged PR [#161](https://github.com/slackhq/compose-lints/pull/161) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.1"
 
-**2023-09-27** — merged PR [#984](https://github.com/ZacSweers/CatchUp/pull/984) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.8.0"
+**2023-09-28** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
