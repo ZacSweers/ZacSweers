@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-28** — commented on [#590](https://github.com/slackhq/slack-gradle-plugin/pull/590#issuecomment-1739791216) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-09-28** — opened PR [#593](https://github.com/slackhq/slack-gradle-plugin/pull/593) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update permission checks to use file provider APIs"
 
 **2023-09-28** — opened PR [#592](https://github.com/slackhq/slack-gradle-plugin/pull/592) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove assets merging caching control"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-27** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-27** — merged PR [#984](https://github.com/ZacSweers/CatchUp/pull/984) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.8.0"
-
-**2023-09-27** — commented on [#590](https://github.com/slackhq/slack-gradle-plugin/pull/590#issuecomment-1737936239) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
