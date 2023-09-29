@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-28** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-09-29** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-28** — merged PR [#492](https://github.com/uber/AutoDispose/pull/492) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.21.0 to 6.22.0"
+**2023-09-29** — merged PR [#145](https://github.com/slackhq/slack-lints/pull/145) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha06"
 
-**2023-09-28** — deleted branch `dependabot/gradle/errorProne-2.22.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-09-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-28** — merged PR [#491](https://github.com/uber/AutoDispose/pull/491) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump errorProne from 2.21.1 to 2.22.0"
+**2023-09-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-09-28** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-29** — merged PR [#147](https://github.com/slackhq/slack-lints/pull/147) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.22.0"
 
-**2023-09-28** — merged PR [#992](https://github.com/ZacSweers/CatchUp/pull/992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.23.1"
+**2023-09-29** — merged PR [#146](https://github.com/slackhq/slack-lints/pull/146) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.2"
 
-**2023-09-28** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-29** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — merged PR [#991](https://github.com/ZacSweers/CatchUp/pull/991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.22.0"
+**2023-09-29** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-09-28** — merged PR [#986](https://github.com/ZacSweers/CatchUp/pull/986) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin bugsnag to v8.1.0"
+**2023-09-29** — merged PR [#175](https://github.com/slackhq/compose-lints/pull/175) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.4"
 
-**2023-09-28** — deleted branch `renovate/com.bugsnag.android.gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-09-29** — merged PR [#174](https://github.com/slackhq/compose-lints/pull/174) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
