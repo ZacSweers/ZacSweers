@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-29** — commented on [#914](https://github.com/slackhq/circuit/issues/914#issuecomment-1741307900) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-29** — deleted branch `test-renovate/bugsnaggradle` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-29** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-09-29** — merged PR [#594](https://github.com/slackhq/slack-gradle-plugin/pull/594) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.lint to v8.1.2"
+
+**2023-09-29** — merged PR [#595](https://github.com/slackhq/slack-gradle-plugin/pull/595) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8.1.0"
+
+**2023-09-29** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-09-29** — merged PR [#905](https://github.com/slackhq/circuit/pull/905) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.material to v1.5.2"
+
 **2023-09-29** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-09-29** — merged PR [#145](https://github.com/slackhq/slack-lints/pull/145) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha06"
 
 **2023-09-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-09-29** — merged PR [#147](https://github.com/slackhq/slack-lints/pull/147) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.22.0"
-
-**2023-09-29** — merged PR [#146](https://github.com/slackhq/slack-lints/pull/146) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.1.2"
-
-**2023-09-29** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-09-29** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-09-29** — merged PR [#175](https://github.com/slackhq/compose-lints/pull/175) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.4"
-
-**2023-09-29** — merged PR [#174](https://github.com/slackhq/compose-lints/pull/174) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
