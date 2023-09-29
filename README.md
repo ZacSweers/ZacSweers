@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-09-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-28** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-28** — merged PR [#146](https://github.com/slackhq/compose-lints/pull/146) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Kotlin 1.9.10 + gradle 8.3 and a couple other things"
+**2023-09-28** — merged PR [#992](https://github.com/ZacSweers/CatchUp/pull/992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.23.1"
 
-**2023-09-28** — created tag `0.10.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-28** — deleted branch `z/moveDebugProbesSelector` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — merged PR [#991](https://github.com/ZacSweers/CatchUp/pull/991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.22.0"
 
-**2023-09-28** — merged PR [#591](https://github.com/slackhq/slack-gradle-plugin/pull/591) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Move debugprobes exclusion to release builds only"
+**2023-09-28** — merged PR [#986](https://github.com/ZacSweers/CatchUp/pull/986) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin bugsnag to v8.1.0"
 
-**2023-09-28** — deleted branch `z/mergeAssetsCaching` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-09-28** — deleted branch `renovate/com.bugsnag.android.gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-28** — merged PR [#592](https://github.com/slackhq/slack-gradle-plugin/pull/592) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove assets merging caching control"
+**2023-09-28** — deleted branch `renovate/androidx.compose.ui-ui-text-google-fonts-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-28** — merged PR [#985](https://github.com/ZacSweers/CatchUp/pull/985) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.5.2"
 
-**2023-09-28** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-09-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-09-28** — merged PR [#164](https://github.com/slackhq/compose-lints/pull/164) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.1"
+**2023-09-28** — merged PR [#990](https://github.com/ZacSweers/CatchUp/pull/990) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
