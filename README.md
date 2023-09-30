@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-30** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-09-30** — merged PR [#994](https://github.com/ZacSweers/CatchUp/pull/994) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.24.0"
+
 **2023-09-29** — commented on [#5168](https://github.com/facebook/flipper/issues/5168#issuecomment-1741384971) in [facebook/flipper](https://github.com/facebook/flipper)
 
 **2023-09-29** — commented on [#159](https://github.com/slackhq/compose-lints/pull/159#issuecomment-1741381535) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-09-29** — deleted branch `test-renovate/agp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-09-29** — merged PR [#594](https://github.com/slackhq/slack-gradle-plugin/pull/594) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.android.lint to v8.1.2"
-
-**2023-09-29** — merged PR [#595](https://github.com/slackhq/slack-gradle-plugin/pull/595) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.bugsnag:bugsnag-android-gradle-plugin to v8.1.0"
-
-**2023-09-29** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
