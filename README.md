@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-01** — deleted branch `z/dependencyDSL` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+
+**2023-10-01** — opened issue [#599](https://github.com/slackhq/slack-gradle-plugin/issues/599) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to sortDependencies"
+
 **2023-10-01** — opened issue [#598](https://github.com/slackhq/slack-gradle-plugin/issues/598) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to spotless"
 
 **2023-10-01** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-01** — created branch `z/moreRakes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-09-30** — deleted branch `renovate/org.gradle.android.cache-fix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-09-30** — merged PR [#993](https://github.com/ZacSweers/CatchUp/pull/993) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v2.8.1"
-
-**2023-09-30** — created branch `z/testModes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
