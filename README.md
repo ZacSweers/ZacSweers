@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#998](https://github.com/ZacSweers/CatchUp/pull/998) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
+
+**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#999](https://github.com/ZacSweers/CatchUp/pull/999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.2.1"
+
+**2023-10-02** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#1000](https://github.com/ZacSweers/CatchUp/pull/1000) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.10"
+
 **2023-10-02** — opened issue [#982](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/982) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Plugin requires a lot of JVM metaspace"
 
 **2023-10-02** — created tag `0.10.10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-02** — commented on [#981](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/981#issuecomment-1743506870) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
 
 **2023-10-02** — opened issue [#981](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/981) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "DAGP sometimes resolves phantom dependencies"
-
-**2023-10-02** — deleted branch `z/cacheConsistency` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-02** — merged PR [#596](https://github.com/slackhq/slack-gradle-plugin/pull/596) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make debug builds use consistent version codes/names on CI"
-
-**2023-10-02** — deleted branch `z/lifecycleLog` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-02** — merged PR [#597](https://github.com/slackhq/slack-gradle-plugin/pull/597) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Lower log level for ciLint"
-
-**2023-10-02** — deleted branch `renovate/lunr-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-10-02** — deleted branch `renovate/mkdocs-material-extensions-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
