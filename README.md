@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-01** — merged PR [#996](https://github.com/ZacSweers/CatchUp/pull/996) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.6.0"
+**2023-10-01** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-10-01** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-01** — closed PR [#95](https://github.com/ZacSweers/ZacSweers/pull/95) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.2"
 
-**2023-10-01** — deleted branch `z/dependencyDSL` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+**2023-10-01** — deleted branch `renovate/xmlutil` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-10-01** — opened issue [#599](https://github.com/slackhq/slack-gradle-plugin/issues/599) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to sortDependencies"
+**2023-10-01** — merged PR [#94](https://github.com/ZacSweers/ZacSweers/pull/94) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.86.2"
 
-**2023-10-01** — opened issue [#598](https://github.com/slackhq/slack-gradle-plugin/issues/598) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to spotless"
+**2023-10-01** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-10-01** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-10-01** — merged PR [#84](https://github.com/ZacSweers/ZacSweers/pull/84) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.2"
 
-**2023-10-01** — merged PR [#49](https://github.com/slackhq/kotlin-cli-util/pull/49) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.21.0 to 6.22.0"
+**2023-10-01** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-10-01** — deleted branch `z/moreRakes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-01** — merged PR [#98](https://github.com/ZacSweers/ZacSweers/pull/98) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.22.0"
 
-**2023-10-01** — merged PR [#995](https://github.com/ZacSweers/CatchUp/pull/995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More dependency rake"
+**2023-10-01** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-10-01** — opened PR [#995](https://github.com/ZacSweers/CatchUp/pull/995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More dependency rake"
+**2023-10-01** — merged PR [#99](https://github.com/ZacSweers/ZacSweers/pull/99) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
