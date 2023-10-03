@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-03** — deleted branch `z/moreDaggerCheck` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-03** — merged PR [#142](https://github.com/slackhq/slack-lints/pull/142) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add a complex type assignment check test to DaggerIssuesDetectorTest"
+
 **2023-10-03** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-10-03** — merged PR [#600](https://github.com/slackhq/slack-gradle-plugin/pull/600) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-02** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-02** — merged PR [#1000](https://github.com/ZacSweers/CatchUp/pull/1000) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.10"
-
-**2023-10-02** — opened issue [#982](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/982) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Plugin requires a lot of JVM metaspace"
-
-**2023-10-02** — created tag `0.10.10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
