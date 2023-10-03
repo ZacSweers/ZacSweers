@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-03** — Could not load GitHub activity. Please check back later.
+**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#998](https://github.com/ZacSweers/CatchUp/pull/998) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
+
+**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#999](https://github.com/ZacSweers/CatchUp/pull/999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.2.1"
+
+**2023-10-02** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-02** — merged PR [#1000](https://github.com/ZacSweers/CatchUp/pull/1000) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.10"
+
+**2023-10-02** — opened issue [#982](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/982) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Plugin requires a lot of JVM metaspace"
+
+**2023-10-02** — created tag `0.10.10` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-10-02** — commented on [#981](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/981#issuecomment-1743506870) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
+
+**2023-10-02** — opened issue [#981](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/981) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "DAGP sometimes resolves phantom dependencies"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
