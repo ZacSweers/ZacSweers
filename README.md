@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-04** — deleted branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-04** — merged PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
+
 **2023-10-04** — opened PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
 
 **2023-10-04** — created branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-03** — deleted branch `z/moreDaggerCheck` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-03** — merged PR [#142](https://github.com/slackhq/slack-lints/pull/142) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add a complex type assignment check test to DaggerIssuesDetectorTest"
-
-**2023-10-03** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-03** — merged PR [#600](https://github.com/slackhq/slack-gradle-plugin/pull/600) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
