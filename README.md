@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-04** — opened PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
+
+**2023-10-04** — created branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-10-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-04** — merged PR [#1001](https://github.com/ZacSweers/CatchUp/pull/1001) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.223.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-03** — deleted branch `test-renovate/mkdocs-material-9.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-10-03** — merged PR [#600](https://github.com/slackhq/slack-gradle-plugin/pull/600) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material to v9.4.3"
-
-**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-02** — merged PR [#998](https://github.com/ZacSweers/CatchUp/pull/998) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
