@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-04** — merged PR [#1001](https://github.com/ZacSweers/CatchUp/pull/1001) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.223.0"
+
+**2023-10-04** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-04** — merged PR [#1002](https://github.com/ZacSweers/CatchUp/pull/1002) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.48.1"
+
 **2023-10-03** — deleted branch `z/moreDaggerCheck` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-03** — merged PR [#142](https://github.com/slackhq/slack-lints/pull/142) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add a complex type assignment check test to DaggerIssuesDetectorTest"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-02** — merged PR [#998](https://github.com/ZacSweers/CatchUp/pull/998) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
-
-**2023-10-02** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-02** — merged PR [#999](https://github.com/ZacSweers/CatchUp/pull/999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.2.1"
-
-**2023-10-02** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-02** — merged PR [#1000](https://github.com/ZacSweers/CatchUp/pull/1000) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.10.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
