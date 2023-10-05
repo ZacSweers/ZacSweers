@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-05** — closed issue [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Optimize skippy affected projects by defining configurations"
+
+**2023-10-05** — commented on [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309#issuecomment-1749532353) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-10-05** — deleted branch `renovate/compose.ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-05** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-05** — merged PR [#997](https://github.com/ZacSweers/CatchUp/pull/997) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.6"
 
 **2023-10-04** — deleted branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-04** — merged PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
-
-**2023-10-04** — opened PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
