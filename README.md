@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-05** — opened PR [#932](https://github.com/slackhq/circuit/pull/932) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle enterprise and redact local data"
+
+**2023-10-05** — created branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — opened PR [#931](https://github.com/slackhq/circuit/pull/931) to [slackhq/circuit](https://github.com/slackhq/circuit): "Include retained state registry setup in CircuitCompositionLocals"
+
+**2023-10-05** — created branch `z/retainedInFoundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — opened PR [#930](https://github.com/slackhq/circuit/pull/930) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
+
+**2023-10-05** — created branch `z/codeGenTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-10-05** — closed issue [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Optimize skippy affected projects by defining configurations"
 
 **2023-10-05** — commented on [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309#issuecomment-1749532353) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-05** — deleted branch `renovate/compose.ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-05** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — merged PR [#924](https://github.com/slackhq/circuit/pull/924) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.ui to v1.5.3"
-
-**2023-10-05** — merged PR [#922](https://github.com/slackhq/circuit/pull/922) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.material to v1.5.3"
-
-**2023-10-05** — commented on [#914](https://github.com/slackhq/circuit/issues/914#issuecomment-1749495703) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-05** — merged PR [#997](https://github.com/ZacSweers/CatchUp/pull/997) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.6"
-
-**2023-10-04** — deleted branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
