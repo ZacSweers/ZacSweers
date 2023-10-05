@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-05** — deleted branch `z/retainedInFoundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — closed issue [#891](https://github.com/slackhq/circuit/issues/891) on [slackhq/circuit](https://github.com/slackhq/circuit): "Promote `circuit-retained` setup to `CircuitCompositionLocals`"
+
+**2023-10-05** — merged PR [#931](https://github.com/slackhq/circuit/pull/931) to [slackhq/circuit](https://github.com/slackhq/circuit): "Include retained state registry setup in CircuitCompositionLocals"
+
+**2023-10-05** — deleted branch `z/codeGenTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — deleted branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — closed issue [#244](https://github.com/slackhq/circuit/issues/244) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
+
+**2023-10-05** — merged PR [#930](https://github.com/slackhq/circuit/pull/930) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
+
+**2023-10-05** — merged PR [#932](https://github.com/slackhq/circuit/pull/932) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle enterprise and redact local data"
+
 **2023-10-05** — opened PR [#932](https://github.com/slackhq/circuit/pull/932) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle enterprise and redact local data"
 
 **2023-10-05** — created branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — opened PR [#931](https://github.com/slackhq/circuit/pull/931) to [slackhq/circuit](https://github.com/slackhq/circuit): "Include retained state registry setup in CircuitCompositionLocals"
-
-**2023-10-05** — created branch `z/retainedInFoundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — opened PR [#930](https://github.com/slackhq/circuit/pull/930) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
-
-**2023-10-05** — created branch `z/codeGenTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — closed issue [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Optimize skippy affected projects by defining configurations"
-
-**2023-10-05** — commented on [#309](https://github.com/slackhq/slack-gradle-plugin/issues/309#issuecomment-1749532353) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-05** — deleted branch `renovate/compose.ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-05** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
