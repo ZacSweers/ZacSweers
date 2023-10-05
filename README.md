@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-05** — deleted branch `renovate/compose.ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — deleted branch `renovate/compose.material` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-05** — merged PR [#924](https://github.com/slackhq/circuit/pull/924) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.ui to v1.5.3"
+
+**2023-10-05** — merged PR [#922](https://github.com/slackhq/circuit/pull/922) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.material to v1.5.3"
+
+**2023-10-05** — commented on [#914](https://github.com/slackhq/circuit/issues/914#issuecomment-1749495703) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-10-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-05** — merged PR [#997](https://github.com/ZacSweers/CatchUp/pull/997) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.6"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-04** — merged PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
 
 **2023-10-04** — opened PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
-
-**2023-10-04** — created branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-04** — merged PR [#1001](https://github.com/ZacSweers/CatchUp/pull/1001) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.223.0"
-
-**2023-10-04** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-04** — merged PR [#1002](https://github.com/ZacSweers/CatchUp/pull/1002) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.48.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
