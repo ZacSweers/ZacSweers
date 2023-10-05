@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-05** — merged PR [#997](https://github.com/ZacSweers/CatchUp/pull/997) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.6"
+
 **2023-10-04** — deleted branch `z/demo1920bug` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-04** — merged PR [#921](https://github.com/slackhq/circuit/pull/921) to [slackhq/circuit](https://github.com/slackhq/circuit): "Demo kotlin 1.9.20 issue with KT-21846"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-04** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-04** — merged PR [#1002](https://github.com/ZacSweers/CatchUp/pull/1002) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.48.1"
-
-**2023-10-03** — deleted branch `z/moreDaggerCheck` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-03** — merged PR [#142](https://github.com/slackhq/slack-lints/pull/142) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add a complex type assignment check test to DaggerIssuesDetectorTest"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
