@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-06** — opened issue [#174](https://github.com/takahirom/roborazzi/issues/174) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Flaky execution when a test task is run with `clean`"
+
+**2023-10-06** — commented on [#173](https://github.com/takahirom/roborazzi/issues/173#issuecomment-1749950724) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2023-10-05** — deleted branch `z/retainedInFoundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-05** — closed issue [#891](https://github.com/slackhq/circuit/issues/891) on [slackhq/circuit](https://github.com/slackhq/circuit): "Promote `circuit-retained` setup to `CircuitCompositionLocals`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-05** — merged PR [#930](https://github.com/slackhq/circuit/pull/930) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
 
 **2023-10-05** — merged PR [#932](https://github.com/slackhq/circuit/pull/932) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle enterprise and redact local data"
-
-**2023-10-05** — opened PR [#932](https://github.com/slackhq/circuit/pull/932) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle enterprise and redact local data"
-
-**2023-10-05** — created branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
