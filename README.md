@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-06** — commented on [#174](https://github.com/takahirom/roborazzi/issues/174#issuecomment-1750738800) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2023-10-06** — commented on [#933](https://github.com/slackhq/circuit/issues/933#issuecomment-1750022658) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-06** — opened issue [#174](https://github.com/takahirom/roborazzi/issues/174) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Flaky execution when a test task is run with `clean`"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-05** — deleted branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-05** — closed issue [#244](https://github.com/slackhq/circuit/issues/244) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
-
-**2023-10-05** — merged PR [#930](https://github.com/slackhq/circuit/pull/930) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
