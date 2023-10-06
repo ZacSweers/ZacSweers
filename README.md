@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-06** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1751221375) in [google/guava](https://github.com/google/guava)
+
+**2023-10-06** — opened PR [#126](https://github.com/slackhq/keeper/pull/126) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update dependencies and raise min AGP/R8 version"
+
+**2023-10-06** — created branch `z/updateDeps` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-10-06** — commented on [#125](https://github.com/slackhq/keeper/issues/125#issuecomment-1751019578) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-10-06** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-06** — commented on [#939](https://github.com/slackhq/circuit/issues/939#issuecomment-1750860237) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-06** — closed issue [#933](https://github.com/slackhq/circuit/issues/933) on [slackhq/circuit](https://github.com/slackhq/circuit): "Handling screen lifecycles during navigation"
-
-**2023-10-06** — commented on [#933](https://github.com/slackhq/circuit/issues/933#issuecomment-1750853811) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-06** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1750839923) in [square/anvil](https://github.com/square/anvil)
-
-**2023-10-06** — closed issue [#914](https://github.com/slackhq/circuit/issues/914) on [slackhq/circuit](https://github.com/slackhq/circuit): "Allow nested backstack to be retained"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
