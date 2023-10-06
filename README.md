@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-06** — commented on [#174](https://github.com/takahirom/roborazzi/issues/174#issuecomment-1750738800) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+**2023-10-06** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-10-06** — commented on [#933](https://github.com/slackhq/circuit/issues/933#issuecomment-1750022658) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-06** — merged PR [#175](https://github.com/ZacSweers/redacted-compiler-plugin/pull/175) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.4"
 
-**2023-10-06** — opened issue [#174](https://github.com/takahirom/roborazzi/issues/174) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Flaky execution when a test task is run with `clean`"
+**2023-10-06** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-10-06** — commented on [#173](https://github.com/takahirom/roborazzi/issues/173#issuecomment-1749950724) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+**2023-10-06** — merged PR [#497](https://github.com/ZacSweers/MoshiX/pull/497) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.4"
 
-**2023-10-05** — deleted branch `z/retainedInFoundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-06** — commented on [#939](https://github.com/slackhq/circuit/issues/939#issuecomment-1750860237) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-10-05** — closed issue [#891](https://github.com/slackhq/circuit/issues/891) on [slackhq/circuit](https://github.com/slackhq/circuit): "Promote `circuit-retained` setup to `CircuitCompositionLocals`"
+**2023-10-06** — closed issue [#933](https://github.com/slackhq/circuit/issues/933) on [slackhq/circuit](https://github.com/slackhq/circuit): "Handling screen lifecycles during navigation"
 
-**2023-10-05** — merged PR [#931](https://github.com/slackhq/circuit/pull/931) to [slackhq/circuit](https://github.com/slackhq/circuit): "Include retained state registry setup in CircuitCompositionLocals"
+**2023-10-06** — commented on [#933](https://github.com/slackhq/circuit/issues/933#issuecomment-1750853811) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-10-05** — deleted branch `z/codeGenTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-06** — commented on [#693](https://github.com/square/anvil/issues/693#issuecomment-1750839923) in [square/anvil](https://github.com/square/anvil)
 
-**2023-10-05** — deleted branch `z/enterpriseUpdate` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-06** — closed issue [#914](https://github.com/slackhq/circuit/issues/914) on [slackhq/circuit](https://github.com/slackhq/circuit): "Allow nested backstack to be retained"
 
-**2023-10-05** — closed issue [#244](https://github.com/slackhq/circuit/issues/244) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add tests for code gen"
+**2023-10-06** — commented on [#914](https://github.com/slackhq/circuit/issues/914#issuecomment-1750836029) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
