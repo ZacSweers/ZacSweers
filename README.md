@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-08** — closed issue [#1703](https://github.com/square/kotlinpoet/issues/1703) on [square/kotlinpoet](https://github.com/square/kotlinpoet): ""Readability" mode to aid readability of some files instead of only focus on strict API mode"
+
+**2023-10-08** — commented on [#1703](https://github.com/square/kotlinpoet/issues/1703#issuecomment-1752160580) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-10-07** — commented on [#942](https://github.com/slackhq/circuit/issues/942#issuecomment-1751911446) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-06** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1751221375) in [google/guava](https://github.com/google/guava)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-06** — merged PR [#175](https://github.com/ZacSweers/redacted-compiler-plugin/pull/175) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.4"
 
 **2023-10-06** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-10-06** — merged PR [#497](https://github.com/ZacSweers/MoshiX/pull/497) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.4"
-
-**2023-10-06** — commented on [#939](https://github.com/slackhq/circuit/issues/939#issuecomment-1750860237) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
