@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-07** — commented on [#942](https://github.com/slackhq/circuit/issues/942#issuecomment-1751911446) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-10-06** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1751221375) in [google/guava](https://github.com/google/guava)
 
 **2023-10-06** — opened PR [#126](https://github.com/slackhq/keeper/pull/126) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update dependencies and raise min AGP/R8 version"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-06** — merged PR [#497](https://github.com/ZacSweers/MoshiX/pull/497) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.4"
 
 **2023-10-06** — commented on [#939](https://github.com/slackhq/circuit/issues/939#issuecomment-1750860237) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-06** — closed issue [#933](https://github.com/slackhq/circuit/issues/933) on [slackhq/circuit](https://github.com/slackhq/circuit): "Handling screen lifecycles during navigation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
