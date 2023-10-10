@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-10** — opened PR [#1](https://github.com/ZacSweers/paparazzi/pull/1) to [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi): "WIP test AGP 8 APIs"
+
+**2023-10-10** — created branch `z/gradleImprovements` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
+
 **2023-10-10** — commented on [#1105](https://github.com/cashapp/paparazzi/pull/1105#issuecomment-1755900289) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-10-10** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-1755643853) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-09** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-09** — merged PR [#148](https://github.com/slackhq/slack-lints/pull/148) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.4"
-
-**2023-10-09** — closed issue [#606](https://github.com/slackhq/slack-gradle-plugin/issues/606) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Issue on windows: when selecting some colors unable to see top right buttons"
-
-**2023-10-09** — commented on [#606](https://github.com/slackhq/slack-gradle-plugin/issues/606#issuecomment-1753517002) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
