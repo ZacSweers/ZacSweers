@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-10** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-1755643853) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-10-09** — created tag `0.6.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-09** — deleted branch `z/mockReports` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-09** — commented on [#606](https://github.com/slackhq/slack-gradle-plugin/issues/606#issuecomment-1753517002) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-10-09** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-09** — merged PR [#149](https://github.com/slackhq/slack-lints/pull/149) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
