@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-10** — closed PR [#1](https://github.com/ZacSweers/paparazzi/pull/1) to [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi): "WIP test AGP 8 APIs"
+
 **2023-10-10** — opened PR [#1136](https://github.com/cashapp/paparazzi/pull/1136) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Migrate to AGP 8 APIs and off of legacy variants API"
 
 **2023-10-10** — opened PR [#1](https://github.com/ZacSweers/paparazzi/pull/1) to [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi): "WIP test AGP 8 APIs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-09** — merged PR [#150](https://github.com/slackhq/slack-lints/pull/150) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add mock report option to MockDetector"
 
 **2023-10-09** — opened issue [#607](https://github.com/slackhq/slack-gradle-plugin/issues/607) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add baseline xml files support to skippy factoring"
-
-**2023-10-09** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
