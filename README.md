@@ -15,14 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-10** — commented on [#1105](https://github.com/cashapp/paparazzi/pull/1105#issuecomment-1755900289) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
 
 **2023-10-10** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-1755643853) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-10-09** — created tag `0.6.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-09** — deleted branch `z/mockReports` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-09** — merged PR [#150](https://github.com/slackhq/slack-lints/pull/150) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add mock report option to MockDetector"
-
-**2023-10-09** — opened issue [#607](https://github.com/slackhq/slack-gradle-plugin/issues/607) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add baseline xml files support to skippy factoring"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
