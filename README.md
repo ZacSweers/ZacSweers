@@ -11,10 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-10** — opened PR [#1](https://github.com/ZacSweers/paparazzi/pull/1) to [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi): "WIP test AGP 8 APIs"
 
 **2023-10-10** — created branch `z/gradleImprovements` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
-
-**2023-10-10** — commented on [#1105](https://github.com/cashapp/paparazzi/pull/1105#issuecomment-1755900289) in [cashapp/paparazzi](https://github.com/cashapp/paparazzi)
-
-**2023-10-10** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-1755643853) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
