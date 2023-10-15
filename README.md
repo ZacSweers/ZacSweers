@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-15** — created branch `z/moreOverrides` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-15** — commented on [#939](https://github.com/slackhq/circuit/issues/939#issuecomment-1763453191) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-15** — commented on [#876](https://github.com/slackhq/circuit/issues/876#issuecomment-1763453072) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-10-15** — closed issue [#876](https://github.com/slackhq/circuit/issues/876) on [slackhq/circuit](https://github.com/slackhq/circuit): "Make rememberRetained fail if LocalRetainedStateRegistry hasn't been configured."
+
 **2023-10-15** — created branch `z/kmpStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-14** — opened PR [#152](https://github.com/slackhq/slack-lints/pull/152) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for mock report modes + CSV format"
@@ -15,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-13** — created branch `z/moreValueClassMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-13** — commented on [#914](https://github.com/slackhq/circuit/issues/914#issuecomment-1761662023) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-12** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1760476865) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
