@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-10-16** — merged PR [#69](https://github.com/ZacSweers/auto-service-ksp/pull/69) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.10"
+
 **2023-10-15** — deleted branch `z/moreOverrides` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-15** — merged PR [#950](https://github.com/slackhq/circuit/pull/950) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more controls for overrides"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-15** — commented on [#178](https://github.com/slackhq/circuit/issues/178#issuecomment-1763464587) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-15** — opened PR [#951](https://github.com/slackhq/circuit/pull/951) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update lint to latest"
-
-**2023-10-15** — opened PR [#950](https://github.com/slackhq/circuit/pull/950) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more controls for overrides"
-
-**2023-10-15** — created branch `z/updateLint` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
