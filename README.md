@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-10-16** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-10-16** — merged PR [#177](https://github.com/ZacSweers/redacted-compiler-plugin/pull/177) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.10"
+**2023-10-16** — merged PR [#65](https://github.com/ZacSweers/auto-service-ksp/pull/65) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.46"
 
-**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-10-16** — merged PR [#501](https://github.com/ZacSweers/MoshiX/pull/501) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.9.10"
+**2023-10-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-10-16** — merged PR [#67](https://github.com/ZacSweers/auto-service-ksp/pull/67) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.4"
 
-**2023-10-16** — merged PR [#69](https://github.com/ZacSweers/auto-service-ksp/pull/69) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.10"
+**2023-10-16** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2023-10-15** — deleted branch `z/moreOverrides` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-16** — merged PR [#68](https://github.com/ZacSweers/auto-service-ksp/pull/68) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32.1.3-jre"
 
-**2023-10-15** — merged PR [#950](https://github.com/slackhq/circuit/pull/950) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more controls for overrides"
+**2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-10-15** — deleted branch `z/updateLint` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-16** — merged PR [#496](https://github.com/ZacSweers/MoshiX/pull/496) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.22.0"
 
-**2023-10-15** — merged PR [#951](https://github.com/slackhq/circuit/pull/951) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update lint to latest"
+**2023-10-16** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
