@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-10-16** — merged PR [#177](https://github.com/ZacSweers/redacted-compiler-plugin/pull/177) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.10"
+
+**2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-10-16** — merged PR [#501](https://github.com/ZacSweers/MoshiX/pull/501) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.9.10"
+
 **2023-10-16** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-10-16** — merged PR [#69](https://github.com/ZacSweers/auto-service-ksp/pull/69) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.10"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-15** — deleted branch `z/updateLint` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-15** — merged PR [#951](https://github.com/slackhq/circuit/pull/951) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update lint to latest"
-
-**2023-10-15** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-1763465205) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-15** — closed issue [#178](https://github.com/slackhq/circuit/issues/178) on [slackhq/circuit](https://github.com/slackhq/circuit): "Automatically publish docs site"
-
-**2023-10-15** — commented on [#178](https://github.com/slackhq/circuit/issues/178#issuecomment-1763464587) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-15** — opened PR [#951](https://github.com/slackhq/circuit/pull/951) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update lint to latest"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
