@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-16** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-1765244604) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-10-16** — created branch `z/shadeGuava` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
 
 **2023-10-16** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-16** — merged PR [#68](https://github.com/ZacSweers/auto-service-ksp/pull/68) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32.1.3-jre"
 
 **2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-10-16** — merged PR [#496](https://github.com/ZacSweers/MoshiX/pull/496) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
