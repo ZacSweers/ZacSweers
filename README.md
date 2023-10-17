@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-10-17** — merged PR [#59](https://github.com/slackhq/moshi-gson-interop/pull/59) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
+
 **2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-10-17** — merged PR [#496](https://github.com/uber/AutoDispose/pull/496) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-16** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-10-16** — merged PR [#65](https://github.com/ZacSweers/auto-service-ksp/pull/65) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.46"
-
-**2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-10-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
