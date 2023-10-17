@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-17** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-10-17** — merged PR [#174](https://github.com/ZacSweers/redacted-compiler-plugin/pull/174) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.22.0"
+
 **2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-10-17** — merged PR [#59](https://github.com/slackhq/moshi-gson-interop/pull/59) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-16** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-1765244604) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-10-16** — created branch `z/shadeGuava` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
-
-**2023-10-16** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-10-16** — merged PR [#65](https://github.com/ZacSweers/auto-service-ksp/pull/65) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.46"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
