@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-10-17** — merged PR [#496](https://github.com/uber/AutoDispose/pull/496) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
+
+**2023-10-17** — merged PR [#502](https://github.com/ZacSweers/MoshiX/pull/502) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp to v4.12.0"
+
+**2023-10-17** — deleted branch `renovate/okhttp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-10-16** — commented on [#19](https://github.com/slackhq/EitherNet/issues/19#issuecomment-1765244604) in [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-10-16** — created branch `z/shadeGuava` on [ZacSweers/paparazzi](https://github.com/ZacSweers/paparazzi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2023-10-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-10-16** — merged PR [#67](https://github.com/ZacSweers/auto-service-ksp/pull/67) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.4"
-
-**2023-10-16** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-10-16** — merged PR [#68](https://github.com/ZacSweers/auto-service-ksp/pull/68) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v32.1.3-jre"
-
-**2023-10-16** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
