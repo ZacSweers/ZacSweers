@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-19** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-10-19** — merged PR [#173](https://github.com/ZacSweers/redacted-compiler-plugin/pull/173) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to b4ffde6"
+
 **2023-10-18** — deleted branch `z/moreDataObjects` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-18** — merged PR [#955](https://github.com/slackhq/circuit/pull/955) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use data object in more appropriate places"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-10-17** — merged PR [#59](https://github.com/slackhq/moshi-gson-interop/pull/59) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
-
-**2023-10-17** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-10-17** — merged PR [#496](https://github.com/uber/AutoDispose/pull/496) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
