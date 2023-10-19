@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-19** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-19** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1003](https://github.com/ZacSweers/CatchUp/pull/1003) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.8.0"
+**2023-10-19** — merged PR [#1012](https://github.com/ZacSweers/CatchUp/pull/1012) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha08"
 
-**2023-10-19** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-19** — deleted branch `z/kotlin1920` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1004](https://github.com/ZacSweers/CatchUp/pull/1004) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-alpha08"
+**2023-10-19** — merged PR [#969](https://github.com/ZacSweers/CatchUp/pull/969) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for kotlin 1.9.20"
 
-**2023-10-19** — deleted branch `renovate/androidx.compose.ui-ui-text-google-fonts-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-19** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1006](https://github.com/ZacSweers/CatchUp/pull/1006) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.5.4"
+**2023-10-19** — merged PR [#1027](https://github.com/ZacSweers/CatchUp/pull/1027) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.229.0"
 
-**2023-10-19** — deleted branch `renovate/androidx.constraintlayout-constraintlayout-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-19** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1007](https://github.com/ZacSweers/CatchUp/pull/1007) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-alpha13"
+**2023-10-19** — merged PR [#1022](https://github.com/ZacSweers/CatchUp/pull/1022) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha01"
 
-**2023-10-19** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-19** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1008](https://github.com/ZacSweers/CatchUp/pull/1008) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha06"
+**2023-10-19** — merged PR [#1023](https://github.com/ZacSweers/CatchUp/pull/1023) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.10.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
