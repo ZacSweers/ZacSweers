@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-20** — commented on [#521](https://github.com/slackhq/circuit/issues/521#issuecomment-1772931134) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-20** — merged PR [#610](https://github.com/slackhq/slack-gradle-plugin/pull/610) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3.1"
 
-**2023-10-19** — commented on [#963](https://github.com/slackhq/circuit/pull/963#issuecomment-1771547684) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-20** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-10-19** — commented on [#521](https://github.com/slackhq/circuit/issues/521#issuecomment-1771537312) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — deleted branch `test-renovate/mkdocs-material-extensions-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-10-20** — merged PR [#1029](https://github.com/ZacSweers/CatchUp/pull/1029) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha09"
 
-**2023-10-19** — merged PR [#609](https://github.com/slackhq/slack-gradle-plugin/pull/609) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency mkdocs-material-extensions to v1.3"
+**2023-10-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — created tag `0.10.11` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-10-20** — merged PR [#1031](https://github.com/ZacSweers/CatchUp/pull/1031) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.230.0"
 
-**2023-10-19** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-20** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-19** — merged PR [#1012](https://github.com/ZacSweers/CatchUp/pull/1012) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha08"
+**2023-10-20** — merged PR [#1030](https://github.com/ZacSweers/CatchUp/pull/1030) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.16.2"
 
-**2023-10-19** — deleted branch `z/kotlin1920` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-20** — deleted branch `test-renovate/okhttp-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-10-19** — merged PR [#969](https://github.com/ZacSweers/CatchUp/pull/969) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for kotlin 1.9.20"
+**2023-10-20** — closed PR [#611](https://github.com/slackhq/slack-gradle-plugin/pull/611) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update okhttp monorepo to v5.0.0-SNAPSHOT"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
