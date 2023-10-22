@@ -4,25 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-21** — deleted branch `z/updateKmpLintConfig` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-22** — deleted branch `z/lintKmpWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-10-21** — merged PR [#1032](https://github.com/ZacSweers/CatchUp/pull/1032) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lint/KMP configs"
+**2023-10-22** — closed issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
 
-**2023-10-21** — opened PR [#1032](https://github.com/ZacSweers/CatchUp/pull/1032) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lint/KMP configs"
+**2023-10-22** — merged PR [#612](https://github.com/slackhq/slack-gradle-plugin/pull/612) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revamp lint handling to support KMP + incorporate some ideas from AndroidX"
 
-**2023-10-21** — opened issue [#614](https://github.com/slackhq/slack-gradle-plugin/issues/614) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add button to open WHATSNEW.md file from panel"
+**2023-10-22** — deleted branch `renovate/compose.runtime` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-10-21** — opened issue [#613](https://github.com/slackhq/slack-gradle-plugin/issues/613) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add "What's New" action to open panel on demand"
-
-**2023-10-21** — created branch `z/updateKmpLintConfig` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-20** — merged PR [#610](https://github.com/slackhq/slack-gradle-plugin/pull/610) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3.1"
-
-**2023-10-20** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-20** — merged PR [#1029](https://github.com/ZacSweers/CatchUp/pull/1029) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha09"
+**2023-10-22** — merged PR [#958](https://github.com/slackhq/circuit/pull/958) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.runtime to v1.5.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
