@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-22** — opened PR [#615](https://github.com/slackhq/slack-gradle-plugin/pull/615) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Delete MergeFileTask monkeypatch"
+
+**2023-10-22** — created branch `z/deleteMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-10-22** — commented on [#3120](https://github.com/Kotlin/dokka/issues/3120#issuecomment-1774176150) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
+
+**2023-10-22** — created tag `0.11.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-10-22** — deleted branch `z/lintKmpWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-10-22** — closed issue [#559](https://github.com/slackhq/slack-gradle-plugin/issues/559) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Apply lint plugin in multiplatform projects that _don't_ have an android target"
