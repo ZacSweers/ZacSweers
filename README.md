@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-21** — opened PR [#1032](https://github.com/ZacSweers/CatchUp/pull/1032) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lint/KMP configs"
-
-**2023-10-21** — opened issue [#614](https://github.com/slackhq/slack-gradle-plugin/issues/614) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add button to open WHATSNEW.md file from panel"
-
-**2023-10-21** — opened issue [#613](https://github.com/slackhq/slack-gradle-plugin/issues/613) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add "What's New" action to open panel on demand"
-
-**2023-10-21** — created branch `z/updateKmpLintConfig` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-20** — merged PR [#610](https://github.com/slackhq/slack-gradle-plugin/pull/610) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency pymdown-extensions to v10.3.1"
-
-**2023-10-20** — deleted branch `test-renovate/pymdown-extensions-10.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-20** — merged PR [#1029](https://github.com/ZacSweers/CatchUp/pull/1029) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha09"
-
-**2023-10-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-20** — merged PR [#1031](https://github.com/ZacSweers/CatchUp/pull/1031) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.230.0"
+**2023-10-21** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
