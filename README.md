@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-10-23** — merged PR [#1033](https://github.com/ZacSweers/CatchUp/pull/1033) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.1"
+
+**2023-10-23** — closed issue [#1749](https://github.com/square/moshi/issues/1749) on [square/moshi](https://github.com/square/moshi): "Can't serialize desugared models after updating to Kotlin 1.8.x"
+
+**2023-10-23** — commented on [#1749](https://github.com/square/moshi/issues/1749#issuecomment-1775375360) in [square/moshi](https://github.com/square/moshi)
+
 **2023-10-22** — created tag `0.11.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-10-22** — deleted branch `z/automergePip` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-22** — opened PR [#616](https://github.com/slackhq/slack-gradle-plugin/pull/616) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Auto-merge pip and non-major updates"
 
 **2023-10-22** — created branch `z/autoupdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-22** — opened PR [#966](https://github.com/slackhq/circuit/pull/966) to [slackhq/circuit](https://github.com/slackhq/circuit): "Auto-merge website pip dependency updates"
-
-**2023-10-22** — created branch `z/automergePip` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-22** — opened PR [#615](https://github.com/slackhq/slack-gradle-plugin/pull/615) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Delete MergeFileTask monkeypatch"
-
-**2023-10-22** — created branch `z/deleteMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
