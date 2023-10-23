@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-22** — created tag `0.11.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-10-22** — deleted branch `z/automergePip` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-22** — closed PR [#966](https://github.com/slackhq/circuit/pull/966) to [slackhq/circuit](https://github.com/slackhq/circuit): "Auto-merge website pip dependency updates"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-22** — opened PR [#615](https://github.com/slackhq/slack-gradle-plugin/pull/615) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Delete MergeFileTask monkeypatch"
 
 **2023-10-22** — created branch `z/deleteMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-22** — commented on [#3120](https://github.com/Kotlin/dokka/issues/3120#issuecomment-1774176150) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
