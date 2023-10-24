@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-24** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-10-24** — merged PR [#186](https://github.com/ZacSweers/kotlin-compile-testing/pull/186) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.4"
+
+**2023-10-24** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-10-24** — merged PR [#185](https://github.com/ZacSweers/kotlin-compile-testing/pull/185) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to b4ffde6"
+
+**2023-10-24** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-10-24** — merged PR [#187](https://github.com/ZacSweers/kotlin-compile-testing/pull/187) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.6.0"
+
 **2023-10-24** — commented on [#889](https://github.com/slackhq/circuit/pull/889#issuecomment-1777669822) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-10-24** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-24** — merged PR [#494](https://github.com/ZacSweers/MoshiX/pull/494) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.46"
 
 **2023-10-24** — deleted branch `z/autoupdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-24** — merged PR [#616](https://github.com/slackhq/slack-gradle-plugin/pull/616) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Auto-merge pip and non-major updates"
-
-**2023-10-24** — deleted branch `z/deleteMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-24** — merged PR [#615](https://github.com/slackhq/slack-gradle-plugin/pull/615) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Delete MergeFileTask monkeypatch"
-
-**2023-10-24** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1777506885) in [google/guava](https://github.com/google/guava)
-
-**2023-10-24** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1777490566) in [google/guava](https://github.com/google/guava)
-
-**2023-10-24** — opened issue [#6801](https://github.com/google/guava/issues/6801) on [google/guava](https://github.com/google/guava): "No way to force guava JRE versions in Android projects with new metadata"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
