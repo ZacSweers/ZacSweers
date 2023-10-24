@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-24** — commented on [#889](https://github.com/slackhq/circuit/pull/889#issuecomment-1777669822) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-10-24** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-10-24** — merged PR [#494](https://github.com/ZacSweers/MoshiX/pull/494) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.46"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-24** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1777490566) in [google/guava](https://github.com/google/guava)
 
 **2023-10-24** — opened issue [#6801](https://github.com/google/guava/issues/6801) on [google/guava](https://github.com/google/guava): "No way to force guava JRE versions in Android projects with new metadata"
-
-**2023-10-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
