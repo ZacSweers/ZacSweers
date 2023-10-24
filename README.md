@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-24** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-10-24** — merged PR [#494](https://github.com/ZacSweers/MoshiX/pull/494) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.46"
+
+**2023-10-24** — deleted branch `z/autoupdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-10-24** — merged PR [#616](https://github.com/slackhq/slack-gradle-plugin/pull/616) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Auto-merge pip and non-major updates"
+
+**2023-10-24** — deleted branch `z/deleteMonkeypatch` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-10-24** — merged PR [#615](https://github.com/slackhq/slack-gradle-plugin/pull/615) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Delete MergeFileTask monkeypatch"
+
+**2023-10-24** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1777506885) in [google/guava](https://github.com/google/guava)
+
 **2023-10-24** — commented on [#6612](https://github.com/google/guava/issues/6612#issuecomment-1777490566) in [google/guava](https://github.com/google/guava)
 
 **2023-10-24** — opened issue [#6801](https://github.com/google/guava/issues/6801) on [google/guava](https://github.com/google/guava): "No way to force guava JRE versions in Android projects with new metadata"
 
 **2023-10-23** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-23** — merged PR [#1033](https://github.com/ZacSweers/CatchUp/pull/1033) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.1"
-
-**2023-10-23** — closed issue [#1749](https://github.com/square/moshi/issues/1749) on [square/moshi](https://github.com/square/moshi): "Can't serialize desugared models after updating to Kotlin 1.8.x"
-
-**2023-10-23** — commented on [#1749](https://github.com/square/moshi/issues/1749#issuecomment-1775375360) in [square/moshi](https://github.com/square/moshi)
-
-**2023-10-22** — created tag `0.11.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-10-22** — deleted branch `z/automergePip` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-22** — closed PR [#966](https://github.com/slackhq/circuit/pull/966) to [slackhq/circuit](https://github.com/slackhq/circuit): "Auto-merge website pip dependency updates"
-
-**2023-10-22** — commented on [#966](https://github.com/slackhq/circuit/pull/966#issuecomment-1774240956) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
