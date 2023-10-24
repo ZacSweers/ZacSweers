@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-24** — deleted branch `z/moreValueClassMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-24** — merged PR [#151](https://github.com/slackhq/slack-lints/pull/151) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add an extra annotation-based check for value classes"
+
+**2023-10-24** — deleted branch `z/comprehensiveMockReports` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-24** — merged PR [#152](https://github.com/slackhq/slack-lints/pull/152) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for mock report modes + CSV format"
+
+**2023-10-24** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-24** — merged PR [#154](https://github.com/slackhq/slack-lints/pull/154) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha09"
+
+**2023-10-24** — closed issue [#188](https://github.com/ZacSweers/kotlin-compile-testing/issues/188) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support `SourceFile` inside folders"
+
+**2023-10-24** — merged PR [#189](https://github.com/ZacSweers/kotlin-compile-testing/pull/189) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Create parent directories of SourceFile"
+
 **2023-10-24** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-10-24** — merged PR [#186](https://github.com/ZacSweers/kotlin-compile-testing/pull/186) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.4"
-
-**2023-10-24** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-10-24** — merged PR [#185](https://github.com/ZacSweers/kotlin-compile-testing/pull/185) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to b4ffde6"
-
-**2023-10-24** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-10-24** — merged PR [#187](https://github.com/ZacSweers/kotlin-compile-testing/pull/187) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.6.0"
-
-**2023-10-24** — commented on [#889](https://github.com/slackhq/circuit/pull/889#issuecomment-1777669822) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-24** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-10-24** — merged PR [#494](https://github.com/ZacSweers/MoshiX/pull/494) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.46"
-
-**2023-10-24** — deleted branch `z/autoupdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
