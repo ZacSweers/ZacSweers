@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-24** — closed issue [#188](https://github.com/ZacSweers/kotlin-compile-testing/issues/188) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support `SourceFile` inside folders"
 
 **2023-10-24** — merged PR [#189](https://github.com/ZacSweers/kotlin-compile-testing/pull/189) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Create parent directories of SourceFile"
-
-**2023-10-24** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-10-24** — merged PR [#186](https://github.com/ZacSweers/kotlin-compile-testing/pull/186) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
