@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-24** — deleted branch `z/moreValueClassMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-27** — deleted branch `z/sealedMessage` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-10-24** — merged PR [#151](https://github.com/slackhq/slack-lints/pull/151) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add an extra annotation-based check for value classes"
+**2023-10-27** — merged PR [#159](https://github.com/slackhq/slack-lints/pull/159) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve the sealed class mock detector"
 
-**2023-10-24** — deleted branch `z/comprehensiveMockReports` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-27** — deleted branch `z/errorPlatformTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-10-24** — merged PR [#152](https://github.com/slackhq/slack-lints/pull/152) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add support for mock report modes + CSV format"
+**2023-10-27** — merged PR [#157](https://github.com/slackhq/slack-lints/pull/157) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Promote PlatformTypeMockDetector to error"
 
-**2023-10-24** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-27** — deleted branch `z/configurableDenyList` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-10-24** — merged PR [#154](https://github.com/slackhq/slack-lints/pull/154) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha09"
+**2023-10-27** — merged PR [#156](https://github.com/slackhq/slack-lints/pull/156) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Make denylisted API entry issues configurable"
 
-**2023-10-24** — closed issue [#188](https://github.com/ZacSweers/kotlin-compile-testing/issues/188) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support `SourceFile` inside folders"
+**2023-10-27** — opened PR [#159](https://github.com/slackhq/slack-lints/pull/159) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve the sealed class mock detector"
 
-**2023-10-24** — merged PR [#189](https://github.com/ZacSweers/kotlin-compile-testing/pull/189) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Create parent directories of SourceFile"
+**2023-10-27** — created branch `z/sealedMessage` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-27** — opened PR [#158](https://github.com/slackhq/slack-lints/pull/158) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Switch to lists everywhere for issues rather than arrays"
+
+**2023-10-27** — created branch `z/listIssues` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
