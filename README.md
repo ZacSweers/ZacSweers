@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-27** — opened PR [#160](https://github.com/slackhq/slack-lints/pull/160) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add LintKotlinVersionCheckTest"
+
+**2023-10-27** — deleted branch `z/listIssues` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-10-27** — merged PR [#158](https://github.com/slackhq/slack-lints/pull/158) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Switch to lists everywhere for issues rather than arrays"
+
+**2023-10-27** — created branch `z/kotlinVersionTest` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-10-27** — deleted branch `z/sealedMessage` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-27** — merged PR [#159](https://github.com/slackhq/slack-lints/pull/159) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve the sealed class mock detector"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-27** — deleted branch `z/configurableDenyList` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-10-27** — merged PR [#156](https://github.com/slackhq/slack-lints/pull/156) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Make denylisted API entry issues configurable"
-
-**2023-10-27** — opened PR [#159](https://github.com/slackhq/slack-lints/pull/159) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve the sealed class mock detector"
-
-**2023-10-27** — created branch `z/sealedMessage` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-27** — opened PR [#158](https://github.com/slackhq/slack-lints/pull/158) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Switch to lists everywhere for issues rather than arrays"
-
-**2023-10-27** — created branch `z/listIssues` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
