@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-27** — created tag `0.7.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2023-10-27** — opened PR [#160](https://github.com/slackhq/slack-lints/pull/160) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add LintKotlinVersionCheckTest"
 
 **2023-10-27** — deleted branch `z/listIssues` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-27** — merged PR [#157](https://github.com/slackhq/slack-lints/pull/157) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Promote PlatformTypeMockDetector to error"
 
 **2023-10-27** — deleted branch `z/configurableDenyList` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-10-27** — merged PR [#156](https://github.com/slackhq/slack-lints/pull/156) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Make denylisted API entry issues configurable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
