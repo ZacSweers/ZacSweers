@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-27** — deleted branch `z/kotlinVersionTest` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — opened issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not run on test sources"
 
-**2023-10-27** — merged PR [#160](https://github.com/slackhq/slack-lints/pull/160) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add LintKotlinVersionCheckTest"
+**2023-10-28** — opened issue [#161](https://github.com/slackhq/slack-lints/issues/161) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add option to configure known adapted types in MoshiUsage checks"
 
-**2023-10-27** — created tag `0.7.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — opened PR [#1040](https://github.com/ZacSweers/CatchUp/pull/1040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Generate baselines + fix some issues + try to trigger some others"
 
-**2023-10-27** — opened PR [#160](https://github.com/slackhq/slack-lints/pull/160) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add LintKotlinVersionCheckTest"
+**2023-10-28** — created branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-27** — deleted branch `z/listIssues` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-27** — merged PR [#158](https://github.com/slackhq/slack-lints/pull/158) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Switch to lists everywhere for issues rather than arrays"
+**2023-10-28** — merged PR [#1034](https://github.com/ZacSweers/CatchUp/pull/1034) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.233.0"
 
-**2023-10-27** — created branch `z/kotlinVersionTest` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-27** — deleted branch `z/sealedMessage` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — merged PR [#1035](https://github.com/ZacSweers/CatchUp/pull/1035) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.20-RC2"
 
-**2023-10-27** — merged PR [#159](https://github.com/slackhq/slack-lints/pull/159) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Improve the sealed class mock detector"
+**2023-10-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-27** — deleted branch `z/errorPlatformTypes` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-10-28** — merged PR [#1036](https://github.com/ZacSweers/CatchUp/pull/1036) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
