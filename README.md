@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-30** — created branch `z/lintWork` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-10-30** — opened PR [#621](https://github.com/slackhq/slack-gradle-plugin/pull/621) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make lint and detect baselines optional"
 
 **2023-10-30** — created branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-28** — merged PR [#1034](https://github.com/ZacSweers/CatchUp/pull/1034) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.233.0"
 
 **2023-10-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-28** — merged PR [#1035](https://github.com/ZacSweers/CatchUp/pull/1035) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.20-RC2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
