@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-30** — opened PR [#621](https://github.com/slackhq/slack-gradle-plugin/pull/621) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make lint and detect baselines optional"
+
+**2023-10-30** — created branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-10-28** — opened issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not run on test sources"
 
 **2023-10-28** — opened issue [#161](https://github.com/slackhq/slack-lints/issues/161) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add option to configure known adapted types in MoshiUsage checks"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-10-28** — merged PR [#1035](https://github.com/ZacSweers/CatchUp/pull/1035) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.20-RC2"
-
-**2023-10-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-10-28** — merged PR [#1036](https://github.com/ZacSweers/CatchUp/pull/1036) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
