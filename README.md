@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-30** — created branch `z/lintWork` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-10-30** — created tag `2.3.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-30** — opened PR [#621](https://github.com/slackhq/slack-gradle-plugin/pull/621) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make lint and detect baselines optional"
+**2023-10-30** — deleted branch `z/lintWork` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-30** — created branch `z/lintUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-10-30** — deleted branch `dependabot/gradle/com.squareup.okhttp3-okhttp-4.12.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-28** — opened issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not run on test sources"
+**2023-10-30** — merged PR [#55](https://github.com/slackhq/kotlin-cli-util/pull/55) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement LintBaselineMergerCli"
 
-**2023-10-28** — opened issue [#161](https://github.com/slackhq/slack-lints/issues/161) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add option to configure known adapted types in MoshiUsage checks"
+**2023-10-30** — merged PR [#53](https://github.com/slackhq/kotlin-cli-util/pull/53) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okhttp3:okhttp from 4.11.0 to 4.12.0"
 
-**2023-10-28** — opened PR [#1040](https://github.com/ZacSweers/CatchUp/pull/1040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Generate baselines + fix some issues + try to trigger some others"
+**2023-10-30** — deleted branch `dependabot/gradle/com.bugsnag-bugsnag-3.7.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-28** — created branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-30** — merged PR [#54](https://github.com/slackhq/kotlin-cli-util/pull/54) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.bugsnag:bugsnag from 3.7.0 to 3.7.1"
 
-**2023-10-28** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-30** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.2.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-28** — merged PR [#1034](https://github.com/ZacSweers/CatchUp/pull/1034) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.233.0"
+**2023-10-30** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.6.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-10-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-10-30** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
