@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-10-31** — opened PR [#58](https://github.com/slackhq/kotlin-cli-util/pull/58) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add rules to lint baseline merging output + pretty print"
+
+**2023-10-31** — created branch `z/rules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-10-31** — deleted branch `z/kotlin1920` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-10-31** — merged PR [#67](https://github.com/slackhq/EitherNet/pull/67) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prepare for Kotlin 1.9.20"
+
 **2023-10-31** — created tag `0.25.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-10-31** — created tag `1.7.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-31** — deleted branch `z/kotlin1920` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-10-31** — merged PR [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for Kotlin 1.9.20"
-
-**2023-10-31** — deleted branch `renovate/major-idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-10-31** — merged PR [#193](https://github.com/ZacSweers/kotlin-compile-testing/pull/193) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v232 (major)"
-
-**2023-10-31** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-10-31** — closed PR [#192](https://github.com/ZacSweers/kotlin-compile-testing/pull/192) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v222.4554.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
