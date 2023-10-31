@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-31** — deleted branch `z/kotlin1920` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-10-31** — created tag `0.25.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-10-31** — merged PR [#184](https://github.com/ZacSweers/kotlin-compile-testing/pull/184) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for Kotlin 1.9.20"
+**2023-10-31** — created tag `1.7.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-10-31** — deleted branch `renovate/kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-10-31** — deleted branch `z/kotlin1920` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-10-31** — closed PR [#972](https://github.com/slackhq/circuit/pull/972) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v1.9.20"
+**2023-10-31** — merged PR [#495](https://github.com/ZacSweers/MoshiX/pull/495) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 1.9.20"
 
-**2023-10-31** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-10-31** — deleted branch `z/kotlin1920` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-10-31** — merged PR [#170](https://github.com/ZacSweers/redacted-compiler-plugin/pull/170) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.46"
+**2023-10-31** — merged PR [#171](https://github.com/ZacSweers/redacted-compiler-plugin/pull/171) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for Kotlin 1.9.20"
 
-**2023-10-31** — deleted branch `z/robolectric411` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-10-31** — deleted branch `renovate/major-idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-10-31** — merged PR [#623](https://github.com/slackhq/slack-gradle-plugin/pull/623) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update robolectric jars for API 34"
+**2023-10-31** — merged PR [#193](https://github.com/ZacSweers/kotlin-compile-testing/pull/193) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v232 (major)"
 
-**2023-10-31** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-10-31** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2023-10-31** — closed PR [#178](https://github.com/ZacSweers/redacted-compiler-plugin/pull/178) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.20"
+**2023-10-31** — closed PR [#192](https://github.com/ZacSweers/kotlin-compile-testing/pull/192) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v222.4554.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
