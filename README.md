@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-31** — created tag `2.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — merged PR [#889](https://github.com/slackhq/circuit/pull/889) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.9.20"
-
-**2023-10-31** — deleted branch `z/kotlin1920` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-31** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — merged PR [#57](https://github.com/slackhq/kotlin-cli-util/pull/57) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.3"
-
-**2023-10-31** — deleted branch `z/rules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — merged PR [#58](https://github.com/slackhq/kotlin-cli-util/pull/58) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add rules to lint baseline merging output + pretty print"
-
-**2023-10-31** — commented on [#58](https://github.com/slackhq/kotlin-cli-util/pull/58#issuecomment-1788075994) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — opened PR [#58](https://github.com/slackhq/kotlin-cli-util/pull/58) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add rules to lint baseline merging output + pretty print"
-
-**2023-10-31** — created branch `z/rules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-01** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
