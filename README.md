@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-02** — deleted branch `z/addMoreExtensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-11-02** — merged PR [#70](https://github.com/slackhq/EitherNet/pull/70) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNothing and exceptionOrNull extensions"
+
 **2023-11-01** — opened PR [#70](https://github.com/slackhq/EitherNet/pull/70) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNothing and exceptionOrNull extensions"
 
 **2023-11-01** — created branch `z/addMoreExtensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -13,16 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789610888) in [square/moshi](https://github.com/square/moshi)
 
 **2023-10-31** — created tag `2.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — merged PR [#889](https://github.com/slackhq/circuit/pull/889) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 1.9.20"
-
-**2023-10-31** — deleted branch `z/kotlin1920` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-10-31** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — merged PR [#57](https://github.com/slackhq/kotlin-cli-util/pull/57) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.3"
-
-**2023-10-31** — deleted branch `z/rules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
