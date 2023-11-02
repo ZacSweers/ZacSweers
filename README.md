@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-02** — created tag `1.7.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2023-11-02** — deleted branch `z/addMoreExtensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2023-11-02** — merged PR [#70](https://github.com/slackhq/EitherNet/pull/70) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNothing and exceptionOrNull extensions"
@@ -15,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789964921) in [square/moshi](https://github.com/square/moshi)
 
 **2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789610888) in [square/moshi](https://github.com/square/moshi)
-
-**2023-10-31** — created tag `2.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
