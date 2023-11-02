@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-02** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-11-02** — deleted branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-02** — merged PR [#164](https://github.com/slackhq/slack-lints/pull/164) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.3"
+**2023-11-02** — merged PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
 
-**2023-11-02** — opened PR [#61](https://github.com/slackhq/kotlin-cli-util/pull/61) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream MergeSarifReports"
+**2023-11-02** — deleted branch `z/sarifMerger` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-02** — created branch `z/sarifMerger` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-02** — merged PR [#61](https://github.com/slackhq/kotlin-cli-util/pull/61) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream MergeSarifReports"
 
-**2023-11-02** — closed issue [#432](https://github.com/facebook/ktfmt/issues/432) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Continuation indent on delegating properties is missing"
+**2023-11-02** — commented on [#61](https://github.com/slackhq/kotlin-cli-util/pull/61#issuecomment-1791420202) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-02** — commented on [#432](https://github.com/facebook/ktfmt/issues/432#issuecomment-1791314150) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2023-11-02** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1791419301) in [google/guava](https://github.com/google/guava)
 
-**2023-11-02** — opened issue [#432](https://github.com/facebook/ktfmt/issues/432) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Continuation indent on delegating properties is missing"
+**2023-11-02** — opened PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
 
-**2023-11-02** — opened PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
+**2023-11-02** — created branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-02** — created branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-02** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-02** — created tag `1.7.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-11-02** — commented on [#626](https://github.com/slackhq/slack-gradle-plugin/pull/626#issuecomment-1791330949) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
