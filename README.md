@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-02** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-11-02** — merged PR [#164](https://github.com/slackhq/slack-lints/pull/164) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.3"
+
+**2023-11-02** — opened PR [#61](https://github.com/slackhq/kotlin-cli-util/pull/61) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream MergeSarifReports"
+
+**2023-11-02** — created branch `z/sarifMerger` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-02** — closed issue [#432](https://github.com/facebook/ktfmt/issues/432) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Continuation indent on delegating properties is missing"
+
+**2023-11-02** — commented on [#432](https://github.com/facebook/ktfmt/issues/432#issuecomment-1791314150) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2023-11-02** — opened issue [#432](https://github.com/facebook/ktfmt/issues/432) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Continuation indent on delegating properties is missing"
+
+**2023-11-02** — opened PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
+
+**2023-11-02** — created branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-11-02** — created tag `1.7.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-11-02** — deleted branch `z/addMoreExtensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-11-02** — merged PR [#70](https://github.com/slackhq/EitherNet/pull/70) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNothing and exceptionOrNull extensions"
-
-**2023-11-01** — opened PR [#70](https://github.com/slackhq/EitherNet/pull/70) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add successOrNothing and exceptionOrNull extensions"
-
-**2023-11-01** — created branch `z/addMoreExtensions` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789964921) in [square/moshi](https://github.com/square/moshi)
-
-**2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789610888) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
