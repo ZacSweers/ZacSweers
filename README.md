@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789964921) in [square/moshi](https://github.com/square/moshi)
+
 **2023-11-01** — commented on [#1738](https://github.com/square/moshi/issues/1738#issuecomment-1789610888) in [square/moshi](https://github.com/square/moshi)
 
 **2023-10-31** — created tag `2.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-10-31** — merged PR [#58](https://github.com/slackhq/kotlin-cli-util/pull/58) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add rules to lint baseline merging output + pretty print"
 
 **2023-10-31** — commented on [#58](https://github.com/slackhq/kotlin-cli-util/pull/58#issuecomment-1788075994) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-10-31** — opened PR [#58](https://github.com/slackhq/kotlin-cli-util/pull/58) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add rules to lint baseline merging output + pretty print"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
