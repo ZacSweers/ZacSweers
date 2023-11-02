@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-02** — created tag `2.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-11-02** — deleted branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-02** — merged PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-02** — created branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-02** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-02** — commented on [#626](https://github.com/slackhq/slack-gradle-plugin/pull/626#issuecomment-1791330949) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
