@@ -18,7 +18,7 @@ clikt = "com.github.ajalt.clikt:clikt:4.2.0"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.1"
 compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.8.0"
 compose-material3 = "org.jetbrains.compose.material3:material3:1.5.2"
-eithernet = "com.slack.eithernet:eithernet:1.6.0"
+eithernet = "com.slack.eithernet:eithernet:1.8.0"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.4.1"
 kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json-okio", version.ref = "kotlinx-serialization" }
