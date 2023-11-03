@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-02** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
-
-**2023-11-02** — merged PR [#1756](https://github.com/square/moshi/pull/1756) to [square/moshi](https://github.com/square/moshi): "Update ksp to v1.9.20-1.0.14"
-
-**2023-11-02** — created tag `2.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-02** — deleted branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-02** — merged PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
-
-**2023-11-02** — deleted branch `z/sarifMerger` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-02** — merged PR [#61](https://github.com/slackhq/kotlin-cli-util/pull/61) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream MergeSarifReports"
-
-**2023-11-02** — commented on [#61](https://github.com/slackhq/kotlin-cli-util/pull/61#issuecomment-1791420202) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-02** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1791419301) in [google/guava](https://github.com/google/guava)
-
-**2023-11-02** — opened PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
+**2023-11-02** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
