@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-03** — created tag `1.8.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-11-03** — deleted branch `z/moreExtensionWork` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-11-03** — merged PR [#71](https://github.com/slackhq/EitherNet/pull/71) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc extensions improvements"
+
 **2023-11-03** — deleted branch `renovate/mkdocs-material-extensions-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-11-03** — merged PR [#187](https://github.com/slackhq/compose-lints/pull/187) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material-extensions to v1.3"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-03** — merged PR [#191](https://github.com/slackhq/compose-lints/pull/191) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.3"
 
 **2023-11-03** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-03** — merged PR [#183](https://github.com/slackhq/compose-lints/pull/183) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.4"
-
-**2023-11-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-03** — merged PR [#182](https://github.com/slackhq/compose-lints/pull/182) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.4.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
