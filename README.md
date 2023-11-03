@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-03** — closed issue [#1757](https://github.com/square/moshi/issues/1757) on [square/moshi](https://github.com/square/moshi): "Decompiled code still shows annotated name"
+**2023-11-03** — deleted branch `renovate/mkdocs-material-extensions-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-03** — commented on [#1757](https://github.com/square/moshi/issues/1757#issuecomment-1792671090) in [square/moshi](https://github.com/square/moshi)
+**2023-11-03** — merged PR [#187](https://github.com/slackhq/compose-lints/pull/187) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material-extensions to v1.3"
 
-**2023-11-02** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
+**2023-11-03** — deleted branch `renovate/pymdown-extensions-10.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-02** — merged PR [#1756](https://github.com/square/moshi/pull/1756) to [square/moshi](https://github.com/square/moshi): "Update ksp to v1.9.20-1.0.14"
+**2023-11-03** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-02** — created tag `2.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-03** — merged PR [#188](https://github.com/slackhq/compose-lints/pull/188) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.3.1"
 
-**2023-11-02** — deleted branch `z/fixes` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-03** — merged PR [#191](https://github.com/slackhq/compose-lints/pull/191) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.3"
 
-**2023-11-02** — merged PR [#60](https://github.com/slackhq/kotlin-cli-util/pull/60) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Don't use absolutePathString in line baselines"
+**2023-11-03** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-02** — deleted branch `z/sarifMerger` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-03** — merged PR [#183](https://github.com/slackhq/compose-lints/pull/183) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.4"
 
-**2023-11-02** — merged PR [#61](https://github.com/slackhq/kotlin-cli-util/pull/61) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Upstream MergeSarifReports"
+**2023-11-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-02** — commented on [#61](https://github.com/slackhq/kotlin-cli-util/pull/61#issuecomment-1791420202) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-03** — merged PR [#182](https://github.com/slackhq/compose-lints/pull/182) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.4.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
