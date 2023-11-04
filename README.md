@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-04** — deleted branch `z/kotlin1920` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-04** — deleted branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-04** — merged PR [#573](https://github.com/slackhq/slack-gradle-plugin/pull/573) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.9.20"
+**2023-11-04** — merged PR [#1040](https://github.com/ZacSweers/CatchUp/pull/1040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Generate baselines + fix some issues + try to trigger some others"
 
-**2023-11-03** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1793294284) in [google/guava](https://github.com/google/guava)
+**2023-11-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-03** — created tag `1.8.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-11-04** — merged PR [#1060](https://github.com/ZacSweers/CatchUp/pull/1060) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.236.0"
 
-**2023-11-03** — deleted branch `z/moreExtensionWork` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2023-11-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-03** — merged PR [#71](https://github.com/slackhq/EitherNet/pull/71) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Misc extensions improvements"
+**2023-11-04** — merged PR [#1058](https://github.com/ZacSweers/CatchUp/pull/1058) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.0"
 
-**2023-11-03** — deleted branch `renovate/mkdocs-material-extensions-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-04** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-03** — merged PR [#187](https://github.com/slackhq/compose-lints/pull/187) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material-extensions to v1.3"
+**2023-11-04** — merged PR [#1059](https://github.com/ZacSweers/CatchUp/pull/1059) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.8.0"
 
-**2023-11-03** — deleted branch `renovate/pymdown-extensions-10.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-04** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-03** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-04** — merged PR [#1057](https://github.com/ZacSweers/CatchUp/pull/1057) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
