@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-04** — deleted branch `z/kotlin1920` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-04** — merged PR [#573](https://github.com/slackhq/slack-gradle-plugin/pull/573) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Kotlin 1.9.20"
+
 **2023-11-03** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1793294284) in [google/guava](https://github.com/google/guava)
 
 **2023-11-03** — created tag `1.8.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-03** — deleted branch `renovate/pymdown-extensions-10.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-11-03** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-03** — merged PR [#188](https://github.com/slackhq/compose-lints/pull/188) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.3.1"
-
-**2023-11-03** — merged PR [#191](https://github.com/slackhq/compose-lints/pull/191) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
