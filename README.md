@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-06** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-11-06** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-11-06** — merged PR [#167](https://github.com/slackhq/slack-lints/pull/167) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.20-1.0.14"
+
+**2023-11-06** — merged PR [#165](https://github.com/slackhq/slack-lints/pull/165) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.3"
+
 **2023-11-04** — deleted branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-04** — merged PR [#1040](https://github.com/ZacSweers/CatchUp/pull/1040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Generate baselines + fix some issues + try to trigger some others"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-04** — merged PR [#1058](https://github.com/ZacSweers/CatchUp/pull/1058) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.0"
-
-**2023-11-04** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-04** — merged PR [#1059](https://github.com/ZacSweers/CatchUp/pull/1059) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.8.0"
-
-**2023-11-04** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-04** — merged PR [#1057](https://github.com/ZacSweers/CatchUp/pull/1057) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.7.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
