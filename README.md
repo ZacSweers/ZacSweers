@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-07** — opened issue [#630](https://github.com/slackhq/slack-gradle-plugin/issues/630) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add per-skippy-mode skips/never skips configuration support"
+
+**2023-11-07** — opened PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
+
+**2023-11-07** — created branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-11-07** — merged PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
 
 **2023-11-07** — deleted branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-06** — merged PR [#165](https://github.com/slackhq/slack-lints/pull/165) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.3"
 
 **2023-11-04** — deleted branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-04** — merged PR [#1040](https://github.com/ZacSweers/CatchUp/pull/1040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Generate baselines + fix some issues + try to trigger some others"
-
-**2023-11-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-04** — merged PR [#1060](https://github.com/ZacSweers/CatchUp/pull/1060) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.236.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
