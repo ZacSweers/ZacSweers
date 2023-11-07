@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-07** — merged PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
+
+**2023-11-07** — deleted branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-11-06** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-11-06** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-04** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-04** — merged PR [#1060](https://github.com/ZacSweers/CatchUp/pull/1060) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.236.0"
-
-**2023-11-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-04** — merged PR [#1058](https://github.com/ZacSweers/CatchUp/pull/1058) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
