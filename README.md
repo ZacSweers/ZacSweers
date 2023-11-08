@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-08** — deleted branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-08** — merged PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
+
+**2023-11-08** — created branch `revert-627-z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-11-08** — closed issue [#1758](https://github.com/square/moshi/issues/1758) on [square/moshi](https://github.com/square/moshi): "Option/config to force/require `@Json(name = "…")` annotations on all fields ("Strict mode")"
 
 **2023-11-08** — commented on [#1758](https://github.com/square/moshi/issues/1758#issuecomment-1801981727) in [square/moshi](https://github.com/square/moshi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-07** — merged PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
 
 **2023-11-07** — deleted branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-06** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-11-06** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-11-06** — merged PR [#167](https://github.com/slackhq/slack-lints/pull/167) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.20-1.0.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
