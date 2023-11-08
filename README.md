@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-08** — closed issue [#1758](https://github.com/square/moshi/issues/1758) on [square/moshi](https://github.com/square/moshi): "Option/config to force/require `@Json(name = "…")` annotations on all fields ("Strict mode")"
+
+**2023-11-08** — commented on [#1758](https://github.com/square/moshi/issues/1758#issuecomment-1801981727) in [square/moshi](https://github.com/square/moshi)
+
 **2023-11-07** — opened issue [#630](https://github.com/slackhq/slack-gradle-plugin/issues/630) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add per-skippy-mode skips/never skips configuration support"
 
 **2023-11-07** — opened PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-06** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-11-06** — merged PR [#167](https://github.com/slackhq/slack-lints/pull/167) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.20-1.0.14"
-
-**2023-11-06** — merged PR [#165](https://github.com/slackhq/slack-lints/pull/165) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.3"
-
-**2023-11-04** — deleted branch `z/lintUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
