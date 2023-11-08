@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-08** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1802708529) in [google/guava](https://github.com/google/guava)
+
+**2023-11-08** — opened PR [#632](https://github.com/slackhq/slack-gradle-plugin/pull/632) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Simplify detekt baseline handling""
+
+**2023-11-08** — deleted branch `dependabot/gradle/kotlin-1.9.20` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-11-08** — merged PR [#499](https://github.com/uber/AutoDispose/pull/499) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.10 to 1.9.20"
+
+**2023-11-08** — deleted branch `dependabot/gradle/io.reactivex.rxjava3-rxjava-3.1.8` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-11-08** — merged PR [#493](https://github.com/uber/AutoDispose/pull/493) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump io.reactivex.rxjava3:rxjava from 3.1.7 to 3.1.8"
+
 **2023-11-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.16` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-11-08** — merged PR [#500](https://github.com/uber/AutoDispose/pull/500) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.14 to 0.10.16"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-08** — deleted branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-08** — merged PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
-
-**2023-11-08** — created branch `revert-627-z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-08** — closed issue [#1758](https://github.com/square/moshi/issues/1758) on [square/moshi](https://github.com/square/moshi): "Option/config to force/require `@Json(name = "…")` annotations on all fields ("Strict mode")"
-
-**2023-11-08** — commented on [#1758](https://github.com/square/moshi/issues/1758#issuecomment-1801981727) in [square/moshi](https://github.com/square/moshi)
-
-**2023-11-07** — opened issue [#630](https://github.com/slackhq/slack-gradle-plugin/issues/630) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add per-skippy-mode skips/never skips configuration support"
-
-**2023-11-07** — opened PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
-
-**2023-11-07** — created branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
