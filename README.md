@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.16` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-11-08** — merged PR [#500](https://github.com/uber/AutoDispose/pull/500) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.14 to 0.10.16"
+
 **2023-11-08** — deleted branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-08** — merged PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-07** — opened PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
 
 **2023-11-07** — created branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-07** — merged PR [#627](https://github.com/slackhq/slack-gradle-plugin/pull/627) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Simplify detekt baseline handling"
-
-**2023-11-07** — deleted branch `z/noMoreGlobalDetekt` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
