@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-09** — deleted branch `js-fix-retained-input` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-09** — merged PR [#989](https://github.com/slackhq/circuit/pull/989) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix retained value not recalculating if inputs changed "
+
+**2023-11-09** — commented on [#989](https://github.com/slackhq/circuit/pull/989#issuecomment-1804447235) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-09** — commented on [#128](https://github.com/slackhq/keeper/issues/128#issuecomment-1804407445) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2023-11-09** — commented on [#197](https://github.com/slackhq/compose-lints/issues/197#issuecomment-1804294323) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-11-08** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1802708529) in [google/guava](https://github.com/google/guava)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-08** — merged PR [#499](https://github.com/uber/AutoDispose/pull/499) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.10 to 1.9.20"
 
 **2023-11-08** — deleted branch `dependabot/gradle/io.reactivex.rxjava3-rxjava-3.1.8` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-11-08** — merged PR [#493](https://github.com/uber/AutoDispose/pull/493) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump io.reactivex.rxjava3:rxjava from 3.1.7 to 3.1.8"
-
-**2023-11-08** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.16` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-11-08** — merged PR [#500](https://github.com/uber/AutoDispose/pull/500) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.14 to 0.10.16"
-
-**2023-11-08** — deleted branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
