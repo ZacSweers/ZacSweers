@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — opened PR [#633](https://github.com/slackhq/slack-gradle-plugin/pull/633) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AgpHandler 8.3 to alpha 13"
 
-**2023-11-09** — merged PR [#1065](https://github.com/ZacSweers/CatchUp/pull/1065) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.4"
+**2023-11-09** — created branch `z/agp8313` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-09** — deleted branch `renovate/com.osacky.doctor-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — created tag `2.5.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-09** — merged PR [#1064](https://github.com/ZacSweers/CatchUp/pull/1064) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.9.0"
+**2023-11-09** — deleted branch `dependabot/gradle/kotlin-1.9.20` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-09** — deleted branch `renovate/com.bugsnag-bugsnag-android-5.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — merged PR [#56](https://github.com/slackhq/kotlin-cli-util/pull/56) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.10 to 1.9.20 + moshix 0.25 + jvm target 17"
 
-**2023-11-09** — merged PR [#1061](https://github.com/ZacSweers/CatchUp/pull/1061) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v5.31.3"
+**2023-11-09** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.25.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-09** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — closed PR [#59](https://github.com/slackhq/kotlin-cli-util/pull/59) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.24.3 to 0.25.0"
 
-**2023-11-09** — merged PR [#1062](https://github.com/ZacSweers/CatchUp/pull/1062) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.8.5"
+**2023-11-09** — deleted branch `z/appExtraction` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-09** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — merged PR [#1067](https://github.com/ZacSweers/CatchUp/pull/1067) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Make :app just an APK shell project, extract rest to a library"
 
-**2023-11-09** — merged PR [#1063](https://github.com/ZacSweers/CatchUp/pull/1063) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.4"
+**2023-11-09** — deleted branch `z/fixLocation` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
