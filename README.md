@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-09** — commented on [#197](https://github.com/slackhq/compose-lints/issues/197#issuecomment-1804294323) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-11-08** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1802708529) in [google/guava](https://github.com/google/guava)
 
 **2023-11-08** — opened PR [#632](https://github.com/slackhq/slack-gradle-plugin/pull/632) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Simplify detekt baseline handling""
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-08** — merged PR [#500](https://github.com/uber/AutoDispose/pull/500) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.14 to 0.10.16"
 
 **2023-11-08** — deleted branch `z/allowEmpty` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-08** — merged PR [#62](https://github.com/slackhq/kotlin-cli-util/pull/62) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Allow graceful handling of no sarif files"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
