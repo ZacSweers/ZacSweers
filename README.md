@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-09** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-09** — merged PR [#1068](https://github.com/ZacSweers/CatchUp/pull/1068) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha13"
+
+**2023-11-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-09** — merged PR [#1069](https://github.com/ZacSweers/CatchUp/pull/1069) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.6"
+
+**2023-11-09** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-09** — merged PR [#1070](https://github.com/ZacSweers/CatchUp/pull/1070) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.1"
+
+**2023-11-09** — created tag `0.16.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-11-09** — created tag `0.11.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-09** — deleted branch `z/detektBaseline` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-09** — merged PR [#634](https://github.com/slackhq/slack-gradle-plugin/pull/634) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use explicitly null baseline for detekt if none is specified"
-
-**2023-11-09** — opened PR [#634](https://github.com/slackhq/slack-gradle-plugin/pull/634) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Use explicitly null baseline for detekt if none is specified"
-
-**2023-11-09** — created branch `z/detektBaseline` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-09** — created tag `0.11.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-09** — deleted branch `z/agp8313` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-09** — merged PR [#633](https://github.com/slackhq/slack-gradle-plugin/pull/633) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AgpHandler 8.3 to alpha 13"
-
-**2023-11-09** — opened PR [#633](https://github.com/slackhq/slack-gradle-plugin/pull/633) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update AgpHandler 8.3 to alpha 13"
-
-**2023-11-09** — created branch `z/agp8313` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
