@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-10-01** — merged PR [#996](https://github.com/ZacSweers/CatchUp/pull/996) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.6.0"
+**2023-11-10** — created tag `0.11.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-10-01** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-01** — deleted branch `z/dependencyDSL` on [ZacSweers/dependency-analysis-android-gradle-plugin](https://github.com/ZacSweers/dependency-analysis-android-gradle-plugin)
+**2023-11-09** — merged PR [#1068](https://github.com/ZacSweers/CatchUp/pull/1068) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha13"
 
-**2023-10-01** — opened issue [#599](https://github.com/slackhq/slack-gradle-plugin/issues/599) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to sortDependencies"
+**2023-11-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-01** — opened issue [#598](https://github.com/slackhq/slack-gradle-plugin/issues/598) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add skippy support to spotless"
+**2023-11-09** — merged PR [#1069](https://github.com/ZacSweers/CatchUp/pull/1069) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.6"
 
-**2023-10-01** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-09** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-10-01** — merged PR [#49](https://github.com/slackhq/kotlin-cli-util/pull/49) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.21.0 to 6.22.0"
+**2023-11-09** — merged PR [#1070](https://github.com/ZacSweers/CatchUp/pull/1070) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.1"
 
-**2023-10-01** — deleted branch `z/moreRakes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-09** — created tag `0.16.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2023-10-01** — merged PR [#995](https://github.com/ZacSweers/CatchUp/pull/995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More dependency rake"
+**2023-11-09** — created tag `0.11.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-10-01** — opened PR [#995](https://github.com/ZacSweers/CatchUp/pull/995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "More dependency rake"
+**2023-11-09** — deleted branch `z/detektBaseline` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
