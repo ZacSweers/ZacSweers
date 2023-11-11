@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-10** — created tag `0.11.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-11** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-09** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-11** — merged PR [#82](https://github.com/ZacSweers/ZacSweers/pull/82) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.10"
 
-**2023-11-09** — merged PR [#1068](https://github.com/ZacSweers/CatchUp/pull/1068) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha13"
+**2023-11-11** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-11** — merged PR [#100](https://github.com/ZacSweers/ZacSweers/pull/100) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
 
-**2023-11-09** — merged PR [#1069](https://github.com/ZacSweers/CatchUp/pull/1069) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.11.6"
+**2023-11-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-09** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-11** — merged PR [#101](https://github.com/ZacSweers/ZacSweers/pull/101) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.4"
 
-**2023-11-09** — merged PR [#1070](https://github.com/ZacSweers/CatchUp/pull/1070) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.16.1"
+**2023-11-11** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-09** — created tag `0.16.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-11** — merged PR [#105](https://github.com/ZacSweers/ZacSweers/pull/105) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.3"
 
-**2023-11-09** — created tag `0.11.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-11** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-09** — deleted branch `z/detektBaseline` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-11** — merged PR [#103](https://github.com/ZacSweers/ZacSweers/pull/103) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
