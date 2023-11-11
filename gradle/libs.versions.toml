@@ -14,7 +14,7 @@ ksp = { id = "com.google.devtools.ksp", version = "1.9.20-1.0.14" }
 spotless = { id = "com.diffplug.spotless", version = "6.22.0" }
 
 [libraries]
-clikt = "com.github.ajalt.clikt:clikt:4.2.0"
+clikt = "com.github.ajalt.clikt:clikt:4.2.1"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.3"
 compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.9.0"
 compose-material3 = "org.jetbrains.compose.material3:material3:1.5.10"
