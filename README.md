@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-13** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-13** — merged PR [#1071](https://github.com/ZacSweers/CatchUp/pull/1071) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.3.1"
+
+**2023-11-13** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-13** — merged PR [#1072](https://github.com/ZacSweers/CatchUp/pull/1072) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.237.0"
+
+**2023-11-13** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-13** — merged PR [#1073](https://github.com/ZacSweers/CatchUp/pull/1073) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.44.0.0"
+
 **2023-11-13** — deleted branch `z/deprecations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-13** — merged PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-13** — opened issue [#1604](https://github.com/google/ksp/issues/1604) on [google/ksp](https://github.com/google/ksp): "KSP handling of resources directories invalidates configuration cache"
 
 **2023-11-13** — opened PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
-
-**2023-11-13** — created branch `z/deprecations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-13** — created branch `z/lintTesting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-11** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-11** — merged PR [#82](https://github.com/ZacSweers/ZacSweers/pull/82) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.10"
-
-**2023-11-11** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-11** — merged PR [#100](https://github.com/ZacSweers/ZacSweers/pull/100) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
