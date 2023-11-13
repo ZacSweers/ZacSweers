@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-13** — deleted branch `z/deprecations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-13** — merged PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
+
+**2023-11-13** — opened issue [#1604](https://github.com/google/ksp/issues/1604) on [google/ksp](https://github.com/google/ksp): "KSP handling of resources directories invalidates configuration cache"
+
+**2023-11-13** — opened PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
+
+**2023-11-13** — created branch `z/deprecations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-13** — created branch `z/lintTesting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-11-11** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-11** — merged PR [#82](https://github.com/ZacSweers/ZacSweers/pull/82) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.10"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-11** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-11** — merged PR [#100](https://github.com/ZacSweers/ZacSweers/pull/100) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.1"
-
-**2023-11-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-11** — merged PR [#101](https://github.com/ZacSweers/ZacSweers/pull/101) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.4"
-
-**2023-11-11** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-11** — merged PR [#105](https://github.com/ZacSweers/ZacSweers/pull/105) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.3"
-
-**2023-11-11** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-11** — merged PR [#103](https://github.com/ZacSweers/ZacSweers/pull/103) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
