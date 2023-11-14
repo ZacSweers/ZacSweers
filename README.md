@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1810435635) in [google/guava](https://github.com/google/guava)
+**2023-11-14** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.14.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-11-13** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-14** — merged PR [#40](https://github.com/slackhq/auto-value-kotlin/pull/40) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.13.2 to 1.14.2"
 
-**2023-11-13** — merged PR [#1071](https://github.com/ZacSweers/CatchUp/pull/1071) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.3.1"
+**2023-11-14** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-11-13** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-14** — merged PR [#70](https://github.com/slackhq/auto-value-kotlin/pull/70) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.diffplug.spotless from 6.19.0 to 6.22.0"
 
-**2023-11-13** — merged PR [#1072](https://github.com/ZacSweers/CatchUp/pull/1072) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.237.0"
+**2023-11-14** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.4` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-11-13** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-14** — merged PR [#68](https://github.com/slackhq/auto-value-kotlin/pull/68) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.10.2 to 1.10.4"
 
-**2023-11-13** — merged PR [#1073](https://github.com/ZacSweers/CatchUp/pull/1073) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.44.0.0"
+**2023-11-14** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-11-13** — deleted branch `z/deprecations` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-14** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2023-11-13** — merged PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
+**2023-11-14** — merged PR [#75](https://github.com/slackhq/auto-value-kotlin/pull/75) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.10 to 1.9.20"
 
-**2023-11-13** — opened issue [#1604](https://github.com/google/ksp/issues/1604) on [google/ksp](https://github.com/google/ksp): "KSP handling of resources directories invalidates configuration cache"
+**2023-11-14** — merged PR [#72](https://github.com/slackhq/auto-value-kotlin/pull/72) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.9.0 to 1.9.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
