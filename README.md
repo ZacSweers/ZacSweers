@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1811559104) in [google/guava](https://github.com/google/guava)
+
+**2023-11-14** — opened PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
+
+**2023-11-14** — created branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-11-14** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1811484601) in [google/ksp](https://github.com/google/ksp)
 
 **2023-11-14** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.14.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-14** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.4` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-14** — merged PR [#68](https://github.com/slackhq/auto-value-kotlin/pull/68) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.10.2 to 1.10.4"
-
-**2023-11-14** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.10` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-14** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-14** — merged PR [#75](https://github.com/slackhq/auto-value-kotlin/pull/75) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.10 to 1.9.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
