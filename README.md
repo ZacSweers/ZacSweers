@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1810435635) in [google/guava](https://github.com/google/guava)
+
 **2023-11-13** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-13** — merged PR [#1071](https://github.com/ZacSweers/CatchUp/pull/1071) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.3.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-13** — merged PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
 
 **2023-11-13** — opened issue [#1604](https://github.com/google/ksp/issues/1604) on [google/ksp](https://github.com/google/ksp): "KSP handling of resources directories invalidates configuration cache"
-
-**2023-11-13** — opened PR [#636](https://github.com/slackhq/slack-gradle-plugin/pull/636) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix deprecated forkEvery call"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
