@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-15** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-11-15** — merged PR [#109](https://github.com/ZacSweers/ZacSweers/pull/109) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.1"
+
 **2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1811559104) in [google/guava](https://github.com/google/guava)
 
 **2023-11-14** — opened PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-14** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-14** — merged PR [#70](https://github.com/slackhq/auto-value-kotlin/pull/70) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.diffplug.spotless from 6.19.0 to 6.22.0"
-
-**2023-11-14** — deleted branch `dependabot/gradle/com.google.auto.value-auto-value-1.10.4` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-14** — merged PR [#68](https://github.com/slackhq/auto-value-kotlin/pull/68) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.auto.value:auto-value from 1.10.2 to 1.10.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
