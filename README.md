@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-15** — deleted branch `z/circuitDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-15** — merged PR [#637](https://github.com/slackhq/slack-gradle-plugin/pull/637) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement Circuit DSL"
+
 **2023-11-15** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-15** — merged PR [#109](https://github.com/ZacSweers/ZacSweers/pull/109) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-14** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.14.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-14** — merged PR [#40](https://github.com/slackhq/auto-value-kotlin/pull/40) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.13.2 to 1.14.2"
-
-**2023-11-14** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.22.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-14** — merged PR [#70](https://github.com/slackhq/auto-value-kotlin/pull/70) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.diffplug.spotless from 6.19.0 to 6.22.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
