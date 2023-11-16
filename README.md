@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814920773) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814877238) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
 **2023-11-16** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1814752703) in [google/guava](https://github.com/google/guava)
 
 **2023-11-15** — opened PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-15** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-15** — merged PR [#109](https://github.com/ZacSweers/ZacSweers/pull/109) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.1"
-
-**2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1811559104) in [google/guava](https://github.com/google/guava)
-
-**2023-11-14** — opened PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
