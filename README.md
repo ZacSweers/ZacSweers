@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-16** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1814752703) in [google/guava](https://github.com/google/guava)
+
 **2023-11-15** — opened PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
 
 **2023-11-15** — created branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-14** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1811559104) in [google/guava](https://github.com/google/guava)
 
 **2023-11-14** — opened PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
-
-**2023-11-14** — created branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
