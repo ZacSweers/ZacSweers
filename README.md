@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-16** — created tag `1.2.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-16** — deleted branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-16** — closed issue [#79](https://github.com/slackhq/auto-value-kotlin/issues/79) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "[FEATURE] Support auto value collection builders"
+
+**2023-11-16** — merged PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
+
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814931101) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-16** — commented on [#1637](https://github.com/google/auto/issues/1637#issuecomment-1814930644) in [google/auto](https://github.com/google/auto)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814920773) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814877238) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-16** — commented on [#6801](https://github.com/google/guava/issues/6801#issuecomment-1814752703) in [google/guava](https://github.com/google/guava)
-
-**2023-11-15** — opened PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
-
-**2023-11-15** — created branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-15** — opened issue [#79](https://github.com/slackhq/auto-value-kotlin/issues/79) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "[FEATURE] Support auto value collection builders"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
