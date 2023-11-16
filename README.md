@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-15** — opened PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
+
+**2023-11-15** — created branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
 **2023-11-15** — opened issue [#79](https://github.com/slackhq/auto-value-kotlin/issues/79) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "[FEATURE] Support auto value collection builders"
 
 **2023-11-15** — deleted branch `z/circuitDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-14** — opened PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
 
 **2023-11-14** — created branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-14** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1811484601) in [google/ksp](https://github.com/google/ksp)
-
-**2023-11-14** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.14.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
