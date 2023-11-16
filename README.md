@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814931101) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-16** — commented on [#1637](https://github.com/google/auto/issues/1637#issuecomment-1814930644) in [google/auto](https://github.com/google/auto)
+
+**2023-11-16** — closed issue [#1637](https://github.com/google/auto/issues/1637) on [google/auto](https://github.com/google/auto): "Possible documentation issue around collection builders"
+
+**2023-11-16** — opened issue [#1637](https://github.com/google/auto/issues/1637) on [google/auto](https://github.com/google/auto): "Possible documentation issue"
+
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814920773) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814877238) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-15** — created branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-15** — opened issue [#79](https://github.com/slackhq/auto-value-kotlin/issues/79) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "[FEATURE] Support auto value collection builders"
-
-**2023-11-15** — deleted branch `z/circuitDsl` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-15** — merged PR [#637](https://github.com/slackhq/slack-gradle-plugin/pull/637) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement Circuit DSL"
-
-**2023-11-15** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-15** — merged PR [#109](https://github.com/ZacSweers/ZacSweers/pull/109) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
