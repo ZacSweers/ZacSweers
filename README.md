@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-16** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-1815733272) in [square/anvil](https://github.com/square/anvil)
+
 **2023-11-16** — created tag `1.2.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2023-11-16** — deleted branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-16** — opened issue [#1637](https://github.com/google/auto/issues/1637) on [google/auto](https://github.com/google/auto): "Possible documentation issue"
 
 **2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814920773) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814877238) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
