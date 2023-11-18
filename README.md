@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-18** — opened PR [#788](https://github.com/square/anvil/pull/788) to [square/anvil](https://github.com/square/anvil): "Support KSP in MapKeyCreatorGenerator"
+**2023-11-18** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-18** — created branch `z/kspMapKeyCreator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-11-18** — merged PR [#506](https://github.com/ZacSweers/MoshiX/pull/506) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.20-1.0.14"
 
-**2023-11-16** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-1815733272) in [square/anvil](https://github.com/square/anvil)
+**2023-11-18** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-16** — created tag `1.2.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-18** — merged PR [#505](https://github.com/ZacSweers/MoshiX/pull/505) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.25.0"
 
-**2023-11-16** — deleted branch `z/nestedBuilders` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-18** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-16** — closed issue [#79](https://github.com/slackhq/auto-value-kotlin/issues/79) on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "[FEATURE] Support auto value collection builders"
+**2023-11-18** — merged PR [#508](https://github.com/ZacSweers/MoshiX/pull/508) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.0"
 
-**2023-11-16** — merged PR [#80](https://github.com/slackhq/auto-value-kotlin/pull/80) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Implement support for property builders"
+**2023-11-18** — opened PR [#642](https://github.com/slackhq/slack-gradle-plugin/pull/642) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove autovalue APIs"
 
-**2023-11-16** — commented on [#80](https://github.com/slackhq/auto-value-kotlin/pull/80#issuecomment-1814931101) in [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-18** — opened PR [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for K2"
 
-**2023-11-16** — commented on [#1637](https://github.com/google/auto/issues/1637#issuecomment-1814930644) in [google/auto](https://github.com/google/auto)
+**2023-11-18** — created branch `z/kotlin2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-16** — closed issue [#1637](https://github.com/google/auto/issues/1637) on [google/auto](https://github.com/google/auto): "Possible documentation issue around collection builders"
+**2023-11-18** — created branch `z/removeAv` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
