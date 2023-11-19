@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-19** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-11-19** — merged PR [#194](https://github.com/ZacSweers/kotlin-compile-testing/pull/194) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v232.10227.11"
+
+**2023-11-19** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2023-11-19** — merged PR [#195](https://github.com/ZacSweers/kotlin-compile-testing/pull/195) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.7.0"
+
+**2023-11-19** — commented on [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176#issuecomment-1817992148) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-11-19** — closed issue [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "`v: *** REDACTED (IR)` logging on native targets"
+
+**2023-11-19** — opened PR [#510](https://github.com/ZacSweers/MoshiX/pull/510) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for K2"
+
+**2023-11-19** — created branch `z/k2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2023-11-18** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-11-18** — merged PR [#506](https://github.com/ZacSweers/MoshiX/pull/506) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.20-1.0.14"
-
-**2023-11-18** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-18** — merged PR [#505](https://github.com/ZacSweers/MoshiX/pull/505) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.25.0"
-
-**2023-11-18** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-18** — merged PR [#508](https://github.com/ZacSweers/MoshiX/pull/508) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.0"
-
-**2023-11-18** — opened PR [#642](https://github.com/slackhq/slack-gradle-plugin/pull/642) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove autovalue APIs"
-
-**2023-11-18** — opened PR [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prepare for K2"
-
-**2023-11-18** — created branch `z/kotlin2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-18** — created branch `z/removeAv` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
