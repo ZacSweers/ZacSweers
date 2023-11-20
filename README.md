@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-20** — opened PR [#645](https://github.com/slackhq/slack-gradle-plugin/pull/645) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't configure KspTask in KotlinCompile tasks"
+**2023-11-20** — opened PR [#1089](https://github.com/ZacSweers/CatchUp/pull/1089) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prepare for K2"
 
-**2023-11-20** — created branch `z/noKspTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-20** — created branch `z/k2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-20** — opened PR [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for K2"
+**2023-11-20** — opened issue [#1612](https://github.com/google/ksp/issues/1612) on [google/ksp](https://github.com/google/ksp): "Feature request: don't copy progressive flag from KotlinCompile task"
 
-**2023-11-20** — created branch `z/k2` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-11-20** — deleted branch `z/noKspTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-20** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1819608412) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-11-20** — merged PR [#645](https://github.com/slackhq/slack-gradle-plugin/pull/645) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't configure KspTask in KotlinCompile tasks"
 
-**2023-11-20** — opened PR [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for K2"
+**2023-11-20** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-20** — created branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2023-11-20** — merged PR [#1088](https://github.com/ZacSweers/CatchUp/pull/1088) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6"
 
-**2023-11-20** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.17` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-11-20** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-20** — merged PR [#503](https://github.com/uber/AutoDispose/pull/503) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.16 to 0.10.17"
+**2023-11-20** — merged PR [#1079](https://github.com/ZacSweers/CatchUp/pull/1079) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-alpha11"
 
-**2023-11-20** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2023-11-20** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
