@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-20** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.17` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-11-20** — merged PR [#503](https://github.com/uber/AutoDispose/pull/503) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.16 to 0.10.17"
+
+**2023-11-20** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-11-20** — merged PR [#73](https://github.com/ZacSweers/auto-service-ksp/pull/73) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.squareup:kotlinpoet to v1.15.1"
+
 **2023-11-19** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-11-19** — merged PR [#194](https://github.com/ZacSweers/kotlin-compile-testing/pull/194) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v232.10227.11"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-19** — commented on [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176#issuecomment-1817992148) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-11-19** — closed issue [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "`v: *** REDACTED (IR)` logging on native targets"
-
-**2023-11-19** — opened PR [#510](https://github.com/ZacSweers/MoshiX/pull/510) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for K2"
-
-**2023-11-19** — created branch `z/k2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-18** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-18** — merged PR [#506](https://github.com/ZacSweers/MoshiX/pull/506) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.20-1.0.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
