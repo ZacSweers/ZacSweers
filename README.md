@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-20** — opened PR [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for K2"
+
+**2023-11-20** — created branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2023-11-20** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.17` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-11-20** — merged PR [#503](https://github.com/uber/AutoDispose/pull/503) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.16 to 0.10.17"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-19** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2023-11-19** — merged PR [#195](https://github.com/ZacSweers/kotlin-compile-testing/pull/195) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.7.0"
-
-**2023-11-19** — commented on [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176#issuecomment-1817992148) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2023-11-19** — closed issue [#176](https://github.com/ZacSweers/redacted-compiler-plugin/issues/176) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "`v: *** REDACTED (IR)` logging on native targets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
