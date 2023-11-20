@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-20** — opened PR [#645](https://github.com/slackhq/slack-gradle-plugin/pull/645) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't configure KspTask in KotlinCompile tasks"
+
+**2023-11-20** — created branch `z/noKspTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-20** — opened PR [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prepare for K2"
+
+**2023-11-20** — created branch `z/k2` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2023-11-20** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1819608412) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2023-11-20** — opened PR [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for K2"
 
 **2023-11-20** — created branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-20** — merged PR [#503](https://github.com/uber/AutoDispose/pull/503) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.16 to 0.10.17"
 
 **2023-11-20** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-11-20** — merged PR [#73](https://github.com/ZacSweers/auto-service-ksp/pull/73) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.squareup:kotlinpoet to v1.15.1"
-
-**2023-11-19** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-11-19** — merged PR [#194](https://github.com/ZacSweers/kotlin-compile-testing/pull/194) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v232.10227.11"
-
-**2023-11-19** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2023-11-19** — merged PR [#195](https://github.com/ZacSweers/kotlin-compile-testing/pull/195) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
