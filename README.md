@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-21** — deleted branch `z/kspMapKeyCreator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-11-21** — deleted branch `z/sources` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-21** — merged PR [#1007](https://github.com/slackhq/circuit/pull/1007) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link sources in kdocs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-21** — merged PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
 
 **2023-11-21** — opened PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
-
-**2023-11-21** — created branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
