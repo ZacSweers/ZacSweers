@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-21** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-21** — merged PR [#1090](https://github.com/ZacSweers/CatchUp/pull/1090) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.12.1"
+
+**2023-11-21** — opened PR [#1007](https://github.com/slackhq/circuit/pull/1007) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link sources in kdocs"
+
 **2023-11-21** — created branch `z/sources` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-21** — deleted branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-21** — created tag `0.12.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-20** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1819791906) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-20** — created tag `0.12.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-20** — opened PR [#1089](https://github.com/ZacSweers/CatchUp/pull/1089) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prepare for K2"
-
-**2023-11-20** — created branch `z/k2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
