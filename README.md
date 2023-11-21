@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-21** — created branch `z/sources` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-21** — deleted branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-11-21** — merged PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
+
 **2023-11-21** — opened PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
 
 **2023-11-21** — created branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-20** — opened PR [#1089](https://github.com/ZacSweers/CatchUp/pull/1089) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prepare for K2"
 
 **2023-11-20** — created branch `z/k2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-20** — opened issue [#1612](https://github.com/google/ksp/issues/1612) on [google/ksp](https://github.com/google/ksp): "Feature request: don't copy progressive flag from KotlinCompile task"
-
-**2023-11-20** — deleted branch `z/noKspTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-20** — merged PR [#645](https://github.com/slackhq/slack-gradle-plugin/pull/645) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't configure KspTask in KotlinCompile tasks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
