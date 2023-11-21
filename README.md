@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-21** — opened PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
+
+**2023-11-21** — created branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-11-21** — created tag `0.12.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-20** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1819791906) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-20** — deleted branch `z/noKspTask` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-20** — merged PR [#645](https://github.com/slackhq/slack-gradle-plugin/pull/645) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Don't configure KspTask in KotlinCompile tasks"
-
-**2023-11-20** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-20** — merged PR [#1088](https://github.com/ZacSweers/CatchUp/pull/1088) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
