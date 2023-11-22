@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-22** — opened PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
+
+**2023-11-22** — created branch `z/projectFlattenener` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-22** — opened PR [#73](https://github.com/slackhq/EitherNet/pull/73) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Try fixing doc publishing for test fixtures"
+
+**2023-11-22** — created branch `z/testFixturesPublishing` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2023-11-22** — deleted branch `renovate/com.osacky.doctor-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-22** — merged PR [#1091](https://github.com/ZacSweers/CatchUp/pull/1091) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.9.1"
+
 **2023-11-21** — deleted branch `z/kspMapKeyCreator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-11-21** — deleted branch `z/sources` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-21** — merged PR [#1007](https://github.com/slackhq/circuit/pull/1007) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link sources in kdocs"
 
 **2023-11-21** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-21** — merged PR [#1090](https://github.com/ZacSweers/CatchUp/pull/1090) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.12.1"
-
-**2023-11-21** — opened PR [#1007](https://github.com/slackhq/circuit/pull/1007) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link sources in kdocs"
-
-**2023-11-21** — created branch `z/sources` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-21** — deleted branch `z/sourceLInks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-21** — merged PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
-
-**2023-11-21** — opened PR [#646](https://github.com/slackhq/slack-gradle-plugin/pull/646) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Includes source links in dokka docs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
