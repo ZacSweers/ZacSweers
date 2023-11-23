@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-23** — merged PR [#963](https://github.com/slackhq/circuit/pull/963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add codegen mode to support both Anvil and Hilt"
+
+**2023-11-23** — deleted branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-23** — closed PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
+
 **2023-11-23** — created branch `z/kspInjectConstructor` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-11-22** — created tag `2.5.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-22** — merged PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
 
 **2023-11-22** — opened PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
-
-**2023-11-22** — created branch `z/projectFlattenener` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-22** — opened PR [#73](https://github.com/slackhq/EitherNet/pull/73) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Try fixing doc publishing for test fixtures"
-
-**2023-11-22** — created branch `z/testFixturesPublishing` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
