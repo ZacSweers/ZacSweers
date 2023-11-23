@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-23** — created branch `z/kspInjectConstructor` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-11-22** — created tag `2.5.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-22** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-serialization-core-1.6.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-22** — opened PR [#73](https://github.com/slackhq/EitherNet/pull/73) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Try fixing doc publishing for test fixtures"
 
 **2023-11-22** — created branch `z/testFixturesPublishing` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2023-11-22** — deleted branch `renovate/com.osacky.doctor-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
