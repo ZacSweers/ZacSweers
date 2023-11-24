@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-24** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-11-24** — merged PR [#63](https://github.com/slackhq/moshi-gson-interop/pull/63) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.10 to 1.9.21"
+
+**2023-11-24** — deleted branch `dependabot/gradle/kotlin-1.9.21` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-11-24** — merged PR [#504](https://github.com/uber/AutoDispose/pull/504) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.20 to 1.9.21"
+
 **2023-11-24** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-24** — merged PR [#1094](https://github.com/ZacSweers/CatchUp/pull/1094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-24** — opened PR [#795](https://github.com/square/anvil/pull/795) to [square/anvil](https://github.com/square/anvil): "Add KSP support to InjectConstructorFactoryCodeGen and MembersInjectorCodeGen"
 
 **2023-11-23** — merged PR [#963](https://github.com/slackhq/circuit/pull/963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add codegen mode to support both Anvil and Hilt"
-
-**2023-11-23** — deleted branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-23** — closed PR [#993](https://github.com/slackhq/circuit/pull/993) to [slackhq/circuit](https://github.com/slackhq/circuit): "Guava issue repro"
-
-**2023-11-23** — created branch `z/kspInjectConstructor` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-11-22** — created tag `2.5.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
