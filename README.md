@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-24** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-24** — merged PR [#1094](https://github.com/ZacSweers/CatchUp/pull/1094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
+
+**2023-11-24** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-11-24** — merged PR [#111](https://github.com/ZacSweers/ZacSweers/pull/111) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.11"
+
 **2023-11-24** — opened PR [#795](https://github.com/square/anvil/pull/795) to [square/anvil](https://github.com/square/anvil): "Add KSP support to InjectConstructorFactoryCodeGen and MembersInjectorCodeGen"
 
 **2023-11-23** — merged PR [#963](https://github.com/slackhq/circuit/pull/963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add codegen mode to support both Anvil and Hilt"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-23** — created branch `z/kspInjectConstructor` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-11-22** — created tag `2.5.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-22** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-serialization-core-1.6.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-22** — merged PR [#64](https://github.com/slackhq/kotlin-cli-util/pull/64) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.6.0 to 1.6.1"
-
-**2023-11-22** — deleted branch `z/projectFlattenener` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-22** — merged PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
