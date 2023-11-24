@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-24** — commented on [#795](https://github.com/square/anvil/pull/795#issuecomment-1826126565) in [square/anvil](https://github.com/square/anvil)
+
 **2023-11-24** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-11-24** — merged PR [#63](https://github.com/slackhq/moshi-gson-interop/pull/63) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.10 to 1.9.21"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-24** — merged PR [#111](https://github.com/ZacSweers/ZacSweers/pull/111) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.11"
 
 **2023-11-24** — opened PR [#795](https://github.com/square/anvil/pull/795) to [square/anvil](https://github.com/square/anvil): "Add KSP support to InjectConstructorFactoryCodeGen and MembersInjectorCodeGen"
-
-**2023-11-23** — merged PR [#963](https://github.com/slackhq/circuit/pull/963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add codegen mode to support both Anvil and Hilt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
