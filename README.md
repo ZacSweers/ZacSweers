@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-24** — opened PR [#795](https://github.com/square/anvil/pull/795) to [square/anvil](https://github.com/square/anvil): "Add KSP support to InjectConstructorFactoryCodeGen and MembersInjectorCodeGen"
+
 **2023-11-23** — merged PR [#963](https://github.com/slackhq/circuit/pull/963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add codegen mode to support both Anvil and Hilt"
 
 **2023-11-23** — deleted branch `z/paparazziGuavaRepro` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-22** — deleted branch `z/projectFlattenener` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-22** — merged PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
-
-**2023-11-22** — opened PR [#65](https://github.com/slackhq/kotlin-cli-util/pull/65) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Implement GradleProjectFlattenerCli"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
