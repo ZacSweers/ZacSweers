@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-25** — commented on [#1619](https://github.com/google/ksp/issues/1619#issuecomment-1826371735) in [google/ksp](https://github.com/google/ksp)
+
+**2023-11-25** — opened issue [#1619](https://github.com/google/ksp/issues/1619) on [google/ksp](https://github.com/google/ksp): "Functions returned by `KSClassDeclaration.getAllFunctions()` report the wrong parent declaration for supertype functions"
+
 **2023-11-24** — commented on [#795](https://github.com/square/anvil/pull/795#issuecomment-1826126565) in [square/anvil](https://github.com/square/anvil)
 
 **2023-11-24** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-24** — merged PR [#1094](https://github.com/ZacSweers/CatchUp/pull/1094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
 
 **2023-11-24** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-11-24** — merged PR [#111](https://github.com/ZacSweers/ZacSweers/pull/111) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.5.11"
-
-**2023-11-24** — opened PR [#795](https://github.com/square/anvil/pull/795) to [square/anvil](https://github.com/square/anvil): "Add KSP support to InjectConstructorFactoryCodeGen and MembersInjectorCodeGen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
