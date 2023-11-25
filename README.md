@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-25** — opened issue [#1621](https://github.com/google/ksp/issues/1621) on [google/ksp](https://github.com/google/ksp): "Feature request: expose an API in Resolver to retrieve the module name for handling mangling of internal members"
+
 **2023-11-25** — deleted branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-25** — merged PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-25** — merged PR [#1092](https://github.com/ZacSweers/CatchUp/pull/1092) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.21"
 
 **2023-11-25** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-25** — merged PR [#1093](https://github.com/ZacSweers/CatchUp/pull/1093) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.5.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
