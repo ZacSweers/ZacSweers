@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-25** — opened PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
+
+**2023-11-25** — created branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-11-25** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-25** — merged PR [#1015](https://github.com/slackhq/circuit/pull/1015) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-25** — commented on [#1619](https://github.com/google/ksp/issues/1619#issuecomment-1826371735) in [google/ksp](https://github.com/google/ksp)
 
 **2023-11-25** — opened issue [#1619](https://github.com/google/ksp/issues/1619) on [google/ksp](https://github.com/google/ksp): "Functions returned by `KSClassDeclaration.getAllFunctions()` report the wrong parent declaration for supertype functions"
-
-**2023-11-24** — commented on [#795](https://github.com/square/anvil/pull/795#issuecomment-1826126565) in [square/anvil](https://github.com/square/anvil)
-
-**2023-11-24** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
