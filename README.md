@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-25** — deleted branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-25** — merged PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
+
 **2023-11-25** — opened PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
 
 **2023-11-25** — created branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-25** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-25** — merged PR [#1093](https://github.com/ZacSweers/CatchUp/pull/1093) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.5.11"
-
-**2023-11-25** — commented on [#1619](https://github.com/google/ksp/issues/1619#issuecomment-1826371735) in [google/ksp](https://github.com/google/ksp)
-
-**2023-11-25** — opened issue [#1619](https://github.com/google/ksp/issues/1619) on [google/ksp](https://github.com/google/ksp): "Functions returned by `KSClassDeclaration.getAllFunctions()` report the wrong parent declaration for supertype functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
