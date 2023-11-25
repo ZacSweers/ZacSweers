@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-25** — merged PR [#1092](https://github.com/ZacSweers/CatchUp/pull/1092) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.21"
+
+**2023-11-25** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-25** — merged PR [#1093](https://github.com/ZacSweers/CatchUp/pull/1093) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.5.11"
+
 **2023-11-25** — commented on [#1619](https://github.com/google/ksp/issues/1619#issuecomment-1826371735) in [google/ksp](https://github.com/google/ksp)
 
 **2023-11-25** — opened issue [#1619](https://github.com/google/ksp/issues/1619) on [google/ksp](https://github.com/google/ksp): "Functions returned by `KSClassDeclaration.getAllFunctions()` report the wrong parent declaration for supertype functions"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-24** — merged PR [#63](https://github.com/slackhq/moshi-gson-interop/pull/63) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.10 to 1.9.21"
 
 **2023-11-24** — deleted branch `dependabot/gradle/kotlin-1.9.21` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-11-24** — merged PR [#504](https://github.com/uber/AutoDispose/pull/504) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump kotlin from 1.9.20 to 1.9.21"
-
-**2023-11-24** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-24** — merged PR [#1094](https://github.com/ZacSweers/CatchUp/pull/1094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
-
-**2023-11-24** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
