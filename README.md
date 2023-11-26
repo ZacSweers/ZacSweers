@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-25** — opened issue [#1621](https://github.com/google/ksp/issues/1621) on [google/ksp](https://github.com/google/ksp): "Feature request: expose an API in Resolver to retrieve the module name for handling mangling of internal members"
+**2023-11-25** — deleted branch `renovate/kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-11-25** — deleted branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-25** — merged PR [#178](https://github.com/slackhq/slack-lints/pull/178) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.21"
 
-**2023-11-25** — merged PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
+**2023-11-25** — deleted branch `dependabot/gradle/org.jetbrains.kotlin.jvm-1.9.21` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-11-25** — opened PR [#1016](https://github.com/slackhq/circuit/pull/1016) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better name handling for nested projects in dokka"
+**2023-11-25** — closed PR [#177](https://github.com/slackhq/slack-lints/pull/177) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlin.jvm from 1.9.20 to 1.9.21"
 
-**2023-11-25** — created branch `z/dokkaNesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-25** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-25** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-25** — merged PR [#509](https://github.com/ZacSweers/MoshiX/pull/509) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.1"
 
-**2023-11-25** — merged PR [#1015](https://github.com/slackhq/circuit/pull/1015) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.4"
+**2023-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-25** — merged PR [#511](https://github.com/ZacSweers/MoshiX/pull/511) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.21"
 
-**2023-11-25** — merged PR [#1092](https://github.com/ZacSweers/CatchUp/pull/1092) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.21"
+**2023-11-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-11-25** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-25** — merged PR [#180](https://github.com/ZacSweers/redacted-compiler-plugin/pull/180) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
