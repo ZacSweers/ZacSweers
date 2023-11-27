@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-26** — deleted branch `renovate/detekt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-26** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-26** — merged PR [#1096](https://github.com/ZacSweers/CatchUp/pull/1096) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.4"
+**2023-11-26** — merged PR [#195](https://github.com/slackhq/compose-lints/pull/195) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.4"
 
-**2023-11-26** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-26** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-26** — merged PR [#1095](https://github.com/ZacSweers/CatchUp/pull/1095) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.7.1"
+**2023-11-26** — merged PR [#200](https://github.com/slackhq/compose-lints/pull/200) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.17.2"
 
-**2023-11-26** — created branch `z/ksp/providesMethodFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2023-11-26** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-26** — created tag `1.7.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2023-11-26** — merged PR [#193](https://github.com/slackhq/compose-lints/pull/193) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.20-1.0.14"
 
-**2023-11-25** — deleted branch `renovate/kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-11-26** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-25** — merged PR [#178](https://github.com/slackhq/slack-lints/pull/178) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.21"
+**2023-11-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-25** — deleted branch `dependabot/gradle/org.jetbrains.kotlin.jvm-1.9.21` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-11-26** — merged PR [#192](https://github.com/slackhq/compose-lints/pull/192) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.5"
 
-**2023-11-25** — closed PR [#177](https://github.com/slackhq/slack-lints/pull/177) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlin.jvm from 1.9.20 to 1.9.21"
+**2023-11-26** — merged PR [#198](https://github.com/slackhq/compose-lints/pull/198) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.3.0-alpha14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
