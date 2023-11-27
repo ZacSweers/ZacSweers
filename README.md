@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-27** — opened PR [#209](https://github.com/slackhq/compose-lints/pull/209) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Test modes work"
+
+**2023-11-27** — created tag `2.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-11-27** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.7` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-27** — merged PR [#67](https://github.com/slackhq/kotlin-cli-util/pull/67) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.6 to 1.5.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-27** — deleted branch `z/settingsVerifier` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-27** — merged PR [#71](https://github.com/slackhq/kotlin-cli-util/pull/71) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add GradleSettingsVerifierCli"
-
-**2023-11-27** — commented on [#203](https://github.com/slackhq/compose-lints/issues/203#issuecomment-1828664422) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-27** — opened PR [#71](https://github.com/slackhq/kotlin-cli-util/pull/71) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add GradleSettingsVerifierCli"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
