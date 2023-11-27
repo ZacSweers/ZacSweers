@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-27** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.15.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-27** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.7` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-27** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-27** — merged PR [#67](https://github.com/slackhq/kotlin-cli-util/pull/67) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.6 to 1.5.7"
 
-**2023-11-27** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-27** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.25.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-27** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2023-11-27** — merged PR [#69](https://github.com/slackhq/kotlin-cli-util/pull/69) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.25.0 to 0.25.1"
 
-**2023-11-27** — merged PR [#81](https://github.com/slackhq/auto-value-kotlin/pull/81) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.14.2 to 1.15.1"
+**2023-11-27** — deleted branch `dependabot/gradle/kotlin-1.9.21` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-27** — merged PR [#83](https://github.com/slackhq/auto-value-kotlin/pull/83) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.20 to 1.9.21"
+**2023-11-27** — merged PR [#66](https://github.com/slackhq/kotlin-cli-util/pull/66) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.20 to 1.9.21"
 
-**2023-11-27** — merged PR [#82](https://github.com/slackhq/auto-value-kotlin/pull/82) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.9.20 to 1.9.21"
+**2023-11-27** — deleted branch `z/settingsVerifier` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-27** — merged PR [#84](https://github.com/slackhq/auto-value-kotlin/pull/84) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.3 to 1.23.4"
+**2023-11-27** — merged PR [#71](https://github.com/slackhq/kotlin-cli-util/pull/71) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add GradleSettingsVerifierCli"
 
-**2023-11-27** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-11-27** — commented on [#203](https://github.com/slackhq/compose-lints/issues/203#issuecomment-1828664422) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-27** — merged PR [#65](https://github.com/slackhq/moshi-gson-interop/pull/65) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.4"
+**2023-11-27** — opened PR [#71](https://github.com/slackhq/kotlin-cli-util/pull/71) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add GradleSettingsVerifierCli"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
