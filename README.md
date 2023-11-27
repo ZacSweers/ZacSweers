@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-27** — commented on [#1742](https://github.com/square/kotlinpoet/pull/1742#issuecomment-1827168760) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-11-27** — commented on [#137](https://github.com/slackhq/compose-lints/issues/137#issuecomment-1827161975) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-11-27** — closed issue [#137](https://github.com/slackhq/compose-lints/issues/137) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Supression of "ComposeModifierMissing" doesn't seem to work"
+
+**2023-11-27** — opened PR [#206](https://github.com/slackhq/compose-lints/pull/206) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix PreviewPublicDetector"
+
+**2023-11-27** — created branch `z/previewPublic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2023-11-27** — opened PR [#205](https://github.com/slackhq/compose-lints/pull/205) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add support for checking for loops in multiple content emitters"
 
 **2023-11-27** — created branch `z/multipleContentEmittersLoops` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-26** — opened PR [#204](https://github.com/slackhq/compose-lints/pull/204) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ModifierComposed check"
 
 **2023-11-26** — created branch `z/composed` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — merged PR [#194](https://github.com/slackhq/compose-lints/pull/194) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.4.12"
-
-**2023-11-26** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — merged PR [#195](https://github.com/slackhq/compose-lints/pull/195) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.4"
-
-**2023-11-26** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
