@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-26** — commented on [#1742](https://github.com/square/kotlinpoet/pull/1742#issuecomment-1827101157) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-11-26** — opened PR [#204](https://github.com/slackhq/compose-lints/pull/204) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ModifierComposed check"
+
+**2023-11-26** — created branch `z/composed` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-11-26** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2023-11-26** — merged PR [#194](https://github.com/slackhq/compose-lints/pull/194) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.4.12"
+
 **2023-11-26** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-11-26** — merged PR [#195](https://github.com/slackhq/compose-lints/pull/195) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.1.4"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-26** — merged PR [#200](https://github.com/slackhq/compose-lints/pull/200) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.17.2"
 
 **2023-11-26** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — merged PR [#193](https://github.com/slackhq/compose-lints/pull/193) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.20-1.0.14"
-
-**2023-11-26** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — deleted branch `renovate/mkdocs-macros-plugin-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-26** — merged PR [#192](https://github.com/slackhq/compose-lints/pull/192) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.0.5"
-
-**2023-11-26** — merged PR [#198](https://github.com/slackhq/compose-lints/pull/198) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.3.0-alpha14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
