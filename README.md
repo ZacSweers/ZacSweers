@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-27** — commented on [#1742](https://github.com/square/kotlinpoet/pull/1742#issuecomment-1827168760) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-11-27** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
-**2023-11-27** — commented on [#137](https://github.com/slackhq/compose-lints/issues/137#issuecomment-1827161975) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-27** — merged PR [#65](https://github.com/slackhq/moshi-gson-interop/pull/65) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.4"
 
-**2023-11-27** — closed issue [#137](https://github.com/slackhq/compose-lints/issues/137) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Supression of "ComposeModifierMissing" doesn't seem to work"
+**2023-11-27** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-27** — opened PR [#206](https://github.com/slackhq/compose-lints/pull/206) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix PreviewPublicDetector"
+**2023-11-27** — merged PR [#1098](https://github.com/ZacSweers/CatchUp/pull/1098) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.17.1"
 
-**2023-11-27** — created branch `z/previewPublic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-27** — opened PR [#205](https://github.com/slackhq/compose-lints/pull/205) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add support for checking for loops in multiple content emitters"
+**2023-11-27** — merged PR [#1097](https://github.com/ZacSweers/CatchUp/pull/1097) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.44.1.0"
 
-**2023-11-27** — created branch `z/multipleContentEmittersLoops` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-27** — commented on [#506](https://github.com/ZacSweers/MoshiX/pull/506#issuecomment-1828129864) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-26** — commented on [#1742](https://github.com/square/kotlinpoet/pull/1742#issuecomment-1827101157) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-11-27** — created tag `0.25.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-11-26** — opened PR [#204](https://github.com/slackhq/compose-lints/pull/204) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement ModifierComposed check"
+**2023-11-27** — deleted branch `z/composed` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-11-26** — created branch `z/composed` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-11-27** — deleted branch `z/multipleContentEmittersLoops` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
