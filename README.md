@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-27** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.15.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-27** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-27** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-27** — deleted branch `dependabot/gradle/jvm-1.9.21` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2023-11-27** — merged PR [#81](https://github.com/slackhq/auto-value-kotlin/pull/81) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.14.2 to 1.15.1"
+
+**2023-11-27** — merged PR [#83](https://github.com/slackhq/auto-value-kotlin/pull/83) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.20 to 1.9.21"
+
+**2023-11-27** — merged PR [#82](https://github.com/slackhq/auto-value-kotlin/pull/82) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.9.20 to 1.9.21"
+
+**2023-11-27** — merged PR [#84](https://github.com/slackhq/auto-value-kotlin/pull/84) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.3 to 1.23.4"
+
 **2023-11-27** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2023-11-27** — merged PR [#65](https://github.com/slackhq/moshi-gson-interop/pull/65) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.1 to 1.23.4"
-
-**2023-11-27** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-27** — merged PR [#1098](https://github.com/ZacSweers/CatchUp/pull/1098) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.17.1"
-
-**2023-11-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-27** — merged PR [#1097](https://github.com/ZacSweers/CatchUp/pull/1097) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.44.1.0"
-
-**2023-11-27** — commented on [#506](https://github.com/ZacSweers/MoshiX/pull/506#issuecomment-1828129864) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-27** — created tag `0.25.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-27** — deleted branch `z/composed` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-11-27** — deleted branch `z/multipleContentEmittersLoops` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
