@@ -10,7 +10,7 @@ xmlutil = "0.86.2"
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-ksp = { id = "com.google.devtools.ksp", version = "1.9.20-1.0.14" }
+ksp = { id = "com.google.devtools.ksp", version = "1.9.21-1.0.15" }
 spotless = { id = "com.diffplug.spotless", version = "6.22.0" }
 
 [libraries]
