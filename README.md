@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830696431) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-11-28** — opened PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
+
 **2023-11-28** — created branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — merged PR [#210](https://github.com/slackhq/compose-lints/pull/210) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.21-1.0.15"
 
 **2023-11-28** — deleted branch `z/changelog` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-11-28** — merged PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
-
-**2023-11-28** — opened PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
