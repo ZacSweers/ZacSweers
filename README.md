@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-28** — deleted branch `z/changelog` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-11-28** — merged PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
+
+**2023-11-28** — opened PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
+
+**2023-11-28** — created branch `z/changelog` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-11-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-28** — merged PR [#113](https://github.com/ZacSweers/ZacSweers/pull/113) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.11"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-28** — merged PR [#1100](https://github.com/ZacSweers/CatchUp/pull/1100) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.7"
-
-**2023-11-28** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-28** — merged PR [#1101](https://github.com/ZacSweers/CatchUp/pull/1101) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.25.1"
-
-**2023-11-28** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-11-28** — merged PR [#1102](https://github.com/ZacSweers/CatchUp/pull/1102) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.21-1.0.15"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
