@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-28** — commented on [#2699](https://github.com/Kotlin/dokka/issues/2699#issuecomment-1829237252) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
+
 **2023-11-27** — opened PR [#209](https://github.com/slackhq/compose-lints/pull/209) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Test modes work"
 
 **2023-11-27** — created tag `2.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-27** — merged PR [#66](https://github.com/slackhq/kotlin-cli-util/pull/66) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.20 to 1.9.21"
 
 **2023-11-27** — deleted branch `z/settingsVerifier` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-27** — merged PR [#71](https://github.com/slackhq/kotlin-cli-util/pull/71) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add GradleSettingsVerifierCli"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
