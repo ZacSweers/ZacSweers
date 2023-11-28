@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-28** — merged PR [#1025](https://github.com/slackhq/circuit/pull/1025) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CONTRIBUTING to add kdoctor installation requirement."
+
 **2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830696431) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-28** — opened PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-11-28** — merged PR [#210](https://github.com/slackhq/compose-lints/pull/210) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.21-1.0.15"
-
-**2023-11-28** — deleted branch `z/changelog` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
