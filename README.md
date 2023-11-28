@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-28** — commented on [#2699](https://github.com/Kotlin/dokka/issues/2699#issuecomment-1829237252) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
+**2023-11-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-27** — opened PR [#209](https://github.com/slackhq/compose-lints/pull/209) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Test modes work"
+**2023-11-28** — merged PR [#113](https://github.com/ZacSweers/ZacSweers/pull/113) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.5.11"
 
-**2023-11-27** — created tag `2.5.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-27** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.7` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-28** — merged PR [#115](https://github.com/ZacSweers/ZacSweers/pull/115) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.21-1.0.15"
 
-**2023-11-27** — merged PR [#67](https://github.com/slackhq/kotlin-cli-util/pull/67) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.6 to 1.5.7"
+**2023-11-28** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-27** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.25.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-28** — merged PR [#1100](https://github.com/ZacSweers/CatchUp/pull/1100) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.7"
 
-**2023-11-27** — merged PR [#69](https://github.com/slackhq/kotlin-cli-util/pull/69) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.25.0 to 0.25.1"
+**2023-11-28** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-27** — deleted branch `dependabot/gradle/kotlin-1.9.21` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-28** — merged PR [#1101](https://github.com/ZacSweers/CatchUp/pull/1101) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.25.1"
 
-**2023-11-27** — merged PR [#66](https://github.com/slackhq/kotlin-cli-util/pull/66) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.20 to 1.9.21"
+**2023-11-28** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-11-27** — deleted branch `z/settingsVerifier` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-11-28** — merged PR [#1102](https://github.com/ZacSweers/CatchUp/pull/1102) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.21-1.0.15"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
