@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-28** — created branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-11-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-11-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — merged PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
 
 **2023-11-28** — opened PR [#1747](https://github.com/square/kotlinpoet/pull/1747) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Mention kotlinx-metadata changes in 1.15.0 changelog"
-
-**2023-11-28** — created branch `z/changelog` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
