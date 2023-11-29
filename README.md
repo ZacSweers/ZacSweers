@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830921373) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — created tag `0.17.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — deleted branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — merged PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
-
-**2023-11-28** — merged PR [#1025](https://github.com/slackhq/circuit/pull/1025) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CONTRIBUTING to add kdoctor installation requirement."
-
-**2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830696431) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — opened PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
-
-**2023-11-28** — created branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-11-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-11-28** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
