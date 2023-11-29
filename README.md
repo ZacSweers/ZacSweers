@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-29** — opened PR [#655](https://github.com/slackhq/slack-gradle-plugin/pull/655) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.5 + report build features"
+
+**2023-11-29** — created branch `z/gradle85` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-11-29** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-11-29** — merged PR [#1104](https://github.com/ZacSweers/CatchUp/pull/1104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.17.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — merged PR [#1025](https://github.com/slackhq/circuit/pull/1025) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CONTRIBUTING to add kdoctor installation requirement."
 
 **2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830696431) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — opened PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
-
-**2023-11-28** — created branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
