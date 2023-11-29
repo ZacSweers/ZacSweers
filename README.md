@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-29** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-11-29** — merged PR [#1104](https://github.com/ZacSweers/CatchUp/pull/1104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.17.0"
+
 **2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830921373) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-11-28** — created tag `0.17.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-28** — opened PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
 
 **2023-11-28** — created branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-11-28** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-11-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
