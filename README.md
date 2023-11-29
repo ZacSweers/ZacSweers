@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-29** — commented on [#1621](https://github.com/google/ksp/issues/1621#issuecomment-1832832852) in [google/ksp](https://github.com/google/ksp)
+
+**2023-11-29** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1832828343) in [google/ksp](https://github.com/google/ksp)
+
 **2023-11-29** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-11-29** — merged PR [#116](https://github.com/ZacSweers/ZacSweers/pull/116) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.5"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2023-11-29** — merged PR [#181](https://github.com/ZacSweers/redacted-compiler-plugin/pull/181) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.23.1"
-
-**2023-11-29** — merged PR [#183](https://github.com/ZacSweers/redacted-compiler-plugin/pull/183) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/setup-java action to v4"
-
-**2023-11-29** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
