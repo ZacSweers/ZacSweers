@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-29** — opened PR [#655](https://github.com/slackhq/slack-gradle-plugin/pull/655) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to Gradle 8.5 + report build features"
+**2023-11-29** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-29** — created branch `z/gradle85` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-11-29** — merged PR [#116](https://github.com/ZacSweers/ZacSweers/pull/116) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.5"
 
-**2023-11-29** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-11-29** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-11-29** — merged PR [#1104](https://github.com/ZacSweers/CatchUp/pull/1104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.17.0"
+**2023-11-29** — merged PR [#117](https://github.com/ZacSweers/ZacSweers/pull/117) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/setup-java action to v4"
 
-**2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830921373) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-29** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-11-28** — created tag `0.17.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-29** — merged PR [#182](https://github.com/ZacSweers/redacted-compiler-plugin/pull/182) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.5"
 
-**2023-11-28** — deleted branch `z/decompose` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-29** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2023-11-28** — merged PR [#1024](https://github.com/slackhq/circuit/pull/1024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Decompose out multiple circuit internals for reuse + publicize CircuitContent"
+**2023-11-29** — merged PR [#181](https://github.com/ZacSweers/redacted-compiler-plugin/pull/181) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.23.1"
 
-**2023-11-28** — merged PR [#1025](https://github.com/slackhq/circuit/pull/1025) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update CONTRIBUTING to add kdoctor installation requirement."
+**2023-11-29** — merged PR [#183](https://github.com/ZacSweers/redacted-compiler-plugin/pull/183) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/setup-java action to v4"
 
-**2023-11-28** — commented on [#1024](https://github.com/slackhq/circuit/pull/1024#issuecomment-1830696431) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-11-29** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
