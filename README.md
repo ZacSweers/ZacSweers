@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-30** — opened PR [#77](https://github.com/slackhq/kotlin-cli-util/pull/77) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add messageTemplate and level params to baseline merger"
+
+**2023-11-30** — created branch `z/baselineMergeOptions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-30** — deleted branch `z/commandFactory` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-30** — merged PR [#75](https://github.com/slackhq/kotlin-cli-util/pull/75) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce CommandFactory to aggregate commands"
+
+**2023-11-30** — deleted branch `z/moreSarifMerging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-30** — merged PR [#76](https://github.com/slackhq/kotlin-cli-util/pull/76) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add files arg + use path APIs in sarif merging"
+
 **2023-11-30** — opened PR [#76](https://github.com/slackhq/kotlin-cli-util/pull/76) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add files arg + use path APIs in sarif merging"
 
 **2023-11-30** — created branch `z/moreSarifMerging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-30** — merged PR [#518](https://github.com/ZacSweers/MoshiX/pull/518) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.2"
 
 **2023-11-30** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-11-30** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2023-11-30** — merged PR [#78](https://github.com/ZacSweers/auto-service-ksp/pull/78) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.squareup:kotlinpoet to v1.15.2"
-
-**2023-11-30** — opened PR [#75](https://github.com/slackhq/kotlin-cli-util/pull/75) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce CommandFactory to aggregate commands"
-
-**2023-11-30** — created branch `z/commandFactory` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — deleted branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-30** — merged PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
