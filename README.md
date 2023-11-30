@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-30** — opened PR [#76](https://github.com/slackhq/kotlin-cli-util/pull/76) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add files arg + use path APIs in sarif merging"
+
 **2023-11-30** — created branch `z/moreSarifMerging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-30** — merged PR [#518](https://github.com/ZacSweers/MoshiX/pull/518) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-30** — deleted branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-30** — merged PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
-
-**2023-11-30** — opened PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
