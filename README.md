@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-30** — created branch `z/moreSarifMerging` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-11-30** — merged PR [#518](https://github.com/ZacSweers/MoshiX/pull/518) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.2"
+
+**2023-11-30** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-11-30** — deleted branch `renovate/com.squareup-kotlinpoet-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2023-11-30** — merged PR [#78](https://github.com/ZacSweers/auto-service-ksp/pull/78) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.squareup:kotlinpoet to v1.15.2"
+
+**2023-11-30** — opened PR [#75](https://github.com/slackhq/kotlin-cli-util/pull/75) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Introduce CommandFactory to aggregate commands"
+
+**2023-11-30** — created branch `z/commandFactory` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-11-30** — deleted branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-11-30** — merged PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
 
 **2023-11-30** — opened PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
-
-**2023-11-30** — created branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-11-30** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — deleted branch `dependabot/github_actions/actions/setup-java-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-serialization-core-1.6.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — merged PR [#74](https://github.com/slackhq/kotlin-cli-util/pull/74) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.22.0 to 6.23.2"
-
-**2023-11-30** — merged PR [#72](https://github.com/slackhq/kotlin-cli-util/pull/72) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/setup-java from 3 to 4"
-
-**2023-11-30** — merged PR [#73](https://github.com/slackhq/kotlin-cli-util/pull/73) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.6.1 to 1.6.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
