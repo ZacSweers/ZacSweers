@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-30** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-11-30** — deleted branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-30** — merged PR [#118](https://github.com/ZacSweers/ZacSweers/pull/118) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.23.2"
+**2023-11-30** — merged PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
 
-**2023-11-30** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-11-30** — opened PR [#658](https://github.com/slackhq/slack-gradle-plugin/pull/658) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Kotlin and ksp"
 
-**2023-11-30** — merged PR [#119](https://github.com/ZacSweers/ZacSweers/pull/119) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.2"
+**2023-11-30** — created branch `z/updateKotlinksp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-11-30** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.2` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-11-30** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-30** — merged PR [#66](https://github.com/slackhq/moshi-gson-interop/pull/66) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.22.0 to 6.23.2"
+**2023-11-30** — deleted branch `dependabot/github_actions/actions/setup-java-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-29** — commented on [#1621](https://github.com/google/ksp/issues/1621#issuecomment-1832832852) in [google/ksp](https://github.com/google/ksp)
+**2023-11-30** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-serialization-core-1.6.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-11-29** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1832828343) in [google/ksp](https://github.com/google/ksp)
+**2023-11-30** — merged PR [#74](https://github.com/slackhq/kotlin-cli-util/pull/74) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.22.0 to 6.23.2"
 
-**2023-11-29** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-11-30** — merged PR [#72](https://github.com/slackhq/kotlin-cli-util/pull/72) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/setup-java from 3 to 4"
 
-**2023-11-29** — merged PR [#116](https://github.com/ZacSweers/ZacSweers/pull/116) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.5"
+**2023-11-30** — merged PR [#73](https://github.com/slackhq/kotlin-cli-util/pull/73) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.6.1 to 1.6.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
