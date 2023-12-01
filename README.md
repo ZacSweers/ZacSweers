@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-01** — merged PR [#1037](https://github.com/slackhq/circuit/pull/1037) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize SaveableStateRegistryBackStackRecordLocalProvider"
+
 **2023-12-01** — opened issue [#218](https://github.com/slackhq/compose-lints/issues/218) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint against Composition Locals that use `get() =` syntax"
 
 **2023-12-01** — opened issue [#1923](https://github.com/diffplug/spotless/issues/1923) on [diffplug/spotless](https://github.com/diffplug/spotless): "6.23.2 has breaking ABI changes"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — merged PR [#1113](https://github.com/ZacSweers/CatchUp/pull/1113) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.5"
 
 **2023-12-01** — deleted branch `renovate/actions-setup-java-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-01** — merged PR [#1030](https://github.com/slackhq/circuit/pull/1030) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/setup-java action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
