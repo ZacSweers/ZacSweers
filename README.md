@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-01** — opened issue [#1923](https://github.com/diffplug/spotless/issues/1923) on [diffplug/spotless](https://github.com/diffplug/spotless): "6.23.2 has breaking ABI changes"
+
 **2023-12-01** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-datetime-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-12-01** — merged PR [#121](https://github.com/ZacSweers/ZacSweers/pull/121) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.5.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — merged PR [#1030](https://github.com/slackhq/circuit/pull/1030) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/setup-java action to v4"
 
 **2023-12-01** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-01** — merged PR [#120](https://github.com/ZacSweers/ZacSweers/pull/120) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.10.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
