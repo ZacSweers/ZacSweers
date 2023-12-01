@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-01** — created tag `2.5.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-01** — merged PR [#1103](https://github.com/ZacSweers/CatchUp/pull/1103) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha16"
+
+**2023-12-01** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-01** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.18` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-12-01** — merged PR [#508](https://github.com/uber/AutoDispose/pull/508) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.17 to 0.10.18"
+
 **2023-11-30** — deleted branch `z/splitRules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-30** — merged PR [#78](https://github.com/slackhq/kotlin-cli-util/pull/78) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "List issues individually in lint baseline merges + preserve messages"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-11-30** — created branch `z/splitRules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-11-30** — commented on [#77](https://github.com/slackhq/kotlin-cli-util/pull/77#issuecomment-1834678121) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — deleted branch `z/baselineMergeOptions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — merged PR [#77](https://github.com/slackhq/kotlin-cli-util/pull/77) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add messageTemplate and level params to baseline merger"
-
-**2023-11-30** — opened PR [#77](https://github.com/slackhq/kotlin-cli-util/pull/77) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add messageTemplate and level params to baseline merger"
-
-**2023-11-30** — created branch `z/baselineMergeOptions` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — deleted branch `z/commandFactory` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
