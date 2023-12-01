@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-01** — deleted branch `renovate/actions-setup-java-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-01** — merged PR [#1030](https://github.com/slackhq/circuit/pull/1030) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/setup-java action to v4"
+
+**2023-12-01** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-12-01** — merged PR [#120](https://github.com/ZacSweers/ZacSweers/pull/120) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.10.0"
+
 **2023-12-01** — created tag `2.5.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-01** — merged PR [#1103](https://github.com/ZacSweers/CatchUp/pull/1103) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha16"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — merged PR [#508](https://github.com/uber/AutoDispose/pull/508) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.17 to 0.10.18"
 
 **2023-11-30** — deleted branch `z/splitRules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — merged PR [#78](https://github.com/slackhq/kotlin-cli-util/pull/78) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "List issues individually in lint baseline merges + preserve messages"
-
-**2023-11-30** — opened PR [#78](https://github.com/slackhq/kotlin-cli-util/pull/78) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "List issues individually in lint baseline merges + preserve messages"
-
-**2023-11-30** — created branch `z/splitRules` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-11-30** — commented on [#77](https://github.com/slackhq/kotlin-cli-util/pull/77#issuecomment-1834678121) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
