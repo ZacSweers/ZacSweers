@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-01** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-datetime-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-12-01** — merged PR [#121](https://github.com/ZacSweers/ZacSweers/pull/121) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.5.0"
+
 **2023-12-01** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-01** — merged PR [#1114](https://github.com/ZacSweers/CatchUp/pull/1114) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha07"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-12-01** — merged PR [#120](https://github.com/ZacSweers/ZacSweers/pull/120) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.10.0"
-
-**2023-12-01** — created tag `2.5.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-01** — merged PR [#1103](https://github.com/ZacSweers/CatchUp/pull/1103) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha16"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
