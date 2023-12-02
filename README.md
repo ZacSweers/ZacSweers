@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837270329) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-12-02** — merged PR [#1756](https://github.com/square/kotlinpoet/pull/1756) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "fix nullability of lambdas in KSTypeReference.toTypeName"
+
 **2023-12-02** — commented on [#1923](https://github.com/diffplug/spotless/issues/1923#issuecomment-1837198461) in [diffplug/spotless](https://github.com/diffplug/spotless)
 
 **2023-12-01** — merged PR [#1037](https://github.com/slackhq/circuit/pull/1037) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize SaveableStateRegistryBackStackRecordLocalProvider"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-01** — merged PR [#1114](https://github.com/ZacSweers/CatchUp/pull/1114) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha07"
-
-**2023-12-01** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-01** — merged PR [#1113](https://github.com/ZacSweers/CatchUp/pull/1113) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
