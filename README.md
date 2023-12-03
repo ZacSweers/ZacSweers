@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-03** — Could not load GitHub activity. Please check back later.
+**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837292905) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837270329) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-12-02** — merged PR [#1756](https://github.com/square/kotlinpoet/pull/1756) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "fix nullability of lambdas in KSTypeReference.toTypeName"
+
+**2023-12-02** — commented on [#1923](https://github.com/diffplug/spotless/issues/1923#issuecomment-1837198461) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
+**2023-12-01** — merged PR [#1037](https://github.com/slackhq/circuit/pull/1037) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize SaveableStateRegistryBackStackRecordLocalProvider"
+
+**2023-12-01** — opened issue [#218](https://github.com/slackhq/compose-lints/issues/218) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint against Composition Locals that use `get() =` syntax"
+
+**2023-12-01** — opened issue [#1923](https://github.com/diffplug/spotless/issues/1923) on [diffplug/spotless](https://github.com/diffplug/spotless): "6.23.2 has breaking ABI changes"
+
+**2023-12-01** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-datetime-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-12-01** — merged PR [#121](https://github.com/ZacSweers/ZacSweers/pull/121) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.5.0"
+
+**2023-12-01** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
