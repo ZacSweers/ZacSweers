@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837292905) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837270329) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2023-12-02** — merged PR [#1756](https://github.com/square/kotlinpoet/pull/1756) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "fix nullability of lambdas in KSTypeReference.toTypeName"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-01** — merged PR [#121](https://github.com/ZacSweers/ZacSweers/pull/121) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.5.0"
 
 **2023-12-01** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-01** — merged PR [#1114](https://github.com/ZacSweers/CatchUp/pull/1114) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
