@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-03** — created branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-03** — opened issue [#78](https://github.com/detekt/sarif4k/issues/78) on [detekt/sarif4k](https://github.com/detekt/sarif4k): "PropertyBag appears to be implemented different from its doc"
+
 **2023-12-03** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-03** — merged PR [#517](https://github.com/ZacSweers/MoshiX/pull/517) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.23.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-03** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-03** — merged PR [#520](https://github.com/ZacSweers/MoshiX/pull/520) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.2.0"
-
-**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837292905) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-12-02** — commented on [#1758](https://github.com/square/kotlinpoet/issues/1758#issuecomment-1837270329) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
