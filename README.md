@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-04** — commented on [#130](https://github.com/slackhq/keeper/pull/130#issuecomment-1839036837) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2023-12-04** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2023-12-04** — merged PR [#523](https://github.com/ZacSweers/MoshiX/pull/523) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.3"
+
 **2023-12-04** — commented on [#129](https://github.com/slackhq/keeper/issues/129#issuecomment-1838893068) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-12-03** — created branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-03** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-03** — merged PR [#516](https://github.com/ZacSweers/MoshiX/pull/516) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/setup-java action to v4"
-
-**2023-12-03** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-03** — merged PR [#515](https://github.com/ZacSweers/MoshiX/pull/515) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.5"
-
-**2023-12-03** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
