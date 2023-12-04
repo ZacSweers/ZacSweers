@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-04** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2023-12-04** — merged PR [#67](https://github.com/slackhq/moshi-gson-interop/pull/67) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.23.2 to 6.23.3"
+
 **2023-12-04** — commented on [#130](https://github.com/slackhq/keeper/pull/130#issuecomment-1839036837) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-12-04** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-03** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-03** — merged PR [#517](https://github.com/ZacSweers/MoshiX/pull/517) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.23.2"
-
-**2023-12-03** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-03** — merged PR [#516](https://github.com/ZacSweers/MoshiX/pull/516) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/setup-java action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
