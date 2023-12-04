@@ -11,7 +11,7 @@ compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
 ksp = { id = "com.google.devtools.ksp", version = "1.9.21-1.0.15" }
-spotless = { id = "com.diffplug.spotless", version = "6.23.2" }
+spotless = { id = "com.diffplug.spotless", version = "6.23.3" }
 
 [libraries]
 clikt = "com.github.ajalt.clikt:clikt:4.2.1"
