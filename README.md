@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — opened issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
+
 **2023-12-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-05** — merged PR [#1127](https://github.com/ZacSweers/CatchUp/pull/1127) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.8"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — merged PR [#79](https://github.com/slackhq/kotlin-cli-util/pull/79) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.23.2 to 6.23.3"
 
 **2023-12-05** — opened PR [#81](https://github.com/slackhq/kotlin-cli-util/pull/81) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update project verifier to ensure that all build file projects are also present in settings includes"
-
-**2023-12-05** — opened PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
