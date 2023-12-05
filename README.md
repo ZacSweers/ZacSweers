@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.8` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-05** — merged PR [#82](https://github.com/slackhq/kotlin-cli-util/pull/82) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.7 to 1.5.8"
+
 **2023-12-05** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-05** — merged PR [#1128](https://github.com/ZacSweers/CatchUp/pull/1128) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — opened PR [#1649](https://github.com/google/ksp/pull/1649) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
 
 **2023-12-05** — created branch `z/moduleName` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
-
-**2023-12-05** — commented on [#806](https://github.com/square/anvil/pull/806#issuecomment-1840049324) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-05** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
