@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-05** — merged PR [#1127](https://github.com/ZacSweers/CatchUp/pull/1127) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.8"
+
 **2023-12-05** — commented on [#1621](https://github.com/google/ksp/issues/1621#issuecomment-1840099810) in [google/ksp](https://github.com/google/ksp)
 
 **2023-12-05** — opened PR [#1649](https://github.com/google/ksp/pull/1649) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — opened PR [#81](https://github.com/slackhq/kotlin-cli-util/pull/81) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update project verifier to ensure that all build file projects are also present in settings includes"
 
 **2023-12-05** — opened PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
-
-**2023-12-05** — created branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-05** — opened PR [#806](https://github.com/square/anvil/pull/806) to [square/anvil](https://github.com/square/anvil): "[WIP] Migrate ProvidesMethodFactoryCodeGen to KSP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
