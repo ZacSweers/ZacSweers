@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — created tag `2.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-05** — deleted branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-05** — merged PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
+
+**2023-12-05** — deleted branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-05** — merged PR [#81](https://github.com/slackhq/kotlin-cli-util/pull/81) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update project verifier to ensure that all build file projects are also present in settings includes"
+
 **2023-12-05** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.8` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-05** — merged PR [#82](https://github.com/slackhq/kotlin-cli-util/pull/82) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.7 to 1.5.8"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — merged PR [#1128](https://github.com/ZacSweers/CatchUp/pull/1128) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16"
 
 **2023-12-05** — opened issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
-
-**2023-12-05** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-05** — merged PR [#1127](https://github.com/ZacSweers/CatchUp/pull/1127) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.8"
-
-**2023-12-05** — commented on [#1621](https://github.com/google/ksp/issues/1621#issuecomment-1840099810) in [google/ksp](https://github.com/google/ksp)
-
-**2023-12-05** — opened PR [#1649](https://github.com/google/ksp/pull/1649) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
-
-**2023-12-05** — created branch `z/moduleName` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
