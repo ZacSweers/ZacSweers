@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — commented on [#1621](https://github.com/google/ksp/issues/1621#issuecomment-1840099810) in [google/ksp](https://github.com/google/ksp)
+
+**2023-12-05** — opened PR [#1649](https://github.com/google/ksp/pull/1649) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
+
+**2023-12-05** — created branch `z/moduleName` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
+
 **2023-12-05** — commented on [#806](https://github.com/square/anvil/pull/806#issuecomment-1840049324) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-05** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — created branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-05** — opened PR [#806](https://github.com/square/anvil/pull/806) to [square/anvil](https://github.com/square/anvil): "[WIP] Migrate ProvidesMethodFactoryCodeGen to KSP"
-
-**2023-12-05** — created branch `z/ksp/providerMethodFactory2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-12-04** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-04** — merged PR [#1126](https://github.com/ZacSweers/CatchUp/pull/1126) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
