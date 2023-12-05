@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-04** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2023-12-05** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-04** — merged PR [#509](https://github.com/uber/AutoDispose/pull/509) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.22.0 to 6.23.3"
+**2023-12-05** — merged PR [#79](https://github.com/slackhq/kotlin-cli-util/pull/79) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.23.2 to 6.23.3"
 
-**2023-12-04** — opened issue [#667](https://github.com/slackhq/slack-gradle-plugin/issues/667) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Reconcile unit tests in multivariant libraries"
+**2023-12-05** — opened PR [#81](https://github.com/slackhq/kotlin-cli-util/pull/81) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update project verifier to ensure that all build file projects are also present in settings includes"
 
-**2023-12-04** — merged PR [#130](https://github.com/slackhq/keeper/pull/130) to [slackhq/keeper](https://github.com/slackhq/keeper): "Update default R8 to 8.2.38"
+**2023-12-05** — opened PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
 
-**2023-12-04** — commented on [#130](https://github.com/slackhq/keeper/pull/130#issuecomment-1839256085) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-12-05** — created branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-04** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2023-12-05** — opened PR [#806](https://github.com/square/anvil/pull/806) to [square/anvil](https://github.com/square/anvil): "[WIP] Migrate ProvidesMethodFactoryCodeGen to KSP"
 
-**2023-12-04** — merged PR [#67](https://github.com/slackhq/moshi-gson-interop/pull/67) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.23.2 to 6.23.3"
+**2023-12-05** — created branch `z/ksp/providerMethodFactory2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2023-12-04** — commented on [#130](https://github.com/slackhq/keeper/pull/130#issuecomment-1839036837) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2023-12-04** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-04** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2023-12-04** — merged PR [#1126](https://github.com/ZacSweers/CatchUp/pull/1126) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.13.0"
 
-**2023-12-04** — merged PR [#523](https://github.com/ZacSweers/MoshiX/pull/523) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.15.3"
+**2023-12-04** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
