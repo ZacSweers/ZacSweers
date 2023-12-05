@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — commented on [#806](https://github.com/square/anvil/pull/806#issuecomment-1840049324) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-05** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-05** — merged PR [#79](https://github.com/slackhq/kotlin-cli-util/pull/79) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.diffplug.spotless from 6.23.2 to 6.23.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-04** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-04** — merged PR [#1126](https://github.com/ZacSweers/CatchUp/pull/1126) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.13.0"
-
-**2023-12-04** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
