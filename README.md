@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — opened PR [#670](https://github.com/slackhq/slack-gradle-plugin/pull/670) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to new API for CC check"
+
+**2023-12-05** — created branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-12-05** — created tag `0.13.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-05** — opened PR [#250](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/250) to [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Update studio version property to new version"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — merged PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
 
 **2023-12-05** — deleted branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-05** — merged PR [#81](https://github.com/slackhq/kotlin-cli-util/pull/81) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update project verifier to ensure that all build file projects are also present in settings includes"
-
-**2023-12-05** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.8` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
