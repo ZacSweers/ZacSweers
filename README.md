@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-06** — deleted branch `renovate/actions-setup-java-4.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-12-06** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-12-06** — merged PR [#185](https://github.com/slackhq/slack-lints/pull/185) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.5"
+
+**2023-12-06** — merged PR [#186](https://github.com/slackhq/slack-lints/pull/186) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/setup-java action to v4"
+
+**2023-12-06** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-12-06** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.4` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-12-06** — merged PR [#180](https://github.com/slackhq/slack-lints/pull/180) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.23.3"
+
+**2023-12-06** — merged PR [#181](https://github.com/slackhq/slack-lints/pull/181) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.3 to 1.23.4"
+
 **2023-12-06** — opened PR [#1766](https://github.com/square/kotlinpoet/pull/1766) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to kotlinx-metadata 0.8.0"
 
 **2023-12-06** — created branch `z/updateKM` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2023-12-06** — deleted branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-06** — merged PR [#670](https://github.com/slackhq/slack-gradle-plugin/pull/670) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to new API for CC check"
-
-**2023-12-06** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-1842179450) in [google/ksp](https://github.com/google/ksp)
-
-**2023-12-06** — created branch `z/ksp/bindingModuleGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-12-05** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-1842054244) in [google/ksp](https://github.com/google/ksp)
-
-**2023-12-05** — opened PR [#670](https://github.com/slackhq/slack-gradle-plugin/pull/670) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to new API for CC check"
-
-**2023-12-05** — created branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-05** — created tag `0.13.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
