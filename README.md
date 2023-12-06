@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-06** — opened PR [#1766](https://github.com/square/kotlinpoet/pull/1766) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to kotlinx-metadata 0.8.0"
+
+**2023-12-06** — created branch `z/updateKM` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-12-06** — deleted branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-06** — merged PR [#670](https://github.com/slackhq/slack-gradle-plugin/pull/670) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to new API for CC check"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — created branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-05** — created tag `0.13.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-05** — opened PR [#250](https://github.com/gradle/common-custom-user-data-gradle-plugin/pull/250) to [gradle/common-custom-user-data-gradle-plugin](https://github.com/gradle/common-custom-user-data-gradle-plugin): "Update studio version property to new version"
-
-**2023-12-05** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
