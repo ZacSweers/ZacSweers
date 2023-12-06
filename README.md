@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-05** — merged PR [#1130](https://github.com/ZacSweers/CatchUp/pull/1130) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.17.1"
+
 **2023-12-05** — created tag `2.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-05** — deleted branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — merged PR [#82](https://github.com/slackhq/kotlin-cli-util/pull/82) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.7 to 1.5.8"
 
 **2023-12-05** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-05** — merged PR [#1128](https://github.com/ZacSweers/CatchUp/pull/1128) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16"
-
-**2023-12-05** — opened issue [#220](https://github.com/slackhq/compose-lints/issues/220) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Idea: Suggest NonRestartableComposable on simple composables that just call through to one other composable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
