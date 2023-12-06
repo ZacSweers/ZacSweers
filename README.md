@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-05** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-1842054244) in [google/ksp](https://github.com/google/ksp)
+
 **2023-12-05** — opened PR [#670](https://github.com/slackhq/slack-gradle-plugin/pull/670) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to new API for CC check"
 
 **2023-12-05** — created branch `z/updatedApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — deleted branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-05** — merged PR [#80](https://github.com/slackhq/kotlin-cli-util/pull/80) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Misc sarif updates"
-
-**2023-12-05** — deleted branch `z/updateSettings` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
