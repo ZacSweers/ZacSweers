@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-06** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-1842179450) in [google/ksp](https://github.com/google/ksp)
+
 **2023-12-06** — created branch `z/ksp/bindingModuleGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-12-05** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-1842054244) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-05** — merged PR [#1130](https://github.com/ZacSweers/CatchUp/pull/1130) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.17.1"
 
 **2023-12-05** — created tag `2.5.4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-05** — deleted branch `z/sarifUpdates` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
