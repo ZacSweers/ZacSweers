@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-07** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-12-07** — merged PR [#123](https://github.com/ZacSweers/ZacSweers/pull/123) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.7"
+
 **2023-12-06** — deleted branch `renovate/com.slack.eithernet` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-12-06** — merged PR [#171](https://github.com/slackhq/slack-lints/pull/171) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v1.8.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-06** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-12-06** — commented on [#170](https://github.com/slackhq/slack-lints/pull/170#issuecomment-1843671671) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-12-06** — closed PR [#170](https://github.com/slackhq/slack-lints/pull/170) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha16"
-
-**2023-12-06** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
