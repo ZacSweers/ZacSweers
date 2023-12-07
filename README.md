@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-07** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-12-07** — merged PR [#219](https://github.com/slackhq/compose-lints/pull/219) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency termcolor to v2.4.0"
 
-**2023-12-07** — merged PR [#122](https://github.com/ZacSweers/ZacSweers/pull/122) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.23.3"
+**2023-12-07** — deleted branch `renovate/termcolor-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-07** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2023-12-07** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-07** — merged PR [#123](https://github.com/ZacSweers/ZacSweers/pull/123) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.7"
+**2023-12-07** — merged PR [#211](https://github.com/slackhq/compose-lints/pull/211) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.23.3"
 
-**2023-12-06** — deleted branch `renovate/com.slack.eithernet` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-12-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-06** — merged PR [#171](https://github.com/slackhq/slack-lints/pull/171) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v1.8.0"
+**2023-12-07** — deleted branch `renovate/actions-setup-java-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-06** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.23.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-12-07** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-06** — merged PR [#189](https://github.com/slackhq/slack-lints/pull/189) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.diffplug.spotless from 6.22.0 to 6.23.3"
+**2023-12-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-06** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx-kotlinx-metadata-jvm-0.8.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2023-12-07** — merged PR [#215](https://github.com/slackhq/compose-lints/pull/215) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update actions/setup-java action to v4"
 
-**2023-12-06** — merged PR [#190](https://github.com/slackhq/slack-lints/pull/190) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlinx:kotlinx-metadata-jvm from 0.7.0 to 0.8.0"
+**2023-12-07** — merged PR [#212](https://github.com/slackhq/compose-lints/pull/212) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.3.0-alpha16"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
