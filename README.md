@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-08** — opened PR [#677](https://github.com/slackhq/slack-gradle-plugin/pull/677) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate buildconfig plugin to project to replace old version templates work"
+
+**2023-12-08** — created branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-08** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1847865785) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
+
 **2023-12-08** — commented on [#1046](https://github.com/slackhq/circuit/issues/1046#issuecomment-1847485703) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-07** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1846228269) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-07** — merged PR [#211](https://github.com/slackhq/compose-lints/pull/211) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.23.3"
 
 **2023-12-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-12-07** — deleted branch `renovate/actions-setup-java-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-12-07** — deleted branch `renovate/gradle-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-12-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
