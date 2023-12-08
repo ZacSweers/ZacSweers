@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-08** — opened PR [#678](https://github.com/slackhq/slack-gradle-plugin/pull/678) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Granularize skippy configs for future work"
+
+**2023-12-08** — created branch `z/granularSkippyConfigs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-12-08** — opened PR [#677](https://github.com/slackhq/slack-gradle-plugin/pull/677) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate buildconfig plugin to project to replace old version templates work"
 
 **2023-12-08** — created branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-07** — deleted branch `renovate/termcolor-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2023-12-07** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2023-12-07** — merged PR [#211](https://github.com/slackhq/compose-lints/pull/211) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.23.3"
-
-**2023-12-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
