@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-09** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-09** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1848671929) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 
-**2023-12-09** — closed PR [#1099](https://github.com/ZacSweers/CatchUp/pull/1099) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.23.3"
+**2023-12-09** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1848666559) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 
-**2023-12-09** — merged PR [#1132](https://github.com/ZacSweers/CatchUp/pull/1132) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.6"
+**2023-12-09** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-12-09** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-09** — merged PR [#191](https://github.com/slackhq/slack-lints/pull/191) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-alpha17"
 
-**2023-12-09** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-09** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1848644455) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 
-**2023-12-09** — merged PR [#1133](https://github.com/ZacSweers/CatchUp/pull/1133) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha17"
+**2023-12-09** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.8.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-12-09** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-09** — closed PR [#173](https://github.com/slackhq/slack-lints/pull/173) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.6.0 to 1.8.0"
 
-**2023-12-09** — merged PR [#1129](https://github.com/ZacSweers/CatchUp/pull/1129) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.1.0"
+**2023-12-09** — opened issue [#192](https://github.com/slackhq/slack-lints/issues/192) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Test with K2 support enabled"
 
-**2023-12-09** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-09** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-09** — merged PR [#1134](https://github.com/ZacSweers/CatchUp/pull/1134) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.6"
+**2023-12-09** — merged PR [#1131](https://github.com/ZacSweers/CatchUp/pull/1131) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.13.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
