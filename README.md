@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-08** — commented on [#1046](https://github.com/slackhq/circuit/issues/1046#issuecomment-1848101914) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-12-09** — deleted branch `renovate/spotless` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-08** — opened PR [#678](https://github.com/slackhq/slack-gradle-plugin/pull/678) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Granularize skippy configs for future work"
+**2023-12-09** — closed PR [#1099](https://github.com/ZacSweers/CatchUp/pull/1099) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v6.23.3"
 
-**2023-12-08** — created branch `z/granularSkippyConfigs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-09** — merged PR [#1132](https://github.com/ZacSweers/CatchUp/pull/1132) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.6"
 
-**2023-12-08** — opened PR [#677](https://github.com/slackhq/slack-gradle-plugin/pull/677) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate buildconfig plugin to project to replace old version templates work"
+**2023-12-09** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-08** — created branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-09** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-08** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1847865785) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
+**2023-12-09** — merged PR [#1133](https://github.com/ZacSweers/CatchUp/pull/1133) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-alpha17"
 
-**2023-12-08** — commented on [#1046](https://github.com/slackhq/circuit/issues/1046#issuecomment-1847485703) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-12-09** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-07** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1846228269) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-12-09** — merged PR [#1129](https://github.com/ZacSweers/CatchUp/pull/1129) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.1.0"
 
-**2023-12-07** — merged PR [#219](https://github.com/slackhq/compose-lints/pull/219) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency termcolor to v2.4.0"
+**2023-12-09** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-07** — deleted branch `renovate/termcolor-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2023-12-09** — merged PR [#1134](https://github.com/ZacSweers/CatchUp/pull/1134) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
