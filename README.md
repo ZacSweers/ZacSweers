@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-11** — opened PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
+
 **2023-12-11** — created branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-12-11** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-1849333413) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-10** — created branch `z/collections` on [ZacSweers/gradle-buildconfig-plugin](https://github.com/ZacSweers/gradle-buildconfig-plugin)
 
 **2023-12-09** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1848671929) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2023-12-09** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1848666559) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
