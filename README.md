@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-11** — deleted branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2023-12-11** — merged PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
+
 **2023-12-11** — commented on [#129](https://github.com/slackhq/keeper/issues/129#issuecomment-1850234567) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-12-11** — closed issue [#129](https://github.com/slackhq/keeper/issues/129) on [slackhq/keeper](https://github.com/slackhq/keeper): "Update R8 version to latest stable AGP"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-11** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-1849333413) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-12-10** — deleted branch `test-renovate/actions-setup-python-5.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-10** — deleted branch `test-renovate/actions-setup-java-4.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-10** — merged PR [#680](https://github.com/slackhq/slack-gradle-plugin/pull/680) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/setup-python action to v5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
