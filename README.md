@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-11** — opened PR [#83](https://github.com/slackhq/kotlin-cli-util/pull/83) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Use more modern path walking APIs"
+
+**2023-12-11** — created branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-12-11** — deleted branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2023-12-11** — merged PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-11** — opened PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
 
 **2023-12-11** — created branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-12-11** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-1849333413) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-12-10** — deleted branch `test-renovate/actions-setup-python-5.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
