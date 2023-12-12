@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-11** — deleted branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-11** — merged PR [#677](https://github.com/slackhq/slack-gradle-plugin/pull/677) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate buildconfig plugin to project to replace old version templates work"
+
+**2023-12-11** — commented on [#678](https://github.com/slackhq/slack-gradle-plugin/pull/678#issuecomment-1851069050) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-12-11** — opened PR [#83](https://github.com/slackhq/kotlin-cli-util/pull/83) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Use more modern path walking APIs"
 
 **2023-12-11** — created branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-11** — closed issue [#129](https://github.com/slackhq/keeper/issues/129) on [slackhq/keeper](https://github.com/slackhq/keeper): "Update R8 version to latest stable AGP"
 
 **2023-12-11** — closed issue [#131](https://github.com/slackhq/keeper/issues/131) on [slackhq/keeper](https://github.com/slackhq/keeper): "Fails on Sealed Classes"
-
-**2023-12-11** — commented on [#131](https://github.com/slackhq/keeper/issues/131#issuecomment-1850212553) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-12-11** — opened PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
-
-**2023-12-11** — created branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
