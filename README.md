@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-12** — deleted branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-12** — merged PR [#83](https://github.com/slackhq/kotlin-cli-util/pull/83) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Use more modern path walking APIs"
+
+**2023-12-12** — created tag `0.14.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-12** — deleted branch `z/granularSkippyConfigs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-12** — merged PR [#678](https://github.com/slackhq/slack-gradle-plugin/pull/678) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Granularize skippy configs for future work"
+
 **2023-12-12** — deleted branch `z/collections` on [ZacSweers/gradle-buildconfig-plugin](https://github.com/ZacSweers/gradle-buildconfig-plugin)
 
 **2023-12-11** — deleted branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-11** — commented on [#678](https://github.com/slackhq/slack-gradle-plugin/pull/678#issuecomment-1851069050) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-11** — opened PR [#83](https://github.com/slackhq/kotlin-cli-util/pull/83) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Use more modern path walking APIs"
-
-**2023-12-11** — created branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-11** — deleted branch `z/versioning` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2023-12-11** — merged PR [#193](https://github.com/slackhq/slack-lints/pull/193) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin language version to match latest in lint + clean up"
-
-**2023-12-11** — commented on [#129](https://github.com/slackhq/keeper/issues/129#issuecomment-1850234567) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2023-12-11** — closed issue [#129](https://github.com/slackhq/keeper/issues/129) on [slackhq/keeper](https://github.com/slackhq/keeper): "Update R8 version to latest stable AGP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
