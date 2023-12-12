@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-12** — deleted branch `z/collections` on [ZacSweers/gradle-buildconfig-plugin](https://github.com/ZacSweers/gradle-buildconfig-plugin)
+
 **2023-12-11** — deleted branch `z/agpUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-11** — merged PR [#677](https://github.com/slackhq/slack-gradle-plugin/pull/677) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Integrate buildconfig plugin to project to replace old version templates work"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-11** — commented on [#129](https://github.com/slackhq/keeper/issues/129#issuecomment-1850234567) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2023-12-11** — closed issue [#129](https://github.com/slackhq/keeper/issues/129) on [slackhq/keeper](https://github.com/slackhq/keeper): "Update R8 version to latest stable AGP"
-
-**2023-12-11** — closed issue [#131](https://github.com/slackhq/keeper/issues/131) on [slackhq/keeper](https://github.com/slackhq/keeper): "Fails on Sealed Classes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
