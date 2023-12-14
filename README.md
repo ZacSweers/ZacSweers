@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-14** — commented on [#1772](https://github.com/square/moshi/issues/1772#issuecomment-1855994865) in [square/moshi](https://github.com/square/moshi)
+
+**2023-12-14** — closed issue [#1773](https://github.com/square/moshi/issues/1773) on [square/moshi](https://github.com/square/moshi): "速度这块 没有gson 自动生成的插件快 https://github.com/NBXXF/gson_plugin"
+
 **2023-12-14** — opened PR [#85](https://github.com/slackhq/kotlin-cli-util/pull/85) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More misc binding cleanup"
 
 **2023-12-14** — created branch `z/moreBk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-13** — commented on [#378](https://github.com/charleskorn/kaml/issues/378#issuecomment-1854886519) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
 
 **2023-12-13** — opened PR [#494](https://github.com/charleskorn/kaml/pull/494) to [charleskorn/kaml](https://github.com/charleskorn/kaml): "Introduce PolymorphismStyle.None"
-
-**2023-12-13** — created branch `z/nonePolymorphism` on [ZacSweers/kaml](https://github.com/ZacSweers/kaml)
-
-**2023-12-13** — commented on [#378](https://github.com/charleskorn/kaml/issues/378#issuecomment-1854458647) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
