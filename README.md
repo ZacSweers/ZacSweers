@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-13** — deleted branch `z/bk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-13** — merged PR [#84](https://github.com/slackhq/kotlin-cli-util/pull/84) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add buildkite bindings"
+
 **2023-12-13** — opened PR [#84](https://github.com/slackhq/kotlin-cli-util/pull/84) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add buildkite bindings"
 
 **2023-12-13** — created branch `z/bk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-12** — created branch `z/bazelgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-12** — deleted branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-12** — merged PR [#83](https://github.com/slackhq/kotlin-cli-util/pull/83) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Use more modern path walking APIs"
-
-**2023-12-12** — created tag `0.14.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
