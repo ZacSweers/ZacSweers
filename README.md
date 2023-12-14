@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-14** — opened PR [#85](https://github.com/slackhq/kotlin-cli-util/pull/85) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More misc binding cleanup"
+
+**2023-12-14** — created branch `z/moreBk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2023-12-13** — deleted branch `z/bk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-13** — merged PR [#84](https://github.com/slackhq/kotlin-cli-util/pull/84) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add buildkite bindings"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-13** — created branch `z/nonePolymorphism` on [ZacSweers/kaml](https://github.com/ZacSweers/kaml)
 
 **2023-12-13** — commented on [#378](https://github.com/charleskorn/kaml/issues/378#issuecomment-1854458647) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-
-**2023-12-12** — created branch `z/bazelgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-12** — deleted branch `z/pathWalks` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
