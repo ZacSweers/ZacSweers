@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-14** — commented on [#1772](https://github.com/square/moshi/issues/1772#issuecomment-1855994865) in [square/moshi](https://github.com/square/moshi)
+**2023-12-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-14** — closed issue [#1773](https://github.com/square/moshi/issues/1773) on [square/moshi](https://github.com/square/moshi): "速度这块 没有gson 自动生成的插件快 https://github.com/NBXXF/gson_plugin"
+**2023-12-16** — merged PR [#1135](https://github.com/ZacSweers/CatchUp/pull/1135) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.1"
 
-**2023-12-14** — opened PR [#85](https://github.com/slackhq/kotlin-cli-util/pull/85) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More misc binding cleanup"
+**2023-12-15** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-14** — created branch `z/moreBk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-12-15** — merged PR [#1152](https://github.com/ZacSweers/CatchUp/pull/1152) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.242.0"
 
-**2023-12-13** — deleted branch `z/bk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-12-15** — deleted branch `renovate/actions-upload-artifact-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-13** — merged PR [#84](https://github.com/slackhq/kotlin-cli-util/pull/84) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add buildkite bindings"
+**2023-12-15** — merged PR [#1153](https://github.com/ZacSweers/CatchUp/pull/1153) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/upload-artifact action to v4"
 
-**2023-12-13** — opened PR [#84](https://github.com/slackhq/kotlin-cli-util/pull/84) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add buildkite bindings"
+**2023-12-15** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-13** — created branch `z/bk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2023-12-15** — merged PR [#1150](https://github.com/ZacSweers/CatchUp/pull/1150) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16.1"
 
-**2023-12-13** — commented on [#378](https://github.com/charleskorn/kaml/issues/378#issuecomment-1854886519) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+**2023-12-15** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-13** — opened PR [#494](https://github.com/charleskorn/kaml/pull/494) to [charleskorn/kaml](https://github.com/charleskorn/kaml): "Introduce PolymorphismStyle.None"
+**2023-12-15** — merged PR [#1151](https://github.com/ZacSweers/CatchUp/pull/1151) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
