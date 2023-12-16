@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-16** — deleted branch `dependabot/github_actions/actions/upload-artifact-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2023-12-16** — merged PR [#88](https://github.com/slackhq/kotlin-cli-util/pull/88) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/upload-artifact from 3 to 4"
+
 **2023-12-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-16** — merged PR [#1135](https://github.com/ZacSweers/CatchUp/pull/1135) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-15** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-15** — merged PR [#1150](https://github.com/ZacSweers/CatchUp/pull/1150) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16.1"
-
-**2023-12-15** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-15** — merged PR [#1151](https://github.com/ZacSweers/CatchUp/pull/1151) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
