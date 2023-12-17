@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-16** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-16** — merged PR [#1143](https://github.com/ZacSweers/CatchUp/pull/1143) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-beta01"
+
 **2023-12-16** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-collections-immutable-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-16** — merged PR [#1154](https://github.com/ZacSweers/CatchUp/pull/1154) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-16** — deleted branch `dependabot/github_actions/actions/upload-artifact-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-16** — merged PR [#88](https://github.com/slackhq/kotlin-cli-util/pull/88) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/upload-artifact from 3 to 4"
-
-**2023-12-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-16** — merged PR [#1135](https://github.com/ZacSweers/CatchUp/pull/1135) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
