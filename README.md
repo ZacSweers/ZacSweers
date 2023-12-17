@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-16** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-collections-immutable-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-16** — merged PR [#1154](https://github.com/ZacSweers/CatchUp/pull/1154) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.7"
+
+**2023-12-16** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2023-12-16** — merged PR [#127](https://github.com/ZacSweers/ZacSweers/pull/127) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.7.0"
+
+**2023-12-16** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-16** — merged PR [#1155](https://github.com/ZacSweers/CatchUp/pull/1155) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.7.0"
+
 **2023-12-16** — deleted branch `dependabot/github_actions/actions/upload-artifact-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2023-12-16** — merged PR [#88](https://github.com/slackhq/kotlin-cli-util/pull/88) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/upload-artifact from 3 to 4"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-16** — merged PR [#1135](https://github.com/ZacSweers/CatchUp/pull/1135) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.1"
-
-**2023-12-15** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-15** — merged PR [#1152](https://github.com/ZacSweers/CatchUp/pull/1152) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.242.0"
-
-**2023-12-15** — deleted branch `renovate/actions-upload-artifact-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-15** — merged PR [#1153](https://github.com/ZacSweers/CatchUp/pull/1153) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update actions/upload-artifact action to v4"
-
-**2023-12-15** — deleted branch `renovate/com.gradle.enterprise-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-15** — merged PR [#1150](https://github.com/ZacSweers/CatchUp/pull/1150) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.enterprise to v3.16.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
