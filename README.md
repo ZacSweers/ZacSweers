@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-18** — opened PR [#691](https://github.com/slackhq/slack-gradle-plugin/pull/691) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Expose compilerOptions for compose configuration"
+
+**2023-12-18** — commented on [#637](https://github.com/androidx/androidx/pull/637#issuecomment-1861502396) in [androidx/androidx](https://github.com/androidx/androidx)
+
+**2023-12-18** — opened PR [#637](https://github.com/androidx/androidx/pull/637) to [androidx/androidx](https://github.com/androidx/androidx): "Fix a typo in target-inference.md"
+
+**2023-12-18** — created branch `z/compilerOptionsCompose` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-12-17** — deleted branch `test-renovate/actions-upload-artifact-4.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-17** — merged PR [#687](https://github.com/slackhq/slack-gradle-plugin/pull/687) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/upload-artifact action to v4"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-17** — opened PR [#690](https://github.com/slackhq/slack-gradle-plugin/pull/690) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update deprecated DAGP APIs"
 
 **2023-12-17** — opened PR [#689](https://github.com/slackhq/slack-gradle-plugin/pull/689) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update buildconfig plugin to 5.0.0"
-
-**2023-12-17** — created branch `z/updateDagpApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-17** — created branch `z/updatePlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-17** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1859504107) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2023-12-17** — commented on [#1775](https://github.com/square/kotlinpoet/issues/1775#issuecomment-1859477394) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
