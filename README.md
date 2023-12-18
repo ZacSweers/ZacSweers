@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-17** — commented on [#1775](https://github.com/square/kotlinpoet/issues/1775#issuecomment-1859477394) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2023-12-17** — closed issue [#1775](https://github.com/square/kotlinpoet/issues/1775) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "kotlin.* imports in generated classes"
+
+**2023-12-17** — commented on [#1773](https://github.com/square/kotlinpoet/issues/1773#issuecomment-1859467943) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2023-12-16** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-16** — merged PR [#1143](https://github.com/ZacSweers/CatchUp/pull/1143) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-beta01"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-16** — merged PR [#127](https://github.com/ZacSweers/ZacSweers/pull/127) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.7.0"
 
 **2023-12-16** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-16** — merged PR [#1155](https://github.com/ZacSweers/CatchUp/pull/1155) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okio:okio to v3.7.0"
-
-**2023-12-16** — deleted branch `dependabot/github_actions/actions/upload-artifact-4` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-16** — merged PR [#88](https://github.com/slackhq/kotlin-cli-util/pull/88) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump actions/upload-artifact from 3 to 4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
