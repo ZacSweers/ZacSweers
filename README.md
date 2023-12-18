@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-17** — deleted branch `test-renovate/actions-upload-artifact-4.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-17** — merged PR [#687](https://github.com/slackhq/slack-gradle-plugin/pull/687) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update actions/upload-artifact action to v4"
-
-**2023-12-17** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-17** — merged PR [#1156](https://github.com/ZacSweers/CatchUp/pull/1156) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.okhttp3:okhttp-bom to v5.0.0-alpha.12"
-
-**2023-12-17** — opened PR [#690](https://github.com/slackhq/slack-gradle-plugin/pull/690) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update deprecated DAGP APIs"
-
-**2023-12-17** — opened PR [#689](https://github.com/slackhq/slack-gradle-plugin/pull/689) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update buildconfig plugin to 5.0.0"
-
-**2023-12-17** — created branch `z/updateDagpApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-17** — created branch `z/updatePlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-17** — commented on [#9](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/9#issuecomment-1859504107) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2023-12-17** — commented on [#1775](https://github.com/square/kotlinpoet/issues/1775#issuecomment-1859477394) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2023-12-18** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
