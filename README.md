@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-19** — opened PR [#1159](https://github.com/ZacSweers/CatchUp/pull/1159) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp LumberYard"
+
+**2023-12-19** — created branch `z/updatedLumberYard` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-12-18** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-18** — merged PR [#1139](https://github.com/ZacSweers/CatchUp/pull/1139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.14.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-18** — merged PR [#1158](https://github.com/ZacSweers/CatchUp/pull/1158) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
 
 **2023-12-18** — created tag `0.14.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-18** — created tag `2.6.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2023-12-18** — deleted branch `z/moreBk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
