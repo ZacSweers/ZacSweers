@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-18** — deleted branch `z/updateDagpApi` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-18** — created tag `0.14.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-12-18** — deleted branch `z/updatePlugin` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-18** — created tag `2.6.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-18** — merged PR [#690](https://github.com/slackhq/slack-gradle-plugin/pull/690) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update deprecated DAGP APIs"
+**2023-12-18** — deleted branch `z/moreBk` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-18** — merged PR [#689](https://github.com/slackhq/slack-gradle-plugin/pull/689) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update buildconfig plugin to 5.0.0"
+**2023-12-18** — merged PR [#85](https://github.com/slackhq/kotlin-cli-util/pull/85) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More misc binding cleanup"
 
-**2023-12-18** — deleted branch `z/compilerOptionsCompose` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-18** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-18** — merged PR [#691](https://github.com/slackhq/slack-gradle-plugin/pull/691) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Expose compilerOptions for compose configuration"
+**2023-12-18** — merged PR [#89](https://github.com/slackhq/kotlin-cli-util/pull/89) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.6.0 to 3.7.0"
 
-**2023-12-18** — opened PR [#691](https://github.com/slackhq/slack-gradle-plugin/pull/691) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Expose compilerOptions for compose configuration"
+**2023-12-18** — opened PR [#1158](https://github.com/ZacSweers/CatchUp/pull/1158) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc stuff"
 
-**2023-12-18** — commented on [#637](https://github.com/androidx/androidx/pull/637#issuecomment-1861502396) in [androidx/androidx](https://github.com/androidx/androidx)
+**2023-12-18** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.21-1.0.16` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2023-12-18** — opened PR [#637](https://github.com/androidx/androidx/pull/637) to [androidx/androidx](https://github.com/androidx/androidx): "Fix a typo in target-inference.md"
+**2023-12-18** — merged PR [#86](https://github.com/slackhq/kotlin-cli-util/pull/86) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.21-1.0.15 to 1.9.21-1.0.16"
 
-**2023-12-18** — created branch `z/compilerOptionsCompose` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-18** — deleted branch `dependabot/gradle/xmlutil-0.86.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
