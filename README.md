@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-20** — merged PR [#1059](https://github.com/slackhq/circuit/pull/1059) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add ability to customize ModalBottomSheet appearance in BottomSheetOverlay"
+**2023-12-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-12-20** — deleted branch `cb/retained-navigation-recreate` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+**2023-12-20** — merged PR [#522](https://github.com/ZacSweers/MoshiX/pull/522) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.23.3"
 
-**2023-12-20** — closed issue [#1046](https://github.com/slackhq/circuit/issues/1046) on [slackhq/circuit](https://github.com/slackhq/circuit): "`rememberRetained` values in backstack cleared after configuration change."
+**2023-12-20** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-12-20** — merged PR [#1063](https://github.com/slackhq/circuit/pull/1063) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix dropping back stack retained state on Android Activity rotations"
+**2023-12-20** — merged PR [#524](https://github.com/ZacSweers/MoshiX/pull/524) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.21-1.0.16"
 
-**2023-12-20** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-12-20** — merged PR [#1164](https://github.com/ZacSweers/CatchUp/pull/1164) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.50"
+**2023-12-20** — merged PR [#525](https://github.com/ZacSweers/MoshiX/pull/525) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33"
 
-**2023-12-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-12-20** — merged PR [#1163](https://github.com/ZacSweers/CatchUp/pull/1163) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.243.0"
+**2023-12-20** — merged PR [#526](https://github.com/ZacSweers/MoshiX/pull/526) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.26.0"
 
-**2023-12-20** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2023-12-20** — merged PR [#1162](https://github.com/ZacSweers/CatchUp/pull/1162) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.2.0"
+**2023-12-20** — merged PR [#527](https://github.com/ZacSweers/MoshiX/pull/527) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
