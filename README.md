@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-20** — opened issue [#1165](https://github.com/ZacSweers/CatchUp/issues/1165) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 PullToRefresh"
+**2023-12-20** — merged PR [#1059](https://github.com/slackhq/circuit/pull/1059) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add ability to customize ModalBottomSheet appearance in BottomSheetOverlay"
 
-**2023-12-19** — deleted branch `renovate/actions-upload-artifact-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-12-20** — deleted branch `cb/retained-navigation-recreate` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
-**2023-12-19** — merged PR [#1058](https://github.com/slackhq/circuit/pull/1058) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/upload-artifact action to v4"
+**2023-12-20** — closed issue [#1046](https://github.com/slackhq/circuit/issues/1046) on [slackhq/circuit](https://github.com/slackhq/circuit): "`rememberRetained` values in backstack cleared after configuration change."
 
-**2023-12-19** — commented on [#1059](https://github.com/slackhq/circuit/pull/1059#issuecomment-1863350909) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2023-12-20** — merged PR [#1063](https://github.com/slackhq/circuit/pull/1063) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix dropping back stack retained state on Android Activity rotations"
 
-**2023-12-19** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-19** — merged PR [#1160](https://github.com/ZacSweers/CatchUp/pull/1160) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency ru.ldralighieri.corbind:corbind to v1.10.0"
+**2023-12-20** — merged PR [#1164](https://github.com/ZacSweers/CatchUp/pull/1164) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.50"
 
-**2023-12-19** — commented on [#63](https://github.com/gradle/gradle-profiler/issues/63#issuecomment-1863331293) in [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler)
+**2023-12-20** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-19** — opened PR [#1159](https://github.com/ZacSweers/CatchUp/pull/1159) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp LumberYard"
+**2023-12-20** — merged PR [#1163](https://github.com/ZacSweers/CatchUp/pull/1163) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.243.0"
 
-**2023-12-19** — created branch `z/updatedLumberYard` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2023-12-18** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-20** — merged PR [#1162](https://github.com/ZacSweers/CatchUp/pull/1162) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
