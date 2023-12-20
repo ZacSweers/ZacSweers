@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-20** — opened issue [#1165](https://github.com/ZacSweers/CatchUp/issues/1165) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 PullToRefresh"
+
 **2023-12-19** — deleted branch `renovate/actions-upload-artifact-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-19** — merged PR [#1058](https://github.com/slackhq/circuit/pull/1058) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/upload-artifact action to v4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-19** — created branch `z/updatedLumberYard` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-18** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-18** — merged PR [#1139](https://github.com/ZacSweers/CatchUp/pull/1139) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
