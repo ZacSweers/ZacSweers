@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-20** — merged PR [#1073](https://github.com/slackhq/circuit/pull/1073) to [slackhq/circuit](https://github.com/slackhq/circuit): "Run CI on macOS to cover iOS targets too"
+
+**2023-12-20** — deleted branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-20** — commented on [#1779](https://github.com/square/moshi/issues/1779#issuecomment-1865260214) in [square/moshi](https://github.com/square/moshi)
+
+**2023-12-20** — commented on [#1065](https://github.com/slackhq/circuit/issues/1065#issuecomment-1865249220) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-20** — opened PR [#1073](https://github.com/slackhq/circuit/pull/1073) to [slackhq/circuit](https://github.com/slackhq/circuit): "Run CI on macOS to cover iOS targets too"
+
+**2023-12-20** — created branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-20** — merged PR [#522](https://github.com/ZacSweers/MoshiX/pull/522) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.23.3"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-20** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2023-12-20** — merged PR [#524](https://github.com/ZacSweers/MoshiX/pull/524) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.21-1.0.16"
-
-**2023-12-20** — deleted branch `renovate/major-guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-20** — merged PR [#525](https://github.com/ZacSweers/MoshiX/pull/525) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33"
-
-**2023-12-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-20** — merged PR [#526](https://github.com/ZacSweers/MoshiX/pull/526) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.26.0"
-
-**2023-12-20** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-20** — merged PR [#527](https://github.com/ZacSweers/MoshiX/pull/527) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
