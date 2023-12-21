@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-21** — merged PR [#1166](https://github.com/ZacSweers/CatchUp/pull/1166) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.22"
+
+**2023-12-21** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-21** — merged PR [#1167](https://github.com/ZacSweers/CatchUp/pull/1167) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.24.0"
+
 **2023-12-21** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1866894427) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-21** — commented on [#1074](https://github.com/slackhq/circuit/pull/1074#issuecomment-1866846324) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-21** — commented on [#1076](https://github.com/slackhq/circuit/pull/1076#issuecomment-1866676144) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-21** — closed issue [#1075](https://github.com/slackhq/circuit/issues/1075) on [slackhq/circuit](https://github.com/slackhq/circuit): "Error trying to build iOS app using Circuit 0.17.1"
-
-**2023-12-21** — merged PR [#1076](https://github.com/slackhq/circuit/pull/1076) to [slackhq/circuit](https://github.com/slackhq/circuit): "Tweak BackStackRecordLocalProvider to get it building on iOS again "
-
-**2023-12-21** — commented on [#1076](https://github.com/slackhq/circuit/pull/1076#issuecomment-1866492324) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-20** — deleted branch `z/ewtf` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-20** — merged PR [#1072](https://github.com/slackhq/circuit/pull/1072) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate emulator.wtf for instrumentation tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
