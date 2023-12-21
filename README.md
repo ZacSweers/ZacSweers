@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-21** — commented on [#1076](https://github.com/slackhq/circuit/pull/1076#issuecomment-1866492324) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-20** — deleted branch `z/ewtf` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-20** — merged PR [#1072](https://github.com/slackhq/circuit/pull/1072) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate emulator.wtf for instrumentation tests"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-20** — created branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2023-12-20** — merged PR [#522](https://github.com/ZacSweers/MoshiX/pull/522) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v6.23.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
