@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-21** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1866894427) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-21** — commented on [#1074](https://github.com/slackhq/circuit/pull/1074#issuecomment-1866846324) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-21** — opened PR [#1077](https://github.com/slackhq/circuit/pull/1077) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype different state designs"
+
+**2023-12-21** — created branch `z/statePrototypes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-21** — commented on [#1076](https://github.com/slackhq/circuit/pull/1076#issuecomment-1866676144) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-21** — closed issue [#1075](https://github.com/slackhq/circuit/issues/1075) on [slackhq/circuit](https://github.com/slackhq/circuit): "Error trying to build iOS app using Circuit 0.17.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-20** — deleted branch `z/ewtf` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-20** — merged PR [#1072](https://github.com/slackhq/circuit/pull/1072) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate emulator.wtf for instrumentation tests"
-
-**2023-12-20** — merged PR [#1073](https://github.com/slackhq/circuit/pull/1073) to [slackhq/circuit](https://github.com/slackhq/circuit): "Run CI on macOS to cover iOS targets too"
-
-**2023-12-20** — deleted branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-20** — commented on [#1779](https://github.com/square/moshi/issues/1779#issuecomment-1865260214) in [square/moshi](https://github.com/square/moshi)
-
-**2023-12-20** — commented on [#1065](https://github.com/slackhq/circuit/issues/1065#issuecomment-1865249220) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
