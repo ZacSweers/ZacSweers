@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867994834) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867992196) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867286713) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-22** — opened PR [#1168](https://github.com/ZacSweers/CatchUp/pull/1168) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Convert HomeScreen to interface pattern"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-21** — merged PR [#1167](https://github.com/ZacSweers/CatchUp/pull/1167) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.24.0"
 
 **2023-12-21** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1866894427) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-21** — commented on [#1074](https://github.com/slackhq/circuit/pull/1074#issuecomment-1866846324) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-21** — opened PR [#1077](https://github.com/slackhq/circuit/pull/1077) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype different state designs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
