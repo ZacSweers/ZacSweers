@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-22** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868139091) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867994834) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867992196) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-21** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-21** — merged PR [#1167](https://github.com/ZacSweers/CatchUp/pull/1167) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.24.0"
-
-**2023-12-21** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1866894427) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
