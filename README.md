@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868409397) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868408459) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-23** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1868376626) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-22** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868139091) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-22** — created branch `z/interfacesPrototype` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-21** — merged PR [#1166](https://github.com/ZacSweers/CatchUp/pull/1166) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.22"
-
-**2023-12-21** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
