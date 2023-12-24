@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-24** — commented on [#1066](https://github.com/slackhq/circuit/pull/1066#issuecomment-1868611193) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-24** — merged PR [#1066](https://github.com/slackhq/circuit/pull/1066) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support animating an overlay out after returning a result"
+
 **2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868417648) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-23** — opened PR [#828](https://github.com/square/anvil/pull/828) to [square/anvil](https://github.com/square/anvil): "Support KSP in ContributesSubcomponentGenerator"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-22** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868139091) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867994834) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867992196) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-22** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1867286713) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
