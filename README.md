@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868829611) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-25** — commented on [#827](https://github.com/square/anvil/pull/827#issuecomment-1868828946) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-25** — opened PR [#830](https://github.com/square/anvil/pull/830) to [square/anvil](https://github.com/square/anvil): "Update to dagger 2.50 + add support for new dagger.internal.Provider factories"
+
+**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868827395) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-25** — created branch `z/dagger250` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868811834) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-25** — opened issue [#4199](https://github.com/google/dagger/issues/4199) on [google/dagger](https://github.com/google/dagger): "KSP processing does not see member injections from typealiased superclass in 2.50"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-24** — created branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-12-24** — commented on [#1066](https://github.com/slackhq/circuit/pull/1066#issuecomment-1868611193) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-24** — merged PR [#1066](https://github.com/slackhq/circuit/pull/1066) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support animating an overlay out after returning a result"
-
-**2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868417648) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-23** — opened PR [#828](https://github.com/square/anvil/pull/828) to [square/anvil](https://github.com/square/anvil): "Support KSP in ContributesSubcomponentGenerator"
-
-**2023-12-23** — created branch `z/ksp/contributesSubcomponentGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868409397) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
