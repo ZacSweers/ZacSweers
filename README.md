@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868811834) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-25** — opened issue [#4199](https://github.com/google/dagger/issues/4199) on [google/dagger](https://github.com/google/dagger): "KSP processing does not see member injections from typealiased superclass in 2.50"
+
 **2023-12-24** — opened PR [#829](https://github.com/square/anvil/pull/829) to [square/anvil](https://github.com/square/anvil): "WIP migrate away from BindingModuleGenerator"
 
 **2023-12-24** — created branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-23** — created branch `z/ksp/contributesSubcomponentGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868409397) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-23** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1868408459) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-23** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1868376626) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
