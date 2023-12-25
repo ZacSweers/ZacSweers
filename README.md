@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-25** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1869067467) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868829611) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-25** — commented on [#827](https://github.com/square/anvil/pull/827#issuecomment-1868828946) in [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-24** — opened PR [#829](https://github.com/square/anvil/pull/829) to [square/anvil](https://github.com/square/anvil): "WIP migrate away from BindingModuleGenerator"
 
 **2023-12-24** — created branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-12-24** — commented on [#1066](https://github.com/slackhq/circuit/pull/1066#issuecomment-1868611193) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
