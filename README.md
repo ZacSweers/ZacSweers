@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-26** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-12-26** — merged PR [#514](https://github.com/uber/AutoDispose/pull/514) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.21-1.0.15 to 1.9.22-1.0.16"
+
+**2023-12-26** — deleted branch `dependabot/gradle/com.google.truth-truth-1.2.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-12-26** — merged PR [#513](https://github.com/uber/AutoDispose/pull/513) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.1.5 to 1.2.0"
+
+**2023-12-26** — deleted branch `dependabot/gradle/com.google.googlejavaformat-google-java-format-1.19.1` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-12-26** — merged PR [#512](https://github.com/uber/AutoDispose/pull/512) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.googlejavaformat:google-java-format from 1.17.0 to 1.19.1"
+
+**2023-12-26** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.26.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2023-12-26** — merged PR [#511](https://github.com/uber/AutoDispose/pull/511) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.26.0"
+
 **2023-12-25** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1869067467) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868829611) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-25** — commented on [#827](https://github.com/square/anvil/pull/827#issuecomment-1868828946) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-25** — opened PR [#830](https://github.com/square/anvil/pull/830) to [square/anvil](https://github.com/square/anvil): "Update to dagger 2.50 + add support for new dagger.internal.Provider factories"
-
-**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868827395) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-25** — created branch `z/dagger250` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868811834) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-25** — opened issue [#4199](https://github.com/google/dagger/issues/4199) on [google/dagger](https://github.com/google/dagger): "KSP processing does not see member injections from typealiased superclass in 2.50"
-
-**2023-12-24** — opened PR [#829](https://github.com/square/anvil/pull/829) to [square/anvil](https://github.com/square/anvil): "WIP migrate away from BindingModuleGenerator"
-
-**2023-12-24** — created branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
