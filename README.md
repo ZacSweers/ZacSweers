@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-26** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1869818239) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-26** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1869815259) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-26** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-12-26** — merged PR [#514](https://github.com/uber/AutoDispose/pull/514) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.21-1.0.15 to 1.9.22-1.0.16"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-26** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.26.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2023-12-26** — merged PR [#511](https://github.com/uber/AutoDispose/pull/511) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.26.0"
-
-**2023-12-25** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1869067467) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-25** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-1868829611) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
