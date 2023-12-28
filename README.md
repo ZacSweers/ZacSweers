@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-28** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1871388006) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-27** — merged PR [#1169](https://github.com/ZacSweers/CatchUp/pull/1169) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.22-1.0.16"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-26** — merged PR [#514](https://github.com/uber/AutoDispose/pull/514) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.devtools.ksp from 1.9.21-1.0.15 to 1.9.22-1.0.16"
 
 **2023-12-26** — deleted branch `dependabot/gradle/com.google.truth-truth-1.2.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2023-12-26** — merged PR [#513](https://github.com/uber/AutoDispose/pull/513) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.1.5 to 1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
