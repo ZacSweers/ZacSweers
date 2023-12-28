@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-28** — opened PR [#1173](https://github.com/ZacSweers/CatchUp/pull/1173) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "AGP 8.4 alphas"
+
+**2023-12-28** — created branch `z/agpalpha` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-28** — deleted branch `z/dataModes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-28** — merged PR [#1172](https://github.com/ZacSweers/CatchUp/pull/1172) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Introduce data modes for better offline/fake modes"
+
+**2023-12-28** — opened PR [#1172](https://github.com/ZacSweers/CatchUp/pull/1172) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Introduce data modes for better offline/fake modes"
+
+**2023-12-28** — created branch `z/dataModes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2023-12-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-28** — merged PR [#693](https://github.com/slackhq/slack-gradle-plugin/pull/693) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v33"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-28** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-28** — merged PR [#1171](https://github.com/ZacSweers/CatchUp/pull/1171) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.7"
-
-**2023-12-28** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1871388006) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-27** — merged PR [#1169](https://github.com/ZacSweers/CatchUp/pull/1169) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.22-1.0.16"
-
-**2023-12-27** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-27** — merged PR [#1170](https://github.com/ZacSweers/CatchUp/pull/1170) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.3.0-beta01"
-
-**2023-12-26** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1869818239) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
