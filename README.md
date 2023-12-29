@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-28** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1871666463) in [square/anvil](https://github.com/square/anvil)
+**2023-12-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-12-28** — merged PR [#1173](https://github.com/ZacSweers/CatchUp/pull/1173) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "AGP 8.4 alphas"
+**2023-12-28** — merged PR [#124](https://github.com/ZacSweers/ZacSweers/pull/124) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.22-1.0.16"
 
-**2023-12-28** — deleted branch `z/agpalpha` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-28** — deleted branch `renovate/xmlutil` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-12-28** — opened PR [#1173](https://github.com/ZacSweers/CatchUp/pull/1173) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "AGP 8.4 alphas"
+**2023-12-28** — merged PR [#125](https://github.com/ZacSweers/ZacSweers/pull/125) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.86.3"
 
-**2023-12-28** — created branch `z/agpalpha` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-28** — deleted branch `renovate/actions-upload-artifact-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-12-28** — deleted branch `z/dataModes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-28** — merged PR [#126](https://github.com/ZacSweers/ZacSweers/pull/126) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/upload-artifact action to v4"
 
-**2023-12-28** — merged PR [#1172](https://github.com/ZacSweers/CatchUp/pull/1172) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Introduce data modes for better offline/fake modes"
+**2023-12-28** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-12-28** — opened PR [#1172](https://github.com/ZacSweers/CatchUp/pull/1172) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Introduce data modes for better offline/fake modes"
+**2023-12-28** — merged PR [#128](https://github.com/ZacSweers/ZacSweers/pull/128) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.12"
 
-**2023-12-28** — created branch `z/dataModes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2023-12-28** — deleted branch `renovate/org.slf4j-slf4j-nop-2.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2023-12-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2023-12-28** — merged PR [#129](https://github.com/ZacSweers/ZacSweers/pull/129) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
