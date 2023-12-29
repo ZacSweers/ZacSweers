@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872344448) in [square/anvil](https://github.com/square/anvil)
+
+**2023-12-29** — commented on [#212](https://github.com/evant/kotlin-inject/issues/212#issuecomment-1872336047) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
+
+**2023-12-29** — created tag `0.18.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-29** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2023-12-29** — merged PR [#1174](https://github.com/ZacSweers/CatchUp/pull/1174) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.17.2"
+
+**2023-12-29** — commented on [#494](https://github.com/charleskorn/kaml/pull/494#issuecomment-1872328401) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+
 **2023-12-29** — commented on [#883](https://github.com/slackhq/circuit/pull/883#issuecomment-1872324720) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-29** — commented on [#1084](https://github.com/slackhq/circuit/pull/1084#issuecomment-1872322908) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-29** — commented on [#4076](https://github.com/JetBrains/compose-multiplatform/issues/4076#issuecomment-1872322851) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2023-12-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-28** — merged PR [#124](https://github.com/ZacSweers/ZacSweers/pull/124) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.22-1.0.16"
-
-**2023-12-28** — deleted branch `renovate/xmlutil` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-28** — merged PR [#125](https://github.com/ZacSweers/ZacSweers/pull/125) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.86.3"
-
-**2023-12-28** — deleted branch `renovate/actions-upload-artifact-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-28** — merged PR [#126](https://github.com/ZacSweers/ZacSweers/pull/126) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/upload-artifact action to v4"
-
-**2023-12-28** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
