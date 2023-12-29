@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-28** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1871666463) in [square/anvil](https://github.com/square/anvil)
+
 **2023-12-28** — merged PR [#1173](https://github.com/ZacSweers/CatchUp/pull/1173) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "AGP 8.4 alphas"
 
 **2023-12-28** — deleted branch `z/agpalpha` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-28** — created branch `z/dataModes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-28** — deleted branch `test-renovate/major-guava-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-28** — merged PR [#693](https://github.com/slackhq/slack-gradle-plugin/pull/693) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.google.guava:guava to v33"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
