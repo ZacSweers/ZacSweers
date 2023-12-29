@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-29** — commented on [#883](https://github.com/slackhq/circuit/pull/883#issuecomment-1872324720) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-29** — commented on [#1084](https://github.com/slackhq/circuit/pull/1084#issuecomment-1872322908) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-29** — commented on [#4076](https://github.com/JetBrains/compose-multiplatform/issues/4076#issuecomment-1872322851) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
 **2023-12-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2023-12-28** — merged PR [#124](https://github.com/ZacSweers/ZacSweers/pull/124) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.22-1.0.16"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-28** — merged PR [#126](https://github.com/ZacSweers/ZacSweers/pull/126) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/upload-artifact action to v4"
 
 **2023-12-28** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-28** — merged PR [#128](https://github.com/ZacSweers/ZacSweers/pull/128) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.12"
-
-**2023-12-28** — deleted branch `renovate/org.slf4j-slf4j-nop-2.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2023-12-28** — merged PR [#129](https://github.com/ZacSweers/ZacSweers/pull/129) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
