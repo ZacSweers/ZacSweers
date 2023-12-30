@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-29** — commented on [#1979](https://github.com/diffplug/spotless/issues/1979#issuecomment-1872441118) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
+**2023-12-29** — opened issue [#1979](https://github.com/diffplug/spotless/issues/1979) on [diffplug/spotless](https://github.com/diffplug/spotless): "Support Gradle Project Isolation"
+
 **2023-12-29** — opened issue [#1091](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1091) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Support Project Isolation"
 
 **2023-12-29** — commented on [#180](https://github.com/runningcode/gradle-doctor/issues/180#issuecomment-1872406237) in [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872365745) in [square/anvil](https://github.com/square/anvil)
 
 **2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872356888) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-29** — deleted branch `z/updatedLumberYard` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-29** — merged PR [#1159](https://github.com/ZacSweers/CatchUp/pull/1159) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp LumberYard"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
