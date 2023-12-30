@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-30** — commented on [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553#issuecomment-1872469771) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-30** — closed issue [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Linkify feature flags - Add testing to ensure PSI loading is correct "
+
+**2023-12-30** — commented on [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394#issuecomment-1872469747) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-30** — closed issue [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add metrics reporting to Skate plugin"
+
+**2023-12-30** — commented on [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408#issuecomment-1872469736) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-30** — closed issue [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a skate feature to linkify feature flags"
+
 **2023-12-29** — commented on [#1979](https://github.com/diffplug/spotless/issues/1979#issuecomment-1872441118) in [diffplug/spotless](https://github.com/diffplug/spotless)
 
 **2023-12-29** — opened issue [#1979](https://github.com/diffplug/spotless/issues/1979) on [diffplug/spotless](https://github.com/diffplug/spotless): "Support Gradle Project Isolation"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-29** — opened issue [#1091](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1091) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Support Project Isolation"
 
 **2023-12-29** — commented on [#180](https://github.com/runningcode/gradle-doctor/issues/180#issuecomment-1872406237) in [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor)
-
-**2023-12-29** — opened issue [#302](https://github.com/runningcode/gradle-doctor/issues/302) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Project isolation support regression"
-
-**2023-12-29** — opened issue [#44](https://github.com/dropbox/focus/issues/44) on [dropbox/focus](https://github.com/dropbox/focus): "[Feature request] Support Project Isolation"
-
-**2023-12-29** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2023-12-29** — merged PR [#1175](https://github.com/ZacSweers/CatchUp/pull/1175) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.18.0"
-
-**2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872365745) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872356888) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
