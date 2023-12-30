@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-30** — created branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2023-12-30** — created branch `z/isolatedProjectsWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2023-12-30** — commented on [#1065](https://github.com/slackhq/circuit/issues/1065#issuecomment-1872579333) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-30** — opened issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-30** — commented on [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408#issuecomment-1872469736) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-30** — closed issue [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a skate feature to linkify feature flags"
-
-**2023-12-29** — commented on [#1979](https://github.com/diffplug/spotless/issues/1979#issuecomment-1872441118) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2023-12-29** — opened issue [#1979](https://github.com/diffplug/spotless/issues/1979) on [diffplug/spotless](https://github.com/diffplug/spotless): "Support Gradle Project Isolation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
