@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-30** — opened issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
+
 **2023-12-30** — commented on [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553#issuecomment-1872469771) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-30** — closed issue [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Linkify feature flags - Add testing to ensure PSI loading is correct "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-29** — opened issue [#1979](https://github.com/diffplug/spotless/issues/1979) on [diffplug/spotless](https://github.com/diffplug/spotless): "Support Gradle Project Isolation"
 
 **2023-12-29** — opened issue [#1091](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1091) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Support Project Isolation"
-
-**2023-12-29** — commented on [#180](https://github.com/runningcode/gradle-doctor/issues/180#issuecomment-1872406237) in [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
