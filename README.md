@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-29** — opened issue [#1091](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1091) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Support Project Isolation"
+
+**2023-12-29** — commented on [#180](https://github.com/runningcode/gradle-doctor/issues/180#issuecomment-1872406237) in [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor)
+
+**2023-12-29** — opened issue [#302](https://github.com/runningcode/gradle-doctor/issues/302) on [runningcode/gradle-doctor](https://github.com/runningcode/gradle-doctor): "Project isolation support regression"
+
+**2023-12-29** — opened issue [#44](https://github.com/dropbox/focus/issues/44) on [dropbox/focus](https://github.com/dropbox/focus): "[Feature request] Support Project Isolation"
+
 **2023-12-29** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-29** — merged PR [#1175](https://github.com/ZacSweers/CatchUp/pull/1175) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.18.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-29** — deleted branch `z/updatedLumberYard` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2023-12-29** — merged PR [#1159](https://github.com/ZacSweers/CatchUp/pull/1159) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Revamp LumberYard"
-
-**2023-12-29** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1872344448) in [square/anvil](https://github.com/square/anvil)
-
-**2023-12-29** — commented on [#212](https://github.com/evant/kotlin-inject/issues/212#issuecomment-1872336047) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
-
-**2023-12-29** — created tag `0.18.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-29** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
