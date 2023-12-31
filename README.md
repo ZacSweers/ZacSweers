@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-31** — opened PR [#1090](https://github.com/slackhq/circuit/pull/1090) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix unused enter/exit transitions in AnimatedOverlay"
+
+**2023-12-31** — created branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1873041973) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-31** — closed issue [#1065](https://github.com/slackhq/circuit/issues/1065) on [slackhq/circuit](https://github.com/slackhq/circuit): "ViewModel onCleared called too early"
+
+**2023-12-31** — merged PR [#1086](https://github.com/slackhq/circuit/pull/1086) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix popped Record's ProvidedValues lifetime"
+
 **2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872980052) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872979802) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-31** — opened PR [#702](https://github.com/slackhq/slack-gradle-plugin/pull/702) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Run spotless on build files too"
 
 **2023-12-30** — commented on [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701#issuecomment-1872590705) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-30** — created branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-30** — created branch `z/isolatedProjectsWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-30** — commented on [#1065](https://github.com/slackhq/circuit/issues/1065#issuecomment-1872579333) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-30** — opened issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
-
-**2023-12-30** — commented on [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553#issuecomment-1872469771) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
