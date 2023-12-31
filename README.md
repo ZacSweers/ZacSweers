@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872980052) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872979802) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-31** — opened PR [#703](https://github.com/slackhq/slack-gradle-plugin/pull/703) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP improve project isolation support"
 
 **2023-12-31** — opened PR [#702](https://github.com/slackhq/slack-gradle-plugin/pull/702) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Run spotless on build files too"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-30** — opened issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
 
 **2023-12-30** — commented on [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553#issuecomment-1872469771) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-30** — closed issue [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Linkify feature flags - Add testing to ensure PSI loading is correct "
-
-**2023-12-30** — commented on [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394#issuecomment-1872469747) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
