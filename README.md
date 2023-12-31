@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-31** — opened PR [#703](https://github.com/slackhq/slack-gradle-plugin/pull/703) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP improve project isolation support"
+
+**2023-12-31** — opened PR [#702](https://github.com/slackhq/slack-gradle-plugin/pull/702) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Run spotless on build files too"
+
 **2023-12-30** — commented on [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701#issuecomment-1872590705) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2023-12-30** — created branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2023-12-30** — closed issue [#553](https://github.com/slackhq/slack-gradle-plugin/issues/553) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Linkify feature flags - Add testing to ensure PSI loading is correct "
 
 **2023-12-30** — commented on [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394#issuecomment-1872469747) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2023-12-30** — closed issue [#394](https://github.com/slackhq/slack-gradle-plugin/issues/394) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add metrics reporting to Skate plugin"
-
-**2023-12-30** — commented on [#408](https://github.com/slackhq/slack-gradle-plugin/issues/408#issuecomment-1872469736) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
