@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-01** — commented on [#1091](https://github.com/slackhq/circuit/pull/1091#issuecomment-1873409947) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-01** — deleted branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-01** — commented on [#1090](https://github.com/slackhq/circuit/pull/1090#issuecomment-1873409291) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-01** — closed PR [#1090](https://github.com/slackhq/circuit/pull/1090) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix unused enter/exit transitions in AnimatedOverlay"
+
+**2024-01-01** — deleted branch `cb/test-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-01-01** — merged PR [#1088](https://github.com/slackhq/circuit/pull/1088) to [slackhq/circuit](https://github.com/slackhq/circuit): "Merge copies of TestCountPresenter / Ui / Content to new shared module"
+
+**2024-01-01** — commented on [#1088](https://github.com/slackhq/circuit/pull/1088#issuecomment-1873405135) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2023-12-31** — opened PR [#1090](https://github.com/slackhq/circuit/pull/1090) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix unused enter/exit transitions in AnimatedOverlay"
 
 **2023-12-31** — created branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1873041973) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-31** — closed issue [#1065](https://github.com/slackhq/circuit/issues/1065) on [slackhq/circuit](https://github.com/slackhq/circuit): "ViewModel onCleared called too early"
-
-**2023-12-31** — merged PR [#1086](https://github.com/slackhq/circuit/pull/1086) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix popped Record's ProvidedValues lifetime"
-
-**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872980052) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1872979802) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-31** — opened PR [#703](https://github.com/slackhq/slack-gradle-plugin/pull/703) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP improve project isolation support"
-
-**2023-12-31** — opened PR [#702](https://github.com/slackhq/slack-gradle-plugin/pull/702) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Run spotless on build files too"
-
-**2023-12-30** — commented on [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701#issuecomment-1872590705) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
