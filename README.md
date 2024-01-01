@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-01** — opened PR [#1093](https://github.com/slackhq/circuit/pull/1093) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fall back to emulator runners on CI for external PRs"
+
+**2024-01-01** — created branch `z/ewOnCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-01** — opened PR [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using gradle artifact APIs for root project tasks"
+
+**2024-01-01** — commented on [#607](https://github.com/slackhq/slack-gradle-plugin/issues/607#issuecomment-1873482994) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-01** — closed issue [#607](https://github.com/slackhq/slack-gradle-plugin/issues/607) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add baseline xml files support to skippy factoring"
+
+**2024-01-01** — commented on [#630](https://github.com/slackhq/slack-gradle-plugin/issues/630#issuecomment-1873482943) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-01** — closed issue [#630](https://github.com/slackhq/slack-gradle-plugin/issues/630) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add per-skippy-mode skips/never skips configuration support"
+
+**2024-01-01** — created branch `z/artifacts` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-01-01** — created tag `0.18.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-01** — deleted branch `cb/gesture-nav-lose-state` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-01-01** — closed issue [#985](https://github.com/slackhq/circuit/issues/985) on [slackhq/circuit](https://github.com/slackhq/circuit): "State Retain and padding problem on Android 14"
-
-**2024-01-01** — merged PR [#1089](https://github.com/slackhq/circuit/pull/1089) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix GestureNavDecoration dropping saveable/retained state on back gestures"
-
-**2024-01-01** — commented on [#1091](https://github.com/slackhq/circuit/pull/1091#issuecomment-1873409947) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-01** — deleted branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-01** — commented on [#1090](https://github.com/slackhq/circuit/pull/1090#issuecomment-1873409291) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-01** — closed PR [#1090](https://github.com/slackhq/circuit/pull/1090) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix unused enter/exit transitions in AnimatedOverlay"
-
-**2024-01-01** — deleted branch `cb/test-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-01-01** — merged PR [#1088](https://github.com/slackhq/circuit/pull/1088) to [slackhq/circuit](https://github.com/slackhq/circuit): "Merge copies of TestCountPresenter / Ui / Content to new shared module"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
