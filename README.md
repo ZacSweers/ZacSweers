@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-01** — created tag `0.18.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-01** — deleted branch `cb/gesture-nav-lose-state` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-01-01** — closed issue [#985](https://github.com/slackhq/circuit/issues/985) on [slackhq/circuit](https://github.com/slackhq/circuit): "State Retain and padding problem on Android 14"
+
+**2024-01-01** — merged PR [#1089](https://github.com/slackhq/circuit/pull/1089) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix GestureNavDecoration dropping saveable/retained state on back gestures"
+
 **2024-01-01** — commented on [#1091](https://github.com/slackhq/circuit/pull/1091#issuecomment-1873409947) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-01** — deleted branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-01** — deleted branch `cb/test-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-01-01** — merged PR [#1088](https://github.com/slackhq/circuit/pull/1088) to [slackhq/circuit](https://github.com/slackhq/circuit): "Merge copies of TestCountPresenter / Ui / Content to new shared module"
-
-**2024-01-01** — commented on [#1088](https://github.com/slackhq/circuit/pull/1088#issuecomment-1873405135) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-31** — opened PR [#1090](https://github.com/slackhq/circuit/pull/1090) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix unused enter/exit transitions in AnimatedOverlay"
-
-**2023-12-31** — created branch `z/fixTransitions` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2023-12-31** — commented on [#1086](https://github.com/slackhq/circuit/pull/1086#issuecomment-1873041973) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
