@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-02** — deleted branch `z/artifacts` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-02** — closed issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
+
+**2024-01-02** — merged PR [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using gradle artifact APIs for root project tasks"
+
 **2024-01-02** — commented on [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704#issuecomment-1873634998) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-01** — deleted branch `renovate/me.saket.filesize-filesize-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-01** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-01** — merged PR [#1177](https://github.com/ZacSweers/CatchUp/pull/1177) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.18.1"
-
-**2024-01-01** — deleted branch `z/ewOnCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-01** — merged PR [#1093](https://github.com/slackhq/circuit/pull/1093) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fall back to emulator runners on CI for external PRs"
-
-**2024-01-01** — opened PR [#1093](https://github.com/slackhq/circuit/pull/1093) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fall back to emulator runners on CI for external PRs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
