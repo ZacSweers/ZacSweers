@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-02** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1874380636) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-01-02** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-01-02** — deleted branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-02** — merged PR [#185](https://github.com/ZacSweers/redacted-compiler-plugin/pull/185) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.22-1.0.16"
 
-**2024-01-02** — merged PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
+**2024-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-01-02** — deleted branch `z/artifacts` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-02** — merged PR [#184](https://github.com/ZacSweers/redacted-compiler-plugin/pull/184) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.23.3"
 
-**2024-01-02** — closed issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
+**2024-01-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-01-02** — merged PR [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using gradle artifact APIs for root project tasks"
+**2024-01-02** — merged PR [#187](https://github.com/ZacSweers/redacted-compiler-plugin/pull/187) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.26.0"
 
-**2024-01-02** — commented on [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704#issuecomment-1873634998) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-01-01** — deleted branch `renovate/me.saket.filesize-filesize-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-02** — merged PR [#186](https://github.com/ZacSweers/redacted-compiler-plugin/pull/186) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo"
 
-**2024-01-01** — merged PR [#1176](https://github.com/ZacSweers/CatchUp/pull/1176) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.filesize:filesize to v1.2.0"
+**2024-01-02** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-01-01** — opened PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
+**2024-01-02** — merged PR [#188](https://github.com/ZacSweers/redacted-compiler-plugin/pull/188) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
