@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-02** — merged PR [#94](https://github.com/slackhq/kotlin-cli-util/pull/94) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.9 to 2.0.10"
+**2024-01-02** — deleted branch `renovate/actions-upload-artifact-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-01-02** — merged PR [#229](https://github.com/slackhq/compose-lints/pull/229) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve the parameter order check"
 
-**2024-01-02** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-01-02** — merged PR [#225](https://github.com/slackhq/compose-lints/pull/225) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update actions/upload-artifact action to v4"
 
-**2024-01-02** — merged PR [#93](https://github.com/slackhq/kotlin-cli-util/pull/93) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.21-1.0.16 to 1.9.22-1.0.16"
+**2024-01-02** — deleted branch `renovate/kotlin-monorepo` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — deleted branch `dependabot/gradle/kotlin-1.9.22` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-01-02** — merged PR [#227](https://github.com/slackhq/compose-lints/pull/227) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.22"
 
-**2024-01-02** — merged PR [#92](https://github.com/slackhq/kotlin-cli-util/pull/92) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.21 to 1.9.22"
+**2024-01-02** — deleted branch `renovate/pymdown-extensions-10.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-01-02** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — merged PR [#185](https://github.com/ZacSweers/redacted-compiler-plugin/pull/185) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.22-1.0.16"
+**2024-01-02** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-01-02** — merged PR [#224](https://github.com/slackhq/compose-lints/pull/224) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.22-1.0.16"
 
-**2024-01-02** — merged PR [#184](https://github.com/ZacSweers/redacted-compiler-plugin/pull/184) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.23.3"
+**2024-01-02** — merged PR [#223](https://github.com/slackhq/compose-lints/pull/223) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
