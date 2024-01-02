@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-01** — deleted branch `renovate/me.saket.filesize-filesize-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-01** — merged PR [#1176](https://github.com/ZacSweers/CatchUp/pull/1176) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.filesize:filesize to v1.2.0"
+
 **2024-01-01** — opened PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
 
 **2024-01-01** — created branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-01** — opened PR [#1093](https://github.com/slackhq/circuit/pull/1093) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fall back to emulator runners on CI for external PRs"
 
 **2024-01-01** — created branch `z/ewOnCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-01** — opened PR [#704](https://github.com/slackhq/slack-gradle-plugin/pull/704) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to using gradle artifact APIs for root project tasks"
-
-**2024-01-01** — commented on [#607](https://github.com/slackhq/slack-gradle-plugin/issues/607#issuecomment-1873482994) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
