@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-02** — deleted branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-02** — merged PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
+
 **2024-01-02** — deleted branch `z/artifacts` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-02** — closed issue [#701](https://github.com/slackhq/slack-gradle-plugin/issues/701) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch Skippy avoided projects recording to configurations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-01** — opened PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
 
 **2024-01-01** — created branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-01** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-01** — merged PR [#1177](https://github.com/ZacSweers/CatchUp/pull/1177) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.18.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
