@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-02** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1874380636) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-01-02** — deleted branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-02** — merged PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-01** — merged PR [#1176](https://github.com/ZacSweers/CatchUp/pull/1176) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency me.saket.filesize:filesize to v1.2.0"
 
 **2024-01-01** — opened PR [#1178](https://github.com/ZacSweers/CatchUp/pull/1178) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Misc project isolation work"
-
-**2024-01-01** — created branch `z/projectIsolationWork` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
