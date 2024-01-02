@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-02** — merged PR [#94](https://github.com/slackhq/kotlin-cli-util/pull/94) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.9 to 2.0.10"
+
+**2024-01-02** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.10` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2024-01-02** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-01-02** — merged PR [#93](https://github.com/slackhq/kotlin-cli-util/pull/93) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.21-1.0.16 to 1.9.22-1.0.16"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-02** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-01-02** — merged PR [#184](https://github.com/ZacSweers/redacted-compiler-plugin/pull/184) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.23.3"
-
-**2024-01-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-01-02** — merged PR [#187](https://github.com/ZacSweers/redacted-compiler-plugin/pull/187) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.26.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
