@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
+
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
 
 **2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 
 **2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
-
-**2021-02-02** — [Disposables Can Cause Memory Leaks](https://www.zacsweers.dev/disposables-can-cause-memory-leaks/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
