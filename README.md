@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-02** — deleted branch `z/lints` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-01-03** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1875939537) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-02** — merged PR [#1094](https://github.com/slackhq/circuit/pull/1094) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce compose-lints"
+**2024-01-03** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-01-02** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-03** — closed PR [#521](https://github.com/ZacSweers/MoshiX/pull/521) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2 (major)"
 
-**2024-01-02** — merged PR [#226](https://github.com/slackhq/compose-lints/pull/226) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.26.0"
+**2024-01-03** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-01-02** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-03** — merged PR [#528](https://github.com/ZacSweers/MoshiX/pull/528) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.16"
 
-**2024-01-02** — merged PR [#222](https://github.com/slackhq/compose-lints/pull/222) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.3.0-beta01"
+**2024-01-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-01-02** — deleted branch `renovate/actions-upload-artifact-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-03** — merged PR [#519](https://github.com/ZacSweers/MoshiX/pull/519) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to 1.9.22 and kotlinx-metadata to 0.8.0"
 
-**2024-01-02** — merged PR [#229](https://github.com/slackhq/compose-lints/pull/229) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Improve the parameter order check"
+**2024-01-03** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-01-02** — merged PR [#225](https://github.com/slackhq/compose-lints/pull/225) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update actions/upload-artifact action to v4"
+**2024-01-03** — merged PR [#529](https://github.com/ZacSweers/MoshiX/pull/529) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.25.1"
 
-**2024-01-02** — deleted branch `renovate/kotlin-monorepo` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-03** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
