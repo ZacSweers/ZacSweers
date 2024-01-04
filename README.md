@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-04** — commented on [#706](https://github.com/slackhq/slack-gradle-plugin/pull/706#issuecomment-1877743711) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-04** — commented on [#1099](https://github.com/slackhq/circuit/pull/1099#issuecomment-1877732556) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-04** — opened PR [#1099](https://github.com/slackhq/circuit/pull/1099) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh iOS sample to use standard embedded frameworks + canonical path"
+
+**2024-01-04** — created branch `z/updatedios` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-04** — commented on [#706](https://github.com/slackhq/slack-gradle-plugin/pull/706#issuecomment-1877702456) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-04** — commented on [#533](https://github.com/ZacSweers/MoshiX/issues/533#issuecomment-1876486193) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-03** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1875939537) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-03** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-03** — closed PR [#521](https://github.com/ZacSweers/MoshiX/pull/521) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2 (major)"
-
-**2024-01-03** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-03** — merged PR [#528](https://github.com/ZacSweers/MoshiX/pull/528) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.16"
-
-**2024-01-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
