@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-04** — commented on [#533](https://github.com/ZacSweers/MoshiX/issues/533#issuecomment-1876486193) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-01-03** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1875941569) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-03** — closed issue [#530](https://github.com/ZacSweers/MoshiX/issues/530) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[R8] No JsonAdapter for interface"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-03** — merged PR [#519](https://github.com/ZacSweers/MoshiX/pull/519) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin to 1.9.22 and kotlinx-metadata to 0.8.0"
-
-**2024-01-03** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
