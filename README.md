@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-05** — deleted branch `z/updatedios` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-05** — merged PR [#1099](https://github.com/slackhq/circuit/pull/1099) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh iOS counter sample"
+
 **2024-01-05** — deleted branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-05** — merged PR [#1189](https://github.com/ZacSweers/CatchUp/pull/1189) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to JDK 21 + SGP 0.15.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-05** — merged PR [#1187](https://github.com/ZacSweers/CatchUp/pull/1187) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.3"
-
-**2024-01-05** — created tag `0.15.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-05** — deleted branch `z/isolatedProjectsWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
