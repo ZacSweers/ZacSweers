@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-05** — merged PR [#1097](https://github.com/slackhq/circuit/pull/1097) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix lifetime of Records' ViewModelStores"
+
 **2024-01-05** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1878172110) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-05** — deleted branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — commented on [#3345](https://github.com/JetBrains/compose-multiplatform/issues/3345#issuecomment-1878150252) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2024-01-04** — commented on [#1100](https://github.com/slackhq/circuit/issues/1100#issuecomment-1878111583) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-04** — opened issue [#334](https://github.com/Kotlin/kotlinx-datetime/issues/334) on [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime): "JS browser app fails to load due to missing js-joda module "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
