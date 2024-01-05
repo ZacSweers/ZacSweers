@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-05** — deleted branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-05** — merged PR [#1189](https://github.com/ZacSweers/CatchUp/pull/1189) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to JDK 21 + SGP 0.15.0"
+
+**2024-01-05** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1879250327) in [square/anvil](https://github.com/square/anvil)
+
+**2024-01-05** — created tag `0.18.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-05** — opened PR [#1189](https://github.com/ZacSweers/CatchUp/pull/1189) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to JDK 21 + SGP 0.15.0"
+
 **2024-01-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-05** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — created tag `0.15.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-05** — deleted branch `z/isolatedProjectsWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-05** — merged PR [#703](https://github.com/slackhq/slack-gradle-plugin/pull/703) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve project isolation support"
-
-**2024-01-05** — merged PR [#1097](https://github.com/slackhq/circuit/pull/1097) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix lifetime of Records' ViewModelStores"
-
-**2024-01-05** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1878172110) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-05** — deleted branch `z/spotlessFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-05** — merged PR [#702](https://github.com/slackhq/slack-gradle-plugin/pull/702) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Run spotless on build files too"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
