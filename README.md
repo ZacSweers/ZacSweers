@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-04** — commented on [#1100](https://github.com/slackhq/circuit/issues/1100#issuecomment-1878111583) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-04** — opened issue [#334](https://github.com/Kotlin/kotlinx-datetime/issues/334) on [Kotlin/kotlinx-datetime](https://github.com/Kotlin/kotlinx-datetime): "JS browser app fails to load due to missing js-joda module "
+
+**2024-01-04** — commented on [#1100](https://github.com/slackhq/circuit/issues/1100#issuecomment-1878088620) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-04** — opened issue [#1100](https://github.com/slackhq/circuit/issues/1100) on [slackhq/circuit](https://github.com/slackhq/circuit): "Counter JS app sample no longer works"
+
 **2024-01-04** — commented on [#706](https://github.com/slackhq/slack-gradle-plugin/pull/706#issuecomment-1877743711) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-04** — commented on [#1099](https://github.com/slackhq/circuit/pull/1099#issuecomment-1877732556) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-04** — commented on [#706](https://github.com/slackhq/slack-gradle-plugin/pull/706#issuecomment-1877702456) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-04** — commented on [#533](https://github.com/ZacSweers/MoshiX/issues/533#issuecomment-1876486193) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-03** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1875941569) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-03** — closed issue [#530](https://github.com/ZacSweers/MoshiX/issues/530) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "[R8] No JsonAdapter for interface"
-
-**2024-01-03** — commented on [#57](https://github.com/slackhq/compose-lints/issues/57#issuecomment-1875939537) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-03** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
