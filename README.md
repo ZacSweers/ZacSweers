@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-06** — opened PR [#1103](https://github.com/slackhq/circuit/pull/1103) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP KMP STAR"
+
 **2024-01-05** — deleted branch `z/updatedios` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-05** — merged PR [#1099](https://github.com/slackhq/circuit/pull/1099) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh iOS counter sample"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-05** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-05** — merged PR [#1187](https://github.com/ZacSweers/CatchUp/pull/1187) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.4.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
