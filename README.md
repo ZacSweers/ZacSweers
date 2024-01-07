@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-07** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-07** — merged PR [#1191](https://github.com/ZacSweers/CatchUp/pull/1191) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.18.2"
+
 **2024-01-07** — opened issue [#1105](https://github.com/slackhq/circuit/issues/1105) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider making LocalOverlayHost nullable"
 
 **2024-01-06** — opened PR [#1103](https://github.com/slackhq/circuit/pull/1103) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP KMP STAR"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — commented on [#830](https://github.com/square/anvil/pull/830#issuecomment-1879250327) in [square/anvil](https://github.com/square/anvil)
 
 **2024-01-05** — created tag `0.18.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-05** — opened PR [#1189](https://github.com/ZacSweers/CatchUp/pull/1189) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to JDK 21 + SGP 0.15.0"
-
-**2024-01-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
