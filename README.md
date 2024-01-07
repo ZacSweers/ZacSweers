@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-07** — opened issue [#1105](https://github.com/slackhq/circuit/issues/1105) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider making LocalOverlayHost nullable"
+
 **2024-01-06** — opened PR [#1103](https://github.com/slackhq/circuit/pull/1103) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP KMP STAR"
 
 **2024-01-05** — deleted branch `z/updatedios` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-05** — opened PR [#1189](https://github.com/ZacSweers/CatchUp/pull/1189) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update to JDK 21 + SGP 0.15.0"
 
 **2024-01-05** — created branch `z/updates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-05** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
