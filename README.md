@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-08** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-08** — closed PR [#1106](https://github.com/slackhq/circuit/pull/1106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.9-1-8"
+
 **2024-01-08** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1880566677) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-08** — commented on [#1103](https://github.com/slackhq/circuit/pull/1103#issuecomment-1880411356) in [slackhq/circuit](https://github.com/slackhq/circuit)
