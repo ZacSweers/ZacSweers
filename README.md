@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-08** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-01-08** — merged PR [#209](https://github.com/slackhq/slack-lints/pull/209) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.27.0"
+
+**2024-01-08** — deleted branch `dependabot/gradle/com.github.gmazzo.buildconfig-5.3.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-01-08** — merged PR [#210](https://github.com/slackhq/slack-lints/pull/210) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.github.gmazzo.buildconfig from 4.2.0 to 5.3.3"
+
 **2024-01-08** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-08** — closed PR [#1106](https://github.com/slackhq/circuit/pull/1106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.9-1-8"
