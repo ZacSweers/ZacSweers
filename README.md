@@ -4,15 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-08** — commented on [#1103](https://github.com/slackhq/circuit/pull/1103#issuecomment-1880411356) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-08** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1880409694) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-07** — opened issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
 
 **2024-01-07** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-07** — merged PR [#1190](https://github.com/ZacSweers/CatchUp/pull/1190) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.9-1-8"
-
-**2024-01-07** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
