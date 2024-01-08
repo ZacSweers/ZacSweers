@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-08** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.2.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-01-08** — merged PR [#95](https://github.com/slackhq/kotlin-cli-util/pull/95) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.2.1 to 4.2.2"
+
+**2024-01-08** — opened PR [#97](https://github.com/slackhq/kotlin-cli-util/pull/97) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Keyable support"
+
+**2024-01-08** — created branch `z/keyable` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2024-01-08** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-01-08** — merged PR [#209](https://github.com/slackhq/slack-lints/pull/209) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.27.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-08** — deleted branch `renovate/anvil` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-08** — closed PR [#1106](https://github.com/slackhq/circuit/pull/1106) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v2.4.9-1-8"
-
-**2024-01-08** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1880566677) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-08** — commented on [#1103](https://github.com/slackhq/circuit/pull/1103#issuecomment-1880411356) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-08** — commented on [#530](https://github.com/ZacSweers/MoshiX/issues/530#issuecomment-1880409694) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-01-07** — opened issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
