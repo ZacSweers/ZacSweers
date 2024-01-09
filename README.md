@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-09** — opened PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
+
+**2024-01-09** — created branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-01-09** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1883562966) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-09** — commented on [#1108](https://github.com/slackhq/circuit/issues/1108#issuecomment-1883560224) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-08** — deleted branch `z/keyable` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-01-08** — merged PR [#97](https://github.com/slackhq/kotlin-cli-util/pull/97) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Keyable support"
-
-**2024-01-08** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.2.2` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-01-08** — merged PR [#95](https://github.com/slackhq/kotlin-cli-util/pull/95) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.2.1 to 4.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
