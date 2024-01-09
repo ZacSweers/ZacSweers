@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-09** — deleted branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-09** — merged PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
+
 **2024-01-09** — opened PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
 
 **2024-01-09** — created branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-08** — merged PR [#96](https://github.com/slackhq/kotlin-cli-util/pull/96) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.vanniktech.maven.publish from 0.26.0 to 0.27.0"
 
 **2024-01-08** — commented on [#97](https://github.com/slackhq/kotlin-cli-util/pull/97#issuecomment-1881879213) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-01-08** — deleted branch `z/keyable` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-01-08** — merged PR [#97](https://github.com/slackhq/kotlin-cli-util/pull/97) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Keyable support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
