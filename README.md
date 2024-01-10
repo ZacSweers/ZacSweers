@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-10** — commented on [#233](https://github.com/slackhq/compose-lints/issues/233#issuecomment-1885339878) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-10** — closed issue [#233](https://github.com/slackhq/compose-lints/issues/233) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Usage of `Modifier.composed { }` is no longer recommended"
+
 **2024-01-09** — commented on [#650](https://github.com/slackhq/circuit/issues/650#issuecomment-1883971322) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-09** — commented on [#494](https://github.com/charleskorn/kaml/pull/494#issuecomment-1883942152) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-09** — created branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-09** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1883562966) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-09** — commented on [#1108](https://github.com/slackhq/circuit/issues/1108#issuecomment-1883560224) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-08** — created tag `2.6.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
