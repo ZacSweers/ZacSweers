@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-11** — opened PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
+
 **2024-01-11** — deleted branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-11** — merged PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-11** — deleted branch `dependabot/gradle/org.jetbrains.kotlin.jvm-1.9.22` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-01-11** — closed PR [#203](https://github.com/slackhq/slack-lints/pull/203) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlin.jvm from 1.9.21 to 1.9.22"
-
-**2024-01-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
