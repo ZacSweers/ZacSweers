@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-11** — deleted branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-11** — merged PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
+
+**2024-01-11** — created branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-01-11** — opened PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
 
 **2024-01-11** — created branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-11** — closed PR [#203](https://github.com/slackhq/slack-lints/pull/203) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump org.jetbrains.kotlin.jvm from 1.9.21 to 1.9.22"
 
 **2024-01-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.16` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-11** — closed PR [#205](https://github.com/slackhq/slack-lints/pull/205) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.devtools.ksp from 1.9.21-1.0.15 to 1.9.22-1.0.16"
-
-**2024-01-11** — merged PR [#196](https://github.com/slackhq/slack-lints/pull/196) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.22-1.0.16"
-
-**2024-01-11** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
