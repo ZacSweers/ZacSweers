@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-11** — merged PR [#1116](https://github.com/slackhq/circuit/pull/1116) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent.screen public"
+
 **2024-01-10** — commented on [#233](https://github.com/slackhq/compose-lints/issues/233#issuecomment-1885339878) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-10** — closed issue [#233](https://github.com/slackhq/compose-lints/issues/233) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Usage of `Modifier.composed { }` is no longer recommended"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-09** — opened PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
 
 **2024-01-09** — created branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-09** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1883562966) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
