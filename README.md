@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-11** — commented on [#1077](https://github.com/slackhq/circuit/pull/1077#issuecomment-1887841646) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-11** — deleted branch `z/kmpStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-11** — merged PR [#1103](https://github.com/slackhq/circuit/pull/1103) to [slackhq/circuit](https://github.com/slackhq/circuit): "Convert STAR sample to KMP"
+
 **2024-01-11** — merged PR [#1116](https://github.com/slackhq/circuit/pull/1116) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make NavEvent.screen public"
 
 **2024-01-10** — commented on [#233](https://github.com/slackhq/compose-lints/issues/233#issuecomment-1885339878) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-09** — opened issue [#711](https://github.com/slackhq/slack-gradle-plugin/issues/711) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "NPE in Skate CodeOwnerWidget"
 
 **2024-01-09** — deleted branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-09** — merged PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
-
-**2024-01-09** — opened PR [#710](https://github.com/slackhq/slack-gradle-plugin/pull/710) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "More cleanup and fixes to artifact publishing"
-
-**2024-01-09** — created branch `z/moreArtifactWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
