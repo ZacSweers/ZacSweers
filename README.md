@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-12** — created tag `0.15.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-01-11** — deleted branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-11** — merged PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-11** — created branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-11** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-11** — merged PR [#194](https://github.com/slackhq/slack-lints/pull/194) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
