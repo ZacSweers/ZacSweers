@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-12** — deleted branch `dependabot/pip/dot-github/workflows/jinja2-3.1.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-01-12** — merged PR [#716](https://github.com/slackhq/slack-gradle-plugin/pull/716) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Bump jinja2 from 3.1.2 to 3.1.3 in /.github/workflows"
+
 **2024-01-12** — created tag `0.15.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-11** — deleted branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-11** — created branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-01-11** — opened PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
-
-**2024-01-11** — created branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-01-11** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
