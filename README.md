@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-13** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-13** — merged PR [#1201](https://github.com/ZacSweers/CatchUp/pull/1201) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.8"
+
 **2024-01-13** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-13** — closed PR [#1194](https://github.com/ZacSweers/CatchUp/pull/1194) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.9-1-8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-13** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-13** — merged PR [#1199](https://github.com/ZacSweers/CatchUp/pull/1199) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.0-beta01"
-
-**2024-01-13** — deleted branch `renovate/androidx.collection-collection-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-13** — merged PR [#1200](https://github.com/ZacSweers/CatchUp/pull/1200) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
