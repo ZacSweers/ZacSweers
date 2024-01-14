@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-12** — deleted branch `dependabot/pip/dot-github/workflows/jinja2-3.1.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-13** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-12** — merged PR [#716](https://github.com/slackhq/slack-gradle-plugin/pull/716) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Bump jinja2 from 3.1.2 to 3.1.3 in /.github/workflows"
+**2024-01-13** — closed PR [#1194](https://github.com/ZacSweers/CatchUp/pull/1194) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.4.9-1-8"
 
-**2024-01-12** — created tag `0.15.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-13** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-11** — deleted branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-13** — merged PR [#1196](https://github.com/ZacSweers/CatchUp/pull/1196) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha03"
 
-**2024-01-11** — merged PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
+**2024-01-13** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-11** — opened PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
+**2024-01-13** — merged PR [#1197](https://github.com/ZacSweers/CatchUp/pull/1197) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.0-rc01"
 
-**2024-01-11** — deleted branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-13** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-11** — merged PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
+**2024-01-13** — merged PR [#1199](https://github.com/ZacSweers/CatchUp/pull/1199) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.0-beta01"
 
-**2024-01-11** — created branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-01-13** — deleted branch `renovate/androidx.collection-collection-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-11** — opened PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
+**2024-01-13** — merged PR [#1200](https://github.com/ZacSweers/CatchUp/pull/1200) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
