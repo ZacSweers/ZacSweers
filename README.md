@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-15** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-1892554177) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-01-15** — deleted branch `dependabot/gradle/com.squareup.leakcanary-leakcanary-android-2.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2024-01-15** — merged PR [#517](https://github.com/uber/AutoDispose/pull/517) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.squareup.leakcanary:leakcanary-android from 2.12 to 2.13"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-15** — merged PR [#521](https://github.com/uber/AutoDispose/pull/521) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.18 to 0.10.21"
 
 **2024-01-15** — opened PR [#1119](https://github.com/slackhq/circuit/pull/1119) to [slackhq/circuit](https://github.com/slackhq/circuit): "More STAR kmp work"
-
-**2024-01-15** — created branch `z/moreStarKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
