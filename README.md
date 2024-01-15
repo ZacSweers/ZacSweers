@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-15** — opened PR [#1120](https://github.com/slackhq/circuit/pull/1120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay improvements"
+
 **2024-01-15** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1892678418) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-15** — created branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-15** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-1892554177) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-15** — deleted branch `dependabot/gradle/com.squareup.leakcanary-leakcanary-android-2.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-15** — merged PR [#517](https://github.com/uber/AutoDispose/pull/517) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.squareup.leakcanary:leakcanary-android from 2.12 to 2.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
