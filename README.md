@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-15** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1892678418) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-15** — created branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-15** — deleted branch `z/moreStarKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-15** — merged PR [#1119](https://github.com/slackhq/circuit/pull/1119) to [slackhq/circuit](https://github.com/slackhq/circuit): "More STAR kmp work"
+
+**2024-01-15** — commented on [#1119](https://github.com/slackhq/circuit/pull/1119#issuecomment-1892655485) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-15** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1892655144) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-15** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-1892638737) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-01-15** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-1892554177) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-01-15** — deleted branch `dependabot/gradle/com.squareup.leakcanary-leakcanary-android-2.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2024-01-15** — merged PR [#517](https://github.com/uber/AutoDispose/pull/517) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.squareup.leakcanary:leakcanary-android from 2.12 to 2.13"
-
-**2024-01-15** — deleted branch `dependabot/gradle/com.google.googlejavaformat-google-java-format-1.19.2` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-15** — merged PR [#519](https://github.com/uber/AutoDispose/pull/519) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.googlejavaformat:google-java-format from 1.19.1 to 1.19.2"
-
-**2024-01-15** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-15** — merged PR [#520](https://github.com/uber/AutoDispose/pull/520) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.vanniktech.maven.publish from 0.26.0 to 0.27.0"
-
-**2024-01-15** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.21` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-15** — merged PR [#521](https://github.com/uber/AutoDispose/pull/521) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.18 to 0.10.21"
-
-**2024-01-15** — opened PR [#1119](https://github.com/slackhq/circuit/pull/1119) to [slackhq/circuit](https://github.com/slackhq/circuit): "More STAR kmp work"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
