@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-15** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-01-15** — deleted branch `dependabot/gradle/com.squareup.leakcanary-leakcanary-android-2.13` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
-**2024-01-15** — merged PR [#189](https://github.com/ZacSweers/redacted-compiler-plugin/pull/189) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.27.0"
+**2024-01-15** — merged PR [#517](https://github.com/uber/AutoDispose/pull/517) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.squareup.leakcanary:leakcanary-android from 2.12 to 2.13"
 
-**2024-01-15** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-01-15** — deleted branch `dependabot/gradle/com.google.googlejavaformat-google-java-format-1.19.2` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
-**2024-01-15** — merged PR [#190](https://github.com/ZacSweers/redacted-compiler-plugin/pull/190) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.9.0"
+**2024-01-15** — merged PR [#519](https://github.com/uber/AutoDispose/pull/519) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.googlejavaformat:google-java-format from 1.19.1 to 1.19.2"
 
-**2024-01-15** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-01-15** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
-**2024-01-15** — merged PR [#191](https://github.com/ZacSweers/redacted-compiler-plugin/pull/191) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.24.0"
+**2024-01-15** — merged PR [#520](https://github.com/uber/AutoDispose/pull/520) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.vanniktech.maven.publish from 0.26.0 to 0.27.0"
 
-**2024-01-14** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-15** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.21` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
-**2024-01-14** — merged PR [#230](https://github.com/slackhq/compose-lints/pull/230) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to 31.4.0-x"
+**2024-01-15** — merged PR [#521](https://github.com/uber/AutoDispose/pull/521) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.18 to 0.10.21"
 
-**2024-01-14** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-15** — opened PR [#1119](https://github.com/slackhq/circuit/pull/1119) to [slackhq/circuit](https://github.com/slackhq/circuit): "More STAR kmp work"
 
-**2024-01-14** — deleted branch `renovate/markdown-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-15** — created branch `z/moreStarKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
