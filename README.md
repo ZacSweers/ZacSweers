@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-15** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-01-15** — merged PR [#189](https://github.com/ZacSweers/redacted-compiler-plugin/pull/189) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.27.0"
+
+**2024-01-15** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-01-15** — merged PR [#190](https://github.com/ZacSweers/redacted-compiler-plugin/pull/190) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency org.jetbrains.kotlinx:kotlinx-metadata-jvm to v0.9.0"
+
+**2024-01-15** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-01-15** — merged PR [#191](https://github.com/ZacSweers/redacted-compiler-plugin/pull/191) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v6.24.0"
+
 **2024-01-14** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-14** — merged PR [#230](https://github.com/slackhq/compose-lints/pull/230) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to 31.4.0-x"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-14** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-14** — deleted branch `renovate/markdown-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-14** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-14** — deleted branch `renovate/jinja2-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-14** — merged PR [#231](https://github.com/slackhq/compose-lints/pull/231) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.2.1"
-
-**2024-01-14** — merged PR [#234](https://github.com/slackhq/compose-lints/pull/234) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Jinja2 to v3.1.3"
-
-**2024-01-14** — merged PR [#235](https://github.com/slackhq/compose-lints/pull/235) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Markdown to v3.5.2"
-
-**2024-01-14** — merged PR [#232](https://github.com/slackhq/compose-lints/pull/232) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.27.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
