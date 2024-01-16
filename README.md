@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-16** — opened issue [#243](https://github.com/takahirom/roborazzi/issues/243) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Proposal: Consider dropping alpha/beta releasing strategy in favor of just experimental annotations"
+
+**2024-01-16** — commented on [#242](https://github.com/takahirom/roborazzi/issues/242#issuecomment-1893174857) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2024-01-16** — closed issue [#242](https://github.com/takahirom/roborazzi/issues/242) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "1.8 alphas are not present on maven central"
+
 **2024-01-15** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.24.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2024-01-15** — merged PR [#522](https://github.com/uber/AutoDispose/pull/522) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.23.3 to 6.24.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-15** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1892678418) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-15** — created branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-15** — deleted branch `z/moreStarKmp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-15** — merged PR [#1119](https://github.com/slackhq/circuit/pull/1119) to [slackhq/circuit](https://github.com/slackhq/circuit): "More STAR kmp work"
-
-**2024-01-15** — commented on [#1119](https://github.com/slackhq/circuit/pull/1119#issuecomment-1892655485) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
