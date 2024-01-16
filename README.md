@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894054544) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894037010) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894025480) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2024-01-16** — commented on [#244](https://github.com/takahirom/roborazzi/issues/244#issuecomment-1893940228) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1893938388) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — created branch `z/overlaySnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-16** — commented on [#1120](https://github.com/slackhq/circuit/pull/1120#issuecomment-1893213984) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-16** — opened issue [#243](https://github.com/takahirom/roborazzi/issues/243) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Proposal: Consider dropping alpha/beta releasing strategy in favor of just experimental annotations"
-
-**2024-01-16** — commented on [#242](https://github.com/takahirom/roborazzi/issues/242#issuecomment-1893174857) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-01-16** — closed issue [#242](https://github.com/takahirom/roborazzi/issues/242) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "1.8 alphas are not present on maven central"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
