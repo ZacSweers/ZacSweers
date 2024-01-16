@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-16** — opened issue [#245](https://github.com/takahirom/roborazzi/issues/245) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Android unit tests in compose multiplatform project don't capture dialogs"
+
+**2024-01-16** — opened issue [#244](https://github.com/takahirom/roborazzi/issues/244) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): ""Can't wrap nullptr" thrown from within skiko in multiplatform compose test"
+
+**2024-01-16** — opened PR [#1121](https://github.com/slackhq/circuit/pull/1121) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement OverlayState + expose LocalOverlayState"
+
+**2024-01-16** — created branch `z/overlaySnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-16** — commented on [#1120](https://github.com/slackhq/circuit/pull/1120#issuecomment-1893213984) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-16** — opened issue [#243](https://github.com/takahirom/roborazzi/issues/243) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Proposal: Consider dropping alpha/beta releasing strategy in favor of just experimental annotations"
 
 **2024-01-16** — commented on [#242](https://github.com/takahirom/roborazzi/issues/242#issuecomment-1893174857) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-15** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.24.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2024-01-15** — merged PR [#522](https://github.com/uber/AutoDispose/pull/522) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.23.3 to 6.24.0"
-
-**2024-01-15** — opened issue [#242](https://github.com/takahirom/roborazzi/issues/242) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "1.8 alphas are not present on maven central"
-
-**2024-01-15** — commented on [#1120](https://github.com/slackhq/circuit/pull/1120#issuecomment-1892813090) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-15** — opened PR [#1120](https://github.com/slackhq/circuit/pull/1120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay improvements"
-
-**2024-01-15** — commented on [#1105](https://github.com/slackhq/circuit/issues/1105#issuecomment-1892678418) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-15** — created branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
