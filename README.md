@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-16** — commented on [#244](https://github.com/takahirom/roborazzi/issues/244#issuecomment-1893940228) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1893938388) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2024-01-16** — opened issue [#245](https://github.com/takahirom/roborazzi/issues/245) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Android unit tests in compose multiplatform project don't capture dialogs"
 
 **2024-01-16** — opened issue [#244](https://github.com/takahirom/roborazzi/issues/244) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): ""Can't wrap nullptr" thrown from within skiko in multiplatform compose test"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — commented on [#242](https://github.com/takahirom/roborazzi/issues/242#issuecomment-1893174857) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-16** — closed issue [#242](https://github.com/takahirom/roborazzi/issues/242) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "1.8 alphas are not present on maven central"
-
-**2024-01-15** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.24.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-15** — merged PR [#522](https://github.com/uber/AutoDispose/pull/522) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.23.3 to 6.24.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
