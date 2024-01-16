@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-16** — commented on [#494](https://github.com/charleskorn/kaml/pull/494#issuecomment-1894348754) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
+
+**2024-01-16** — deleted branch `z/nonePolymorphism` on [ZacSweers/kaml](https://github.com/ZacSweers/kaml)
+
+**2024-01-16** — deleted branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-16** — merged PR [#1120](https://github.com/slackhq/circuit/pull/1120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay improvements"
+
+**2024-01-16** — closed issue [#1105](https://github.com/slackhq/circuit/issues/1105) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider making LocalOverlayHost nullable"
+
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894054544) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894037010) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — commented on [#244](https://github.com/takahirom/roborazzi/issues/244#issuecomment-1893940228) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1893938388) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-01-16** — opened issue [#245](https://github.com/takahirom/roborazzi/issues/245) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): "Android unit tests in compose multiplatform project don't capture dialogs"
-
-**2024-01-16** — opened issue [#244](https://github.com/takahirom/roborazzi/issues/244) on [takahirom/roborazzi](https://github.com/takahirom/roborazzi): ""Can't wrap nullptr" thrown from within skiko in multiplatform compose test"
-
-**2024-01-16** — opened PR [#1121](https://github.com/slackhq/circuit/pull/1121) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement OverlayState + expose LocalOverlayState"
-
-**2024-01-16** — created branch `z/overlaySnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-16** — commented on [#1120](https://github.com/slackhq/circuit/pull/1120#issuecomment-1893213984) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
