@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-17** — opened PR [#54](https://github.com/JetBrains/kotlin-multiplatform-dev-docs/pull/54) to [JetBrains/kotlin-multiplatform-dev-docs](https://github.com/JetBrains/kotlin-multiplatform-dev-docs): "Add Circuit to list of multiplatform architectures"
+
 **2024-01-16** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1894911856) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-16** — commented on [#494](https://github.com/charleskorn/kaml/pull/494#issuecomment-1894348754) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894037010) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894025480) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-01-16** — commented on [#244](https://github.com/takahirom/roborazzi/issues/244#issuecomment-1893940228) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
