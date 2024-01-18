@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-18** — opened PR [#1128](https://github.com/slackhq/circuit/pull/1128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try ubuntu-latest with baseline profile gen"
+
+**2024-01-18** — created branch `z/ubuntuBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-17** — commented on [#243](https://github.com/takahirom/roborazzi/issues/243#issuecomment-1897736920) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-01-17** — opened PR [#54](https://github.com/JetBrains/kotlin-multiplatform-dev-docs/pull/54) to [JetBrains/kotlin-multiplatform-dev-docs](https://github.com/JetBrains/kotlin-multiplatform-dev-docs): "Add Circuit to list of multiplatform architectures"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — merged PR [#1120](https://github.com/slackhq/circuit/pull/1120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay improvements"
 
 **2024-01-16** — closed issue [#1105](https://github.com/slackhq/circuit/issues/1105) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider making LocalOverlayHost nullable"
-
-**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894054544) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-01-16** — commented on [#245](https://github.com/takahirom/roborazzi/issues/245#issuecomment-1894037010) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
