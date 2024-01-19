@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-18** — deleted branch `z/ubuntuBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-18** — merged PR [#1128](https://github.com/slackhq/circuit/pull/1128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use ubuntu-latest with baseline profile gen"
+
 **2024-01-18** — opened PR [#1128](https://github.com/slackhq/circuit/pull/1128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Try ubuntu-latest with baseline profile gen"
 
 **2024-01-18** — created branch `z/ubuntuBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — deleted branch `z/nonePolymorphism` on [ZacSweers/kaml](https://github.com/ZacSweers/kaml)
 
 **2024-01-16** — deleted branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-16** — merged PR [#1120](https://github.com/slackhq/circuit/pull/1120) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay improvements"
-
-**2024-01-16** — closed issue [#1105](https://github.com/slackhq/circuit/issues/1105) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider making LocalOverlayHost nullable"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
