@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-20** — commented on [#241](https://github.com/slackhq/compose-lints/issues/241#issuecomment-1901796626) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-20** — closed issue [#241](https://github.com/slackhq/compose-lints/issues/241) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Cannot suppress ComposeViewModelInjection"
+
 **2024-01-18** — deleted branch `z/ubuntuBaselineProfiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-18** — merged PR [#1128](https://github.com/slackhq/circuit/pull/1128) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use ubuntu-latest with baseline profile gen"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-16** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1894911856) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-16** — commented on [#494](https://github.com/charleskorn/kaml/pull/494#issuecomment-1894348754) in [charleskorn/kaml](https://github.com/charleskorn/kaml)
-
-**2024-01-16** — deleted branch `z/nonePolymorphism` on [ZacSweers/kaml](https://github.com/ZacSweers/kaml)
-
-**2024-01-16** — deleted branch `z/overlayImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
