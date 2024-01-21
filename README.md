@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-21** — opened PR [#243](https://github.com/slackhq/compose-lints/pull/243) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc repo infra work"
+
+**2024-01-21** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-21** — merged PR [#239](https://github.com/slackhq/compose-lints/pull/239) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.47"
+
+**2024-01-21** — created branch `z/moreLintRulesWork` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-01-21** — deleted branch `z/testModes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-21** — merged PR [#209](https://github.com/slackhq/compose-lints/pull/209) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix most test mode issues in lints, better harden them against different edge cases lint helps test for."
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-20** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-20** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-20** — merged PR [#238](https://github.com/slackhq/compose-lints/pull/238) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.4"
-
-**2024-01-20** — merged PR [#240](https://github.com/slackhq/compose-lints/pull/240) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.22-1.0.17"
-
-**2024-01-20** — merged PR [#237](https://github.com/slackhq/compose-lints/pull/237) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.24.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
