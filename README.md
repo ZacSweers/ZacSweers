@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-21** — deleted branch `z/testModes` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-21** — merged PR [#209](https://github.com/slackhq/compose-lints/pull/209) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix most test mode issues in lints, better harden them against different edge cases lint helps test for."
+
 **2024-01-20** — deleted branch `renovate/actions-cache-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-20** — merged PR [#1127](https://github.com/slackhq/circuit/pull/1127) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/cache action to v4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-20** — merged PR [#240](https://github.com/slackhq/compose-lints/pull/240) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.22-1.0.17"
 
 **2024-01-20** — merged PR [#237](https://github.com/slackhq/compose-lints/pull/237) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.24.0"
-
-**2024-01-20** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-20** — merged PR [#242](https://github.com/slackhq/compose-lints/pull/242) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
