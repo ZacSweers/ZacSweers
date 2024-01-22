@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-22** — deleted branch `z/moreLintRulesWork` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-22** — merged PR [#243](https://github.com/slackhq/compose-lints/pull/243) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc repo infra work"
+
 **2024-01-22** — deleted branch `z/examples` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-22** — merged PR [#244](https://github.com/slackhq/compose-lints/pull/244) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-21** — opened PR [#243](https://github.com/slackhq/compose-lints/pull/243) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc repo infra work"
 
 **2024-01-21** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-21** — merged PR [#239](https://github.com/slackhq/compose-lints/pull/239) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.47"
-
-**2024-01-21** — created branch `z/moreLintRulesWork` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
