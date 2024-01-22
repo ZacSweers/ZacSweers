@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-21** — deleted branch `dependabot/gradle/com.google.truth-truth-1.3.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2024-01-21** — merged PR [#525](https://github.com/uber/AutoDispose/pull/525) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.2.0 to 1.3.0"
+
 **2024-01-21** — opened PR [#243](https://github.com/slackhq/compose-lints/pull/243) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc repo infra work"
 
 **2024-01-21** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-20** — deleted branch `renovate/actions-cache-4.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-20** — merged PR [#1127](https://github.com/slackhq/circuit/pull/1127) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update actions/cache action to v4"
-
-**2024-01-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-20** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
