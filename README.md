@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-23** — deleted branch `z/receiverStability` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-23** — deleted tag `2.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-23** — merged PR [#245](https://github.com/slackhq/compose-lints/pull/245) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement UnstableReceiverDetector"
+**2024-01-23** — created tag `2.6.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-23** — closed issue [#172](https://github.com/slackhq/compose-lints/issues/172) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update parameter stability checker to account for enclosing classes/receiver params"
+**2024-01-23** — deleted branch `z/handleNoResultMerges` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-23** — opened PR [#245](https://github.com/slackhq/compose-lints/pull/245) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement UnstableReceiverDetector"
+**2024-01-23** — merged PR [#105](https://github.com/slackhq/kotlin-cli-util/pull/105) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Handle empty results and non-multiple sarifs better"
 
-**2024-01-23** — created branch `z/receiverStability` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-23** — opened PR [#105](https://github.com/slackhq/kotlin-cli-util/pull/105) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Handle empty results and non-multiple sarifs better"
 
-**2024-01-22** — deleted branch `z/moreLintRulesWork` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-23** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.11` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-22** — merged PR [#243](https://github.com/slackhq/compose-lints/pull/243) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Misc repo infra work"
+**2024-01-23** — merged PR [#99](https://github.com/slackhq/kotlin-cli-util/pull/99) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.10 to 2.0.11"
 
-**2024-01-22** — deleted branch `z/examples` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-23** — created branch `z/handleNoResultMerges` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-22** — merged PR [#244](https://github.com/slackhq/compose-lints/pull/244) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample"
+**2024-01-23** — deleted branch `vz_add_main` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-01-22** — opened PR [#244](https://github.com/slackhq/compose-lints/pull/244) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample"
+**2024-01-23** — commented on [#100](https://github.com/slackhq/kotlin-cli-util/pull/100#issuecomment-1906700399) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
