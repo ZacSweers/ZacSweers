@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-23** — created branch `z/stableReceiverSupers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-01-23** — deleted tag `2.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-01-23** — created tag `2.6.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-23** — created branch `z/handleNoResultMerges` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-01-23** — deleted branch `vz_add_main` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-01-23** — commented on [#100](https://github.com/slackhq/kotlin-cli-util/pull/100#issuecomment-1906700399) in [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
