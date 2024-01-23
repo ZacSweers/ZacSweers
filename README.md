@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-23** — Could not load GitHub activity. Please check back later.
+**2024-01-23** — commented on [#247](https://github.com/slackhq/compose-lints/pull/247#issuecomment-1907067475) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-23** — opened PR [#248](https://github.com/slackhq/compose-lints/pull/248) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add support for checking inherited stability in UnstableReceiverDetector"
+
+**2024-01-23** — created branch `z/stableReceiverSupers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-23** — deleted tag `2.7.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-01-23** — created tag `2.6.3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-01-23** — deleted branch `z/handleNoResultMerges` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-01-23** — merged PR [#105](https://github.com/slackhq/kotlin-cli-util/pull/105) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Handle empty results and non-multiple sarifs better"
+
+**2024-01-23** — opened PR [#105](https://github.com/slackhq/kotlin-cli-util/pull/105) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Handle empty results and non-multiple sarifs better"
+
+**2024-01-23** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.11` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-01-23** — merged PR [#99](https://github.com/slackhq/kotlin-cli-util/pull/99) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.10 to 2.0.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
