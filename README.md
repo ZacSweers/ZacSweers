@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-23** — deleted branch `z/receiverStability` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-23** — merged PR [#245](https://github.com/slackhq/compose-lints/pull/245) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement UnstableReceiverDetector"
+
+**2024-01-23** — closed issue [#172](https://github.com/slackhq/compose-lints/issues/172) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update parameter stability checker to account for enclosing classes/receiver params"
+
 **2024-01-23** — opened PR [#245](https://github.com/slackhq/compose-lints/pull/245) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Implement UnstableReceiverDetector"
 
 **2024-01-23** — created branch `z/receiverStability` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-22** — merged PR [#244](https://github.com/slackhq/compose-lints/pull/244) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample"
 
 **2024-01-22** — opened PR [#244](https://github.com/slackhq/compose-lints/pull/244) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample"
-
-**2024-01-22** — created branch `z/examples` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-21** — deleted branch `dependabot/gradle/com.google.truth-truth-1.3.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-21** — merged PR [#525](https://github.com/uber/AutoDispose/pull/525) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.2.0 to 1.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
