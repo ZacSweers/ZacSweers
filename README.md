@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-24** — opened PR [#253](https://github.com/slackhq/compose-lints/pull/253) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add name mangling workaround"
+**2024-01-24** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-24** — created branch `z/mangling` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-24** — merged PR [#216](https://github.com/slackhq/slack-lints/pull/216) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.47"
 
-**2024-01-24** — commented on [#167](https://github.com/slackhq/compose-lints/issues/167#issuecomment-1908705709) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-24** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-24** — deleted branch `z/previewPublic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-24** — deleted branch `renovate/com.github.gmazzo.buildconfig-5.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-24** — closed issue [#189](https://github.com/slackhq/compose-lints/issues/189) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposePreviewPublic not working as expected"
+**2024-01-24** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-24** — merged PR [#206](https://github.com/slackhq/compose-lints/pull/206) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix PreviewPublicDetector"
+**2024-01-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-24** — commented on [#167](https://github.com/slackhq/compose-lints/issues/167#issuecomment-1908699185) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-24** — merged PR [#213](https://github.com/slackhq/slack-lints/pull/213) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.25.0"
 
-**2024-01-24** — opened issue [#252](https://github.com/slackhq/compose-lints/issues/252) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample samples to each test suite"
+**2024-01-24** — merged PR [#198](https://github.com/slackhq/slack-lints/pull/198) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.3.5"
 
-**2024-01-24** — deleted branch `z/stableReceiverSupers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-24** — merged PR [#218](https://github.com/slackhq/slack-lints/pull/218) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.22-1.0.17"
 
-**2024-01-24** — merged PR [#248](https://github.com/slackhq/compose-lints/pull/248) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add support for checking inherited stability in UnstableReceiverDetector"
+**2024-01-24** — merged PR [#221](https://github.com/slackhq/slack-lints/pull/221) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
