@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-24** — opened PR [#253](https://github.com/slackhq/compose-lints/pull/253) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add name mangling workaround"
+
+**2024-01-24** — created branch `z/mangling` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-24** — commented on [#167](https://github.com/slackhq/compose-lints/issues/167#issuecomment-1908705709) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-24** — deleted branch `z/previewPublic` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-24** — closed issue [#189](https://github.com/slackhq/compose-lints/issues/189) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposePreviewPublic not working as expected"
+
+**2024-01-24** — merged PR [#206](https://github.com/slackhq/compose-lints/pull/206) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix PreviewPublicDetector"
+
+**2024-01-24** — commented on [#167](https://github.com/slackhq/compose-lints/issues/167#issuecomment-1908699185) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-24** — opened issue [#252](https://github.com/slackhq/compose-lints/issues/252) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add testDocumentationExample samples to each test suite"
+
 **2024-01-24** — deleted branch `z/stableReceiverSupers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-24** — merged PR [#248](https://github.com/slackhq/compose-lints/pull/248) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add support for checking inherited stability in UnstableReceiverDetector"
-
-**2024-01-24** — deleted branch `z/getLocals` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-24** — closed issue [#218](https://github.com/slackhq/compose-lints/issues/218) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Lint against Composition Locals that use `get() =` syntax"
-
-**2024-01-24** — merged PR [#249](https://github.com/slackhq/compose-lints/pull/249) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Check for property accessors with composition locals"
-
-**2024-01-23** — deleted branch `dependabot/gradle/com.google.truth-truth-1.3.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-01-23** — deleted branch `dependabot/gradle/com.squareup-kotlinpoet-1.16.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-01-23** — deleted branch `dependabot/gradle/jvm-1.9.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-01-23** — merged PR [#101](https://github.com/slackhq/auto-value-kotlin/pull/101) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup:kotlinpoet from 1.15.1 to 1.16.0"
-
-**2024-01-23** — merged PR [#102](https://github.com/slackhq/auto-value-kotlin/pull/102) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.1.5 to 1.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
