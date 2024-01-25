@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-24** — deleted branch `bot/update-baseline-profiles-1706154819` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-24** — closed PR [#1149](https://github.com/slackhq/circuit/pull/1149) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update baseline profiles"
+
 **2024-01-24** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-01-24** — merged PR [#216](https://github.com/slackhq/slack-lints/pull/216) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.47"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-24** — merged PR [#213](https://github.com/slackhq/slack-lints/pull/213) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.25.0"
 
 **2024-01-24** — merged PR [#198](https://github.com/slackhq/slack-lints/pull/198) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.3.5"
-
-**2024-01-24** — merged PR [#218](https://github.com/slackhq/slack-lints/pull/218) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.22-1.0.17"
-
-**2024-01-24** — merged PR [#221](https://github.com/slackhq/slack-lints/pull/221) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
