@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-24** — deleted branch `bot/update-baseline-profiles-1706154819` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-01-25** — created tag `1.3.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-24** — closed PR [#1149](https://github.com/slackhq/circuit/pull/1149) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update baseline profiles"
+**2024-01-25** — deleted branch `renovate/androidx.compose-compose-bom-2024.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-01-24** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-25** — merged PR [#1148](https://github.com/slackhq/circuit/pull/1148) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2024"
 
-**2024-01-24** — merged PR [#216](https://github.com/slackhq/slack-lints/pull/216) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.47"
+**2024-01-25** — deleted branch `z/mangling` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-24** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-25** — closed issue [#167](https://github.com/slackhq/compose-lints/issues/167) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Using the allow-list for the "ComposeM2Api" issue does not work since the resolved name is mangled and does not always match the ones passed into the Allow-list"
 
-**2024-01-24** — deleted branch `renovate/com.github.gmazzo.buildconfig-5.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-25** — merged PR [#253](https://github.com/slackhq/compose-lints/pull/253) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add name mangling workaround"
 
-**2024-01-24** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-25** — commented on [#1136](https://github.com/slackhq/circuit/pull/1136#issuecomment-1910805932) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-01-24** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-25** — deleted branch `renovate/com.diffplug.spotless-6.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-24** — merged PR [#213](https://github.com/slackhq/slack-lints/pull/213) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v6.25.0"
+**2024-01-25** — merged PR [#255](https://github.com/slackhq/compose-lints/pull/255) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v6.25.0"
 
-**2024-01-24** — merged PR [#198](https://github.com/slackhq/slack-lints/pull/198) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.3.5"
+**2024-01-25** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
