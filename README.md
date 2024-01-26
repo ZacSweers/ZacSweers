@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911456372) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911435859) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-25** — closed issue [#166](https://github.com/slackhq/compose-lints/issues/166) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for ComposeContentEmitterReturningValues"
 
 **2024-01-25** — created tag `1.3.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-25** — deleted branch `cb/fastlane` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-01-25** — merged PR [#1136](https://github.com/slackhq/circuit/pull/1136) to [slackhq/circuit](https://github.com/slackhq/circuit): "Build iOS samples"
-
-**2024-01-25** — commented on [#1136](https://github.com/slackhq/circuit/pull/1136#issuecomment-1910910023) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-25** — opened PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
