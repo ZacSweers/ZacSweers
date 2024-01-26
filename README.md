@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-25** — Could not load GitHub activity. Please check back later.
+**2024-01-25** — created tag `1.3.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-25** — deleted branch `z/fixTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-25** — merged PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
+
+**2024-01-25** — deleted branch `z/jdk21` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-25** — merged PR [#1150](https://github.com/slackhq/circuit/pull/1150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to JDK 21"
+
+**2024-01-25** — deleted branch `cb/fastlane` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-01-25** — merged PR [#1136](https://github.com/slackhq/circuit/pull/1136) to [slackhq/circuit](https://github.com/slackhq/circuit): "Build iOS samples"
+
+**2024-01-25** — commented on [#1136](https://github.com/slackhq/circuit/pull/1136#issuecomment-1910910023) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-25** — opened PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
+
+**2024-01-25** — created branch `z/fixTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
