@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-26** — opened PR [#1154](https://github.com/slackhq/circuit/pull/1154) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP Screen results"
+
+**2024-01-26** — opened PR [#1153](https://github.com/slackhq/circuit/pull/1153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc small sample fixes"
+
+**2024-01-26** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-26** — created branch `z/screenResults` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911456372) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911435859) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-25** — deleted branch `z/fixTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-25** — merged PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
-
-**2024-01-25** — deleted branch `z/jdk21` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-25** — merged PR [#1150](https://github.com/slackhq/circuit/pull/1150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to JDK 21"
-
-**2024-01-25** — deleted branch `cb/fastlane` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-01-25** — merged PR [#1136](https://github.com/slackhq/circuit/pull/1136) to [slackhq/circuit](https://github.com/slackhq/circuit): "Build iOS samples"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
