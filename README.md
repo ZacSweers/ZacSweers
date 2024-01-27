@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-25** — closed issue [#166](https://github.com/slackhq/compose-lints/issues/166) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for ComposeContentEmitterReturningValues"
 
 **2024-01-25** — created tag `1.3.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-25** — deleted branch `z/fixTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-25** — merged PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
