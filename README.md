@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-27** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1207](https://github.com/ZacSweers/CatchUp/pull/1207) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.29.0"
+**2024-01-27** — merged PR [#1218](https://github.com/ZacSweers/CatchUp/pull/1218) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.8"
 
-**2024-01-27** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1208](https://github.com/ZacSweers/CatchUp/pull/1208) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.245.0"
+**2024-01-27** — merged PR [#1212](https://github.com/ZacSweers/CatchUp/pull/1212) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.9.0-alpha02"
 
-**2024-01-27** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1209](https://github.com/ZacSweers/CatchUp/pull/1209) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.22-1.0.17"
+**2024-01-27** — merged PR [#1217](https://github.com/ZacSweers/CatchUp/pull/1217) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha09"
 
-**2024-01-27** — merged PR [#1210](https://github.com/ZacSweers/CatchUp/pull/1210) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.45.0.0"
+**2024-01-27** — deleted branch `renovate/androidx.collection-collection-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — merged PR [#1216](https://github.com/ZacSweers/CatchUp/pull/1216) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.0"
 
-**2024-01-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1211](https://github.com/ZacSweers/CatchUp/pull/1211) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.3.0"
+**2024-01-27** — merged PR [#1213](https://github.com/ZacSweers/CatchUp/pull/1213) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
