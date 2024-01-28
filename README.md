@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-27** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-27** — merged PR [#1218](https://github.com/ZacSweers/CatchUp/pull/1218) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.8"
+**2024-01-27** — deleted branch `dependabot/gradle/com.github.gmazzo.buildconfig-5.3.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-27** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.17` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-27** — merged PR [#1212](https://github.com/ZacSweers/CatchUp/pull/1212) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.9.0-alpha02"
+**2024-01-27** — merged PR [#212](https://github.com/slackhq/slack-lints/pull/212) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.github.gmazzo.buildconfig from 5.3.3 to 5.3.5"
 
-**2024-01-27** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — merged PR [#220](https://github.com/slackhq/slack-lints/pull/220) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.diffplug.spotless from 6.23.3 to 6.25.0"
 
-**2024-01-27** — merged PR [#1217](https://github.com/ZacSweers/CatchUp/pull/1217) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.7.0-alpha09"
+**2024-01-27** — merged PR [#219](https://github.com/slackhq/slack-lints/pull/219) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.devtools.ksp from 1.9.22-1.0.16 to 1.9.22-1.0.17"
 
-**2024-01-27** — deleted branch `renovate/androidx.collection-collection-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/androidx.compose.ui-ui-text-google-fonts-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1216](https://github.com/ZacSweers/CatchUp/pull/1216) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.0"
+**2024-01-27** — merged PR [#1221](https://github.com/ZacSweers/CatchUp/pull/1221) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.6.0"
 
-**2024-01-27** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-27** — deleted branch `renovate/com.mattprecious.telescope-telescope-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-27** — merged PR [#1213](https://github.com/ZacSweers/CatchUp/pull/1213) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha04"
+**2024-01-27** — merged PR [#1222](https://github.com/ZacSweers/CatchUp/pull/1222) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mattprecious.telescope:telescope to v2.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
