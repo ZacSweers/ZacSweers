@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-28** — deleted branch `cb/ios-counter-deployment-target` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-01-28** — merged PR [#1159](https://github.com/slackhq/circuit/pull/1159) to [slackhq/circuit](https://github.com/slackhq/circuit): "Drop Counter iOS app deployment target to iOS 16.0"
-
-**2024-01-28** — opened PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP start working on a tutorial doc"
-
-**2024-01-28** — created branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.github.gmazzo.buildconfig-5.3.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.17` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-27** — merged PR [#212](https://github.com/slackhq/slack-lints/pull/212) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.github.gmazzo.buildconfig from 5.3.3 to 5.3.5"
-
-**2024-01-27** — merged PR [#220](https://github.com/slackhq/slack-lints/pull/220) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.diffplug.spotless from 6.23.3 to 6.25.0"
-
-**2024-01-27** — merged PR [#219](https://github.com/slackhq/slack-lints/pull/219) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.google.devtools.ksp from 1.9.22-1.0.16 to 1.9.22-1.0.17"
+**2024-01-28** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
