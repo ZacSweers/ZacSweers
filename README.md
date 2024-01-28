@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-28** — opened PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP start working on a tutorial doc"
+
+**2024-01-28** — created branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-27** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-01-27** — deleted branch `dependabot/gradle/com.github.gmazzo.buildconfig-5.3.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-27** — deleted branch `renovate/androidx.compose.ui-ui-text-google-fonts-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-27** — merged PR [#1221](https://github.com/ZacSweers/CatchUp/pull/1221) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.ui:ui-text-google-fonts to v1.6.0"
-
-**2024-01-27** — deleted branch `renovate/com.mattprecious.telescope-telescope-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-27** — merged PR [#1222](https://github.com/ZacSweers/CatchUp/pull/1222) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mattprecious.telescope:telescope to v2.3.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
