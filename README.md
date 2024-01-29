@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-29** — merged PR [#1160](https://github.com/slackhq/circuit/pull/1160) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change navigator popUntil to exclusive"
+
 **2024-01-29** — deleted branch `jw.formatters.2024-01-29` on [square/moshi](https://github.com/square/moshi)
 
 **2024-01-29** — merged PR [#1797](https://github.com/square/moshi/pull/1797) to [square/moshi](https://github.com/square/moshi): "Update formatters to latest"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-28** — deleted branch `cb/ios-counter-deployment-target` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-01-28** — merged PR [#1159](https://github.com/slackhq/circuit/pull/1159) to [slackhq/circuit](https://github.com/slackhq/circuit): "Drop Counter iOS app deployment target to iOS 16.0"
-
-**2024-01-28** — opened PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP start working on a tutorial doc"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
