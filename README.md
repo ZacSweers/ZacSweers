@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-29** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-29** — merged PR [#1153](https://github.com/slackhq/circuit/pull/1153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc small sample fixes"
+
 **2024-01-29** — commented on [#1153](https://github.com/slackhq/circuit/pull/1153#issuecomment-1914045477) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-28** — commented on [#135](https://github.com/slackhq/keeper/issues/135#issuecomment-1913779375) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-28** — created branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-27** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.github.gmazzo.buildconfig-5.3.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.17` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
