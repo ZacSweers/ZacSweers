@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-29** — deleted branch `jw.formatters.2024-01-29` on [square/moshi](https://github.com/square/moshi)
+
+**2024-01-29** — merged PR [#1797](https://github.com/square/moshi/pull/1797) to [square/moshi](https://github.com/square/moshi): "Update formatters to latest"
+
 **2024-01-29** — deleted branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-29** — merged PR [#1153](https://github.com/slackhq/circuit/pull/1153) to [slackhq/circuit](https://github.com/slackhq/circuit): "Misc small sample fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-28** — merged PR [#1159](https://github.com/slackhq/circuit/pull/1159) to [slackhq/circuit](https://github.com/slackhq/circuit): "Drop Counter iOS app deployment target to iOS 16.0"
 
 **2024-01-28** — opened PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP start working on a tutorial doc"
-
-**2024-01-28** — created branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-27** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
