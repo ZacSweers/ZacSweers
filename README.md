@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-01-30** — commented on [#1165](https://github.com/slackhq/circuit/pull/1165#issuecomment-1917710392) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-01-30** — merged PR [#223](https://github.com/slackhq/slack-lints/pull/223) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle/wrapper-validation-action action to v2"
+**2024-01-30** — opened issue [#568](https://github.com/ruby/setup-ruby/issues/568) on [ruby/setup-ruby](https://github.com/ruby/setup-ruby): "macos-14-arm64 detected as self-hosted"
 
-**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-01-30** — merged PR [#259](https://github.com/slackhq/compose-lints/pull/259) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update gradle/wrapper-validation-action action to v2"
+**2024-01-30** — merged PR [#1164](https://github.com/slackhq/circuit/pull/1164) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v2"
 
-**2024-01-30** — deleted branch `jw.change.2024-01-30` on [square/moshi](https://github.com/square/moshi)
+**2024-01-30** — opened PR [#1165](https://github.com/slackhq/circuit/pull/1165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to M1 macos runners"
 
-**2024-01-30** — merged PR [#1799](https://github.com/square/moshi/pull/1799) to [square/moshi](https://github.com/square/moshi): "1.15.1 change log"
+**2024-01-30** — created branch `z/macos14` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-01-30** — deleted branch `renovate/com.squareup.moshi-moshi-kotlin-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-30** — deleted branch `renovate/moshi` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-30** — merged PR [#1231](https://github.com/ZacSweers/CatchUp/pull/1231) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.1"
+**2024-01-30** — merged PR [#1229](https://github.com/ZacSweers/CatchUp/pull/1229) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.1"
 
-**2024-01-30** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-01-30** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-01-30** — merged PR [#1225](https://github.com/ZacSweers/CatchUp/pull/1225) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-alpha04"
+**2024-01-30** — merged PR [#1230](https://github.com/ZacSweers/CatchUp/pull/1230) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
