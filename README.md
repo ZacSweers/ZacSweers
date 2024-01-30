@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-01-30** — merged PR [#223](https://github.com/slackhq/slack-lints/pull/223) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle/wrapper-validation-action action to v2"
+
+**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-30** — merged PR [#259](https://github.com/slackhq/compose-lints/pull/259) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update gradle/wrapper-validation-action action to v2"
+
+**2024-01-30** — deleted branch `jw.change.2024-01-30` on [square/moshi](https://github.com/square/moshi)
+
+**2024-01-30** — merged PR [#1799](https://github.com/square/moshi/pull/1799) to [square/moshi](https://github.com/square/moshi): "1.15.1 change log"
+
+**2024-01-30** — deleted branch `renovate/com.squareup.moshi-moshi-kotlin-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-01-30** — merged PR [#1231](https://github.com/ZacSweers/CatchUp/pull/1231) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.1"
+
 **2024-01-30** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-30** — merged PR [#1225](https://github.com/ZacSweers/CatchUp/pull/1225) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-alpha04"
-
-**2024-01-30** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-30** — merged PR [#1226](https://github.com/ZacSweers/CatchUp/pull/1226) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.9.0"
-
-**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-30** — merged PR [#1228](https://github.com/ZacSweers/CatchUp/pull/1228) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gradle/wrapper-validation-action action to v2"
-
-**2024-01-30** — deleted branch `dependabot/gradle/com.uber.nullaway-nullaway-0.10.22` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-01-30** — merged PR [#527](https://github.com/uber/AutoDispose/pull/527) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.uber.nullaway:nullaway from 0.10.21 to 0.10.22"
-
-**2024-01-29** — merged PR [#1160](https://github.com/slackhq/circuit/pull/1160) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change navigator popUntil to exclusive"
-
-**2024-01-29** — deleted branch `jw.formatters.2024-01-29` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
