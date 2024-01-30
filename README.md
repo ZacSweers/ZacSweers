@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-30** — commented on [#260](https://github.com/slackhq/compose-lints/issues/260#issuecomment-1917830828) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-01-30** — opened issue [#260](https://github.com/slackhq/compose-lints/issues/260) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierMissing shouldn't error on preview functions"
+
 **2024-01-30** — commented on [#1165](https://github.com/slackhq/circuit/pull/1165#issuecomment-1917710392) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-30** — opened issue [#568](https://github.com/ruby/setup-ruby/issues/568) on [ruby/setup-ruby](https://github.com/ruby/setup-ruby): "macos-14-arm64 detected as self-hosted"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-30** — deleted branch `renovate/moshi` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-01-30** — merged PR [#1229](https://github.com/ZacSweers/CatchUp/pull/1229) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.1"
-
-**2024-01-30** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-30** — merged PR [#1230](https://github.com/ZacSweers/CatchUp/pull/1230) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
