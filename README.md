@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-30** — closed issue [#1123](https://github.com/slackhq/circuit/issues/1123) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding exclusive `popUntil` for `Navigator`"
+
 **2024-01-30** — commented on [#260](https://github.com/slackhq/compose-lints/issues/260#issuecomment-1917830828) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-01-30** — opened issue [#260](https://github.com/slackhq/compose-lints/issues/260) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierMissing shouldn't error on preview functions"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-30** — created branch `z/macos14` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-30** — deleted branch `renovate/moshi` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-01-30** — merged PR [#1229](https://github.com/ZacSweers/CatchUp/pull/1229) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi to v1.15.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
