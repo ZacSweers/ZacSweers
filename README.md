@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-31** — commented on [#1165](https://github.com/slackhq/circuit/pull/1165#issuecomment-1919922289) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-31** — opened PR [#1166](https://github.com/slackhq/circuit/pull/1166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better handle null image urls"
 
 **2024-01-31** — created branch `z/placeholder` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-30** — merged PR [#1164](https://github.com/slackhq/circuit/pull/1164) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v2"
-
-**2024-01-30** — opened PR [#1165](https://github.com/slackhq/circuit/pull/1165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to M1 macos runners"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
