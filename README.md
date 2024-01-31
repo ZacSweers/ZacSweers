@@ -11,18 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-31** — created branch `z/placeholder` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-01-30** — closed issue [#1123](https://github.com/slackhq/circuit/issues/1123) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding exclusive `popUntil` for `Navigator`"
-
-**2024-01-30** — commented on [#260](https://github.com/slackhq/compose-lints/issues/260#issuecomment-1917830828) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-01-30** — opened issue [#260](https://github.com/slackhq/compose-lints/issues/260) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierMissing shouldn't error on preview functions"
-
-**2024-01-30** — commented on [#1165](https://github.com/slackhq/circuit/pull/1165#issuecomment-1917710392) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-30** — opened issue [#568](https://github.com/ruby/setup-ruby/issues/568) on [ruby/setup-ruby](https://github.com/ruby/setup-ruby): "macos-14-arm64 detected as self-hosted"
-
-**2024-01-30** — deleted branch `renovate/gradle-wrapper-validation-action-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-30** — merged PR [#1164](https://github.com/slackhq/circuit/pull/1164) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
