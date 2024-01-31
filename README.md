@@ -4,13 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-01-31** — opened PR [#1168](https://github.com/slackhq/circuit/pull/1168) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP persist tab state "
+
+**2024-01-31** — created branch `z/stateInTabs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-31** — deleted branch `z/macos14` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-01-31** — merged PR [#1165](https://github.com/slackhq/circuit/pull/1165) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to M1 macos runners"
+
+**2024-01-31** — merged PR [#1166](https://github.com/slackhq/circuit/pull/1166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better handle null image urls"
+
+**2024-01-31** — deleted branch `z/placeholder` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-01-31** — commented on [#1165](https://github.com/slackhq/circuit/pull/1165#issuecomment-1919922289) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-31** — opened PR [#1166](https://github.com/slackhq/circuit/pull/1166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Better handle null image urls"
-
-**2024-01-31** — created branch `z/placeholder` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-01-30** — closed issue [#1123](https://github.com/slackhq/circuit/issues/1123) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding exclusive `popUntil` for `Navigator`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
