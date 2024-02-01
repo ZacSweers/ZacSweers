@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-01** — deleted branch `renovate/peter-evans-create-pull-request-6.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-01** — merged PR [#1172](https://github.com/slackhq/circuit/pull/1172) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update peter-evans/create-pull-request action to v6"
-
-**2024-02-01** — deleted branch `dependabot/gradle/moshiVersion-1.15.1` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2024-02-01** — merged PR [#75](https://github.com/slackhq/moshi-gson-interop/pull/75) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump moshiVersion from 1.15.0 to 1.15.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
