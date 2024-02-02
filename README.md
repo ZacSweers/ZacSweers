@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-02** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-1924791145) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-02** — deleted branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-02** — merged PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a basic inbox tutorial"
+
+**2024-02-02** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-1924778123) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-02** — commented on [#1158](https://github.com/slackhq/circuit/pull/1158#issuecomment-1924769320) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-02** — deleted branch `cb/retain-back-stack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-02-02** — merged PR [#1173](https://github.com/slackhq/circuit/pull/1173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow saving/restoring navigation stack on root resets (aka multi back stack)"
