@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-02** — deleted branch `cb/ci-fork-emulator-tests` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-02-02** — merged PR [#1176](https://github.com/slackhq/circuit/pull/1176) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix CI emulator tests"
+
 **2024-02-01** — deleted branch `z/updatedAnimation` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-01** — merged PR [#1174](https://github.com/slackhq/circuit/pull/1174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update the default decoration to match the android 34 transition"
