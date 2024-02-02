@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-01** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-01** — merged PR [#258](https://github.com/slackhq/compose-lints/pull/258) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.6"
-
-**2024-02-01** — merged PR [#261](https://github.com/slackhq/compose-lints/pull/261) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
