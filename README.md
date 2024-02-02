@@ -11,10 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-01** — opened PR [#1174](https://github.com/slackhq/circuit/pull/1174) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update the default decoration to match the android 34 transition"
 
 **2024-02-01** — created branch `z/updatedAnimation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-01** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-01** — merged PR [#256](https://github.com/slackhq/compose-lints/pull/256) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
