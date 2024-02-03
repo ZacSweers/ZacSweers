@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — commented on [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89#issuecomment-1925449447) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-02-03** — opened PR [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Prepare for K2"
+
+**2024-02-03** — created branch `z/k2` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-02-03** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1925445364) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-02-03** — commented on [#549](https://github.com/ZacSweers/MoshiX/issues/549#issuecomment-1925380002) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-02-03** — created branch `z/skateFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229342) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229016) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — commented on [#197](https://github.com/ZacSweers/kotlin-compile-testing/issues/197#issuecomment-1925228827) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — commented on [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198#issuecomment-1925228392) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — commented on [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199#issuecomment-1925228320) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — closed issue [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support FIR plugins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
