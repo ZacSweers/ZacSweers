@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — commented on [#549](https://github.com/ZacSweers/MoshiX/issues/549#issuecomment-1925380002) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-02-03** — created branch `z/skateFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-03** — commented on [#828](https://github.com/square/anvil/pull/828#issuecomment-1925239032) in [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-03** — commented on [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199#issuecomment-1925228320) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-02-03** — closed issue [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support FIR plugins"
-
-**2024-02-03** — commented on [#1712](https://github.com/google/ksp/issues/1712#issuecomment-1925219650) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
