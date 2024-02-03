@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — created branch `z/skateFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-02-03** — commented on [#828](https://github.com/square/anvil/pull/828#issuecomment-1925239032) in [square/anvil](https://github.com/square/anvil)
 
 **2024-02-03** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1925236069) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-03** — closed issue [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support FIR plugins"
 
 **2024-02-03** — commented on [#1712](https://github.com/google/ksp/issues/1712#issuecomment-1925219650) in [google/ksp](https://github.com/google/ksp)
-
-**2024-02-03** — opened issue [#1712](https://github.com/google/ksp/issues/1712) on [google/ksp](https://github.com/google/ksp): "Analysis API artifacts have the wrong common-deps dependency"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
