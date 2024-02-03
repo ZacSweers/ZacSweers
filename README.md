@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-02** — commented on [#1154](https://github.com/slackhq/circuit/pull/1154#issuecomment-1925086945) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-02-02** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-1924791145) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — closed PR [#546](https://github.com/ZacSweers/MoshiX/pull/546) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-station-874"
 
-**2024-02-02** — deleted branch `z/tutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-02-02** — merged PR [#1158](https://github.com/slackhq/circuit/pull/1158) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a basic inbox tutorial"
+**2024-02-03** — merged PR [#540](https://github.com/ZacSweers/MoshiX/pull/540) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.17"
 
-**2024-02-02** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-1924778123) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-02-02** — commented on [#1158](https://github.com/slackhq/circuit/pull/1158#issuecomment-1924769320) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — merged PR [#545](https://github.com/ZacSweers/MoshiX/pull/545) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.1"
 
-**2024-02-02** — deleted branch `cb/retain-back-stack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+**2024-02-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-02-02** — merged PR [#1173](https://github.com/slackhq/circuit/pull/1173) to [slackhq/circuit](https://github.com/slackhq/circuit): "Allow saving/restoring navigation stack on root resets (aka multi back stack)"
+**2024-02-03** — merged PR [#544](https://github.com/ZacSweers/MoshiX/pull/544) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.14.0"
+
+**2024-02-03** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-03** — merged PR [#543](https://github.com/ZacSweers/MoshiX/pull/543) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.25.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
