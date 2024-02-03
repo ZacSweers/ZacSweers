@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-03** — deleted branch `dependabot/github_actions/gradle/gradle-build-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-02-03** — opened PR [#264](https://github.com/slackhq/compose-lints/pull/264) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Prepare for K2"
 
-**2024-02-03** — merged PR [#106](https://github.com/slackhq/kotlin-cli-util/pull/106) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/gradle-build-action from 2 to 3"
+**2024-02-03** — created branch `z/k2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-03** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-03** — merged PR [#1227](https://github.com/ZacSweers/CatchUp/pull/1227) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.5.12"
+**2024-02-03** — merged PR [#257](https://github.com/slackhq/compose-lints/pull/257) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update gradle/gradle-build-action action to v3"
 
-**2024-02-03** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-03** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-03** — merged PR [#1237](https://github.com/ZacSweers/CatchUp/pull/1237) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.0"
+**2024-02-03** — merged PR [#247](https://github.com/slackhq/compose-lints/pull/247) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha07 + Gradle 8.6"
 
-**2024-02-03** — deleted branch `dependabot/gradle/org.jetbrains.kotlinx.binary-compatibility-validator-0.14.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-02-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-03** — merged PR [#108](https://github.com/slackhq/kotlin-cli-util/pull/108) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx.binary-compatibility-validator from 0.13.2 to 0.14.0"
+**2024-02-03** — merged PR [#262](https://github.com/slackhq/compose-lints/pull/262) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.5"
 
-**2024-02-03** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.15.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-02-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-03** — merged PR [#107](https://github.com/slackhq/kotlin-cli-util/pull/107) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.moshi:moshi from 1.15.0 to 1.15.1"
+**2024-02-03** — merged PR [#263](https://github.com/slackhq/compose-lints/pull/263) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
