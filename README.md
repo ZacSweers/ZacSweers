@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-03** — commented on [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89#issuecomment-1925449447) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-02-03** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-02-03** — opened PR [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Prepare for K2"
+**2024-02-03** — merged PR [#195](https://github.com/ZacSweers/redacted-compiler-plugin/pull/195) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update CI and spotless"
 
-**2024-02-03** — created branch `z/k2` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-02-03** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-02-03** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1925445364) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-03** — closed PR [#192](https://github.com/ZacSweers/redacted-compiler-plugin/pull/192) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.47"
 
-**2024-02-03** — commented on [#549](https://github.com/ZacSweers/MoshiX/issues/549#issuecomment-1925380002) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-02-03** — created branch `z/skateFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — merged PR [#193](https://github.com/ZacSweers/redacted-compiler-plugin/pull/193) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.22-1.0.17"
 
-**2024-02-03** — commented on [#828](https://github.com/square/anvil/pull/828#issuecomment-1925239032) in [square/anvil](https://github.com/square/anvil)
+**2024-02-03** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-02-03** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1925236069) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-03** — merged PR [#194](https://github.com/ZacSweers/redacted-compiler-plugin/pull/194) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.4.0"
 
-**2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229342) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229016) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-03** — merged PR [#196](https://github.com/ZacSweers/redacted-compiler-plugin/pull/196) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.14.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
