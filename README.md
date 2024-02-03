@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — commented on [#828](https://github.com/square/anvil/pull/828#issuecomment-1925239032) in [square/anvil](https://github.com/square/anvil)
+
+**2024-02-03** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1925236069) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229342) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — commented on [#176](https://github.com/ZacSweers/kotlin-compile-testing/issues/176#issuecomment-1925229016) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — commented on [#197](https://github.com/ZacSweers/kotlin-compile-testing/issues/197#issuecomment-1925228827) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — commented on [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198#issuecomment-1925228392) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — commented on [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199#issuecomment-1925228320) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-03** — closed issue [#199](https://github.com/ZacSweers/kotlin-compile-testing/issues/199) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support FIR plugins"
+
+**2024-02-03** — commented on [#1712](https://github.com/google/ksp/issues/1712#issuecomment-1925219650) in [google/ksp](https://github.com/google/ksp)
+
 **2024-02-03** — opened issue [#1712](https://github.com/google/ksp/issues/1712) on [google/ksp](https://github.com/google/ksp): "Analysis API artifacts have the wrong common-deps dependency"
-
-**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-02-03** — merged PR [#85](https://github.com/ZacSweers/auto-service-ksp/pull/85) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update gradle/gradle-build-action action to v3"
-
-**2024-02-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — merged PR [#204](https://github.com/ZacSweers/kotlin-compile-testing/pull/204) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to 1.9.22"
-
-**2024-02-03** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — closed PR [#208](https://github.com/ZacSweers/kotlin-compile-testing/pull/208) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2 (major)"
-
-**2024-02-03** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-03** — merged PR [#200](https://github.com/ZacSweers/kotlin-compile-testing/pull/200) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.6"
-
-**2024-02-03** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
