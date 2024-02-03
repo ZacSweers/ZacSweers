@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — opened issue [#1712](https://github.com/google/ksp/issues/1712) on [google/ksp](https://github.com/google/ksp): "Analysis API artifacts have the wrong common-deps dependency"
 
-**2024-02-03** — closed PR [#546](https://github.com/ZacSweers/MoshiX/pull/546) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v1.9.30-station-874"
+**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-02-03** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — merged PR [#85](https://github.com/ZacSweers/auto-service-ksp/pull/85) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update gradle/gradle-build-action action to v3"
 
-**2024-02-03** — merged PR [#540](https://github.com/ZacSweers/MoshiX/pull/540) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.17"
+**2024-02-03** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-02-03** — deleted branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — merged PR [#204](https://github.com/ZacSweers/kotlin-compile-testing/pull/204) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to 1.9.22"
 
-**2024-02-03** — merged PR [#545](https://github.com/ZacSweers/MoshiX/pull/545) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.1"
+**2024-02-03** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-02-03** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — closed PR [#208](https://github.com/ZacSweers/kotlin-compile-testing/pull/208) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2 (major)"
 
-**2024-02-03** — merged PR [#544](https://github.com/ZacSweers/MoshiX/pull/544) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.14.0"
+**2024-02-03** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-02-03** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — merged PR [#200](https://github.com/ZacSweers/kotlin-compile-testing/pull/200) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.6"
 
-**2024-02-03** — merged PR [#543](https://github.com/ZacSweers/MoshiX/pull/543) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.25.2"
+**2024-02-03** — deleted branch `renovate/actions-setup-java-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
