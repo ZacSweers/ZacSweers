@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — opened PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
+
+**2024-02-03** — created branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-02-03** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1925508568) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-02-03** — opened PR [#227](https://github.com/slackhq/slack-lints/pull/227) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Lint 31.4.0 alphas + improve repo infra"
+
+**2024-02-03** — created branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-02-03** — merged PR [#222](https://github.com/slackhq/slack-lints/pull/222) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle/gradle-build-action action to v3"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-03** — merged PR [#226](https://github.com/slackhq/slack-lints/pull/226) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.6"
 
 **2024-02-03** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-03** — merged PR [#224](https://github.com/slackhq/slack-lints/pull/224) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5"
-
-**2024-02-03** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-03** — merged PR [#225](https://github.com/slackhq/slack-lints/pull/225) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.5"
-
-**2024-02-03** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1925488872) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-03** — commented on [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227#issuecomment-1925488622) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
