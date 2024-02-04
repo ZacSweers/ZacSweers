@@ -4,30 +4,32 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-12-21** — commented on [#1076](https://github.com/slackhq/circuit/pull/1076#issuecomment-1866492324) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — opened issue [#1714](https://github.com/google/ksp/issues/1714) on [google/ksp](https://github.com/google/ksp): "[K2] Generated resources are not added to KotlinCompilation inputs"
 
-**2023-12-20** — deleted branch `z/ewtf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — commented on [#264](https://github.com/slackhq/compose-lints/pull/264#issuecomment-1925575502) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2023-12-20** — merged PR [#1072](https://github.com/slackhq/circuit/pull/1072) to [slackhq/circuit](https://github.com/slackhq/circuit): "Integrate emulator.wtf for instrumentation tests"
+**2024-02-03** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2023-12-20** — merged PR [#1073](https://github.com/slackhq/circuit/pull/1073) to [slackhq/circuit](https://github.com/slackhq/circuit): "Run CI on macOS to cover iOS targets too"
+**2024-02-03** — merged PR [#737](https://github.com/slackhq/slack-gradle-plugin/pull/737) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.6 + intellij plugin too + raise skate plugin version mins"
 
-**2023-12-20** — deleted branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — opened PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
 
-**2023-12-20** — commented on [#1779](https://github.com/square/moshi/issues/1779#issuecomment-1865260214) in [square/moshi](https://github.com/square/moshi)
+**2024-02-03** — created branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2023-12-20** — commented on [#1065](https://github.com/slackhq/circuit/issues/1065#issuecomment-1865249220) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1925508568) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-12-20** — opened PR [#1073](https://github.com/slackhq/circuit/pull/1073) to [slackhq/circuit](https://github.com/slackhq/circuit): "Run CI on macOS to cover iOS targets too"
+**2024-02-03** — opened PR [#227](https://github.com/slackhq/slack-lints/pull/227) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Lint 31.4.0 alphas + improve repo infra"
 
-**2023-12-20** — created branch `z/macosCi` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-03** — created branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2023-12-20** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
+
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
 
 **2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 
 **2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
-
-**2021-02-02** — [Disposables Can Cause Memory Leaks](https://www.zacsweers.dev/disposables-can-cause-memory-leaks/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
