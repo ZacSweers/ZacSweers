@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-12** — deleted branch `dependabot/pip/dot-github/workflows/jinja2-3.1.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — opened issue [#1714](https://github.com/google/ksp/issues/1714) on [google/ksp](https://github.com/google/ksp): "[K2] Generated resources are not added to KotlinCompilation inputs"
 
-**2024-01-12** — merged PR [#716](https://github.com/slackhq/slack-gradle-plugin/pull/716) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Bump jinja2 from 3.1.2 to 3.1.3 in /.github/workflows"
+**2024-02-03** — commented on [#264](https://github.com/slackhq/compose-lints/pull/264#issuecomment-1925575502) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-01-12** — created tag `0.15.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-01-11** — deleted branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — merged PR [#737](https://github.com/slackhq/slack-gradle-plugin/pull/737) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.6 + intellij plugin too + raise skate plugin version mins"
 
-**2024-01-11** — merged PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
+**2024-02-03** — opened PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
 
-**2024-01-11** — opened PR [#717](https://github.com/slackhq/slack-gradle-plugin/pull/717) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Extract Skippy to separate, standalone JVM project + CLI"
+**2024-02-03** — created branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
-**2024-01-11** — deleted branch `z/publicResolver` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1925508568) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-11** — merged PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
+**2024-02-03** — opened PR [#227](https://github.com/slackhq/slack-lints/pull/227) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Lint 31.4.0 alphas + improve repo infra"
 
-**2024-01-11** — created branch `z/skippyArtifact` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-03** — created branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-01-11** — opened PR [#715](https://github.com/slackhq/slack-gradle-plugin/pull/715) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Make PropertyResolver public + productionize API a bit"
+**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
