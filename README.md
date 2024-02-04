@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-03** — opened issue [#1714](https://github.com/google/ksp/issues/1714) on [google/ksp](https://github.com/google/ksp): "[K2] Generated resources are not added to KotlinCompilation inputs"
+**2024-02-04** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-03** — commented on [#264](https://github.com/slackhq/compose-lints/pull/264#issuecomment-1925575502) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-04** — merged PR [#130](https://github.com/ZacSweers/ZacSweers/pull/130) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.2"
 
-**2024-02-03** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-04** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-03** — merged PR [#737](https://github.com/slackhq/slack-gradle-plugin/pull/737) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.6 + intellij plugin too + raise skate plugin version mins"
+**2024-02-04** — merged PR [#132](https://github.com/ZacSweers/ZacSweers/pull/132) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.12.0"
 
-**2024-02-03** — opened PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
+**2024-02-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-03** — created branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2024-02-04** — merged PR [#133](https://github.com/ZacSweers/ZacSweers/pull/133) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.25.0"
 
-**2024-02-03** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1925508568) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-04** — deleted branch `renovate/slf4j-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-03** — opened PR [#227](https://github.com/slackhq/slack-lints/pull/227) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Lint 31.4.0 alphas + improve repo infra"
+**2024-02-04** — merged PR [#134](https://github.com/ZacSweers/ZacSweers/pull/134) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.11"
 
-**2024-02-03** — created branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-04** — merged PR [#135](https://github.com/ZacSweers/ZacSweers/pull/135) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.22-1.0.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
