@@ -4,7 +4,6 @@ import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.input.InputMode
 import androidx.compose.ui.input.InputModeManager
-import androidx.compose.ui.platform.DefaultViewConfiguration
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.platform.LocalFontFamilyResolver
 import androidx.compose.ui.platform.LocalInputModeManager
@@ -25,7 +24,7 @@ fun main() {
       CompositionLocalProvider(
         LocalDensity provides Density(1.0f),
         LocalLayoutDirection provides LayoutDirection.Ltr,
-        LocalViewConfiguration provides DefaultViewConfiguration(Density(1.0f)),
+        LocalViewConfiguration provides androidx.compose.ui.platform.DefaultViewConfiguration(Density(1.0f)),
         LocalInputModeManager provides InputModeManagerObject,
         LocalFontFamilyResolver provides fontFamilyResolver
       ) {
