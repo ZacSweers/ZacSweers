@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-04** — opened PR [#141](https://github.com/ZacSweers/ZacSweers/pull/141) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Prepare for K2"
+
+**2024-02-04** — created branch `z/k2` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-02-04** — merged PR [#136](https://github.com/ZacSweers/ZacSweers/pull/136) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update gradle/gradle-build-action action to v3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-02-04** — merged PR [#110](https://github.com/ZacSweers/ZacSweers/pull/110) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.22"
-
-**2024-02-04** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-04** — merged PR [#130](https://github.com/ZacSweers/ZacSweers/pull/130) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
