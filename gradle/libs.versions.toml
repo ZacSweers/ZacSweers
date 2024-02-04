@@ -1,23 +1,23 @@
 [versions]
-compose = "1.5.11"
+compose = "1.5.12"
 jdk = "20"
 kotlin = "1.9.20"
 kotlinx-serialization = "1.6.2"
-ktor = "2.3.7"
+ktor = "2.3.8"
 xmlutil = "0.86.3"
 
 [plugins]
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-ksp = { id = "com.google.devtools.ksp", version = "1.9.22-1.0.16" }
-spotless = { id = "com.diffplug.spotless", version = "6.23.3" }
+ksp = { id = "com.google.devtools.ksp", version = "1.9.22-1.0.17" }
+spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
-clikt = "com.github.ajalt.clikt:clikt:4.2.1"
+clikt = "com.github.ajalt.clikt:clikt:4.2.2"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.8"
-compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.10.0"
-compose-material3 = "org.jetbrains.compose.material3:material3:1.5.11"
+compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.12.0"
+compose-material3 = "org.jetbrains.compose.material3:material3:1.5.12"
 eithernet = "com.slack.eithernet:eithernet:1.8.0"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.5.0"
@@ -31,5 +31,5 @@ ktor-client-engine-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor
 ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
 okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.12"
 okio = "com.squareup.okio:okio:3.7.0"
-slf4jNop = "org.slf4j:slf4j-nop:2.0.10"
+slf4jNop = "org.slf4j:slf4j-nop:2.0.11"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
