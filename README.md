@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-03** — opened PR [#264](https://github.com/slackhq/compose-lints/pull/264) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Prepare for K2"
+**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-02-03** — created branch `z/k2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-03** — merged PR [#222](https://github.com/slackhq/slack-lints/pull/222) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle/gradle-build-action action to v3"
 
-**2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-03** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-02-03** — merged PR [#257](https://github.com/slackhq/compose-lints/pull/257) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update gradle/gradle-build-action action to v3"
+**2024-02-03** — merged PR [#226](https://github.com/slackhq/slack-lints/pull/226) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.6"
 
-**2024-02-03** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-03** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-02-03** — merged PR [#247](https://github.com/slackhq/compose-lints/pull/247) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha07 + Gradle 8.6"
+**2024-02-03** — merged PR [#224](https://github.com/slackhq/slack-lints/pull/224) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5"
 
-**2024-02-03** — deleted branch `renovate/markupsafe-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-03** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-02-03** — merged PR [#262](https://github.com/slackhq/compose-lints/pull/262) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v2.1.5"
+**2024-02-03** — merged PR [#225](https://github.com/slackhq/slack-lints/pull/225) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.5"
 
-**2024-02-03** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-03** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1925488872) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-03** — merged PR [#263](https://github.com/slackhq/compose-lints/pull/263) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.7"
+**2024-02-03** — commented on [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227#issuecomment-1925488622) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
