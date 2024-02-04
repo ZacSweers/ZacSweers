@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911456372) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-04** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-01-25** — commented on [#1123](https://github.com/slackhq/circuit/issues/1123#issuecomment-1911435859) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-04** — merged PR [#130](https://github.com/ZacSweers/ZacSweers/pull/130) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.2.2"
 
-**2024-01-25** — closed issue [#166](https://github.com/slackhq/compose-lints/issues/166) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for ComposeContentEmitterReturningValues"
+**2024-02-04** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-01-25** — created tag `1.3.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-04** — merged PR [#132](https://github.com/ZacSweers/ZacSweers/pull/132) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.12.0"
 
-**2024-01-25** — deleted branch `z/fixTests` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-04** — deleted branch `renovate/com.diffplug.spotless-6.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-01-25** — merged PR [#1151](https://github.com/slackhq/circuit/pull/1151) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix API version"
+**2024-02-04** — merged PR [#133](https://github.com/ZacSweers/ZacSweers/pull/133) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v6.25.0"
 
-**2024-01-25** — deleted branch `z/jdk21` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-04** — deleted branch `renovate/slf4j-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-01-25** — merged PR [#1150](https://github.com/slackhq/circuit/pull/1150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to JDK 21"
+**2024-02-04** — merged PR [#134](https://github.com/ZacSweers/ZacSweers/pull/134) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.11"
 
-**2024-01-25** — deleted branch `cb/fastlane` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+**2024-02-04** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-01-25** — merged PR [#1136](https://github.com/slackhq/circuit/pull/1136) to [slackhq/circuit](https://github.com/slackhq/circuit): "Build iOS samples"
+**2024-02-04** — merged PR [#135](https://github.com/ZacSweers/ZacSweers/pull/135) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.22-1.0.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 

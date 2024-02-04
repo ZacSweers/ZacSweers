@@ -34,6 +34,7 @@ tasks.withType<KotlinCompilationTask<*>>().configureEach {
   compilerOptions {
     progressiveMode.set(true)
     optIn.add("kotlin.ExperimentalStdlibApi")
+    freeCompilerArgs.add("-Xexpect-actual-classes")
 
     if (this is KotlinJvmCompilerOptions) {
       freeCompilerArgs.add("-Xjsr305=strict")
