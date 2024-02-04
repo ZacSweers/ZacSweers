@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-03** — opened issue [#1714](https://github.com/google/ksp/issues/1714) on [google/ksp](https://github.com/google/ksp): "[K2] Generated resources are not added to KotlinCompilation inputs"
+
+**2024-02-03** — commented on [#264](https://github.com/slackhq/compose-lints/pull/264#issuecomment-1925575502) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-02-03** — deleted branch `test-renovate/gradle-8.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-03** — merged PR [#737](https://github.com/slackhq/slack-gradle-plugin/pull/737) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency gradle to v8.6 + intellij plugin too + raise skate plugin version mins"
+
 **2024-02-03** — opened PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
 
 **2024-02-03** — created branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-03** — created branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-02-03** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-03** — merged PR [#222](https://github.com/slackhq/slack-lints/pull/222) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update gradle/gradle-build-action action to v3"
-
-**2024-02-03** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-03** — merged PR [#226](https://github.com/slackhq/slack-lints/pull/226) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.6"
-
-**2024-02-03** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.5` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
