@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-04** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.15.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2024-02-04** — merged PR [#1157](https://github.com/slackhq/circuit/pull/1157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/gradle-build-action action to v3"
 
-**2024-02-04** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.5` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-04** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.17` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2024-02-04** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — merged PR [#104](https://github.com/slackhq/auto-value-kotlin/pull/104) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.15.0 to 1.15.1"
+**2024-02-04** — merged PR [#95](https://github.com/slackhq/auto-value-kotlin/pull/95) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.21 to 1.9.22"
 
-**2024-02-04** — merged PR [#100](https://github.com/slackhq/auto-value-kotlin/pull/100) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.20-1.0.14 to 1.9.22-1.0.17"
+**2024-02-04** — opened PR [#90](https://github.com/square/gradle-dependencies-sorter/pull/90) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix verbose flag in SortDependenciesTask"
 
-**2024-02-04** — merged PR [#105](https://github.com/slackhq/auto-value-kotlin/pull/105) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5"
+**2024-02-04** — created branch `z/fixTask` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
-**2024-02-04** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+**2024-02-04** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — merged PR [#106](https://github.com/slackhq/auto-value-kotlin/pull/106) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
+**2024-02-04** — merged PR [#98](https://github.com/slackhq/auto-value-kotlin/pull/98) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.27.0"
 
-**2024-02-04** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-04** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.7.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — merged PR [#1239](https://github.com/ZacSweers/CatchUp/pull/1239) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-rc01"
+**2024-02-04** — merged PR [#92](https://github.com/slackhq/auto-value-kotlin/pull/92) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.6.0 to 3.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
