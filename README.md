@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-04** — commented on [#1713](https://github.com/google/ksp/issues/1713#issuecomment-1925925662) in [google/ksp](https://github.com/google/ksp)
+**2024-02-04** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-04** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-02-04** — merged PR [#1235](https://github.com/ZacSweers/CatchUp/pull/1235) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.0"
 
-**2024-02-04** — merged PR [#265](https://github.com/slackhq/compose-lints/pull/265) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha07"
+**2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-04** — commented on [#1111](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1111#issuecomment-1925867710) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
+**2024-02-04** — merged PR [#1224](https://github.com/ZacSweers/CatchUp/pull/1224) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gradle/gradle-build-action action to v3"
 
-**2024-02-04** — deleted branch `renovate/ktfmt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-04** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-04** — merged PR [#1206](https://github.com/ZacSweers/CatchUp/pull/1206) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.47"
+**2024-02-04** — merged PR [#1198](https://github.com/ZacSweers/CatchUp/pull/1198) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-beta02"
 
-**2024-02-04** — opened PR [#141](https://github.com/ZacSweers/ZacSweers/pull/141) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Prepare for K2"
+**2024-02-04** — opened issue [#267](https://github.com/slackhq/compose-lints/issues/267) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalUsage doesn't seem to be derring to the allow-list option"
 
-**2024-02-04** — created branch `z/k2` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-02-04** — opened issue [#266](https://github.com/slackhq/compose-lints/issues/266) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalGetter seems to be reporting non-getting fields"
 
-**2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-02-04** — commented on [#260](https://github.com/slackhq/compose-lints/issues/260#issuecomment-1926007529) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-04** — merged PR [#136](https://github.com/ZacSweers/ZacSweers/pull/136) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update gradle/gradle-build-action action to v3"
+**2024-02-04** — closed issue [#260](https://github.com/slackhq/compose-lints/issues/260) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierMissing shouldn't error on preview functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
