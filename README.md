@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-05** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2024-02-05** — merged PR [#529](https://github.com/uber/AutoDispose/pull/529) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
+
+**2024-02-05** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1926305363) in [square/anvil](https://github.com/square/anvil)
+
+**2024-02-05** — opened PR [#91](https://github.com/square/gradle-dependencies-sorter/pull/91) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Switch to Clikt"
+
+**2024-02-05** — created branch `z/clikt` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
 **2024-02-05** — deleted branch `z/clikt` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
 
 **2024-02-05** — commented on [#34](https://github.com/square/gradle-dependencies-sorter/pull/34#issuecomment-1926241567) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-04** — merged PR [#1157](https://github.com/slackhq/circuit/pull/1157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/gradle-build-action action to v3"
 
 **2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-04** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.22` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-02-04** — merged PR [#95](https://github.com/slackhq/auto-value-kotlin/pull/95) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.21 to 1.9.22"
-
-**2024-02-04** — opened PR [#90](https://github.com/square/gradle-dependencies-sorter/pull/90) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix verbose flag in SortDependenciesTask"
-
-**2024-02-04** — created branch `z/fixTask` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2024-02-04** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
