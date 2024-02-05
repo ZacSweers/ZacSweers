@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-05** — deleted branch `z/clikt` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
+
+**2024-02-05** — commented on [#34](https://github.com/square/gradle-dependencies-sorter/pull/34#issuecomment-1926241567) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2024-02-05** — closed PR [#34](https://github.com/square/gradle-dependencies-sorter/pull/34) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Clikt demo!"
+
 **2024-02-04** — merged PR [#1157](https://github.com/slackhq/circuit/pull/1157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/gradle-build-action action to v3"
 
 **2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-04** — created branch `z/fixTask` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-02-04** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.27.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-02-04** — merged PR [#98](https://github.com/slackhq/auto-value-kotlin/pull/98) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.27.0"
-
-**2024-02-04** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.7.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-02-04** — merged PR [#92](https://github.com/slackhq/auto-value-kotlin/pull/92) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.6.0 to 3.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
