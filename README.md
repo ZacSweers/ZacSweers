@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-04** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-04** — deleted branch `dependabot/gradle/com.squareup.moshi-moshi-1.15.1` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — merged PR [#1235](https://github.com/ZacSweers/CatchUp/pull/1235) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.0"
+**2024-02-04** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.5` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-04** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.22-1.0.17` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
-**2024-02-04** — merged PR [#1224](https://github.com/ZacSweers/CatchUp/pull/1224) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update gradle/gradle-build-action action to v3"
+**2024-02-04** — merged PR [#104](https://github.com/slackhq/auto-value-kotlin/pull/104) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.moshi:moshi from 1.15.0 to 1.15.1"
+
+**2024-02-04** — merged PR [#100](https://github.com/slackhq/auto-value-kotlin/pull/100) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.devtools.ksp from 1.9.20-1.0.14 to 1.9.22-1.0.17"
+
+**2024-02-04** — merged PR [#105](https://github.com/slackhq/auto-value-kotlin/pull/105) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.4 to 1.23.5"
+
+**2024-02-04** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2024-02-04** — merged PR [#106](https://github.com/slackhq/auto-value-kotlin/pull/106) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
 
 **2024-02-04** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-04** — merged PR [#1198](https://github.com/ZacSweers/CatchUp/pull/1198) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-beta02"
-
-**2024-02-04** — opened issue [#267](https://github.com/slackhq/compose-lints/issues/267) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalUsage doesn't seem to be derring to the allow-list option"
-
-**2024-02-04** — opened issue [#266](https://github.com/slackhq/compose-lints/issues/266) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalGetter seems to be reporting non-getting fields"
-
-**2024-02-04** — commented on [#260](https://github.com/slackhq/compose-lints/issues/260#issuecomment-1926007529) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-04** — closed issue [#260](https://github.com/slackhq/compose-lints/issues/260) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierMissing shouldn't error on preview functions"
+**2024-02-04** — merged PR [#1239](https://github.com/ZacSweers/CatchUp/pull/1239) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
