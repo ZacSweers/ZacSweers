@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-05** — commented on [#502](https://github.com/slackhq/slack-gradle-plugin/issues/502#issuecomment-1927683037) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-05** — closed issue [#502](https://github.com/slackhq/slack-gradle-plugin/issues/502) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add Upcoming Release Train Relevant Dates (string freeze, release cut, release etc)"
+
+**2024-02-05** — commented on [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510#issuecomment-1927681238) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-05** — closed issue [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add standard IDE plugins as dependencies in skate"
+
 **2024-02-05** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 
 **2024-02-05** — merged PR [#529](https://github.com/uber/AutoDispose/pull/529) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-05** — created branch `z/clikt` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-02-05** — deleted branch `z/clikt` on [ZacSweers/gradle-dependencies-sorter](https://github.com/ZacSweers/gradle-dependencies-sorter)
-
-**2024-02-05** — commented on [#34](https://github.com/square/gradle-dependencies-sorter/pull/34#issuecomment-1926241567) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2024-02-05** — closed PR [#34](https://github.com/square/gradle-dependencies-sorter/pull/34) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Clikt demo!"
-
-**2024-02-04** — merged PR [#1157](https://github.com/slackhq/circuit/pull/1157) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/gradle-build-action action to v3"
-
-**2024-02-04** — deleted branch `renovate/gradle-gradle-build-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
