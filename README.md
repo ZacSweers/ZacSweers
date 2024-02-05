@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-05** — commented on [#268](https://github.com/slackhq/compose-lints/issues/268#issuecomment-1928209693) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-02-05** — commented on [#268](https://github.com/slackhq/compose-lints/issues/268#issuecomment-1927905825) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-05** — deleted branch `z/quietOutput` on [ZacSweers/dependency-guard](https://github.com/ZacSweers/dependency-guard)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-05** — merged PR [#529](https://github.com/uber/AutoDispose/pull/529) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
 
 **2024-02-05** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1926305363) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-05** — opened PR [#91](https://github.com/square/gradle-dependencies-sorter/pull/91) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Switch to Clikt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
