@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-06** — deleted branch `z/dagger250` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-02-06** — deleted branch `z/ksp/contributesSubcomponentGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-02-05** — commented on [#268](https://github.com/slackhq/compose-lints/issues/268#issuecomment-1928209693) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-05** — commented on [#268](https://github.com/slackhq/compose-lints/issues/268#issuecomment-1927905825) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-05** — closed issue [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add standard IDE plugins as dependencies in skate"
 
 **2024-02-05** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
-
-**2024-02-05** — merged PR [#529](https://github.com/uber/AutoDispose/pull/529) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.google.truth:truth from 1.3.0 to 1.4.0"
-
-**2024-02-05** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1926305363) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
