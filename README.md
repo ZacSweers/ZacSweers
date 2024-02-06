@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-06** — commented on [#203](https://github.com/slackhq/compose-lints/issues/203#issuecomment-1930047321) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-02-06** — deleted branch `z/dagger250` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-02-06** — deleted branch `z/ksp/contributesSubcomponentGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-05** — commented on [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510#issuecomment-1927681238) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-05** — closed issue [#510](https://github.com/slackhq/slack-gradle-plugin/issues/510) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add standard IDE plugins as dependencies in skate"
-
-**2024-02-05** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
