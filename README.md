@@ -4,11 +4,9 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-07** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-07** — opened PR [#1189](https://github.com/slackhq/circuit/pull/1189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a couple of inline screenshots of the tutorial UI"
 
-**2024-02-07** — merged PR [#229](https://github.com/slackhq/slack-lints/pull/229) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.4.0-alpha08"
-
-**2024-02-07** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-07** — created branch `z/screenshotsInTutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
