@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-07** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-02-07** — merged PR [#272](https://github.com/slackhq/compose-lints/pull/272) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.8"
+
 **2024-02-07** — commented on [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198#issuecomment-1931317732) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-02-06** — deleted branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-06** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-06** — merged PR [#269](https://github.com/slackhq/compose-lints/pull/269) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha08"
-
-**2024-02-06** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-06** — merged PR [#270](https://github.com/slackhq/compose-lints/pull/270) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha08"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
