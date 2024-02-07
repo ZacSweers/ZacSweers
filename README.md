@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-06** — deleted branch `z/updateDeps` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-02-06** — merged PR [#227](https://github.com/slackhq/slack-lints/pull/227) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to Lint 31.4.0 alphas + improve repo infra"
+
 **2024-02-06** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-02-06** — merged PR [#228](https://github.com/slackhq/slack-lints/pull/228) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.3.0-rc01"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-06** — merged PR [#270](https://github.com/slackhq/compose-lints/pull/270) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha08"
 
 **2024-02-06** — commented on [#203](https://github.com/slackhq/compose-lints/issues/203#issuecomment-1930047321) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-06** — deleted branch `z/dagger250` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-02-06** — deleted branch `z/ksp/contributesSubcomponentGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
