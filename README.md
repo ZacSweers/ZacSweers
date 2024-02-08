@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-08** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-08** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1241](https://github.com/ZacSweers/CatchUp/pull/1241) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.9.0-alpha03"
+**2024-02-08** — merged PR [#1255](https://github.com/ZacSweers/CatchUp/pull/1255) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.247.0"
 
-**2024-02-08** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-08** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1242](https://github.com/ZacSweers/CatchUp/pull/1242) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha05"
+**2024-02-08** — merged PR [#1254](https://github.com/ZacSweers/CatchUp/pull/1254) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.2.0"
 
-**2024-02-08** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-08** — deleted branch `renovate/androidx.profileinstaller-profileinstaller-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1243](https://github.com/ZacSweers/CatchUp/pull/1243) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.1"
+**2024-02-08** — merged PR [#1253](https://github.com/ZacSweers/CatchUp/pull/1253) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-alpha01"
 
-**2024-02-08** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-08** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1244](https://github.com/ZacSweers/CatchUp/pull/1244) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0"
+**2024-02-08** — merged PR [#1252](https://github.com/ZacSweers/CatchUp/pull/1252) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.1"
 
-**2024-02-08** — deleted branch `renovate/androidx.browser-browser-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-08** — deleted branch `renovate/androidx.window-window-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1245](https://github.com/ZacSweers/CatchUp/pull/1245) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.8.0-beta02"
+**2024-02-08** — merged PR [#1251](https://github.com/ZacSweers/CatchUp/pull/1251) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.3.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
