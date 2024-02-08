@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-08** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-08** — merged PR [#1142](https://github.com/slackhq/circuit/pull/1142) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.34.0"
+
 **2024-02-07** — merged PR [#1189](https://github.com/slackhq/circuit/pull/1189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a couple of inline screenshots of the tutorial UI"
 
 **2024-02-07** — deleted branch `z/screenshotsInTutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
