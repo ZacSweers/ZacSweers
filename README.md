@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-08** — deleted branch `renovate/accompanist` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-08** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-08** — merged PR [#1142](https://github.com/slackhq/circuit/pull/1142) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update accompanist to v0.34.0"
+**2024-02-08** — merged PR [#1241](https://github.com/ZacSweers/CatchUp/pull/1241) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.9.0-alpha03"
 
-**2024-02-07** — merged PR [#1189](https://github.com/slackhq/circuit/pull/1189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a couple of inline screenshots of the tutorial UI"
+**2024-02-08** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-07** — deleted branch `z/screenshotsInTutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-08** — merged PR [#1242](https://github.com/ZacSweers/CatchUp/pull/1242) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-alpha05"
 
-**2024-02-07** — opened PR [#1189](https://github.com/slackhq/circuit/pull/1189) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a couple of inline screenshots of the tutorial UI"
+**2024-02-08** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-07** — created branch `z/screenshotsInTutorial` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-08** — merged PR [#1243](https://github.com/ZacSweers/CatchUp/pull/1243) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.6.1"
+
+**2024-02-08** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-08** — merged PR [#1244](https://github.com/ZacSweers/CatchUp/pull/1244) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.0"
+
+**2024-02-08** — deleted branch `renovate/androidx.browser-browser-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-08** — merged PR [#1245](https://github.com/ZacSweers/CatchUp/pull/1245) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.8.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
