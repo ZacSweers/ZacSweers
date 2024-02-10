@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-10** — commented on [#551](https://github.com/ZacSweers/MoshiX/issues/551#issuecomment-1937095681) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-10** — closed issue [#551](https://github.com/ZacSweers/MoshiX/issues/551) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Compilation fails if class contains a private field"
+
 **2024-02-10** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-10** — merged PR [#277](https://github.com/slackhq/compose-lints/pull/277) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.9"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-09** — merged PR [#232](https://github.com/slackhq/slack-lints/pull/232) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.4.0-alpha09"
 
 **2024-02-09** — merged PR [#231](https://github.com/slackhq/slack-lints/pull/231) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.4.0-alpha09"
-
-**2024-02-09** — merged PR [#276](https://github.com/slackhq/compose-lints/pull/276) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha09"
-
-**2024-02-09** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
