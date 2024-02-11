@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-11** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1937774752) in [google/ksp](https://github.com/google/ksp)
+
 **2024-02-11** — opened PR [#1196](https://github.com/slackhq/circuit/pull/1196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Significantly improve FakeNavigator + small API updates around it and Navigator"
 
 **2024-02-11** — created branch `z/fakeNavWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-09** — created branch `z/interopImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-09** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-09** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
