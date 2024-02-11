@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-11** — opened PR [#1196](https://github.com/slackhq/circuit/pull/1196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Significantly improve FakeNavigator + small API updates around it and Navigator"
+
+**2024-02-11** — created branch `z/fakeNavWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-10** — commented on [#551](https://github.com/ZacSweers/MoshiX/issues/551#issuecomment-1937095681) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-02-10** — closed issue [#551](https://github.com/ZacSweers/MoshiX/issues/551) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Compilation fails if class contains a private field"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-09** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-02-09** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-09** — merged PR [#232](https://github.com/slackhq/slack-lints/pull/232) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.4.0-alpha09"
-
-**2024-02-09** — merged PR [#231](https://github.com/slackhq/slack-lints/pull/231) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.4.0-alpha09"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
