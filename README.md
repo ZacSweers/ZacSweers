@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-12** — opened issue [#351](https://github.com/evant/kotlin-inject/issues/351) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Feature request - support deferring to superclass component properties"
+
+**2024-02-12** — created tag `0.19.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-12** — deleted branch `bot/update-baseline-profiles-1707762798` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-12** — merged PR [#1205](https://github.com/slackhq/circuit/pull/1205) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update baseline profiles"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-12** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1938983551) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-12** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-12** — merged PR [#143](https://github.com/ZacSweers/ZacSweers/pull/143) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.8.0"
-
-**2024-02-12** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
