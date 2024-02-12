@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-12** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-12** — merged PR [#1261](https://github.com/ZacSweers/CatchUp/pull/1261) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.9.1"
+
 **2024-02-12** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1938983551) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-12** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-12** — created branch `z/improvedCodeGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-11** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-11** — merged PR [#1260](https://github.com/ZacSweers/CatchUp/pull/1260) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.8.1"
-
-**2024-02-11** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
