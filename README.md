@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-12** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-02-12** — merged PR [#143](https://github.com/ZacSweers/ZacSweers/pull/143) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.8.0"
+
+**2024-02-12** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-02-12** — merged PR [#144](https://github.com/ZacSweers/ZacSweers/pull/144) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.8.1"
+
 **2024-02-12** — opened PR [#1197](https://github.com/slackhq/circuit/pull/1197) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype support for kotlin-inject"
 
 **2024-02-12** — created branch `z/improvedCodeGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-11** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-11** — merged PR [#1236](https://github.com/ZacSweers/CatchUp/pull/1236) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.35.0-alpha"
-
-**2024-02-11** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-11** — merged PR [#1256](https://github.com/ZacSweers/CatchUp/pull/1256) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.19.0"
-
-**2024-02-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-11** — merged PR [#1240](https://github.com/ZacSweers/CatchUp/pull/1240) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha09"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
