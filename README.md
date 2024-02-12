@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-11** — merged PR [#1240](https://github.com/ZacSweers/CatchUp/pull/1240) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha09"
+
+**2024-02-11** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-11** — merged PR [#1257](https://github.com/ZacSweers/CatchUp/pull/1257) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.9.0"
+
+**2024-02-11** — deleted branch `renovate/org.gradle.android.cache-fix-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-11** — merged PR [#1258](https://github.com/ZacSweers/CatchUp/pull/1258) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin cacheFixPlugin to v3.0.1"
+
+**2024-02-11** — deleted branch `renovate/okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-11** — merged PR [#1259](https://github.com/ZacSweers/CatchUp/pull/1259) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.8.0"
+
 **2024-02-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.8.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2024-02-11** — merged PR [#107](https://github.com/slackhq/auto-value-kotlin/pull/107) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.7.0 to 3.8.0"
-
-**2024-02-11** — created tag `1.8.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-02-11** — deleted branch `z/testFixturesPublishing` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-02-11** — merged PR [#73](https://github.com/slackhq/EitherNet/pull/73) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Try fixing doc publishing for test fixtures"
-
-**2024-02-11** — deleted branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-02-11** — merged PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
-
-**2024-02-11** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1937774752) in [google/ksp](https://github.com/google/ksp)
-
-**2024-02-11** — opened PR [#1196](https://github.com/slackhq/circuit/pull/1196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Significantly improve FakeNavigator + small API updates around it and Navigator"
-
-**2024-02-11** — created branch `z/fakeNavWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
