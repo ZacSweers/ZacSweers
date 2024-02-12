@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-11** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.8.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
+
+**2024-02-11** — merged PR [#107](https://github.com/slackhq/auto-value-kotlin/pull/107) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.squareup.okio:okio from 3.7.0 to 3.8.0"
+
+**2024-02-11** — created tag `1.8.1` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-02-11** — deleted branch `z/testFixturesPublishing` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-02-11** — merged PR [#73](https://github.com/slackhq/EitherNet/pull/73) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Try fixing doc publishing for test fixtures"
+
 **2024-02-11** — deleted branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2024-02-11** — merged PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-11** — opened PR [#1196](https://github.com/slackhq/circuit/pull/1196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Significantly improve FakeNavigator + small API updates around it and Navigator"
 
 **2024-02-11** — created branch `z/fakeNavWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-10** — commented on [#551](https://github.com/ZacSweers/MoshiX/issues/551#issuecomment-1937095681) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-02-10** — closed issue [#551](https://github.com/ZacSweers/MoshiX/issues/551) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Compilation fails if class contains a private field"
-
-**2024-02-10** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-10** — merged PR [#277](https://github.com/slackhq/compose-lints/pull/277) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.9"
-
-**2024-02-09** — opened PR [#1193](https://github.com/slackhq/circuit/pull/1193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revamp interop sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
