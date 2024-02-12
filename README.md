@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-12** — opened PR [#1197](https://github.com/slackhq/circuit/pull/1197) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype support for kotlin-inject"
+
+**2024-02-12** — created branch `z/improvedCodeGen` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-11** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-11** — merged PR [#1260](https://github.com/ZacSweers/CatchUp/pull/1260) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.8.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-11** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-11** — merged PR [#1240](https://github.com/ZacSweers/CatchUp/pull/1240) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha09"
-
-**2024-02-11** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-11** — merged PR [#1257](https://github.com/ZacSweers/CatchUp/pull/1257) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
