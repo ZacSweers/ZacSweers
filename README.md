@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-11** — deleted branch `z/updateInfra` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-02-11** — merged PR [#75](https://github.com/slackhq/EitherNet/pull/75) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update misc repo infra"
+
 **2024-02-11** — commented on [#1604](https://github.com/google/ksp/issues/1604#issuecomment-1937774752) in [google/ksp](https://github.com/google/ksp)
 
 **2024-02-11** — opened PR [#1196](https://github.com/slackhq/circuit/pull/1196) to [slackhq/circuit](https://github.com/slackhq/circuit): "Significantly improve FakeNavigator + small API updates around it and Navigator"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-10** — merged PR [#277](https://github.com/slackhq/compose-lints/pull/277) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.9"
 
 **2024-02-09** — opened PR [#1193](https://github.com/slackhq/circuit/pull/1193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revamp interop sample"
-
-**2024-02-09** — created branch `z/interopImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-09** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
