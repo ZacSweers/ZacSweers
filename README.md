@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-13** — opened issue [#381](https://github.com/runningcode/fladle/issues/381) on [runningcode/fladle](https://github.com/runningcode/fladle): "flankAuth task is not compatible with configuration cache"
+
 **2024-02-12** — deleted branch `z/updateLInt` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-12** — merged PR [#1207](https://github.com/slackhq/circuit/pull/1207) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update lint to 8.4 alphas"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-12** — created branch `z/gradleImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-12** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1939582306) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-12** — opened issue [#351](https://github.com/evant/kotlin-inject/issues/351) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Feature request - support deferring to superclass component properties"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
