@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-14** — commented on [#92](https://github.com/square/gradle-dependencies-sorter/pull/92#issuecomment-1943203603) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2024-02-14** — closed PR [#92](https://github.com/square/gradle-dependencies-sorter/pull/92) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Adds the gradle.properties VERSION to jar artifacts"
+
 **2024-02-14** — commented on [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227#issuecomment-1943162141) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2024-02-14** — closed issue [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Kotlin 2.0.0-Beta3 Support"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-13** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-02-13** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.8.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-02-13** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.12` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-02-13** — merged PR [#115](https://github.com/slackhq/kotlin-cli-util/pull/115) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.7.0 to 3.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
