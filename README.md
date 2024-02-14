@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-13** — deleted branch `dependabot/gradle/com.slack.eithernet-eithernet-1.8.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-02-13** — closed PR [#234](https://github.com/slackhq/slack-lints/pull/234) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Bump com.slack.eithernet:eithernet from 1.8.0 to 1.8.1"
+
+**2024-02-13** — deleted branch `renovate/com.slack.eithernet` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-02-13** — merged PR [#233](https://github.com/slackhq/slack-lints/pull/233) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v1.8.1"
+
+**2024-02-13** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-13** — merged PR [#550](https://github.com/ZacSweers/MoshiX/pull/550) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.25.3"
+
+**2024-02-13** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-1943011656) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-02-13** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-1943008668) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-02-13** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-02-13** — closed PR [#211](https://github.com/ZacSweers/kotlin-compile-testing/pull/211) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v241.12019"
-
-**2024-02-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-13** — closed PR [#216](https://github.com/ZacSweers/kotlin-compile-testing/pull/216) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2024-02-13** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-02-13** — merged PR [#217](https://github.com/ZacSweers/kotlin-compile-testing/pull/217) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.8.0"
-
-**2024-02-13** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-1942987046) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-13** — commented on [#136](https://github.com/slackhq/keeper/issues/136#issuecomment-1942893258) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-02-13** — closed issue [#136](https://github.com/slackhq/keeper/issues/136) on [slackhq/keeper](https://github.com/slackhq/keeper): "Crash building with FAIL_ON_PROJECT_REPOS config"
-
-**2024-02-13** — opened issue [#381](https://github.com/runningcode/fladle/issues/381) on [runningcode/fladle](https://github.com/runningcode/fladle): "flankAuth task is not compatible with configuration cache"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
