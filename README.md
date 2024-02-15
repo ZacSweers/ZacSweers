@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-15** — created branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-02-15** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-15** — merged PR [#1264](https://github.com/ZacSweers/CatchUp/pull/1264) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.30.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-14** — commented on [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227#issuecomment-1943162141) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2024-02-14** — closed issue [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Kotlin 2.0.0-Beta3 Support"
-
-**2024-02-14** — commented on [#351](https://github.com/evant/kotlin-inject/issues/351#issuecomment-1943157544) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
