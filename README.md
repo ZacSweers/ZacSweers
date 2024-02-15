@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-15** — opened PR [#1209](https://github.com/slackhq/circuit/pull/1209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for compose 1.6"
+
+**2024-02-15** — created branch `z/compose16prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-14** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1944480538) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-14** — commented on [#92](https://github.com/square/gradle-dependencies-sorter/pull/92#issuecomment-1943203603) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-14** — opened issue [#1733](https://github.com/google/ksp/issues/1733) on [google/ksp](https://github.com/google/ksp): "ABI incompatibility with kotlin-compiler-embeddable in 2.0.0-Beta4"
 
 **2024-02-13** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-13** — merged PR [#1262](https://github.com/ZacSweers/CatchUp/pull/1262) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.19.1"
-
-**2024-02-13** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
