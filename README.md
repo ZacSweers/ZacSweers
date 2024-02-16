@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-16** — opened PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Implement module gen in ContributesBindingCodeGen"
+
 **2024-02-15** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1947481798) in [google/ksp](https://github.com/google/ksp)
 
 **2024-02-15** — created branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-14** — commented on [#92](https://github.com/square/gradle-dependencies-sorter/pull/92#issuecomment-1943203603) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-02-14** — closed PR [#92](https://github.com/square/gradle-dependencies-sorter/pull/92) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Adds the gradle.properties VERSION to jar artifacts"
-
-**2024-02-14** — commented on [#4227](https://github.com/JetBrains/compose-multiplatform/issues/4227#issuecomment-1943162141) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
