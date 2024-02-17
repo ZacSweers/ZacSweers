@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-16** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1949576490) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-02-16** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1949568180) in [square/anvil](https://github.com/square/anvil)
+
 **2024-02-16** — commented on [#744](https://github.com/slackhq/slack-gradle-plugin/pull/744#issuecomment-1949113063) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-16** — opened PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Implement module gen in ContributesBindingCodeGen"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-15** — opened PR [#1209](https://github.com/slackhq/circuit/pull/1209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for compose 1.6"
 
 **2024-02-15** — created branch `z/compose16prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-14** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-1944480538) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-14** — commented on [#92](https://github.com/square/gradle-dependencies-sorter/pull/92#issuecomment-1943203603) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
