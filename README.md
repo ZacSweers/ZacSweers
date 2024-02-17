@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-17** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1263](https://github.com/ZacSweers/CatchUp/pull/1263) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.2"
-
-**2024-02-17** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1265](https://github.com/ZacSweers/CatchUp/pull/1265) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.8.0"
-
-**2024-02-17** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1266](https://github.com/ZacSweers/CatchUp/pull/1266) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.8.1"
-
-**2024-02-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1267](https://github.com/ZacSweers/CatchUp/pull/1267) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha10"
-
-**2024-02-17** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1268](https://github.com/ZacSweers/CatchUp/pull/1268) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.1"
+**2024-02-17** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
