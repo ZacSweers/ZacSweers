@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-17** — deleted branch `cb/retained-rememberobserver` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-02-17** — merged PR [#1210](https://github.com/slackhq/circuit/pull/1210) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable RememberObserver to work with rememberRetained"
+
 **2024-02-17** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-17** — merged PR [#1263](https://github.com/ZacSweers/CatchUp/pull/1263) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-17** — merged PR [#1267](https://github.com/ZacSweers/CatchUp/pull/1267) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha10"
-
-**2024-02-17** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-17** — merged PR [#1268](https://github.com/ZacSweers/CatchUp/pull/1268) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
