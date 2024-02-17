@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-16** — commented on [#175](https://github.com/slackhq/slack-lints/pull/175#issuecomment-1949576490) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-02-17** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-16** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1949568180) in [square/anvil](https://github.com/square/anvil)
+**2024-02-17** — merged PR [#1263](https://github.com/ZacSweers/CatchUp/pull/1263) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.2"
 
-**2024-02-16** — commented on [#744](https://github.com/slackhq/slack-gradle-plugin/pull/744#issuecomment-1949113063) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-17** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-16** — opened PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Implement module gen in ContributesBindingCodeGen"
+**2024-02-17** — merged PR [#1265](https://github.com/ZacSweers/CatchUp/pull/1265) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.8.0"
 
-**2024-02-15** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1947481798) in [google/ksp](https://github.com/google/ksp)
+**2024-02-17** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-15** — created branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-02-17** — merged PR [#1266](https://github.com/ZacSweers/CatchUp/pull/1266) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.8.1"
 
-**2024-02-15** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-15** — merged PR [#1264](https://github.com/ZacSweers/CatchUp/pull/1264) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.30.0"
+**2024-02-17** — merged PR [#1267](https://github.com/ZacSweers/CatchUp/pull/1267) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha10"
 
-**2024-02-15** — opened PR [#1209](https://github.com/slackhq/circuit/pull/1209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for compose 1.6"
+**2024-02-17** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-02-15** — created branch `z/compose16prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-02-17** — merged PR [#1268](https://github.com/ZacSweers/CatchUp/pull/1268) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
