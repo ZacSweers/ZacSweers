@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-18** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-18** — merged PR [#1271](https://github.com/ZacSweers/CatchUp/pull/1271) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.8.0"
+
+**2024-02-18** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-18** — merged PR [#1272](https://github.com/ZacSweers/CatchUp/pull/1272) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.3"
+
 **2024-02-17** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-17** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-17** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-02-17** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-02-17** — merged PR [#235](https://github.com/slackhq/slack-lints/pull/235) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.4.0-alpha10"
-
-**2024-02-17** — merged PR [#236](https://github.com/slackhq/slack-lints/pull/236) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.4.0-alpha10"
-
-**2024-02-17** — opened issue [#441](https://github.com/facebook/ktfmt/issues/441) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Feature request: GraalVM artifacts"
-
-**2024-02-17** — deleted branch `z/demoComposeBugs` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
