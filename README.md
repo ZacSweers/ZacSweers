@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-19** — opened PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
+
+**2024-02-19** — created branch `z/eventListenerDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-19** — created tag `0.15.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-19** — deleted branch `z/fixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — merged PR [#142](https://github.com/ZacSweers/ZacSweers/pull/142) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.12"
 
 **2024-02-19** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-19** — merged PR [#145](https://github.com/ZacSweers/ZacSweers/pull/145) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.0"
-
-**2024-02-19** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
