@@ -2,7 +2,7 @@
 compose = "1.5.12"
 jdk = "21"
 kotlin = "2.0.0-Beta3"
-kotlinx-serialization = "1.6.2"
+kotlinx-serialization = "1.6.3"
 ktor = "2.3.8"
 xmlutil = "0.86.3"
 
@@ -18,8 +18,8 @@ clikt = "com.github.ajalt.clikt:clikt:4.2.2"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.6-dev2-kt2.0.0-Beta3"
 compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.12.0"
 compose-material3 = "org.jetbrains.compose.material3:material3:1.5.12"
-eithernet = "com.slack.eithernet:eithernet:1.8.0"
-kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
+eithernet = "com.slack.eithernet:eithernet:1.8.1"
+kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.5.0"
 kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json-okio", version.ref = "kotlinx-serialization" }
 kotlinx-serialization-xml-core = { module = "io.github.pdvrieze.xmlutil:core", version.ref = "xmlutil" }
@@ -30,6 +30,6 @@ ktor-client-engine-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref
 ktor-client-engine-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
 okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.12"
-okio = "com.squareup.okio:okio:3.7.0"
-slf4jNop = "org.slf4j:slf4j-nop:2.0.11"
+okio = "com.squareup.okio:okio:3.8.0"
+slf4jNop = "org.slf4j:slf4j-nop:2.0.12"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
