@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-19** — merged PR [#1273](https://github.com/ZacSweers/CatchUp/pull/1273) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.4"
+
 **2024-02-19** — opened PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
 
 **2024-02-19** — created branch `z/eventListenerDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — merged PR [#746](https://github.com/slackhq/slack-gradle-plugin/pull/746) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove `-Xproper-ieee754-comparisons`"
 
 **2024-02-19** — deleted branch `renovate/slf4j-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-19** — merged PR [#142](https://github.com/ZacSweers/ZacSweers/pull/142) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.12"
-
-**2024-02-19** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
