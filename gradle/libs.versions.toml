@@ -2,7 +2,7 @@
 compose = "1.5.12"
 jdk = "21"
 kotlin = "1.9.22"
-kotlinx-serialization = "1.6.2"
+kotlinx-serialization = "1.6.3"
 ktor = "2.3.8"
 xmlutil = "0.86.3"
 
