@@ -1,7 +1,7 @@
 [versions]
-compose = "1.5.12"
+compose = "1.6.0-rc02"
 jdk = "21"
-kotlin = "2.0.0-Beta3"
+kotlin = "2.0.0-Beta4"
 kotlinx-serialization = "1.6.3"
 ktor = "2.3.8"
 xmlutil = "0.86.3"
@@ -15,7 +15,7 @@ spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 [libraries]
 clikt = "com.github.ajalt.clikt:clikt:4.2.2"
 # https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-compatibility-and-versioning.html#use-a-developer-version-of-compose-multiplatform-compiler
-compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.6-dev2-kt2.0.0-Beta3"
+compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.9-kt-2.0.0-Beta4"
 compose-markdown = "com.mikepenz:multiplatform-markdown-renderer:0.12.0"
 compose-material3 = "org.jetbrains.compose.material3:material3:1.5.12"
 eithernet = "com.slack.eithernet:eithernet:1.8.1"
