@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-19** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.1` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2024-02-19** — merged PR [#78](https://github.com/slackhq/moshi-gson-interop/pull/78) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.1.5 to 1.4.1"
+
 **2024-02-18** — opened PR [#746](https://github.com/slackhq/slack-gradle-plugin/pull/746) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove `-Xproper-ieee754-comparisons`"
 
 **2024-02-18** — created branch `z/removeArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-17** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-17** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-17** — merged PR [#278](https://github.com/slackhq/compose-lints/pull/278) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha10"
-
-**2024-02-17** — merged PR [#279](https://github.com/slackhq/compose-lints/pull/279) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
