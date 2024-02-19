@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-19** — created tag `0.15.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-19** — deleted branch `z/fixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-19** — merged PR [#734](https://github.com/slackhq/slack-gradle-plugin/pull/734) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Small fixes"
+
+**2024-02-19** — deleted branch `z/removeArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-19** — merged PR [#746](https://github.com/slackhq/slack-gradle-plugin/pull/746) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove `-Xproper-ieee754-comparisons`"
+
 **2024-02-19** — deleted branch `renovate/slf4j-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-02-19** — merged PR [#142](https://github.com/ZacSweers/ZacSweers/pull/142) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.12"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — merged PR [#145](https://github.com/ZacSweers/ZacSweers/pull/145) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.0"
 
 **2024-02-19** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-19** — merged PR [#146](https://github.com/ZacSweers/ZacSweers/pull/146) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.8.1"
-
-**2024-02-19** — merged PR [#147](https://github.com/ZacSweers/ZacSweers/pull/147) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.6.3"
-
-**2024-02-19** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-02-19** — commented on [#4293](https://github.com/JetBrains/compose-multiplatform/issues/4293#issuecomment-1952774074) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-
-**2024-02-19** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
