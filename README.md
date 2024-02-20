@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-20** — opened issue [#880](https://github.com/square/anvil/issues/880) on [square/anvil](https://github.com/square/anvil): "Stub gen FileNotFoundException with new file tracking enabled"
+
 **2024-02-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-19** — merged PR [#1273](https://github.com/ZacSweers/CatchUp/pull/1273) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — deleted branch `z/removeArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-19** — merged PR [#746](https://github.com/slackhq/slack-gradle-plugin/pull/746) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove `-Xproper-ieee754-comparisons`"
-
-**2024-02-19** — deleted branch `renovate/slf4j-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
