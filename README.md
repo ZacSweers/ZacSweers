@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-20** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1955845829) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-20** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1955842492) in [google/ksp](https://github.com/google/ksp)
+
 **2024-02-20** — commented on [#821](https://github.com/square/anvil/issues/821#issuecomment-1954906563) in [square/anvil](https://github.com/square/anvil)
 
 **2024-02-20** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-1954905235) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — merged PR [#1273](https://github.com/ZacSweers/CatchUp/pull/1273) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.4"
 
 **2024-02-19** — opened PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
-
-**2024-02-19** — created branch `z/eventListenerDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-19** — created tag `0.15.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
