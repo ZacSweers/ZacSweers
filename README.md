@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-21** — commented on [#1223](https://github.com/slackhq/circuit/pull/1223#issuecomment-1957414060) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-21** — opened PR [#1223](https://github.com/slackhq/circuit/pull/1223) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ToastEffect"
+
+**2024-02-21** — created branch `z/toastEffect` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-21** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1956744549) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-20** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1955845829) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-20** — deleted branch `z/eventListenerDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-20** — merged PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
-
-**2024-02-20** — opened issue [#880](https://github.com/square/anvil/issues/880) on [square/anvil](https://github.com/square/anvil): "Stub gen FileNotFoundException with new file tracking enabled"
-
-**2024-02-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-19** — merged PR [#1273](https://github.com/ZacSweers/CatchUp/pull/1273) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
