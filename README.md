@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-21** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1956744549) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-20** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1955845829) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-20** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1955842492) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-19** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-19** — merged PR [#1273](https://github.com/ZacSweers/CatchUp/pull/1273) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.4"
-
-**2024-02-19** — opened PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
