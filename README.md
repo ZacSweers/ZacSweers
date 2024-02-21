@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-21** — opened PR [#747](https://github.com/slackhq/slack-gradle-plugin/pull/747) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Broaden anvil KSP support controls"
+
+**2024-02-21** — created branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-21** — deleted branch `z/toastEffect` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-02-21** — merged PR [#1223](https://github.com/slackhq/circuit/pull/1223) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ToastEffect"
+
 **2024-02-21** — commented on [#1223](https://github.com/slackhq/circuit/pull/1223#issuecomment-1957414060) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-21** — opened PR [#1223](https://github.com/slackhq/circuit/pull/1223) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ToastEffect"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-20** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1955845829) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-20** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1955842492) in [google/ksp](https://github.com/google/ksp)
-
-**2024-02-20** — commented on [#821](https://github.com/square/anvil/issues/821#issuecomment-1954906563) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-20** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-1954905235) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-20** — deleted branch `z/eventListenerDocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-20** — merged PR [#1221](https://github.com/slackhq/circuit/pull/1221) to [slackhq/circuit](https://github.com/slackhq/circuit): "Link post on EventListener"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
