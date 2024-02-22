@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-21** — opened PR [#747](https://github.com/slackhq/slack-gradle-plugin/pull/747) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Broaden anvil KSP support controls"
-
-**2024-02-21** — created branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-02-21** — deleted branch `z/toastEffect` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-21** — merged PR [#1223](https://github.com/slackhq/circuit/pull/1223) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ToastEffect"
-
-**2024-02-21** — commented on [#1223](https://github.com/slackhq/circuit/pull/1223#issuecomment-1957414060) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-21** — opened PR [#1223](https://github.com/slackhq/circuit/pull/1223) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement ToastEffect"
-
-**2024-02-21** — created branch `z/toastEffect` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-21** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1956744549) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-20** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1955845829) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-20** — commented on [#1733](https://github.com/google/ksp/issues/1733#issuecomment-1955842492) in [google/ksp](https://github.com/google/ksp)
+**2024-02-22** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
