@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-22** — deleted branch `renovate/future-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-02-22** — merged PR [#283](https://github.com/slackhq/compose-lints/pull/283) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency future to v1"
+
 **2024-02-22** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — merged PR [#1274](https://github.com/ZacSweers/CatchUp/pull/1274) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha03"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — deleted branch `renovate/androidx.test.uiautomator-uiautomator-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — merged PR [#1277](https://github.com/ZacSweers/CatchUp/pull/1277) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.uiautomator:uiautomator to v2.3.0"
-
-**2024-02-22** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-22** — merged PR [#1279](https://github.com/ZacSweers/CatchUp/pull/1279) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
