@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-22** — deleted branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-22** — merged PR [#747](https://github.com/slackhq/slack-gradle-plugin/pull/747) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Broaden anvil KSP support controls"
+
 **2024-02-22** — commented on [#1278](https://github.com/ZacSweers/CatchUp/pull/1278#issuecomment-1960122709) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — opened PR [#1281](https://github.com/ZacSweers/CatchUp/pull/1281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro lint issue"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — merged PR [#1274](https://github.com/ZacSweers/CatchUp/pull/1274) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha03"
 
 **2024-02-22** — deleted branch `renovate/androidx.browser-browser-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-22** — merged PR [#1275](https://github.com/ZacSweers/CatchUp/pull/1275) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.8.0-rc01"
-
-**2024-02-22** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
