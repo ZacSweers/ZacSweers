@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-22** — merged PR [#1282](https://github.com/ZacSweers/CatchUp/pull/1282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha11"
+
 **2024-02-22** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-1960358195) in [square/anvil](https://github.com/square/anvil)
 
 **2024-02-22** — deleted branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — deleted branch `renovate/future-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-22** — merged PR [#283](https://github.com/slackhq/compose-lints/pull/283) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency future to v1"
-
-**2024-02-22** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-22** — merged PR [#1274](https://github.com/ZacSweers/CatchUp/pull/1274) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
