@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-23** — merged PR [#1283](https://github.com/ZacSweers/CatchUp/pull/1283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove deprecated `lifecycle.extensions`"
+
 **2024-02-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — merged PR [#1282](https://github.com/ZacSweers/CatchUp/pull/1282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha11"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — created branch `z/reproLintIssue` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — deleted branch `renovate/future-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-22** — merged PR [#283](https://github.com/slackhq/compose-lints/pull/283) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency future to v1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
