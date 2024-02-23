@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-23** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-23** — merged PR [#1278](https://github.com/ZacSweers/CatchUp/pull/1278) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-alpha02"
+
 **2024-02-23** — merged PR [#1283](https://github.com/ZacSweers/CatchUp/pull/1283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove deprecated `lifecycle.extensions`"
 
 **2024-02-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — commented on [#1278](https://github.com/ZacSweers/CatchUp/pull/1278#issuecomment-1960122709) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — opened PR [#1281](https://github.com/ZacSweers/CatchUp/pull/1281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro lint issue"
-
-**2024-02-22** — created branch `z/reproLintIssue` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-22** — deleted branch `renovate/future-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
