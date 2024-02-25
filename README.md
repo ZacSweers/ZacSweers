@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-25** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1963099141) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-23** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-23** — merged PR [#1284](https://github.com/ZacSweers/CatchUp/pull/1284) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.6.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-1960358195) in [square/anvil](https://github.com/square/anvil)
 
 **2024-02-22** — deleted branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-02-22** — merged PR [#747](https://github.com/slackhq/slack-gradle-plugin/pull/747) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Broaden anvil KSP support controls"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
