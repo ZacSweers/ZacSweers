@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-26** — opened PR [#886](https://github.com/square/anvil/pull/886) to [square/anvil](https://github.com/square/anvil): "Wire up gradle to backend options + add future component merging backend option for future use"
+
+**2024-02-26** — created branch `z/backendOption` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-02-25** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1963099141) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-23** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-22** — merged PR [#1282](https://github.com/ZacSweers/CatchUp/pull/1282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha11"
-
-**2024-02-22** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-1960358195) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-22** — deleted branch `z/betterKspSupport` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
