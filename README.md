@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-26** — commented on [#886](https://github.com/square/anvil/pull/886#issuecomment-1965091175) in [square/anvil](https://github.com/square/anvil)
+
 **2024-02-26** — opened PR [#886](https://github.com/square/anvil/pull/886) to [square/anvil](https://github.com/square/anvil): "Wire up gradle to backend options + add future component merging backend option for future use"
 
 **2024-02-26** — created branch `z/backendOption` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-23** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-23** — merged PR [#1278](https://github.com/ZacSweers/CatchUp/pull/1278) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-alpha02"
-
-**2024-02-23** — merged PR [#1283](https://github.com/ZacSweers/CatchUp/pull/1283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove deprecated `lifecycle.extensions`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
