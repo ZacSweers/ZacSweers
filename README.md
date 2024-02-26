@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-23** — merged PR [#1283](https://github.com/ZacSweers/CatchUp/pull/1283) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove deprecated `lifecycle.extensions`"
 
 **2024-02-22** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-22** — merged PR [#1282](https://github.com/ZacSweers/CatchUp/pull/1282) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
