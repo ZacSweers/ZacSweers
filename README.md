@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-26** — commented on [#821](https://github.com/square/anvil/issues/821#issuecomment-1965425277) in [square/anvil](https://github.com/square/anvil)
+
+**2024-02-26** — deleted branch `z/gradleLints` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-26** — merged PR [#750](https://github.com/slackhq/slack-gradle-plugin/pull/750) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate lint into the project"
+
 **2024-02-26** — opened PR [#750](https://github.com/slackhq/slack-gradle-plugin/pull/750) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate lint into the project"
 
 **2024-02-26** — created branch `z/gradleLints` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-26** — closed PR [#829](https://github.com/square/anvil/pull/829) to [square/anvil](https://github.com/square/anvil): "WIP migrate away from BindingModuleGenerator"
 
 **2024-02-26** — deleted branch `renovate/com.jakewharton-process-phoenix-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-26** — merged PR [#1285](https://github.com/ZacSweers/CatchUp/pull/1285) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.jakewharton:process-phoenix to v2.2.0"
-
-**2024-02-26** — deleted branch `z/reproLintIssue` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-26** — closed PR [#1281](https://github.com/ZacSweers/CatchUp/pull/1281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro lint issue"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
