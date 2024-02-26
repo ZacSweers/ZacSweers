@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-26** — opened PR [#750](https://github.com/slackhq/slack-gradle-plugin/pull/750) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate lint into the project"
+
+**2024-02-26** — created branch `z/gradleLints` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-26** — opened issue [#239](https://github.com/slackhq/slack-lints/issues/239) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "RetrofitUsage should allow Unit return types for suspend functions"
+
 **2024-02-26** — deleted branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-02-26** — commented on [#829](https://github.com/square/anvil/pull/829#issuecomment-1965173687) in [square/anvil](https://github.com/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-26** — deleted branch `z/reproLintIssue` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-26** — closed PR [#1281](https://github.com/ZacSweers/CatchUp/pull/1281) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Repro lint issue"
-
-**2024-02-26** — commented on [#886](https://github.com/square/anvil/pull/886#issuecomment-1965091175) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-26** — opened PR [#886](https://github.com/square/anvil/pull/886) to [square/anvil](https://github.com/square/anvil): "Wire up gradle to backend options + add future component merging backend option for future use"
-
-**2024-02-26** — created branch `z/backendOption` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
