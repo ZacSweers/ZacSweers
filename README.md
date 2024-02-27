@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-27** — commented on [#366](https://github.com/cashapp/molecule/issues/366#issuecomment-1967492090) in [cashapp/molecule](https://github.com/cashapp/molecule)
+
+**2024-02-27** — merged PR [#752](https://github.com/slackhq/slack-gradle-plugin/pull/752) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix mkdocs lists on the main page"
+
 **2024-02-27** — commented on [#78](https://github.com/detekt/sarif4k/issues/78#issuecomment-1966794094) in [detekt/sarif4k](https://github.com/detekt/sarif4k)
 
 **2024-02-26** — commented on [#821](https://github.com/square/anvil/issues/821#issuecomment-1965425277) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-26** — opened issue [#239](https://github.com/slackhq/slack-lints/issues/239) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "RetrofitUsage should allow Unit return types for suspend functions"
 
 **2024-02-26** — deleted branch `z/contributesBindingRevamp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-02-26** — commented on [#829](https://github.com/square/anvil/pull/829#issuecomment-1965173687) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-26** — closed PR [#829](https://github.com/square/anvil/pull/829) to [square/anvil](https://github.com/square/anvil): "WIP migrate away from BindingModuleGenerator"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
