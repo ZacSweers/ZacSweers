@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-28** — commented on [#1169](https://github.com/slackhq/circuit/issues/1169#issuecomment-1969053466) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-02-27** — opened PR [#553](https://github.com/ZacSweers/MoshiX/pull/553) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add lint"
 
 **2024-02-27** — created branch `z/lint` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-27** — closed PR [#751](https://github.com/slackhq/slack-gradle-plugin/pull/751) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency androidx.lint:lint-gradle to v1.0.0-SNAPSHOT"
 
 **2024-02-27** — deleted branch `z/compose16prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-27** — merged PR [#1209](https://github.com/slackhq/circuit/pull/1209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to CM 1.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
