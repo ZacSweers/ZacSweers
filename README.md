@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-27** — opened PR [#553](https://github.com/ZacSweers/MoshiX/pull/553) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add lint"
+
+**2024-02-27** — created branch `z/lint` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-27** — merged PR [#552](https://github.com/ZacSweers/MoshiX/pull/552) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.4.1"
+
+**2024-02-27** — created tag `0.15.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-27** — commented on [#753](https://github.com/slackhq/slack-gradle-plugin/pull/753#issuecomment-1968100636) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-27** — deleted branch `test-renovate/androidx.lint-lint-gradle-1.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-02-27** — closed PR [#751](https://github.com/slackhq/slack-gradle-plugin/pull/751) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency androidx.lint:lint-gradle to v1.0.0-SNAPSHOT"
+
 **2024-02-27** — deleted branch `z/compose16prep` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-27** — merged PR [#1209](https://github.com/slackhq/circuit/pull/1209) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to CM 1.6"
-
-**2024-02-27** — commented on [#366](https://github.com/cashapp/molecule/issues/366#issuecomment-1967610239) in [cashapp/molecule](https://github.com/cashapp/molecule)
-
-**2024-02-27** — commented on [#366](https://github.com/cashapp/molecule/issues/366#issuecomment-1967492090) in [cashapp/molecule](https://github.com/cashapp/molecule)
-
-**2024-02-27** — merged PR [#752](https://github.com/slackhq/slack-gradle-plugin/pull/752) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix mkdocs lists on the main page"
-
-**2024-02-27** — commented on [#78](https://github.com/detekt/sarif4k/issues/78#issuecomment-1966794094) in [detekt/sarif4k](https://github.com/detekt/sarif4k)
-
-**2024-02-26** — commented on [#821](https://github.com/square/anvil/issues/821#issuecomment-1965425277) in [square/anvil](https://github.com/square/anvil)
-
-**2024-02-26** — deleted branch `z/gradleLints` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-02-26** — merged PR [#750](https://github.com/slackhq/slack-gradle-plugin/pull/750) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate lint into the project"
-
-**2024-02-26** — opened PR [#750](https://github.com/slackhq/slack-gradle-plugin/pull/750) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate lint into the project"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
