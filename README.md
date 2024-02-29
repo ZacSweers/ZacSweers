@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-28** — merged PR [#1289](https://github.com/ZacSweers/CatchUp/pull/1289) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.7"
+
+**2024-02-28** — deleted branch `z/lint` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-02-28** — merged PR [#553](https://github.com/ZacSweers/MoshiX/pull/553) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add lint"
+
 **2024-02-28** — created tag `0.15.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-02-28** — opened PR [#755](https://github.com/slackhq/slack-gradle-plugin/pull/755) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP bazel build gen"
@@ -13,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-28** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-02-28** — merged PR [#1236](https://github.com/slackhq/circuit/pull/1236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.11.0"
-
-**2024-02-28** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-28** — merged PR [#1286](https://github.com/ZacSweers/CatchUp/pull/1286) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.0"
-
-**2024-02-28** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-02-28** — merged PR [#1287](https://github.com/ZacSweers/CatchUp/pull/1287) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.5.4"
-
-**2024-02-28** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
