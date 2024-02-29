@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-02-28** — merged PR [#219](https://github.com/ZacSweers/kotlin-compile-testing/pull/219) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.1"
+
+**2024-02-28** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-28** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-02-28** — merged PR [#220](https://github.com/ZacSweers/kotlin-compile-testing/pull/220) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.22-1.0.18"
+
 **2024-02-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-02-28** — merged PR [#1289](https://github.com/ZacSweers/CatchUp/pull/1289) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.7"
@@ -13,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-28** — merged PR [#553](https://github.com/ZacSweers/MoshiX/pull/553) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add lint"
 
 **2024-02-28** — created tag `0.15.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-02-28** — opened PR [#755](https://github.com/slackhq/slack-gradle-plugin/pull/755) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "WIP bazel build gen"
-
-**2024-02-28** — created tag `0.15.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-02-28** — deleted branch `renovate/mosaic` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-02-28** — merged PR [#1236](https://github.com/slackhq/circuit/pull/1236) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.jakewharton.mosaic to v0.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
