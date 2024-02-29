@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-28** — merged PR [#219](https://github.com/ZacSweers/kotlin-compile-testing/pull/219) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.1"
+**2024-02-29** — opened PR [#1246](https://github.com/slackhq/circuit/pull/1246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve error messaging when using assisted inject"
 
-**2024-02-28** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-29** — created branch `z/improveassistederror` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-28** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-29** — opened PR [#1245](https://github.com/slackhq/circuit/pull/1245) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP wasm"
 
-**2024-02-28** — merged PR [#220](https://github.com/ZacSweers/kotlin-compile-testing/pull/220) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.22-1.0.18"
+**2024-02-29** — created branch `z/wasm` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-28** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-29** — merged PR [#1244](https://github.com/slackhq/circuit/pull/1244) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix rememberImpressionNavigator() not delegating PopResult"
 
-**2024-02-28** — merged PR [#1289](https://github.com/ZacSweers/CatchUp/pull/1289) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.7"
+**2024-02-29** — commented on [#1169](https://github.com/slackhq/circuit/issues/1169#issuecomment-1971309673) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-28** — deleted branch `z/lint` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-02-29** — commented on [#1208](https://github.com/slackhq/circuit/issues/1208#issuecomment-1971300227) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-28** — merged PR [#553](https://github.com/ZacSweers/MoshiX/pull/553) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add lint"
+**2024-02-29** — commented on [#1772](https://github.com/google/ksp/issues/1772#issuecomment-1971292663) in [google/ksp](https://github.com/google/ksp)
 
-**2024-02-28** — created tag `0.15.7` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-02-29** — deleted branch `renovate/com.google.firebase-firebase-database-20.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-02-29** — merged PR [#1290](https://github.com/ZacSweers/CatchUp/pull/1290) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.firebase:firebase-database to v20.3.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
