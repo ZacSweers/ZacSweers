@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-29** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-02-29** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — merged PR [#222](https://github.com/ZacSweers/kotlin-compile-testing/pull/222) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.2"
+**2024-02-29** — merged PR [#284](https://github.com/slackhq/compose-lints/pull/284) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha12"
 
-**2024-02-29** — commented on [#1772](https://github.com/google/ksp/issues/1772#issuecomment-1972455952) in [google/ksp](https://github.com/google/ksp)
+**2024-02-29** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — commented on [#886](https://github.com/square/anvil/pull/886#issuecomment-1972374958) in [square/anvil](https://github.com/square/anvil)
+**2024-02-29** — merged PR [#288](https://github.com/slackhq/compose-lints/pull/288) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.3.0"
 
-**2024-02-29** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-29** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — merged PR [#1295](https://github.com/ZacSweers/CatchUp/pull/1295) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.4.0-alpha12"
+**2024-02-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — merged PR [#1296](https://github.com/ZacSweers/CatchUp/pull/1296) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.2"
+**2024-02-29** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-29** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-02-29** — merged PR [#289](https://github.com/slackhq/compose-lints/pull/289) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency python-dateutil to v2.9.0"
+
+**2024-02-29** — merged PR [#287](https://github.com/slackhq/compose-lints/pull/287) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.22-1.0.18"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
