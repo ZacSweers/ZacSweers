@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-02** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-02** — merged PR [#1297](https://github.com/ZacSweers/CatchUp/pull/1297) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.alorma:compose-settings-storage-base to v1.3.0"
+
 **2024-02-29** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-29** — merged PR [#284](https://github.com/slackhq/compose-lints/pull/284) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha12"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-02-29** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-02-29** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-02-29** — merged PR [#289](https://github.com/slackhq/compose-lints/pull/289) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency python-dateutil to v2.9.0"
-
-**2024-02-29** — merged PR [#287](https://github.com/slackhq/compose-lints/pull/287) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.22-1.0.18"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
