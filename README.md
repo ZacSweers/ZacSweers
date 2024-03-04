@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1977115618) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-03-04** — commented on [#241](https://github.com/slackhq/slack-lints/issues/241#issuecomment-1977044464) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-03-04** — deleted branch `z/improveassistederror` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-04** — closed issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-03** — closed PR [#1243](https://github.com/slackhq/circuit/pull/1243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.22-1.0.18"
 
 **2024-03-03** — commented on [#1243](https://github.com/slackhq/circuit/pull/1243#issuecomment-1975473919) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-03** — commented on [#291](https://github.com/slackhq/compose-lints/issues/291#issuecomment-1975470978) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-03** — opened issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
