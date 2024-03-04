@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — commented on [#292](https://github.com/slackhq/compose-lints/issues/292#issuecomment-1977392705) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-03-04** — closed issue [#292](https://github.com/slackhq/compose-lints/issues/292) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False Positive Reusing Modifier in Composable when inner composable parameters have the same name"
+
 **2024-03-04** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1977115618) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-04** — commented on [#241](https://github.com/slackhq/slack-lints/issues/241#issuecomment-1977044464) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-03** — merged PR [#1251](https://github.com/slackhq/circuit/pull/1251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency python-dateutil to v2.9.0.post0"
 
 **2024-03-03** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-03** — closed PR [#1243](https://github.com/slackhq/circuit/pull/1243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.22-1.0.18"
-
-**2024-03-03** — commented on [#1243](https://github.com/slackhq/circuit/pull/1243#issuecomment-1975473919) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
