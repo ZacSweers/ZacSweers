@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — deleted branch `z/improveassistederror` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-03-04** — closed issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
+
+**2024-03-04** — merged PR [#1246](https://github.com/slackhq/circuit/pull/1246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve error messaging when using assisted inject"
+
 **2024-03-03** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-03** — merged PR [#1251](https://github.com/slackhq/circuit/pull/1251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency python-dateutil to v2.9.0.post0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-03** — commented on [#291](https://github.com/slackhq/compose-lints/issues/291#issuecomment-1975470978) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-03-03** — opened issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
-
-**2024-03-03** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-03-03** — merged PR [#223](https://github.com/ZacSweers/kotlin-compile-testing/pull/223) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.11.0"
-
-**2024-03-03** — commented on [#1772](https://github.com/google/ksp/issues/1772#issuecomment-1975468194) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
