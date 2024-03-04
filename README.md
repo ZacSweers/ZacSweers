@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977613645) in [google/ksp](https://github.com/google/ksp)
+
+**2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-04** — merged PR [#561](https://github.com/ZacSweers/MoshiX/pull/561) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.9.20"
+
 **2024-03-04** — commented on [#292](https://github.com/slackhq/compose-lints/issues/292#issuecomment-1977392705) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-03-04** — closed issue [#292](https://github.com/slackhq/compose-lints/issues/292) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False Positive Reusing Modifier in Composable when inner composable parameters have the same name"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-04** — closed issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
 
 **2024-03-04** — merged PR [#1246](https://github.com/slackhq/circuit/pull/1246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve error messaging when using assisted inject"
-
-**2024-03-03** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-03** — merged PR [#1251](https://github.com/slackhq/circuit/pull/1251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency python-dateutil to v2.9.0.post0"
-
-**2024-03-03** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
