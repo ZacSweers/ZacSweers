@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-02** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-03** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-03-02** — merged PR [#1297](https://github.com/ZacSweers/CatchUp/pull/1297) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.alorma:compose-settings-storage-base to v1.3.0"
+**2024-03-03** — merged PR [#1251](https://github.com/slackhq/circuit/pull/1251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency python-dateutil to v2.9.0.post0"
 
-**2024-02-29** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-29** — merged PR [#284](https://github.com/slackhq/compose-lints/pull/284) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.4.0-alpha12"
+**2024-03-03** — closed PR [#1243](https://github.com/slackhq/circuit/pull/1243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.22-1.0.18"
 
-**2024-02-29** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — commented on [#1243](https://github.com/slackhq/circuit/pull/1243#issuecomment-1975473919) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-02-29** — merged PR [#288](https://github.com/slackhq/compose-lints/pull/288) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.3.0"
+**2024-03-03** — commented on [#291](https://github.com/slackhq/compose-lints/issues/291#issuecomment-1975470978) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-02-29** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — opened issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
 
-**2024-02-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-02-29** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — merged PR [#223](https://github.com/ZacSweers/kotlin-compile-testing/pull/223) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.11.0"
 
-**2024-02-29** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-03** — commented on [#1772](https://github.com/google/ksp/issues/1772#issuecomment-1975468194) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
