@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-05** — commented on [#764](https://github.com/slackhq/slack-gradle-plugin/pull/764#issuecomment-1979495665) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-05** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-05** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1979494607) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-05** — merged PR [#557](https://github.com/ZacSweers/MoshiX/pull/557) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.18"
 
-**2024-03-05** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-05** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-05** — closed PR [#218](https://github.com/ZacSweers/kotlin-compile-testing/pull/218) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+**2024-03-05** — merged PR [#558](https://github.com/ZacSweers/MoshiX/pull/558) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.3.0"
 
-**2024-03-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-05** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-05** — merged PR [#224](https://github.com/ZacSweers/kotlin-compile-testing/pull/224) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v1.9.20"
+**2024-03-05** — merged PR [#560](https://github.com/ZacSweers/MoshiX/pull/560) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-alpha12"
 
-**2024-03-05** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-05** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-05** — merged PR [#225](https://github.com/ZacSweers/kotlin-compile-testing/pull/225) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.166"
+**2024-03-05** — merged PR [#559](https://github.com/ZacSweers/MoshiX/pull/559) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.4.2"
 
-**2024-03-04** — opened PR [#1299](https://github.com/ZacSweers/CatchUp/pull/1299) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Get baseline/startup profile gen working again"
+**2024-03-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-04** — created branch `z/baselineProfileUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-05** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
