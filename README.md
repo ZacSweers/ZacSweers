@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-05** — commented on [#764](https://github.com/slackhq/slack-gradle-plugin/pull/764#issuecomment-1979495665) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-05** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-1979494607) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-05** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-05** — closed PR [#218](https://github.com/ZacSweers/kotlin-compile-testing/pull/218) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2024-03-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-05** — merged PR [#224](https://github.com/ZacSweers/kotlin-compile-testing/pull/224) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v1.9.20"
+
+**2024-03-05** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-05** — merged PR [#225](https://github.com/ZacSweers/kotlin-compile-testing/pull/225) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.166"
+
 **2024-03-04** — opened PR [#1299](https://github.com/ZacSweers/CatchUp/pull/1299) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Get baseline/startup profile gen working again"
 
 **2024-03-04** — created branch `z/baselineProfileUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-04** — created tag `0.15.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-04** — merged PR [#92](https://github.com/ZacSweers/auto-service-ksp/pull/92) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.22-1.0.18"
-
-**2024-03-04** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-03-04** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-03-04** — merged PR [#90](https://github.com/ZacSweers/auto-service-ksp/pull/90) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.2"
-
-**2024-03-04** — merged PR [#93](https://github.com/ZacSweers/auto-service-ksp/pull/93) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.20"
-
-**2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-03-04** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-1977904813) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
