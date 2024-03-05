@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-05** — opened PR [#1260](https://github.com/slackhq/circuit/pull/1260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small baseline profile generation tweaks"
+
+**2024-03-05** — created branch `z/baselineProfileStuff` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-03-05** — opened issue [#1781](https://github.com/google/ksp/issues/1781) on [google/ksp](https://github.com/google/ksp): "KSP2: KTypeReference.element is always null"
+
 **2024-03-05** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-03-05** — merged PR [#557](https://github.com/ZacSweers/MoshiX/pull/557) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.18"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-05** — merged PR [#560](https://github.com/ZacSweers/MoshiX/pull/560) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-alpha12"
 
 **2024-03-05** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-05** — merged PR [#559](https://github.com/ZacSweers/MoshiX/pull/559) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.4.2"
-
-**2024-03-05** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-05** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
