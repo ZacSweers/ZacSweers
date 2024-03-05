@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-1977904813) in [google/ksp](https://github.com/google/ksp)
+
+**2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977904197) in [google/ksp](https://github.com/google/ksp)
+
+**2024-03-04** — closed issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
+
 **2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977613645) in [google/ksp](https://github.com/google/ksp)
 
 **2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-04** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1977115618) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-04** — commented on [#241](https://github.com/slackhq/slack-lints/issues/241#issuecomment-1977044464) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-03-04** — deleted branch `z/improveassistederror` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-04** — closed issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
-
-**2024-03-04** — merged PR [#1246](https://github.com/slackhq/circuit/pull/1246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve error messaging when using assisted inject"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
