@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — opened PR [#1299](https://github.com/ZacSweers/CatchUp/pull/1299) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Get baseline/startup profile gen working again"
+
+**2024-03-04** — created branch `z/baselineProfileUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-03-04** — created tag `0.15.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-04** — merged PR [#92](https://github.com/ZacSweers/auto-service-ksp/pull/92) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.22-1.0.18"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-03-04** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-1977904813) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977904197) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-04** — closed issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
