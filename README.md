@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-04** — created tag `0.15.8` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-04** — merged PR [#92](https://github.com/ZacSweers/auto-service-ksp/pull/92) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.22-1.0.18"
+
+**2024-03-04** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-03-04** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-03-04** — merged PR [#90](https://github.com/ZacSweers/auto-service-ksp/pull/90) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.2"
+
+**2024-03-04** — merged PR [#93](https://github.com/ZacSweers/auto-service-ksp/pull/93) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin dokka to v1.9.20"
+
+**2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2024-03-04** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-1977904813) in [google/ksp](https://github.com/google/ksp)
 
 **2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977904197) in [google/ksp](https://github.com/google/ksp)
 
 **2024-03-04** — closed issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
-
-**2024-03-04** — commented on [#1776](https://github.com/google/ksp/issues/1776#issuecomment-1977613645) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-04** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-04** — merged PR [#561](https://github.com/ZacSweers/MoshiX/pull/561) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v1.9.20"
-
-**2024-03-04** — commented on [#292](https://github.com/slackhq/compose-lints/issues/292#issuecomment-1977392705) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-04** — closed issue [#292](https://github.com/slackhq/compose-lints/issues/292) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False Positive Reusing Modifier in Composable when inner composable parameters have the same name"
-
-**2024-03-04** — commented on [#1197](https://github.com/slackhq/circuit/pull/1197#issuecomment-1977115618) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-04** — commented on [#241](https://github.com/slackhq/slack-lints/issues/241#issuecomment-1977044464) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
