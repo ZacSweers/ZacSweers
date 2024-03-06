@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-05** — opened PR [#1260](https://github.com/slackhq/circuit/pull/1260) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small baseline profile generation tweaks"
+**2024-03-06** — opened PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
 
-**2024-03-05** — created branch `z/baselineProfileStuff` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-06** — created branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-05** — opened issue [#1781](https://github.com/google/ksp/issues/1781) on [google/ksp](https://github.com/google/ksp): "KSP2: KTypeReference.element is always null"
+**2024-03-06** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-05** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-06** — merged PR [#1298](https://github.com/ZacSweers/CatchUp/pull/1298) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.8"
 
-**2024-03-05** — merged PR [#557](https://github.com/ZacSweers/MoshiX/pull/557) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.22-1.0.18"
+**2024-03-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-05** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-06** — merged PR [#1300](https://github.com/ZacSweers/CatchUp/pull/1300) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.249.0"
 
-**2024-03-05** — merged PR [#558](https://github.com/ZacSweers/MoshiX/pull/558) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.3.0"
+**2024-03-06** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-05** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-06** — merged PR [#1301](https://github.com/ZacSweers/CatchUp/pull/1301) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha04"
 
-**2024-03-05** — merged PR [#560](https://github.com/ZacSweers/MoshiX/pull/560) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-alpha12"
+**2024-03-06** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-05** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-06** — merged PR [#1302](https://github.com/ZacSweers/CatchUp/pull/1302) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
