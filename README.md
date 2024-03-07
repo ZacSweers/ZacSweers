@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-07** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-07** — merged PR [#562](https://github.com/ZacSweers/MoshiX/pull/562) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-alpha13"
+
 **2024-03-07** — deleted branch `renovate/compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-07** — merged PR [#1267](https://github.com/slackhq/circuit/pull/1267) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.2.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-07** — merged PR [#1266](https://github.com/slackhq/circuit/pull/1266) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.foundation:foundation to v1.6.3"
 
 **2024-03-07** — deleted branch `dependabot/gradle/jvm-1.9.23` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2024-03-07** — merged PR [#81](https://github.com/slackhq/moshi-gson-interop/pull/81) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.21 to 1.9.23"
-
-**2024-03-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
