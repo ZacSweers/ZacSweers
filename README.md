@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-06** — merged PR [#1307](https://github.com/ZacSweers/CatchUp/pull/1307) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.0"
+
+**2024-03-06** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-03-06** — deleted branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-06** — merged PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-06** — merged PR [#1300](https://github.com/ZacSweers/CatchUp/pull/1300) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.249.0"
-
-**2024-03-06** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-06** — merged PR [#1301](https://github.com/ZacSweers/CatchUp/pull/1301) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
