@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-07** — deleted branch `dependabot/gradle/jvm-1.9.23` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2024-03-07** — merged PR [#81](https://github.com/slackhq/moshi-gson-interop/pull/81) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.21 to 1.9.23"
+
+**2024-03-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-07** — merged PR [#1308](https://github.com/ZacSweers/CatchUp/pull/1308) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.23"
+
+**2024-03-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-03-07** — merged PR [#94](https://github.com/ZacSweers/auto-service-ksp/pull/94) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.23"
+
+**2024-03-07** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-03-07** — merged PR [#203](https://github.com/ZacSweers/redacted-compiler-plugin/pull/203) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.23"
+
 **2024-03-06** — merged PR [#1307](https://github.com/ZacSweers/CatchUp/pull/1307) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.0"
 
 **2024-03-06** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-06** — deleted branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-06** — merged PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
-
-**2024-03-06** — opened PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
-
-**2024-03-06** — created branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-06** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-06** — merged PR [#1298](https://github.com/ZacSweers/CatchUp/pull/1298) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.8"
-
-**2024-03-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-06** — merged PR [#1300](https://github.com/ZacSweers/CatchUp/pull/1300) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.249.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
