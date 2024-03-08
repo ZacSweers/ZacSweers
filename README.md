@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-07** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-07** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
-**2024-03-07** — merged PR [#562](https://github.com/ZacSweers/MoshiX/pull/562) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-alpha13"
+**2024-03-07** — merged PR [#80](https://github.com/slackhq/moshi-gson-interop/pull/80) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.10 to 1.9.20"
 
-**2024-03-07** — deleted branch `renovate/compose.material3` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-07** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-03-07** — merged PR [#1267](https://github.com/slackhq/circuit/pull/1267) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.material3:material3 to v1.2.1"
+**2024-03-07** — merged PR [#95](https://github.com/ZacSweers/auto-service-ksp/pull/95) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.23-1.0.19"
 
-**2024-03-07** — commented on [#1270](https://github.com/slackhq/circuit/pull/1270#issuecomment-1983842967) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-07** — deleted branch `renovate/kotlin-and-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2024-03-07** — deleted branch `renovate/compose.runtime` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-07** — merged PR [#1857](https://github.com/square/kotlinpoet/pull/1857) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update Kotlin and KSP to v1.9.23-1.0.19"
 
-**2024-03-07** — merged PR [#1263](https://github.com/slackhq/circuit/pull/1263) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.runtime to v1.6.3"
+**2024-03-07** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2024-03-07** — deleted branch `renovate/compose.foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-07** — merged PR [#1861](https://github.com/square/kotlinpoet/pull/1861) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency com.google.devtools.ksp to v1.9.23-1.0.19"
 
-**2024-03-07** — merged PR [#1266](https://github.com/slackhq/circuit/pull/1266) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.foundation:foundation to v1.6.3"
+**2024-03-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-07** — deleted branch `dependabot/gradle/jvm-1.9.23` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2024-03-07** — merged PR [#563](https://github.com/ZacSweers/MoshiX/pull/563) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.23-1.0.19"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
