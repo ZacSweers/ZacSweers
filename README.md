@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-08** — opened issue [#316](https://github.com/JetBrains/jewel/issues/316) on [JetBrains/jewel](https://github.com/JetBrains/jewel): "`Typography` APIs don't appears to be usable due to "Can't add together different TextUnits""
+
+**2024-03-08** — opened PR [#772](https://github.com/slackhq/slack-gradle-plugin/pull/772) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update IJ and adopt Jewel for project gen"
+
+**2024-03-08** — created branch `z/jewel` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-03-08** — deleted branch `z/backendOption` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-08** — commented on [#1713](https://github.com/google/ksp/issues/1713#issuecomment-1986143063) in [google/ksp](https://github.com/google/ksp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-07** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-03-07** — merged PR [#95](https://github.com/ZacSweers/auto-service-ksp/pull/95) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.23-1.0.19"
-
-**2024-03-07** — deleted branch `renovate/kotlin-and-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-03-07** — merged PR [#1857](https://github.com/square/kotlinpoet/pull/1857) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update Kotlin and KSP to v1.9.23-1.0.19"
-
-**2024-03-07** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
