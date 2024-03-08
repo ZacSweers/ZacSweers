@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-08** — created tag `0.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-08** — created tag `0.15.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-03-08** — opened issue [#316](https://github.com/JetBrains/jewel/issues/316) on [JetBrains/jewel](https://github.com/JetBrains/jewel): "`Typography` APIs don't appears to be usable due to "Can't add together different TextUnits""
 
 **2024-03-08** — opened PR [#772](https://github.com/slackhq/slack-gradle-plugin/pull/772) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update IJ and adopt Jewel for project gen"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-07** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2024-03-07** — merged PR [#80](https://github.com/slackhq/moshi-gson-interop/pull/80) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.10 to 1.9.20"
-
-**2024-03-07** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-03-07** — merged PR [#95](https://github.com/ZacSweers/auto-service-ksp/pull/95) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.23-1.0.19"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
