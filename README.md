@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-08** — commented on [#1713](https://github.com/google/ksp/issues/1713#issuecomment-1986143063) in [google/ksp](https://github.com/google/ksp)
+
+**2024-03-08** — commented on [#299](https://github.com/slackhq/compose-lints/issues/299#issuecomment-1986127670) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-03-07** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
 **2024-03-07** — merged PR [#80](https://github.com/slackhq/moshi-gson-interop/pull/80) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.10 to 1.9.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-07** — deleted branch `renovate/ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-03-07** — merged PR [#1861](https://github.com/square/kotlinpoet/pull/1861) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency com.google.devtools.ksp to v1.9.23-1.0.19"
-
-**2024-03-07** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-07** — merged PR [#563](https://github.com/ZacSweers/MoshiX/pull/563) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.23-1.0.19"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
