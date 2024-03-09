@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-08** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1986569164) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
+
 **2024-03-08** — created tag `0.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-08** — created tag `0.15.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-08** — commented on [#299](https://github.com/slackhq/compose-lints/issues/299#issuecomment-1986127670) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-03-07** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
-
-**2024-03-07** — merged PR [#80](https://github.com/slackhq/moshi-gson-interop/pull/80) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump org.jetbrains.dokka from 1.9.10 to 1.9.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
