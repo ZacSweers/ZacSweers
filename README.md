@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-09** — deleted branch `z/lintConfigs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-03-09** — merged PR [#300](https://github.com/slackhq/compose-lints/pull/300) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint config"
+
 **2024-03-09** — commented on [#1739](https://github.com/google/ksp/pull/1739#issuecomment-1986777819) in [google/ksp](https://github.com/google/ksp)
 
 **2024-03-09** — deleted branch `z/kotlin1820Beta` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-09** — merged PR [#1313](https://github.com/ZacSweers/CatchUp/pull/1313) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix internal providers"
 
 **2024-03-09** — opened PR [#1313](https://github.com/ZacSweers/CatchUp/pull/1313) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix internal providers"
-
-**2024-03-09** — created branch `z/anvilKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-09** — opened PR [#247](https://github.com/slackhq/slack-lints/pull/247) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add new lint configs + update baseline"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
