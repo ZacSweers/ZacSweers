@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-09** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-09** — merged PR [#1314](https://github.com/ZacSweers/CatchUp/pull/1314) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.1"
+
+**2024-03-09** — opened PR [#901](https://github.com/square/anvil/pull/901) to [square/anvil](https://github.com/square/anvil): "Auto wire KSP when running in KSP mode"
+
+**2024-03-09** — created branch `z/kspWiring` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-09** — opened PR [#900](https://github.com/square/anvil/pull/900) to [square/anvil](https://github.com/square/anvil): "Always set trackSourceFiles to false in KSP"
+
+**2024-03-09** — created branch `z/sourceFilesKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-09** — opened PR [#899](https://github.com/square/anvil/pull/899) to [square/anvil](https://github.com/square/anvil): "Fix missing KSPropertySetter in member injection code gen"
+
+**2024-03-09** — created branch `z/fixMembersInjection` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-09** — deleted branch `z/lintConfigs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-03-09** — merged PR [#300](https://github.com/slackhq/compose-lints/pull/300) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint config"
-
-**2024-03-09** — commented on [#1739](https://github.com/google/ksp/pull/1739#issuecomment-1986777819) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-09** — deleted branch `z/kotlin1820Beta` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `z/kspInjectConstructor` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `z/ksp/providesMethodFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `z/ksp/providerMethodFactory2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `z/anvilKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-09** — merged PR [#1313](https://github.com/ZacSweers/CatchUp/pull/1313) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix internal providers"
-
-**2024-03-09** — opened PR [#1313](https://github.com/ZacSweers/CatchUp/pull/1313) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix internal providers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
