@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-08** — deleted branch `z/ksp/bindingModuleGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-08** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-08** — merged PR [#1310](https://github.com/ZacSweers/CatchUp/pull/1310) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10"
+
+**2024-03-08** — opened PR [#1312](https://github.com/ZacSweers/CatchUp/pull/1312) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Enable strong skipping in compose"
+
+**2024-03-08** — created branch `z/strongSkipping` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-08** — merged PR [#1311](https://github.com/ZacSweers/CatchUp/pull/1311) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.9"
+
 **2024-03-08** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1986569164) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
 
 **2024-03-08** — created tag `0.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-08** — created tag `0.15.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-08** — opened issue [#316](https://github.com/JetBrains/jewel/issues/316) on [JetBrains/jewel](https://github.com/JetBrains/jewel): "`Typography` APIs don't appears to be usable due to "Can't add together different TextUnits""
-
-**2024-03-08** — opened PR [#772](https://github.com/slackhq/slack-gradle-plugin/pull/772) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update IJ and adopt Jewel for project gen"
-
-**2024-03-08** — created branch `z/jewel` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-08** — deleted branch `z/backendOption` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-08** — commented on [#1713](https://github.com/google/ksp/issues/1713#issuecomment-1986143063) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-08** — commented on [#299](https://github.com/slackhq/compose-lints/issues/299#issuecomment-1986127670) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-07** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
