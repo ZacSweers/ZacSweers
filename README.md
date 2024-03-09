@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-08** — deleted branch `z/ksp/bindingModuleGen` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-09** — opened PR [#247](https://github.com/slackhq/slack-lints/pull/247) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add new lint configs + update baseline"
 
-**2024-03-08** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-09** — created branch `z/uastImpl` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — merged PR [#1310](https://github.com/ZacSweers/CatchUp/pull/1310) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10"
+**2024-03-09** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — opened PR [#1312](https://github.com/ZacSweers/CatchUp/pull/1312) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Enable strong skipping in compose"
+**2024-03-09** — merged PR [#242](https://github.com/slackhq/slack-lints/pull/242) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin dokka to v1.9.20"
 
-**2024-03-08** — created branch `z/strongSkipping` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-09** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-09** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — merged PR [#1311](https://github.com/ZacSweers/CatchUp/pull/1311) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.9"
+**2024-03-09** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1986569164) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
+**2024-03-09** — deleted branch `renovate/kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-03-08** — created tag `0.15` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-09** — merged PR [#244](https://github.com/slackhq/slack-lints/pull/244) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.4.0-alpha13"
 
-**2024-03-08** — created tag `0.15.9` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-09** — merged PR [#245](https://github.com/slackhq/slack-lints/pull/245) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.23-1.0.19"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
