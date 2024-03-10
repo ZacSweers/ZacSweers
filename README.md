@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-09** — opened PR [#902](https://github.com/square/anvil/pull/902) to [square/anvil](https://github.com/square/anvil): "Fix contributed interface merging when KSP backend is enabled"
+
+**2024-03-09** — created branch `z/fixInterfaceMerging` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-09** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-09** — merged PR [#1314](https://github.com/ZacSweers/CatchUp/pull/1314) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-09** — opened PR [#899](https://github.com/square/anvil/pull/899) to [square/anvil](https://github.com/square/anvil): "Fix missing KSPropertySetter in member injection code gen"
 
 **2024-03-09** — created branch `z/fixMembersInjection` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `z/lintConfigs` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-09** — merged PR [#300](https://github.com/slackhq/compose-lints/pull/300) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint config"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
