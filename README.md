@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-11** — deleted branch `renovate/dagger` on [square/anvil](https://github.com/square/anvil)
 
 **2024-03-11** — merged PR [#889](https://github.com/square/anvil/pull/889) to [square/anvil](https://github.com/square/anvil): "Update dagger to v2.51"
-
-**2024-03-10** — opened issue [#908](https://github.com/square/anvil/issues/908) on [square/anvil](https://github.com/square/anvil): "Explore merging `ModuleMergerIr` and `InterfaceMergerIr`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
