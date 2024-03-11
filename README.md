@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-11** — merged PR [#900](https://github.com/square/anvil/pull/900) to [square/anvil](https://github.com/square/anvil): "Always set trackSourceFiles to false in KSP"
+
 **2024-03-11** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-11** — created branch `z/moreplugindetails` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-10** — closed PR [#902](https://github.com/square/anvil/pull/902) to [square/anvil](https://github.com/square/anvil): "Fix contributed interface merging when KSP backend is enabled"
 
 **2024-03-10** — opened PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
-
-**2024-03-10** — created branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
