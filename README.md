@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-11** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-11** — created branch `z/moreplugindetails` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-03-11** — deleted branch `renovate/dagger` on [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-10** — opened PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
 
 **2024-03-10** — created branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-10** — opened issue [#906](https://github.com/square/anvil/issues/906) on [square/anvil](https://github.com/square/anvil): "Migrate interface merging in IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
