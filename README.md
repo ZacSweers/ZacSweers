@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-10** — opened issue [#908](https://github.com/square/anvil/issues/908) on [square/anvil](https://github.com/square/anvil): "Explore merging `ModuleMergerIr` and `InterfaceMergerIr`"
+
+**2024-03-10** — deleted branch `z/fixInterfaceMerging` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-10** — commented on [#902](https://github.com/square/anvil/pull/902#issuecomment-1987462636) in [square/anvil](https://github.com/square/anvil)
+
+**2024-03-10** — closed PR [#902](https://github.com/square/anvil/pull/902) to [square/anvil](https://github.com/square/anvil): "Fix contributed interface merging when KSP backend is enabled"
+
+**2024-03-10** — opened PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
+
+**2024-03-10** — created branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-10** — opened issue [#906](https://github.com/square/anvil/issues/906) on [square/anvil](https://github.com/square/anvil): "Migrate interface merging in IR"
 
 **2024-03-09** — created branch `z/anvilKspWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-09** — opened issue [#905](https://github.com/square/anvil/issues/905) on [square/anvil](https://github.com/square/anvil): "Support setter/method injection in factory gen"
 
 **2024-03-09** — opened issue [#904](https://github.com/square/anvil/issues/904) on [square/anvil](https://github.com/square/anvil): "Support Jakarta annotations"
-
-**2024-03-09** — opened issue [#903](https://github.com/square/anvil/issues/903) on [square/anvil](https://github.com/square/anvil): "Support Dagger 2.51's new `@LazyClassLoading`"
-
-**2024-03-09** — opened PR [#902](https://github.com/square/anvil/pull/902) to [square/anvil](https://github.com/square/anvil): "Fix contributed interface merging when KSP backend is enabled"
-
-**2024-03-09** — created branch `z/fixInterfaceMerging` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-09** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-09** — merged PR [#1314](https://github.com/ZacSweers/CatchUp/pull/1314) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.1"
-
-**2024-03-09** — opened PR [#901](https://github.com/square/anvil/pull/901) to [square/anvil](https://github.com/square/anvil): "Auto wire KSP when running in KSP mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
