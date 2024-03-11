@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-11** — created branch `z/moreplugindetails` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-11** — deleted branch `renovate/dagger` on [square/anvil](https://github.com/square/anvil)
+
+**2024-03-11** — merged PR [#889](https://github.com/square/anvil/pull/889) to [square/anvil](https://github.com/square/anvil): "Update dagger to v2.51"
+
 **2024-03-10** — opened issue [#908](https://github.com/square/anvil/issues/908) on [square/anvil](https://github.com/square/anvil): "Explore merging `ModuleMergerIr` and `InterfaceMergerIr`"
 
 **2024-03-10** — deleted branch `z/fixInterfaceMerging` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-10** — created branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-10** — opened issue [#906](https://github.com/square/anvil/issues/906) on [square/anvil](https://github.com/square/anvil): "Migrate interface merging in IR"
-
-**2024-03-09** — created branch `z/anvilKspWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-09** — opened issue [#905](https://github.com/square/anvil/issues/905) on [square/anvil](https://github.com/square/anvil): "Support setter/method injection in factory gen"
-
-**2024-03-09** — opened issue [#904](https://github.com/square/anvil/issues/904) on [square/anvil](https://github.com/square/anvil): "Support Jakarta annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
