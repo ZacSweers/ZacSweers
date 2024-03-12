@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-1990707799) in [square/anvil](https://github.com/square/anvil)
+
+**2024-03-12** — commented on [#914](https://github.com/square/anvil/issues/914#issuecomment-1990707131) in [square/anvil](https://github.com/square/anvil)
+
 **2024-03-12** — opened issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2"
 
 **2024-03-12** — opened issue [#913](https://github.com/square/anvil/issues/913) on [square/anvil](https://github.com/square/anvil): "Generated anvil code `OPT_IN_USAGE_ERROR` suppression causes warnings in K2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-11** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1989423620) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
 
 **2024-03-11** — merged PR [#900](https://github.com/square/anvil/pull/900) to [square/anvil](https://github.com/square/anvil): "Always set trackSourceFiles to false in KSP"
-
-**2024-03-11** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-11** — created branch `z/moreplugindetails` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
