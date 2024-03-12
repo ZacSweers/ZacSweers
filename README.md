@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — merged PR [#899](https://github.com/square/anvil/pull/899) to [square/anvil](https://github.com/square/anvil): "Fix missing `KSPropertySetter` in member injection code gen"
+
+**2024-03-12** — closed issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2 IR"
+
+**2024-03-12** — merged PR [#916](https://github.com/square/anvil/pull/916) to [square/anvil](https://github.com/square/anvil): "Work around FIR missing getPackage()"
+
 **2024-03-12** — deleted branch `z/uastImpl` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-03-12** — merged PR [#247](https://github.com/slackhq/slack-lints/pull/247) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add new lint configs + update baseline"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — merged PR [#1315](https://github.com/ZacSweers/CatchUp/pull/1315) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.2"
 
 **2024-03-12** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-12** — merged PR [#1316](https://github.com/ZacSweers/CatchUp/pull/1316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.26.0"
-
-**2024-03-12** — merged PR [#1317](https://github.com/ZacSweers/CatchUp/pull/1317) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.9.1"
-
-**2024-03-12** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
