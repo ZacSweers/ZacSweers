@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — deleted branch `z/workaroundGetPackage` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-12** — deleted branch `z/fixMembersInjection` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-12** — deleted branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-12** — closed issue [#906](https://github.com/square/anvil/issues/906) on [square/anvil](https://github.com/square/anvil): "Migrate interface merging in IR"
+
+**2024-03-12** — merged PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
+
 **2024-03-12** — merged PR [#899](https://github.com/square/anvil/pull/899) to [square/anvil](https://github.com/square/anvil): "Fix missing `KSPropertySetter` in member injection code gen"
 
 **2024-03-12** — closed issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2 IR"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — deleted branch `z/uastImpl` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-03-12** — merged PR [#247](https://github.com/slackhq/slack-lints/pull/247) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add new lint configs + update baseline"
-
-**2024-03-12** — commented on [#1253](https://github.com/slackhq/circuit/pull/1253#issuecomment-1992267348) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-12** — closed PR [#1253](https://github.com/slackhq/circuit/pull/1253) to [slackhq/circuit](https://github.com/slackhq/circuit): "Check canRetainCheck when saving RetainedStateRegistry"
-
-**2024-03-12** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-12** — merged PR [#1315](https://github.com/ZacSweers/CatchUp/pull/1315) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.2"
-
-**2024-03-12** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
