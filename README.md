@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — commented on [#1276](https://github.com/slackhq/circuit/pull/1276#issuecomment-1991788250) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-03-12** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-1990707799) in [square/anvil](https://github.com/square/anvil)
 
 **2024-03-12** — commented on [#914](https://github.com/square/anvil/issues/914#issuecomment-1990707131) in [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-11** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1989427887) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
 
 **2024-03-11** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1989423620) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
-
-**2024-03-11** — merged PR [#900](https://github.com/square/anvil/pull/900) to [square/anvil](https://github.com/square/anvil): "Always set trackSourceFiles to false in KSP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
