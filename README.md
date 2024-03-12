@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — opened issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2"
+
+**2024-03-12** — opened issue [#913](https://github.com/square/anvil/issues/913) on [square/anvil](https://github.com/square/anvil): "Generated anvil code `OPT_IN_USAGE_ERROR` suppression causes warnings in K2"
+
+**2024-03-12** — opened issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
+
 **2024-03-11** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-1989513993) in [google/ksp](https://github.com/google/ksp)
 
 **2024-03-11** — opened issue [#1789](https://github.com/google/ksp/issues/1789) on [google/ksp](https://github.com/google/ksp): "KSP task (non-)registration happens too soon"
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-11** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-11** — created branch `z/moreplugindetails` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-11** — deleted branch `renovate/dagger` on [square/anvil](https://github.com/square/anvil)
-
-**2024-03-11** — merged PR [#889](https://github.com/square/anvil/pull/889) to [square/anvil](https://github.com/square/anvil): "Update dagger to v2.51"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
