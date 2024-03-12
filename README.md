@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-12** — deleted branch `cb/retained-key` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-03-12** — closed issue [#1252](https://github.com/slackhq/circuit/issues/1252) on [slackhq/circuit](https://github.com/slackhq/circuit): "Nested `RetainedStateRegistry` is saved even if `LocalCanRetainChecker` is `false`"
+
+**2024-03-12** — merged PR [#1276](https://github.com/slackhq/circuit/pull/1276) to [slackhq/circuit](https://github.com/slackhq/circuit): "Check canRetainCheck when saving RetainedStateRegistry"
+
 **2024-03-12** — commented on [#1276](https://github.com/slackhq/circuit/pull/1276#issuecomment-1991788250) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-12** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-1990707799) in [square/anvil](https://github.com/square/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — opened issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
 
 **2024-03-11** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-1989513993) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-11** — opened issue [#1789](https://github.com/google/ksp/issues/1789) on [google/ksp](https://github.com/google/ksp): "KSP task (non-)registration happens too soon"
-
-**2024-03-11** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1989427887) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
-
-**2024-03-11** — commented on [#316](https://github.com/JetBrains/jewel/issues/316#issuecomment-1989423620) in [JetBrains/jewel](https://github.com/JetBrains/jewel)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
