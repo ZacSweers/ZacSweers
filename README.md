@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-12** — deleted branch `cb/retained-key` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+**2024-03-12** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-12** — closed issue [#1252](https://github.com/slackhq/circuit/issues/1252) on [slackhq/circuit](https://github.com/slackhq/circuit): "Nested `RetainedStateRegistry` is saved even if `LocalCanRetainChecker` is `false`"
+**2024-03-12** — merged PR [#1315](https://github.com/ZacSweers/CatchUp/pull/1315) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.2"
 
-**2024-03-12** — merged PR [#1276](https://github.com/slackhq/circuit/pull/1276) to [slackhq/circuit](https://github.com/slackhq/circuit): "Check canRetainCheck when saving RetainedStateRegistry"
+**2024-03-12** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-12** — commented on [#1276](https://github.com/slackhq/circuit/pull/1276#issuecomment-1991788250) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-12** — merged PR [#1316](https://github.com/ZacSweers/CatchUp/pull/1316) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.26.0"
 
-**2024-03-12** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-1990707799) in [square/anvil](https://github.com/square/anvil)
+**2024-03-12** — merged PR [#1317](https://github.com/ZacSweers/CatchUp/pull/1317) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.9.1"
 
-**2024-03-12** — commented on [#914](https://github.com/square/anvil/issues/914#issuecomment-1990707131) in [square/anvil](https://github.com/square/anvil)
+**2024-03-12** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-12** — opened issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2"
+**2024-03-12** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-12** — opened issue [#913](https://github.com/square/anvil/issues/913) on [square/anvil](https://github.com/square/anvil): "Generated anvil code `OPT_IN_USAGE_ERROR` suppression causes warnings in K2"
+**2024-03-12** — merged PR [#1318](https://github.com/ZacSweers/CatchUp/pull/1318) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
 
-**2024-03-12** — opened issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
+**2024-03-12** — opened PR [#917](https://github.com/square/anvil/pull/917) to [square/anvil](https://github.com/square/anvil): "Support K2 in AnvilComponentRegistrar"
 
-**2024-03-11** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-1989513993) in [google/ksp](https://github.com/google/ksp)
+**2024-03-12** — created branch `z/supportK2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
