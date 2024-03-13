@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — closed issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2 IR"
 
 **2024-03-12** — merged PR [#916](https://github.com/square/anvil/pull/916) to [square/anvil](https://github.com/square/anvil): "Work around FIR missing getPackage()"
-
-**2024-03-12** — deleted branch `z/uastImpl` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-03-12** — merged PR [#247](https://github.com/slackhq/slack-lints/pull/247) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add new lint configs + update baseline"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
