@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-13** — opened PR [#920](https://github.com/square/anvil/pull/920) to [square/anvil](https://github.com/square/anvil): "Merge IR mergers into one single-pass"
+
+**2024-03-13** — created branch `z/mergeIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-13** — deleted branch `cb/remember-observer-nested` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-03-13** — merged PR [#1281](https://github.com/slackhq/circuit/pull/1281) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make RememberObservers in nested registries work"
@@ -13,10 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — deleted branch `z/fixMembersInjection` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-12** — deleted branch `z/interfaceMergerIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-12** — closed issue [#906](https://github.com/square/anvil/issues/906) on [square/anvil](https://github.com/square/anvil): "Migrate interface merging in IR"
-
-**2024-03-12** — merged PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
