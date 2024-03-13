@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-13** — opened PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
+**2024-03-13** — deleted branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-13** — opened PR [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Anvil KSP support"
+**2024-03-13** — merged PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
 
-**2024-03-13** — deleted branch `z/supportK2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-13** — commented on [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776#issuecomment-1995979225) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-13** — created branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-13** — deleted branch `z/overloads` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-03-13** — closed issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
+**2024-03-13** — merged PR [#925](https://github.com/square/anvil/pull/925) to [square/anvil](https://github.com/square/anvil): "Add JvmOverloads to useKsp()"
 
-**2024-03-13** — merged PR [#917](https://github.com/square/anvil/pull/917) to [square/anvil](https://github.com/square/anvil): "Support K2 in AnvilComponentRegistrar"
+**2024-03-13** — opened PR [#925](https://github.com/square/anvil/pull/925) to [square/anvil](https://github.com/square/anvil): "Add JvmOverloads to useKsp()"
 
-**2024-03-13** — deleted branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-13** — created branch `z/overloads` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-03-13** — merged PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Restructure binding module code gen"
+**2024-03-13** — deleted branch `test-renovate/kotlin-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-13** — deleted branch `z/sourceFilesKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-13** — merged PR [#770](https://github.com/slackhq/slack-gradle-plugin/pull/770) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin monorepo to v1.9.23"
 
-**2024-03-13** — deleted branch `z/kspWiring` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-13** — opened PR [#778](https://github.com/slackhq/slack-gradle-plugin/pull/778) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate Kotlin's -Xjdk-release option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
