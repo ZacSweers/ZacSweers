@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-13** — closed issue [#908](https://github.com/square/anvil/issues/908) on [square/anvil](https://github.com/square/anvil): "Explore merging `ModuleMergerIr` and `InterfaceMergerIr`"
+
+**2024-03-13** — merged PR [#920](https://github.com/square/anvil/pull/920) to [square/anvil](https://github.com/square/anvil): "Merge IR mergers into one single-pass"
+
+**2024-03-13** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-03-13** — deleted branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-13** — commented on [#1385](https://github.com/google/ksp/issues/1385#issuecomment-1995106271) in [google/ksp](https://github.com/google/ksp)
