@@ -15,10 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-12** — merged PR [#907](https://github.com/square/anvil/pull/907) to [square/anvil](https://github.com/square/anvil): "Migrate interface merging to IR"
 
 **2024-03-12** — merged PR [#899](https://github.com/square/anvil/pull/899) to [square/anvil](https://github.com/square/anvil): "Fix missing `KSPropertySetter` in member injection code gen"
-
-**2024-03-12** — closed issue [#914](https://github.com/square/anvil/issues/914) on [square/anvil](https://github.com/square/anvil): "K2: hints aren't discoverable in K2 IR"
-
-**2024-03-12** — merged PR [#916](https://github.com/square/anvil/pull/916) to [square/anvil](https://github.com/square/anvil): "Work around FIR missing getPackage()"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
