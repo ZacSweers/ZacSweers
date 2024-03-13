@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-13** — opened PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
+
+**2024-03-13** — opened PR [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Anvil KSP support"
+
+**2024-03-13** — deleted branch `z/supportK2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-13** — created branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-13** — closed issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
+
+**2024-03-13** — merged PR [#917](https://github.com/square/anvil/pull/917) to [square/anvil](https://github.com/square/anvil): "Support K2 in AnvilComponentRegistrar"
+
+**2024-03-13** — deleted branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-13** — merged PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Restructure binding module code gen"
+
 **2024-03-13** — deleted branch `z/sourceFilesKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-13** — deleted branch `z/kspWiring` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-13** — merged PR [#901](https://github.com/square/anvil/pull/901) to [square/anvil](https://github.com/square/anvil): "Auto wire KSP when running in KSP mode"
-
-**2024-03-13** — commented on [#877](https://github.com/square/anvil/pull/877#issuecomment-1995600796) in [square/anvil](https://github.com/square/anvil)
-
-**2024-03-13** — deleted branch `z/mergeIr` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-13** — closed issue [#908](https://github.com/square/anvil/issues/908) on [square/anvil](https://github.com/square/anvil): "Explore merging `ModuleMergerIr` and `InterfaceMergerIr`"
-
-**2024-03-13** — merged PR [#920](https://github.com/square/anvil/pull/920) to [square/anvil](https://github.com/square/anvil): "Merge IR mergers into one single-pass"
-
-**2024-03-13** — created branch `z/fork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
