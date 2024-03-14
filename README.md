@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-14** — opened PR [#1796](https://github.com/google/ksp/pull/1796) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getSubpackagesOf()"
+
+**2024-03-14** — created branch `z/subpackages` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
+
 **2024-03-14** — opened issue [#1795](https://github.com/google/ksp/issues/1795) on [google/ksp](https://github.com/google/ksp): "Feature request: Resolver.getSubpackages(String)"
 
 **2024-03-14** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1998254177) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-14** — merged PR [#304](https://github.com/slackhq/compose-lints/pull/304) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix broken reference link in Modifier rules section"
 
 **2024-03-14** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-1997571740) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-14** — opened PR [#927](https://github.com/square/anvil/pull/927) to [square/anvil](https://github.com/square/anvil): "Remove leftover AnvilModule name refs in IrContributionMerger"
-
-**2024-03-14** — created branch `z/removeAnvilModule` on [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
