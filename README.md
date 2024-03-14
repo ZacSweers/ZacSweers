@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-14** — deleted branch `z/setDisallowChanges` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-03-14** — merged PR [#926](https://github.com/square/anvil/pull/926) to [square/anvil](https://github.com/square/anvil): "Don't use internal AGP API"
+
 **2024-03-14** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-14** — merged PR [#779](https://github.com/slackhq/slack-gradle-plugin/pull/779) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update compose.jb to v1.6.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-14** — opened PR [#926](https://github.com/square/anvil/pull/926) to [square/anvil](https://github.com/square/anvil): "Don't use internal AGP API"
 
 **2024-03-14** — created branch `z/setDisallowChanges` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-03-13** — deleted branch `z/kotlinJdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-13** — merged PR [#778](https://github.com/slackhq/slack-gradle-plugin/pull/778) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate Kotlin's -Xjdk-release option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
