@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-13** — deleted branch `z/kotlinJdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-13** — merged PR [#778](https://github.com/slackhq/slack-gradle-plugin/pull/778) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate Kotlin's -Xjdk-release option"
+
 **2024-03-13** — deleted branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-13** — merged PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-13** — created branch `z/overloads` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-03-13** — deleted branch `test-renovate/kotlin-monorepo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-13** — merged PR [#770](https://github.com/slackhq/slack-gradle-plugin/pull/770) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update kotlin monorepo to v1.9.23"
-
-**2024-03-13** — opened PR [#778](https://github.com/slackhq/slack-gradle-plugin/pull/778) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate Kotlin's -Xjdk-release option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
