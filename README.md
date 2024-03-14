@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-14** — deleted branch `test-renovate/compose.jb` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-03-14** — merged PR [#779](https://github.com/slackhq/slack-gradle-plugin/pull/779) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update compose.jb to v1.6.1"
+
+**2024-03-14** — merged PR [#304](https://github.com/slackhq/compose-lints/pull/304) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix broken reference link in Modifier rules section"
+
 **2024-03-14** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-1997571740) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-14** — opened PR [#927](https://github.com/square/anvil/pull/927) to [square/anvil](https://github.com/square/anvil): "Remove leftover AnvilModule name refs in IrContributionMerger"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-13** — deleted branch `z/kotlinJdk` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-13** — merged PR [#778](https://github.com/slackhq/slack-gradle-plugin/pull/778) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Incorporate Kotlin's -Xjdk-release option"
-
-**2024-03-13** — deleted branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-13** — merged PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
-
-**2024-03-13** — commented on [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776#issuecomment-1995979225) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
