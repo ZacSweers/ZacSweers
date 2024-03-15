@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-15** — opened PR [#934](https://github.com/square/anvil/pull/934) to [square/anvil](https://github.com/square/anvil): "Migrate binding priority to int-based system"
+
+**2024-03-15** — created branch `z/priorityInt` on [square/anvil](https://github.com/square/anvil)
+
 **2024-03-15** — deleted branch `z/fixKSPPriority` on [square/anvil](https://github.com/square/anvil)
 
 **2024-03-15** — merged PR [#933](https://github.com/square/anvil/pull/933) to [square/anvil](https://github.com/square/anvil): "Fix KSP resolution of Priority"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-14** — deleted branch `z/removeAnvilModule` on [square/anvil](https://github.com/square/anvil)
 
 **2024-03-14** — merged PR [#927](https://github.com/square/anvil/pull/927) to [square/anvil](https://github.com/square/anvil): "Remove leftover AnvilModule name refs in IrContributionMerger"
-
-**2024-03-14** — created tag `0.16.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-14** — deleted branch `z/anvilKspWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
