@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-15** — deleted branch `z/fixKSPPriority` on [square/anvil](https://github.com/square/anvil)
+
+**2024-03-15** — merged PR [#933](https://github.com/square/anvil/pull/933) to [square/anvil](https://github.com/square/anvil): "Fix KSP resolution of Priority"
+
+**2024-03-15** — opened PR [#933](https://github.com/square/anvil/pull/933) to [square/anvil](https://github.com/square/anvil): "Fix KSP resolution of Priority"
+
+**2024-03-15** — created branch `z/fixKSPPriority` on [square/anvil](https://github.com/square/anvil)
+
 **2024-03-15** — merged PR [#931](https://github.com/square/anvil/pull/931) to [square/anvil](https://github.com/square/anvil): "fix interface based @ContributesSubcomponent.Factory in KSP"
 
 **2024-03-14** — created tag `0.16.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-14** — created tag `0.16.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-14** — deleted branch `z/anvilKspWork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-14** — merged PR [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Anvil KSP support"
-
-**2024-03-14** — opened PR [#1796](https://github.com/google/ksp/pull/1796) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getSubpackagesOf()"
-
-**2024-03-14** — created branch `z/subpackages` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
-
-**2024-03-14** — opened issue [#1795](https://github.com/google/ksp/issues/1795) on [google/ksp](https://github.com/google/ksp): "Feature request: Resolver.getSubpackages(String)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
