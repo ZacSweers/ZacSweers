@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-15** — commented on [#934](https://github.com/square/anvil/pull/934#issuecomment-2000524121) in [square/anvil](https://github.com/square/anvil)
+
+**2024-03-15** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2000511986) in [google/ksp](https://github.com/google/ksp)
+
 **2024-03-15** — opened PR [#934](https://github.com/square/anvil/pull/934) to [square/anvil](https://github.com/square/anvil): "Migrate binding priority to int-based system"
 
 **2024-03-15** — created branch `z/priorityInt` on [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-15** — merged PR [#931](https://github.com/square/anvil/pull/931) to [square/anvil](https://github.com/square/anvil): "fix interface based @ContributesSubcomponent.Factory in KSP"
 
 **2024-03-14** — created tag `0.16.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-14** — deleted branch `z/removeAnvilModule` on [square/anvil](https://github.com/square/anvil)
-
-**2024-03-14** — merged PR [#927](https://github.com/square/anvil/pull/927) to [square/anvil](https://github.com/square/anvil): "Remove leftover AnvilModule name refs in IrContributionMerger"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
