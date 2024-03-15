@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-15** — merged PR [#931](https://github.com/square/anvil/pull/931) to [square/anvil](https://github.com/square/anvil): "fix interface based @ContributesSubcomponent.Factory in KSP"
+
 **2024-03-14** — created tag `0.16.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-14** — deleted branch `z/removeAnvilModule` on [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-14** — created branch `z/subpackages` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
 
 **2024-03-14** — opened issue [#1795](https://github.com/google/ksp/issues/1795) on [google/ksp](https://github.com/google/ksp): "Feature request: Resolver.getSubpackages(String)"
-
-**2024-03-14** — commented on [#831](https://github.com/square/anvil/pull/831#issuecomment-1998254177) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
