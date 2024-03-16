@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-16** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-16** — merged PR [#1324](https://github.com/ZacSweers/CatchUp/pull/1324) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.alorma:compose-settings-storage-base to v2"
+
+**2024-03-16** — merged PR [#306](https://github.com/slackhq/compose-lints/pull/306) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Remove broken link to Modifier.composed{ }"
+
 **2024-03-15** — opened issue [#935](https://github.com/square/anvil/issues/935) on [square/anvil](https://github.com/square/anvil): "KSP mode leaks kotlin-compiler-embeddable into javac classpath somwhow"
 
 **2024-03-15** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-15** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-15** — merged PR [#1320](https://github.com/ZacSweers/CatchUp/pull/1320) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.45.2.0"
-
-**2024-03-15** — deleted branch `renovate/okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-15** — merged PR [#1321](https://github.com/ZacSweers/CatchUp/pull/1321) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.9.0"
-
-**2024-03-15** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
