@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-15** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2000979659) in [google/ksp](https://github.com/google/ksp)
+**2024-03-15** — opened issue [#935](https://github.com/square/anvil/issues/935) on [square/anvil](https://github.com/square/anvil): "KSP mode leaks kotlin-compiler-embeddable into javac classpath somwhow"
 
-**2024-03-15** — commented on [#782](https://github.com/slackhq/slack-gradle-plugin/pull/782#issuecomment-2000974833) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-15** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-15** — commented on [#934](https://github.com/square/anvil/pull/934#issuecomment-2000524121) in [square/anvil](https://github.com/square/anvil)
+**2024-03-15** — merged PR [#1326](https://github.com/ZacSweers/CatchUp/pull/1326) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.16.1"
 
-**2024-03-15** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2000511986) in [google/ksp](https://github.com/google/ksp)
+**2024-03-15** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-15** — opened PR [#934](https://github.com/square/anvil/pull/934) to [square/anvil](https://github.com/square/anvil): "Migrate binding priority to int-based system"
+**2024-03-15** — merged PR [#1319](https://github.com/ZacSweers/CatchUp/pull/1319) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.26.1"
 
-**2024-03-15** — created branch `z/priorityInt` on [square/anvil](https://github.com/square/anvil)
+**2024-03-15** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-15** — deleted branch `z/fixKSPPriority` on [square/anvil](https://github.com/square/anvil)
+**2024-03-15** — merged PR [#1320](https://github.com/ZacSweers/CatchUp/pull/1320) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.45.2.0"
 
-**2024-03-15** — merged PR [#933](https://github.com/square/anvil/pull/933) to [square/anvil](https://github.com/square/anvil): "Fix KSP resolution of Priority"
+**2024-03-15** — deleted branch `renovate/okio` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-15** — opened PR [#933](https://github.com/square/anvil/pull/933) to [square/anvil](https://github.com/square/anvil): "Fix KSP resolution of Priority"
+**2024-03-15** — merged PR [#1321](https://github.com/ZacSweers/CatchUp/pull/1321) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.9.0"
 
-**2024-03-15** — created branch `z/fixKSPPriority` on [square/anvil](https://github.com/square/anvil)
+**2024-03-15** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
