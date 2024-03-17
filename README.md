@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-17** — opened PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
+
+**2024-03-17** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2002310158) in [google/ksp](https://github.com/google/ksp)
+
+**2024-03-17** — created branch `z/detailView` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-03-16** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-16** — merged PR [#1324](https://github.com/ZacSweers/CatchUp/pull/1324) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.alorma:compose-settings-storage-base to v2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-15** — merged PR [#1326](https://github.com/ZacSweers/CatchUp/pull/1326) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.16.1"
 
 **2024-03-15** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-15** — merged PR [#1319](https://github.com/ZacSweers/CatchUp/pull/1319) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.26.1"
-
-**2024-03-15** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-15** — merged PR [#1320](https://github.com/ZacSweers/CatchUp/pull/1320) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.45.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
