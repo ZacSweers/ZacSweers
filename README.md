@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-18** — created tag `0.20.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-03-18** — closed issue [#1288](https://github.com/slackhq/circuit/issues/1288) on [slackhq/circuit](https://github.com/slackhq/circuit): "[0.20.0-SNAPSHOT] circuit runtime dependencies include `9999.0-empty-to-avoid-conflict-with-guava`"
 
 **2024-03-18** — merged PR [#1289](https://github.com/slackhq/circuit/pull/1289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use alternate guava workaround to avoid listenablefuture:9999.0 version dependency"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-17** — created branch `z/detailView` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-16** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-16** — merged PR [#1324](https://github.com/ZacSweers/CatchUp/pull/1324) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.alorma:compose-settings-storage-base to v2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
