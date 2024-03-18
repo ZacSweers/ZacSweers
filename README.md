@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-18** — deleted branch `renovate/retrofit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-18** — merged PR [#1329](https://github.com/ZacSweers/CatchUp/pull/1329) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update retrofit to v2.10.0"
+
 **2024-03-18** — created tag `0.20.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-18** — closed issue [#1288](https://github.com/slackhq/circuit/issues/1288) on [slackhq/circuit](https://github.com/slackhq/circuit): "[0.20.0-SNAPSHOT] circuit runtime dependencies include `9999.0-empty-to-avoid-conflict-with-guava`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-17** — opened PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
 
 **2024-03-17** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2002310158) in [google/ksp](https://github.com/google/ksp)
-
-**2024-03-17** — created branch `z/detailView` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-16** — deleted branch `renovate/com.github.alorma-compose-settings-storage-base-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
