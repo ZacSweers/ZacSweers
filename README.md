@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-18** — commented on [#1327](https://github.com/ZacSweers/CatchUp/pull/1327#issuecomment-2002911305) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-18** — commented on [#1288](https://github.com/slackhq/circuit/issues/1288#issuecomment-2002909162) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-03-17** — opened PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
 
 **2024-03-17** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2002310158) in [google/ksp](https://github.com/google/ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-15** — opened issue [#935](https://github.com/square/anvil/issues/935) on [square/anvil](https://github.com/square/anvil): "KSP mode leaks kotlin-compiler-embeddable into javac classpath somwhow"
 
 **2024-03-15** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-15** — merged PR [#1326](https://github.com/ZacSweers/CatchUp/pull/1326) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.16.1"
-
-**2024-03-15** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
