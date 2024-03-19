@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-18** — closed issue [#1288](https://github.com/slackhq/circuit/issues/1288) on [slackhq/circuit](https://github.com/slackhq/circuit): "[0.20.0-SNAPSHOT] circuit runtime dependencies include `9999.0-empty-to-avoid-conflict-with-guava`"
 
 **2024-03-18** — merged PR [#1289](https://github.com/slackhq/circuit/pull/1289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use alternate guava workaround to avoid listenablefuture:9999.0 version dependency"
-
-**2024-03-18** — commented on [#1289](https://github.com/slackhq/circuit/pull/1289#issuecomment-2004595534) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
