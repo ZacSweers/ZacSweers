@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-18** — merged PR [#1289](https://github.com/slackhq/circuit/pull/1289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use alternate guava workaround to avoid listenablefuture:9999.0 version dependency"
 
 **2024-03-18** — commented on [#1289](https://github.com/slackhq/circuit/pull/1289#issuecomment-2004595534) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-18** — commented on [#1327](https://github.com/ZacSweers/CatchUp/pull/1327#issuecomment-2002911305) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-18** — commented on [#1288](https://github.com/slackhq/circuit/issues/1288#issuecomment-2002909162) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-17** — opened PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
