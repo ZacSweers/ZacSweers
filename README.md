@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-20** — deleted branch `renovate/com.squareup.retrofit2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-03-20** — merged PR [#248](https://github.com/slackhq/slack-lints/pull/248) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.28.0"
+
+**2024-03-20** — merged PR [#249](https://github.com/slackhq/slack-lints/pull/249) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v2.10.0"
+
 **2024-03-19** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-03-19** — merged PR [#202](https://github.com/ZacSweers/redacted-compiler-plugin/pull/202) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.20"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-19** — merged PR [#204](https://github.com/ZacSweers/redacted-compiler-plugin/pull/204) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.28.0"
 
 **2024-03-19** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-03-19** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-19** — merged PR [#564](https://github.com/ZacSweers/MoshiX/pull/564) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.28.0"
-
-**2024-03-19** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-19** — merged PR [#565](https://github.com/ZacSweers/MoshiX/pull/565) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.1.0-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
