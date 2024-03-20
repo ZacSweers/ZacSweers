@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-18** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2005640849) in [google/ksp](https://github.com/google/ksp)
+**2024-03-19** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-18** — deleted branch `renovate/retrofit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-19** — merged PR [#202](https://github.com/ZacSweers/redacted-compiler-plugin/pull/202) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.20"
 
-**2024-03-18** — merged PR [#1329](https://github.com/ZacSweers/CatchUp/pull/1329) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update retrofit to v2.10.0"
+**2024-03-19** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-18** — created tag `0.20.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-19** — merged PR [#200](https://github.com/ZacSweers/redacted-compiler-plugin/pull/200) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.4.2"
 
-**2024-03-18** — closed issue [#1288](https://github.com/slackhq/circuit/issues/1288) on [slackhq/circuit](https://github.com/slackhq/circuit): "[0.20.0-SNAPSHOT] circuit runtime dependencies include `9999.0-empty-to-avoid-conflict-with-guava`"
+**2024-03-19** — merged PR [#204](https://github.com/ZacSweers/redacted-compiler-plugin/pull/204) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.28.0"
 
-**2024-03-18** — merged PR [#1289](https://github.com/slackhq/circuit/pull/1289) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use alternate guava workaround to avoid listenablefuture:9999.0 version dependency"
+**2024-03-19** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-03-19** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-19** — merged PR [#564](https://github.com/ZacSweers/MoshiX/pull/564) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.28.0"
+
+**2024-03-19** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-19** — merged PR [#565](https://github.com/ZacSweers/MoshiX/pull/565) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.1.0-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
