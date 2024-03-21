@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-20** — closed PR [#226](https://github.com/ZacSweers/kotlin-compile-testing/pull/226) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+**2024-03-20** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-20** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-20** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-20** — merged PR [#227](https://github.com/ZacSweers/kotlin-compile-testing/pull/227) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.168"
+**2024-03-20** — merged PR [#307](https://github.com/slackhq/compose-lints/pull/307) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.14"
 
-**2024-03-20** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-20** — merged PR [#228](https://github.com/ZacSweers/kotlin-compile-testing/pull/228) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.23-1.0.19"
+**2024-03-20** — deleted branch `renovate/markdown-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-20** — deleted branch `renovate/major-idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-20** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-03-20** — merged PR [#229](https://github.com/ZacSweers/kotlin-compile-testing/pull/229) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v242 (major)"
+**2024-03-20** — merged PR [#301](https://github.com/slackhq/compose-lints/pull/301) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha13"
 
-**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-20** — merged PR [#305](https://github.com/slackhq/compose-lints/pull/305) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Markdown to v3.6"
 
-**2024-03-20** — merged PR [#230](https://github.com/ZacSweers/kotlin-compile-testing/pull/230) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.28.0"
+**2024-03-20** — merged PR [#302](https://github.com/slackhq/compose-lints/pull/302) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.28.0"
 
-**2024-03-20** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-03-20** — merged PR [#308](https://github.com/slackhq/compose-lints/pull/308) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.3.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
