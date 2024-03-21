@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-20** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-20** — merged PR [#124](https://github.com/slackhq/kotlin-cli-util/pull/124) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.22-1.0.17 to 1.9.23-1.0.19"
 
-**2024-03-20** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-20** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.23-1.0.19` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-03-20** — merged PR [#307](https://github.com/slackhq/compose-lints/pull/307) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.14"
+**2024-03-20** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.9.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-20** — merged PR [#126](https://github.com/slackhq/kotlin-cli-util/pull/126) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.8.0 to 3.9.0"
 
-**2024-03-20** — deleted branch `renovate/markdown-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-20** — deleted branch `dependabot/gradle/com.android.lint-8.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-03-20** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-20** — merged PR [#128](https://github.com/slackhq/kotlin-cli-util/pull/128) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.1.2 to 8.3.1"
 
-**2024-03-20** — merged PR [#301](https://github.com/slackhq/compose-lints/pull/301) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.4.0-alpha13"
+**2024-03-20** — deleted branch `dependabot/gradle/kotlin-1.9.23` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-03-20** — merged PR [#305](https://github.com/slackhq/compose-lints/pull/305) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Markdown to v3.6"
+**2024-03-20** — merged PR [#123](https://github.com/slackhq/kotlin-cli-util/pull/123) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.22 to 1.9.23"
 
-**2024-03-20** — merged PR [#302](https://github.com/slackhq/compose-lints/pull/302) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.28.0"
+**2024-03-20** — deleted branch `dependabot/gradle/io.github.detekt.sarif4k-sarif4k-0.6.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-03-20** — merged PR [#308](https://github.com/slackhq/compose-lints/pull/308) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.3.1"
+**2024-03-20** — merged PR [#125](https://github.com/slackhq/kotlin-cli-util/pull/125) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.github.detekt.sarif4k:sarif4k from 0.5.0 to 0.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
