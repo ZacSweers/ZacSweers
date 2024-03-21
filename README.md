@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-20** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-20** — closed PR [#226](https://github.com/ZacSweers/kotlin-compile-testing/pull/226) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
-**2024-03-20** — merged PR [#1330](https://github.com/ZacSweers/CatchUp/pull/1330) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.3.0"
+**2024-03-20** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-03-20** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-20** — merged PR [#227](https://github.com/ZacSweers/kotlin-compile-testing/pull/227) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.168"
 
-**2024-03-20** — merged PR [#1331](https://github.com/ZacSweers/CatchUp/pull/1331) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.3"
+**2024-03-20** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-03-20** — merged PR [#1332](https://github.com/ZacSweers/CatchUp/pull/1332) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-beta01"
+**2024-03-20** — merged PR [#228](https://github.com/ZacSweers/kotlin-compile-testing/pull/228) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.23-1.0.19"
 
-**2024-03-20** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-20** — deleted branch `renovate/major-idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-03-20** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-20** — merged PR [#229](https://github.com/ZacSweers/kotlin-compile-testing/pull/229) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v242 (major)"
 
-**2024-03-20** — merged PR [#1333](https://github.com/ZacSweers/CatchUp/pull/1333) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha05"
+**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-03-20** — deleted branch `renovate/androidx.annotation-annotation-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-20** — merged PR [#230](https://github.com/ZacSweers/kotlin-compile-testing/pull/230) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.28.0"
 
-**2024-03-20** — merged PR [#1334](https://github.com/ZacSweers/CatchUp/pull/1334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.8.0-alpha02"
+**2024-03-20** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
