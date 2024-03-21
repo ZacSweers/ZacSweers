@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-20** — deleted branch `renovate/com.squareup.retrofit2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-20** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-20** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-20** — merged PR [#1330](https://github.com/ZacSweers/CatchUp/pull/1330) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.3.0"
 
-**2024-03-20** — merged PR [#248](https://github.com/slackhq/slack-lints/pull/248) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.28.0"
+**2024-03-20** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-20** — merged PR [#249](https://github.com/slackhq/slack-lints/pull/249) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v2.10.0"
+**2024-03-20** — merged PR [#1331](https://github.com/ZacSweers/CatchUp/pull/1331) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v3.8.3"
 
-**2024-03-19** — deleted branch `renovate/org.jetbrains.dokka-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-03-20** — merged PR [#1332](https://github.com/ZacSweers/CatchUp/pull/1332) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.13.0-beta01"
 
-**2024-03-19** — merged PR [#202](https://github.com/ZacSweers/redacted-compiler-plugin/pull/202) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v1.9.20"
+**2024-03-20** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-19** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-03-20** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-19** — merged PR [#200](https://github.com/ZacSweers/redacted-compiler-plugin/pull/200) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.4.2"
+**2024-03-20** — merged PR [#1333](https://github.com/ZacSweers/CatchUp/pull/1333) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha05"
 
-**2024-03-19** — merged PR [#204](https://github.com/ZacSweers/redacted-compiler-plugin/pull/204) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.28.0"
+**2024-03-20** — deleted branch `renovate/androidx.annotation-annotation-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-19** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-03-20** — merged PR [#1334](https://github.com/ZacSweers/CatchUp/pull/1334) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.8.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
