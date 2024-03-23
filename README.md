@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-20** — merged PR [#124](https://github.com/slackhq/kotlin-cli-util/pull/124) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.22-1.0.17 to 1.9.23-1.0.19"
+**2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-03-20** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.23-1.0.19` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-03-23** — merged PR [#570](https://github.com/ZacSweers/MoshiX/pull/570) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.7"
 
-**2024-03-20** — deleted branch `dependabot/gradle/com.squareup.okio-okio-3.9.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-20** — merged PR [#126](https://github.com/slackhq/kotlin-cli-util/pull/126) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.8.0 to 3.9.0"
+**2024-03-23** — merged PR [#156](https://github.com/ZacSweers/ZacSweers/pull/156) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.7"
 
-**2024-03-20** — deleted branch `dependabot/gradle/com.android.lint-8.3.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-03-23** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-20** — merged PR [#128](https://github.com/slackhq/kotlin-cli-util/pull/128) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.1.2 to 8.3.1"
+**2024-03-23** — merged PR [#1340](https://github.com/ZacSweers/CatchUp/pull/1340) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 
-**2024-03-20** — deleted branch `dependabot/gradle/kotlin-1.9.23` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-20** — merged PR [#123](https://github.com/slackhq/kotlin-cli-util/pull/123) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.22 to 1.9.23"
+**2024-03-23** — merged PR [#1341](https://github.com/ZacSweers/CatchUp/pull/1341) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.7"
 
-**2024-03-20** — deleted branch `dependabot/gradle/io.github.detekt.sarif4k-sarif4k-0.6.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-03-23** — deleted branch `renovate/org.ow2.asm-asm-9.x` on [square/moshi](https://github.com/square/moshi)
 
-**2024-03-20** — merged PR [#125](https://github.com/slackhq/kotlin-cli-util/pull/125) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.github.detekt.sarif4k:sarif4k from 0.5.0 to 0.6.0"
+**2024-03-23** — merged PR [#1829](https://github.com/square/moshi/pull/1829) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
