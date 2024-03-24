@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-24** — merged PR [#1343](https://github.com/ZacSweers/CatchUp/pull/1343) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix header image in README.md"
+
 **2024-03-24** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2016919129) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-24** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2016915414) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-23** — merged PR [#156](https://github.com/ZacSweers/ZacSweers/pull/156) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.7"
 
 **2024-03-23** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-23** — merged PR [#1340](https://github.com/ZacSweers/CatchUp/pull/1340) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
