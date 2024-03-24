@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-24** — commented on [#245](https://github.com/slackhq/circuit/issues/245#issuecomment-2016894802) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-03-24** — closed issue [#245](https://github.com/slackhq/circuit/issues/245) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add code gen docs to site"
+
 **2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-03-23** — merged PR [#570](https://github.com/ZacSweers/MoshiX/pull/570) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-03-23** — merged PR [#1341](https://github.com/ZacSweers/CatchUp/pull/1341) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.7"
-
-**2024-03-23** — deleted branch `renovate/org.ow2.asm-asm-9.x` on [square/moshi](https://github.com/square/moshi)
-
-**2024-03-23** — merged PR [#1829](https://github.com/square/moshi/pull/1829) to [square/moshi](https://github.com/square/moshi): "Update dependency org.ow2.asm:asm to v9.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
