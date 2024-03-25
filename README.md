@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-25** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2024-03-25** — merged PR [#74](https://github.com/slackhq/moshi-gson-interop/pull/74) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.diffplug.spotless from 6.23.3 to 6.25.0"
+
+**2024-03-25** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.2` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2024-03-25** — merged PR [#79](https://github.com/slackhq/moshi-gson-interop/pull/79) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.4.1 to 1.4.2"
+
+**2024-03-25** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.6` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+
+**2024-03-25** — merged PR [#83](https://github.com/slackhq/moshi-gson-interop/pull/83) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump io.gitlab.arturbosch.detekt from 1.23.5 to 1.23.6"
+
 **2024-03-25** — commented on [#1712](https://github.com/square/moshi/issues/1712#issuecomment-2018081086) in [square/moshi](https://github.com/square/moshi)
 
 **2024-03-24** — merged PR [#1343](https://github.com/ZacSweers/CatchUp/pull/1343) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fix header image in README.md"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-24** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2016919129) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-24** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2016915414) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-24** — commented on [#245](https://github.com/slackhq/circuit/issues/245#issuecomment-2016894802) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-24** — closed issue [#245](https://github.com/slackhq/circuit/issues/245) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add code gen docs to site"
-
-**2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-03-23** — merged PR [#570](https://github.com/ZacSweers/MoshiX/pull/570) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.7"
-
-**2024-03-23** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-03-23** — merged PR [#156](https://github.com/ZacSweers/ZacSweers/pull/156) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
