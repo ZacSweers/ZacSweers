@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-25** — deleted branch `renovate/com.jakewharton-process-phoenix-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-03-25** — merged PR [#1345](https://github.com/ZacSweers/CatchUp/pull/1345) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.jakewharton:process-phoenix to v3"
+
 **2024-03-25** — deleted branch `dependabot/gradle/org.jetbrains.kotlin-kotlin-test-1.9.23` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2024-03-25** — deleted branch `dependabot/gradle/jvm-1.9.23` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-25** — merged PR [#114](https://github.com/slackhq/auto-value-kotlin/pull/114) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.kotlin:kotlin-test from 1.9.22 to 1.9.23"
 
 **2024-03-25** — merged PR [#112](https://github.com/slackhq/auto-value-kotlin/pull/112) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump jvm from 1.9.22 to 1.9.23"
-
-**2024-03-25** — deleted branch `dependabot/gradle/io.gitlab.arturbosch.detekt-1.23.6` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-03-25** — merged PR [#117](https://github.com/slackhq/auto-value-kotlin/pull/117) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump io.gitlab.arturbosch.detekt from 1.23.5 to 1.23.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
