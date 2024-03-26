@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-25** — created tag `0.4.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-03-25** — closed PR [#233](https://github.com/ZacSweers/kotlin-compile-testing/pull/233) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2024-03-25** — merged PR [#234](https://github.com/ZacSweers/kotlin-compile-testing/pull/234) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix decoding of classloader resources"
+
 **2024-03-25** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.28.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 
 **2024-03-25** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-25** — merged PR [#111](https://github.com/slackhq/auto-value-kotlin/pull/111) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump org.jetbrains.dokka from 1.9.10 to 1.9.20"
 
 **2024-03-25** — merged PR [#115](https://github.com/slackhq/auto-value-kotlin/pull/115) to [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin): "Bump com.vanniktech.maven.publish from 0.27.0 to 0.28.0"
-
-**2024-03-25** — deleted branch `renovate/io.gitlab.arturbosch.detekt-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-25** — merged PR [#313](https://github.com/slackhq/compose-lints/pull/313) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.6"
-
-**2024-03-25** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-03-25** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
