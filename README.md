@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-26** — deleted branch `z/interopImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-03-26** — merged PR [#1193](https://github.com/slackhq/circuit/pull/1193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revamp interop sample"
+
 **2024-03-25** — deleted branch `z/wasm` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-25** — closed issue [#1100](https://github.com/slackhq/circuit/issues/1100) on [slackhq/circuit](https://github.com/slackhq/circuit): "Counter JS app sample no longer works"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-25** — merged PR [#234](https://github.com/ZacSweers/kotlin-compile-testing/pull/234) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix decoding of classloader resources"
 
 **2024-03-25** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.28.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-03-25** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.2` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
-
-**2024-03-25** — deleted branch `dependabot/gradle/org.jetbrains.dokka-1.9.20` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
