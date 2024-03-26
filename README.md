@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-25** — closed PR [#233](https://github.com/ZacSweers/kotlin-compile-testing/pull/233) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
 **2024-03-25** — merged PR [#234](https://github.com/ZacSweers/kotlin-compile-testing/pull/234) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix decoding of classloader resources"
-
-**2024-03-25** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.28.0` on [slackhq/auto-value-kotlin](https://github.com/slackhq/auto-value-kotlin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
