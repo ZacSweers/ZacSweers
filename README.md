@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-27** — commented on [#254](https://github.com/slackhq/slack-lints/issues/254#issuecomment-2023357043) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-27** — commented on [#1305](https://github.com/slackhq/circuit/pull/1305#issuecomment-2023493252) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-03-27** — created tag `0.7.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-27** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2023492291) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-03-27** — closed issue [#254](https://github.com/slackhq/slack-lints/issues/254) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "MustUseNamedParams is not registered in SlackIssueRegistry"
+**2024-03-27** — commented on [#938](https://github.com/square/anvil/issues/938#issuecomment-2023454841) in [square/anvil](https://github.com/square/anvil)
 
-**2024-03-27** — deleted branch `z/enableMustUseNamedParamsDetector` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-27** — commented on [#932](https://github.com/square/anvil/issues/932#issuecomment-2023453877) in [square/anvil](https://github.com/square/anvil)
 
-**2024-03-27** — merged PR [#255](https://github.com/slackhq/slack-lints/pull/255) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add MustUseNamedParamsDetector to lint registry"
+**2024-03-27** — opened issue [#939](https://github.com/square/anvil/issues/939) on [square/anvil](https://github.com/square/anvil): "Adopt new KSP moduleName API or better handle in KSP2"
 
-**2024-03-27** — opened PR [#255](https://github.com/slackhq/slack-lints/pull/255) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add MustUseNamedParamsDetector to lint registry"
+**2024-03-27** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-27** — created branch `z/enableMustUseNamedParamsDetector` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-03-27** — merged PR [#206](https://github.com/ZacSweers/redacted-compiler-plugin/pull/206) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.4.1"
 
-**2024-03-26** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2021582435) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-27** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-26** — deleted branch `z/interopImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-27** — merged PR [#205](https://github.com/ZacSweers/redacted-compiler-plugin/pull/205) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.7"
 
-**2024-03-26** — merged PR [#1193](https://github.com/slackhq/circuit/pull/1193) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revamp interop sample"
+**2024-03-27** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
