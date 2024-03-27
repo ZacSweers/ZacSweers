@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-27** — closed issue [#254](https://github.com/slackhq/slack-lints/issues/254) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "MustUseNamedParams is not registered in SlackIssueRegistry"
+
+**2024-03-27** — deleted branch `z/enableMustUseNamedParamsDetector` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-03-27** — merged PR [#255](https://github.com/slackhq/slack-lints/pull/255) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add MustUseNamedParamsDetector to lint registry"
+
+**2024-03-27** — opened PR [#255](https://github.com/slackhq/slack-lints/pull/255) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add MustUseNamedParamsDetector to lint registry"
+
+**2024-03-27** — created branch `z/enableMustUseNamedParamsDetector` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-03-26** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2021582435) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-26** — deleted branch `z/interopImprovements` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-25** — deleted branch `z/wasm` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-25** — closed issue [#1100](https://github.com/slackhq/circuit/issues/1100) on [slackhq/circuit](https://github.com/slackhq/circuit): "Counter JS app sample no longer works"
-
-**2024-03-25** — merged PR [#1245](https://github.com/slackhq/circuit/pull/1245) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add WASM support"
-
-**2024-03-25** — created tag `0.4.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-03-25** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-03-25** — closed PR [#233](https://github.com/ZacSweers/kotlin-compile-testing/pull/233) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2024-03-25** — merged PR [#234](https://github.com/ZacSweers/kotlin-compile-testing/pull/234) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix decoding of classloader resources"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
