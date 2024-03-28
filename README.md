@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-13** — opened PR [#777](https://github.com/slackhq/slack-gradle-plugin/pull/777) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Fix configuration cache when setting module name"
+**2024-03-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-13** — opened PR [#776](https://github.com/slackhq/slack-gradle-plugin/pull/776) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update Anvil KSP support"
+**2024-03-28** — merged PR [#151](https://github.com/ZacSweers/ZacSweers/pull/151) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.23-1.0.19"
 
-**2024-03-13** — deleted branch `z/supportK2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-28** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-13** — created branch `z/fixCC` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-28** — merged PR [#155](https://github.com/ZacSweers/ZacSweers/pull/155) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.9.0"
 
-**2024-03-13** — closed issue [#912](https://github.com/square/anvil/issues/912) on [square/anvil](https://github.com/square/anvil): "Enable K2 support in AnvilCompilerRegistrar"
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-13** — merged PR [#917](https://github.com/square/anvil/pull/917) to [square/anvil](https://github.com/square/anvil): "Support K2 in AnvilComponentRegistrar"
+**2024-03-28** — merged PR [#149](https://github.com/ZacSweers/ZacSweers/pull/149) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.1"
 
-**2024-03-13** — deleted branch `z/ksp/newBindsModule` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-13** — merged PR [#877](https://github.com/square/anvil/pull/877) to [square/anvil](https://github.com/square/anvil): "Restructure binding module code gen"
+**2024-03-28** — merged PR [#157](https://github.com/ZacSweers/ZacSweers/pull/157) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.3.0"
 
-**2024-03-13** — deleted branch `z/sourceFilesKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-28** — merged PR [#1342](https://github.com/ZacSweers/CatchUp/pull/1342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 
-**2024-03-13** — deleted branch `z/kspWiring` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-03-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
