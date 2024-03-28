@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-03-28** — closed PR [#154](https://github.com/ZacSweers/ZacSweers/pull/154) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
+
+**2024-03-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-03-28** — merged PR [#153](https://github.com/ZacSweers/ZacSweers/pull/153) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.23"
+
 **2024-03-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-03-28** — merged PR [#151](https://github.com/ZacSweers/ZacSweers/pull/151) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.23-1.0.19"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-03-28** — merged PR [#149](https://github.com/ZacSweers/ZacSweers/pull/149) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.1"
-
-**2024-03-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-03-28** — merged PR [#157](https://github.com/ZacSweers/ZacSweers/pull/157) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.3.0"
-
-**2024-03-28** — merged PR [#1342](https://github.com/ZacSweers/CatchUp/pull/1342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
-
-**2024-03-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
