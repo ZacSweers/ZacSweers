@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-04** — deleted branch `z/improveassistederror` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-04** — closed issue [#477](https://github.com/slackhq/circuit/issues/477) on [slackhq/circuit](https://github.com/slackhq/circuit): "Improve code gen error message when using assisted inject"
+**2024-03-28** — merged PR [#151](https://github.com/ZacSweers/ZacSweers/pull/151) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.23-1.0.19"
 
-**2024-03-04** — merged PR [#1246](https://github.com/slackhq/circuit/pull/1246) to [slackhq/circuit](https://github.com/slackhq/circuit): "Improve error messaging when using assisted inject"
+**2024-03-28** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-03** — deleted branch `renovate/python-dateutil-2.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — merged PR [#155](https://github.com/ZacSweers/ZacSweers/pull/155) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.9.0"
 
-**2024-03-03** — merged PR [#1251](https://github.com/slackhq/circuit/pull/1251) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency python-dateutil to v2.9.0.post0"
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-03** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — merged PR [#149](https://github.com/ZacSweers/ZacSweers/pull/149) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.1"
 
-**2024-03-03** — closed PR [#1243](https://github.com/slackhq/circuit/pull/1243) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.22-1.0.18"
+**2024-03-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-03** — commented on [#1243](https://github.com/slackhq/circuit/pull/1243#issuecomment-1975473919) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — merged PR [#157](https://github.com/ZacSweers/ZacSweers/pull/157) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.3.0"
 
-**2024-03-03** — commented on [#291](https://github.com/slackhq/compose-lints/issues/291#issuecomment-1975470978) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-28** — merged PR [#1342](https://github.com/ZacSweers/CatchUp/pull/1342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 
-**2024-03-03** — opened issue [#1776](https://github.com/google/ksp/issues/1776) on [google/ksp](https://github.com/google/ksp): "KSP2 in 1.0.18 results in significant memory pressure"
+**2024-03-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
