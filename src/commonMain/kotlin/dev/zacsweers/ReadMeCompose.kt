@@ -14,6 +14,7 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.produceState
 import androidx.compose.runtime.remember
@@ -23,30 +24,28 @@ import androidx.compose.ui.unit.dp
 
 @Composable
 fun ReadMe() {
-  MaterialTheme {
-    val readmeUpdater = remember { ReadMeUpdater() }
-    val markdown by produceState<String?>(null) { value = readmeUpdater.generateReadme() }
-    if (markdown == null) {
-      Column(
-        modifier = Modifier.fillMaxSize(),
-        verticalArrangement = Arrangement.Center,
-        horizontalAlignment = Alignment.CenterHorizontally
-      ) {
-        CircularProgressIndicator()
-        Text("Loading…", style = MaterialTheme.typography.titleLarge)
+  val readmeUpdater = remember { ReadMeUpdater() }
+  val markdown by produceState<String?>(null) { value = readmeUpdater.generateReadme() }
+  if (markdown == null) {
+    Column(
+      modifier = Modifier.fillMaxSize(),
+      verticalArrangement = Arrangement.Center,
+      horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+      CircularProgressIndicator()
+      Text("Loading…", style = MaterialTheme.typography.titleLarge)
+    }
+  } else {
+    val stateVertical = rememberScrollState(0)
+    Box(Modifier.fillMaxSize()) {
+      Box(Modifier.fillMaxSize().verticalScroll(stateVertical).padding(16.dp)) {
+        PlatformMarkdown(markdown!!)
       }
-    } else {
-      val stateVertical = rememberScrollState(0)
-      Box(Modifier.fillMaxSize()) {
-        Box(Modifier.fillMaxSize().verticalScroll(stateVertical).padding(16.dp)) {
-          PlatformMarkdown(markdown!!)
-        }
 
-        VerticalScrollbar(
-          modifier = Modifier.align(Alignment.CenterEnd).fillMaxHeight(),
-          adapter = rememberScrollbarAdapter(stateVertical)
-        )
-      }
+      VerticalScrollbar(
+        modifier = Modifier.align(Alignment.CenterEnd).fillMaxHeight(),
+        adapter = rememberScrollbarAdapter(stateVertical)
+      )
     }
   }
 }
