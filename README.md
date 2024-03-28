@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-28** — closed issue [#935](https://github.com/square/anvil/issues/935) on [square/anvil](https://github.com/square/anvil): "KSP mode leaks kotlin-compiler-embeddable into javac classpath somehow"
+**2024-03-28** — created tag `0.16.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-28** — commented on [#935](https://github.com/square/anvil/issues/935#issuecomment-2026064393) in [square/anvil](https://github.com/square/anvil)
+**2024-03-28** — deleted branch `renovate/retrofit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-28** — merged PR [#150](https://github.com/ZacSweers/ZacSweers/pull/150) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.13.0"
+**2024-03-28** — merged PR [#1351](https://github.com/ZacSweers/CatchUp/pull/1351) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update retrofit to v2.11.0"
 
-**2024-03-28** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-03-28** — commented on [#54](https://github.com/dropbox/dependency-guard/issues/54#issuecomment-2026141769) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
-**2024-03-28** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-03-28** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-28** — merged PR [#148](https://github.com/ZacSweers/ZacSweers/pull/148) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.6.1"
+**2024-03-28** — merged PR [#1350](https://github.com/ZacSweers/CatchUp/pull/1350) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.10.0"
 
-**2024-03-28** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-03-28** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2026139875) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
 
-**2024-03-28** — merged PR [#152](https://github.com/ZacSweers/ZacSweers/pull/152) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.9"
+**2024-03-28** — deleted branch `z/workaroundIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-03-28** — merged PR [#795](https://github.com/slackhq/slack-gradle-plugin/pull/795) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around AGP bug with computing non-incremental annotation processors"
 
-**2024-03-28** — closed PR [#154](https://github.com/ZacSweers/ZacSweers/pull/154) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
+**2024-03-28** — opened PR [#795](https://github.com/slackhq/slack-gradle-plugin/pull/795) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around AGP bug with computing non-incremental annotation processors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
