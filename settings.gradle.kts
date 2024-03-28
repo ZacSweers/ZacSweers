@@ -17,6 +17,7 @@
 pluginManagement {
   repositories {
     mavenCentral()
+    google()
     // Skiko deps are here shrug
     maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
     gradlePluginPortal()
@@ -26,6 +27,7 @@ pluginManagement {
 dependencyResolutionManagement {
   repositories {
     mavenCentral()
+    google()
     // Skiko deps are here shrug
     maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
   }
