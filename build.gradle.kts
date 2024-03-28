@@ -92,6 +92,7 @@ kotlin {
         implementation(libs.clikt)
         // https://github.com/mikepenz/multiplatform-markdown-renderer/issues/55
         implementation(libs.compose.markdown)
+        implementation(libs.compose.markdown.m3)
         implementation(compose.desktop.currentOs)
         implementation(libs.okhttp)
         implementation(libs.ktor.client.engine.okhttp)

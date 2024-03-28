@@ -1,5 +1,6 @@
 package dev.zacsweers
 
+import androidx.compose.material.MaterialTheme
 import androidx.compose.runtime.CompositionLocalProvider
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.input.InputMode
@@ -28,7 +29,9 @@ fun main() {
         LocalInputModeManager provides InputModeManagerObject,
         LocalFontFamilyResolver provides fontFamilyResolver
       ) {
-        ReadMe()
+        MaterialTheme {
+          ReadMe()
+        }
       }
     }
   }
