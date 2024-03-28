@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-28** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-03-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-28** — merged PR [#569](https://github.com/ZacSweers/MoshiX/pull/569) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-beta01"
+**2024-03-28** — merged PR [#151](https://github.com/ZacSweers/ZacSweers/pull/151) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.23-1.0.19"
 
-**2024-03-27** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2023860944) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+**2024-03-28** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-27** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2023858334) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+**2024-03-28** — merged PR [#155](https://github.com/ZacSweers/ZacSweers/pull/155) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.9.0"
 
-**2024-03-27** — commented on [#1305](https://github.com/slackhq/circuit/pull/1305#issuecomment-2023493252) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-27** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2023492291) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-03-28** — merged PR [#149](https://github.com/ZacSweers/ZacSweers/pull/149) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.1"
 
-**2024-03-27** — commented on [#938](https://github.com/square/anvil/issues/938#issuecomment-2023454841) in [square/anvil](https://github.com/square/anvil)
+**2024-03-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-27** — commented on [#932](https://github.com/square/anvil/issues/932#issuecomment-2023453877) in [square/anvil](https://github.com/square/anvil)
+**2024-03-28** — merged PR [#157](https://github.com/ZacSweers/ZacSweers/pull/157) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.3.0"
 
-**2024-03-27** — opened issue [#939](https://github.com/square/anvil/issues/939) on [square/anvil](https://github.com/square/anvil): "Adopt new KSP moduleName API or better handle in KSP2"
+**2024-03-28** — merged PR [#1342](https://github.com/ZacSweers/CatchUp/pull/1342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 
-**2024-03-27** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-03-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
