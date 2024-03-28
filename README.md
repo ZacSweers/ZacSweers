@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-06** — merged PR [#1307](https://github.com/ZacSweers/CatchUp/pull/1307) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.6.0"
+**2024-03-28** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-06** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-28** — merged PR [#151](https://github.com/ZacSweers/ZacSweers/pull/151) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.23-1.0.19"
 
-**2024-03-06** — deleted branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-28** — deleted branch `renovate/com.squareup.okio-okio-3.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-06** — merged PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
+**2024-03-28** — merged PR [#155](https://github.com/ZacSweers/ZacSweers/pull/155) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.9.0"
 
-**2024-03-06** — opened PR [#767](https://github.com/slackhq/slack-gradle-plugin/pull/767) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add property to override lint version"
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-06** — created branch `z/lintVersionSetting` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-28** — merged PR [#149](https://github.com/ZacSweers/ZacSweers/pull/149) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.1"
 
-**2024-03-06** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-03-06** — merged PR [#1298](https://github.com/ZacSweers/CatchUp/pull/1298) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.15.8"
+**2024-03-28** — merged PR [#157](https://github.com/ZacSweers/ZacSweers/pull/157) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v4.3.0"
 
-**2024-03-06** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-28** — merged PR [#1342](https://github.com/ZacSweers/CatchUp/pull/1342) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha02"
 
-**2024-03-06** — merged PR [#1300](https://github.com/ZacSweers/CatchUp/pull/1300) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.249.0"
+**2024-03-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
