@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-02-19** — commented on [#4293](https://github.com/JetBrains/compose-multiplatform/issues/4293#issuecomment-1952774074) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+**2024-03-28** — merged PR [#150](https://github.com/ZacSweers/ZacSweers/pull/150) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.13.0"
 
-**2024-02-19** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-03-28** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-19** — merged PR [#280](https://github.com/slackhq/compose-lints/pull/280) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.10"
+**2024-03-28** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-19** — deleted branch `dependabot/gradle/com.google.truth-truth-1.4.1` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2024-03-28** — merged PR [#148](https://github.com/ZacSweers/ZacSweers/pull/148) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.6.1"
 
-**2024-02-19** — merged PR [#78](https://github.com/slackhq/moshi-gson-interop/pull/78) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.google.truth:truth from 1.1.5 to 1.4.1"
+**2024-03-28** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-18** — opened PR [#746](https://github.com/slackhq/slack-gradle-plugin/pull/746) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Remove `-Xproper-ieee754-comparisons`"
+**2024-03-28** — merged PR [#152](https://github.com/ZacSweers/ZacSweers/pull/152) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.9"
 
-**2024-02-18** — created branch `z/removeArg` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-18** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-28** — closed PR [#154](https://github.com/ZacSweers/ZacSweers/pull/154) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
 
-**2024-02-18** — merged PR [#1271](https://github.com/ZacSweers/CatchUp/pull/1271) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.8.0"
+**2024-03-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-02-18** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-03-28** — merged PR [#153](https://github.com/ZacSweers/ZacSweers/pull/153) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.23"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 

@@ -1,6 +1,8 @@
 package dev.zacsweers
 
 import androidx.compose.runtime.Composable
+import com.mikepenz.markdown.compose.LocalMarkdownColors
+import com.mikepenz.markdown.compose.LocalMarkdownTypography
 import com.mikepenz.markdown.compose.Markdown
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
@@ -36,7 +38,7 @@ actual fun parseRfc1123DateTime(dateTime: String): Instant {
 
 @Composable
 actual fun PlatformMarkdown(text: String) {
-  Markdown(text)
+  Markdown(text, colors = LocalMarkdownColors.current, typography = LocalMarkdownTypography.current)
 }
 
 /**
