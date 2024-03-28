@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-28** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-03-28** — merged PR [#569](https://github.com/ZacSweers/MoshiX/pull/569) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.4.0-beta01"
+
 **2024-03-27** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2023860944) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
 
 **2024-03-27** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2023858334) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-27** — opened issue [#939](https://github.com/square/anvil/issues/939) on [square/anvil](https://github.com/square/anvil): "Adopt new KSP moduleName API or better handle in KSP2"
 
 **2024-03-27** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-03-27** — merged PR [#206](https://github.com/ZacSweers/redacted-compiler-plugin/pull/206) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.4.1"
-
-**2024-03-27** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
