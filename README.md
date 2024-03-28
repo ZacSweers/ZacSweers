@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-28** — closed issue [#935](https://github.com/square/anvil/issues/935) on [square/anvil](https://github.com/square/anvil): "KSP mode leaks kotlin-compiler-embeddable into javac classpath somehow"
+
+**2024-03-28** — commented on [#935](https://github.com/square/anvil/issues/935#issuecomment-2026064393) in [square/anvil](https://github.com/square/anvil)
+
 **2024-03-28** — merged PR [#150](https://github.com/ZacSweers/ZacSweers/pull/150) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.13.0"
 
 **2024-03-28** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-28** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-03-28** — closed PR [#154](https://github.com/ZacSweers/ZacSweers/pull/154) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
-
-**2024-03-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-03-28** — merged PR [#153](https://github.com/ZacSweers/ZacSweers/pull/153) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.23"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
