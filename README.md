@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-29** — commented on [#934](https://github.com/square/anvil/pull/934#issuecomment-2027695388) in [square/anvil](https://github.com/square/anvil)
+
 **2024-03-28** — created tag `0.16.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-28** — deleted branch `renovate/retrofit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-28** — deleted branch `z/workaroundIssue` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-03-28** — merged PR [#795](https://github.com/slackhq/slack-gradle-plugin/pull/795) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around AGP bug with computing non-incremental annotation processors"
-
-**2024-03-28** — opened PR [#795](https://github.com/slackhq/slack-gradle-plugin/pull/795) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Work around AGP bug with computing non-incremental annotation processors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
