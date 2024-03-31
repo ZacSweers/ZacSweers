@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-03-31** — opened issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
+
+**2024-03-31** — opened issue [#1356](https://github.com/ZacSweers/CatchUp/issues/1356) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Optimize visual service image loading to defer image loading until tab is selected"
+
 **2024-03-30** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2028542427) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-03-30** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-30** — merged PR [#1355](https://github.com/ZacSweers/CatchUp/pull/1355) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Delete Designer News"
 
 **2024-03-30** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-30** — merged PR [#1354](https://github.com/ZacSweers/CatchUp/pull/1354) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.51.1"
-
-**2024-03-30** — opened PR [#1355](https://github.com/ZacSweers/CatchUp/pull/1355) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Delete Designer News"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
