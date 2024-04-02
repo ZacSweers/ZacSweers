@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-02** — deleted branch `renovate/retrofit` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-02** — merged PR [#572](https://github.com/ZacSweers/MoshiX/pull/572) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update retrofit to v2.11.0"
+
+**2024-04-02** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-02** — merged PR [#573](https://github.com/ZacSweers/MoshiX/pull/573) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha03"
+
 **2024-04-01** — deleted branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-04-01** — merged PR [#798](https://github.com/slackhq/slack-gradle-plugin/pull/798) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Split out project gen to a separate project + update IJ APIs to 232"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-31** — opened issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
 
 **2024-03-31** — opened issue [#1356](https://github.com/ZacSweers/CatchUp/issues/1356) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Optimize visual service image loading to defer image loading until tab is selected"
-
-**2024-03-30** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2028542427) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-03-30** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-30** — merged PR [#1353](https://github.com/ZacSweers/CatchUp/pull/1353) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.11.0"
-
-**2024-03-30** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
