@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-02** — deleted branch `z/jewel2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-02** — merged PR [#800](https://github.com/slackhq/slack-gradle-plugin/pull/800) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Adopt Jewel for IDE theming in project gen"
+
 **2024-04-02** — opened PR [#800](https://github.com/slackhq/slack-gradle-plugin/pull/800) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Adopt Jewel for IDE theming in project gen"
 
 **2024-04-02** — created branch `z/jewel2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-02** — merged PR [#572](https://github.com/ZacSweers/MoshiX/pull/572) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update retrofit to v2.11.0"
 
 **2024-04-02** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-04-02** — merged PR [#573](https://github.com/ZacSweers/MoshiX/pull/573) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha03"
-
-**2024-04-01** — deleted branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
