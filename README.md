@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-02** — opened PR [#800](https://github.com/slackhq/slack-gradle-plugin/pull/800) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Adopt Jewel for IDE theming in project gen"
+
+**2024-04-02** — created branch `z/jewel2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-02** — deleted branch `z/jewel` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-02** — closed PR [#772](https://github.com/slackhq/slack-gradle-plugin/pull/772) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update IJ and adopt Jewel for project gen"
+
 **2024-04-02** — commented on [#257](https://github.com/slackhq/slack-lints/pull/257#issuecomment-2032310332) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-04-02** — deleted branch `renovate/retrofit` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-02** — merged PR [#573](https://github.com/ZacSweers/MoshiX/pull/573) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha03"
 
 **2024-04-01** — deleted branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-01** — merged PR [#798](https://github.com/slackhq/slack-gradle-plugin/pull/798) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Split out project gen to a separate project + update IJ APIs to 232"
-
-**2024-04-01** — opened PR [#798](https://github.com/slackhq/slack-gradle-plugin/pull/798) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Split out project gen to a separate project + update IJ APIs to 232"
-
-**2024-04-01** — created branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-03-31** — opened issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
