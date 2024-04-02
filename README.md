@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-01** — deleted branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-01** — merged PR [#798](https://github.com/slackhq/slack-gradle-plugin/pull/798) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Split out project gen to a separate project + update IJ APIs to 232"
+
 **2024-04-01** — opened PR [#798](https://github.com/slackhq/slack-gradle-plugin/pull/798) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Split out project gen to a separate project + update IJ APIs to 232"
 
 **2024-04-01** — created branch `z/splitProjectgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-03-30** — merged PR [#1353](https://github.com/ZacSweers/CatchUp/pull/1353) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.11.0"
 
 **2024-03-30** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-03-30** — merged PR [#1352](https://github.com/ZacSweers/CatchUp/pull/1352) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.16.2"
-
-**2024-03-30** — deleted branch `z/removeDn` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
