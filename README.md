@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-03** — commented on [#1317](https://github.com/slackhq/circuit/issues/1317#issuecomment-2035422761) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-04-03** — commented on [#1317](https://github.com/slackhq/circuit/issues/1317#issuecomment-2035304287) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-04-03** — commented on [#1317](https://github.com/slackhq/circuit/issues/1317#issuecomment-2035303396) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-03** — merged PR [#831](https://github.com/square/anvil/pull/831) to [square/anvil](https://github.com/square/anvil): "Support KSP in BindsMethodValidator"
 
 **2024-04-03** — commented on [#25541](https://github.com/gradle/gradle/issues/25541#issuecomment-2034816479) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2024-04-03** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2034804166) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
