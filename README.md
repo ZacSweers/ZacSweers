@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-03** — commented on [#1317](https://github.com/slackhq/circuit/issues/1317#issuecomment-2035304287) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-04-03** — commented on [#1317](https://github.com/slackhq/circuit/issues/1317#issuecomment-2035303396) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-04-03** — opened PR [#947](https://github.com/square/anvil/pull/947) to [square/anvil](https://github.com/square/anvil): "Gracefully handle module name resolution in KSP"
+
+**2024-04-03** — created branch `z/betterModuleName` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-04-03** — deleted branch `z/priorityInt` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-03** — merged PR [#934](https://github.com/square/anvil/pull/934) to [square/anvil](https://github.com/square/anvil): "Migrate binding priority to int-based system"
+
+**2024-04-03** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2035198502) in [google/ksp](https://github.com/google/ksp)
+
+**2024-04-03** — merged PR [#831](https://github.com/square/anvil/pull/831) to [square/anvil](https://github.com/square/anvil): "Support KSP in BindsMethodValidator"
+
 **2024-04-03** — commented on [#25541](https://github.com/gradle/gradle/issues/25541#issuecomment-2034816479) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2024-04-03** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2034804166) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-04-02** — deleted branch `z/jewel2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-02** — merged PR [#800](https://github.com/slackhq/slack-gradle-plugin/pull/800) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Adopt Jewel for IDE theming in project gen"
-
-**2024-04-02** — opened PR [#800](https://github.com/slackhq/slack-gradle-plugin/pull/800) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Adopt Jewel for IDE theming in project gen"
-
-**2024-04-02** — created branch `z/jewel2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-02** — deleted branch `z/jewel` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-02** — closed PR [#772](https://github.com/slackhq/slack-gradle-plugin/pull/772) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update IJ and adopt Jewel for project gen"
-
-**2024-04-02** — commented on [#257](https://github.com/slackhq/slack-lints/pull/257#issuecomment-2032310332) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-04-02** — deleted branch `renovate/retrofit` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
