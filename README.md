@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-04** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-04** — merged PR [#1362](https://github.com/ZacSweers/CatchUp/pull/1362) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha06"
+
+**2024-04-04** — commented on [#1986](https://github.com/JetBrains/compose-multiplatform/issues/1986#issuecomment-2038256724) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
+**2024-04-04** — opened PR [#950](https://github.com/square/anvil/pull/950) to [square/anvil](https://github.com/square/anvil): "Remove comment"
+
+**2024-04-04** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2038223426) in [google/ksp](https://github.com/google/ksp)
+
+**2024-04-04** — created branch `z/removeComment` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-04-04** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2038115995) in [google/ksp](https://github.com/google/ksp)
 
 **2024-04-04** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-04** — merged PR [#1368](https://github.com/ZacSweers/CatchUp/pull/1368) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-alpha04"
 
 **2024-04-04** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-04** — merged PR [#1369](https://github.com/ZacSweers/CatchUp/pull/1369) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.0-alpha01"
-
-**2024-04-04** — deleted branch `renovate/compose.foundation` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-04-04** — merged PR [#1322](https://github.com/slackhq/circuit/pull/1322) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.foundation:foundation to v1.6.5"
-
-**2024-04-04** — deleted branch `renovate/compose.ui` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-04-04** — merged PR [#1320](https://github.com/slackhq/circuit/pull/1320) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.ui to v1.6.5"
-
-**2024-04-04** — deleted branch `renovate/androidx.activity` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
