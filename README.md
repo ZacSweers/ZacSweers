@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-05** — merged PR [#947](https://github.com/square/anvil/pull/947) to [square/anvil](https://github.com/square/anvil): "Gracefully handle module name resolution in KSP"
+
+**2024-04-05** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2040315658) in [google/ksp](https://github.com/google/ksp)
+
 **2024-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-04-05** — merged PR [#1327](https://github.com/slackhq/circuit/pull/1327) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.23-1.0.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-04** — commented on [#1986](https://github.com/JetBrains/compose-multiplatform/issues/1986#issuecomment-2038256724) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
 **2024-04-04** — opened PR [#950](https://github.com/square/anvil/pull/950) to [square/anvil](https://github.com/square/anvil): "Remove comment"
-
-**2024-04-04** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2038223426) in [google/ksp](https://github.com/google/ksp)
-
-**2024-04-04** — created branch `z/removeComment` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
