@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-05** — commented on [#396](https://github.com/bazelbuild/rules_kotlin/issues/396#issuecomment-2040493735) in [bazelbuild/rules_kotlin](https://github.com/bazelbuild/rules_kotlin)
+
 **2024-04-05** — merged PR [#947](https://github.com/square/anvil/pull/947) to [square/anvil](https://github.com/square/anvil): "Gracefully handle module name resolution in KSP"
 
 **2024-04-05** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2040315658) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-04** — merged PR [#1362](https://github.com/ZacSweers/CatchUp/pull/1362) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha06"
 
 **2024-04-04** — commented on [#1986](https://github.com/JetBrains/compose-multiplatform/issues/1986#issuecomment-2038256724) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-
-**2024-04-04** — opened PR [#950](https://github.com/square/anvil/pull/950) to [square/anvil](https://github.com/square/anvil): "Remove comment"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
