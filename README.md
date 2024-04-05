@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-04** — merged PR [#950](https://github.com/square/anvil/pull/950) to [square/anvil](https://github.com/square/anvil): "Remove comment"
+
+**2024-04-04** — merged PR [#1326](https://github.com/slackhq/circuit/pull/1326) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remember keys in rememberSaveableBackStack"
+
 **2024-04-04** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-04-04** — merged PR [#1362](https://github.com/ZacSweers/CatchUp/pull/1362) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha06"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-04** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2038115995) in [google/ksp](https://github.com/google/ksp)
 
 **2024-04-04** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-04** — merged PR [#1368](https://github.com/ZacSweers/CatchUp/pull/1368) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-alpha04"
-
-**2024-04-04** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
