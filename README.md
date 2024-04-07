@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-07** — commented on [#261](https://github.com/slackhq/slack-lints/pull/261#issuecomment-2041581501) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-04-05** — commented on [#396](https://github.com/bazelbuild/rules_kotlin/issues/396#issuecomment-2040493735) in [bazelbuild/rules_kotlin](https://github.com/bazelbuild/rules_kotlin)
 
 **2024-04-05** — merged PR [#947](https://github.com/square/anvil/pull/947) to [square/anvil](https://github.com/square/anvil): "Gracefully handle module name resolution in KSP"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-04** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-04-04** — merged PR [#1362](https://github.com/ZacSweers/CatchUp/pull/1362) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha06"
-
-**2024-04-04** — commented on [#1986](https://github.com/JetBrains/compose-multiplatform/issues/1986#issuecomment-2038256724) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
