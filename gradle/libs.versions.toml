@@ -3,7 +3,7 @@ compose = "1.6.1"
 jdk = "21"
 kotlin = "1.9.23"
 kotlinx-serialization = "1.6.3"
-ktor = "2.3.9"
+ktor = "2.3.10"
 markdown = "0.13.0"
 xmlutil = "0.86.3"
 
