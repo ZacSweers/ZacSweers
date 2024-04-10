@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-10** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2048542292) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-04-10** — commented on [#510](https://github.com/ZacSweers/MoshiX/pull/510#issuecomment-2048539084) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-10** — merged PR [#207](https://github.com/ZacSweers/redacted-compiler-plugin/pull/207) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.23-1.0.20"
+
+**2024-04-10** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-04-10** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-04-10** — merged PR [#575](https://github.com/ZacSweers/MoshiX/pull/575) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.23-1.0.20"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-10** — merged PR [#577](https://github.com/ZacSweers/MoshiX/pull/577) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.3.2"
 
 **2024-04-10** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-04-10** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2048390471) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-04-10** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-04-10** — merged PR [#237](https://github.com/ZacSweers/kotlin-compile-testing/pull/237) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.170"
-
-**2024-04-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
