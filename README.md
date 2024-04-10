@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-10** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-10** — merged PR [#575](https://github.com/ZacSweers/MoshiX/pull/575) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.23-1.0.20"
+
+**2024-04-10** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-10** — merged PR [#576](https://github.com/ZacSweers/MoshiX/pull/576) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha04"
+
+**2024-04-10** — merged PR [#577](https://github.com/ZacSweers/MoshiX/pull/577) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.3.2"
+
+**2024-04-10** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-04-10** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2048390471) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-04-10** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-04-10** — merged PR [#237](https://github.com/ZacSweers/kotlin-compile-testing/pull/237) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.170"
+
 **2024-04-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-04-09** — closed PR [#235](https://github.com/ZacSweers/kotlin-compile-testing/pull/235) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2024-04-09** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-04-09** — merged PR [#236](https://github.com/ZacSweers/kotlin-compile-testing/pull/236) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.7"
-
-**2024-04-09** — opened issue [#4597](https://github.com/JetBrains/compose-multiplatform/issues/4597) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.1 gradle plugin is incompatible with Kotlin 2.0.0-RC1"
-
-**2024-04-07** — commented on [#261](https://github.com/slackhq/slack-lints/pull/261#issuecomment-2041581501) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-04-05** — commented on [#396](https://github.com/bazelbuild/rules_kotlin/issues/396#issuecomment-2040493735) in [bazelbuild/rules_kotlin](https://github.com/bazelbuild/rules_kotlin)
-
-**2024-04-05** — merged PR [#947](https://github.com/square/anvil/pull/947) to [square/anvil](https://github.com/square/anvil): "Gracefully handle module name resolution in KSP"
-
-**2024-04-05** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2040315658) in [google/ksp](https://github.com/google/ksp)
-
-**2024-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
