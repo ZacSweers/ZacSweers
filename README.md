@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-04-09** — closed PR [#235](https://github.com/ZacSweers/kotlin-compile-testing/pull/235) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2024-04-09** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-04-09** — merged PR [#236](https://github.com/ZacSweers/kotlin-compile-testing/pull/236) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.7"
+
+**2024-04-09** — opened issue [#4597](https://github.com/JetBrains/compose-multiplatform/issues/4597) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.1 gradle plugin is incompatible with Kotlin 2.0.0-RC1"
+
 **2024-04-07** — commented on [#261](https://github.com/slackhq/slack-lints/pull/261#issuecomment-2041581501) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-04-05** — commented on [#396](https://github.com/bazelbuild/rules_kotlin/issues/396#issuecomment-2040493735) in [bazelbuild/rules_kotlin](https://github.com/bazelbuild/rules_kotlin)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-05** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2040315658) in [google/ksp](https://github.com/google/ksp)
 
 **2024-04-05** — deleted branch `renovate/ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-04-05** — merged PR [#1327](https://github.com/slackhq/circuit/pull/1327) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v1.9.23-1.0.20"
-
-**2024-04-04** — merged PR [#950](https://github.com/square/anvil/pull/950) to [square/anvil](https://github.com/square/anvil): "Remove comment"
-
-**2024-04-04** — merged PR [#1326](https://github.com/slackhq/circuit/pull/1326) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remember keys in rememberSaveableBackStack"
-
-**2024-04-04** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-04** — merged PR [#1362](https://github.com/ZacSweers/CatchUp/pull/1362) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha06"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
