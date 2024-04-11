@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-11** — opened issue [#1163](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1163) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "FR: Suggest converting an android project to a JVM-only project if possible"
+**2024-04-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.23-1.0.20` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-10** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2048542292) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-04-11** — merged PR [#131](https://github.com/slackhq/kotlin-cli-util/pull/131) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.23-1.0.19 to 1.9.23-1.0.20"
 
-**2024-04-10** — commented on [#510](https://github.com/ZacSweers/MoshiX/pull/510#issuecomment-2048539084) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-04-11** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-10** — merged PR [#207](https://github.com/ZacSweers/redacted-compiler-plugin/pull/207) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v1.9.23-1.0.20"
+**2024-04-11** — merged PR [#318](https://github.com/slackhq/compose-lints/pull/318) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.23-1.0.20"
 
-**2024-04-10** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-04-11** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-10** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-04-11** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-10** — merged PR [#575](https://github.com/ZacSweers/MoshiX/pull/575) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v1.9.23-1.0.20"
+**2024-04-11** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-10** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-04-11** — deleted branch `renovate/peaceiris-actions-gh-pages-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-10** — merged PR [#576](https://github.com/ZacSweers/MoshiX/pull/576) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha04"
+**2024-04-11** — merged PR [#319](https://github.com/slackhq/compose-lints/pull/319) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update peaceiris/actions-gh-pages action to v4"
+
+**2024-04-11** — merged PR [#314](https://github.com/slackhq/compose-lints/pull/314) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
