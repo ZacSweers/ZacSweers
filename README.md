@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-11** — opened issue [#1163](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1163) on [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "FR: Suggest converting an android project to a JVM-only project if possible"
+
 **2024-04-10** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2048542292) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-04-10** — commented on [#510](https://github.com/ZacSweers/MoshiX/pull/510#issuecomment-2048539084) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-10** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-04-10** — merged PR [#576](https://github.com/ZacSweers/MoshiX/pull/576) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha04"
-
-**2024-04-10** — merged PR [#577](https://github.com/ZacSweers/MoshiX/pull/577) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.3.2"
-
-**2024-04-10** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
