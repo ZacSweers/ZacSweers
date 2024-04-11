@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-11** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-2050402474) in [square/anvil](https://github.com/square/anvil)
+
+**2024-04-11** — closed issue [#751](https://github.com/square/anvil/issues/751) on [square/anvil](https://github.com/square/anvil): "Support KSP in factory generation"
+
+**2024-04-11** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-2050401930) in [square/anvil](https://github.com/square/anvil)
+
+**2024-04-11** — closed issue [#913](https://github.com/square/anvil/issues/913) on [square/anvil](https://github.com/square/anvil): "Generated anvil code `OPT_IN_USAGE_ERROR` suppression causes warnings in K2"
+
+**2024-04-11** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-2050401488) in [square/anvil](https://github.com/square/anvil)
+
 **2024-04-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-04-11** — merged PR [#98](https://github.com/ZacSweers/auto-service-ksp/pull/98) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.7"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-11** — merged PR [#99](https://github.com/ZacSweers/auto-service-ksp/pull/99) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.4.1"
 
 **2024-04-11** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-04-11** — merged PR [#100](https://github.com/ZacSweers/auto-service-ksp/pull/100) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.23-1.0.20"
-
-**2024-04-11** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2050367701) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-11** — opened issue [#1839](https://github.com/google/ksp/issues/1839) on [google/ksp](https://github.com/google/ksp): "KSP2 cannot load Android lint checks jar due to `FileTooBigException`"
-
-**2024-04-11** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-04-11** — merged PR [#316](https://github.com/slackhq/compose-lints/pull/316) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.5.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
