@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-11** — deleted branch `dependabot/gradle/com.google.devtools.ksp-1.9.23-1.0.20` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-04-11** — merged PR [#131](https://github.com/slackhq/kotlin-cli-util/pull/131) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.23-1.0.19 to 1.9.23-1.0.20"
+**2024-04-11** — merged PR [#98](https://github.com/ZacSweers/auto-service-ksp/pull/98) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.7"
 
-**2024-04-11** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-04-11** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-04-11** — merged PR [#318](https://github.com/slackhq/compose-lints/pull/318) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v1.9.23-1.0.20"
+**2024-04-11** — merged PR [#99](https://github.com/ZacSweers/auto-service-ksp/pull/99) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.4.1"
 
-**2024-04-11** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-04-11** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-04-11** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-04-11** — merged PR [#100](https://github.com/ZacSweers/auto-service-ksp/pull/100) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.23-1.0.20"
 
-**2024-04-11** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-04-11** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2050367701) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-04-11** — deleted branch `renovate/peaceiris-actions-gh-pages-4.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-04-11** — opened issue [#1839](https://github.com/google/ksp/issues/1839) on [google/ksp](https://github.com/google/ksp): "KSP2 cannot load Android lint checks jar due to `FileTooBigException`"
 
-**2024-04-11** — merged PR [#319](https://github.com/slackhq/compose-lints/pull/319) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update peaceiris/actions-gh-pages action to v4"
+**2024-04-11** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-11** — merged PR [#314](https://github.com/slackhq/compose-lints/pull/314) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.17"
+**2024-04-11** — merged PR [#316](https://github.com/slackhq/compose-lints/pull/316) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.5.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
