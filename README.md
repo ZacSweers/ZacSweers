@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-12** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2052132368) in [google/ksp](https://github.com/google/ksp)
+
 **2024-04-12** — commented on [#139](https://github.com/slackhq/keeper/issues/139#issuecomment-2052075182) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-04-11** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-2050402474) in [square/anvil](https://github.com/square/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-11** — merged PR [#98](https://github.com/ZacSweers/auto-service-ksp/pull/98) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.7"
 
 **2024-04-11** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-04-11** — merged PR [#99](https://github.com/ZacSweers/auto-service-ksp/pull/99) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.4.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
