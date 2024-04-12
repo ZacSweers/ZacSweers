@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-12** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2052132368) in [google/ksp](https://github.com/google/ksp)
+**2024-04-12** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-12** — commented on [#139](https://github.com/slackhq/keeper/issues/139#issuecomment-2052075182) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-04-12** — merged PR [#1377](https://github.com/ZacSweers/CatchUp/pull/1377) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.0"
 
-**2024-04-11** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-2050402474) in [square/anvil](https://github.com/square/anvil)
+**2024-04-12** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-11** — closed issue [#751](https://github.com/square/anvil/issues/751) on [square/anvil](https://github.com/square/anvil): "Support KSP in factory generation"
+**2024-04-12** — merged PR [#1376](https://github.com/ZacSweers/CatchUp/pull/1376) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.2"
 
-**2024-04-11** — commented on [#751](https://github.com/square/anvil/issues/751#issuecomment-2050401930) in [square/anvil](https://github.com/square/anvil)
+**2024-04-12** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-11** — closed issue [#913](https://github.com/square/anvil/issues/913) on [square/anvil](https://github.com/square/anvil): "Generated anvil code `OPT_IN_USAGE_ERROR` suppression causes warnings in K2"
+**2024-04-12** — merged PR [#1374](https://github.com/ZacSweers/CatchUp/pull/1374) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.1"
 
-**2024-04-11** — commented on [#913](https://github.com/square/anvil/issues/913#issuecomment-2050401488) in [square/anvil](https://github.com/square/anvil)
+**2024-04-12** — merged PR [#1373](https://github.com/ZacSweers/CatchUp/pull/1373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha05"
 
-**2024-04-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-04-12** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-11** — merged PR [#98](https://github.com/ZacSweers/auto-service-ksp/pull/98) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.7"
+**2024-04-12** — deleted branch `renovate/sqldelight` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-11** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-04-12** — merged PR [#1372](https://github.com/ZacSweers/CatchUp/pull/1372) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
