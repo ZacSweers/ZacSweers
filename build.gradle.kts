@@ -13,14 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import org.jetbrains.compose.ExperimentalComposeLibrary
+
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.dsl.KotlinJsCompile
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
 import org.jetbrains.kotlin.gradle.targets.js.dsl.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension
 import org.jetbrains.kotlin.gradle.targets.js.npm.LockStoreTask
-import org.jetbrains.kotlin.gradle.targets.js.webpack.KotlinWebpackConfig
 import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
@@ -61,11 +60,7 @@ kotlin {
   jvm()
   @OptIn(ExperimentalWasmDsl::class)
   wasmJs {
-    browser {
-      commonWebpackConfig {
-        outputFileName = "zacsweers-root.js"
-      }
-    }
+    browser { commonWebpackConfig { outputFileName = "zacsweers-root.js" } }
     binaries.executable()
   }
   // endregion
