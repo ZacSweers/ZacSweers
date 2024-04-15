@@ -13,10 +13,14 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+import org.jetbrains.compose.ExperimentalComposeLibrary
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.dsl.KotlinJsCompile
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
+import org.jetbrains.kotlin.gradle.targets.js.dsl.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension
+import org.jetbrains.kotlin.gradle.targets.js.npm.LockStoreTask
+import org.jetbrains.kotlin.gradle.targets.js.webpack.KotlinWebpackConfig
 import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
@@ -55,22 +59,24 @@ compose {
 kotlin {
   // region KMP Targets
   jvm()
-  js(IR) {
-    browser()
-    nodejs()
+  @OptIn(ExperimentalWasmDsl::class)
+  wasmJs {
+    browser {
+      commonWebpackConfig {
+        outputFileName = "zacsweers-root.js"
+      }
+    }
     binaries.executable()
   }
-  // No M3 for wasm() yet
-  //  wasm()
   // endregion
 
   sourceSets {
     commonMain {
       dependencies {
-        // TODO consolidate runtime deps again after
-        // https://github.com/JetBrains/compose-multiplatform/issues/3424
-        //        implementation(compose.runtime)
+        implementation(compose.runtime)
         implementation(compose.material3)
+        implementation(libs.compose.markdown)
+        implementation(libs.compose.markdown.m3)
         implementation(libs.kotlinx.coroutines)
         implementation(libs.kotlinx.datetime)
         implementation(libs.kotlinx.serialization.json)
@@ -83,32 +89,27 @@ kotlin {
         implementation(libs.okio)
       }
     }
-    maybeCreate("jvmMain").apply {
+    jvmMain {
       dependencies {
         // To silence this stupid log https://www.slf4j.org/codes.html#StaticLoggerBinder
         implementation(libs.slf4jNop)
         implementation(compose.runtime)
         // https://github.com/ajalt/clikt/issues/438
         implementation(libs.clikt)
-        // https://github.com/mikepenz/multiplatform-markdown-renderer/issues/55
-        implementation(libs.compose.markdown)
-        implementation(libs.compose.markdown.m3)
         implementation(compose.desktop.currentOs)
         implementation(libs.okhttp)
         implementation(libs.ktor.client.engine.okhttp)
         implementation(libs.tikxml.htmlescape)
       }
     }
-    maybeCreate("jsMain").apply {
+    maybeCreate("wasmJsMain").apply {
       dependencies {
         implementation(compose.runtime)
-        implementation(compose.html.core)
         implementation(compose.ui)
         implementation(compose.foundation)
         implementation(compose.material)
-        @OptIn(org.jetbrains.compose.ExperimentalComposeLibrary::class)
         implementation(compose.components.resources)
-        implementation(libs.ktor.client.engine.js)
+        implementation(npm("@js-joda/timezone", "2.18.2"))
       }
     }
   }
@@ -152,6 +153,10 @@ afterEvaluate {
 }
 
 spotless {
-  kotlin { ktfmt("0.44").googleStyle() }
-  kotlinGradle { ktfmt("0.44").googleStyle() }
+  kotlin { ktfmt("0.46").googleStyle() }
+  kotlinGradle { ktfmt("0.46").googleStyle() }
+}
+
+tasks.withType<LockStoreTask>().configureEach {
+  inputFile.set(project.layout.projectDirectory.file("kotlin-js-store/package-lock.json"))
 }
