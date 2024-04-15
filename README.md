@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-28** — merged PR [#150](https://github.com/ZacSweers/ZacSweers/pull/150) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.13.0"
+**2024-04-15** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-28** — deleted branch `renovate/com.mikepenz-multiplatform-markdown-renderer-0.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-04-15** — merged PR [#1380](https://github.com/ZacSweers/CatchUp/pull/1380) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.4.0"
 
-**2024-03-28** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-04-15** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-28** — merged PR [#148](https://github.com/ZacSweers/ZacSweers/pull/148) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.6.1"
+**2024-04-15** — merged PR [#1379](https://github.com/ZacSweers/CatchUp/pull/1379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.10.0"
 
-**2024-03-28** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-04-13** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-03-28** — merged PR [#152](https://github.com/ZacSweers/ZacSweers/pull/152) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v2.3.9"
+**2024-04-13** — merged PR [#1337](https://github.com/slackhq/circuit/pull/1337) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v3"
 
-**2024-03-28** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-04-12** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2052659960) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-28** — closed PR [#154](https://github.com/ZacSweers/ZacSweers/pull/154) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.1"
+**2024-04-12** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-03-28** — merged PR [#153](https://github.com/ZacSweers/ZacSweers/pull/153) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.23"
+**2024-04-12** — merged PR [#1377](https://github.com/ZacSweers/CatchUp/pull/1377) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 

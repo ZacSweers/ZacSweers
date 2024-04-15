@@ -12,11 +12,6 @@ import kotlinx.serialization.encoding.Encoder
 // Adapted from https://ktor.io/docs/http-client-engines.html
 expect fun httpClient(config: HttpClientConfig<*>.() -> Unit = {}): HttpClient
 
-expect fun parseRfc1123DateTime(dateTime: String): Instant
-
-@Composable
-expect fun PlatformMarkdown(text: String)
-
 /**
  * A String TypeConverter that escapes and unescapes HTML characters directly from string.
  */
