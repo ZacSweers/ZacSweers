@@ -39,14 +39,14 @@ data class Feed(val channel: Channel) {
   data class Channel(
     @XmlElement val items: List<Item>,
     @XmlElement val title: String? = null,
-    @XmlElement val description: String? = null
+    @XmlElement val description: String? = null,
   ) {
     @Serializable
     @XmlSerialName("item")
     data class Item(
       @XmlElement @Serializable(HtmlEscapeStringSerializer::class) val title: String,
       @XmlElement val link: String,
-      @XmlElement @Serializable(InstantSerializer::class) val pubDate: Instant
+      @XmlElement @Serializable(InstantSerializer::class) val pubDate: Instant,
     )
   }
 }

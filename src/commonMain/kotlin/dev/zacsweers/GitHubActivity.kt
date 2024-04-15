@@ -38,7 +38,7 @@ data class GitHubActivityEvent(
   val createdAt: Instant,
   val payload: GitHubActivityEventPayload?,
   val public: Boolean,
-  val repo: Repo?
+  val repo: Repo?,
 ) {
   object Serializer : KSerializer<GitHubActivityEvent> {
 
@@ -69,8 +69,7 @@ data class GitHubActivityEvent(
       val createdAt =
         tree.jsonObject["created_at"]?.let {
           input.json.decodeFromJsonElement(Instant.serializer(), it)
-        }
-          ?: error("No created_at found")
+        } ?: error("No created_at found")
       val public =
         tree.jsonObject["public"]?.jsonPrimitive?.content?.toBoolean() ?: error("No public found")
       val repo =
@@ -102,7 +101,7 @@ data class Issue(
   val title: String,
   val body: String? = null,
   @SerialName(value = "html_url") val htmlUrl: String,
-  val number: Int
+  val number: Int,
 )
 
 @Serializable
@@ -116,7 +115,7 @@ data class Comment(@SerialName(value = "html_url") val htmlUrl: String, val body
 data class PullRequestPayload(
   val action: String,
   val number: Int,
-  @SerialName(value = "pull_request") val pullRequest: PullRequest
+  @SerialName(value = "pull_request") val pullRequest: PullRequest,
 ) : GitHubActivityEventPayload
 
 @Serializable
@@ -124,7 +123,7 @@ data class PullRequest(
   @SerialName(value = "html_url") val htmlUrl: String,
   val title: String,
   val body: String?,
-  val merged: Boolean? = false
+  val merged: Boolean? = false,
 )
 
 @Serializable

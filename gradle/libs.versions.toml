@@ -1,7 +1,7 @@
 [versions]
 compose = "1.6.2"
 jdk = "21"
-kotlin = "2.0.0-Beta5"
+kotlin = "2.0.0-RC1"
 kotlinx-serialization = "1.6.3"
 ktor = "3.0.0-wasm2"
 markdown = "0.14.0"
@@ -10,17 +10,16 @@ xmlutil = "0.86.3"
 [plugins]
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+kotlin-plugin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-ksp = { id = "com.google.devtools.ksp", version = "2.0.0-Beta5-1.0.19" }
+ksp = { id = "com.google.devtools.ksp", version = "2.0.0-RC1-1.0.20" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
 clikt = "com.github.ajalt.clikt:clikt:4.3.0"
-# https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-compatibility-and-versioning.html#use-a-developer-version-of-compose-multiplatform-compiler
-compose-compiler = "1.5.11-kt-2.0.0-Beta5"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
-compose-material3 = "org.jetbrains.compose.material3:material3:1.6.1"
+compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "compose" }
 eithernet = "com.slack.eithernet:eithernet:1.8.1"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.6.0-RC.2"
