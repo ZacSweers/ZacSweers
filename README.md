@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-15** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-15** — merged PR [#1380](https://github.com/ZacSweers/CatchUp/pull/1380) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.4.0"
+
+**2024-04-15** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-15** — merged PR [#1379](https://github.com/ZacSweers/CatchUp/pull/1379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.10.0"
+
 **2024-04-13** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-04-13** — merged PR [#1337](https://github.com/slackhq/circuit/pull/1337) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v3"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-12** — merged PR [#1377](https://github.com/ZacSweers/CatchUp/pull/1377) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.0"
 
 **2024-04-12** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-12** — merged PR [#1376](https://github.com/ZacSweers/CatchUp/pull/1376) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.2"
-
-**2024-04-12** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-12** — merged PR [#1374](https://github.com/ZacSweers/CatchUp/pull/1374) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.1"
-
-**2024-04-12** — merged PR [#1373](https://github.com/ZacSweers/CatchUp/pull/1373) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
