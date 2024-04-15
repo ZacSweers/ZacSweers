@@ -4,6 +4,7 @@ import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
 import kotlinx.datetime.Instant
+import kotlinx.datetime.format.DateTimeComponents.Formats.RFC_1123
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.descriptors.PrimitiveKind
@@ -54,7 +55,7 @@ internal object InstantSerializer : KSerializer<Instant> {
   override val descriptor: SerialDescriptor =
     PrimitiveSerialDescriptor("Instant", PrimitiveKind.STRING)
 
-  override fun deserialize(decoder: Decoder) = parseRfc1123DateTime(decoder.decodeString())
+  override fun deserialize(decoder: Decoder) = Instant.parse(decoder.decodeString(), RFC_1123)
 
   override fun serialize(encoder: Encoder, value: Instant) = throw NotImplementedError()
 }

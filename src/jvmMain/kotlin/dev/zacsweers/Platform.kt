@@ -31,16 +31,6 @@ actual fun httpClient(config: HttpClientConfig<*>.() -> Unit) =
     }
   }
 
-actual fun parseRfc1123DateTime(dateTime: String): Instant {
-  return java.time.Instant.from(DateTimeFormatter.RFC_1123_DATE_TIME.parse(dateTime))
-    .toKotlinInstant()
-}
-
-@Composable
-actual fun PlatformMarkdown(text: String) {
-  Markdown(text, colors = LocalMarkdownColors.current, typography = LocalMarkdownTypography.current)
-}
-
 /**
  * A String TypeConverter that escapes and unescapes HTML characters directly from string. This one
  * uses apache 3 StringEscapeUtils borrowed from tikxml.
