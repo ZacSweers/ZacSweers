@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-15** — opened PR [#963](https://github.com/square/anvil/pull/963) to [square/anvil](https://github.com/square/anvil): "Simplify redundant logic"
+
+**2024-04-15** — opened PR [#962](https://github.com/square/anvil/pull/962) to [square/anvil](https://github.com/square/anvil): "Fix KSP2 fallback in mangle name checks"
+
+**2024-04-15** — opened PR [#961](https://github.com/square/anvil/pull/961) to [square/anvil](https://github.com/square/anvil): "Fix private targets API use"
+
+**2024-04-15** — created branch `z/simplifyLogic` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-15** — created branch `z/fixKspName` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-15** — created branch `z/fixTargets` on [square/anvil](https://github.com/square/anvil)
+
 **2024-04-15** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-04-15** — closed PR [#165](https://github.com/ZacSweers/ZacSweers/pull/165) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor to v3.2.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-15** — deleted branch `renovate/major-compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-04-15** — closed PR [#166](https://github.com/ZacSweers/ZacSweers/pull/166) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v23"
-
-**2024-04-15** — deleted branch `z/wasm` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-04-15** — merged PR [#164](https://github.com/ZacSweers/ZacSweers/pull/164) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "WASM for browser"
-
-**2024-04-15** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-04-15** — closed PR [#161](https://github.com/ZacSweers/ZacSweers/pull/161) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.6.2"
-
-**2024-04-15** — deleted branch `renovate/org.jetbrains.compose.material3-material3-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-04-15** — closed PR [#162](https://github.com/ZacSweers/ZacSweers/pull/162) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.material3:material3 to v1.6.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
