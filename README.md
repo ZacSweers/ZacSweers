@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-03-31** — opened issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
+**2024-04-15** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-31** — opened issue [#1356](https://github.com/ZacSweers/CatchUp/issues/1356) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Optimize visual service image loading to defer image loading until tab is selected"
+**2024-04-15** — merged PR [#1380](https://github.com/ZacSweers/CatchUp/pull/1380) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.4.0"
 
-**2024-03-30** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2028542427) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-04-15** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-30** — deleted branch `renovate/app.cash.licensee-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-15** — merged PR [#1379](https://github.com/ZacSweers/CatchUp/pull/1379) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.10.0"
 
-**2024-03-30** — merged PR [#1353](https://github.com/ZacSweers/CatchUp/pull/1353) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.11.0"
+**2024-04-13** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-03-30** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-13** — merged PR [#1337](https://github.com/slackhq/circuit/pull/1337) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update gradle/wrapper-validation-action action to v3"
 
-**2024-03-30** — merged PR [#1352](https://github.com/ZacSweers/CatchUp/pull/1352) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.16.2"
+**2024-04-12** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2052659960) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-03-30** — deleted branch `z/removeDn` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-12** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-03-30** — merged PR [#1355](https://github.com/ZacSweers/CatchUp/pull/1355) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Delete Designer News"
-
-**2024-03-30** — deleted branch `renovate/dagger` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-12** — merged PR [#1377](https://github.com/ZacSweers/CatchUp/pull/1377) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
