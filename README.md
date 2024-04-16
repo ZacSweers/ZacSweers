@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-16** — opened PR [#966](https://github.com/square/anvil/pull/966) to [square/anvil](https://github.com/square/anvil): "Another mangled name workaround in KSP"
+
+**2024-04-16** — created branch `z/anotherKspFix` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-16** — opened PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
+
 **2024-04-16** — created branch `z/k2` on [square/anvil](https://github.com/square/anvil)
 
 **2024-04-16** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2059709776) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-15** — opened PR [#961](https://github.com/square/anvil/pull/961) to [square/anvil](https://github.com/square/anvil): "Fix private targets API use"
 
 **2024-04-15** — created branch `z/simplifyLogic` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-15** — created branch `z/fixKspName` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-15** — created branch `z/fixTargets` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-15** — deleted branch `renovate/ktor` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
