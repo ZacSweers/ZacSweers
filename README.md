@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-16** — deleted branch `z/anotherKspFix` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-16** — merged PR [#966](https://github.com/square/anvil/pull/966) to [square/anvil](https://github.com/square/anvil): "Another mangled name workaround in KSP"
+
 **2024-04-16** — opened PR [#966](https://github.com/square/anvil/pull/966) to [square/anvil](https://github.com/square/anvil): "Another mangled name workaround in KSP"
 
 **2024-04-16** — created branch `z/anotherKspFix` on [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-15** — opened PR [#963](https://github.com/square/anvil/pull/963) to [square/anvil](https://github.com/square/anvil): "Simplify redundant logic"
 
 **2024-04-15** — opened PR [#962](https://github.com/square/anvil/pull/962) to [square/anvil](https://github.com/square/anvil): "Fix KSP2 fallback in mangle name checks"
-
-**2024-04-15** — opened PR [#961](https://github.com/square/anvil/pull/961) to [square/anvil](https://github.com/square/anvil): "Fix private targets API use"
-
-**2024-04-15** — created branch `z/simplifyLogic` on [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
