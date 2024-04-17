@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-17** — opened issue [#1843](https://github.com/google/ksp/issues/1843) on [google/ksp](https://github.com/google/ksp): "[KSP2]  KSAnnotations with annotation properties with a default value always resolve to null"
+
+**2024-04-17** — opened issue [#1842](https://github.com/google/ksp/issues/1842) on [google/ksp](https://github.com/google/ksp): "[KSP2] KSAnnotations with KClass properties with a default value always resolve to error types"
+
+**2024-04-17** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2061646539) in [google/ksp](https://github.com/google/ksp)
+
 **2024-04-16** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2059986392) in [google/ksp](https://github.com/google/ksp)
 
 **2024-04-16** — opened PR [#1885](https://github.com/square/kotlinpoet/pull/1885) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Prepare for K2"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-16** — opened PR [#966](https://github.com/square/anvil/pull/966) to [square/anvil](https://github.com/square/anvil): "Another mangled name workaround in KSP"
 
 **2024-04-16** — created branch `z/anotherKspFix` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-16** — opened PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
-
-**2024-04-16** — created branch `z/k2` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-16** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2059709776) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
