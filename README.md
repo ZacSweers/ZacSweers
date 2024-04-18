@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-18** — opened PR [#821](https://github.com/slackhq/slack-gradle-plugin/pull/821) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to develocity APIs for scans and tags"
+
+**2024-04-18** — created branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-18** — deleted branch `test-renovate/gradle-wrapper-validation-action-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-18** — merged PR [#817](https://github.com/slackhq/slack-gradle-plugin/pull/817) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle/wrapper-validation-action action to v3"
+
 **2024-04-17** — commented on [#135](https://github.com/slackhq/keeper/issues/135#issuecomment-2062913389) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-04-17** — closed issue [#135](https://github.com/slackhq/keeper/issues/135) on [slackhq/keeper](https://github.com/slackhq/keeper): "`java.lang.IllegalStateException: The value for this file collection cannot be changed any further.` with AGP 8.4.0-alpha05"
@@ -11,18 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-17** — commented on [#138](https://github.com/slackhq/keeper/pull/138#issuecomment-2062912445) in [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-04-17** — merged PR [#138](https://github.com/slackhq/keeper/pull/138) to [slackhq/keeper](https://github.com/slackhq/keeper): "Workaround disallow changes by splitting configuration file setup"
-
-**2024-04-17** — deleted branch `renovate/classgraph` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-17** — merged PR [#969](https://github.com/square/anvil/pull/969) to [square/anvil](https://github.com/square/anvil): "Update dependency io.github.classgraph:classgraph to v4.8.171"
-
-**2024-04-17** — deleted branch `z/typeArgs` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-04-17** — merged PR [#1889](https://github.com/square/kotlinpoet/pull/1889) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add support for annotation type arguments in KSP"
-
-**2024-04-17** — deleted branch `z/updates` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
-
-**2024-04-17** — merged PR [#2](https://github.com/ZacSweers/socialteesjs/pull/2) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Misc updates and fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
