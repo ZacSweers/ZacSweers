@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-17** — deleted branch `z/typeArgs` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-04-17** — merged PR [#1889](https://github.com/square/kotlinpoet/pull/1889) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Add support for annotation type arguments in KSP"
+
 **2024-04-17** — deleted branch `z/updates` on [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs)
 
 **2024-04-17** — merged PR [#2](https://github.com/ZacSweers/socialteesjs/pull/2) to [ZacSweers/socialteesjs](https://github.com/ZacSweers/socialteesjs): "Misc updates and fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-17** — commented on [#1649](https://github.com/google/ksp/pull/1649#issuecomment-2062140101) in [google/ksp](https://github.com/google/ksp)
 
 **2024-04-17** — closed PR [#1649](https://github.com/google/ksp/pull/1649) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
-
-**2024-04-17** — opened PR [#1847](https://github.com/google/ksp/pull/1847) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getModuleName API"
-
-**2024-04-17** — created branch `z/moduleName2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
