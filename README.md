@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-19** — deleted branch `renovate/gradle-actions-digest` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-19** — merged PR [#972](https://github.com/square/anvil/pull/972) to [square/anvil](https://github.com/square/anvil): "Update gradle/actions digest to 750cdda"
+
+**2024-04-19** — deleted branch `renovate/classgraph` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-19** — merged PR [#973](https://github.com/square/anvil/pull/973) to [square/anvil](https://github.com/square/anvil): "Update dependency io.github.classgraph:classgraph to v4.8.172"
+
 **2024-04-19** — opened PR [#974](https://github.com/square/anvil/pull/974) to [square/anvil](https://github.com/square/anvil): "Consolidate hint packages"
 
 **2024-04-19** — created branch `z/consolidate-hint-packages` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-18** — created tag `0.16.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-04-18** — deleted branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-18** — merged PR [#821](https://github.com/slackhq/slack-gradle-plugin/pull/821) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to develocity APIs for scans and tags"
-
-**2024-04-18** — opened PR [#821](https://github.com/slackhq/slack-gradle-plugin/pull/821) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to develocity APIs for scans and tags"
-
-**2024-04-18** — created branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-18** — deleted branch `test-renovate/gradle-wrapper-validation-action-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
