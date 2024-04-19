@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-19** — opened PR [#974](https://github.com/square/anvil/pull/974) to [square/anvil](https://github.com/square/anvil): "Consolidate hint packages"
+
+**2024-04-19** — created branch `z/consolidate-hint-packages` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-04-19** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-2066943782) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-04-18** — deleted branch `z/moduleName2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-18** — created branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-04-18** — deleted branch `test-renovate/gradle-wrapper-validation-action-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-18** — merged PR [#817](https://github.com/slackhq/slack-gradle-plugin/pull/817) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle/wrapper-validation-action action to v3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
