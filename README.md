@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-19** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-2066943782) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-04-18** — deleted branch `z/moduleName2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
 
 **2024-04-18** — created tag `0.16.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
