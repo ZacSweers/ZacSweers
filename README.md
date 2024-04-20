@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-19** — deleted branch `z/consolidate-hint-packages` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-04-19** — commented on [#974](https://github.com/square/anvil/pull/974#issuecomment-2067442872) in [square/anvil](https://github.com/square/anvil)
+
+**2024-04-19** — closed PR [#974](https://github.com/square/anvil/pull/974) to [square/anvil](https://github.com/square/anvil): "Consolidate hint packages"
+
+**2024-04-19** — opened PR [#975](https://github.com/square/anvil/pull/975) to [square/anvil](https://github.com/square/anvil): "Consolidate hints into single package for simpler lookups"
+
+**2024-04-19** — created branch `z/consolidateHints` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-19** — deleted branch `renovate/actions-upload-artifact-digest` on [square/anvil](https://github.com/square/anvil)
+
+**2024-04-19** — merged PR [#971](https://github.com/square/anvil/pull/971) to [square/anvil](https://github.com/square/anvil): "Update actions/upload-artifact digest to 1746f4a"
+
 **2024-04-19** — deleted branch `renovate/gradle-actions-digest` on [square/anvil](https://github.com/square/anvil)
 
 **2024-04-19** — merged PR [#972](https://github.com/square/anvil/pull/972) to [square/anvil](https://github.com/square/anvil): "Update gradle/actions digest to 750cdda"
 
 **2024-04-19** — deleted branch `renovate/classgraph` on [square/anvil](https://github.com/square/anvil)
-
-**2024-04-19** — merged PR [#973](https://github.com/square/anvil/pull/973) to [square/anvil](https://github.com/square/anvil): "Update dependency io.github.classgraph:classgraph to v4.8.172"
-
-**2024-04-19** — opened PR [#974](https://github.com/square/anvil/pull/974) to [square/anvil](https://github.com/square/anvil): "Consolidate hint packages"
-
-**2024-04-19** — created branch `z/consolidate-hint-packages` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-04-19** — commented on [#328](https://github.com/slackhq/compose-lints/issues/328#issuecomment-2066943782) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-04-18** — deleted branch `z/moduleName2` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
-
-**2024-04-18** — created tag `0.16.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-18** — deleted branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
