@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-20** — closed issue [#1317](https://github.com/slackhq/circuit/issues/1317) on [slackhq/circuit](https://github.com/slackhq/circuit): "goTo(screen) should not navigate if top of stack == screen"
 
 **2024-04-19** — deleted branch `z/consolidate-hint-packages` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-04-19** — commented on [#974](https://github.com/square/anvil/pull/974#issuecomment-2067442872) in [square/anvil](https://github.com/square/anvil)
-
-**2024-04-19** — closed PR [#974](https://github.com/square/anvil/pull/974) to [square/anvil](https://github.com/square/anvil): "Consolidate hint packages"
-
-**2024-04-19** — opened PR [#975](https://github.com/square/anvil/pull/975) to [square/anvil](https://github.com/square/anvil): "Consolidate hints into single package for simpler lookups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
