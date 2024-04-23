@@ -4,7 +4,11 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-23** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
+**2024-04-23** — merged PR [#209](https://github.com/ZacSweers/redacted-compiler-plugin/pull/209) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 1d96c77"
+
+**2024-04-23** — merged PR [#210](https://github.com/ZacSweers/redacted-compiler-plugin/pull/210) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support Unredacted properties and supertype based redaction"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
