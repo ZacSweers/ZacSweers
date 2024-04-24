@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-23** — commented on [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25#issuecomment-2073874753) in [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess)
+
+**2024-04-23** — closed issue [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "Migrate to develocity"
+
 **2024-04-23** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2073232789) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-04-23** — created tag `1.8.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
