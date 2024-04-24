@@ -4,19 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-24** — created branch `z/k2_annotation_repro` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-04-24** — deleted branch `z/subpackages` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
+
+**2024-04-24** — commented on [#1796](https://github.com/google/ksp/pull/1796#issuecomment-2075557179) in [google/ksp](https://github.com/google/ksp)
+
+**2024-04-24** — closed PR [#1796](https://github.com/google/ksp/pull/1796) to [google/ksp](https://github.com/google/ksp): "Implement Resolver.getSubpackagesOf()"
+
+**2024-04-24** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-04-24** — merged PR [#101](https://github.com/ZacSweers/auto-service-ksp/pull/101) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update gradle/wrapper-validation-action action to v3"
+
+**2024-04-24** — closed issue [#102](https://github.com/ZacSweers/auto-service-ksp/issues/102) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Confusing error message"
+
+**2024-04-24** — merged PR [#103](https://github.com/ZacSweers/auto-service-ksp/pull/103) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "changed an error message in case @AutoService annotation has empty value"
+
 **2024-04-23** — commented on [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25#issuecomment-2073874753) in [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess)
 
 **2024-04-23** — closed issue [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "Migrate to develocity"
-
-**2024-04-23** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2073232789) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-04-23** — created tag `1.8.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-04-23** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-04-23** — merged PR [#209](https://github.com/ZacSweers/redacted-compiler-plugin/pull/209) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 1d96c77"
-
-**2024-04-23** — merged PR [#210](https://github.com/ZacSweers/redacted-compiler-plugin/pull/210) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support Unredacted properties and supertype based redaction"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
