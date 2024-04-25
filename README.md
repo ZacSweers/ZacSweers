@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-25** — opened PR [#1366](https://github.com/slackhq/circuit/pull/1366) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test ComposableTarget on Presenters"
+
+**2024-04-25** — created branch `z/composableTarget` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-04-24** — created branch `z/k2_annotation_repro` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-04-24** — deleted branch `z/subpackages` on [ZacSweers/ksp](https://github.com/ZacSweers/ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-24** — closed issue [#102](https://github.com/ZacSweers/auto-service-ksp/issues/102) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Confusing error message"
 
 **2024-04-24** — merged PR [#103](https://github.com/ZacSweers/auto-service-ksp/pull/103) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "changed an error message in case @AutoService annotation has empty value"
-
-**2024-04-23** — commented on [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25#issuecomment-2073874753) in [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess)
-
-**2024-04-23** — closed issue [#25](https://github.com/cdsap/InfoKotlinProcess/issues/25) on [cdsap/InfoKotlinProcess](https://github.com/cdsap/InfoKotlinProcess): "Migrate to develocity"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
