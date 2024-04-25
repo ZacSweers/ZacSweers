@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-25** — opened issue [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Bug report: dividers are never rendered"
+
+**2024-04-25** — opened issue [#130](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/130) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Feature request: More contextual color controls"
+
 **2024-04-25** — opened PR [#1366](https://github.com/slackhq/circuit/pull/1366) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test ComposableTarget on Presenters"
 
 **2024-04-25** — created branch `z/composableTarget` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-24** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-04-24** — merged PR [#101](https://github.com/ZacSweers/auto-service-ksp/pull/101) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update gradle/wrapper-validation-action action to v3"
-
-**2024-04-24** — closed issue [#102](https://github.com/ZacSweers/auto-service-ksp/issues/102) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Confusing error message"
-
-**2024-04-24** — merged PR [#103](https://github.com/ZacSweers/auto-service-ksp/pull/103) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "changed an error message in case @AutoService annotation has empty value"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
