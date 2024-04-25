@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-25** — merged PR [#825](https://github.com/slackhq/slack-gradle-plugin/pull/825) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to Compose-based markdown rendering solution"
+
+**2024-04-25** — deleted branch `z/composeMD` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-25** — commented on [#132](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/132#issuecomment-2078239490) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2024-04-25** — commented on [#133](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/133#issuecomment-2078062125) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
 **2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2078041480) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-25** — merged PR [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new flag + logic to relocate project build directories"
 
 **2024-04-25** — deleted branch `z/bazelgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-25** — closed PR [#755](https://github.com/slackhq/slack-gradle-plugin/pull/755) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Initial pass at bazel build gen"
-
-**2024-04-25** — opened PR [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new flag + logic to relocate project build directories"
-
-**2024-04-25** — created branch `z/relocateBuildDir` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
