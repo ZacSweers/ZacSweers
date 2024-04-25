@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-25** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-04-25** — commented on [#133](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/133#issuecomment-2078062125) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-04-25** — merged PR [#211](https://github.com/ZacSweers/redacted-compiler-plugin/pull/211) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 0ad4b8f"
+**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2078041480) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2077955727) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2078035583) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2077954505) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2078031729) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-04-25** — commented on [#133](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/133#issuecomment-2077952456) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-04-25** — deleted branch `z/relocateBuildDir` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-04-25** — commented on [#133](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/133#issuecomment-2077946651) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-04-25** — merged PR [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new flag + logic to relocate project build directories"
 
-**2024-04-25** — opened PR [#826](https://github.com/slackhq/slack-gradle-plugin/pull/826) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to develocity.retry API"
+**2024-04-25** — deleted branch `z/bazelgen` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-04-25** — created branch `z/develocityRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-04-25** — closed PR [#755](https://github.com/slackhq/slack-gradle-plugin/pull/755) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Initial pass at bazel build gen"
 
-**2024-04-25** — merged PR [#1366](https://github.com/slackhq/circuit/pull/1366) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test ComposableTarget on Presenters"
+**2024-04-25** — opened PR [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add new flag + logic to relocate project build directories"
 
-**2024-04-25** — deleted branch `z/composableTarget` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-04-25** — created branch `z/relocateBuildDir` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
