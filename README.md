@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-26** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-04-26** — merged PR [#213](https://github.com/ZacSweers/redacted-compiler-plugin/pull/213) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.49"
+
+**2024-04-26** — created tag `0.16.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-04-26** — created tag `1.8.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-04-26** — merged PR [#826](https://github.com/slackhq/slack-gradle-plugin/pull/826) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to develocity.retry API"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-26** — commented on [#828](https://github.com/slackhq/slack-gradle-plugin/pull/828#issuecomment-2079944423) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-04-26** — commented on [#132](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/132#issuecomment-2079941711) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-04-26** — closed issue [#132](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/132) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Suggested code rendering improvements"
-
-**2024-04-25** — merged PR [#825](https://github.com/slackhq/slack-gradle-plugin/pull/825) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to Compose-based markdown rendering solution"
-
-**2024-04-25** — deleted branch `z/composeMD` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
