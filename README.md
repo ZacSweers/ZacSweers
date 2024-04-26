@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-26** — created tag `1.8.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-04-26** — merged PR [#826](https://github.com/slackhq/slack-gradle-plugin/pull/826) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to develocity.retry API"
+
+**2024-04-26** — deleted branch `z/develocityRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-04-26** — commented on [#212](https://github.com/ZacSweers/redacted-compiler-plugin/pull/212#issuecomment-2080001336) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-04-26** — merged PR [#212](https://github.com/ZacSweers/redacted-compiler-plugin/pull/212) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Allow `@Unredacted` classes & `@Redacted` child objects"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-25** — merged PR [#825](https://github.com/slackhq/slack-gradle-plugin/pull/825) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to Compose-based markdown rendering solution"
 
 **2024-04-25** — deleted branch `z/composeMD` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-25** — commented on [#132](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/132#issuecomment-2078239490) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-04-25** — commented on [#133](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/133#issuecomment-2078062125) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-04-25** — commented on [#131](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/131#issuecomment-2078041480) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
