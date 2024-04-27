@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-26** — merged PR [#212](https://github.com/ZacSweers/redacted-compiler-plugin/pull/212) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Allow `@Unredacted` classes & `@Redacted` child objects"
 
 **2024-04-26** — commented on [#828](https://github.com/slackhq/slack-gradle-plugin/pull/828#issuecomment-2079944423) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-26** — commented on [#132](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/132#issuecomment-2079941711) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
