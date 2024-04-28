@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-26** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-04-28** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-26** — merged PR [#213](https://github.com/ZacSweers/redacted-compiler-plugin/pull/213) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.49"
+**2024-04-28** — merged PR [#1394](https://github.com/ZacSweers/CatchUp/pull/1394) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.0.0-alpha.14"
 
-**2024-04-26** — created tag `0.16.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-04-28** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-26** — created tag `1.8.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-04-28** — merged PR [#1392](https://github.com/ZacSweers/CatchUp/pull/1392) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.2"
 
-**2024-04-26** — merged PR [#826](https://github.com/slackhq/slack-gradle-plugin/pull/826) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to develocity.retry API"
+**2024-04-28** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-26** — deleted branch `z/develocityRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-04-28** — merged PR [#1390](https://github.com/ZacSweers/CatchUp/pull/1390) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.12"
+
+**2024-04-28** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-28** — merged PR [#1389](https://github.com/ZacSweers/CatchUp/pull/1389) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha06"
+
+**2024-04-28** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-28** — merged PR [#1393](https://github.com/ZacSweers/CatchUp/pull/1393) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
