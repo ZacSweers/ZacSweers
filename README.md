@@ -15,12 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-26** — merged PR [#826](https://github.com/slackhq/slack-gradle-plugin/pull/826) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Switch to develocity.retry API"
 
 **2024-04-26** — deleted branch `z/develocityRetry` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-04-26** — commented on [#212](https://github.com/ZacSweers/redacted-compiler-plugin/pull/212#issuecomment-2080001336) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-04-26** — merged PR [#212](https://github.com/ZacSweers/redacted-compiler-plugin/pull/212) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Allow `@Unredacted` classes & `@Redacted` child objects"
-
-**2024-04-26** — commented on [#828](https://github.com/slackhq/slack-gradle-plugin/pull/828#issuecomment-2079944423) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
