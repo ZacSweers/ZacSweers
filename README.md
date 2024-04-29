@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-29** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-29** — merged PR [#1407](https://github.com/ZacSweers/CatchUp/pull/1407) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha07"
+
 **2024-04-29** — merged PR [#1375](https://github.com/slackhq/circuit/pull/1375) to [slackhq/circuit](https://github.com/slackhq/circuit): "Deprecate assertIsEmpty/expectNoEvents, add versions for all event types"
 
 **2024-04-29** — opened issue [#4732](https://github.com/JetBrains/compose-multiplatform/issues/4732) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Support Kotlin 2.0.0-RC2"
