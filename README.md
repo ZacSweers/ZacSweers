@@ -4,25 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-29** — deleted branch `renovate/ktfmt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-29** — opened issue [#4732](https://github.com/JetBrains/compose-multiplatform/issues/4732) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Support Kotlin 2.0.0-RC2"
 
-**2024-04-29** — merged PR [#1398](https://github.com/ZacSweers/CatchUp/pull/1398) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.49"
+**2024-04-29** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-04-29** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2083452493) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-04-29** — merged PR [#580](https://github.com/ZacSweers/MoshiX/pull/580) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.49"
 
-**2024-04-29** — commented on [#267](https://github.com/slackhq/slack-lints/issues/267#issuecomment-2083451264) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-04-29** — commented on [#1375](https://github.com/slackhq/circuit/pull/1375#issuecomment-2083525327) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-04-29** — closed issue [#267](https://github.com/slackhq/slack-lints/issues/267) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "View#clearOnClickListener() does not actually exist?"
+**2024-04-29** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-04-29** — merged PR [#1405](https://github.com/ZacSweers/CatchUp/pull/1405) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-alpha05"
-
-**2024-04-29** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-29** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-29** — merged PR [#1391](https://github.com/ZacSweers/CatchUp/pull/1391) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.0-alpha02"
-
-**2024-04-29** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-29** — merged PR [#579](https://github.com/ZacSweers/MoshiX/pull/579) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update gradle/wrapper-validation-action action to v3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
