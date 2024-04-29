@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-29** — merged PR [#1405](https://github.com/ZacSweers/CatchUp/pull/1405) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-alpha05"
+
+**2024-04-29** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-29** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-29** — merged PR [#1391](https://github.com/ZacSweers/CatchUp/pull/1391) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.0-alpha02"
+
+**2024-04-29** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-29** — merged PR [#1404](https://github.com/ZacSweers/CatchUp/pull/1404) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.11.2"
+
+**2024-04-29** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-29** — merged PR [#1386](https://github.com/ZacSweers/CatchUp/pull/1386) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha07"
+
 **2024-04-28** — merged PR [#1399](https://github.com/ZacSweers/CatchUp/pull/1399) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v4.4.0"
 
 **2024-04-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-28** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-28** — merged PR [#1402](https://github.com/ZacSweers/CatchUp/pull/1402) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v2.14"
-
-**2024-04-28** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-28** — merged PR [#1401](https://github.com/ZacSweers/CatchUp/pull/1401) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.27.0"
-
-**2024-04-28** — deleted branch `renovate/com.github.ajalt.clikt-clikt-jvm-4.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-28** — merged PR [#1400](https://github.com/ZacSweers/CatchUp/pull/1400) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v4.4.0"
-
-**2024-04-28** — deleted branch `renovate/androidx.core-core-splashscreen-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-28** — merged PR [#1397](https://github.com/ZacSweers/CatchUp/pull/1397) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.core:core-splashscreen to v1.2.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
