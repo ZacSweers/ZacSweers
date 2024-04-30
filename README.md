@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085642191) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-04-30** — opened PR [#832](https://github.com/slackhq/slack-gradle-plugin/pull/832) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.4 and lint 8.5 alphas"
 
-**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085620958) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-04-30** — created branch `z/agp84` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-04-30** — deleted branch `dependabot/github_actions/gradle/wrapper-validation-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-30** — commented on [#1378](https://github.com/slackhq/circuit/pull/1378#issuecomment-2086433251) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-04-30** — merged PR [#134](https://github.com/slackhq/kotlin-cli-util/pull/134) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/wrapper-validation-action from 2 to 3"
+**2024-04-30** — opened PR [#1898](https://github.com/square/kotlinpoet/pull/1898) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Enable -Werror + fix all warnings"
 
-**2024-04-30** — opened PR [#137](https://github.com/slackhq/kotlin-cli-util/pull/137) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update ktfmt to 0.49"
+**2024-04-30** — created branch `z/werror` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2024-04-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-30** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-23.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-04-30** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-30** — closed PR [#167](https://github.com/ZacSweers/ZacSweers/pull/167) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v23"
 
-**2024-04-30** — merged PR [#136](https://github.com/slackhq/kotlin-cli-util/pull/136) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.3.0 to 4.4.0"
+**2024-04-30** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-04-30** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-30** — merged PR [#168](https://github.com/ZacSweers/ZacSweers/pull/168) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.14"
 
-**2024-04-30** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.13` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-04-30** — merged PR [#169](https://github.com/ZacSweers/ZacSweers/pull/169) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
