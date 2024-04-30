@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085642191) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085620958) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-04-30** — deleted branch `dependabot/github_actions/gradle/wrapper-validation-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-04-30** — merged PR [#134](https://github.com/slackhq/kotlin-cli-util/pull/134) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/wrapper-validation-action from 2 to 3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-30** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-04-30** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.13` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-04-30** — merged PR [#133](https://github.com/slackhq/kotlin-cli-util/pull/133) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.12 to 2.0.13"
-
-**2024-04-30** — merged PR [#135](https://github.com/slackhq/kotlin-cli-util/pull/135) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.8 to 1.5.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
