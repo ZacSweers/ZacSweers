@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-18** — opened PR [#821](https://github.com/slackhq/slack-gradle-plugin/pull/821) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Migrate to develocity APIs for scans and tags"
+**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085642191) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-04-18** — created branch `z/develocity` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085620958) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-04-18** — deleted branch `test-renovate/gradle-wrapper-validation-action-3.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-04-30** — deleted branch `dependabot/github_actions/gradle/wrapper-validation-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-18** — merged PR [#817](https://github.com/slackhq/slack-gradle-plugin/pull/817) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle/wrapper-validation-action action to v3"
+**2024-04-30** — merged PR [#134](https://github.com/slackhq/kotlin-cli-util/pull/134) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/wrapper-validation-action from 2 to 3"
 
-**2024-04-17** — commented on [#135](https://github.com/slackhq/keeper/issues/135#issuecomment-2062913389) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-04-30** — opened PR [#137](https://github.com/slackhq/kotlin-cli-util/pull/137) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update ktfmt to 0.49"
 
-**2024-04-17** — closed issue [#135](https://github.com/slackhq/keeper/issues/135) on [slackhq/keeper](https://github.com/slackhq/keeper): "`java.lang.IllegalStateException: The value for this file collection cannot be changed any further.` with AGP 8.4.0-alpha05"
+**2024-04-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-17** — commented on [#138](https://github.com/slackhq/keeper/pull/138#issuecomment-2062912445) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-04-30** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-17** — merged PR [#138](https://github.com/slackhq/keeper/pull/138) to [slackhq/keeper](https://github.com/slackhq/keeper): "Workaround disallow changes by splitting configuration file setup"
+**2024-04-30** — merged PR [#136](https://github.com/slackhq/kotlin-cli-util/pull/136) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.3.0 to 4.4.0"
+
+**2024-04-30** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-04-30** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.13` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 

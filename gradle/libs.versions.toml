@@ -4,7 +4,7 @@ jdk = "21"
 kotlin = "1.9.23"
 kotlinx-serialization = "1.6.3"
 ktor = "3.0.0-wasm2"
-markdown = "0.14.0"
+markdown = "0.16.0"
 xmlutil = "0.86.3"
 
 [plugins]
@@ -15,7 +15,7 @@ ksp = { id = "com.google.devtools.ksp", version = "1.9.23-1.0.20" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
-clikt = "com.github.ajalt.clikt:clikt:4.3.0"
+clikt = "com.github.ajalt.clikt:clikt:4.4.0"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.10.2"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
