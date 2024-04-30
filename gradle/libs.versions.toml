@@ -31,7 +31,7 @@ ktor-client-contentNegotiation = { module = "io.ktor:ktor-client-content-negotia
 ktor-client-engine-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
 ktor-client-engine-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
-okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.12"
+okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.14"
 okio = "com.squareup.okio:okio:3.9.0"
 slf4jNop = "org.slf4j:slf4j-nop:2.0.13"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
