@@ -4,23 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-04-29** — merged PR [#264](https://github.com/slackhq/slack-lints/pull/264) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.5.0-alpha06"
+
+**2024-04-29** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-04-29** — merged PR [#104](https://github.com/ZacSweers/auto-service-ksp/pull/104) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.49"
+
+**2024-04-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+
+**2024-04-29** — merged PR [#526](https://github.com/uber/AutoDispose/pull/526) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.24.0 to 6.25.0"
+
 **2024-04-29** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-04-29** — merged PR [#1407](https://github.com/ZacSweers/CatchUp/pull/1407) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha07"
 
 **2024-04-29** — merged PR [#1375](https://github.com/slackhq/circuit/pull/1375) to [slackhq/circuit](https://github.com/slackhq/circuit): "Deprecate assertIsEmpty/expectNoEvents, add versions for all event types"
-
-**2024-04-29** — opened issue [#4732](https://github.com/JetBrains/compose-multiplatform/issues/4732) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Support Kotlin 2.0.0-RC2"
-
-**2024-04-29** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-04-29** — merged PR [#580](https://github.com/ZacSweers/MoshiX/pull/580) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.49"
-
-**2024-04-29** — commented on [#1375](https://github.com/slackhq/circuit/pull/1375#issuecomment-2083525327) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-04-29** — deleted branch `renovate/gradle-wrapper-validation-action-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-04-29** — merged PR [#579](https://github.com/ZacSweers/MoshiX/pull/579) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update gradle/wrapper-validation-action action to v3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
