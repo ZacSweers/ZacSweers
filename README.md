@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-30** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2087592566) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-30** — created tag `0.17.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-04-30** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-04-30** — merged PR [#1406](https://github.com/ZacSweers/CatchUp/pull/1406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.apollographql.apollo3 to v4"
+
 **2024-04-30** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-04-30** — merged PR [#1375](https://github.com/ZacSweers/CatchUp/pull/1375) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta07"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-30** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-04-30** — merged PR [#582](https://github.com/ZacSweers/MoshiX/pull/582) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.4.0"
-
-**2024-04-30** — deleted branch `z/werror` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-04-30** — merged PR [#1898](https://github.com/square/kotlinpoet/pull/1898) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Enable -Werror + fix all warnings"
-
-**2024-04-30** — opened PR [#988](https://github.com/square/anvil/pull/988) to [square/anvil](https://github.com/square/anvil): "Fix dagger-compiler lookup in useKsp()"
-
-**2024-04-30** — created branch `z/fixdaggerclookup` on [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
