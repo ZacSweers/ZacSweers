@@ -4,7 +4,7 @@ jdk = "21"
 kotlin = "2.0.0-RC1"
 kotlinx-serialization = "1.6.3"
 ktor = "3.0.0-wasm2"
-markdown = "0.14.0"
+markdown = "0.16.0"
 xmlutil = "0.86.3"
 
 [plugins]
@@ -16,7 +16,7 @@ ksp = { id = "com.google.devtools.ksp", version = "2.0.0-RC1-1.0.20" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
-clikt = "com.github.ajalt.clikt:clikt:4.3.0"
+clikt = "com.github.ajalt.clikt:clikt:4.4.0"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
 compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "compose" }
@@ -31,7 +31,7 @@ ktor-client-contentNegotiation = { module = "io.ktor:ktor-client-content-negotia
 ktor-client-engine-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
 ktor-client-engine-js = { module = "io.ktor:ktor-client-js", version.ref = "ktor" }
 ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }
-okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.12"
+okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.14"
 okio = "com.squareup.okio:okio:3.9.0"
 slf4jNop = "org.slf4j:slf4j-nop:2.0.13"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
