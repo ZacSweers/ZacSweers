@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-29** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-04-30** — deleted branch `dependabot/github_actions/gradle/wrapper-validation-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-29** — merged PR [#264](https://github.com/slackhq/slack-lints/pull/264) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.5.0-alpha06"
+**2024-04-30** — merged PR [#134](https://github.com/slackhq/kotlin-cli-util/pull/134) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/wrapper-validation-action from 2 to 3"
 
-**2024-04-29** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-04-30** — opened PR [#137](https://github.com/slackhq/kotlin-cli-util/pull/137) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update ktfmt to 0.49"
 
-**2024-04-29** — merged PR [#104](https://github.com/ZacSweers/auto-service-ksp/pull/104) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.49"
+**2024-04-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-29** — deleted branch `dependabot/gradle/com.diffplug.spotless-6.25.0` on [uber/AutoDispose](https://github.com/uber/AutoDispose)
+**2024-04-30** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-29** — merged PR [#526](https://github.com/uber/AutoDispose/pull/526) to [uber/AutoDispose](https://github.com/uber/AutoDispose): "Bump com.diffplug.spotless from 6.24.0 to 6.25.0"
+**2024-04-30** — merged PR [#136](https://github.com/slackhq/kotlin-cli-util/pull/136) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.3.0 to 4.4.0"
 
-**2024-04-29** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-04-30** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-29** — merged PR [#1407](https://github.com/ZacSweers/CatchUp/pull/1407) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha07"
+**2024-04-30** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.13` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-04-29** — merged PR [#1375](https://github.com/slackhq/circuit/pull/1375) to [slackhq/circuit](https://github.com/slackhq/circuit): "Deprecate assertIsEmpty/expectNoEvents, add versions for all event types"
+**2024-04-30** — merged PR [#133](https://github.com/slackhq/kotlin-cli-util/pull/133) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.12 to 2.0.13"
+
+**2024-04-30** — merged PR [#135](https://github.com/slackhq/kotlin-cli-util/pull/135) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.8 to 1.5.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
