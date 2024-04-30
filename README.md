@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-30** — commented on [#140](https://github.com/slackhq/keeper/pull/140#issuecomment-2086903736) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2024-04-30** — opened PR [#832](https://github.com/slackhq/slack-gradle-plugin/pull/832) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.4 and lint 8.5 alphas"
 
 **2024-04-30** — created branch `z/agp84` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-30** — deleted branch `renovate/okhttp-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-04-30** — merged PR [#168](https://github.com/ZacSweers/ZacSweers/pull/168) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.14"
-
-**2024-04-30** — merged PR [#169](https://github.com/ZacSweers/ZacSweers/pull/169) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
