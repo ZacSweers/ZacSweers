@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-04-30** — commented on [#105](https://github.com/ZacSweers/auto-service-ksp/issues/105#issuecomment-2087873622) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2024-04-30** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2087592566) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-04-30** — created tag `0.17.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-30** — merged PR [#832](https://github.com/slackhq/slack-gradle-plugin/pull/832) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to AGP 8.4 and lint 8.5 alphas"
 
 **2024-04-30** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-04-30** — merged PR [#582](https://github.com/ZacSweers/MoshiX/pull/582) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
