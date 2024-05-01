@@ -20,6 +20,7 @@ import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
 import org.jetbrains.kotlin.gradle.targets.js.dsl.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension
 import org.jetbrains.kotlin.gradle.targets.js.npm.LockStoreTask
+import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
 plugins {
@@ -106,11 +107,10 @@ kotlin {
     }
   }
 
-  // TODO https://youtrack.jetbrains.com/issue/KT-67636
-  //  targets.withType<KotlinJvmTarget> {
-  //   // Needed for 'application' plugin.
-  //    withJava()
-  //  }
+  targets.withType<KotlinJvmTarget> {
+    // Needed for 'application' plugin.
+    withJava()
+  }
 }
 
 tasks.withType<KotlinJsCompile>().configureEach {
