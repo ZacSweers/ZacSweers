@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-01** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2088871764) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-01** — deleted branch `z/k2_annotation_repro` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-05-01** — deleted branch `z/fixdaggerclookup` on [square/anvil](https://github.com/square/anvil)
+**2024-05-01** — deleted branch `renovate/androidx.window-window-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — closed PR [#988](https://github.com/square/anvil/pull/988) to [square/anvil](https://github.com/square/anvil): "Fix dagger-compiler lookup in useKsp()"
+**2024-05-01** — merged PR [#1417](https://github.com/ZacSweers/CatchUp/pull/1417) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.3.0-beta02"
 
-**2024-05-01** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — merged PR [#1408](https://github.com/ZacSweers/CatchUp/pull/1408) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.17.0"
+**2024-05-01** — merged PR [#1418](https://github.com/ZacSweers/CatchUp/pull/1418) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.27.1"
 
-**2024-04-30** — commented on [#105](https://github.com/ZacSweers/auto-service-ksp/issues/105#issuecomment-2087873622) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-05-01** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-30** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2087592566) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-05-01** — merged PR [#1411](https://github.com/ZacSweers/CatchUp/pull/1411) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha08"
 
-**2024-04-30** — created tag `0.17.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-05-01** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-04-30** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1412](https://github.com/ZacSweers/CatchUp/pull/1412) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.1"
 
-**2024-04-30** — merged PR [#1406](https://github.com/ZacSweers/CatchUp/pull/1406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.apollographql.apollo3 to v4"
+**2024-05-01** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
