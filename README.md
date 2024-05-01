@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-01** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2088871764) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-01** — deleted branch `z/fixdaggerclookup` on [square/anvil](https://github.com/square/anvil)
 
 **2024-05-01** — closed PR [#988](https://github.com/square/anvil/pull/988) to [square/anvil](https://github.com/square/anvil): "Fix dagger-compiler lookup in useKsp()"
