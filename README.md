@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-01** — deleted branch `z/fixdaggerclookup` on [square/anvil](https://github.com/square/anvil)
+
+**2024-05-01** — closed PR [#988](https://github.com/square/anvil/pull/988) to [square/anvil](https://github.com/square/anvil): "Fix dagger-compiler lookup in useKsp()"
+
 **2024-05-01** — deleted branch `renovate/sgp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-01** — merged PR [#1408](https://github.com/ZacSweers/CatchUp/pull/1408) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.17.0"
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-04-30** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-04-30** — merged PR [#1406](https://github.com/ZacSweers/CatchUp/pull/1406) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.apollographql.apollo3 to v4"
-
-**2024-04-30** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-04-30** — merged PR [#1375](https://github.com/ZacSweers/CatchUp/pull/1375) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
