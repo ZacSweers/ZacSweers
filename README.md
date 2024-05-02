@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-01** — deleted branch `z/k2_annotation_repro` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-01** — deleted branch `renovate/androidx.paging-paging-compose-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/androidx.window-window-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1416](https://github.com/ZacSweers/CatchUp/pull/1416) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.0-rc01"
 
-**2024-05-01** — merged PR [#1417](https://github.com/ZacSweers/CatchUp/pull/1417) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.3.0-beta02"
+**2024-05-01** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1419](https://github.com/ZacSweers/CatchUp/pull/1419) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta08"
 
-**2024-05-01** — merged PR [#1418](https://github.com/ZacSweers/CatchUp/pull/1418) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.27.1"
+**2024-05-01** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1420](https://github.com/ZacSweers/CatchUp/pull/1420) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.1"
 
-**2024-05-01** — merged PR [#1411](https://github.com/ZacSweers/CatchUp/pull/1411) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-alpha08"
+**2024-05-01** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/datastore` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1410](https://github.com/ZacSweers/CatchUp/pull/1410) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-alpha04"
 
-**2024-05-01** — merged PR [#1412](https://github.com/ZacSweers/CatchUp/pull/1412) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.1"
+**2024-05-01** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-01** — merged PR [#1421](https://github.com/ZacSweers/CatchUp/pull/1421) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
