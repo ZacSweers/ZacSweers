@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-02** — created tag `0.7.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — opened issue [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9) on [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics): "Support git-checkout"
 
-**2024-05-02** — deleted branch `z/coroutineMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-02** — closed PR [#269](https://github.com/slackhq/slack-lints/pull/269) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add mock check for interfaces with coroutines APIs"
+**2024-05-02** — merged PR [#1415](https://github.com/ZacSweers/CatchUp/pull/1415) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-alpha06"
 
-**2024-05-02** — merged PR [#257](https://github.com/slackhq/slack-lints/pull/257) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Expand Mock option explanation for use with multiple issues."
+**2024-05-02** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-02** — deleted branch `z/doNotMockByDefault` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — merged PR [#1427](https://github.com/ZacSweers/CatchUp/pull/1427) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.12.0"
 
-**2024-05-02** — merged PR [#270](https://github.com/slackhq/slack-lints/pull/270) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add AnyMockDetector"
+**2024-05-02** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-05-02** — merged PR [#1422](https://github.com/ZacSweers/CatchUp/pull/1422) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.14.0-alpha01"
 
-**2024-05-02** — merged PR [#106](https://github.com/ZacSweers/auto-service-ksp/pull/106) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.2.0-jre"
+**2024-05-02** — deleted branch `renovate/slack.lint` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-02** — merged PR [#1426](https://github.com/ZacSweers/CatchUp/pull/1426) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.2"
 
-**2024-05-02** — merged PR [#1424](https://github.com/ZacSweers/CatchUp/pull/1424) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.2.0-jre"
+**2024-05-02** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
