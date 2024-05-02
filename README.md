@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-01** — commented on [#257](https://github.com/slackhq/slack-lints/pull/257#issuecomment-2089448161) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — created tag `0.7.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-01** — opened PR [#270](https://github.com/slackhq/slack-lints/pull/270) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add AnyMockDetector"
+**2024-05-02** — deleted branch `z/coroutineMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-01** — opened PR [#269](https://github.com/slackhq/slack-lints/pull/269) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add mock check for interfaces with coroutines APIs"
+**2024-05-02** — closed PR [#269](https://github.com/slackhq/slack-lints/pull/269) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add mock check for interfaces with coroutines APIs"
 
-**2024-05-01** — created branch `z/doNotMockByDefault` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — merged PR [#257](https://github.com/slackhq/slack-lints/pull/257) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Expand Mock option explanation for use with multiple issues."
 
-**2024-05-01** — created branch `z/coroutineMock` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-02** — deleted branch `z/doNotMockByDefault` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-01** — deleted branch `renovate/androidx.paging-paging-compose-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-02** — merged PR [#270](https://github.com/slackhq/slack-lints/pull/270) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add AnyMockDetector"
 
-**2024-05-01** — merged PR [#1416](https://github.com/ZacSweers/CatchUp/pull/1416) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.0-rc01"
+**2024-05-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-05-01** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-02** — merged PR [#106](https://github.com/ZacSweers/auto-service-ksp/pull/106) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.2.0-jre"
 
-**2024-05-01** — merged PR [#1419](https://github.com/ZacSweers/CatchUp/pull/1419) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta08"
+**2024-05-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-01** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-02** — merged PR [#1424](https://github.com/ZacSweers/CatchUp/pull/1424) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.2.0-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
