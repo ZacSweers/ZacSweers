@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-02** — opened issue [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9) on [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics): "Support git-checkout"
-
-**2024-05-02** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1415](https://github.com/ZacSweers/CatchUp/pull/1415) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-alpha06"
-
-**2024-05-02** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1427](https://github.com/ZacSweers/CatchUp/pull/1427) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.12.0"
-
-**2024-05-02** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1422](https://github.com/ZacSweers/CatchUp/pull/1422) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.14.0-alpha01"
-
-**2024-05-02** — deleted branch `renovate/slack.lint` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1426](https://github.com/ZacSweers/CatchUp/pull/1426) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.2"
-
-**2024-05-02** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-03** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
