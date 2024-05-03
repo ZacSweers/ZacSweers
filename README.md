@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-02** — deleted branch `renovate/androidx.core` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-02** — merged PR [#1422](https://github.com/ZacSweers/CatchUp/pull/1422) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.14.0-alpha01"
-
-**2024-05-02** — deleted branch `renovate/slack.lint` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1426](https://github.com/ZacSweers/CatchUp/pull/1426) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.2"
-
-**2024-05-02** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
