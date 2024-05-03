@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-03** — commented on [#1392](https://github.com/slackhq/circuit/issues/1392#issuecomment-2093528780) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-03** — commented on [#386](https://github.com/runningcode/fladle/pull/386#issuecomment-2093518091) in [runningcode/fladle](https://github.com/runningcode/fladle)
+
 **2024-05-03** — opened PR [#386](https://github.com/runningcode/fladle/pull/386) to [runningcode/fladle](https://github.com/runningcode/fladle): "Support develocity in JUnitXml reporting."
 
 **2024-05-03** — opened PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-03** — commented on [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9#issuecomment-2093085195) in [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics)
 
 **2024-05-03** — deleted branch `renovate/com.osacky.doctor-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-03** — merged PR [#1428](https://github.com/ZacSweers/CatchUp/pull/1428) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.10.0"
-
-**2024-05-02** — opened issue [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9) on [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics): "Support git-checkout"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
