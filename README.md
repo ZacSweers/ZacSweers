@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-03** — opened PR [#386](https://github.com/runningcode/fladle/pull/386) to [runningcode/fladle](https://github.com/runningcode/fladle): "Support develocity in JUnitXml reporting."
+
+**2024-05-03** — opened PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
+
+**2024-05-03** — created branch `z/updateToDevelocity` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
+
+**2024-05-03** — opened PR [#10](https://github.com/Kotlin/k2-performance-metrics/pull/10) to [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics): "Add support for git-checkout in scenarios"
+
+**2024-05-03** — created branch `z/checkout` on [ZacSweers/k2-performance-metrics](https://github.com/ZacSweers/k2-performance-metrics)
+
+**2024-05-03** — created tag `0.7.3` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-05-03** — commented on [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9#issuecomment-2093085195) in [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics)
 
 **2024-05-03** — deleted branch `renovate/com.osacky.doctor-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-03** — merged PR [#1428](https://github.com/ZacSweers/CatchUp/pull/1428) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.10.0"
 
 **2024-05-02** — opened issue [#9](https://github.com/Kotlin/k2-performance-metrics/issues/9) on [Kotlin/k2-performance-metrics](https://github.com/Kotlin/k2-performance-metrics): "Support git-checkout"
-
-**2024-05-02** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1415](https://github.com/ZacSweers/CatchUp/pull/1415) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-alpha06"
-
-**2024-05-02** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-02** — merged PR [#1427](https://github.com/ZacSweers/CatchUp/pull/1427) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
