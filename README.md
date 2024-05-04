@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-04** — Could not load GitHub activity. Please check back later.
+**2024-05-04** — commented on [#199](https://github.com/ZacSweers/redacted-compiler-plugin/issues/199#issuecomment-2094257950) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-05-04** — created branch `k2` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-04** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-04** — merged PR [#1429](https://github.com/ZacSweers/CatchUp/pull/1429) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha08"
+
+**2024-05-04** — deleted branch `renovate/slack.lint` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-04** — merged PR [#1430](https://github.com/ZacSweers/CatchUp/pull/1430) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.3"
+
+**2024-05-03** — commented on [#1392](https://github.com/slackhq/circuit/issues/1392#issuecomment-2093528780) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-03** — commented on [#386](https://github.com/runningcode/fladle/pull/386#issuecomment-2093518091) in [runningcode/fladle](https://github.com/runningcode/fladle)
+
+**2024-05-03** — opened PR [#386](https://github.com/runningcode/fladle/pull/386) to [runningcode/fladle](https://github.com/runningcode/fladle): "Support develocity in JUnitXml reporting."
+
+**2024-05-03** — opened PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
