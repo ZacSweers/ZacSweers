@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-06** — opened PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
+
+**2024-05-06** — created branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2024-05-06** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2096626983) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-05-04** — merged PR [#581](https://github.com/ZacSweers/MoshiX/pull/581) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha08"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-04** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-04** — merged PR [#1429](https://github.com/ZacSweers/CatchUp/pull/1429) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-alpha08"
-
-**2024-05-04** — deleted branch `renovate/slack.lint` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-04** — merged PR [#1430](https://github.com/ZacSweers/CatchUp/pull/1430) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.3"
-
-**2024-05-03** — commented on [#1392](https://github.com/slackhq/circuit/issues/1392#issuecomment-2093528780) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
