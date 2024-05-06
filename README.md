@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-06** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2096626983) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-05-04** — merged PR [#581](https://github.com/ZacSweers/MoshiX/pull/581) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha08"
 
 **2024-05-04** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,13 +23,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-04** — merged PR [#1430](https://github.com/ZacSweers/CatchUp/pull/1430) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.7.3"
 
 **2024-05-03** — commented on [#1392](https://github.com/slackhq/circuit/issues/1392#issuecomment-2093528780) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-03** — commented on [#386](https://github.com/runningcode/fladle/pull/386#issuecomment-2093518091) in [runningcode/fladle](https://github.com/runningcode/fladle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2024-05-06** — [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
+
 **2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
 
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-23** — [You Are Not Blocked](https://www.zacsweers.dev/you-are-not-blocked/)
 
 **2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
-
-**2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
