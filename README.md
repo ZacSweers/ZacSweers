@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-07** — merged PR [#333](https://github.com/slackhq/compose-lints/pull/333) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.4.0"
+
+**2024-05-07** — deleted branch `renovate/jinja2-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-05-07** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-05-07** — merged PR [#337](https://github.com/slackhq/compose-lints/pull/337) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Jinja2 to v3.1.4"
+
+**2024-05-07** — commented on [#339](https://github.com/slackhq/compose-lints/issues/339#issuecomment-2098879355) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-05-07** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-07** — merged PR [#1431](https://github.com/ZacSweers/CatchUp/pull/1431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency ru.ldralighieri.corbind:corbind to v1.11.0"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-07** — merged PR [#1433](https://github.com/ZacSweers/CatchUp/pull/1433) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.12"
 
 **2024-05-06** — opened PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
-
-**2024-05-06** — created branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-05-06** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2096626983) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-05-04** — merged PR [#581](https://github.com/ZacSweers/MoshiX/pull/581) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-alpha08"
-
-**2024-05-04** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-04** — commented on [#199](https://github.com/ZacSweers/redacted-compiler-plugin/issues/199#issuecomment-2094257950) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
