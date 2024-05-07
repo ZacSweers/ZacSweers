@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-07** — closed issue [#1843](https://github.com/google/ksp/issues/1843) on [google/ksp](https://github.com/google/ksp): "[KSP2]  KSAnnotations with annotation properties with a default value always resolve to null"
+
+**2024-05-07** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-07** — merged PR [#1434](https://github.com/ZacSweers/CatchUp/pull/1434) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.1"
+
+**2024-05-07** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2099062216) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-05-07** — deleted branch `dependabot/pip/dot-github/workflows/jinja2-3.1.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-05-07** — merged PR [#838](https://github.com/slackhq/slack-gradle-plugin/pull/838) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Bump jinja2 from 3.1.3 to 3.1.4 in /.github/workflows"
+
+**2024-05-07** — deleted branch `test-renovate/pypi-Jinja2-vulnerability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-05-07** — closed PR [#839](https://github.com/slackhq/slack-gradle-plugin/pull/839) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency Jinja2 to v3.1.4 [SECURITY]"
+
 **2024-05-07** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2098962688) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-05-07** — deleted branch `renovate/pygments-2.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-05-07** — merged PR [#336](https://github.com/slackhq/compose-lints/pull/336) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Pygments to v2.18.0"
-
-**2024-05-07** — merged PR [#333](https://github.com/slackhq/compose-lints/pull/333) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.4.0"
-
-**2024-05-07** — deleted branch `renovate/jinja2-3.x` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-05-07** — deleted branch `renovate/lint` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-05-07** — merged PR [#337](https://github.com/slackhq/compose-lints/pull/337) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency Jinja2 to v3.1.4"
-
-**2024-05-07** — commented on [#339](https://github.com/slackhq/compose-lints/issues/339#issuecomment-2098879355) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-05-07** — deleted branch `renovate/corbind` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-07** — merged PR [#1431](https://github.com/ZacSweers/CatchUp/pull/1431) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency ru.ldralighieri.corbind:corbind to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
