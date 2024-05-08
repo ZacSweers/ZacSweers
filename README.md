@@ -4,9 +4,9 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-08** — opened PR [#96](https://github.com/square/gradle-dependencies-sorter/pull/96) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Switch to maven publish plugin for publishing"
+**2024-05-08** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-08** — created branch `z/publishingUpdates` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+**2024-05-08** — merged PR [#216](https://github.com/ZacSweers/redacted-compiler-plugin/pull/216) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 44c2b7a"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
