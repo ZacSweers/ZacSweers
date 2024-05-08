@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-08** — opened PR [#96](https://github.com/square/gradle-dependencies-sorter/pull/96) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Switch to maven publish plugin for publishing"
+
+**2024-05-08** — created branch `z/publishingUpdates` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
 **2024-05-08** — commented on [#386](https://github.com/runningcode/fladle/pull/386#issuecomment-2100865599) in [runningcode/fladle](https://github.com/runningcode/fladle)
 
 **2024-05-08** — commented on [#138](https://github.com/slackhq/keeper/pull/138#issuecomment-2100788031) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-07** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2099062216) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-05-07** — deleted branch `dependabot/pip/dot-github/workflows/jinja2-3.1.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-05-07** — merged PR [#838](https://github.com/slackhq/slack-gradle-plugin/pull/838) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Bump jinja2 from 3.1.3 to 3.1.4 in /.github/workflows"
-
-**2024-05-07** — deleted branch `test-renovate/pypi-Jinja2-vulnerability` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
