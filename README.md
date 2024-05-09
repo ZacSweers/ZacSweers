@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-09** — created tag `0.16.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2024-05-09** — opened issue [#145](https://github.com/slackhq/keeper/issues/145) on [slackhq/keeper](https://github.com/slackhq/keeper): "HELP WANTED: This project is seeking a new home"
+
 **2024-05-09** — deleted branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-05-09** — merged PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-08** — closed PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
 
 **2024-05-08** — merged PR [#142](https://github.com/slackhq/keeper/pull/142) to [slackhq/keeper](https://github.com/slackhq/keeper): "Try updating to fix main more"
-
-**2024-05-08** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-05-08** — merged PR [#216](https://github.com/ZacSweers/redacted-compiler-plugin/pull/216) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 44c2b7a"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
