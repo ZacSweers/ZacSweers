@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-05-09** — closed PR [#214](https://github.com/ZacSweers/redacted-compiler-plugin/pull/214) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.24"
+
+**2024-05-09** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-05-09** — merged PR [#215](https://github.com/ZacSweers/redacted-compiler-plugin/pull/215) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin to 1.9.24"
+
+**2024-05-09** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-05-09** — merged PR [#217](https://github.com/ZacSweers/redacted-compiler-plugin/pull/217) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 0ad4b8f"
+
 **2024-05-09** — created tag `0.16.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-05-09** — opened issue [#145](https://github.com/slackhq/keeper/issues/145) on [slackhq/keeper](https://github.com/slackhq/keeper): "HELP WANTED: This project is seeking a new home"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-09** — deleted branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-05-09** — merged PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
-
-**2024-05-08** — reopened PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
-
-**2024-05-08** — created branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-05-08** — closed PR [#140](https://github.com/slackhq/keeper/pull/140) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix formatting for spotless"
-
-**2024-05-08** — deleted branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-05-08** — closed PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
-
-**2024-05-08** — merged PR [#142](https://github.com/slackhq/keeper/pull/142) to [slackhq/keeper](https://github.com/slackhq/keeper): "Try updating to fix main more"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
