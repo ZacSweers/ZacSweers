@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-09** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-09** — closed PR [#214](https://github.com/ZacSweers/redacted-compiler-plugin/pull/214) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v1.9.24"
+**2024-05-10** — merged PR [#1436](https://github.com/ZacSweers/CatchUp/pull/1436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta09"
 
-**2024-05-09** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-10** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-09** — merged PR [#215](https://github.com/ZacSweers/redacted-compiler-plugin/pull/215) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin to 1.9.24"
+**2024-05-10** — merged PR [#1437](https://github.com/ZacSweers/CatchUp/pull/1437) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.3"
 
-**2024-05-09** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-10** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-09** — merged PR [#217](https://github.com/ZacSweers/redacted-compiler-plugin/pull/217) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 0ad4b8f"
+**2024-05-10** — merged PR [#1438](https://github.com/ZacSweers/CatchUp/pull/1438) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.8.1"
 
-**2024-05-09** — created tag `0.16.0` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-05-10** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-09** — opened issue [#145](https://github.com/slackhq/keeper/issues/145) on [slackhq/keeper](https://github.com/slackhq/keeper): "HELP WANTED: This project is seeking a new home"
+**2024-05-10** — merged PR [#1439](https://github.com/ZacSweers/CatchUp/pull/1439) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
 
-**2024-05-09** — deleted branch `z/fixMain` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-05-10** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-09** — merged PR [#141](https://github.com/slackhq/keeper/pull/141) to [slackhq/keeper](https://github.com/slackhq/keeper): "Fix main and update things"
+**2024-05-10** — merged PR [#585](https://github.com/ZacSweers/MoshiX/pull/585) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
