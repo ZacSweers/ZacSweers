@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-10** — opened PR [#586](https://github.com/ZacSweers/MoshiX/pull/586) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement kotlinx immutable adapters"
+
+**2024-05-10** — created branch `z/immutableCollections` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-05-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-10** — merged PR [#1436](https://github.com/ZacSweers/CatchUp/pull/1436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta09"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-10** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-10** — merged PR [#1439](https://github.com/ZacSweers/CatchUp/pull/1439) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
-
-**2024-05-10** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-10** — merged PR [#585](https://github.com/ZacSweers/MoshiX/pull/585) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
