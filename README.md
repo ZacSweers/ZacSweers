@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-10** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-10** — merged PR [#1440](https://github.com/ZacSweers/CatchUp/pull/1440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta01"
+
+**2024-05-10** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-2105180238) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-10** — closed PR [#478](https://github.com/ZacSweers/MoshiX/pull/478) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlinx immutable collections JSON adapters"
+
+**2024-05-10** — commented on [#574](https://github.com/ZacSweers/MoshiX/pull/574#issuecomment-2105180005) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-10** — closed PR [#574](https://github.com/ZacSweers/MoshiX/pull/574) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlinx collection immutable"
+
+**2024-05-10** — closed issue [#460](https://github.com/ZacSweers/MoshiX/issues/460) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlinx Immutable Collection JSON Adapters"
+
+**2024-05-10** — deleted branch `z/immutableCollections` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-10** — merged PR [#586](https://github.com/ZacSweers/MoshiX/pull/586) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement kotlinx immutable adapters"
+
 **2024-05-10** — opened PR [#586](https://github.com/ZacSweers/MoshiX/pull/586) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement kotlinx immutable adapters"
-
-**2024-05-10** — created branch `z/immutableCollections` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-10** — deleted branch `renovate/anvil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1436](https://github.com/ZacSweers/CatchUp/pull/1436) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta09"
-
-**2024-05-10** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1437](https://github.com/ZacSweers/CatchUp/pull/1437) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.3"
-
-**2024-05-10** — deleted branch `renovate/coroutines` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1438](https://github.com/ZacSweers/CatchUp/pull/1438) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.8.1"
-
-**2024-05-10** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1439](https://github.com/ZacSweers/CatchUp/pull/1439) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
