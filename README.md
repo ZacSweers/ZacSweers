@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-10** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-10** — merged PR [#1432](https://github.com/ZacSweers/CatchUp/pull/1432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.24"
+
+**2024-05-10** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-10** — closed PR [#1435](https://github.com/ZacSweers/CatchUp/pull/1435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.24-1.0.20"
+
 **2024-05-10** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-10** — merged PR [#1440](https://github.com/ZacSweers/CatchUp/pull/1440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta01"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-10** — commented on [#574](https://github.com/ZacSweers/MoshiX/pull/574#issuecomment-2105180005) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-10** — closed PR [#574](https://github.com/ZacSweers/MoshiX/pull/574) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlinx collection immutable"
-
-**2024-05-10** — closed issue [#460](https://github.com/ZacSweers/MoshiX/issues/460) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlinx Immutable Collection JSON Adapters"
-
-**2024-05-10** — deleted branch `z/immutableCollections` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-10** — merged PR [#586](https://github.com/ZacSweers/MoshiX/pull/586) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement kotlinx immutable adapters"
-
-**2024-05-10** — opened PR [#586](https://github.com/ZacSweers/MoshiX/pull/586) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Implement kotlinx immutable adapters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
