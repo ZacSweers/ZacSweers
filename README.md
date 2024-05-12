@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-10** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1432](https://github.com/ZacSweers/CatchUp/pull/1432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.24"
-
-**2024-05-10** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — closed PR [#1435](https://github.com/ZacSweers/CatchUp/pull/1435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.24-1.0.20"
-
-**2024-05-10** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-10** — merged PR [#1440](https://github.com/ZacSweers/CatchUp/pull/1440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta01"
-
-**2024-05-10** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-2105180238) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-10** — closed PR [#478](https://github.com/ZacSweers/MoshiX/pull/478) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlinx immutable collections JSON adapters"
-
-**2024-05-10** — commented on [#574](https://github.com/ZacSweers/MoshiX/pull/574#issuecomment-2105180005) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-10** — closed PR [#574](https://github.com/ZacSweers/MoshiX/pull/574) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlinx collection immutable"
+**2024-05-12** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
