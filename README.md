@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-12** — opened PR [#218](https://github.com/ZacSweers/redacted-compiler-plugin/pull/218) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Omit the stdlib from the compiler plugin and gradle plugin artifacts"
+**2024-05-12** — deleted branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-12** — created branch `z/stdlibDep` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-12** — merged PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
 
-**2024-05-10** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-12** — opened PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
 
-**2024-05-10** — merged PR [#1432](https://github.com/ZacSweers/CatchUp/pull/1432) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v1.9.24"
+**2024-05-12** — created branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-10** — deleted branch `renovate/ksp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-12** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2106349676) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-10** — closed PR [#1435](https://github.com/ZacSweers/CatchUp/pull/1435) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v1.9.24-1.0.20"
+**2024-05-12** — deleted branch `z/ciUpdate` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-10** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-12** — merged PR [#219](https://github.com/ZacSweers/redacted-compiler-plugin/pull/219) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Switch back to macos latest"
 
-**2024-05-10** — merged PR [#1440](https://github.com/ZacSweers/CatchUp/pull/1440) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta01"
+**2024-05-12** — opened PR [#219](https://github.com/ZacSweers/redacted-compiler-plugin/pull/219) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Switch back to macos latest"
 
-**2024-05-10** — commented on [#478](https://github.com/ZacSweers/MoshiX/pull/478#issuecomment-2105180238) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-12** — created branch `z/ciUpdate` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-10** — closed PR [#478](https://github.com/ZacSweers/MoshiX/pull/478) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "kotlinx immutable collections JSON adapters"
+**2024-05-12** — deleted branch `z/stdlibDep` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
