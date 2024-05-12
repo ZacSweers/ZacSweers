@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-12** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-12** — merged PR [#1441](https://github.com/ZacSweers/CatchUp/pull/1441) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.26.0"
+
+**2024-05-12** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-12** — merged PR [#588](https://github.com/ZacSweers/MoshiX/pull/588) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.26.0"
+
 **2024-05-12** — created tag `0.26.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-12** — deleted branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-12** — created branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-12** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2106349676) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-05-12** — deleted branch `z/ciUpdate` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-05-12** — merged PR [#219](https://github.com/ZacSweers/redacted-compiler-plugin/pull/219) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Switch back to macos latest"
-
-**2024-05-12** — opened PR [#219](https://github.com/ZacSweers/redacted-compiler-plugin/pull/219) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Switch back to macos latest"
-
-**2024-05-12** — created branch `z/ciUpdate` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
