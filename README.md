@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-12** — created tag `0.26.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-05-12** — deleted branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-12** — merged PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-12** — opened PR [#219](https://github.com/ZacSweers/redacted-compiler-plugin/pull/219) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Switch back to macos latest"
 
 **2024-05-12** — created branch `z/ciUpdate` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-05-12** — deleted branch `z/stdlibDep` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
