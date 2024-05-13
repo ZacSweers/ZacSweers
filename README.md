@@ -4,30 +4,32 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085642191) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-13** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-04-30** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2085620958) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-13** — closed PR [#173](https://github.com/ZacSweers/ZacSweers/pull/173) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
 
-**2024-04-30** — deleted branch `dependabot/github_actions/gradle/wrapper-validation-action-3` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-04-30** — merged PR [#134](https://github.com/slackhq/kotlin-cli-util/pull/134) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/wrapper-validation-action from 2 to 3"
+**2024-05-13** — closed PR [#174](https://github.com/ZacSweers/ZacSweers/pull/174) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.24-1.0.20"
 
-**2024-04-30** — opened PR [#137](https://github.com/slackhq/kotlin-cli-util/pull/137) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update ktfmt to 0.49"
+**2024-05-13** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-04-30** — created branch `z/ktfmt` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — merged PR [#271](https://github.com/slackhq/slack-lints/pull/271) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.5.0-beta01"
 
-**2024-04-30** — deleted branch `dependabot/gradle/com.github.ajalt.clikt-clikt-4.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-04-30** — merged PR [#136](https://github.com/slackhq/kotlin-cli-util/pull/136) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.3.0 to 4.4.0"
+**2024-05-13** — merged PR [#175](https://github.com/ZacSweers/ZacSweers/pull/175) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.1"
 
-**2024-04-30** — deleted branch `dependabot/gradle/org.gradle.test-retry-1.5.9` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-04-30** — deleted branch `dependabot/gradle/org.slf4j-slf4j-nop-2.0.13` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — merged PR [#338](https://github.com/slackhq/compose-lints/pull/338) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2024-05-06** — [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
+
 **2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
 
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-05-23** — [You Are Not Blocked](https://www.zacsweers.dev/you-are-not-blocked/)
 
 **2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
-
-**2021-06-14** — [How I Work](https://www.zacsweers.dev/how-i-work/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
