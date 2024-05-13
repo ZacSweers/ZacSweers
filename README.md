@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-05-13** — merged PR [#172](https://github.com/ZacSweers/ZacSweers/pull/172) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.24"
+
 **2024-05-13** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-05-13** — closed PR [#173](https://github.com/ZacSweers/ZacSweers/pull/173) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-13** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-05-13** — merged PR [#175](https://github.com/ZacSweers/ZacSweers/pull/175) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.1"
-
-**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-05-13** — merged PR [#338](https://github.com/slackhq/compose-lints/pull/338) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
