@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-13** — deleted branch `renovate/kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-13** — deleted branch `renovate/org.jetbrains.compose.compiler-compiler-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-05-13** — merged PR [#273](https://github.com/slackhq/slack-lints/pull/273) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.24"
+**2024-05-13** — closed PR [#173](https://github.com/ZacSweers/ZacSweers/pull/173) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
 
-**2024-05-13** — deleted branch `dependabot/gradle/kotlin-1.9.24` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-05-13** — merged PR [#139](https://github.com/slackhq/kotlin-cli-util/pull/139) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.23 to 1.9.24"
+**2024-05-13** — closed PR [#174](https://github.com/ZacSweers/ZacSweers/pull/174) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v1.9.24-1.0.20"
 
-**2024-05-13** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-13** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-13** — closed PR [#274](https://github.com/slackhq/slack-lints/pull/274) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.24-1.0.20"
+**2024-05-13** — merged PR [#271](https://github.com/slackhq/slack-lints/pull/271) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.5.0-beta01"
 
-**2024-05-13** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-13** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-coroutines-core-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-05-13** — merged PR [#272](https://github.com/slackhq/slack-lints/pull/272) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.5.0-beta01"
+**2024-05-13** — merged PR [#175](https://github.com/ZacSweers/ZacSweers/pull/175) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.8.1"
 
-**2024-05-13** — deleted branch `dependabot/gradle/com.android.lint-8.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-05-13** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.26.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-05-13** — merged PR [#338](https://github.com/slackhq/compose-lints/pull/338) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
