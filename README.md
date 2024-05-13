@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-13** — commented on [#510](https://github.com/ZacSweers/MoshiX/pull/510#issuecomment-2106636504) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-13** — deleted branch `renovate/kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-13** — merged PR [#1299](https://github.com/ZacSweers/CatchUp/pull/1299) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Get baseline/startup profile gen working again"
+**2024-05-13** — merged PR [#273](https://github.com/slackhq/slack-lints/pull/273) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v1.9.24"
 
-**2024-05-13** — deleted branch `z/baselineProfileUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-13** — deleted branch `dependabot/gradle/kotlin-1.9.24` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-05-12** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-13** — merged PR [#139](https://github.com/slackhq/kotlin-cli-util/pull/139) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.23 to 1.9.24"
 
-**2024-05-12** — merged PR [#1441](https://github.com/ZacSweers/CatchUp/pull/1441) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.26.0"
+**2024-05-13** — deleted branch `renovate/com.google.devtools.ksp-1.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-12** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-13** — closed PR [#274](https://github.com/slackhq/slack-lints/pull/274) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v1.9.24-1.0.20"
 
-**2024-05-12** — merged PR [#588](https://github.com/ZacSweers/MoshiX/pull/588) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.26.0"
+**2024-05-13** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-05-12** — created tag `0.26.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-13** — merged PR [#272](https://github.com/slackhq/slack-lints/pull/272) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.5.0-beta01"
 
-**2024-05-12** — deleted branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-13** — deleted branch `dependabot/gradle/com.android.lint-8.4.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-05-12** — merged PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
+**2024-05-13** — deleted branch `dependabot/gradle/dev.zacsweers.moshix-0.26.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
