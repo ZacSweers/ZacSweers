@@ -1,7 +1,7 @@
 [versions]
 compose = "1.6.2"
 jdk = "21"
-kotlin = "1.9.23"
+kotlin = "1.9.24"
 kotlinx-serialization = "1.6.3"
 ktor = "3.0.0-wasm2"
 markdown = "0.16.0"
@@ -11,12 +11,12 @@ xmlutil = "0.86.3"
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-ksp = { id = "com.google.devtools.ksp", version = "1.9.23-1.0.20" }
+ksp = { id = "com.google.devtools.ksp", version = "1.9.24-1.0.20" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
 clikt = "com.github.ajalt.clikt:clikt:4.4.0"
-compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.10.2"
+compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.13.3"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
 compose-material3 = "org.jetbrains.compose.material3:material3:1.6.1"
