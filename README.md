@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-13** — commented on [#510](https://github.com/ZacSweers/MoshiX/pull/510#issuecomment-2106636504) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-13** — merged PR [#1299](https://github.com/ZacSweers/CatchUp/pull/1299) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Get baseline/startup profile gen working again"
+
+**2024-05-13** — deleted branch `z/baselineProfileUpdates` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-05-12** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-12** — merged PR [#1441](https://github.com/ZacSweers/CatchUp/pull/1441) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.26.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-12** — deleted branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-12** — merged PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
-
-**2024-05-12** — opened PR [#587](https://github.com/ZacSweers/MoshiX/pull/587) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Omit stdlib from compiler and gradle artifact deps"
-
-**2024-05-12** — created branch `z/stdlib` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-12** — commented on [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179#issuecomment-2106349676) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
