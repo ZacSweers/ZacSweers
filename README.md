@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-14** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2111195728) in [google/ksp](https://github.com/google/ksp)
+
 **2024-05-14** — opened PR [#1002](https://github.com/square/anvil/pull/1002) to [square/anvil](https://github.com/square/anvil): "Add ComponentProcessingMode to test APIs"
 
 **2024-05-14** — created branch `z/mergeMode` on [square/anvil](https://github.com/square/anvil)
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-05-13** — merged PR [#108](https://github.com/ZacSweers/auto-service-ksp/pull/108) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.24"
-
-**2024-05-13** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2108679415) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
