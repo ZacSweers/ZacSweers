@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-14** — opened PR [#1002](https://github.com/square/anvil/pull/1002) to [square/anvil](https://github.com/square/anvil): "Add ComponentProcessingMode to test APIs"
+
+**2024-05-14** — created branch `z/mergeMode` on [square/anvil](https://github.com/square/anvil)
+
+**2024-05-13** — opened PR [#1001](https://github.com/square/anvil/pull/1001) to [square/anvil](https://github.com/square/anvil): "Implement contribution merging in KSP"
+
 **2024-05-13** — closed issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
 
 **2024-05-13** — merged PR [#1442](https://github.com/ZacSweers/CatchUp/pull/1442) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Call navigationBarsPadding on save Fab to add needed padding"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-13** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2108679415) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-05-13** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-05-13** — closed PR [#109](https://github.com/ZacSweers/auto-service-ksp/pull/109) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v1.9.24-1.0.20"
-
-**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-05-13** — merged PR [#172](https://github.com/ZacSweers/ZacSweers/pull/172) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v1.9.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
