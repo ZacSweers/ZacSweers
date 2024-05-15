@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-14** — commented on [#1643](https://github.com/google/ksp/issues/1643#issuecomment-2111195728) in [google/ksp](https://github.com/google/ksp)
+**2024-05-14** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-14** — opened PR [#1002](https://github.com/square/anvil/pull/1002) to [square/anvil](https://github.com/square/anvil): "Add ComponentProcessingMode to test APIs"
+**2024-05-14** — merged PR [#1447](https://github.com/ZacSweers/CatchUp/pull/1447) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta01"
 
-**2024-05-14** — created branch `z/mergeMode` on [square/anvil](https://github.com/square/anvil)
+**2024-05-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-13** — opened PR [#1001](https://github.com/square/anvil/pull/1001) to [square/anvil](https://github.com/square/anvil): "Implement contribution merging in KSP"
+**2024-05-14** — merged PR [#1453](https://github.com/ZacSweers/CatchUp/pull/1453) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0"
 
-**2024-05-13** — closed issue [#1357](https://github.com/ZacSweers/CatchUp/issues/1357) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "FAB in order services doesn't respect window insets in non-gesture nav"
+**2024-05-14** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-datetime-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-13** — merged PR [#1442](https://github.com/ZacSweers/CatchUp/pull/1442) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Call navigationBarsPadding on save Fab to add needed padding"
+**2024-05-14** — merged PR [#1454](https://github.com/ZacSweers/CatchUp/pull/1454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.0"
 
-**2024-05-13** — created branch `z/kspMerging` on [square/anvil](https://github.com/square/anvil)
+**2024-05-14** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-05-14** — merged PR [#1449](https://github.com/ZacSweers/CatchUp/pull/1449) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.14"
 
-**2024-05-13** — merged PR [#108](https://github.com/ZacSweers/auto-service-ksp/pull/108) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlin monorepo to v1.9.24"
+**2024-05-14** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-14** — merged PR [#1444](https://github.com/ZacSweers/CatchUp/pull/1444) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
