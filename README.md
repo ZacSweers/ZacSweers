@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-14** — deleted branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-05-14** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-2111433761) in [square/anvil](https://github.com/square/anvil)
+
+**2024-05-14** — closed PR [#713](https://github.com/square/anvil/pull/713) to [square/anvil](https://github.com/square/anvil): "(WIP) Support Dagger KSP"
+
+**2024-05-14** — commented on [#1001](https://github.com/square/anvil/pull/1001#issuecomment-2111428645) in [square/anvil](https://github.com/square/anvil)
+
+**2024-05-14** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-14** — merged PR [#1455](https://github.com/ZacSweers/CatchUp/pull/1455) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha02"
+
 **2024-05-14** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-14** — merged PR [#1447](https://github.com/ZacSweers/CatchUp/pull/1447) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta01"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-14** — merged PR [#1453](https://github.com/ZacSweers/CatchUp/pull/1453) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0"
-
-**2024-05-14** — deleted branch `renovate/org.jetbrains.kotlinx-kotlinx-datetime-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1454](https://github.com/ZacSweers/CatchUp/pull/1454) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.0"
-
-**2024-05-14** — deleted branch `renovate/compose.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1449](https://github.com/ZacSweers/CatchUp/pull/1449) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.compose.compiler:compiler to v1.5.14"
-
-**2024-05-14** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1444](https://github.com/ZacSweers/CatchUp/pull/1444) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
