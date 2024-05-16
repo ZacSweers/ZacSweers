@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-16** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-16** — merged PR [#1457](https://github.com/ZacSweers/CatchUp/pull/1457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.14"
+
+**2024-05-16** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-16** — merged PR [#1458](https://github.com/ZacSweers/CatchUp/pull/1458) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.5.0"
+
+**2024-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-16** — merged PR [#1456](https://github.com/ZacSweers/CatchUp/pull/1456) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta02"
+
 **2024-05-14** — deleted branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-05-14** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-2111433761) in [square/anvil](https://github.com/square/anvil)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-14** — closed PR [#713](https://github.com/square/anvil/pull/713) to [square/anvil](https://github.com/square/anvil): "(WIP) Support Dagger KSP"
 
 **2024-05-14** — commented on [#1001](https://github.com/square/anvil/pull/1001#issuecomment-2111428645) in [square/anvil](https://github.com/square/anvil)
-
-**2024-05-14** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1455](https://github.com/ZacSweers/CatchUp/pull/1455) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha02"
-
-**2024-05-14** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1447](https://github.com/ZacSweers/CatchUp/pull/1447) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta01"
-
-**2024-05-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-14** — merged PR [#1453](https://github.com/ZacSweers/CatchUp/pull/1453) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
