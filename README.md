@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-17** — merged PR [#1459](https://github.com/ZacSweers/CatchUp/pull/1459) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-beta01"
+
+**2024-05-17** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-17** — merged PR [#1461](https://github.com/ZacSweers/CatchUp/pull/1461) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.4"
+
+**2024-05-17** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-17** — merged PR [#1460](https://github.com/ZacSweers/CatchUp/pull/1460) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha02"
+
 **2024-05-17** — deleted branch `cb/gesture-nav-ios-common` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-05-17** — merged PR [#1415](https://github.com/slackhq/circuit/pull/1415) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move iOS GestureNavigationDecoration impl to commonMain"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-16** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-16** — merged PR [#1457](https://github.com/ZacSweers/CatchUp/pull/1457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.14"
-
-**2024-05-16** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-16** — merged PR [#1458](https://github.com/ZacSweers/CatchUp/pull/1458) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.5.0"
-
-**2024-05-16** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-16** — merged PR [#1456](https://github.com/ZacSweers/CatchUp/pull/1456) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.5.0-beta02"
-
-**2024-05-14** — deleted branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-05-14** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-2111433761) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
