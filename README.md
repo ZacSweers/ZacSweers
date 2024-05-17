@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-17** — deleted branch `cb/gesture-nav-ios-common` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-05-17** — merged PR [#1415](https://github.com/slackhq/circuit/pull/1415) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move iOS GestureNavigationDecoration impl to commonMain"
+
 **2024-05-16** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-16** — merged PR [#1457](https://github.com/ZacSweers/CatchUp/pull/1457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.14"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-14** — deleted branch `z/kspSupport` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-05-14** — commented on [#713](https://github.com/square/anvil/pull/713#issuecomment-2111433761) in [square/anvil](https://github.com/square/anvil)
-
-**2024-05-14** — closed PR [#713](https://github.com/square/anvil/pull/713) to [square/anvil](https://github.com/square/anvil): "(WIP) Support Dagger KSP"
-
-**2024-05-14** — commented on [#1001](https://github.com/square/anvil/pull/1001#issuecomment-2111428645) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
