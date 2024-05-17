@@ -19,7 +19,7 @@ clikt = "com.github.ajalt.clikt:clikt:4.4.0"
 compose-compiler = "org.jetbrains.compose.compiler:compiler:1.5.13.3"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
-compose-material3 = "org.jetbrains.compose.material3:material3:1.6.1"
+compose-material3 = "org.jetbrains.compose.material3:material3:1.6.10"
 eithernet = "com.slack.eithernet:eithernet:1.8.1"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.1"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.6.0-RC.2"
