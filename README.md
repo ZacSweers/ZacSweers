@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-17** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2118625396) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-05-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-17** — merged PR [#1459](https://github.com/ZacSweers/CatchUp/pull/1459) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-beta01"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-17** — merged PR [#1415](https://github.com/slackhq/circuit/pull/1415) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move iOS GestureNavigationDecoration impl to commonMain"
 
 **2024-05-16** — deleted branch `renovate/compose.jb.compiler` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-16** — merged PR [#1457](https://github.com/ZacSweers/CatchUp/pull/1457) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
