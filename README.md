@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-19** — merged PR [#1462](https://github.com/ZacSweers/CatchUp/pull/1462) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.10"
+
+**2024-05-19** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-19** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-19** — merged PR [#1463](https://github.com/ZacSweers/CatchUp/pull/1463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.35.1-alpha"
+
+**2024-05-19** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-19** — merged PR [#1399](https://github.com/slackhq/circuit/pull/1399) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
+
+**2024-05-19** — commented on [#1399](https://github.com/slackhq/circuit/pull/1399#issuecomment-2119369038) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-19** — commented on [#1399](https://github.com/slackhq/circuit/pull/1399#issuecomment-2119365192) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-19** — deleted branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-19** — merged PR [#1407](https://github.com/slackhq/circuit/pull/1407) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.14"
-
-**2024-05-19** — deleted branch `renovate/compose.jb` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-19** — commented on [#1416](https://github.com/slackhq/circuit/pull/1416#issuecomment-2119094333) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-19** — closed PR [#1416](https://github.com/slackhq/circuit/pull/1416) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.6.10"
-
-**2024-05-19** — reopened PR [#1407](https://github.com/slackhq/circuit/pull/1407) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose.compiler:compiler to v1.5.14"
-
-**2024-05-19** — reopened PR [#1399](https://github.com/slackhq/circuit/pull/1399) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
-
-**2024-05-19** — created branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-19** — created branch `renovate/compose.compiler.version` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
