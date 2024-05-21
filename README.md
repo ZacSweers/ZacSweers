@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-21** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-21** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2123492525) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-21** — merged PR [#1423](https://github.com/slackhq/circuit/pull/1423) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.5.24"
+**2024-05-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-21** — deleted branch `dependabot/gradle/jvm-2.0.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2024-05-21** — closed PR [#244](https://github.com/ZacSweers/kotlin-compile-testing/pull/244) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
-**2024-05-21** — merged PR [#86](https://github.com/slackhq/moshi-gson-interop/pull/86) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.23 to 2.0.0"
+**2024-05-21** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-21** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-21** — closed PR [#245](https://github.com/ZacSweers/kotlin-compile-testing/pull/245) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.24-1.0.20"
 
-**2024-05-21** — merged PR [#590](https://github.com/ZacSweers/MoshiX/pull/590) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.4.1"
+**2024-05-21** — opened issue [#1908](https://github.com/google/ksp/issues/1908) on [google/ksp](https://github.com/google/ksp): "KSP2: Calling KSP2 in programs does not appear to work"
 
-**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-05-21** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-21** — closed PR [#181](https://github.com/ZacSweers/ZacSweers/pull/181) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2 (major)"
+**2024-05-21** — merged PR [#247](https://github.com/ZacSweers/kotlin-compile-testing/pull/247) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to a5ac7e5"
 
-**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-21** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-21** — closed PR [#221](https://github.com/ZacSweers/redacted-compiler-plugin/pull/221) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2 (major)"
+**2024-05-21** — merged PR [#246](https://github.com/ZacSweers/kotlin-compile-testing/pull/246) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
