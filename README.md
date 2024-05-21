@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-21** — closed PR [#1424](https://github.com/slackhq/circuit/pull/1424) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v2 (major)"
+
 **2024-05-20** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-05-20** — merged PR [#220](https://github.com/ZacSweers/redacted-compiler-plugin/pull/220) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to a5ac7e5"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-19** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-19** — merged PR [#1399](https://github.com/slackhq/circuit/pull/1399) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
-
-**2024-05-19** — commented on [#1399](https://github.com/slackhq/circuit/pull/1399#issuecomment-2119369038) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-19** — commented on [#1399](https://github.com/slackhq/circuit/pull/1399#issuecomment-2119365192) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
