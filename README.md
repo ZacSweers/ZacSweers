@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-21** — deleted branch `renovate/mkdocs-material-9.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-05-21** — closed PR [#1424](https://github.com/slackhq/circuit/pull/1424) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v2 (major)"
+**2024-05-21** — merged PR [#1423](https://github.com/slackhq/circuit/pull/1423) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency mkdocs-material to v9.5.24"
 
-**2024-05-20** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-21** — deleted branch `dependabot/gradle/jvm-2.0.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
 
-**2024-05-20** — merged PR [#220](https://github.com/ZacSweers/redacted-compiler-plugin/pull/220) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to a5ac7e5"
+**2024-05-21** — merged PR [#86](https://github.com/slackhq/moshi-gson-interop/pull/86) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump jvm from 1.9.23 to 2.0.0"
 
-**2024-05-19** — merged PR [#1462](https://github.com/ZacSweers/CatchUp/pull/1462) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.10"
+**2024-05-21** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-19** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-21** — merged PR [#590](https://github.com/ZacSweers/MoshiX/pull/590) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.4.1"
 
-**2024-05-19** — deleted branch `renovate/accompanist` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-05-19** — merged PR [#1463](https://github.com/ZacSweers/CatchUp/pull/1463) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update accompanist to v0.35.1-alpha"
+**2024-05-21** — closed PR [#181](https://github.com/ZacSweers/ZacSweers/pull/181) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2 (major)"
 
-**2024-05-19** — deleted branch `renovate/compose.jb.compiler` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-21** — deleted branch `renovate/major-kotlin-monorepo` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-19** — merged PR [#1399](https://github.com/slackhq/circuit/pull/1399) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.compose.compiler:compiler to v1.5.13.3"
+**2024-05-21** — closed PR [#221](https://github.com/ZacSweers/redacted-compiler-plugin/pull/221) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
