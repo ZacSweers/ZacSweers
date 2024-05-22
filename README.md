@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-22** — deleted branch `renovate/major-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2024-05-22** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2124989045) in [square/anvil](https://github.com/square/anvil)
 
-**2024-05-22** — closed PR [#1913](https://github.com/square/kotlinpoet/pull/1913) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency com.google.devtools.ksp to v2"
+**2024-05-22** — deleted branch `renovate/actions-checkout-digest` on [square/anvil](https://github.com/square/anvil)
 
-**2024-05-22** — deleted branch `renovate/major-ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-22** — merged PR [#1004](https://github.com/square/anvil/pull/1004) to [square/anvil](https://github.com/square/anvil): "Update actions/checkout digest to a5ac7e5"
 
-**2024-05-22** — closed PR [#1426](https://github.com/slackhq/circuit/pull/1426) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v2 (major)"
+**2024-05-22** — deleted branch `renovate/major-kotlin-and-compiler-plugins` on [square/anvil](https://github.com/square/anvil)
 
-**2024-05-21** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2123819583) in [google/ksp](https://github.com/google/ksp)
+**2024-05-22** — closed PR [#1005](https://github.com/square/anvil/pull/1005) to [square/anvil](https://github.com/square/anvil): "Update Kotlin and compiler plugins to v2 (major)"
 
-**2024-05-21** — opened issue [#1909](https://github.com/google/ksp/issues/1909) on [google/ksp](https://github.com/google/ksp): "KSP2: default annotation arguments no longer work in 1.0.21"
+**2024-05-22** — deleted branch `renovate/major-kotlin-monorepo` on [square/anvil](https://github.com/square/anvil)
 
-**2024-05-21** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2123804993) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-05-22** — closed PR [#1006](https://github.com/square/anvil/pull/1006) to [square/anvil](https://github.com/square/anvil): "Update kotlin monorepo to v2 (major)"
 
-**2024-05-21** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2123492525) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-05-22** — commented on [#1909](https://github.com/google/ksp/issues/1909#issuecomment-2124925318) in [google/ksp](https://github.com/google/ksp)
 
-**2024-05-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-05-22** — deleted branch `renovate/major-ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-21** — closed PR [#244](https://github.com/ZacSweers/kotlin-compile-testing/pull/244) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+**2024-05-22** — closed PR [#222](https://github.com/ZacSweers/redacted-compiler-plugin/pull/222) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
