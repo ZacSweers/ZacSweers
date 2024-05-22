@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-22** — deleted branch `renovate/major-kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-05-22** — deleted branch `z/k2` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-05-22** — closed PR [#277](https://github.com/slackhq/slack-lints/pull/277) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v2"
+**2024-05-22** — merged PR [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to K2"
 
-**2024-05-22** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2124989045) in [square/anvil](https://github.com/square/anvil)
+**2024-05-22** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2125631847) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-05-22** — deleted branch `renovate/actions-checkout-digest` on [square/anvil](https://github.com/square/anvil)
+**2024-05-22** — commented on [#784](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/784#issuecomment-2125629117) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
 
-**2024-05-22** — merged PR [#1004](https://github.com/square/anvil/pull/1004) to [square/anvil](https://github.com/square/anvil): "Update actions/checkout digest to a5ac7e5"
+**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125628606) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-22** — deleted branch `renovate/major-kotlin-and-compiler-plugins` on [square/anvil](https://github.com/square/anvil)
+**2024-05-22** — opened PR [#784](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/784) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Add status code to error message"
 
-**2024-05-22** — closed PR [#1005](https://github.com/square/anvil/pull/1005) to [square/anvil](https://github.com/square/anvil): "Update Kotlin and compiler plugins to v2 (major)"
+**2024-05-22** — created branch `z/statusCode` on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
 
-**2024-05-22** — deleted branch `renovate/major-kotlin-monorepo` on [square/anvil](https://github.com/square/anvil)
+**2024-05-22** — deleted branch `renovate/markdown` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-05-22** — closed PR [#1006](https://github.com/square/anvil/pull/1006) to [square/anvil](https://github.com/square/anvil): "Update kotlin monorepo to v2 (major)"
+**2024-05-22** — closed PR [#182](https://github.com/ZacSweers/ZacSweers/pull/182) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.20.0"
 
-**2024-05-22** — commented on [#1909](https://github.com/google/ksp/issues/1909#issuecomment-2124925318) in [google/ksp](https://github.com/google/ksp)
+**2024-05-22** — deleted branch `z/k2` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
