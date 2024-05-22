@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-22** — deleted branch `renovate/major-ksp` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-05-22** — closed PR [#1913](https://github.com/square/kotlinpoet/pull/1913) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency com.google.devtools.ksp to v2"
+
+**2024-05-22** — deleted branch `renovate/major-ksp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-22** — closed PR [#1426](https://github.com/slackhq/circuit/pull/1426) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v2 (major)"
+
 **2024-05-21** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2123819583) in [google/ksp](https://github.com/google/ksp)
 
 **2024-05-21** — opened issue [#1909](https://github.com/google/ksp/issues/1909) on [google/ksp](https://github.com/google/ksp): "KSP2: default annotation arguments no longer work in 1.0.21"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-21** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-05-21** — closed PR [#244](https://github.com/ZacSweers/kotlin-compile-testing/pull/244) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2024-05-21** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-05-21** — closed PR [#245](https://github.com/ZacSweers/kotlin-compile-testing/pull/245) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v1.9.24-1.0.20"
-
-**2024-05-21** — opened issue [#1908](https://github.com/google/ksp/issues/1908) on [google/ksp](https://github.com/google/ksp): "KSP2: Calling KSP2 in programs does not appear to work"
-
-**2024-05-21** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
