@@ -37,14 +37,14 @@ actual fun httpClient(config: HttpClientConfig<*>.() -> Unit) =
  */
 actual object HtmlEscapeStringSerializer : KSerializer<String> {
 
-  override val descriptor: SerialDescriptor =
+  actual override val descriptor: SerialDescriptor =
     PrimitiveSerialDescriptor("EscapedString", PrimitiveKind.STRING)
 
-  override fun deserialize(decoder: Decoder): String {
+  actual override fun deserialize(decoder: Decoder): String {
     return StringEscapeUtils.unescapeHtml4(decoder.decodeString())
   }
 
-  override fun serialize(encoder: Encoder, value: String) {
+  actual override fun serialize(encoder: Encoder, value: String) {
     encoder.encodeString(StringEscapeUtils.escapeHtml4(value))
   }
 }

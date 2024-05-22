@@ -18,14 +18,14 @@ actual fun httpClient(config: HttpClientConfig<*>.() -> Unit) = HttpClient(Js) {
  */
 actual object HtmlEscapeStringSerializer : KSerializer<String> {
 
-  override val descriptor: SerialDescriptor =
+  actual override val descriptor: SerialDescriptor =
     PrimitiveSerialDescriptor("EscapedString", PrimitiveKind.STRING)
 
-  override fun deserialize(decoder: Decoder): String {
+  actual override fun deserialize(decoder: Decoder): String {
     return decoder.decodeString()
   }
 
-  override fun serialize(encoder: Encoder, value: String) {
+  actual override fun serialize(encoder: Encoder, value: String) {
     encoder.encodeString(value)
   }
 }

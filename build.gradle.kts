@@ -29,6 +29,7 @@ plugins {
   alias(libs.plugins.spotless)
   alias(libs.plugins.kotlin.serialization)
   alias(libs.plugins.compose)
+  alias(libs.plugins.kotlin.plugin.compose)
 }
 
 val jdk = libs.versions.jdk.get().toInt()
@@ -50,10 +51,7 @@ java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
 application { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") }
 
-compose {
-  kotlinCompilerPlugin.set(libs.compose.compiler.get().toString())
-  experimental { web.application {} }
-}
+compose { experimental { web.application {} } }
 
 kotlin {
   // region KMP Targets
@@ -117,10 +115,7 @@ kotlin {
 
 tasks.withType<KotlinJsCompile>().configureEach {
   // https://github.com/JetBrains/compose-multiplatform/issues/3418
-  kotlinOptions.freeCompilerArgs +=
-    listOf(
-      "-Xklib-enable-signature-clash-checks=false",
-    )
+  compilerOptions.freeCompilerArgs.add("-Xklib-enable-signature-clash-checks=false")
 }
 
 // Fat jar configuration to run this as a standalone jar
@@ -148,8 +143,8 @@ afterEvaluate {
 }
 
 spotless {
-  kotlin { ktfmt("0.46").googleStyle() }
-  kotlinGradle { ktfmt("0.46").googleStyle() }
+  kotlin { ktfmt("0.47").googleStyle() }
+  kotlinGradle { ktfmt("0.47").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {

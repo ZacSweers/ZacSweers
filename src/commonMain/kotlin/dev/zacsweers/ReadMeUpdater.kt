@@ -25,7 +25,7 @@ class ReadMeUpdater {
       json(json = Json { ignoreUnknownKeys = true })
       xml(
         format = XML { defaultPolicy { ignoreUnknownChildren() } },
-        contentType = ContentType.Text.Xml
+        contentType = ContentType.Text.Xml,
       )
     }
   }
@@ -71,7 +71,7 @@ class ReadMeUpdater {
         return listOf(
           ActivityItem(
             "Could not load GitHub activity. Please check back later.",
-            Clock.System.now()
+            Clock.System.now(),
           )
         )
       }
@@ -84,32 +84,32 @@ class ReadMeUpdater {
           is IssuesEventPayload -> {
             ActivityItem(
               "${payload.action} issue [#${payload.issue.number}](${payload.issue.htmlUrl}) on ${event.repo?.markdownUrl()}: \"${payload.issue.title}\"",
-              event.createdAt
+              event.createdAt,
             )
           }
           is IssueCommentEventPayload -> {
             ActivityItem(
               "commented on [#${payload.issue.number}](${payload.comment.htmlUrl}) in ${event.repo?.markdownUrl()}",
-              event.createdAt
+              event.createdAt,
             )
           }
           is PullRequestPayload -> {
             val action = if (payload.pullRequest.merged == true) "merged" else payload.action
             ActivityItem(
               "$action PR [#${payload.number}](${payload.pullRequest.htmlUrl}) to ${event.repo?.markdownUrl()}: \"${payload.pullRequest.title}\"",
-              event.createdAt
+              event.createdAt,
             )
           }
           is CreateEvent -> {
             ActivityItem(
               "created ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-              event.createdAt
+              event.createdAt,
             )
           }
           is DeleteEvent -> {
             ActivityItem(
               "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
-              event.createdAt
+              event.createdAt,
             )
           }
         }
