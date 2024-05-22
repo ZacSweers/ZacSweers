@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-22** — deleted branch `z/k2` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-05-22** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-22** — merged PR [#179](https://github.com/ZacSweers/redacted-compiler-plugin/pull/179) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to K2"
+**2024-05-22** — closed PR [#593](https://github.com/ZacSweers/MoshiX/pull/593) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
 
-**2024-05-22** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2125631847) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-05-22** — created tag `0.27.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-22** — commented on [#784](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/784#issuecomment-2125629117) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+**2024-05-22** — merged PR [#510](https://github.com/ZacSweers/MoshiX/pull/510) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to K2"
 
-**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125628606) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-05-22** — deleted branch `z/k2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-22** — opened PR [#784](https://github.com/vanniktech/gradle-maven-publish-plugin/pull/784) to [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Add status code to error message"
+**2024-05-22** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-22** — created branch `z/statusCode` on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+**2024-05-22** — closed PR [#592](https://github.com/ZacSweers/MoshiX/pull/592) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-beta02"
 
-**2024-05-22** — deleted branch `renovate/markdown` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-05-22** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-22** — closed PR [#182](https://github.com/ZacSweers/ZacSweers/pull/182) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.20.0"
+**2024-05-22** — closed PR [#589](https://github.com/ZacSweers/MoshiX/pull/589) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha02"
 
-**2024-05-22** — deleted branch `z/k2` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125651585) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
