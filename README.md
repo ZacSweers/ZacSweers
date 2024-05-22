@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-22** — deleted branch `renovate/major-kotlin` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-05-22** — closed PR [#277](https://github.com/slackhq/slack-lints/pull/277) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency org.jetbrains.kotlin.jvm to v2"
+
 **2024-05-22** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2124989045) in [square/anvil](https://github.com/square/anvil)
 
 **2024-05-22** — deleted branch `renovate/actions-checkout-digest` on [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-22** — closed PR [#1006](https://github.com/square/anvil/pull/1006) to [square/anvil](https://github.com/square/anvil): "Update kotlin monorepo to v2 (major)"
 
 **2024-05-22** — commented on [#1909](https://github.com/google/ksp/issues/1909#issuecomment-2124925318) in [google/ksp](https://github.com/google/ksp)
-
-**2024-05-22** — deleted branch `renovate/major-ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-05-22** — closed PR [#222](https://github.com/ZacSweers/redacted-compiler-plugin/pull/222) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
