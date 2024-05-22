@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-21** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2123819583) in [google/ksp](https://github.com/google/ksp)
+
+**2024-05-21** — opened issue [#1909](https://github.com/google/ksp/issues/1909) on [google/ksp](https://github.com/google/ksp): "KSP2: default annotation arguments no longer work in 1.0.21"
+
 **2024-05-21** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2123804993) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-05-21** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2123492525) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-21** — opened issue [#1908](https://github.com/google/ksp/issues/1908) on [google/ksp](https://github.com/google/ksp): "KSP2: Calling KSP2 in programs does not appear to work"
 
 **2024-05-21** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-05-21** — merged PR [#247](https://github.com/ZacSweers/kotlin-compile-testing/pull/247) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to a5ac7e5"
-
-**2024-05-21** — deleted branch `renovate/mockito-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
