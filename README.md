@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-22** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2126075581) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-05-22** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-22** — merged PR [#596](https://github.com/ZacSweers/MoshiX/pull/596) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.27.0"
+
 **2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2126038551) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125988187) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-22** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2125976675) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-22** — opened issue [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.10 depends on pre-release versions of Kotlin"
-
-**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2125973430) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-05-22** — merged PR [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update AutoServiceSymbolProcessor.kt to support multiple rounds"
-
-**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2125970933) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
