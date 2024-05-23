@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2126038551) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
 **2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125988187) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-05-22** — commented on [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853#issuecomment-2125980901) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-22** — merged PR [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update AutoServiceSymbolProcessor.kt to support multiple rounds"
 
 **2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2125970933) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-05-22** — opened issue [#1916](https://github.com/google/ksp/issues/1916) on [google/ksp](https://github.com/google/ksp): "Error types in annotation array properties are omitted from the array."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
