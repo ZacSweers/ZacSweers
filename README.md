@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-22** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125988187) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-05-22** — closed PR [#593](https://github.com/ZacSweers/MoshiX/pull/593) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo"
+**2024-05-22** — commented on [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853#issuecomment-2125980901) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 
-**2024-05-22** — created tag `0.27.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-22** — closed issue [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.10 depends on pre-release versions of Kotlin"
 
-**2024-05-22** — merged PR [#510](https://github.com/ZacSweers/MoshiX/pull/510) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to K2"
+**2024-05-22** — opened issue [#1917](https://github.com/google/ksp/issues/1917) on [google/ksp](https://github.com/google/ksp): "KSP2's symbol-processing-aa-embeddable artifact exposes an unresolvable pre-release kotlin 2.0.20 dependency"
 
-**2024-05-22** — deleted branch `z/k2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-22** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2125976675) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-05-22** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-22** — opened issue [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.10 depends on pre-release versions of Kotlin"
 
-**2024-05-22** — closed PR [#592](https://github.com/ZacSweers/MoshiX/pull/592) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.5.0-beta02"
+**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2125973430) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-05-22** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-22** — merged PR [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update AutoServiceSymbolProcessor.kt to support multiple rounds"
 
-**2024-05-22** — closed PR [#589](https://github.com/ZacSweers/MoshiX/pull/589) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha02"
+**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2125970933) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125651585) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-05-22** — opened issue [#1916](https://github.com/google/ksp/issues/1916) on [google/ksp](https://github.com/google/ksp): "Error types in annotation array properties are omitted from the array."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
