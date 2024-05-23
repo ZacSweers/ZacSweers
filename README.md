@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-23** — deleted branch `z/k2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-05-23** — merged PR [#264](https://github.com/slackhq/compose-lints/pull/264) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update to K2"
+
 **2024-05-23** — merged PR [#143](https://github.com/slackhq/kotlin-cli-util/pull/143) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.4.0 to 8.4.1"
 
 **2024-05-23** — deleted branch `dependabot/gradle/com.android.lint-8.4.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-23** — opened PR [#1469](https://github.com/ZacSweers/CatchUp/pull/1469) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Tinker with routing DSL"
 
 **2024-05-23** — created branch `z/routing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-23** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-23** — closed PR [#1468](https://github.com/ZacSweers/CatchUp/pull/1468) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
