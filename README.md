@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-22** — commented on [#641](https://github.com/slackhq/slack-gradle-plugin/pull/641#issuecomment-2126075581) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-05-23** — merged PR [#143](https://github.com/slackhq/kotlin-cli-util/pull/143) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.4.0 to 8.4.1"
 
-**2024-05-22** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-23** — deleted branch `dependabot/gradle/com.android.lint-8.4.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-05-22** — merged PR [#596](https://github.com/ZacSweers/MoshiX/pull/596) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.27.0"
+**2024-05-23** — deleted branch `dependabot/gradle/com.google.devtools.ksp-2.0.0-1.0.21` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-05-22** — commented on [#107](https://github.com/ZacSweers/auto-service-ksp/pull/107#issuecomment-2126038551) in [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-05-23** — closed PR [#144](https://github.com/slackhq/kotlin-cli-util/pull/144) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.24-1.0.20 to 2.0.0-1.0.21"
 
-**2024-05-22** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2125988187) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-05-23** — deleted branch `dependabot/gradle/kotlin-2.0.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-05-22** — commented on [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853#issuecomment-2125980901) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+**2024-05-23** — closed PR [#142](https://github.com/slackhq/kotlin-cli-util/pull/142) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.24 to 2.0.0"
 
-**2024-05-22** — closed issue [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.10 depends on pre-release versions of Kotlin"
+**2024-05-23** — opened PR [#1469](https://github.com/ZacSweers/CatchUp/pull/1469) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Tinker with routing DSL"
 
-**2024-05-22** — opened issue [#1917](https://github.com/google/ksp/issues/1917) on [google/ksp](https://github.com/google/ksp): "KSP2's symbol-processing-aa-embeddable artifact exposes an unresolvable pre-release kotlin 2.0.20 dependency"
+**2024-05-23** — created branch `z/routing` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-22** — commented on [#1006](https://github.com/slackhq/circuit/pull/1006#issuecomment-2125976675) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-23** — deleted branch `renovate/dev.zacsweers.redacted-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-22** — opened issue [#4853](https://github.com/JetBrains/compose-multiplatform/issues/4853) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.6.10 depends on pre-release versions of Kotlin"
+**2024-05-23** — closed PR [#1468](https://github.com/ZacSweers/CatchUp/pull/1468) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
