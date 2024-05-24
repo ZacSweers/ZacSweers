@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-23** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-23** — merged PR [#1470](https://github.com/ZacSweers/CatchUp/pull/1470) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.32.0"
+
 **2024-05-23** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-23** — closed PR [#1427](https://github.com/slackhq/circuit/pull/1427) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.27.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-23** — deleted branch `dependabot/gradle/com.google.devtools.ksp-2.0.0-1.0.21` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-05-23** — closed PR [#144](https://github.com/slackhq/kotlin-cli-util/pull/144) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.24-1.0.20 to 2.0.0-1.0.21"
-
-**2024-05-23** — deleted branch `dependabot/gradle/kotlin-2.0.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-05-23** — closed PR [#142](https://github.com/slackhq/kotlin-cli-util/pull/142) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.24 to 2.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
