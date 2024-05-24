@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-24** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-24** — merged PR [#1471](https://github.com/ZacSweers/CatchUp/pull/1471) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha03"
+
+**2024-05-24** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-24** — merged PR [#598](https://github.com/ZacSweers/MoshiX/pull/598) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.17.0"
+
 **2024-05-24** — merged PR [#112](https://github.com/ZacSweers/auto-service-ksp/pull/112) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v1.17.0"
 
 **2024-05-24** — deleted branch `renovate/kotlinpoet` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
@@ -11,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-23** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-23** — merged PR [#1470](https://github.com/ZacSweers/CatchUp/pull/1470) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.32.0"
-
-**2024-05-23** — deleted branch `renovate/moshix` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-23** — closed PR [#1427](https://github.com/slackhq/circuit/pull/1427) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency dev.zacsweers.moshix to v0.27.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
