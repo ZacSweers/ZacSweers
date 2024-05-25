@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-24** — commented on [#1909](https://github.com/google/ksp/issues/1909#issuecomment-2130707095) in [google/ksp](https://github.com/google/ksp)
+
+**2024-05-24** — opened issue [#1927](https://github.com/google/ksp/issues/1927) on [google/ksp](https://github.com/google/ksp): "Feature request: publish a BOM artifact"
+
+**2024-05-24** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2130696363) in [google/ksp](https://github.com/google/ksp)
+
+**2024-05-24** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2130695231) in [google/ksp](https://github.com/google/ksp)
+
+**2024-05-24** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2130694738) in [google/ksp](https://github.com/google/ksp)
+
 **2024-05-24** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-24** — merged PR [#1471](https://github.com/ZacSweers/CatchUp/pull/1471) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha03"
@@ -13,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-24** — merged PR [#598](https://github.com/ZacSweers/MoshiX/pull/598) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.17.0"
 
 **2024-05-24** — merged PR [#112](https://github.com/ZacSweers/auto-service-ksp/pull/112) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v1.17.0"
-
-**2024-05-24** — deleted branch `renovate/kotlinpoet` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-05-23** — deleted branch `renovate/com.autonomousapps.dependency-analysis-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-23** — merged PR [#1470](https://github.com/ZacSweers/CatchUp/pull/1470) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.32.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
