@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-26** — commented on [#1282](https://github.com/slackhq/circuit/pull/1282#issuecomment-2132332811) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-26** — commented on [#1282](https://github.com/slackhq/circuit/pull/1282#issuecomment-2132323617) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-24** — commented on [#1909](https://github.com/google/ksp/issues/1909#issuecomment-2130707095) in [google/ksp](https://github.com/google/ksp)
 
 **2024-05-24** — opened issue [#1927](https://github.com/google/ksp/issues/1927) on [google/ksp](https://github.com/google/ksp): "Feature request: publish a BOM artifact"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-24** — merged PR [#1471](https://github.com/ZacSweers/CatchUp/pull/1471) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha03"
 
 **2024-05-24** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-24** — merged PR [#598](https://github.com/ZacSweers/MoshiX/pull/598) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.17.0"
-
-**2024-05-24** — merged PR [#112](https://github.com/ZacSweers/auto-service-ksp/pull/112) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v1.17.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
