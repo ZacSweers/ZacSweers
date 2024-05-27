@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-27** — deleted branch `cb/saveable-saved-backstack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
+
+**2024-05-27** — closed issue [#1342](https://github.com/slackhq/circuit/issues/1342) on [slackhq/circuit](https://github.com/slackhq/circuit): "`resetRoot(saveState = true, restoreState = true)` loses saveable state"
+
+**2024-05-27** — merged PR [#1354](https://github.com/slackhq/circuit/pull/1354) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix saveable state being restored when using reset root navigation events"
+
 **2024-05-26** — deleted branch `cb/pause-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-05-26** — merged PR [#1282](https://github.com/slackhq/circuit/pull/1282) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add lifecycle aware Presenters"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-26** — closed issue [#1917](https://github.com/google/ksp/issues/1917) on [google/ksp](https://github.com/google/ksp): "KSP2's symbol-processing-aa-embeddable artifact exposes an unresolvable pre-release kotlin 2.0.20 dependency"
 
 **2024-05-26** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-26** — merged PR [#597](https://github.com/ZacSweers/MoshiX/pull/597) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha03"
-
-**2024-05-26** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-26** — merged PR [#599](https://github.com/ZacSweers/MoshiX/pull/599) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.26.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
