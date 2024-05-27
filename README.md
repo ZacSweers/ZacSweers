@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-27** — merged PR [#1305](https://github.com/slackhq/circuit/pull/1305) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add rememberRetainedSaveable"
+
 **2024-05-27** — deleted branch `cb/saveable-saved-backstack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-05-27** — closed issue [#1342](https://github.com/slackhq/circuit/issues/1342) on [slackhq/circuit](https://github.com/slackhq/circuit): "`resetRoot(saveState = true, restoreState = true)` loses saveable state"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-26** — commented on [#1917](https://github.com/google/ksp/issues/1917#issuecomment-2132365648) in [google/ksp](https://github.com/google/ksp)
 
 **2024-05-26** — closed issue [#1917](https://github.com/google/ksp/issues/1917) on [google/ksp](https://github.com/google/ksp): "KSP2's symbol-processing-aa-embeddable artifact exposes an unresolvable pre-release kotlin 2.0.20 dependency"
-
-**2024-05-26** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
