@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2135877186) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-28** — closed issue [#152](https://github.com/ZacSweers/MoshiX/issues/152) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Improve errors and diagnostics"
 
-**2024-05-28** — merged PR [#1472](https://github.com/ZacSweers/CatchUp/pull/1472) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.0.0"
+**2024-05-28** — deleted branch `z/fixksperrors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-05-28** — merged PR [#601](https://github.com/ZacSweers/MoshiX/pull/601) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Improve moshi-sealed KSP error messages"
 
-**2024-05-28** — created tag `0.22.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-28** — closed issue [#549](https://github.com/ZacSweers/MoshiX/issues/549) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fallback adapter type's primary constructor can only have a Moshi parameter"
 
-**2024-05-28** — merged PR [#1006](https://github.com/slackhq/circuit/pull/1006) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to K2"
+**2024-05-28** — deleted branch `z/fixMoshiParam` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — deleted branch `z/k2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-28** — merged PR [#600](https://github.com/ZacSweers/MoshiX/pull/600) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix fallback adapter support in IR code gen not recognizing Moshi parameters to primary constructors"
 
-**2024-05-28** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2135527463) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-28** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-2135996886) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2135525775) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-28** — closed issue [#415](https://github.com/ZacSweers/MoshiX/issues/415) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "MoshiX generates malformed proguard rule"
 
-**2024-05-28** — closed issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
+**2024-05-28** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-2135996082) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — closed issue [#722](https://github.com/slackhq/circuit/issues/722) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding rememberRetainedSaveable variant"
+**2024-05-28** — closed issue [#499](https://github.com/ZacSweers/MoshiX/issues/499) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "0.4.3 breaks when used in standalone precompiled script plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
