@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-28** — merged PR [#1006](https://github.com/slackhq/circuit/pull/1006) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to K2"
+
+**2024-05-28** — deleted branch `z/k2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-28** — commented on [#722](https://github.com/slackhq/circuit/issues/722#issuecomment-2135527463) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-28** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2135525775) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-28** — closed issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
+
+**2024-05-28** — closed issue [#722](https://github.com/slackhq/circuit/issues/722) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding rememberRetainedSaveable variant"
+
 **2024-05-28** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-28** — merged PR [#1473](https://github.com/ZacSweers/CatchUp/pull/1473) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.21.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2135278157) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-28** — created tag `0.21.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-27** — merged PR [#1305](https://github.com/slackhq/circuit/pull/1305) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add rememberRetainedSaveable"
-
-**2024-05-27** — deleted branch `cb/saveable-saved-backstack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-05-27** — closed issue [#1342](https://github.com/slackhq/circuit/issues/1342) on [slackhq/circuit](https://github.com/slackhq/circuit): "`resetRoot(saveState = true, restoreState = true)` loses saveable state"
-
-**2024-05-27** — merged PR [#1354](https://github.com/slackhq/circuit/pull/1354) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix saveable state being restored when using reset root navigation events"
-
-**2024-05-26** — deleted branch `cb/pause-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-05-26** — merged PR [#1282](https://github.com/slackhq/circuit/pull/1282) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add lifecycle aware Presenters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
