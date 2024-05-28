@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-28** — created tag `0.21.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-27** — merged PR [#1305](https://github.com/slackhq/circuit/pull/1305) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add rememberRetainedSaveable"
 
 **2024-05-27** — deleted branch `cb/saveable-saved-backstack` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-26** — closed issue [#1795](https://github.com/google/ksp/issues/1795) on [google/ksp](https://github.com/google/ksp): "Feature request: Resolver.getSubpackages(String)"
 
 **2024-05-26** — commented on [#1917](https://github.com/google/ksp/issues/1917#issuecomment-2132365648) in [google/ksp](https://github.com/google/ksp)
-
-**2024-05-26** — closed issue [#1917](https://github.com/google/ksp/issues/1917) on [google/ksp](https://github.com/google/ksp): "KSP2's symbol-processing-aa-embeddable artifact exposes an unresolvable pre-release kotlin 2.0.20 dependency"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
