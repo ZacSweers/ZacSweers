@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-28** — closed issue [#152](https://github.com/ZacSweers/MoshiX/issues/152) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Improve errors and diagnostics"
+**2024-05-28** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-2136095075) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — deleted branch `z/fixksperrors` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-28** — closed issue [#536](https://github.com/ZacSweers/MoshiX/issues/536) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enum support for sealed interfaces"
 
-**2024-05-28** — merged PR [#601](https://github.com/ZacSweers/MoshiX/pull/601) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Improve moshi-sealed KSP error messages"
+**2024-05-28** — opened PR [#603](https://github.com/ZacSweers/MoshiX/pull/603) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule gen not capturing non-sealed subtypes."
 
-**2024-05-28** — closed issue [#549](https://github.com/ZacSweers/MoshiX/issues/549) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fallback adapter type's primary constructor can only have a Moshi parameter"
+**2024-05-28** — created branch `z/fixProguardSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — deleted branch `z/fixMoshiParam` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-28** — deleted branch `z/nestedCommonSubtype` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — merged PR [#600](https://github.com/ZacSweers/MoshiX/pull/600) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix fallback adapter support in IR code gen not recognizing Moshi parameters to primary constructors"
+**2024-05-28** — closed issue [#507](https://github.com/ZacSweers/MoshiX/issues/507) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Duplicate label error "
 
-**2024-05-28** — commented on [#415](https://github.com/ZacSweers/MoshiX/issues/415#issuecomment-2135996886) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-28** — merged PR [#602](https://github.com/ZacSweers/MoshiX/pull/602) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Check for same subtypes before erroring on duplicate labels"
 
-**2024-05-28** — closed issue [#415](https://github.com/ZacSweers/MoshiX/issues/415) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "MoshiX generates malformed proguard rule"
+**2024-05-28** — opened PR [#602](https://github.com/ZacSweers/MoshiX/pull/602) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Check for same subtypes before erroring on duplicate labels"
 
-**2024-05-28** — commented on [#499](https://github.com/ZacSweers/MoshiX/issues/499#issuecomment-2135996082) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-28** — created branch `z/nestedCommonSubtype` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-05-28** — closed issue [#499](https://github.com/ZacSweers/MoshiX/issues/499) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "0.4.3 breaks when used in standalone precompiled script plugin"
+**2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2136035807) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
