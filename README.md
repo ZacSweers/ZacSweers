@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-28** — merged PR [#1472](https://github.com/ZacSweers/CatchUp/pull/1472) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.0.0"
+
+**2024-05-28** — deleted branch `renovate/xerial` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-28** — created tag `0.22.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-28** — merged PR [#1006](https://github.com/slackhq/circuit/pull/1006) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to K2"
 
 **2024-05-28** — deleted branch `z/k2` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-28** — closed issue [#722](https://github.com/slackhq/circuit/issues/722) on [slackhq/circuit](https://github.com/slackhq/circuit): "Consider adding rememberRetainedSaveable variant"
 
 **2024-05-28** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-28** — merged PR [#1473](https://github.com/ZacSweers/CatchUp/pull/1473) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.21.0"
-
-**2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2135278157) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-05-28** — created tag `0.21.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
