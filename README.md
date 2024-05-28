@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-28** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-28** — merged PR [#1473](https://github.com/ZacSweers/CatchUp/pull/1473) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.21.0"
+
+**2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2135278157) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-28** — created tag `0.21.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-05-27** — merged PR [#1305](https://github.com/slackhq/circuit/pull/1305) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add rememberRetainedSaveable"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-26** — deleted branch `cb/pause-presenter` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-05-26** — merged PR [#1282](https://github.com/slackhq/circuit/pull/1282) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add lifecycle aware Presenters"
-
-**2024-05-26** — commented on [#1795](https://github.com/google/ksp/issues/1795#issuecomment-2132365784) in [google/ksp](https://github.com/google/ksp)
-
-**2024-05-26** — closed issue [#1795](https://github.com/google/ksp/issues/1795) on [google/ksp](https://github.com/google/ksp): "Feature request: Resolver.getSubpackages(String)"
-
-**2024-05-26** — commented on [#1917](https://github.com/google/ksp/issues/1917#issuecomment-2132365648) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
