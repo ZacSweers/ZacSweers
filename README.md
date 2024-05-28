@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-28** — commented on [#430](https://github.com/slackhq/circuit/issues/430#issuecomment-2136135787) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-05-28** — closed issue [#430](https://github.com/slackhq/circuit/issues/430) on [slackhq/circuit](https://github.com/slackhq/circuit): "Stateless Circuits"
+
+**2024-05-28** — created tag `0.27.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-28** — deleted branch `z/fixProguardSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-05-28** — closed issue [#556](https://github.com/ZacSweers/MoshiX/issues/556) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Missing Proguard/R8 rules with `moshi-sealed-codegen`"
+
+**2024-05-28** — merged PR [#603](https://github.com/ZacSweers/MoshiX/pull/603) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule gen not capturing non-sealed subtypes."
+
 **2024-05-28** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-2136095075) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-05-28** — closed issue [#536](https://github.com/ZacSweers/MoshiX/issues/536) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enum support for sealed interfaces"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-28** — opened PR [#603](https://github.com/ZacSweers/MoshiX/pull/603) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule gen not capturing non-sealed subtypes."
 
 **2024-05-28** — created branch `z/fixProguardSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-28** — deleted branch `z/nestedCommonSubtype` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-28** — closed issue [#507](https://github.com/ZacSweers/MoshiX/issues/507) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Duplicate label error "
-
-**2024-05-28** — merged PR [#602](https://github.com/ZacSweers/MoshiX/pull/602) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Check for same subtypes before erroring on duplicate labels"
-
-**2024-05-28** — opened PR [#602](https://github.com/ZacSweers/MoshiX/pull/602) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Check for same subtypes before erroring on duplicate labels"
-
-**2024-05-28** — created branch `z/nestedCommonSubtype` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-05-28** — commented on [#1434](https://github.com/slackhq/circuit/issues/1434#issuecomment-2136035807) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
