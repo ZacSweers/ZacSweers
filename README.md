@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-05-28** — deleted branch `renovate/dev.zacsweers.moshix-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-29** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-28** — merged PR [#604](https://github.com/ZacSweers/MoshiX/pull/604) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.27.1"
+**2024-05-29** — merged PR [#1476](https://github.com/ZacSweers/CatchUp/pull/1476) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.27.1"
 
-**2024-05-28** — commented on [#430](https://github.com/slackhq/circuit/issues/430#issuecomment-2136135787) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-05-29** — merged PR [#1477](https://github.com/ZacSweers/CatchUp/pull/1477) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha03"
 
-**2024-05-28** — closed issue [#430](https://github.com/slackhq/circuit/issues/430) on [slackhq/circuit](https://github.com/slackhq/circuit): "Stateless Circuits"
+**2024-05-29** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-28** — created tag `0.27.1` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-29** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-28** — deleted branch `z/fixProguardSealed` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-29** — merged PR [#1478](https://github.com/ZacSweers/CatchUp/pull/1478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.0"
 
-**2024-05-28** — closed issue [#556](https://github.com/ZacSweers/MoshiX/issues/556) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Missing Proguard/R8 rules with `moshi-sealed-codegen`"
+**2024-05-29** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-28** — merged PR [#603](https://github.com/ZacSweers/MoshiX/pull/603) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Fix proguard rule gen not capturing non-sealed subtypes."
+**2024-05-29** — merged PR [#1479](https://github.com/ZacSweers/CatchUp/pull/1479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta02"
 
-**2024-05-28** — commented on [#536](https://github.com/ZacSweers/MoshiX/issues/536#issuecomment-2136095075) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-05-29** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-05-28** — closed issue [#536](https://github.com/ZacSweers/MoshiX/issues/536) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Enum support for sealed interfaces"
+**2024-05-29** — merged PR [#1480](https://github.com/ZacSweers/CatchUp/pull/1480) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
