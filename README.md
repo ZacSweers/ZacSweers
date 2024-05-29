@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-29** — closed PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
+
 **2024-05-29** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-29** — merged PR [#1476](https://github.com/ZacSweers/CatchUp/pull/1476) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.27.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-29** — merged PR [#1479](https://github.com/ZacSweers/CatchUp/pull/1479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta02"
 
 **2024-05-29** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-29** — merged PR [#1480](https://github.com/ZacSweers/CatchUp/pull/1480) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
