@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-30** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-30** — merged PR [#1485](https://github.com/ZacSweers/CatchUp/pull/1485) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-rc01"
+
+**2024-05-30** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-05-30** — merged PR [#1484](https://github.com/ZacSweers/CatchUp/pull/1484) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha04"
+
 **2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140563232) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140205885) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-29** — merged PR [#1476](https://github.com/ZacSweers/CatchUp/pull/1476) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.27.1"
 
 **2024-05-29** — merged PR [#1477](https://github.com/ZacSweers/CatchUp/pull/1477) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha03"
-
-**2024-05-29** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-29** — deleted branch `renovate/appcompat` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-29** — merged PR [#1478](https://github.com/ZacSweers/CatchUp/pull/1478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.0"
-
-**2024-05-29** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
