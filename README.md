@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140563232) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
 **2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140205885) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2024-05-29** — closed PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-29** — merged PR [#1478](https://github.com/ZacSweers/CatchUp/pull/1478) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.0"
 
 **2024-05-29** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-29** — merged PR [#1479](https://github.com/ZacSweers/CatchUp/pull/1479) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
