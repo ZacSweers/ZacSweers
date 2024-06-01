@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-01** — closed issue [#1448](https://github.com/slackhq/circuit/issues/1448) on [slackhq/circuit](https://github.com/slackhq/circuit): "Web app in js is not running"
+
+**2024-06-01** — commented on [#1448](https://github.com/slackhq/circuit/issues/1448#issuecomment-2143587778) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-05-31** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-31** — merged PR [#1486](https://github.com/ZacSweers/CatchUp/pull/1486) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v3.0-alpha-7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140563232) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140205885) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
-
-**2024-05-29** — closed PR [#1](https://github.com/ZacSweers/fladle/pull/1) to [ZacSweers/fladle](https://github.com/ZacSweers/fladle): "Support develocity APIs in JUnitXml handling"
-
-**2024-05-29** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
