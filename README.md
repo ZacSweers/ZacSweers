@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-02** — opened issue [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Feature request: hoist observable state"
+
+**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144016459) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-06-02** — merged PR [#184](https://github.com/ZacSweers/ZacSweers/pull/184) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-02** — merged PR [#1488](https://github.com/ZacSweers/CatchUp/pull/1488) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.28.0"
 
 **2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-02** — merged PR [#1489](https://github.com/ZacSweers/CatchUp/pull/1489) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.8"
-
-**2024-06-01** — closed issue [#1448](https://github.com/slackhq/circuit/issues/1448) on [slackhq/circuit](https://github.com/slackhq/circuit): "Web app in js is not running"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
