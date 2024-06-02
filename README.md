@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — merged PR [#1487](https://github.com/ZacSweers/CatchUp/pull/1487) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.2.1-jre"
+
+**2024-06-02** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — merged PR [#1488](https://github.com/ZacSweers/CatchUp/pull/1488) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.28.0"
+
+**2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — merged PR [#1489](https://github.com/ZacSweers/CatchUp/pull/1489) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.8"
+
 **2024-06-01** — closed issue [#1448](https://github.com/slackhq/circuit/issues/1448) on [slackhq/circuit](https://github.com/slackhq/circuit): "Web app in js is not running"
 
 **2024-06-01** — commented on [#1448](https://github.com/slackhq/circuit/issues/1448#issuecomment-2143587778) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-05-31** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-05-31** — merged PR [#1486](https://github.com/ZacSweers/CatchUp/pull/1486) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v3.0-alpha-7"
-
-**2024-05-30** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-30** — merged PR [#1485](https://github.com/ZacSweers/CatchUp/pull/1485) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0-rc01"
-
-**2024-05-30** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-05-30** — merged PR [#1484](https://github.com/ZacSweers/CatchUp/pull/1484) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.6.0-alpha04"
-
-**2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140563232) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
-
-**2024-05-30** — commented on [#231](https://github.com/Kotlin/binary-compatibility-validator/issues/231#issuecomment-2140205885) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
