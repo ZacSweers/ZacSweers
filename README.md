@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-03** — opened PR [#1849](https://github.com/square/moshi/pull/1849) to [square/moshi](https://github.com/square/moshi): "Update to K2 + test KSP2"
+**2024-06-03** — opened PR [#1852](https://github.com/square/moshi/pull/1852) to [square/moshi](https://github.com/square/moshi): "Update CI/build infra"
 
-**2024-06-03** — deleted branch `renovate/guava-monorepo` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-03** — deleted branch `renovate/kotlinpoet` on [square/moshi](https://github.com/square/moshi)
 
-**2024-06-03** — merged PR [#113](https://github.com/ZacSweers/auto-service-ksp/pull/113) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.2.1-jre"
+**2024-06-03** — merged PR [#1761](https://github.com/square/moshi/pull/1761) to [square/moshi](https://github.com/square/moshi): "Update kotlinpoet to v1.17.0"
 
-**2024-06-03** — deleted branch `renovate/major-ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-03** — created branch `z/ciUpdates` on [square/moshi](https://github.com/square/moshi)
 
-**2024-06-03** — closed PR [#111](https://github.com/ZacSweers/auto-service-ksp/pull/111) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v2 (major)"
+**2024-06-03** — deleted branch `renovate/kotlincompiletesting` on [square/moshi](https://github.com/square/moshi)
 
-**2024-06-03** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-03** — commented on [#1850](https://github.com/square/moshi/pull/1850#issuecomment-2145985311) in [square/moshi](https://github.com/square/moshi)
 
-**2024-06-03** — merged PR [#114](https://github.com/ZacSweers/auto-service-ksp/pull/114) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.8"
+**2024-06-03** — closed PR [#1850](https://github.com/square/moshi/pull/1850) to [square/moshi](https://github.com/square/moshi): "Update kotlinCompileTesting to v0.5.0-alpha08"
 
-**2024-06-03** — commented on [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158#issuecomment-2145825307) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-06-03** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 
-**2024-06-03** — deleted branch `z/pauseConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-03** — closed PR [#1769](https://github.com/square/moshi/pull/1769) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
 
-**2024-06-03** — merged PR [#1450](https://github.com/slackhq/circuit/pull/1450) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Circuit.presentWithLifecycle config"
+**2024-06-03** — deleted branch `renovate/major-kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
