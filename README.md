@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-03** — commented on [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158#issuecomment-2145825307) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2024-06-03** — deleted branch `z/pauseConfig` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-03** — merged PR [#1450](https://github.com/slackhq/circuit/pull/1450) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Circuit.presentWithLifecycle config"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-03** — closed issue [#922](https://github.com/ZacSweers/CatchUp/issues/922) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to new Dagger SPI API"
 
 **2024-06-03** — opened PR [#1492](https://github.com/ZacSweers/CatchUp/pull/1492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try ListDetailPaneScaffold"
-
-**2024-06-03** — created branch `z/listDetailPane` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
