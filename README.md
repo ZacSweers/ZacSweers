@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-02** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-02** — opened PR [#1491](https://github.com/ZacSweers/CatchUp/pull/1491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 pull to refresh"
 
-**2024-06-02** — commented on [#1490](https://github.com/ZacSweers/CatchUp/pull/1490#issuecomment-2144112344) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-02** — created branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-02** — closed PR [#1490](https://github.com/ZacSweers/CatchUp/pull/1490) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.20.0"
+**2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-02** — deleted branch `z/detailView` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-02** — merged PR [#608](https://github.com/ZacSweers/MoshiX/pull/608) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.8"
 
-**2024-06-02** — merged PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
+**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144165877) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
-**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144031182) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-06-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-02** — opened issue [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Feature request: hoist observable state"
+**2024-06-02** — closed PR [#605](https://github.com/ZacSweers/MoshiX/pull/605) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.0.10-383"
 
-**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144016459) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-06-02** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-06-02** — merged PR [#606](https://github.com/ZacSweers/MoshiX/pull/606) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha04"
 
-**2024-06-02** — merged PR [#184](https://github.com/ZacSweers/ZacSweers/pull/184) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.8"
+**2024-06-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
