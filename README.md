@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-03** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
+
+**2024-06-03** — merged PR [#1851](https://github.com/square/moshi/pull/1851) to [square/moshi](https://github.com/square/moshi): "Remove kotlin metadata dependencies"
+
 **2024-06-03** — opened PR [#1852](https://github.com/square/moshi/pull/1852) to [square/moshi](https://github.com/square/moshi): "Update CI/build infra"
 
 **2024-06-03** — deleted branch `renovate/kotlinpoet` on [square/moshi](https://github.com/square/moshi)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-03** — closed PR [#1850](https://github.com/square/moshi/pull/1850) to [square/moshi](https://github.com/square/moshi): "Update kotlinCompileTesting to v0.5.0-alpha08"
 
 **2024-06-03** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-03** — closed PR [#1769](https://github.com/square/moshi/pull/1769) to [square/moshi](https://github.com/square/moshi): "Update kotlin monorepo"
-
-**2024-06-03** — deleted branch `renovate/major-kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
