@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-02** — opened PR [#1848](https://github.com/square/moshi/pull/1848) to [square/moshi](https://github.com/square/moshi): "Remove KAPT support"
+
+**2024-06-02** — closed issue [#1165](https://github.com/ZacSweers/CatchUp/issues/1165) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 PullToRefresh"
+
+**2024-06-02** — deleted branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — merged PR [#1491](https://github.com/ZacSweers/CatchUp/pull/1491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 pull to refresh"
+
+**2024-06-02** — created branch `z/removeKapt` on [square/moshi](https://github.com/square/moshi)
+
+**2024-06-02** — created branch `z/k2` on [square/moshi](https://github.com/square/moshi)
+
 **2024-06-02** — opened PR [#1491](https://github.com/ZacSweers/CatchUp/pull/1491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 pull to refresh"
 
 **2024-06-02** — created branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-06-02** — merged PR [#608](https://github.com/ZacSweers/MoshiX/pull/608) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.8"
-
-**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144165877) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-06-02** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-02** — closed PR [#605](https://github.com/ZacSweers/MoshiX/pull/605) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.0.10-383"
-
-**2024-06-02** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-02** — merged PR [#606](https://github.com/ZacSweers/MoshiX/pull/606) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha04"
-
-**2024-06-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
