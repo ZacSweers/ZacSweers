@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-03** — closed issue [#381](https://github.com/ZacSweers/CatchUp/issues/381) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Integrate Unfurl"
+
+**2024-06-03** — commented on [#850](https://github.com/ZacSweers/CatchUp/issues/850#issuecomment-2144276042) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-03** — commented on [#922](https://github.com/ZacSweers/CatchUp/issues/922#issuecomment-2144275194) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-03** — closed issue [#922](https://github.com/ZacSweers/CatchUp/issues/922) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to new Dagger SPI API"
+
+**2024-06-03** — opened PR [#1492](https://github.com/ZacSweers/CatchUp/pull/1492) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Try ListDetailPaneScaffold"
+
+**2024-06-03** — created branch `z/listDetailPane` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-06-03** — commented on [#1848](https://github.com/square/moshi/pull/1848#issuecomment-2144231331) in [square/moshi](https://github.com/square/moshi)
 
 **2024-06-02** — opened PR [#1848](https://github.com/square/moshi/pull/1848) to [square/moshi](https://github.com/square/moshi): "Remove KAPT support"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-02** — closed issue [#1165](https://github.com/ZacSweers/CatchUp/issues/1165) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 PullToRefresh"
 
 **2024-06-02** — deleted branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-02** — merged PR [#1491](https://github.com/ZacSweers/CatchUp/pull/1491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 pull to refresh"
-
-**2024-06-02** — created branch `z/removeKapt` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-02** — created branch `z/k2` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-02** — opened PR [#1491](https://github.com/ZacSweers/CatchUp/pull/1491) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 pull to refresh"
-
-**2024-06-02** — created branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
