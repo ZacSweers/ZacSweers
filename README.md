@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-02** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — commented on [#1490](https://github.com/ZacSweers/CatchUp/pull/1490#issuecomment-2144112344) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — closed PR [#1490](https://github.com/ZacSweers/CatchUp/pull/1490) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.20.0"
+
+**2024-06-02** — deleted branch `z/detailView` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-02** — merged PR [#1327](https://github.com/ZacSweers/CatchUp/pull/1327) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Start adding support for detail views"
+
 **2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144031182) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
 **2024-06-02** — opened issue [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158) on [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer): "Feature request: hoist observable state"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-06-02** — merged PR [#184](https://github.com/ZacSweers/ZacSweers/pull/184) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.8"
-
-**2024-06-02** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2144000981) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-06-02** — deleted branch `renovate/guava-monorepo` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-02** — merged PR [#1487](https://github.com/ZacSweers/CatchUp/pull/1487) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.2.1-jre"
-
-**2024-06-02** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-02** — merged PR [#1488](https://github.com/ZacSweers/CatchUp/pull/1488) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.28.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
