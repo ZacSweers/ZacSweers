@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-03** — commented on [#1848](https://github.com/square/moshi/pull/1848#issuecomment-2144231331) in [square/moshi](https://github.com/square/moshi)
+
 **2024-06-02** — opened PR [#1848](https://github.com/square/moshi/pull/1848) to [square/moshi](https://github.com/square/moshi): "Remove KAPT support"
 
 **2024-06-02** — closed issue [#1165](https://github.com/ZacSweers/CatchUp/issues/1165) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to M3 PullToRefresh"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-02** — created branch `z/pullrefreshmigration` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-02** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-02** — merged PR [#608](https://github.com/ZacSweers/MoshiX/pull/608) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
