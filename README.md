@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-04** — commented on [#1948](https://github.com/google/ksp/issues/1948#issuecomment-2148040492) in [google/ksp](https://github.com/google/ksp)
+
+**2024-06-04** — opened issue [#1948](https://github.com/google/ksp/issues/1948) on [google/ksp](https://github.com/google/ksp): "KSP2 default annotation KClass values for built-in types use java.lang.* versions"
+
+**2024-06-04** — deleted branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-04** — merged PR [#1455](https://github.com/slackhq/circuit/pull/1455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize withCompositionLocalProvider"
+
+**2024-06-04** — opened PR [#1455](https://github.com/slackhq/circuit/pull/1455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize withCompositionLocalProvider"
+
+**2024-06-04** — created branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-06-04** — created tag `0.21.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-04** — created branch `release_0_21_2` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — created tag `0.22.2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-04** — commented on [#1445](https://github.com/slackhq/circuit/issues/1445#issuecomment-2147839883) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-04** — closed PR [#248](https://github.com/ZacSweers/kotlin-compile-testing/pull/248) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2024-06-04** — deleted branch `renovate/major-ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-04** — closed PR [#249](https://github.com/ZacSweers/kotlin-compile-testing/pull/249) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2 (major)"
-
-**2024-06-04** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2147828850) in [google/ksp](https://github.com/google/ksp)
-
-**2024-06-04** — closed issue [#1846](https://github.com/google/ksp/issues/1846) on [google/ksp](https://github.com/google/ksp): "[KSP2] Intersection types are not modeled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
