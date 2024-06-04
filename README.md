@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-04** — commented on [#1948](https://github.com/google/ksp/issues/1948#issuecomment-2148460555) in [google/ksp](https://github.com/google/ksp)
+
 **2024-06-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-04** — merged PR [#1494](https://github.com/ZacSweers/CatchUp/pull/1494) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.22.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — opened issue [#1948](https://github.com/google/ksp/issues/1948) on [google/ksp](https://github.com/google/ksp): "KSP2 default annotation KClass values for built-in types use java.lang.* versions"
 
 **2024-06-04** — deleted branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-04** — merged PR [#1455](https://github.com/slackhq/circuit/pull/1455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize withCompositionLocalProvider"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
