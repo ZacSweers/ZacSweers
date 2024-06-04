@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-04** — merged PR [#1494](https://github.com/ZacSweers/CatchUp/pull/1494) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.22.2"
+
 **2024-06-04** — deleted branch `cb/verify-gesture-nav-pop-restore` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 
 **2024-06-04** — merged PR [#1454](https://github.com/slackhq/circuit/pull/1454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a test to verify state restoration when using resetRoot"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — deleted branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-04** — merged PR [#1455](https://github.com/slackhq/circuit/pull/1455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize withCompositionLocalProvider"
-
-**2024-06-04** — opened PR [#1455](https://github.com/slackhq/circuit/pull/1455) to [slackhq/circuit](https://github.com/slackhq/circuit): "Optimize withCompositionLocalProvider"
-
-**2024-06-04** — created branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
