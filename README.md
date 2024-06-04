@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-04** — commented on [#1445](https://github.com/slackhq/circuit/issues/1445#issuecomment-2147839883) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-04** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-04** — closed PR [#248](https://github.com/ZacSweers/kotlin-compile-testing/pull/248) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2024-06-04** — deleted branch `renovate/major-ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-04** — closed PR [#249](https://github.com/ZacSweers/kotlin-compile-testing/pull/249) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2 (major)"
+
+**2024-06-04** — commented on [#1846](https://github.com/google/ksp/issues/1846#issuecomment-2147828850) in [google/ksp](https://github.com/google/ksp)
+
+**2024-06-04** — closed issue [#1846](https://github.com/google/ksp/issues/1846) on [google/ksp](https://github.com/google/ksp): "[KSP2] Intersection types are not modeled"
+
 **2024-06-04** — commented on [#1447](https://github.com/slackhq/circuit/pull/1447#issuecomment-2147749137) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-04** — commented on [#1451](https://github.com/slackhq/circuit/pull/1451#issuecomment-2147737003) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-04** — deleted branch `cb/remove-backward-writes` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-06-04** — merged PR [#1451](https://github.com/slackhq/circuit/pull/1451) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add withCompositionLocalProvider to avoid backward writes"
-
-**2024-06-03** — deleted branch `z/ciUpdates` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-03** — merged PR [#1852](https://github.com/square/moshi/pull/1852) to [square/moshi](https://github.com/square/moshi): "Update CI/build infra"
-
-**2024-06-03** — deleted branch `renovate/kotlin-monorepo` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-03** — merged PR [#1851](https://github.com/square/moshi/pull/1851) to [square/moshi](https://github.com/square/moshi): "Remove kotlin metadata dependencies"
-
-**2024-06-03** — opened PR [#1852](https://github.com/square/moshi/pull/1852) to [square/moshi](https://github.com/square/moshi): "Update CI/build infra"
-
-**2024-06-03** — deleted branch `renovate/kotlinpoet` on [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
