@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-05** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-06-05** — merged PR [#186](https://github.com/ZacSweers/ZacSweers/pull/186) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.9.0"
+
+**2024-06-05** — created tag `1.9.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-06-05** — opened PR [#1456](https://github.com/slackhq/circuit/pull/1456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move more star sample API code into commonMain"
+
+**2024-06-05** — created branch `z/moreStarWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-06-05** — deleted branch `z/k2` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2024-06-05** — merged PR [#72](https://github.com/slackhq/EitherNet/pull/72) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to K2"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — merged PR [#1495](https://github.com/ZacSweers/CatchUp/pull/1495) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v3.0-alpha-8"
 
 **2024-06-04** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-04** — merged PR [#1493](https://github.com/ZacSweers/CatchUp/pull/1493) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.11"
-
-**2024-06-04** — commented on [#1948](https://github.com/google/ksp/issues/1948#issuecomment-2148460555) in [google/ksp](https://github.com/google/ksp)
-
-**2024-06-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-04** — merged PR [#1494](https://github.com/ZacSweers/CatchUp/pull/1494) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.22.2"
-
-**2024-06-04** — deleted branch `cb/verify-gesture-nav-pop-restore` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
