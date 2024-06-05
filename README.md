@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-04** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-04** — merged PR [#1495](https://github.com/ZacSweers/CatchUp/pull/1495) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v3.0-alpha-8"
+
+**2024-06-04** — deleted branch `renovate/compose.jb` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-04** — merged PR [#1493](https://github.com/ZacSweers/CatchUp/pull/1493) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.6.11"
+
 **2024-06-04** — commented on [#1948](https://github.com/google/ksp/issues/1948#issuecomment-2148460555) in [google/ksp](https://github.com/google/ksp)
 
 **2024-06-04** — deleted branch `renovate/circuit` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — merged PR [#1454](https://github.com/slackhq/circuit/pull/1454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a test to verify state restoration when using resetRoot"
 
 **2024-06-04** — commented on [#1454](https://github.com/slackhq/circuit/pull/1454#issuecomment-2148128788) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-04** — commented on [#1447](https://github.com/slackhq/circuit/pull/1447#issuecomment-2148108167) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-04** — commented on [#1948](https://github.com/google/ksp/issues/1948#issuecomment-2148040492) in [google/ksp](https://github.com/google/ksp)
-
-**2024-06-04** — opened issue [#1948](https://github.com/google/ksp/issues/1948) on [google/ksp](https://github.com/google/ksp): "KSP2 default annotation KClass values for built-in types use java.lang.* versions"
-
-**2024-06-04** — deleted branch `z/optimizeWithCompositionLocalProvider` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
