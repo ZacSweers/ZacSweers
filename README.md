@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-05** — deleted branch `z/k2` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-06-05** — merged PR [#72](https://github.com/slackhq/EitherNet/pull/72) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to K2"
+
 **2024-06-04** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-04** — merged PR [#1495](https://github.com/ZacSweers/CatchUp/pull/1495) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update leakcanary to v3.0-alpha-8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-04** — merged PR [#1494](https://github.com/ZacSweers/CatchUp/pull/1494) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.22.2"
 
 **2024-06-04** — deleted branch `cb/verify-gesture-nav-pop-restore` on [chrisbanes/circuit](https://github.com/chrisbanes/circuit)
-
-**2024-06-04** — merged PR [#1454](https://github.com/slackhq/circuit/pull/1454) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add a test to verify state restoration when using resetRoot"
-
-**2024-06-04** — commented on [#1454](https://github.com/slackhq/circuit/pull/1454#issuecomment-2148128788) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
