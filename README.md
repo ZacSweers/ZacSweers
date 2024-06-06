@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-06-06** — merged PR [#223](https://github.com/ZacSweers/redacted-compiler-plugin/pull/223) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting"
+
+**2024-06-06** — opened PR [#98](https://github.com/square/gradle-dependencies-sorter/pull/98) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Lower log level"
+
+**2024-06-06** — created branch `z/lowerLog` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2024-06-05** — deleted branch `z/k2` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-06-05** — merged PR [#1885](https://github.com/square/kotlinpoet/pull/1885) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to K2"
+
 **2024-06-05** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-06-05** — merged PR [#224](https://github.com/ZacSweers/redacted-compiler-plugin/pull/224) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.8"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-05** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-06-05** — merged PR [#225](https://github.com/ZacSweers/redacted-compiler-plugin/pull/225) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.0-1.0.22"
-
-**2024-06-05** — deleted branch `renovate/kct` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-06-05** — closed PR [#1924](https://github.com/square/kotlinpoet/pull/1924) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency dev.zacsweers.kctfork:ksp to v0.5.0"
-
-**2024-06-05** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-05** — merged PR [#1496](https://github.com/ZacSweers/CatchUp/pull/1496) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v4.0.0-beta.7"
-
-**2024-06-05** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-05** — merged PR [#1497](https://github.com/ZacSweers/CatchUp/pull/1497) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
