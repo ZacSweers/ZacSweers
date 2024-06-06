@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-05** — merged PR [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update to K2"
+**2024-06-05** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-06-05** — closed issue [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Ability to filter output by log level"
+**2024-06-05** — merged PR [#224](https://github.com/ZacSweers/redacted-compiler-plugin/pull/224) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.8"
 
-**2024-06-05** — deleted branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-05** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-06-05** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-05** — merged PR [#225](https://github.com/ZacSweers/redacted-compiler-plugin/pull/225) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.0-1.0.22"
 
-**2024-06-05** — merged PR [#252](https://github.com/ZacSweers/kotlin-compile-testing/pull/252) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.173"
+**2024-06-05** — deleted branch `renovate/kct` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2024-06-05** — deleted branch `z/moreStarWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-05** — closed PR [#1924](https://github.com/square/kotlinpoet/pull/1924) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update dependency dev.zacsweers.kctfork:ksp to v0.5.0"
 
-**2024-06-05** — merged PR [#1456](https://github.com/slackhq/circuit/pull/1456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move more star sample API code into commonMain"
+**2024-06-05** — deleted branch `renovate/apollo-graphql-packages` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-05** — deleted branch `renovate/com.slack.eithernet-eithernet-1.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+**2024-06-05** — merged PR [#1496](https://github.com/ZacSweers/CatchUp/pull/1496) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update Apollo GraphQL packages to v4.0.0-beta.7"
 
-**2024-06-05** — merged PR [#186](https://github.com/ZacSweers/ZacSweers/pull/186) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.9.0"
+**2024-06-05** — deleted branch `renovate/eithernet` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-05** — created tag `1.9.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2024-06-05** — merged PR [#1497](https://github.com/ZacSweers/CatchUp/pull/1497) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.eithernet:eithernet to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
