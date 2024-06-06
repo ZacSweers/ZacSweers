@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — opened PR [#1461](https://github.com/slackhq/circuit/pull/1461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh STAR sample theming"
+
+**2024-06-06** — created branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-06** — opened PR [#1460](https://github.com/slackhq/circuit/pull/1460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Eithernet 2 + commonize more APIs"
+
+**2024-06-06** — created branch `z/eithernet2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-06** — deleted branch `z/fix` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-06-06** — merged PR [#77](https://github.com/slackhq/EitherNet/pull/77) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix ktype overrides"
+
 **2024-06-06** — opened PR [#77](https://github.com/slackhq/EitherNet/pull/77) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix ktype overrides"
 
 **2024-06-06** — created branch `z/fix` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-06** — deleted branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2024-06-06** — merged PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
-
-**2024-06-06** — commented on [#1447](https://github.com/slackhq/circuit/pull/1447#issuecomment-2153241248) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-06** — created branch `z/kspUpdates` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-06** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-06** — merged PR [#1499](https://github.com/ZacSweers/CatchUp/pull/1499) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.0"
-
-**2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2153018543) in [square/anvil](https://github.com/square/anvil)
-
-**2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2152992819) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
