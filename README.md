@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2153018543) in [square/anvil](https://github.com/square/anvil)
+
+**2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2152992819) in [square/anvil](https://github.com/square/anvil)
+
 **2024-06-06** — opened PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
 
 **2024-06-06** — created branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-05** — deleted branch `z/k2` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-06-05** — merged PR [#1885](https://github.com/square/kotlinpoet/pull/1885) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to K2"
-
-**2024-06-05** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-06-05** — merged PR [#224](https://github.com/ZacSweers/redacted-compiler-plugin/pull/224) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
