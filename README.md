@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — opened PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
+
+**2024-06-06** — created branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2024-06-06** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-06-06** — merged PR [#223](https://github.com/ZacSweers/redacted-compiler-plugin/pull/223) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-05** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-06-05** — merged PR [#224](https://github.com/ZacSweers/redacted-compiler-plugin/pull/224) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.8"
-
-**2024-06-05** — deleted branch `renovate/ksp` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-06-05** — merged PR [#225](https://github.com/ZacSweers/redacted-compiler-plugin/pull/225) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.0-1.0.22"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
