@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-05** — merged PR [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update to K2"
+
+**2024-06-05** — closed issue [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Ability to filter output by log level"
+
+**2024-06-05** — deleted branch `z/k2` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-05** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-05** — merged PR [#252](https://github.com/ZacSweers/kotlin-compile-testing/pull/252) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.173"
+
 **2024-06-05** — deleted branch `z/moreStarWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-05** — merged PR [#1456](https://github.com/slackhq/circuit/pull/1456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move more star sample API code into commonMain"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-05** — merged PR [#186](https://github.com/ZacSweers/ZacSweers/pull/186) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v1.9.0"
 
 **2024-06-05** — created tag `1.9.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-05** — opened PR [#1456](https://github.com/slackhq/circuit/pull/1456) to [slackhq/circuit](https://github.com/slackhq/circuit): "Move more star sample API code into commonMain"
-
-**2024-06-05** — created branch `z/moreStarWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-05** — deleted branch `z/k2` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-05** — merged PR [#72](https://github.com/slackhq/EitherNet/pull/72) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to K2"
-
-**2024-06-04** — deleted branch `renovate/leakcanary` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
