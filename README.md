@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — opened PR [#77](https://github.com/slackhq/EitherNet/pull/77) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix ktype overrides"
+
+**2024-06-06** — created branch `z/fix` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-06-06** — deleted branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
+**2024-06-06** — merged PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
+
+**2024-06-06** — commented on [#1447](https://github.com/slackhq/circuit/pull/1447#issuecomment-2153241248) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-06** — created branch `z/kspUpdates` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-06** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-06** — merged PR [#1499](https://github.com/ZacSweers/CatchUp/pull/1499) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.0"
+
 **2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2153018543) in [square/anvil](https://github.com/square/anvil)
 
 **2024-06-06** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2152992819) in [square/anvil](https://github.com/square/anvil)
-
-**2024-06-06** — opened PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
-
-**2024-06-06** — created branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-06** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-06-06** — merged PR [#223](https://github.com/ZacSweers/redacted-compiler-plugin/pull/223) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting"
-
-**2024-06-06** — opened PR [#98](https://github.com/square/gradle-dependencies-sorter/pull/98) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Lower log level"
-
-**2024-06-06** — created branch `z/lowerLog` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2024-06-05** — deleted branch `z/k2` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-06-05** — merged PR [#1885](https://github.com/square/kotlinpoet/pull/1885) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Update to K2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
