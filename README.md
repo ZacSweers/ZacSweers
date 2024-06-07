@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-07** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2155091932) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2024-06-07** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-06-07** — merged PR [#255](https://github.com/ZacSweers/kotlin-compile-testing/pull/255) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.26.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-06** — opened PR [#1461](https://github.com/slackhq/circuit/pull/1461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh STAR sample theming"
 
 **2024-06-06** — created branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-06** — opened PR [#1460](https://github.com/slackhq/circuit/pull/1460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Eithernet 2 + commonize more APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
