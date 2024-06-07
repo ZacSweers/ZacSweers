@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-06** — deleted branch `renovate/kotest` on [square/anvil](https://github.com/square/anvil)
+
+**2024-06-06** — merged PR [#1016](https://github.com/square/anvil/pull/1016) to [square/anvil](https://github.com/square/anvil): "Update kotest to v5.9.1"
+
 **2024-06-06** — opened PR [#1461](https://github.com/slackhq/circuit/pull/1461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh STAR sample theming"
 
 **2024-06-06** — created branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-06** — opened PR [#77](https://github.com/slackhq/EitherNet/pull/77) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix ktype overrides"
 
 **2024-06-06** — created branch `z/fix` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-06** — deleted branch `z/kmp` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-06** — merged PR [#76](https://github.com/slackhq/EitherNet/pull/76) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Migrate to KMP project structure"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
