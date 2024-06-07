@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-07** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-07** — merged PR [#612](https://github.com/ZacSweers/MoshiX/pull/612) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha05"
+
+**2024-06-07** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-07** — merged PR [#611](https://github.com/ZacSweers/MoshiX/pull/611) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.50"
+
+**2024-06-07** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-07** — merged PR [#610](https://github.com/ZacSweers/MoshiX/pull/610) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.5.0"
+
+**2024-06-07** — deleted branch `dependabot/pip/dot-github/workflows/tornado-6.4.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-06-07** — closed PR [#1462](https://github.com/slackhq/circuit/pull/1462) to [slackhq/circuit](https://github.com/slackhq/circuit): "Bump tornado from 6.4 to 6.4.1 in /.github/workflows"
+
 **2024-06-07** — merged PR [#1460](https://github.com/slackhq/circuit/pull/1460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Eithernet 2 + commonize more APIs"
 
 **2024-06-07** — deleted branch `z/eithernet2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-07** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2155091932) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-06-07** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-07** — merged PR [#255](https://github.com/ZacSweers/kotlin-compile-testing/pull/255) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.26.0"
-
-**2024-06-07** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2153877259) in [square/anvil](https://github.com/square/anvil)
-
-**2024-06-06** — deleted branch `renovate/gradle-8.x` on [square/anvil](https://github.com/square/anvil)
-
-**2024-06-06** — merged PR [#1014](https://github.com/square/anvil/pull/1014) to [square/anvil](https://github.com/square/anvil): "Update dependency gradle to v8.8"
-
-**2024-06-06** — deleted branch `renovate/kotest` on [square/anvil](https://github.com/square/anvil)
-
-**2024-06-06** — merged PR [#1016](https://github.com/square/anvil/pull/1016) to [square/anvil](https://github.com/square/anvil): "Update kotest to v5.9.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
