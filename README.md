@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-06-07** — deleted branch `renovate/kotlin-and-compiler-plugins` on [square/anvil](https://github.com/square/anvil)
 
-**2024-06-07** — merged PR [#348](https://github.com/slackhq/compose-lints/pull/348) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.6.0-alpha04"
+**2024-06-07** — merged PR [#891](https://github.com/square/anvil/pull/891) to [square/anvil](https://github.com/square/anvil): "Update Kotlin and compiler plugins"
 
-**2024-06-07** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-07** — created tag `1.2.0` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-06-07** — closed PR [#115](https://github.com/ZacSweers/auto-service-ksp/pull/115) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.5.0"
+**2024-06-07** — closed issue [#105](https://github.com/ZacSweers/auto-service-ksp/issues/105) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Support multiple rounds"
 
-**2024-06-07** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-07** — deleted branch `z/k2` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-06-07** — merged PR [#116](https://github.com/ZacSweers/auto-service-ksp/pull/116) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.50"
+**2024-06-07** — closed issue [#88](https://github.com/ZacSweers/auto-service-ksp/issues/88) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Support K2/KSP2"
 
-**2024-06-07** — deleted branch `renovate/guava-monorepo` on [square/anvil](https://github.com/square/anvil)
+**2024-06-07** — merged PR [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update to K2"
 
-**2024-06-07** — merged PR [#1012](https://github.com/square/anvil/pull/1012) to [square/anvil](https://github.com/square/anvil): "Update dependency com.google.guava:guava to v33.2.1-jre"
+**2024-06-07** — commented on [#344](https://github.com/slackhq/compose-lints/issues/344#issuecomment-2155481239) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-06-07** — deleted branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-07** — commented on [#351](https://github.com/slackhq/compose-lints/issues/351#issuecomment-2155438550) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-06-07** — merged PR [#1461](https://github.com/slackhq/circuit/pull/1461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh STAR sample theming"
+**2024-06-07** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
