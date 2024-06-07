@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-07** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-06-07** — merged PR [#227](https://github.com/ZacSweers/redacted-compiler-plugin/pull/227) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
+
 **2024-06-07** — deleted branch `renovate/kotlin-and-compiler-plugins` on [square/anvil](https://github.com/square/anvil)
 
 **2024-06-07** — merged PR [#891](https://github.com/square/anvil/pull/891) to [square/anvil](https://github.com/square/anvil): "Update Kotlin and compiler plugins"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-07** — merged PR [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update to K2"
 
 **2024-06-07** — commented on [#344](https://github.com/slackhq/compose-lints/issues/344#issuecomment-2155481239) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-06-07** — commented on [#351](https://github.com/slackhq/compose-lints/issues/351#issuecomment-2155438550) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-06-07** — deleted branch `renovate/ktfmt` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
