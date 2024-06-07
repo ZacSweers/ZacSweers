@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-07** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-07** — deleted branch `renovate/lint-latest` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-06-07** — merged PR [#612](https://github.com/ZacSweers/MoshiX/pull/612) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha05"
+**2024-06-07** — merged PR [#348](https://github.com/slackhq/compose-lints/pull/348) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.6.0-alpha04"
 
-**2024-06-07** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-07** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-06-07** — merged PR [#611](https://github.com/ZacSweers/MoshiX/pull/611) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.50"
+**2024-06-07** — closed PR [#115](https://github.com/ZacSweers/auto-service-ksp/pull/115) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.5.0"
 
-**2024-06-07** — deleted branch `renovate/kotlincompiletesting` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-07** — deleted branch `renovate/ktfmt` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-06-07** — merged PR [#610](https://github.com/ZacSweers/MoshiX/pull/610) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.5.0"
+**2024-06-07** — merged PR [#116](https://github.com/ZacSweers/auto-service-ksp/pull/116) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.50"
 
-**2024-06-07** — deleted branch `dependabot/pip/dot-github/workflows/tornado-6.4.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-07** — deleted branch `renovate/guava-monorepo` on [square/anvil](https://github.com/square/anvil)
 
-**2024-06-07** — closed PR [#1462](https://github.com/slackhq/circuit/pull/1462) to [slackhq/circuit](https://github.com/slackhq/circuit): "Bump tornado from 6.4 to 6.4.1 in /.github/workflows"
+**2024-06-07** — merged PR [#1012](https://github.com/square/anvil/pull/1012) to [square/anvil](https://github.com/square/anvil): "Update dependency com.google.guava:guava to v33.2.1-jre"
 
-**2024-06-07** — merged PR [#1460](https://github.com/slackhq/circuit/pull/1460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Eithernet 2 + commonize more APIs"
+**2024-06-07** — deleted branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-06-07** — deleted branch `z/eithernet2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-07** — merged PR [#1461](https://github.com/slackhq/circuit/pull/1461) to [slackhq/circuit](https://github.com/slackhq/circuit): "Refresh STAR sample theming"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
