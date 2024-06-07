@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-07** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-07** — merged PR [#255](https://github.com/ZacSweers/kotlin-compile-testing/pull/255) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.26.0"
+
+**2024-06-07** — commented on [#733](https://github.com/square/anvil/issues/733#issuecomment-2153877259) in [square/anvil](https://github.com/square/anvil)
+
 **2024-06-06** — deleted branch `renovate/gradle-8.x` on [square/anvil](https://github.com/square/anvil)
 
 **2024-06-06** — merged PR [#1014](https://github.com/square/anvil/pull/1014) to [square/anvil](https://github.com/square/anvil): "Update dependency gradle to v8.8"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-06** — created branch `z/refreshThemes` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-06** — opened PR [#1460](https://github.com/slackhq/circuit/pull/1460) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Eithernet 2 + commonize more APIs"
-
-**2024-06-06** — created branch `z/eithernet2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-06** — deleted branch `z/fix` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2024-06-06** — merged PR [#77](https://github.com/slackhq/EitherNet/pull/77) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Fix ktype overrides"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
