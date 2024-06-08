@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-07** — opened PR [#1468](https://github.com/slackhq/circuit/pull/1468) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize remaining star networking operations"
+
 **2024-06-07** — created branch `z/starNetworking` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-06-07** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-07** — deleted branch `z/k2` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-06-07** — closed issue [#88](https://github.com/ZacSweers/auto-service-ksp/issues/88) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Support K2/KSP2"
-
-**2024-06-07** — merged PR [#89](https://github.com/ZacSweers/auto-service-ksp/pull/89) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update to K2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
