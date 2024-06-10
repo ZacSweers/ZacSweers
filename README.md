@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-10** — commented on [#1962](https://github.com/google/ksp/issues/1962#issuecomment-2159421761) in [google/ksp](https://github.com/google/ksp)
+
 **2024-06-10** — commented on [#1962](https://github.com/google/ksp/issues/1962#issuecomment-2159194847) in [google/ksp](https://github.com/google/ksp)
 
 **2024-06-07** — opened PR [#1468](https://github.com/slackhq/circuit/pull/1468) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize remaining star networking operations"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-07** — created tag `1.2.0` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-06-07** — closed issue [#105](https://github.com/ZacSweers/auto-service-ksp/issues/105) on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Support multiple rounds"
-
-**2024-06-07** — deleted branch `z/k2` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
