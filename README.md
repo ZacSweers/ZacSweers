@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-10** — deleted branch `z/starNetworking` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-11** — merged PR [#279](https://github.com/slackhq/slack-lints/pull/279) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.6.0-alpha05"
 
-**2024-06-10** — merged PR [#1468](https://github.com/slackhq/circuit/pull/1468) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize remaining star networking operations"
+**2024-06-11** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-10** — commented on [#1962](https://github.com/google/ksp/issues/1962#issuecomment-2159421761) in [google/ksp](https://github.com/google/ksp)
+**2024-06-11** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-10** — commented on [#1962](https://github.com/google/ksp/issues/1962#issuecomment-2159194847) in [google/ksp](https://github.com/google/ksp)
+**2024-06-11** — merged PR [#280](https://github.com/slackhq/slack-lints/pull/280) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.6.0-alpha05"
 
-**2024-06-07** — opened PR [#1468](https://github.com/slackhq/circuit/pull/1468) to [slackhq/circuit](https://github.com/slackhq/circuit): "Commonize remaining star networking operations"
+**2024-06-11** — merged PR [#283](https://github.com/slackhq/slack-lints/pull/283) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.50"
 
-**2024-06-07** — created branch `z/starNetworking` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-06-11** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-07** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-06-11** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-07** — merged PR [#227](https://github.com/ZacSweers/redacted-compiler-plugin/pull/227) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
+**2024-06-11** — merged PR [#281](https://github.com/slackhq/slack-lints/pull/281) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.8"
 
-**2024-06-07** — deleted branch `renovate/kotlin-and-compiler-plugins` on [square/anvil](https://github.com/square/anvil)
+**2024-06-11** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-07** — merged PR [#891](https://github.com/square/anvil/pull/891) to [square/anvil](https://github.com/square/anvil): "Update Kotlin and compiler plugins"
+**2024-06-11** — merged PR [#284](https://github.com/slackhq/slack-lints/pull/284) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
