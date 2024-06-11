@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-11** — deleted branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-06-11** — merged PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
+
 **2024-06-11** — opened PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
 
 **2024-06-11** — created branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-11** — merged PR [#283](https://github.com/slackhq/slack-lints/pull/283) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.50"
 
 **2024-06-11** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-11** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-11** — merged PR [#281](https://github.com/slackhq/slack-lints/pull/281) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
