@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-11** — opened PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
+
+**2024-06-11** — created branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2024-06-11** — merged PR [#279](https://github.com/slackhq/slack-lints/pull/279) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.6.0-alpha05"
 
 **2024-06-11** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-11** — deleted branch `renovate/ktfmt` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-06-11** — merged PR [#281](https://github.com/slackhq/slack-lints/pull/281) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.8"
-
-**2024-06-11** — deleted branch `renovate/dev.zacsweers.autoservice` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-11** — merged PR [#284](https://github.com/slackhq/slack-lints/pull/284) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
