@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161705974) in [google/ksp](https://github.com/google/ksp)
+
+**2024-06-11** — opened issue [#1966](https://github.com/google/ksp/issues/1966) on [google/ksp](https://github.com/google/ksp): "KSP2: IllegalArgumentException: Failed requirement."
+
 **2024-06-11** — deleted branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-06-11** — merged PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-11** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-06-11** — merged PR [#280](https://github.com/slackhq/slack-lints/pull/280) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.6.0-alpha05"
-
-**2024-06-11** — merged PR [#283](https://github.com/slackhq/slack-lints/pull/283) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.50"
-
-**2024-06-11** — deleted branch `renovate/gradle-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
