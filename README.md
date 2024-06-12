@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-11** — deleted branch `z/updateToDevelocity` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
+
+**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161978028) in [google/ksp](https://github.com/google/ksp)
+
 **2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161893200) in [google/ksp](https://github.com/google/ksp)
 
 **2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161890020) in [google/ksp](https://github.com/google/ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-11** — deleted branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-06-11** — merged PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
-
-**2024-06-11** — opened PR [#1929](https://github.com/square/kotlinpoet/pull/1929) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "Fix complex alias handling in KsTypes"
-
-**2024-06-11** — created branch `z/complexAliases` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
