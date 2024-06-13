@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-13** — created branch `main` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-06-13** — deleted branch `z/k2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-13** — created repository on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-06-13** — merged PR [#175](https://github.com/slackhq/slack-lints/pull/175) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to K2"
 
-**2024-06-11** — deleted branch `z/updateToDevelocity` on [ZacSweers/fladle](https://github.com/ZacSweers/fladle)
+**2024-06-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161978028) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — closed PR [#616](https://github.com/ZacSweers/MoshiX/pull/616) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.0.20-saturn-411"
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161893200) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — merged PR [#609](https://github.com/ZacSweers/MoshiX/pull/609) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.0-1.0.22"
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161890020) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161882354) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — merged PR [#613](https://github.com/ZacSweers/MoshiX/pull/613) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161881468) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-11** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2161705974) in [google/ksp](https://github.com/google/ksp)
+**2024-06-13** — commented on [#615](https://github.com/ZacSweers/MoshiX/pull/615#issuecomment-2166652323) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-11** — opened issue [#1966](https://github.com/google/ksp/issues/1966) on [google/ksp](https://github.com/google/ksp): "KSP2: IllegalArgumentException: Failed requirement."
+**2024-06-13** — merged PR [#615](https://github.com/ZacSweers/MoshiX/pull/615) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "introduce immutable-adapters in readme.md"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
