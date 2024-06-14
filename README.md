@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-14** — opened issue [#4971](https://github.com/JetBrains/compose-multiplatform/issues/4971) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Compose compiler build failure on iOS simulator compilation: Compilation failed: No such value argument slot in IrCallImpl: 3 (total=3)"
+**2024-06-14** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-13** — deleted branch `z/k2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-06-14** — merged PR [#1507](https://github.com/ZacSweers/CatchUp/pull/1507) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-beta01"
 
-**2024-06-13** — merged PR [#175](https://github.com/slackhq/slack-lints/pull/175) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to K2"
+**2024-06-14** — deleted branch `renovate/com.dropbox.focus-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-13** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-14** — merged PR [#1500](https://github.com/ZacSweers/CatchUp/pull/1500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.dropbox.focus to v0.6.0"
 
-**2024-06-13** — closed PR [#616](https://github.com/ZacSweers/MoshiX/pull/616) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.0.20-saturn-411"
+**2024-06-14** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-13** — merged PR [#609](https://github.com/ZacSweers/MoshiX/pull/609) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.0-1.0.22"
+**2024-06-14** — merged PR [#1501](https://github.com/ZacSweers/CatchUp/pull/1501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha03"
 
-**2024-06-13** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-14** — deleted branch `renovate/ktfmt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-13** — merged PR [#613](https://github.com/ZacSweers/MoshiX/pull/613) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
+**2024-06-14** — merged PR [#1502](https://github.com/ZacSweers/CatchUp/pull/1502) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.51"
 
-**2024-06-13** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-14** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-13** — commented on [#615](https://github.com/ZacSweers/MoshiX/pull/615#issuecomment-2166652323) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-14** — merged PR [#1503](https://github.com/ZacSweers/CatchUp/pull/1503) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.21.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
