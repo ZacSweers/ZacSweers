@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-14** — opened issue [#4971](https://github.com/JetBrains/compose-multiplatform/issues/4971) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "Compose compiler build failure on iOS simulator compilation: Compilation failed: No such value argument slot in IrCallImpl: 3 (total=3)"
+
 **2024-06-13** — deleted branch `z/k2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-06-13** — merged PR [#175](https://github.com/slackhq/slack-lints/pull/175) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update to K2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-13** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-06-13** — commented on [#615](https://github.com/ZacSweers/MoshiX/pull/615#issuecomment-2166652323) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-13** — merged PR [#615](https://github.com/ZacSweers/MoshiX/pull/615) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "introduce immutable-adapters in readme.md"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
