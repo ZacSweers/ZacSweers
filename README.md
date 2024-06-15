@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-14** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-14** — deleted branch `renovate/reactivecircus-android-emulator-runner-digest` on [square/anvil](https://github.com/square/anvil)
 
-**2024-06-14** — merged PR [#1507](https://github.com/ZacSweers/CatchUp/pull/1507) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-beta01"
+**2024-06-14** — merged PR [#1008](https://github.com/square/anvil/pull/1008) to [square/anvil](https://github.com/square/anvil): "Update reactivecircus/android-emulator-runner digest to 77986be"
 
-**2024-06-14** — deleted branch `renovate/com.dropbox.focus-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-14** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-06-14** — merged PR [#1500](https://github.com/ZacSweers/CatchUp/pull/1500) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.dropbox.focus to v0.6.0"
+**2024-06-14** — merged PR [#117](https://github.com/ZacSweers/auto-service-ksp/pull/117) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 
-**2024-06-14** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-14** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-14** — merged PR [#1501](https://github.com/ZacSweers/CatchUp/pull/1501) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha03"
+**2024-06-14** — merged PR [#617](https://github.com/ZacSweers/MoshiX/pull/617) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.51"
 
-**2024-06-14** — deleted branch `renovate/ktfmt` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-14** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-14** — merged PR [#1502](https://github.com/ZacSweers/CatchUp/pull/1502) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.51"
+**2024-06-14** — merged PR [#1512](https://github.com/ZacSweers/CatchUp/pull/1512) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.5"
 
-**2024-06-14** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-14** — merged PR [#1503](https://github.com/ZacSweers/CatchUp/pull/1503) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.21.0"
+**2024-06-14** — merged PR [#1511](https://github.com/ZacSweers/CatchUp/pull/1511) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
