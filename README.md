@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-15** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2169407092) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-14** — deleted branch `renovate/reactivecircus-android-emulator-runner-digest` on [square/anvil](https://github.com/square/anvil)
-
-**2024-06-14** — merged PR [#1008](https://github.com/square/anvil/pull/1008) to [square/anvil](https://github.com/square/anvil): "Update reactivecircus/android-emulator-runner digest to 77986be"
-
-**2024-06-14** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-06-14** — merged PR [#117](https://github.com/ZacSweers/auto-service-ksp/pull/117) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
-
-**2024-06-14** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-14** — merged PR [#617](https://github.com/ZacSweers/MoshiX/pull/617) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.51"
-
-**2024-06-14** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-14** — merged PR [#1512](https://github.com/ZacSweers/CatchUp/pull/1512) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.5"
-
-**2024-06-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-06-16** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
