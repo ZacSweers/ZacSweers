@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-17** — merged PR [#1](https://github.com/ZacSweers/FieldSpottr/pull/1) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Set up CI"
+
 **2024-06-17** — opened PR [#1](https://github.com/ZacSweers/FieldSpottr/pull/1) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Set up CI"
 
 **2024-06-17** — created branch `z/ci` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-14** — merged PR [#1008](https://github.com/square/anvil/pull/1008) to [square/anvil](https://github.com/square/anvil): "Update reactivecircus/android-emulator-runner digest to 77986be"
 
 **2024-06-14** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-06-14** — merged PR [#117](https://github.com/ZacSweers/auto-service-ksp/pull/117) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
