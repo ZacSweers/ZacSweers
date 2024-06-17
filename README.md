@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-17** — opened issue [#4990](https://github.com/JetBrains/compose-multiplatform/issues/4990) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "ModalBottomSheet enter animation on iOS is missing (or too fast)"
+
+**2024-06-17** — commented on [#4971](https://github.com/JetBrains/compose-multiplatform/issues/4971#issuecomment-2173894960) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+
 **2024-06-15** — commented on [#196](https://github.com/ZacSweers/kotlin-compile-testing/pull/196#issuecomment-2169407092) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-06-14** — deleted branch `renovate/reactivecircus-android-emulator-runner-digest` on [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-14** — merged PR [#617](https://github.com/ZacSweers/MoshiX/pull/617) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.51"
 
 **2024-06-14** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-14** — merged PR [#1512](https://github.com/ZacSweers/CatchUp/pull/1512) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.5"
-
-**2024-06-14** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
