@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-17** — opened PR [#1](https://github.com/ZacSweers/FieldSpottr/pull/1) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Set up CI"
+
+**2024-06-17** — created branch `z/ci` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-17** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2174207486) in [square/anvil](https://github.com/square/anvil)
+
 **2024-06-17** — opened issue [#4990](https://github.com/JetBrains/compose-multiplatform/issues/4990) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "ModalBottomSheet enter animation on iOS is missing (or too fast)"
 
 **2024-06-17** — commented on [#4971](https://github.com/JetBrains/compose-multiplatform/issues/4971#issuecomment-2173894960) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-14** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-06-14** — merged PR [#117](https://github.com/ZacSweers/auto-service-ksp/pull/117) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
-
-**2024-06-14** — deleted branch `renovate/ktfmt` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-14** — merged PR [#617](https://github.com/ZacSweers/MoshiX/pull/617) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.51"
-
-**2024-06-14** — deleted branch `renovate/com.gradle.develocity-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
