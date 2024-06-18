@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-18** — opened PR [#883](https://github.com/slackhq/slack-gradle-plugin/pull/883) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline kotlin configuration and JDK setup"
+
+**2024-06-18** — created branch `z/languageVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-06-18** — deleted branch `renovate/fastlane-2.x-lockfile` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-18** — merged PR [#5](https://github.com/ZacSweers/FieldSpottr/pull/5) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.221.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-17** — merged PR [#1](https://github.com/ZacSweers/FieldSpottr/pull/1) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Set up CI"
 
 **2024-06-17** — opened PR [#1](https://github.com/ZacSweers/FieldSpottr/pull/1) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Set up CI"
-
-**2024-06-17** — created branch `z/ci` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-17** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2174207486) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
