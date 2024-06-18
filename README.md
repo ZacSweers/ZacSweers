@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-18** — deleted branch `renovate/fastlane-2.x-lockfile` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-18** — merged PR [#5](https://github.com/ZacSweers/FieldSpottr/pull/5) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.221.0"
+
 **2024-06-17** — deleted branch `renovate/agp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-17** — merged PR [#3](https://github.com/ZacSweers/FieldSpottr/pull/3) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-17** — created branch `z/ci` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-17** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2174207486) in [square/anvil](https://github.com/square/anvil)
-
-**2024-06-17** — opened issue [#4990](https://github.com/JetBrains/compose-multiplatform/issues/4990) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "ModalBottomSheet enter animation on iOS is missing (or too fast)"
-
-**2024-06-17** — commented on [#4971](https://github.com/JetBrains/compose-multiplatform/issues/4971#issuecomment-2173894960) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
