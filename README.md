@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-18** — commented on [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198#issuecomment-2177143990) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-06-18** — deleted branch `z/languageVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-06-18** — merged PR [#883](https://github.com/slackhq/slack-gradle-plugin/pull/883) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline kotlin configuration and JDK setup"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-17** — merged PR [#3](https://github.com/ZacSweers/FieldSpottr/pull/3) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.0"
 
 **2024-06-17** — deleted branch `renovate/configure` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-17** — merged PR [#2](https://github.com/ZacSweers/FieldSpottr/pull/2) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Configure Renovate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
