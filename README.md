@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-19** — opened PR [#1856](https://github.com/square/moshi/pull/1856) to [square/moshi](https://github.com/square/moshi): "Don't replace nullable absent types with null"
+
+**2024-06-19** — created branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
+
+**2024-06-19** — commented on [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794#issuecomment-2179240478) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+**2024-06-19** — opened issue [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "New sonatype credential system breaks staging profiles resolution"
+
 **2024-06-19** — merged PR [#228](https://github.com/ZacSweers/redacted-compiler-plugin/pull/228) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 692973e"
 
 **2024-06-19** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-19** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-06-19** — merged PR [#618](https://github.com/ZacSweers/MoshiX/pull/618) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha06"
-
-**2024-06-19** — commented on [#1485](https://github.com/slackhq/circuit/issues/1485#issuecomment-2177599860) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-18** — commented on [#198](https://github.com/ZacSweers/kotlin-compile-testing/issues/198#issuecomment-2177143990) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-18** — deleted branch `z/languageVersion` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-06-18** — merged PR [#883](https://github.com/slackhq/slack-gradle-plugin/pull/883) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline kotlin configuration and JDK setup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
