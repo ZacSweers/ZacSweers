@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-19** — opened PR [#1856](https://github.com/square/moshi/pull/1856) to [square/moshi](https://github.com/square/moshi): "Don't replace nullable absent types with null"
+**2024-06-20** — commented on [#1517](https://github.com/ZacSweers/CatchUp/pull/1517#issuecomment-2181169430) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-19** — created branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
+**2024-06-20** — deleted branch `renovate/fastlane-2.x-lockfile` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2024-06-19** — commented on [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794#issuecomment-2179240478) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+**2024-06-20** — merged PR [#6](https://github.com/ZacSweers/FieldSpottr/pull/6) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.221.1"
 
-**2024-06-19** — opened issue [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "New sonatype credential system breaks staging profiles resolution"
+**2024-06-20** — created branch `z/cupertino` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2024-06-19** — merged PR [#228](https://github.com/ZacSweers/redacted-compiler-plugin/pull/228) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 692973e"
+**2024-06-20** — deleted branch `renovate/io.github.pdvrieze.xmlutil-serialization-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-19** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-06-20** — merged PR [#1515](https://github.com/ZacSweers/CatchUp/pull/1515) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:serialization to v0.90.1"
 
-**2024-06-19** — deleted branch `renovate/ktfmt` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-06-20** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-19** — merged PR [#226](https://github.com/ZacSweers/redacted-compiler-plugin/pull/226) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.51"
+**2024-06-20** — merged PR [#1516](https://github.com/ZacSweers/CatchUp/pull/1516) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.10.0"
 
-**2024-06-19** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-20** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-19** — merged PR [#618](https://github.com/ZacSweers/MoshiX/pull/618) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha06"
+**2024-06-20** — merged PR [#1518](https://github.com/ZacSweers/CatchUp/pull/1518) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
