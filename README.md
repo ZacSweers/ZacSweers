@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-20** — commented on [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794#issuecomment-2181535893) in [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin)
+
+**2024-06-20** — closed issue [#794](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/794) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "New sonatype credential system breaks staging profiles resolution"
+
+**2024-06-20** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2181509512) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2024-06-20** — commented on [#1517](https://github.com/ZacSweers/CatchUp/pull/1517#issuecomment-2181169430) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-20** — deleted branch `renovate/fastlane-2.x-lockfile` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-20** — merged PR [#1515](https://github.com/ZacSweers/CatchUp/pull/1515) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:serialization to v0.90.1"
 
 **2024-06-20** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-20** — merged PR [#1516](https://github.com/ZacSweers/CatchUp/pull/1516) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.10.0"
-
-**2024-06-20** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-20** — merged PR [#1518](https://github.com/ZacSweers/CatchUp/pull/1518) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
