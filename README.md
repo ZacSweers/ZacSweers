@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-21** — deleted branch `dependabot/gradle/com.vanniktech.maven.publish-0.29.0` on [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop)
+**2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-21** — merged PR [#87](https://github.com/slackhq/moshi-gson-interop/pull/87) to [slackhq/moshi-gson-interop](https://github.com/slackhq/moshi-gson-interop): "Bump com.vanniktech.maven.publish from 0.25.3 to 0.29.0"
+**2024-06-21** — merged PR [#290](https://github.com/slackhq/slack-lints/pull/290) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.29.0"
 
-**2024-06-21** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-21** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-21** — merged PR [#619](https://github.com/ZacSweers/MoshiX/pull/619) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha07"
+**2024-06-21** — merged PR [#289](https://github.com/slackhq/slack-lints/pull/289) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.6.0-alpha07"
 
-**2024-06-21** — merged PR [#229](https://github.com/ZacSweers/redacted-compiler-plugin/pull/229) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.29.0"
+**2024-06-21** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-06-21** — merged PR [#288](https://github.com/slackhq/slack-lints/pull/288) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.6.0-alpha07"
 
-**2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-21** — deleted branch `renovate/com.google.devtools.ksp-2.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-06-21** — merged PR [#620](https://github.com/ZacSweers/MoshiX/pull/620) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.29.0"
+**2024-06-21** — merged PR [#286](https://github.com/slackhq/slack-lints/pull/286) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.0-1.0.22"
 
-**2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-06-21** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-21** — merged PR [#119](https://github.com/ZacSweers/auto-service-ksp/pull/119) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.29.0"
+**2024-06-21** — merged PR [#1522](https://github.com/ZacSweers/CatchUp/pull/1522) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
