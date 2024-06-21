@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-21** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-2183324224) in [square/anvil](https://github.com/square/anvil)
+
 **2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-06-21** — merged PR [#290](https://github.com/slackhq/slack-lints/pull/290) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.29.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-21** — merged PR [#286](https://github.com/slackhq/slack-lints/pull/286) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.0-1.0.22"
 
 **2024-06-21** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-21** — merged PR [#1522](https://github.com/ZacSweers/CatchUp/pull/1522) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
