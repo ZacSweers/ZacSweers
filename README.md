@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-22** — opened PR [#621](https://github.com/ZacSweers/MoshiX/pull/621) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.0.20"
+
+**2024-06-22** — created branch `z/k2020` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-22** — opened PR [#230](https://github.com/ZacSweers/redacted-compiler-plugin/pull/230) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.0.20"
+
+**2024-06-22** — created branch `z/k2020` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-06-22** — opened PR [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.0.20"
+
+**2024-06-22** — created branch `z/2020` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-06-22** — merged PR [#256](https://github.com/ZacSweers/kotlin-compile-testing/pull/256) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
 
 **2024-06-22** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-22** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-06-22** — merged PR [#258](https://github.com/ZacSweers/kotlin-compile-testing/pull/258) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to 692973e"
-
-**2024-06-22** — merged PR [#259](https://github.com/ZacSweers/kotlin-compile-testing/pull/259) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.174"
-
-**2024-06-22** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-22** — merged PR [#262](https://github.com/ZacSweers/kotlin-compile-testing/pull/262) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.29.0"
-
-**2024-06-22** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-21** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-2183324224) in [square/anvil](https://github.com/square/anvil)
-
-**2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
