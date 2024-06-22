@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-22** — merged PR [#256](https://github.com/ZacSweers/kotlin-compile-testing/pull/256) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency dev.zacsweers.autoservice:auto-service-ksp to v1.2.0"
+
+**2024-06-22** — deleted branch `renovate/dev.zacsweers.autoservice-auto-service-ksp-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-22** — deleted branch `renovate/actions-checkout-digest` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-22** — merged PR [#258](https://github.com/ZacSweers/kotlin-compile-testing/pull/258) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to 692973e"
+
+**2024-06-22** — merged PR [#259](https://github.com/ZacSweers/kotlin-compile-testing/pull/259) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.174"
+
+**2024-06-22** — deleted branch `renovate/io.github.classgraph-classgraph-4.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-22** — merged PR [#262](https://github.com/ZacSweers/kotlin-compile-testing/pull/262) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.29.0"
+
+**2024-06-22** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-06-21** — commented on [#875](https://github.com/square/anvil/issues/875#issuecomment-2183324224) in [square/anvil](https://github.com/square/anvil)
 
 **2024-06-21** — deleted branch `renovate/com.vanniktech.maven.publish-0.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-21** — merged PR [#290](https://github.com/slackhq/slack-lints/pull/290) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.29.0"
-
-**2024-06-21** — deleted branch `renovate/com.android.lint-8.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-21** — merged PR [#289](https://github.com/slackhq/slack-lints/pull/289) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.6.0-alpha07"
-
-**2024-06-21** — deleted branch `renovate/lint` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-21** — merged PR [#288](https://github.com/slackhq/slack-lints/pull/288) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.6.0-alpha07"
-
-**2024-06-21** — deleted branch `renovate/com.google.devtools.ksp-2.x` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-06-21** — merged PR [#286](https://github.com/slackhq/slack-lints/pull/286) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.0-1.0.22"
-
-**2024-06-21** — deleted branch `renovate/com.github.triplet.play-3.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
