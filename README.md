@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-22** — deleted branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-22** — closed PR [#272](https://github.com/ZacSweers/MoshiX/pull/272) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR sealed subclasses prototype"
+
+**2024-06-22** — deleted branch `z/bytecode` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-22** — commented on [#43](https://github.com/ZacSweers/MoshiX/pull/43#issuecomment-2184356736) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-22** — closed PR [#43](https://github.com/ZacSweers/MoshiX/pull/43) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add option to generate bytecode for bridge calls"
+
+**2024-06-22** — commented on [#43](https://github.com/ZacSweers/MoshiX/pull/43#issuecomment-2184356632) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-22** — opened PR [#622](https://github.com/ZacSweers/MoshiX/pull/622) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't replace nullable absent properties with null"
+
+**2024-06-22** — created branch `z/absencenull` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-06-22** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-2184201485) in [google/ksp](https://github.com/google/ksp)
 
 **2024-06-22** — opened PR [#1858](https://github.com/square/moshi/pull/1858) to [square/moshi](https://github.com/square/moshi): "Generate bytecode directly to avoid reflection to invoke defaults constructors"
-
-**2024-06-22** — created branch `z/bytecodeBridge` on [square/moshi](https://github.com/square/moshi)
-
-**2024-06-22** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-2184191057) in [google/ksp](https://github.com/google/ksp)
-
-**2024-06-22** — opened PR [#621](https://github.com/ZacSweers/MoshiX/pull/621) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.0.20"
-
-**2024-06-22** — created branch `z/k2020` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — opened PR [#230](https://github.com/ZacSweers/redacted-compiler-plugin/pull/230) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.0.20"
-
-**2024-06-22** — created branch `z/k2020` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-06-22** — opened PR [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.0.20"
-
-**2024-06-22** — created branch `z/2020` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
