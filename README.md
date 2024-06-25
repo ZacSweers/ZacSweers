@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-25** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-25** — merged PR [#1523](https://github.com/ZacSweers/CatchUp/pull/1523) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0"
+
+**2024-06-25** — deleted branch `renovate/androidx.test.ext-junit-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-25** — merged PR [#1524](https://github.com/ZacSweers/CatchUp/pull/1524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.2.0"
+
+**2024-06-25** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-06-25** — merged PR [#1525](https://github.com/ZacSweers/CatchUp/pull/1525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.1"
+
 **2024-06-22** — deleted branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-06-22** — closed PR [#272](https://github.com/ZacSweers/MoshiX/pull/272) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR sealed subclasses prototype"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-22** — deleted branch `z/bytecode` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-06-22** — commented on [#43](https://github.com/ZacSweers/MoshiX/pull/43#issuecomment-2184356736) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — closed PR [#43](https://github.com/ZacSweers/MoshiX/pull/43) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add option to generate bytecode for bridge calls"
-
-**2024-06-22** — commented on [#43](https://github.com/ZacSweers/MoshiX/pull/43#issuecomment-2184356632) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — opened PR [#622](https://github.com/ZacSweers/MoshiX/pull/622) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't replace nullable absent properties with null"
-
-**2024-06-22** — created branch `z/absencenull` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — commented on [#95](https://github.com/google/ksp/issues/95#issuecomment-2184201485) in [google/ksp](https://github.com/google/ksp)
-
-**2024-06-22** — opened PR [#1858](https://github.com/square/moshi/pull/1858) to [square/moshi](https://github.com/square/moshi): "Generate bytecode directly to avoid reflection to invoke defaults constructors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
