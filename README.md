@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-25** — closed issue [#10](https://github.com/ZacSweers/FieldSpottr/issues/10) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Red-out permit blocks"
+
+**2024-06-25** — deleted branch `z/errorBlocks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-25** — merged PR [#11](https://github.com/ZacSweers/FieldSpottr/pull/11) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Mark permit blocks in red"
+
+**2024-06-25** — opened PR [#11](https://github.com/ZacSweers/FieldSpottr/pull/11) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Mark permit blocks in red"
+
+**2024-06-25** — created branch `z/errorBlocks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-25** — deleted branch `renovate/ktor-monorepo` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-25** — merged PR [#7](https://github.com/ZacSweers/FieldSpottr/pull/7) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v2.3.12"
+
 **2024-06-25** — opened issue [#10](https://github.com/ZacSweers/FieldSpottr/issues/10) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Red-out permit blocks"
 
 **2024-06-25** — opened issue [#9](https://github.com/ZacSweers/FieldSpottr/issues/9) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make fields in area swipeable"
 
 **2024-06-25** — opened issue [#8](https://github.com/ZacSweers/FieldSpottr/issues/8) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show current time with red line"
-
-**2024-06-25** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-25** — merged PR [#1523](https://github.com/ZacSweers/CatchUp/pull/1523) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0"
-
-**2024-06-25** — deleted branch `renovate/androidx.test.ext-junit-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-25** — merged PR [#1524](https://github.com/ZacSweers/CatchUp/pull/1524) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.2.0"
-
-**2024-06-25** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-25** — merged PR [#1525](https://github.com/ZacSweers/CatchUp/pull/1525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.1"
-
-**2024-06-22** — deleted branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
