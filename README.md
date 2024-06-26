@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-26** — commented on [#8](https://github.com/ZacSweers/FieldSpottr/issues/8#issuecomment-2190752491) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-26** — closed issue [#8](https://github.com/ZacSweers/FieldSpottr/issues/8) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show current time with red line"
+
 **2024-06-25** — closed issue [#10](https://github.com/ZacSweers/FieldSpottr/issues/10) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Red-out permit blocks"
 
 **2024-06-25** — deleted branch `z/errorBlocks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-25** — merged PR [#7](https://github.com/ZacSweers/FieldSpottr/pull/7) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v2.3.12"
 
 **2024-06-25** — opened issue [#10](https://github.com/ZacSweers/FieldSpottr/issues/10) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Red-out permit blocks"
-
-**2024-06-25** — opened issue [#9](https://github.com/ZacSweers/FieldSpottr/issues/9) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make fields in area swipeable"
-
-**2024-06-25** — opened issue [#8](https://github.com/ZacSweers/FieldSpottr/issues/8) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show current time with red line"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
