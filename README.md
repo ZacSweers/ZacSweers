@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-25** — opened issue [#10](https://github.com/ZacSweers/FieldSpottr/issues/10) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Red-out permit blocks"
+
+**2024-06-25** — opened issue [#9](https://github.com/ZacSweers/FieldSpottr/issues/9) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make fields in area swipeable"
+
+**2024-06-25** — opened issue [#8](https://github.com/ZacSweers/FieldSpottr/issues/8) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show current time with red line"
+
 **2024-06-25** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-25** — merged PR [#1523](https://github.com/ZacSweers/CatchUp/pull/1523) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-25** — merged PR [#1525](https://github.com/ZacSweers/CatchUp/pull/1525) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.1"
 
 **2024-06-22** — deleted branch `z/reflexive` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — closed PR [#272](https://github.com/ZacSweers/MoshiX/pull/272) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "IR sealed subclasses prototype"
-
-**2024-06-22** — deleted branch `z/bytecode` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-22** — commented on [#43](https://github.com/ZacSweers/MoshiX/pull/43#issuecomment-2184356736) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
