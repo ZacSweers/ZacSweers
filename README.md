@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-26** — opened PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "About UI + licenses"
+
+**2024-06-26** — created branch `z/about` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-06-26** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2192662217) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
 
 **2024-06-26** — deleted branch `z/newerBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-26** — merged PR [#1527](https://github.com/ZacSweers/CatchUp/pull/1527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta04"
 
 **2024-06-26** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-26** — merged PR [#1528](https://github.com/ZacSweers/CatchUp/pull/1528) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.1"
-
-**2024-06-26** — deleted branch `renovate/androidx.annotation-annotation-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
