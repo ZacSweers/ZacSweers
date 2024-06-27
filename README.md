@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-27** — closed PR [#250](https://github.com/ZacSweers/kotlin-compile-testing/pull/250) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix JS tests"
+
+**2024-06-27** — commented on [#250](https://github.com/ZacSweers/kotlin-compile-testing/pull/250#issuecomment-2195194698) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-27** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-27** — closed PR [#261](https://github.com/ZacSweers/kotlin-compile-testing/pull/261) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v242.18561"
+
+**2024-06-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-27** — merged PR [#264](https://github.com/ZacSweers/kotlin-compile-testing/pull/264) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.3"
+
+**2024-06-27** — merged PR [#260](https://github.com/ZacSweers/kotlin-compile-testing/pull/260) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Capture diagnostics with a severity level"
+
+**2024-06-27** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2195170448) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
+**2024-06-27** — commented on [#624](https://github.com/ZacSweers/MoshiX/issues/624#issuecomment-2195167736) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-06-26** — opened PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "About UI + licenses"
-
-**2024-06-26** — created branch `z/about` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-26** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2192662217) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2024-06-26** — deleted branch `z/newerBenchmark` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-26** — merged PR [#1495](https://github.com/slackhq/circuit/pull/1495) to [slackhq/circuit](https://github.com/slackhq/circuit): "Adopt newer releases of androidx.benchmark"
-
-**2024-06-26** — deleted branch `renovate/compose` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-26** — merged PR [#1526](https://github.com/ZacSweers/CatchUp/pull/1526) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta04"
-
-**2024-06-26** — deleted branch `renovate/compose.material3` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-26** — merged PR [#1527](https://github.com/ZacSweers/CatchUp/pull/1527) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta04"
-
-**2024-06-26** — deleted branch `renovate/androidx.fragment-fragment-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
