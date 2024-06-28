@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — created branch `z/fixPackages` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-28** — commented on [#626](https://github.com/ZacSweers/MoshiX/pull/626#issuecomment-2197460291) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-28** — commented on [#150](https://github.com/slackhq/keeper/pull/150#issuecomment-2197459925) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2024-06-28** — opened PR [#150](https://github.com/slackhq/keeper/pull/150) to [slackhq/keeper](https://github.com/slackhq/keeper): "Misc repo infra updates"
+
+**2024-06-28** — created branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2024-06-28** — created tag `1.0.0-9` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-28** — commented on [#149](https://github.com/slackhq/keeper/pull/149#issuecomment-2197427129) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
 **2024-06-28** — deleted branch `z/about` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-28** — merged PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Productionizing"
 
 **2024-06-28** — opened issue [#2048](https://github.com/bugsnag/bugsnag-android/issues/2048) on [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android): "Telemetry can be obfuscated but is looked up reflectively via EnumSet"
-
-**2024-06-27** — deleted branch `renovate/androidx.test.ext-junit-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-27** — merged PR [#1531](https://github.com/ZacSweers/CatchUp/pull/1531) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.2.1"
-
-**2024-06-27** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-27** — merged PR [#1532](https://github.com/ZacSweers/CatchUp/pull/1532) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.1"
-
-**2024-06-27** — deleted branch `renovate/io.github.pdvrieze.xmlutil-core-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-27** — merged PR [#1514](https://github.com/ZacSweers/CatchUp/pull/1514) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.1"
-
-**2024-06-27** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
