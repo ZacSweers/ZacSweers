@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — closed issue [#124](https://github.com/slackhq/keeper/issues/124) on [slackhq/keeper](https://github.com/slackhq/keeper): "Plugin doesn't work on Windows"
+
+**2024-06-28** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-2197637705) in [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2024-06-28** — created tag `0.16.1` on [slackhq/keeper](https://github.com/slackhq/keeper)
+
+**2024-06-28** — created tag `0.5.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-28** — created tag `0.27.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-06-28** — deleted branch `z/fixPackages` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-06-28** — merged PR [#266](https://github.com/ZacSweers/kotlin-compile-testing/pull/266) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix package names"
+
 **2024-06-28** — deleted branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
 **2024-06-28** — merged PR [#150](https://github.com/slackhq/keeper/pull/150) to [slackhq/keeper](https://github.com/slackhq/keeper): "Misc repo infra updates"
 
 **2024-06-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-28** — closed PR [#623](https://github.com/ZacSweers/MoshiX/pull/623) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.0-saturn-419"
-
-**2024-06-28** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-28** — merged PR [#627](https://github.com/ZacSweers/MoshiX/pull/627) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha08"
-
-**2024-06-28** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-28** — merged PR [#625](https://github.com/ZacSweers/MoshiX/pull/625) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.4.3"
-
-**2024-06-28** — commented on [#626](https://github.com/ZacSweers/MoshiX/pull/626#issuecomment-2197616753) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-28** — closed issue [#624](https://github.com/ZacSweers/MoshiX/issues/624) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Malformed generated Proguard rules for classes with `data` in package"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
