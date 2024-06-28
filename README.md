@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — opened PR [#266](https://github.com/ZacSweers/kotlin-compile-testing/pull/266) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix package names"
+
 **2024-06-28** — created branch `z/fixPackages` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-06-28** — commented on [#626](https://github.com/ZacSweers/MoshiX/pull/626#issuecomment-2197460291) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-28** — deleted branch `z/about` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-28** — merged PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Productionizing"
-
-**2024-06-28** — opened issue [#2048](https://github.com/bugsnag/bugsnag-android/issues/2048) on [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android): "Telemetry can be obfuscated but is looked up reflectively via EnumSet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
