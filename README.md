@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-27** — closed PR [#250](https://github.com/ZacSweers/kotlin-compile-testing/pull/250) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix JS tests"
+**2024-06-27** — deleted branch `renovate/androidx.test.ext-junit-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-27** — commented on [#250](https://github.com/ZacSweers/kotlin-compile-testing/pull/250#issuecomment-2195194698) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-27** — merged PR [#1531](https://github.com/ZacSweers/CatchUp/pull/1531) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.2.1"
 
-**2024-06-27** — deleted branch `renovate/idea` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-27** — deleted branch `renovate/androidx.test-monitor-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-27** — closed PR [#261](https://github.com/ZacSweers/kotlin-compile-testing/pull/261) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v242.18561"
+**2024-06-27** — merged PR [#1532](https://github.com/ZacSweers/CatchUp/pull/1532) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.1"
 
-**2024-06-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-27** — deleted branch `renovate/io.github.pdvrieze.xmlutil-core-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-27** — merged PR [#264](https://github.com/ZacSweers/kotlin-compile-testing/pull/264) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.3"
+**2024-06-27** — merged PR [#1514](https://github.com/ZacSweers/CatchUp/pull/1514) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.1"
 
-**2024-06-27** — merged PR [#260](https://github.com/ZacSweers/kotlin-compile-testing/pull/260) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Capture diagnostics with a severity level"
+**2024-06-27** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-27** — commented on [#154](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/154#issuecomment-2195170448) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+**2024-06-27** — merged PR [#1520](https://github.com/ZacSweers/CatchUp/pull/1520) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.23.0"
 
-**2024-06-27** — commented on [#624](https://github.com/ZacSweers/MoshiX/issues/624#issuecomment-2195167736) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-06-26** — opened PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "About UI + licenses"
+**2024-06-27** — merged PR [#1533](https://github.com/ZacSweers/CatchUp/pull/1533) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
