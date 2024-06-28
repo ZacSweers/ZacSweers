@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — opened issue [#2048](https://github.com/bugsnag/bugsnag-android/issues/2048) on [bugsnag/bugsnag-android](https://github.com/bugsnag/bugsnag-android): "Telemetry can be obfuscated but is looked up reflectively via EnumSet"
+
 **2024-06-27** — deleted branch `renovate/androidx.test.ext-junit-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-06-27** — merged PR [#1531](https://github.com/ZacSweers/CatchUp/pull/1531) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.2.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-27** — merged PR [#1520](https://github.com/ZacSweers/CatchUp/pull/1520) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.23.0"
 
 **2024-06-27** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-06-27** — merged PR [#1533](https://github.com/ZacSweers/CatchUp/pull/1533) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
