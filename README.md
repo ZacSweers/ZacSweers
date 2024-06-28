@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-06-28** — opened PR [#266](https://github.com/ZacSweers/kotlin-compile-testing/pull/266) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix package names"
+**2024-06-28** — deleted branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
 
-**2024-06-28** — created branch `z/fixPackages` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-06-28** — merged PR [#150](https://github.com/slackhq/keeper/pull/150) to [slackhq/keeper](https://github.com/slackhq/keeper): "Misc repo infra updates"
 
-**2024-06-28** — commented on [#626](https://github.com/ZacSweers/MoshiX/pull/626#issuecomment-2197460291) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-06-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-28** — commented on [#150](https://github.com/slackhq/keeper/pull/150#issuecomment-2197459925) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-06-28** — closed PR [#623](https://github.com/ZacSweers/MoshiX/pull/623) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.0-saturn-419"
 
-**2024-06-28** — opened PR [#150](https://github.com/slackhq/keeper/pull/150) to [slackhq/keeper](https://github.com/slackhq/keeper): "Misc repo infra updates"
+**2024-06-28** — deleted branch `renovate/com.android.lint-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-28** — created branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-06-28** — merged PR [#627](https://github.com/ZacSweers/MoshiX/pull/627) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-alpha08"
 
-**2024-06-28** — created tag `1.0.0-9` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-06-28** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-28** — commented on [#149](https://github.com/slackhq/keeper/pull/149#issuecomment-2197427129) in [slackhq/keeper](https://github.com/slackhq/keeper)
+**2024-06-28** — merged PR [#625](https://github.com/ZacSweers/MoshiX/pull/625) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.truth:truth to v1.4.3"
 
-**2024-06-28** — deleted branch `z/about` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-06-28** — commented on [#626](https://github.com/ZacSweers/MoshiX/pull/626#issuecomment-2197616753) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2024-06-28** — merged PR [#12](https://github.com/ZacSweers/FieldSpottr/pull/12) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Productionizing"
+**2024-06-28** — closed issue [#624](https://github.com/ZacSweers/MoshiX/issues/624) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Malformed generated Proguard rules for classes with `data` in package"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
