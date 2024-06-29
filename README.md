@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — opened PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
+
+**2024-06-28** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-06-28** — closed issue [#124](https://github.com/slackhq/keeper/issues/124) on [slackhq/keeper](https://github.com/slackhq/keeper): "Plugin doesn't work on Windows"
 
 **2024-06-28** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-2197637705) in [slackhq/keeper](https://github.com/slackhq/keeper)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-28** — merged PR [#266](https://github.com/ZacSweers/kotlin-compile-testing/pull/266) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix package names"
 
 **2024-06-28** — deleted branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-06-28** — merged PR [#150](https://github.com/slackhq/keeper/pull/150) to [slackhq/keeper](https://github.com/slackhq/keeper): "Misc repo infra updates"
-
-**2024-06-28** — deleted branch `renovate/kotlin-monorepo` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
