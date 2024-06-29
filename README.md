@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-28** — created tag `10` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-28** — deleted branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-28** — merged PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
+
 **2024-06-28** — opened PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
 
 **2024-06-28** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-28** — created tag `0.5.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-06-28** — created tag `0.27.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-06-28** — deleted branch `z/fixPackages` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-28** — merged PR [#266](https://github.com/ZacSweers/kotlin-compile-testing/pull/266) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Fix package names"
-
-**2024-06-28** — deleted branch `z/updates` on [slackhq/keeper](https://github.com/slackhq/keeper)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
