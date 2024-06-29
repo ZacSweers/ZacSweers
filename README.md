@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-06-29** — deleted branch `renovate/aboutlicenses` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-06-29** — merged PR [#14](https://github.com/ZacSweers/FieldSpottr/pull/14) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.2.2"
+
+**2024-06-29** — commented on [#1503](https://github.com/slackhq/circuit/issues/1503#issuecomment-2198297302) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-06-28** — created tag `10` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-28** — deleted branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-28** — closed issue [#124](https://github.com/slackhq/keeper/issues/124) on [slackhq/keeper](https://github.com/slackhq/keeper): "Plugin doesn't work on Windows"
 
 **2024-06-28** — commented on [#124](https://github.com/slackhq/keeper/issues/124#issuecomment-2197637705) in [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-06-28** — created tag `0.16.1` on [slackhq/keeper](https://github.com/slackhq/keeper)
-
-**2024-06-28** — created tag `0.5.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-06-28** — created tag `0.27.2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
