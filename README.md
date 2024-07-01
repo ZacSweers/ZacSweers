@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-01** — created tag `v11` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-01** — deleted tag `v` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-01** — created tag `v` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-07-01** — commented on [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827#issuecomment-2200667693) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-06-29** — deleted branch `renovate/aboutlicenses` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-06-28** — deleted branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-06-28** — merged PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
-
-**2024-06-28** — opened PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
-
-**2024-06-28** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-28** — closed issue [#124](https://github.com/slackhq/keeper/issues/124) on [slackhq/keeper](https://github.com/slackhq/keeper): "Plugin doesn't work on Windows"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
