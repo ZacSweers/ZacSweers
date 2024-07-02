@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-01** — deleted branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-01** — merged PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
+
+**2024-07-01** — opened PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
+
+**2024-07-01** — created branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-01** — commented on [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827#issuecomment-2200894649) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-07-01** — created tag `v13` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-01** — created tag `v12` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-07-01** — created tag `v11` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-01** — deleted tag `v` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-01** — created tag `v` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — commented on [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827#issuecomment-2200667693) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-06-29** — deleted branch `renovate/aboutlicenses` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-29** — merged PR [#14](https://github.com/ZacSweers/FieldSpottr/pull/14) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.2.2"
-
-**2024-06-29** — commented on [#1503](https://github.com/slackhq/circuit/issues/1503#issuecomment-2198297302) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-06-28** — created tag `10` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-28** — deleted branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-06-28** — merged PR [#13](https://github.com/ZacSweers/FieldSpottr/pull/13) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Small fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
