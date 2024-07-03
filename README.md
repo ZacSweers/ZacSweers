@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-03** — created branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-07-02** — created branch `z/moreSwiftUiWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-02** — deleted branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-01** — merged PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
 
 **2024-07-01** — opened PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
-
-**2024-07-01** — created branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
