@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-02** — deleted branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
+
+**2024-07-02** — commented on [#1856](https://github.com/square/moshi/pull/1856#issuecomment-2204251487) in [square/moshi](https://github.com/square/moshi)
+
+**2024-07-02** — closed PR [#1856](https://github.com/square/moshi/pull/1856) to [square/moshi](https://github.com/square/moshi): "Don't replace nullable absent properties with null"
+
+**2024-07-02** — commented on [#1858](https://github.com/square/moshi/pull/1858#issuecomment-2204240635) in [square/moshi](https://github.com/square/moshi)
+
 **2024-07-01** — created tag `v14` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-01** — deleted branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-01** — created branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-01** — commented on [#827](https://github.com/slackhq/slack-gradle-plugin/pull/827#issuecomment-2200894649) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-01** — created tag `v13` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — created tag `v12` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — created tag `v11` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — deleted tag `v` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
