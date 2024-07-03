@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-03** — deleted branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-03** — merged PR [#16](https://github.com/ZacSweers/FieldSpottr/pull/16) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Load libraries off the main thread + improve sheet loading animations"
+
+**2024-07-03** — opened PR [#16](https://github.com/ZacSweers/FieldSpottr/pull/16) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Load libraries off the main thread + improve sheet loading animations"
+
 **2024-07-03** — created branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-02** — created branch `z/moreSwiftUiWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-02** — commented on [#1858](https://github.com/square/moshi/pull/1858#issuecomment-2204240635) in [square/moshi](https://github.com/square/moshi)
 
 **2024-07-01** — created tag `v14` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — deleted branch `z/removeBugsnagIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-01** — merged PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
-
-**2024-07-01** — opened PR [#15](https://github.com/ZacSweers/FieldSpottr/pull/15) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove bugsnag iOS for now"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
