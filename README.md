@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-04** — opened issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
+
 **2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
 
 **2024-07-03** — created branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-03** — merged PR [#1](https://github.com/ZacSweers/anvil/pull/1) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add ComponentProcessingMode to test APIs"
 
 **2024-07-03** — opened issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
-
-**2024-07-03** — opened issue [#5](https://github.com/ZacSweers/anvil/issues/5) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP subcomponent merging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
