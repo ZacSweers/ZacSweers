@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-03** — opened issue [#5061](https://github.com/JetBrains/compose-multiplatform/issues/5061) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.7.0-alpha01 is incompatible with KGP 2.0.0 when using android projects"
+
+**2024-07-03** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-03** — merged PR [#17](https://github.com/ZacSweers/FieldSpottr/pull/17) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.6.1"
+
 **2024-07-03** — deleted branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-03** — merged PR [#16](https://github.com/ZacSweers/FieldSpottr/pull/16) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Load libraries off the main thread + improve sheet loading animations"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-02** — deleted branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
 
 **2024-07-02** — commented on [#1856](https://github.com/square/moshi/pull/1856#issuecomment-2204251487) in [square/moshi](https://github.com/square/moshi)
-
-**2024-07-02** — closed PR [#1856](https://github.com/square/moshi/pull/1856) to [square/moshi](https://github.com/square/moshi): "Don't replace nullable absent properties with null"
-
-**2024-07-02** — commented on [#1858](https://github.com/square/moshi/pull/1858#issuecomment-2204240635) in [square/moshi](https://github.com/square/moshi)
-
-**2024-07-01** — created tag `v14` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
