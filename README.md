@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-04** — opened issue [#4346](https://github.com/google/dagger/issues/4346) on [google/dagger](https://github.com/google/dagger): "[KSP] KSP mode does not check for `@Provides` on interface methods"
+
+**2024-07-04** — opened issue [#4345](https://github.com/google/dagger/issues/4345) on [google/dagger](https://github.com/google/dagger): "[KSP] Intersection type bounds are not ordered correctly in generated factories"
+
 **2024-07-04** — opened issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
 
 **2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-03** — created branch `z/componentMergingKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-03** — deleted branch `z/componentProcessingMode` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-03** — merged PR [#1](https://github.com/ZacSweers/anvil/pull/1) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add ComponentProcessingMode to test APIs"
-
-**2024-07-03** — opened issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
