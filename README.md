@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-03** — opened issue [#5061](https://github.com/JetBrains/compose-multiplatform/issues/5061) on [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform): "1.7.0-alpha01 is incompatible with KGP 2.0.0 when using android projects"
+**2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
 
-**2024-07-03** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-03** — created branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-03** — merged PR [#17](https://github.com/ZacSweers/FieldSpottr/pull/17) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.6.1"
+**2024-07-03** — deleted branch `z/componentMergingKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-03** — deleted branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-03** — closed PR [#7](https://github.com/ZacSweers/anvil/pull/7) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement contribution merging in KSP"
 
-**2024-07-03** — merged PR [#16](https://github.com/ZacSweers/FieldSpottr/pull/16) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Load libraries off the main thread + improve sheet loading animations"
+**2024-07-03** — opened PR [#7](https://github.com/ZacSweers/anvil/pull/7) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement contribution merging in KSP"
 
-**2024-07-03** — opened PR [#16](https://github.com/ZacSweers/FieldSpottr/pull/16) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Load libraries off the main thread + improve sheet loading animations"
+**2024-07-03** — created branch `z/componentMergingKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-03** — created branch `z/tweaks` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-03** — deleted branch `z/componentProcessingMode` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-02** — created branch `z/moreSwiftUiWork` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-07-03** — merged PR [#1](https://github.com/ZacSweers/anvil/pull/1) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add ComponentProcessingMode to test APIs"
 
-**2024-07-02** — deleted branch `z/actualNullAbsence` on [square/moshi](https://github.com/square/moshi)
+**2024-07-03** — opened issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
 
-**2024-07-02** — commented on [#1856](https://github.com/square/moshi/pull/1856#issuecomment-2204251487) in [square/moshi](https://github.com/square/moshi)
+**2024-07-03** — opened issue [#5](https://github.com/ZacSweers/anvil/issues/5) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP subcomponent merging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
