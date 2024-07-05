@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-05** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2211328297) in [square/moshi](https://github.com/square/moshi)
+
 **2024-07-04** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2209418848) in [square/moshi](https://github.com/square/moshi)
 
 **2024-07-04** — commented on [#5061](https://github.com/JetBrains/compose-multiplatform/issues/5061#issuecomment-2209386303) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
 
 **2024-07-03** — created branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-03** — deleted branch `z/componentMergingKsp` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
