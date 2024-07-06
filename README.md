@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-05** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2211399476) in [square/moshi](https://github.com/square/moshi)
+**2024-07-05** — opened issue [#11](https://github.com/ZacSweers/anvil/issues/11) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspClassScanner sharing"
 
-**2024-07-05** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2211328297) in [square/moshi](https://github.com/square/moshi)
+**2024-07-05** — closed issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
 
-**2024-07-04** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2209418848) in [square/moshi](https://github.com/square/moshi)
+**2024-07-05** — closed issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
 
-**2024-07-04** — commented on [#5061](https://github.com/JetBrains/compose-multiplatform/issues/5061#issuecomment-2209386303) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+**2024-07-05** — deleted branch `z/MergeAnnotationsCheckGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-04** — closed issue [#1861](https://github.com/square/moshi/issues/1861) on [square/moshi](https://github.com/square/moshi): "Moshi Codegen doesn't work with OpenAPI 3.1.0"
+**2024-07-05** — merged PR [#10](https://github.com/ZacSweers/anvil/pull/10) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspMergeAnnotationsCheckSymbolProcessor"
 
-**2024-07-04** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2209385188) in [square/moshi](https://github.com/square/moshi)
+**2024-07-05** — opened PR [#10](https://github.com/ZacSweers/anvil/pull/10) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspMergeAnnotationsCheckSymbolProcessor"
 
-**2024-07-04** — opened issue [#4346](https://github.com/google/dagger/issues/4346) on [google/dagger](https://github.com/google/dagger): "[KSP] KSP mode does not check for `@Provides` on interface methods"
+**2024-07-05** — created branch `z/MergeAnnotationsCheckGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-04** — opened issue [#4345](https://github.com/google/dagger/issues/4345) on [google/dagger](https://github.com/google/dagger): "[KSP] Intersection type bounds are not ordered correctly in generated factories"
+**2024-07-05** — commented on [#4](https://github.com/ZacSweers/anvil/issues/4#issuecomment-2211574874) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-04** — opened issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
+**2024-07-05** — closed issue [#4](https://github.com/ZacSweers/anvil/issues/4) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP component merging"
 
-**2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
+**2024-07-05** — deleted branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
