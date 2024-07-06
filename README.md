@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-05** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2211399476) in [square/moshi](https://github.com/square/moshi)
+
 **2024-07-05** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2211328297) in [square/moshi](https://github.com/square/moshi)
 
 **2024-07-04** — commented on [#1861](https://github.com/square/moshi/issues/1861#issuecomment-2209418848) in [square/moshi](https://github.com/square/moshi)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-04** — opened issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
 
 **2024-07-03** — opened PR [#8](https://github.com/ZacSweers/anvil/pull/8) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): " Implement contribution merging in KSP"
-
-**2024-07-03** — created branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
