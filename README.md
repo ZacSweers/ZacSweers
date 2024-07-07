@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-06** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-06** — merged PR [#1537](https://github.com/ZacSweers/CatchUp/pull/1537) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.7"
+
 **2024-07-05** — opened issue [#11](https://github.com/ZacSweers/anvil/issues/11) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspClassScanner sharing"
 
 **2024-07-05** — closed issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-05** — created branch `z/MergeAnnotationsCheckGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-05** — commented on [#4](https://github.com/ZacSweers/anvil/issues/4#issuecomment-2211574874) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-05** — closed issue [#4](https://github.com/ZacSweers/anvil/issues/4) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP component merging"
-
-**2024-07-05** — deleted branch `z/contributionMergingKSP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
