@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-07** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-07** — merged PR [#1534](https://github.com/ZacSweers/CatchUp/pull/1534) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.27.2"
+
+**2024-07-07** — deleted branch `renovate/lifecycle` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-07** — merged PR [#1535](https://github.com/ZacSweers/CatchUp/pull/1535) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.3"
+
+**2024-07-07** — deleted branch `renovate/com.bugsnag-bugsnag-android-6.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-07** — merged PR [#1536](https://github.com/ZacSweers/CatchUp/pull/1536) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.6.1"
+
+**2024-07-07** — opened issue [#18](https://github.com/ZacSweers/FieldSpottr/issues/18) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Support Hudson River Park fields"
+
 **2024-07-06** — deleted branch `renovate/sortdependencies` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-06** — merged PR [#1537](https://github.com/ZacSweers/CatchUp/pull/1537) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.7"
 
 **2024-07-05** — opened issue [#11](https://github.com/ZacSweers/anvil/issues/11) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspClassScanner sharing"
-
-**2024-07-05** — closed issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
-
-**2024-07-05** — closed issue [#9](https://github.com/ZacSweers/anvil/issues/9) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KSP impl of MergeAnnotationsCheckGenerator"
-
-**2024-07-05** — deleted branch `z/MergeAnnotationsCheckGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-05** — merged PR [#10](https://github.com/ZacSweers/anvil/pull/10) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspMergeAnnotationsCheckSymbolProcessor"
-
-**2024-07-05** — opened PR [#10](https://github.com/ZacSweers/anvil/pull/10) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspMergeAnnotationsCheckSymbolProcessor"
-
-**2024-07-05** — created branch `z/MergeAnnotationsCheckGenerator` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-05** — commented on [#4](https://github.com/ZacSweers/anvil/issues/4#issuecomment-2211574874) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
