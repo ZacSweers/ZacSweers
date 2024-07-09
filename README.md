@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-09** — deleted branch `z/absencenull` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-09** — closed PR [#622](https://github.com/ZacSweers/MoshiX/pull/622) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't replace nullable absent properties with null"
+
+**2024-07-08** — deleted branch `z/noBottomSheetsOnIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-08** — merged PR [#19](https://github.com/ZacSweers/FieldSpottr/pull/19) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Don't use bottom sheets on non-android"
+
 **2024-07-08** — opened PR [#19](https://github.com/ZacSweers/FieldSpottr/pull/19) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Don't use bottom sheets on non-android"
 
 **2024-07-08** — created branch `z/noBottomSheetsOnIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-08** — merged PR [#120](https://github.com/ZacSweers/auto-service-ksp/pull/120) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.15.0"
 
 **2024-07-08** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-07-08** — merged PR [#231](https://github.com/ZacSweers/redacted-compiler-plugin/pull/231) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.15.0"
-
-**2024-07-08** — commented on [#285](https://github.com/slackhq/slack-lints/issues/285#issuecomment-2214770789) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-07-08** — commented on [#239](https://github.com/slackhq/slack-lints/issues/239#issuecomment-2214768419) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-07-07** — deleted branch `renovate/moshix` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
