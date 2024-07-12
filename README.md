@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-11** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-11** — merged PR [#636](https://github.com/ZacSweers/MoshiX/pull/636) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.0-1.0.23"
+
 **2024-07-11** — deleted branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-11** — merged PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-11** — created branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-11** — created branch `z/kspContributesSubcomponentHandler` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
-
-**2024-07-11** — merged PR [#1865](https://github.com/square/moshi/pull/1865) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
