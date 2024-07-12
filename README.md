@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-12** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-12** — merged PR [#126](https://github.com/ZacSweers/auto-service-ksp/pull/126) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v2.0.0-1.0.23"
+
+**2024-07-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-12** — merged PR [#637](https://github.com/ZacSweers/MoshiX/pull/637) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.5.1"
+
 **2024-07-12** — deleted branch `renovate/agp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-07-12** — merged PR [#21](https://github.com/ZacSweers/FieldSpottr/pull/21) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-11** — merged PR [#1866](https://github.com/square/moshi/pull/1866) to [square/moshi](https://github.com/square/moshi): "Update ksp to v2.0.0-1.0.23"
 
 **2024-07-11** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-07-11** — merged PR [#636](https://github.com/ZacSweers/MoshiX/pull/636) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.0-1.0.23"
-
-**2024-07-11** — deleted branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-11** — merged PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
