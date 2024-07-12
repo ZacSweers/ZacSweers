@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-09** — deleted branch `z/absencenull` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-07-11** — created branch `z/kspContributesSubcomponentHandler` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-09** — closed PR [#622](https://github.com/ZacSweers/MoshiX/pull/622) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Don't replace nullable absent properties with null"
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
 
-**2024-07-08** — deleted branch `z/noBottomSheetsOnIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-11** — merged PR [#1865](https://github.com/square/moshi/pull/1865) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.9"
 
-**2024-07-08** — merged PR [#19](https://github.com/ZacSweers/FieldSpottr/pull/19) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Don't use bottom sheets on non-android"
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2024-07-08** — opened PR [#19](https://github.com/ZacSweers/FieldSpottr/pull/19) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Don't use bottom sheets on non-android"
+**2024-07-11** — merged PR [#235](https://github.com/ZacSweers/redacted-compiler-plugin/pull/235) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.9"
 
-**2024-07-08** — created branch `z/noBottomSheetsOnIos` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-07-08** — commented on [#293](https://github.com/slackhq/slack-lints/pull/293#issuecomment-2214990319) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-07-11** — merged PR [#125](https://github.com/ZacSweers/auto-service-ksp/pull/125) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.9"
 
-**2024-07-08** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-07-08** — merged PR [#120](https://github.com/ZacSweers/auto-service-ksp/pull/120) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.15.0"
+**2024-07-11** — merged PR [#191](https://github.com/ZacSweers/ZacSweers/pull/191) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.9"
 
-**2024-07-08** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
