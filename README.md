@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-11** — closed issue [#1867](https://github.com/square/moshi/issues/1867) on [square/moshi](https://github.com/square/moshi): "Hackear Instagram com Eficácia Como Hackear Instagram"
+
 **2024-07-11** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
 
 **2024-07-11** — merged PR [#1866](https://github.com/square/moshi/pull/1866) to [square/moshi](https://github.com/square/moshi): "Update ksp to v2.0.0-1.0.23"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-11** — merged PR [#20](https://github.com/ZacSweers/FieldSpottr/pull/20) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.9"
 
 **2024-07-11** — opened PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
-
-**2024-07-11** — opened PR [#12](https://github.com/ZacSweers/anvil/pull/12) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "First pass at converting ContributesSubcomponentHandlerGenerator to KSP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
