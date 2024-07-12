@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-12** — Could not load GitHub activity. Please check back later.
+**2024-07-12** — deleted branch `renovate/agp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-12** — merged PR [#21](https://github.com/ZacSweers/FieldSpottr/pull/21) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.1"
+
+**2024-07-11** — closed issue [#1867](https://github.com/square/moshi/issues/1867) on [square/moshi](https://github.com/square/moshi): "Hackear Instagram com Eficácia Como Hackear Instagram"
+
+**2024-07-11** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
+
+**2024-07-11** — merged PR [#1866](https://github.com/square/moshi/pull/1866) to [square/moshi](https://github.com/square/moshi): "Update ksp to v2.0.0-1.0.23"
+
+**2024-07-11** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-11** — merged PR [#636](https://github.com/ZacSweers/MoshiX/pull/636) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.0-1.0.23"
+
+**2024-07-11** — deleted branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-11** — merged PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
+
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
