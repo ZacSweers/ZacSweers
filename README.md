@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-11** — deleted branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-11** — merged PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
+
+**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-11** — merged PR [#20](https://github.com/ZacSweers/FieldSpottr/pull/20) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.9"
+
+**2024-07-11** — opened PR [#13](https://github.com/ZacSweers/anvil/pull/13) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce merge creator annotations"
+
+**2024-07-11** — opened PR [#12](https://github.com/ZacSweers/anvil/pull/12) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "First pass at converting ContributesSubcomponentHandlerGenerator to KSP"
+
+**2024-07-11** — created branch `z/mirrorCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-11** — created branch `z/kspContributesSubcomponentHandler` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-11** — deleted branch `renovate/gradle-8.x` on [square/moshi](https://github.com/square/moshi)
 
 **2024-07-11** — merged PR [#1865](https://github.com/square/moshi/pull/1865) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.9"
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-07-11** — merged PR [#235](https://github.com/ZacSweers/redacted-compiler-plugin/pull/235) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.9"
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-07-11** — merged PR [#125](https://github.com/ZacSweers/auto-service-ksp/pull/125) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.9"
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-07-11** — merged PR [#191](https://github.com/ZacSweers/ZacSweers/pull/191) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.9"
-
-**2024-07-11** — deleted branch `renovate/gradle-8.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
