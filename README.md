@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-12** — deleted branch `renovate/ksp` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-07-12** — deleted branch `renovate/kotlinpoet` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
-**2024-07-12** — merged PR [#126](https://github.com/ZacSweers/auto-service-ksp/pull/126) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp to v2.0.0-1.0.23"
+**2024-07-12** — merged PR [#123](https://github.com/ZacSweers/auto-service-ksp/pull/123) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v1.18.0"
 
-**2024-07-12** — deleted branch `renovate/agp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-07-12** — deleted branch `renovate/xmlutil` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-07-12** — merged PR [#637](https://github.com/ZacSweers/MoshiX/pull/637) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.5.1"
+**2024-07-12** — merged PR [#190](https://github.com/ZacSweers/ZacSweers/pull/190) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.90.1"
 
-**2024-07-12** — deleted branch `renovate/agp` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-07-12** — deleted branch `renovate/compose` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-07-12** — merged PR [#21](https://github.com/ZacSweers/FieldSpottr/pull/21) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.1"
+**2024-07-12** — merged PR [#185](https://github.com/ZacSweers/ZacSweers/pull/185) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.6.11"
 
-**2024-07-11** — closed issue [#1867](https://github.com/square/moshi/issues/1867) on [square/moshi](https://github.com/square/moshi): "Hackear Instagram com Eficácia Como Hackear Instagram"
+**2024-07-12** — deleted branch `renovate/markdown` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-07-11** — deleted branch `renovate/ksp` on [square/moshi](https://github.com/square/moshi)
+**2024-07-12** — merged PR [#189](https://github.com/ZacSweers/ZacSweers/pull/189) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.23.0"
 
-**2024-07-11** — merged PR [#1866](https://github.com/square/moshi/pull/1866) to [square/moshi](https://github.com/square/moshi): "Update ksp to v2.0.0-1.0.23"
+**2024-07-12** — deleted branch `renovate/kotlinx.serialization` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
-**2024-07-11** — deleted branch `renovate/ksp` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-07-12** — merged PR [#188](https://github.com/ZacSweers/ZacSweers/pull/188) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
