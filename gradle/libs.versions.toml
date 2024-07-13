@@ -1,5 +1,5 @@
 [versions]
-compose = "1.6.10"
+compose = "1.6.11"
 jdk = "21"
 kotlin = "2.0.0"
 kotlinx-serialization = "1.7.1"
