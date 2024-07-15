@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-14** — Could not load GitHub activity. Please check back later.
+**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [square/moshi](https://github.com/square/moshi)
+
+**2024-07-12** — merged PR [#1868](https://github.com/square/moshi/pull/1868) to [square/moshi](https://github.com/square/moshi): "Update dependency com.google.truth:truth to v1.4.4"
+
+**2024-07-12** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-12** — merged PR [#122](https://github.com/ZacSweers/auto-service-ksp/pull/122) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.5.1"
+
+**2024-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-12** — merged PR [#124](https://github.com/ZacSweers/auto-service-ksp/pull/124) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.15.1"
+
+**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-12** — merged PR [#121](https://github.com/ZacSweers/auto-service-ksp/pull/121) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.4"
+
+**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-07-12** — merged PR [#237](https://github.com/ZacSweers/redacted-compiler-plugin/pull/237) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.4.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
