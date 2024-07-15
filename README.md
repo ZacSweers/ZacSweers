@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-15** — opened issue [#23](https://github.com/ZacSweers/FieldSpottr/issues/23) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Investigate incorporating unofficial APIs"
+
+**2024-07-15** — opened issue [#22](https://github.com/ZacSweers/FieldSpottr/issues/22) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Detect pending permits"
+
 **2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [square/moshi](https://github.com/square/moshi)
 
 **2024-07-12** — merged PR [#1868](https://github.com/square/moshi/pull/1868) to [square/moshi](https://github.com/square/moshi): "Update dependency com.google.truth:truth to v1.4.4"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-07-12** — merged PR [#121](https://github.com/ZacSweers/auto-service-ksp/pull/121) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.4"
-
-**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-07-12** — merged PR [#237](https://github.com/ZacSweers/redacted-compiler-plugin/pull/237) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.google.truth:truth to v1.4.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
