@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-15** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-07-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-15** — merged PR [#270](https://github.com/ZacSweers/kotlin-compile-testing/pull/270) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.0-1.0.23"
+**2024-07-16** — merged PR [#1538](https://github.com/ZacSweers/CatchUp/pull/1538) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.3"
 
-**2024-07-15** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-07-16** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-15** — merged PR [#268](https://github.com/ZacSweers/kotlin-compile-testing/pull/268) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.26.3"
+**2024-07-16** — merged PR [#1539](https://github.com/ZacSweers/CatchUp/pull/1539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha04"
 
-**2024-07-15** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-07-16** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-15** — merged PR [#269](https://github.com/ZacSweers/kotlin-compile-testing/pull/269) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.9"
+**2024-07-16** — merged PR [#1540](https://github.com/ZacSweers/CatchUp/pull/1540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.18.1"
 
-**2024-07-15** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-07-16** — merged PR [#1541](https://github.com/ZacSweers/CatchUp/pull/1541) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha05"
 
-**2024-07-15** — merged PR [#271](https://github.com/ZacSweers/kotlin-compile-testing/pull/271) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.4"
+**2024-07-16** — deleted branch `renovate/androidx.sqlite` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-15** — deleted branch `renovate/kotlinpoet` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-07-16** — deleted branch `renovate/benchmark` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-15** — merged PR [#267](https://github.com/ZacSweers/kotlin-compile-testing/pull/267) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v1.18.1"
+**2024-07-16** — merged PR [#1542](https://github.com/ZacSweers/CatchUp/pull/1542) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
