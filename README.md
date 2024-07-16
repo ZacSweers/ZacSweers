@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-15** — opened issue [#23](https://github.com/ZacSweers/FieldSpottr/issues/23) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Investigate incorporating unofficial APIs"
+**2024-07-15** — deleted branch `renovate/ksp` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-07-15** — opened issue [#22](https://github.com/ZacSweers/FieldSpottr/issues/22) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Detect pending permits"
+**2024-07-15** — merged PR [#270](https://github.com/ZacSweers/kotlin-compile-testing/pull/270) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.0-1.0.23"
 
-**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [square/moshi](https://github.com/square/moshi)
+**2024-07-15** — deleted branch `renovate/org.assertj-assertj-core-3.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-07-12** — merged PR [#1868](https://github.com/square/moshi/pull/1868) to [square/moshi](https://github.com/square/moshi): "Update dependency com.google.truth:truth to v1.4.4"
+**2024-07-15** — merged PR [#268](https://github.com/ZacSweers/kotlin-compile-testing/pull/268) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.26.3"
 
-**2024-07-12** — deleted branch `renovate/kct` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-07-15** — deleted branch `renovate/gradle-8.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-07-12** — merged PR [#122](https://github.com/ZacSweers/auto-service-ksp/pull/122) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.5.1"
+**2024-07-15** — merged PR [#269](https://github.com/ZacSweers/kotlin-compile-testing/pull/269) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.9"
 
-**2024-07-12** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-07-15** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-07-12** — merged PR [#124](https://github.com/ZacSweers/auto-service-ksp/pull/124) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.15.1"
+**2024-07-15** — merged PR [#271](https://github.com/ZacSweers/kotlin-compile-testing/pull/271) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.google.truth:truth to v1.4.4"
 
-**2024-07-12** — deleted branch `renovate/com.google.truth-truth-1.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+**2024-07-15** — deleted branch `renovate/kotlinpoet` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-07-12** — merged PR [#121](https://github.com/ZacSweers/auto-service-ksp/pull/121) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.4"
+**2024-07-15** — merged PR [#267](https://github.com/ZacSweers/kotlin-compile-testing/pull/267) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v1.18.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
