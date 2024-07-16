@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-16** — commented on [#1956](https://github.com/google/ksp/issues/1956#issuecomment-2231482757) in [google/ksp](https://github.com/google/ksp)
+**2024-07-16** — opened PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
 
-**2024-07-16** — commented on [#1956](https://github.com/google/ksp/issues/1956#issuecomment-2231315173) in [google/ksp](https://github.com/google/ksp)
+**2024-07-16** — opened issue [#16](https://github.com/ZacSweers/anvil/issues/16) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP Blockers Tracking"
 
-**2024-07-16** — commented on [#1956](https://github.com/google/ksp/issues/1956#issuecomment-2231024142) in [google/ksp](https://github.com/google/ksp)
+**2024-07-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-16** — deleted branch `renovate/dev.chrisbanes.haze-haze-0.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-07-16** — merged PR [#1548](https://github.com/ZacSweers/CatchUp/pull/1548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.9"
 
-**2024-07-16** — merged PR [#1538](https://github.com/ZacSweers/CatchUp/pull/1538) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v0.7.3"
+**2024-07-16** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-16** — deleted branch `renovate/com.google.android.material-material-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-07-16** — merged PR [#1550](https://github.com/ZacSweers/CatchUp/pull/1550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.10"
 
-**2024-07-16** — merged PR [#1539](https://github.com/ZacSweers/CatchUp/pull/1539) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha04"
+**2024-07-16** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-16** — deleted branch `renovate/org.jsoup-jsoup-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-07-16** — merged PR [#1551](https://github.com/ZacSweers/CatchUp/pull/1551) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.29.0"
 
-**2024-07-16** — merged PR [#1540](https://github.com/ZacSweers/CatchUp/pull/1540) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.18.1"
+**2024-07-16** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
-**2024-07-16** — merged PR [#1541](https://github.com/ZacSweers/CatchUp/pull/1541) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha05"
+**2024-07-16** — merged PR [#1552](https://github.com/ZacSweers/CatchUp/pull/1552) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.258.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
