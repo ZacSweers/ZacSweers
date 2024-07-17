@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-16** — opened PR [#19](https://github.com/ZacSweers/anvil/pull/19) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fork instructions"
+
+**2024-07-16** — created branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-16** — closed issue [#14](https://github.com/ZacSweers/anvil/issues/14) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Investigate skipping Dagger shim generation in subcomponents"
+
+**2024-07-16** — deleted branch `z/misc` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-16** — merged PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
+
+**2024-07-16** — opened issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
+
 **2024-07-16** — opened PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
 
 **2024-07-16** — opened issue [#16](https://github.com/ZacSweers/anvil/issues/16) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP Blockers Tracking"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-16** — merged PR [#1548](https://github.com/ZacSweers/CatchUp/pull/1548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.9"
-
-**2024-07-16** — deleted branch `renovate/org.gradle.test-retry-1.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-16** — merged PR [#1550](https://github.com/ZacSweers/CatchUp/pull/1550) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.5.10"
-
-**2024-07-16** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-16** — merged PR [#1551](https://github.com/ZacSweers/CatchUp/pull/1551) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.29.0"
-
-**2024-07-16** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-16** — merged PR [#1552](https://github.com/ZacSweers/CatchUp/pull/1552) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.258.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
