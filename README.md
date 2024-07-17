@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-17** — deleted branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-17** — merged PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
+
 **2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-07-17** — merged PR [#640](https://github.com/ZacSweers/MoshiX/pull/640) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-17** — opened PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
 
 **2024-07-17** — created branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-17** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2232551516) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
