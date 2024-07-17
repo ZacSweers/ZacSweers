@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-17** — merged PR [#640](https://github.com/ZacSweers/MoshiX/pull/640) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.0"
+
+**2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-07-17** — merged PR [#238](https://github.com/ZacSweers/redacted-compiler-plugin/pull/238) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.0"
+
+**2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-17** — merged PR [#128](https://github.com/ZacSweers/auto-service-ksp/pull/128) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.0"
+
 **2024-07-17** — opened PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
 
 **2024-07-17** — created branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-17** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2232551516) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-17** — commented on [#1492](https://github.com/slackhq/circuit/pull/1492#issuecomment-2232430086) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-17** — closed PR [#1492](https://github.com/slackhq/circuit/pull/1492) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.test:monitor to v1.7.1"
-
-**2024-07-17** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-2232410795) in [google/ksp](https://github.com/google/ksp)
-
-**2024-07-17** — reopened issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
-
-**2024-07-17** — opened issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
-
-**2024-07-17** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-2232374376) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
