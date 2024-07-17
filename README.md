@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-16** — deleted branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-16** — closed issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
+
+**2024-07-16** — closed issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
+
+**2024-07-16** — merged PR [#19](https://github.com/ZacSweers/anvil/pull/19) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fork instructions"
+
 **2024-07-16** — opened PR [#19](https://github.com/ZacSweers/anvil/pull/19) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fork instructions"
 
 **2024-07-16** — created branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-16** — merged PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
 
 **2024-07-16** — opened issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
-
-**2024-07-16** — opened PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
-
-**2024-07-16** — opened issue [#16](https://github.com/ZacSweers/anvil/issues/16) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP Blockers Tracking"
-
-**2024-07-16** — deleted branch `renovate/gradle-8.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-16** — merged PR [#1548](https://github.com/ZacSweers/CatchUp/pull/1548) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
