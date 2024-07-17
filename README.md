@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-17** — opened issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
+
+**2024-07-17** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-2232374376) in [google/ksp](https://github.com/google/ksp)
+
+**2024-07-17** — closed issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
+
+**2024-07-17** — opened PR [#1521](https://github.com/slackhq/circuit/pull/1521) to [slackhq/circuit](https://github.com/slackhq/circuit): "Resolve typealiases and remove lenient mode"
+
+**2024-07-17** — created branch `z/removeLenient` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-07-16** — commented on [#4356](https://github.com/google/dagger/issues/4356#issuecomment-2232316944) in [google/dagger](https://github.com/google/dagger)
+
+**2024-07-16** — reopened issue [#4356](https://github.com/google/dagger/issues/4356) on [google/dagger](https://github.com/google/dagger): "[KSP] Dagger-KSP does not see typealiased dagger annotations"
+
 **2024-07-16** — deleted branch `z/checkCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-16** — closed issue [#15](https://github.com/ZacSweers/anvil/issues/15) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger annotations on creators"
 
 **2024-07-16** — closed issue [#15](https://github.com/ZacSweers/anvil/issues/15) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger annotations on creators"
-
-**2024-07-16** — merged PR [#21](https://github.com/ZacSweers/anvil/pull/21) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger creator annotations in KSP"
-
-**2024-07-16** — deleted branch `z/noSubcomponentFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-16** — closed issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
-
-**2024-07-16** — closed issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
-
-**2024-07-16** — merged PR [#23](https://github.com/ZacSweers/anvil/pull/23) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule unless it's a subcomponent"
-
-**2024-07-16** — opened PR [#23](https://github.com/ZacSweers/anvil/pull/23) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule unless it's a subcomponent"
-
-**2024-07-16** — created branch `z/noSubcomponentFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
