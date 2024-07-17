@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-16** — opened issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
+
 **2024-07-16** — deleted branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-16** — closed issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-16** — deleted branch `z/misc` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-16** — merged PR [#17](https://github.com/ZacSweers/anvil/pull/17) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Misc fixes"
-
-**2024-07-16** — opened issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
