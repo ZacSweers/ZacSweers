@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-17** — opened PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
+
+**2024-07-17** — created branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-17** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2232551516) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-17** — opened issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
 
 **2024-07-17** — commented on [#1676](https://github.com/google/ksp/issues/1676#issuecomment-2232374376) in [google/ksp](https://github.com/google/ksp)
-
-**2024-07-17** — closed issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
-
-**2024-07-17** — opened PR [#1521](https://github.com/slackhq/circuit/pull/1521) to [slackhq/circuit](https://github.com/slackhq/circuit): "Resolve typealiases and remove lenient mode"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
