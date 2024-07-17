@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-16** — created branch `z/testingAnvilKsp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-07-16** — deleted branch `z/checkCreators` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-16** — opened issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
+**2024-07-16** — closed issue [#15](https://github.com/ZacSweers/anvil/issues/15) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger annotations on creators"
 
-**2024-07-16** — deleted branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-16** — closed issue [#15](https://github.com/ZacSweers/anvil/issues/15) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger annotations on creators"
 
-**2024-07-16** — closed issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
+**2024-07-16** — merged PR [#21](https://github.com/ZacSweers/anvil/pull/21) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Check for dagger creator annotations in KSP"
 
-**2024-07-16** — closed issue [#18](https://github.com/ZacSweers/anvil/issues/18) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document Setup"
+**2024-07-16** — deleted branch `z/noSubcomponentFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-07-16** — merged PR [#19](https://github.com/ZacSweers/anvil/pull/19) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fork instructions"
+**2024-07-16** — closed issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
 
-**2024-07-16** — opened PR [#19](https://github.com/ZacSweers/anvil/pull/19) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fork instructions"
+**2024-07-16** — closed issue [#20](https://github.com/ZacSweers/anvil/issues/20) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule in merged non-subcomponents"
 
-**2024-07-16** — created branch `z/forkInstructions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-16** — merged PR [#23](https://github.com/ZacSweers/anvil/pull/23) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule unless it's a subcomponent"
 
-**2024-07-16** — closed issue [#14](https://github.com/ZacSweers/anvil/issues/14) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Investigate skipping Dagger shim generation in subcomponents"
+**2024-07-16** — opened PR [#23](https://github.com/ZacSweers/anvil/pull/23) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't generate SubcomponentModule unless it's a subcomponent"
 
-**2024-07-16** — deleted branch `z/misc` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-16** — created branch `z/noSubcomponentFactory` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
