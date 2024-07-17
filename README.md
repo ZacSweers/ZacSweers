@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-17** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2232551516) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-07-17** — deleted branch `renovate/androidx.test-monitor-1.x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-17** — commented on [#1492](https://github.com/slackhq/circuit/pull/1492#issuecomment-2232430086) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-17** — closed issue [#1676](https://github.com/google/ksp/issues/1676) on [google/ksp](https://github.com/google/ksp): "KSP does not read actualized typealias declaration"
 
 **2024-07-17** — opened PR [#1521](https://github.com/slackhq/circuit/pull/1521) to [slackhq/circuit](https://github.com/slackhq/circuit): "Resolve typealiases and remove lenient mode"
-
-**2024-07-17** — created branch `z/removeLenient` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
