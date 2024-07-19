@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-19** — commented on [#4363](https://github.com/google/dagger/issues/4363#issuecomment-2239979744) in [google/dagger](https://github.com/google/dagger)
+
+**2024-07-19** — closed issue [#4363](https://github.com/google/dagger/issues/4363) on [google/dagger](https://github.com/google/dagger): "Creator-less subcomponents are not visible to modules"
+
 **2024-07-19** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2239871570) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-19** — opened issue [#4363](https://github.com/google/dagger/issues/4363) on [google/dagger](https://github.com/google/dagger): "Creator-less subcomponents are not visible to modules"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-07-19** — merged PR [#641](https://github.com/ZacSweers/MoshiX/pull/641) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.1"
-
-**2024-07-19** — deleted branch `renovate/markdown` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-07-19** — merged PR [#192](https://github.com/ZacSweers/ZacSweers/pull/192) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.25.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
