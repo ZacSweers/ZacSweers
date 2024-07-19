@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-18** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-18** — merged PR [#1553](https://github.com/ZacSweers/CatchUp/pull/1553) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.7.0"
+
+**2024-07-18** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-18** — merged PR [#1554](https://github.com/ZacSweers/CatchUp/pull/1554) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.259.0"
+
+**2024-07-18** — deleted branch `renovate/com.google.errorprone-error_prone_annotations-2.x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-18** — merged PR [#1555](https://github.com/ZacSweers/CatchUp/pull/1555) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.29.2"
+
 **2024-07-17** — deleted branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-17** — merged PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-07-17** — merged PR [#640](https://github.com/ZacSweers/MoshiX/pull/640) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.0"
-
-**2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-07-17** — merged PR [#238](https://github.com/ZacSweers/redacted-compiler-plugin/pull/238) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.0"
-
-**2024-07-17** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-07-17** — merged PR [#128](https://github.com/ZacSweers/auto-service-ksp/pull/128) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.0"
-
-**2024-07-17** — opened PR [#25](https://github.com/ZacSweers/anvil/pull/25) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure generated shims are present even if there are no creators"
-
-**2024-07-17** — created branch `z/ensureShim` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
