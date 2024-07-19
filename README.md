@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-19** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2239871570) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-07-19** — opened issue [#4363](https://github.com/google/dagger/issues/4363) on [google/dagger](https://github.com/google/dagger): "Creator-less subcomponents are not visible to modules"
+
 **2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
 
 **2024-07-19** — merged PR [#129](https://github.com/ZacSweers/auto-service-ksp/pull/129) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-19** — deleted branch `renovate/markdown` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
 
 **2024-07-19** — merged PR [#192](https://github.com/ZacSweers/ZacSweers/pull/192) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.25.0"
-
-**2024-07-18** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-18** — merged PR [#1553](https://github.com/ZacSweers/CatchUp/pull/1553) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
