@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
+
+**2024-07-19** — merged PR [#129](https://github.com/ZacSweers/auto-service-ksp/pull/129) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.1"
+
 **2024-07-19** — deleted branch `renovate/markdown` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-19** — merged PR [#1556](https://github.com/ZacSweers/CatchUp/pull/1556) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.25.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-18** — deleted branch `renovate/coil` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-18** — merged PR [#1553](https://github.com/ZacSweers/CatchUp/pull/1553) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coil to v2.7.0"
-
-**2024-07-18** — deleted branch `renovate/flipper` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-18** — merged PR [#1554](https://github.com/ZacSweers/CatchUp/pull/1554) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.259.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
