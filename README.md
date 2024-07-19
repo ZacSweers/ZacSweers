@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-19** — deleted branch `renovate/kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-19** — merged PR [#639](https://github.com/ZacSweers/MoshiX/pull/639) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v1.18.1"
+
+**2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-07-19** — merged PR [#239](https://github.com/ZacSweers/redacted-compiler-plugin/pull/239) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.2"
+
+**2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-19** — merged PR [#642](https://github.com/ZacSweers/MoshiX/pull/642) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.2"
+
 **2024-07-19** — merged PR [#26](https://github.com/ZacSweers/anvil/pull/26) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Multiple subcomponent fixes"
 
 **2024-07-19** — deleted branch `test-renovate/major-wire` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-19** — merged PR [#901](https://github.com/slackhq/slack-gradle-plugin/pull/901) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update wire to v5 (major)"
 
 **2024-07-19** — deleted branch `renovate/kotlinpoet` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-07-19** — merged PR [#127](https://github.com/ZacSweers/auto-service-ksp/pull/127) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v1.18.1"
-
-**2024-07-19** — deleted branch `renovate/org.jetbrains.kotlinx.binary-compatibility-validator-0.x` on [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp)
-
-**2024-07-19** — merged PR [#130](https://github.com/ZacSweers/auto-service-ksp/pull/130) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.2"
-
-**2024-07-19** — commented on [#4363](https://github.com/google/dagger/issues/4363#issuecomment-2239979744) in [google/dagger](https://github.com/google/dagger)
-
-**2024-07-19** — closed issue [#4363](https://github.com/google/dagger/issues/4363) on [google/dagger](https://github.com/google/dagger): "Creator-less subcomponents are not visible to modules"
-
-**2024-07-19** — commented on [#1522](https://github.com/slackhq/circuit/issues/1522#issuecomment-2239871570) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
