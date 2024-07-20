@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-20** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-20** — merged PR [#1557](https://github.com/ZacSweers/CatchUp/pull/1557) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.12.1"
+
+**2024-07-20** — closed PR [#883](https://github.com/slackhq/circuit/pull/883) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create key-navigation module with back handling support"
+
 **2024-07-19** — created tag `0.18.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-07-19** — opened issue [#29979](https://github.com/gradle/gradle/issues/29979) on [gradle/gradle](https://github.com/gradle/gradle): "Circular evaluation detected error message is unhelpful and inactionable"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-19** — merged PR [#1525](https://github.com/slackhq/circuit/pull/1525) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency co.touchlab.skie to v0.8.3"
 
 **2024-07-19** — deleted branch `z/overlaySnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-19** — commented on [#1121](https://github.com/slackhq/circuit/pull/1121#issuecomment-2240795614) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-19** — closed PR [#1121](https://github.com/slackhq/circuit/pull/1121) to [slackhq/circuit](https://github.com/slackhq/circuit): "Overlay snapshot tests"
-
-**2024-07-19** — commented on [#671](https://github.com/slackhq/circuit/pull/671#issuecomment-2240795455) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
