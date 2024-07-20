@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-20** — opened PR [#240](https://github.com/ZacSweers/redacted-compiler-plugin/pull/240) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.0.10-RC"
+
+**2024-07-20** — created branch `z/k2010` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-07-20** — opened PR [#643](https://github.com/ZacSweers/MoshiX/pull/643) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 2.0.10"
+
+**2024-07-20** — created branch `z/2010` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-07-20** — opened PR [#274](https://github.com/ZacSweers/kotlin-compile-testing/pull/274) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for 2.0.10"
+
+**2024-07-20** — created branch `z/k2010` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-07-20** — merged PR [#273](https://github.com/ZacSweers/kotlin-compile-testing/pull/273) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Cleanup old sources between compilations"
+
 **2024-07-20** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-20** — merged PR [#1557](https://github.com/ZacSweers/CatchUp/pull/1557) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.12.1"
 
 **2024-07-20** — closed PR [#883](https://github.com/slackhq/circuit/pull/883) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create key-navigation module with back handling support"
-
-**2024-07-19** — created tag `0.18.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-19** — opened issue [#29979](https://github.com/gradle/gradle/issues/29979) on [gradle/gradle](https://github.com/gradle/gradle): "Circular evaluation detected error message is unhelpful and inactionable"
-
-**2024-07-19** — deleted branch `renovate/agp` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-19** — merged PR [#1517](https://github.com/ZacSweers/CatchUp/pull/1517) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha01"
-
-**2024-07-19** — deleted branch `renovate/skie` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-19** — merged PR [#1525](https://github.com/slackhq/circuit/pull/1525) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency co.touchlab.skie to v0.8.3"
-
-**2024-07-19** — deleted branch `z/overlaySnapshots` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
