@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-20** — created branch `z/anvilKspFull` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-07-20** — commented on [#1494](https://github.com/slackhq/circuit/pull/1494#issuecomment-2241288467) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-07-20** — opened PR [#240](https://github.com/ZacSweers/redacted-compiler-plugin/pull/240) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.0.10-RC"
 
 **2024-07-20** — created branch `z/k2010` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-20** — merged PR [#273](https://github.com/ZacSweers/kotlin-compile-testing/pull/273) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Cleanup old sources between compilations"
 
 **2024-07-20** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-20** — merged PR [#1557](https://github.com/ZacSweers/CatchUp/pull/1557) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.12.1"
-
-**2024-07-20** — closed PR [#883](https://github.com/slackhq/circuit/pull/883) to [slackhq/circuit](https://github.com/slackhq/circuit): "Create key-navigation module with back handling support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
