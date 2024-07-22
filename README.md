@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-22** — deleted branch `z/cupertino` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-07-22** — merged PR [#24](https://github.com/ZacSweers/FieldSpottr/pull/24) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Introduce compose-cupertino to make iOS look more native"
+
 **2024-07-22** — opened PR [#24](https://github.com/ZacSweers/FieldSpottr/pull/24) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Introduce compose-cupertino to make iOS look more native"
 
 **2024-07-20** — created branch `z/anvilKspFull` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-20** — created branch `z/2010` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-07-20** — opened PR [#274](https://github.com/ZacSweers/kotlin-compile-testing/pull/274) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for 2.0.10"
-
-**2024-07-20** — created branch `z/k2010` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-07-20** — merged PR [#273](https://github.com/ZacSweers/kotlin-compile-testing/pull/273) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Cleanup old sources between compilations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
