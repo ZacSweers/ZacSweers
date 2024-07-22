@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-22** — opened PR [#24](https://github.com/ZacSweers/FieldSpottr/pull/24) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Introduce compose-cupertino to make iOS look more native"
+
 **2024-07-20** — created branch `z/anvilKspFull` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-07-20** — commented on [#1494](https://github.com/slackhq/circuit/pull/1494#issuecomment-2241288467) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-20** — created branch `z/k2010` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-07-20** — merged PR [#273](https://github.com/ZacSweers/kotlin-compile-testing/pull/273) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Cleanup old sources between compilations"
-
-**2024-07-20** — deleted branch `renovate/telephoto` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
