@@ -80,6 +80,7 @@ kotlin {
         implementation(libs.ktor.client.contentNegotiation)
         implementation(libs.ktor.serialization.json)
         implementation(libs.okio)
+        implementation(libs.mordant)
       }
     }
     jvmMain {
