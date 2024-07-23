@@ -107,6 +107,11 @@ class ReadMeUpdater {
             )
           }
           is DeleteEvent -> {
+            if (payload.refType == "branch") {
+              // Filter out branch deletions
+              // https://github.com/ZacSweers/ZacSweers/issues/65
+              return@mapNotNull null
+            }
             ActivityItem(
               "deleted ${payload.refType}${payload.ref?.let { " `$it`" } ?: ""} on ${event.repo?.markdownUrl()}",
               event.createdAt,
