@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-23** — opened issue [#115](https://github.com/MohamedRejeb/Calf/issues/115) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker is always black on iOS when shown in a bottom sheet"
+
+**2024-07-23** — opened PR [#26](https://github.com/ZacSweers/FieldSpottr/pull/26) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "WIP rework date picker"
+
+**2024-07-23** — created branch `z/reworkDatepicker` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
 
 **2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-23** — merged PR [#193](https://github.com/ZacSweers/ZacSweers/pull/193) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Add quiet mode and update progress animation + error handling"
 
 **2024-07-23** — opened PR [#193](https://github.com/ZacSweers/ZacSweers/pull/193) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Add quiet mode and update progress animation + error handling"
-
-**2024-07-23** — created branch `z/updateLogic` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
-
-**2024-07-23** — merged PR [#25](https://github.com/ZacSweers/FieldSpottr/pull/25) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Indicate overlapping permits"
-
-**2024-07-22** — opened PR [#25](https://github.com/ZacSweers/FieldSpottr/pull/25) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Indicate overlapping permits"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
