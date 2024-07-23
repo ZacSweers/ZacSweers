@@ -47,12 +47,20 @@ class UpdateReadmeCommand : CliktCommand() {
         } else {
           null
         }
-      ReadMeUpdater().generateReadme().also { progress?.stop() }
+      ReadMeUpdater().generateReadme()
+        .also { progress?.stop() }
     }
     FileSystem.SYSTEM.write(outputFile.toOkioPath()) { writeUtf8(newReadMe) }
 
     if (!quiet) {
-      t.print(Markdown(newReadMe))
+      try {
+        t.print(Markdown(newReadMe))
+      } catch (e: Exception) {
+        System.err.println("Could not render markdown. Raw markdown follows:")
+        System.err.println(newReadMe)
+        System.err.println("END of raw markdown")
+        throw e
+      }
     }
 
     // TODO why do I need to do this
