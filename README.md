@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+
+**2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+
+**2024-07-23** — merged PR [#194](https://github.com/ZacSweers/ZacSweers/pull/194) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+
+**2024-07-23** — opened PR [#194](https://github.com/ZacSweers/ZacSweers/pull/194) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
+
+**2024-07-23** — created branch `z/filterBranchDeletions` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
+**2024-07-23** — merged PR [#193](https://github.com/ZacSweers/ZacSweers/pull/193) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Add quiet mode and update progress animation + error handling"
+
+**2024-07-23** — opened PR [#193](https://github.com/ZacSweers/ZacSweers/pull/193) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Add quiet mode and update progress animation + error handling"
+
+**2024-07-23** — created branch `z/updateLogic` on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers)
+
 **2024-07-23** — merged PR [#25](https://github.com/ZacSweers/FieldSpottr/pull/25) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Indicate overlapping permits"
 
 **2024-07-22** — opened PR [#25](https://github.com/ZacSweers/FieldSpottr/pull/25) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Indicate overlapping permits"
-
-**2024-07-22** — commented on [#1494](https://github.com/slackhq/circuit/pull/1494#issuecomment-2243833766) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-22** — created branch `z/overlapping` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-22** — opened issue [#95](https://github.com/touchlab/SKIE/issues/95) on [touchlab/SKIE](https://github.com/touchlab/SKIE): "Kotlin 2.0.20 incompatibility: NoSuchMethodError: 'org.jetbrains.kotlin.config.CompilerConfigurationKey org.jetbrains.kotlin.backend.konan.KonanConfigKeys$Companion.getBITCODE_EMBEDDING_MODE()'"
-
-**2024-07-22** — merged PR [#1527](https://github.com/slackhq/circuit/pull/1527) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove backstack dependency from circuit-runtime"
-
-**2024-07-22** — merged PR [#24](https://github.com/ZacSweers/FieldSpottr/pull/24) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Introduce compose-cupertino to make iOS look more native"
-
-**2024-07-22** — opened PR [#24](https://github.com/ZacSweers/FieldSpottr/pull/24) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Introduce compose-cupertino to make iOS look more native"
-
-**2024-07-20** — created branch `z/anvilKspFull` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-07-20** — commented on [#1494](https://github.com/slackhq/circuit/pull/1494#issuecomment-2241288467) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
