@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-24** — merged PR [#1559](https://github.com/ZacSweers/CatchUp/pull/1559) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha02"
+
+**2024-07-24** — merged PR [#1558](https://github.com/ZacSweers/CatchUp/pull/1558) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.6"
+
+**2024-07-24** — merged PR [#1560](https://github.com/ZacSweers/CatchUp/pull/1560) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta10"
+
+**2024-07-24** — opened issue [#116](https://github.com/MohamedRejeb/Calf/issues/116) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): " rememberSheetState uses confirmValueChange as an input resulting in losing sheet state "
+
+**2024-07-24** — commented on [#9](https://github.com/MohamedRejeb/Calf/issues/9#issuecomment-2246909081) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
 **2024-07-23** — merged PR [#28](https://github.com/ZacSweers/anvil/pull/28) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add more docs about technical design"
 
 **2024-07-23** — opened PR [#28](https://github.com/ZacSweers/anvil/pull/28) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add more docs about technical design"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-23** — opened issue [#115](https://github.com/MohamedRejeb/Calf/issues/115) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker is always black on iOS when shown in a bottom sheet"
 
 **2024-07-23** — opened PR [#26](https://github.com/ZacSweers/FieldSpottr/pull/26) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "WIP rework date picker"
-
-**2024-07-23** — created branch `z/reworkDatepicker` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
-
-**2024-07-23** — closed issue [#65](https://github.com/ZacSweers/ZacSweers/issues/65) on [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
-
-**2024-07-23** — merged PR [#194](https://github.com/ZacSweers/ZacSweers/pull/194) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
-
-**2024-07-23** — opened PR [#194](https://github.com/ZacSweers/ZacSweers/pull/194) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Filter out branch deletions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
