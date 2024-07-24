@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-24** — merged PR [#27](https://github.com/ZacSweers/FieldSpottr/pull/27) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.1"
+
 **2024-07-24** — opened issue [#122](https://github.com/MohamedRejeb/Calf/issues/122) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker doesn't propagate colors on iOS"
 
 **2024-07-24** — commented on [#116](https://github.com/MohamedRejeb/Calf/issues/116#issuecomment-2248329992) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-24** — opened issue [#116](https://github.com/MohamedRejeb/Calf/issues/116) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): " rememberSheetState uses confirmValueChange as an input resulting in losing sheet state "
 
 **2024-07-24** — commented on [#9](https://github.com/MohamedRejeb/Calf/issues/9#issuecomment-2246909081) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-23** — merged PR [#28](https://github.com/ZacSweers/anvil/pull/28) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add more docs about technical design"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
