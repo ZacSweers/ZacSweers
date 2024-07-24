@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-24** — commented on [#116](https://github.com/MohamedRejeb/Calf/issues/116#issuecomment-2248329992) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2024-07-24** — commented on [#115](https://github.com/MohamedRejeb/Calf/issues/115#issuecomment-2248324678) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
 **2024-07-24** — commented on [#115](https://github.com/MohamedRejeb/Calf/issues/115#issuecomment-2248226169) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-24** — merged PR [#1559](https://github.com/ZacSweers/CatchUp/pull/1559) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha02"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-23** — merged PR [#28](https://github.com/ZacSweers/anvil/pull/28) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add more docs about technical design"
 
 **2024-07-23** — opened PR [#28](https://github.com/ZacSweers/anvil/pull/28) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add more docs about technical design"
-
-**2024-07-23** — created branch `z/moreDocs` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-23** — opened issue [#115](https://github.com/MohamedRejeb/Calf/issues/115) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker is always black on iOS when shown in a bottom sheet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
