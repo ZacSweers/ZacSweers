@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-25** — merged PR [#31](https://github.com/ZacSweers/anvil/pull/31) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "[ksp] inherit annotated class visibility in merged component"
+
+**2024-07-25** — opened PR [#33](https://github.com/ZacSweers/anvil/pull/33) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Make annotation resolution more robust"
+
+**2024-07-25** — created branch `z/robustAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250825702) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250768160) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2250419065) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-25** — closed issue [#29](https://github.com/ZacSweers/anvil/issues/29) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "@MergeModules generates broken binds"
-
-**2024-07-25** — merged PR [#30](https://github.com/ZacSweers/anvil/pull/30) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "stop generating a BindingModule for MergeModules"
-
-**2024-07-25** — commented on [#131](https://github.com/MohamedRejeb/Calf/issues/131#issuecomment-2250373833) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-25** — closed issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
