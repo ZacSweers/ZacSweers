@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2251398956) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
 **2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2251235607) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-25** — merged PR [#644](https://github.com/ZacSweers/MoshiX/pull/644) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-beta02"
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — merged PR [#1563](https://github.com/ZacSweers/CatchUp/pull/1563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta05"
 
 **2024-07-25** — merged PR [#1566](https://github.com/ZacSweers/CatchUp/pull/1566) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.4"
-
-**2024-07-25** — closed issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
-
-**2024-07-25** — closed issue [#32](https://github.com/ZacSweers/anvil/issues/32) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Crash in `ClassScannerKsp` because of `@StabilityInferred` annotation cannot be resolved"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
