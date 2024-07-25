@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2250349873) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2024-07-25** — opened PR [#132](https://github.com/MohamedRejeb/Calf/pull/132) to [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Plumb down modifier parameter in iOS AdaptiveBottomSheet"
+
+**2024-07-25** — opened issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
+
 **2024-07-24** — opened issue [#123](https://github.com/MohamedRejeb/Calf/issues/123) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker always uses the current date as the initial date on iOS"
 
 **2024-07-24** — merged PR [#27](https://github.com/ZacSweers/FieldSpottr/pull/27) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-24** — commented on [#115](https://github.com/MohamedRejeb/Calf/issues/115#issuecomment-2248226169) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-24** — merged PR [#1559](https://github.com/ZacSweers/CatchUp/pull/1559) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha02"
-
-**2024-07-24** — merged PR [#1558](https://github.com/ZacSweers/CatchUp/pull/1558) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.17.6"
-
-**2024-07-24** — merged PR [#1560](https://github.com/ZacSweers/CatchUp/pull/1560) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta10"
-
-**2024-07-24** — opened issue [#116](https://github.com/MohamedRejeb/Calf/issues/116) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): " rememberSheetState uses confirmValueChange as an input resulting in losing sheet state "
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
