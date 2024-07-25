@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — closed issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
 
 **2024-07-25** — closed issue [#32](https://github.com/ZacSweers/anvil/issues/32) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Crash in `ClassScannerKsp` because of `@StabilityInferred` annotation cannot be resolved"
-
-**2024-07-25** — merged PR [#33](https://github.com/ZacSweers/anvil/pull/33) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Make annotation resolution more robust"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
