@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-25** — opened issue [#133](https://github.com/MohamedRejeb/Calf/issues/133) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Changing light/dark mode dismisses AdaptiveBottomSheet"
+
+**2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2250419065) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2024-07-25** — closed issue [#29](https://github.com/ZacSweers/anvil/issues/29) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "@MergeModules generates broken binds"
+
+**2024-07-25** — merged PR [#30](https://github.com/ZacSweers/anvil/pull/30) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "stop generating a BindingModule for MergeModules"
+
+**2024-07-25** — commented on [#131](https://github.com/MohamedRejeb/Calf/issues/131#issuecomment-2250373833) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2024-07-25** — closed issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
+
 **2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2250349873) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-25** — opened PR [#132](https://github.com/MohamedRejeb/Calf/pull/132) to [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Plumb down modifier parameter in iOS AdaptiveBottomSheet"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — opened issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
 
 **2024-07-24** — opened issue [#123](https://github.com/MohamedRejeb/Calf/issues/123) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker always uses the current date as the initial date on iOS"
-
-**2024-07-24** — merged PR [#27](https://github.com/ZacSweers/FieldSpottr/pull/27) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.1"
-
-**2024-07-24** — opened issue [#122](https://github.com/MohamedRejeb/Calf/issues/122) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker doesn't propagate colors on iOS"
-
-**2024-07-24** — commented on [#116](https://github.com/MohamedRejeb/Calf/issues/116#issuecomment-2248329992) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-24** — commented on [#115](https://github.com/MohamedRejeb/Calf/issues/115#issuecomment-2248324678) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-24** — commented on [#115](https://github.com/MohamedRejeb/Calf/issues/115#issuecomment-2248226169) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-24** — merged PR [#1559](https://github.com/ZacSweers/CatchUp/pull/1559) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
