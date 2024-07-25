@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-07-25** — merged PR [#31](https://github.com/ZacSweers/anvil/pull/31) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "[ksp] inherit annotated class visibility in merged component"
+**2024-07-25** — merged PR [#644](https://github.com/ZacSweers/MoshiX/pull/644) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-beta02"
 
-**2024-07-25** — opened PR [#33](https://github.com/ZacSweers/anvil/pull/33) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Make annotation resolution more robust"
+**2024-07-25** — merged PR [#1561](https://github.com/ZacSweers/CatchUp/pull/1561) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta06"
 
-**2024-07-25** — created branch `z/robustAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-25** — merged PR [#1562](https://github.com/ZacSweers/CatchUp/pull/1562) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.2"
 
-**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250825702) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-25** — merged PR [#1564](https://github.com/ZacSweers/CatchUp/pull/1564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.2"
 
-**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250768160) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-25** — merged PR [#1565](https://github.com/ZacSweers/CatchUp/pull/1565) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.1"
 
-**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250722013) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-25** — merged PR [#1563](https://github.com/ZacSweers/CatchUp/pull/1563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta05"
 
-**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250676656) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-07-25** — merged PR [#1566](https://github.com/ZacSweers/CatchUp/pull/1566) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.4"
 
-**2024-07-25** — opened issue [#133](https://github.com/MohamedRejeb/Calf/issues/133) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Changing light/dark mode dismisses AdaptiveBottomSheet"
+**2024-07-25** — closed issue [#24](https://github.com/ZacSweers/anvil/issues/24) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Resolve typealiased annotations"
 
-**2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2250419065) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+**2024-07-25** — closed issue [#32](https://github.com/ZacSweers/anvil/issues/32) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Crash in `ClassScannerKsp` because of `@StabilityInferred` annotation cannot be resolved"
 
-**2024-07-25** — closed issue [#29](https://github.com/ZacSweers/anvil/issues/29) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "@MergeModules generates broken binds"
+**2024-07-25** — merged PR [#33](https://github.com/ZacSweers/anvil/pull/33) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Make annotation resolution more robust"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
