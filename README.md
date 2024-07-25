@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250825702) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250768160) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250722013) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-25** — commented on [#31](https://github.com/ZacSweers/anvil/pull/31#issuecomment-2250676656) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-25** — opened issue [#133](https://github.com/MohamedRejeb/Calf/issues/133) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Changing light/dark mode dismisses AdaptiveBottomSheet"
 
 **2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2250419065) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — commented on [#131](https://github.com/MohamedRejeb/Calf/issues/131#issuecomment-2250373833) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-25** — closed issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
-
-**2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2250349873) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-25** — opened PR [#132](https://github.com/MohamedRejeb/Calf/pull/132) to [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Plumb down modifier parameter in iOS AdaptiveBottomSheet"
-
-**2024-07-25** — opened issue [#131](https://github.com/MohamedRejeb/Calf/issues/131) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Consider making MaterialTheme.colorScheme.defaultDatePickerColors public"
-
-**2024-07-24** — opened issue [#123](https://github.com/MohamedRejeb/Calf/issues/123) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "AdaptiveDatePicker always uses the current date as the initial date on iOS"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
