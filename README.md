@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-26** — opened PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
+
+**2024-07-26** — created branch `z/pluginHook` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-25** — merged PR [#1567](https://github.com/ZacSweers/CatchUp/pull/1567) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha03"
 
 **2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2251398956) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — merged PR [#1564](https://github.com/ZacSweers/CatchUp/pull/1564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.2"
 
 **2024-07-25** — merged PR [#1565](https://github.com/ZacSweers/CatchUp/pull/1565) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.1"
-
-**2024-07-25** — merged PR [#1563](https://github.com/ZacSweers/CatchUp/pull/1563) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0-beta05"
-
-**2024-07-25** — merged PR [#1566](https://github.com/ZacSweers/CatchUp/pull/1566) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.8.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
