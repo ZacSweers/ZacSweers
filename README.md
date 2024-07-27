@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-27** — merged PR [#28](https://github.com/ZacSweers/FieldSpottr/pull/28) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.222.0"
+
 **2024-07-26** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2253407942) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-26** — opened PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — merged PR [#1561](https://github.com/ZacSweers/CatchUp/pull/1561) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta06"
 
 **2024-07-25** — merged PR [#1562](https://github.com/ZacSweers/CatchUp/pull/1562) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.2"
-
-**2024-07-25** — merged PR [#1564](https://github.com/ZacSweers/CatchUp/pull/1564) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
