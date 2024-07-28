@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-27** — merged PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
+
 **2024-07-27** — opened PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
 
 **2024-07-27** — created branch `z/contributedFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-26** — created branch `z/pluginHook` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-25** — merged PR [#1567](https://github.com/ZacSweers/CatchUp/pull/1567) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha03"
-
-**2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2251398956) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
