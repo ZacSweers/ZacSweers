@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-27** — created branch `z/contributedFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-07-27** — commented on [#1870](https://github.com/square/moshi/issues/1870#issuecomment-2254280478) in [square/moshi](https://github.com/square/moshi)
 
 **2024-07-27** — closed issue [#1870](https://github.com/square/moshi/issues/1870) on [square/moshi](https://github.com/square/moshi): "KSP2 throws `NoSuchElementException` for data classes with `@JsonAdapter(generateAdapter = true)`"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-25** — commented on [#132](https://github.com/MohamedRejeb/Calf/pull/132#issuecomment-2251398956) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-25** — commented on [#126](https://github.com/MohamedRejeb/Calf/pull/126#issuecomment-2251235607) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-25** — merged PR [#644](https://github.com/ZacSweers/MoshiX/pull/644) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-beta02"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
