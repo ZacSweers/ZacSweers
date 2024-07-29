@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-29** — merged PR [#1542](https://github.com/slackhq/circuit/pull/1542) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify OverlayEffect with OverlayScope"
+
+**2024-07-29** — closed issue [#1522](https://github.com/slackhq/circuit/issues/1522) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add TvOS Targets"
+
+**2024-07-29** — merged PR [#1544](https://github.com/slackhq/circuit/pull/1544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more targets!"
+
 **2024-07-29** — merged PR [#1543](https://github.com/slackhq/circuit/pull/1543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make Overlay a fun interface"
 
 **2024-07-29** — opened issue [#1546](https://github.com/slackhq/circuit/issues/1546) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a recipes project or doc"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-29** — opened PR [#1543](https://github.com/slackhq/circuit/pull/1543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make Overlay a fun interface"
 
 **2024-07-29** — created branch `z/overlapHelper` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-29** — opened PR [#1542](https://github.com/slackhq/circuit/pull/1542) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify OverlayEffect with OverlayScope"
-
-**2024-07-29** — created branch `z/overlayScope` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-28** — merged PR [#195](https://github.com/ZacSweers/ZacSweers/pull/195) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.mordant:mordant-coroutines to v2.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
