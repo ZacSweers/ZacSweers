@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-28** — merged PR [#195](https://github.com/ZacSweers/ZacSweers/pull/195) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.mordant:mordant-coroutines to v2.7.2"
+
 **2024-07-28** — merged PR [#1568](https://github.com/ZacSweers/CatchUp/pull/1568) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.260.0"
 
 **2024-07-28** — merged PR [#1569](https://github.com/ZacSweers/CatchUp/pull/1569) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.33.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-27** — merged PR [#28](https://github.com/ZacSweers/FieldSpottr/pull/28) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.222.0"
 
 **2024-07-26** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2253407942) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-26** — opened PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
