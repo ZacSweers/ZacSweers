@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-29** — commented on [#344](https://github.com/slackhq/compose-lints/issues/344#issuecomment-2256805251) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — closed issue [#344](https://github.com/slackhq/compose-lints/issues/344) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "this doesn't seems right "
+
+**2024-07-29** — commented on [#367](https://github.com/slackhq/compose-lints/issues/367#issuecomment-2256803646) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — commented on [#369](https://github.com/slackhq/compose-lints/issues/369#issuecomment-2256803116) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — commented on [#372](https://github.com/slackhq/compose-lints/issues/372#issuecomment-2256801914) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-2256800096) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — commented on [#374](https://github.com/slackhq/compose-lints/issues/374#issuecomment-2256799955) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-07-29** — opened issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
+
 **2024-07-29** — merged PR [#1542](https://github.com/slackhq/circuit/pull/1542) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify OverlayEffect with OverlayScope"
 
 **2024-07-29** — closed issue [#1522](https://github.com/slackhq/circuit/issues/1522) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add TvOS Targets"
-
-**2024-07-29** — merged PR [#1544](https://github.com/slackhq/circuit/pull/1544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more targets!"
-
-**2024-07-29** — merged PR [#1543](https://github.com/slackhq/circuit/pull/1543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make Overlay a fun interface"
-
-**2024-07-29** — opened issue [#1546](https://github.com/slackhq/circuit/issues/1546) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a recipes project or doc"
-
-**2024-07-29** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2255936972) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-07-29** — opened PR [#1544](https://github.com/slackhq/circuit/pull/1544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more targets!"
-
-**2024-07-29** — created branch `z/moreTargets` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-07-29** — opened PR [#1543](https://github.com/slackhq/circuit/pull/1543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make Overlay a fun interface"
-
-**2024-07-29** — created branch `z/overlapHelper` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
