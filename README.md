@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-28** — merged PR [#1568](https://github.com/ZacSweers/CatchUp/pull/1568) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.260.0"
+
+**2024-07-28** — merged PR [#1569](https://github.com/ZacSweers/CatchUp/pull/1569) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.33.0"
+
 **2024-07-27** — merged PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
 
 **2024-07-27** — opened PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-26** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2253407942) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-26** — opened PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
-
-**2024-07-26** — created branch `z/pluginHook` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-07-25** — merged PR [#1567](https://github.com/ZacSweers/CatchUp/pull/1567) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
