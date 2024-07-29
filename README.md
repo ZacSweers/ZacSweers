@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-29** — opened PR [#1544](https://github.com/slackhq/circuit/pull/1544) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add more targets!"
+
+**2024-07-29** — created branch `z/moreTargets` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-07-29** — opened PR [#1543](https://github.com/slackhq/circuit/pull/1543) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make Overlay a fun interface"
 
 **2024-07-29** — created branch `z/overlapHelper` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-28** — merged PR [#1569](https://github.com/ZacSweers/CatchUp/pull/1569) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v1.33.0"
 
 **2024-07-27** — merged PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
-
-**2024-07-27** — opened PR [#35](https://github.com/ZacSweers/anvil/pull/35) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix handling of contributed subcomponent factory modules"
-
-**2024-07-27** — created branch `z/contributedFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
