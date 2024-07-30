@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258553685) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258400804) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-07-29** — created branch `z/fixesForK2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-29** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-2256800096) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-07-29** — commented on [#374](https://github.com/slackhq/compose-lints/issues/374#issuecomment-2256799955) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-07-29** — opened issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
