@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-30** — opened PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
+
+**2024-07-30** — created branch `z/mergeModulesSameRound` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258583612) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258553685) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258400804) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-29** — commented on [#367](https://github.com/slackhq/compose-lints/issues/367#issuecomment-2256803646) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-07-29** — commented on [#369](https://github.com/slackhq/compose-lints/issues/369#issuecomment-2256803116) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-07-29** — commented on [#372](https://github.com/slackhq/compose-lints/issues/372#issuecomment-2256801914) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-07-29** — commented on [#373](https://github.com/slackhq/compose-lints/issues/373#issuecomment-2256800096) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-07-29** — commented on [#374](https://github.com/slackhq/compose-lints/issues/374#issuecomment-2256799955) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
