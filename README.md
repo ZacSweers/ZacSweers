@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-29** — created branch `z/fixesForK2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-07-29** — commented on [#344](https://github.com/slackhq/compose-lints/issues/344#issuecomment-2256805251) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-07-29** — closed issue [#344](https://github.com/slackhq/compose-lints/issues/344) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "this doesn't seems right "
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-29** — opened issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
 
 **2024-07-29** — merged PR [#1542](https://github.com/slackhq/circuit/pull/1542) to [slackhq/circuit](https://github.com/slackhq/circuit): "Simplify OverlayEffect with OverlayScope"
-
-**2024-07-29** — closed issue [#1522](https://github.com/slackhq/circuit/issues/1522) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add TvOS Targets"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
