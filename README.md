@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-30** — merged PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
+
+**2024-07-30** — created branch `0.17.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-07-30** — opened PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
 
 **2024-07-30** — created branch `z/mergeModulesSameRound` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-29** — commented on [#344](https://github.com/slackhq/compose-lints/issues/344#issuecomment-2256805251) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-07-29** — closed issue [#344](https://github.com/slackhq/compose-lints/issues/344) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "this doesn't seems right "
-
-**2024-07-29** — commented on [#367](https://github.com/slackhq/compose-lints/issues/367#issuecomment-2256803646) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-07-29** — commented on [#369](https://github.com/slackhq/compose-lints/issues/369#issuecomment-2256803116) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
