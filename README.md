@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-30** — created tag `0.17.0.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-07-30** — merged PR [#909](https://github.com/slackhq/slack-gradle-plugin/pull/909) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline dagger ksp handling + remove napt"
+
 **2024-07-30** — created branch `0.17.0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-07-30** — opened PR [#909](https://github.com/slackhq/slack-gradle-plugin/pull/909) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline dagger ksp handling + remove napt"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-30** — created branch `z/mergeModulesSameRound` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258583612) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258553685) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-07-30** — commented on [#263](https://github.com/ZacSweers/kotlin-compile-testing/pull/263#issuecomment-2258400804) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
