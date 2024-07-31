@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-31** — closed issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
+
+**2024-07-31** — commented on [#1874](https://github.com/square/moshi/issues/1874#issuecomment-2260482544) in [square/moshi](https://github.com/square/moshi)
+
 **2024-07-30** — created tag `0.23.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-07-30** — created tag `0.17.0.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-30** — merged PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
 
 **2024-07-30** — created branch `0.17.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-30** — opened PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
-
-**2024-07-30** — created branch `z/mergeModulesSameRound` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
