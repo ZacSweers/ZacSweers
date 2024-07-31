@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-31** — created tag `0.18.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-07-31** — merged PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc compose/KGP fixes"
+
+**2024-07-31** — opened PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "See individual commits!"
+
+**2024-07-31** — created branch `z/kgpFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-07-31** — commented on [#1875](https://github.com/square/moshi/pull/1875#issuecomment-2261196439) in [square/moshi](https://github.com/square/moshi)
 
 **2024-07-31** — opened issue [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55) on [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino): "Incompatible with compose multiplatform 1.7"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-31** — opened issue [#138](https://github.com/MohamedRejeb/Calf/issues/138) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Compose Multiplatform 1.7.x warning in xcode builds"
 
 **2024-07-31** — merged PR [#1570](https://github.com/ZacSweers/CatchUp/pull/1570) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.0-1.0.24"
-
-**2024-07-31** — merged PR [#1571](https://github.com/ZacSweers/CatchUp/pull/1571) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta11"
-
-**2024-07-31** — merged PR [#1572](https://github.com/ZacSweers/CatchUp/pull/1572) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.0.1"
-
-**2024-07-31** — merged PR [#1573](https://github.com/ZacSweers/CatchUp/pull/1573) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.23.0"
-
-**2024-07-31** — closed issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
