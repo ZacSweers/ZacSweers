@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-31** — commented on [#1875](https://github.com/square/moshi/pull/1875#issuecomment-2261196439) in [square/moshi](https://github.com/square/moshi)
+
 **2024-07-31** — opened issue [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55) on [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino): "Incompatible with compose multiplatform 1.7"
 
 **2024-07-31** — commented on [#138](https://github.com/MohamedRejeb/Calf/issues/138#issuecomment-2260641264) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-31** — merged PR [#1573](https://github.com/ZacSweers/CatchUp/pull/1573) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.23.0"
 
 **2024-07-31** — closed issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
-
-**2024-07-31** — commented on [#1874](https://github.com/square/moshi/issues/1874#issuecomment-2260482544) in [square/moshi](https://github.com/square/moshi)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
