@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-07-31** — merged PR [#1570](https://github.com/ZacSweers/CatchUp/pull/1570) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.0-1.0.24"
+
+**2024-07-31** — merged PR [#1571](https://github.com/ZacSweers/CatchUp/pull/1571) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v2.5.0-beta11"
+
+**2024-07-31** — merged PR [#1572](https://github.com/ZacSweers/CatchUp/pull/1572) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.0.1"
+
+**2024-07-31** — merged PR [#1573](https://github.com/ZacSweers/CatchUp/pull/1573) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.23.0"
+
 **2024-07-31** — closed issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
 
 **2024-07-31** — commented on [#1874](https://github.com/square/moshi/issues/1874#issuecomment-2260482544) in [square/moshi](https://github.com/square/moshi)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-30** — merged PR [#909](https://github.com/slackhq/slack-gradle-plugin/pull/909) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline dagger ksp handling + remove napt"
 
 **2024-07-30** — created branch `0.17.0.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-30** — opened PR [#909](https://github.com/slackhq/slack-gradle-plugin/pull/909) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Streamline dagger ksp handling + remove napt"
-
-**2024-07-30** — created branch `z/fixAnvilMode` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-30** — merged PR [#36](https://github.com/ZacSweers/anvil/pull/36) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix merged modules in the same round"
-
-**2024-07-30** — created branch `0.17.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
