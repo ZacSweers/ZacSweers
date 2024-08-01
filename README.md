@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-01** — commented on [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55#issuecomment-2263031255) in [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
+
 **2024-08-01** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2262041030) in [google/ksp](https://github.com/google/ksp)
 
 **2024-08-01** — opened issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class com.google.devtools.ksp.impl.symbol.kotlin.KSClassDeclarationEnumEntryImpl cannot be cast to class dagger.spi.internal.shaded.androidx.room.compiler.processing.XEnumEntry"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-31** — opened issue [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55) on [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino): "Incompatible with compose multiplatform 1.7"
 
 **2024-07-31** — commented on [#138](https://github.com/MohamedRejeb/Calf/issues/138#issuecomment-2260641264) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-07-31** — closed issue [#138](https://github.com/MohamedRejeb/Calf/issues/138) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Compose Multiplatform 1.7.x warning in xcode builds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
