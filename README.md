@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-01** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2262041030) in [google/ksp](https://github.com/google/ksp)
+
+**2024-08-01** — opened issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class com.google.devtools.ksp.impl.symbol.kotlin.KSClassDeclarationEnumEntryImpl cannot be cast to class dagger.spi.internal.shaded.androidx.room.compiler.processing.XEnumEntry"
+
 **2024-07-31** — created tag `0.18.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-07-31** — merged PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc compose/KGP fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-31** — commented on [#138](https://github.com/MohamedRejeb/Calf/issues/138#issuecomment-2260641264) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-07-31** — closed issue [#138](https://github.com/MohamedRejeb/Calf/issues/138) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Compose Multiplatform 1.7.x warning in xcode builds"
-
-**2024-07-31** — opened issue [#138](https://github.com/MohamedRejeb/Calf/issues/138) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Compose Multiplatform 1.7.x warning in xcode builds"
-
-**2024-07-31** — merged PR [#1570](https://github.com/ZacSweers/CatchUp/pull/1570) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.0-1.0.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
