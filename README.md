@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-02** — merged PR [#646](https://github.com/ZacSweers/MoshiX/pull/646) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.3"
+
+**2024-08-02** — merged PR [#132](https://github.com/ZacSweers/auto-service-ksp/pull/132) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.3"
+
+**2024-08-02** — merged PR [#242](https://github.com/ZacSweers/redacted-compiler-plugin/pull/242) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.3"
+
 **2024-08-01** — opened PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
 
 **2024-08-01** — created branch `z/codifyFork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-01** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2262041030) in [google/ksp](https://github.com/google/ksp)
 
 **2024-08-01** — opened issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class com.google.devtools.ksp.impl.symbol.kotlin.KSClassDeclarationEnumEntryImpl cannot be cast to class dagger.spi.internal.shaded.androidx.room.compiler.processing.XEnumEntry"
-
-**2024-07-31** — created tag `0.18.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-31** — merged PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc compose/KGP fixes"
-
-**2024-07-31** — opened PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "See individual commits!"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
