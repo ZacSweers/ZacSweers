@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-02** — merged PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
+
+**2024-08-02** — opened PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
+
+**2024-08-02** — created branch `z/updateMavenPublish` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-02** — closed issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
 
 **2024-08-02** — merged PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
@@ -17,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-01** — opened PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
 
 **2024-08-01** — created branch `z/codifyFork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-01** — merged PR [#1521](https://github.com/ZacSweers/CatchUp/pull/1521) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
