@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-01** — opened PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
+
+**2024-08-01** — created branch `z/codifyFork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-01** — merged PR [#1521](https://github.com/ZacSweers/CatchUp/pull/1521) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.2"
+
 **2024-08-01** — merged PR [#1574](https://github.com/ZacSweers/CatchUp/pull/1574) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.261.0"
 
 **2024-08-01** — commented on [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55#issuecomment-2263031255) in [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-07-31** — merged PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc compose/KGP fixes"
 
 **2024-07-31** — opened PR [#911](https://github.com/slackhq/slack-gradle-plugin/pull/911) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "See individual commits!"
-
-**2024-07-31** — created branch `z/kgpFixes` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-07-31** — commented on [#1875](https://github.com/square/moshi/pull/1875#issuecomment-2261196439) in [square/moshi](https://github.com/square/moshi)
-
-**2024-07-31** — opened issue [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55) on [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino): "Incompatible with compose multiplatform 1.7"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
