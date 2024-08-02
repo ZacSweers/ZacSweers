@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-02** — closed issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
+
+**2024-08-02** — merged PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
+
 **2024-08-02** — merged PR [#646](https://github.com/ZacSweers/MoshiX/pull/646) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.3"
 
 **2024-08-02** — merged PR [#132](https://github.com/ZacSweers/auto-service-ksp/pull/132) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.3"
@@ -15,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-01** — created branch `z/codifyFork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-01** — merged PR [#1521](https://github.com/ZacSweers/CatchUp/pull/1521) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.2"
-
-**2024-08-01** — merged PR [#1574](https://github.com/ZacSweers/CatchUp/pull/1574) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.261.0"
-
-**2024-08-01** — commented on [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55#issuecomment-2263031255) in [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
-
-**2024-08-01** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2262041030) in [google/ksp](https://github.com/google/ksp)
-
-**2024-08-01** — opened issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class com.google.devtools.ksp.impl.symbol.kotlin.KSClassDeclarationEnumEntryImpl cannot be cast to class dagger.spi.internal.shaded.androidx.room.compiler.processing.XEnumEntry"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
