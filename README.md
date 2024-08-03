@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-03** — opened PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
+
 **2024-08-03** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2267165633) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-08-03** — created branch `z/anvilFork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-02** — merged PR [#646](https://github.com/ZacSweers/MoshiX/pull/646) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.3"
 
 **2024-08-02** — merged PR [#132](https://github.com/ZacSweers/auto-service-ksp/pull/132) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.3"
-
-**2024-08-02** — merged PR [#242](https://github.com/ZacSweers/redacted-compiler-plugin/pull/242) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
