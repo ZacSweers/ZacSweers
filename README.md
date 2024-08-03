@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-03** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2267165633) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-08-03** — created branch `z/anvilFork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-02** — merged PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
 
 **2024-08-02** — opened PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-02** — merged PR [#132](https://github.com/ZacSweers/auto-service-ksp/pull/132) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.3"
 
 **2024-08-02** — merged PR [#242](https://github.com/ZacSweers/redacted-compiler-plugin/pull/242) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.16.3"
-
-**2024-08-01** — opened PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
-
-**2024-08-01** — created branch `z/codifyFork` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
