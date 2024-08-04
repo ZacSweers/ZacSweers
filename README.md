@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-03** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2267200642) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-03** — opened PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
 
 **2024-08-03** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2267165633) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-02** — merged PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
 
 **2024-08-02** — merged PR [#646](https://github.com/ZacSweers/MoshiX/pull/646) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.16.3"
-
-**2024-08-02** — merged PR [#132](https://github.com/ZacSweers/auto-service-ksp/pull/132) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.16.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
