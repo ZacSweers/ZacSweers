@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-04** — commented on [#1946](https://github.com/square/kotlinpoet/issues/1946#issuecomment-2267728838) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-08-04** — opened PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
+
+**2024-08-04** — created branch `z/ksAliasFixes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2024-08-04** — commented on [#1945](https://github.com/square/kotlinpoet/issues/1945#issuecomment-2267671523) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-08-03** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2267200642) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-02** — merged PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
 
 **2024-08-02** — opened PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
-
-**2024-08-02** — created branch `z/updateMavenPublish` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-02** — closed issue [#6](https://github.com/ZacSweers/anvil/issues/6) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven coordinates"
-
-**2024-08-02** — merged PR [#37](https://github.com/ZacSweers/anvil/pull/37) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Change coordinates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
