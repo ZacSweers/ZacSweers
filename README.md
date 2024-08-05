@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-04** — created tag `0.18.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-08-04** — merged PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
+
+**2024-08-04** — commented on [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912#issuecomment-2268009941) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-04** — commented on [#1946](https://github.com/square/kotlinpoet/issues/1946#issuecomment-2267728838) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-08-04** — opened PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-03** — opened PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
 
 **2024-08-03** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2267165633) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-08-03** — created branch `z/anvilFork` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-02** — merged PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
-
-**2024-08-02** — opened PR [#38](https://github.com/ZacSweers/anvil/pull/38) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update maven-publish to 0.29.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
