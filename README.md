@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-04** — opened issue [#564](https://github.com/gradle/gradle-profiler/issues/564) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "Feature request: add pre-scenario tasks"
+
 **2024-08-04** — created branch `z/daggerKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-08-04** — created tag `0.18.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-04** — commented on [#1945](https://github.com/square/kotlinpoet/issues/1945#issuecomment-2267671523) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-08-03** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2267200642) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-03** — opened PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
