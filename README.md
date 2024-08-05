@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-05** — Could not load GitHub activity. Please check back later.
+**2024-08-04** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2268109375) in [google/ksp](https://github.com/google/ksp)
+
+**2024-08-04** — opened issue [#564](https://github.com/gradle/gradle-profiler/issues/564) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "Feature request: add pre-scenario tasks"
+
+**2024-08-04** — created branch `z/daggerKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-08-04** — created tag `0.18.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-08-04** — merged PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
+
+**2024-08-04** — commented on [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912#issuecomment-2268009941) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-08-04** — commented on [#1946](https://github.com/square/kotlinpoet/issues/1946#issuecomment-2267728838) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-08-04** — opened PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
+
+**2024-08-04** — created branch `z/ksAliasFixes` on [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-08-04** — commented on [#1945](https://github.com/square/kotlinpoet/issues/1945#issuecomment-2267671523) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
