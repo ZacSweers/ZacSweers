@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-05** — closed PR [#29](https://github.com/ZacSweers/FieldSpottr/pull/29) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.0"
+
+**2024-08-05** — commented on [#135](https://github.com/MohamedRejeb/Calf/pull/135#issuecomment-2269969774) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2024-08-05** — merged PR [#1576](https://github.com/ZacSweers/CatchUp/pull/1576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.3"
+
+**2024-08-05** — merged PR [#1577](https://github.com/ZacSweers/CatchUp/pull/1577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.52"
+
 **2024-08-05** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2269878515) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-08-05** — closed PR [#30](https://github.com/ZacSweers/FieldSpottr/pull/30) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix changing light/dark mode dismisses AdaptiveBottomSheet"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-04** — opened issue [#564](https://github.com/gradle/gradle-profiler/issues/564) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "Feature request: add pre-scenario tasks"
 
 **2024-08-04** — created branch `z/daggerKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2024-08-04** — created tag `0.18.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-04** — merged PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
-
-**2024-08-04** — commented on [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912#issuecomment-2268009941) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-04** — commented on [#1946](https://github.com/square/kotlinpoet/issues/1946#issuecomment-2267728838) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
