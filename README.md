@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-04** — created branch `z/daggerKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2024-08-04** — created tag `0.18.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-08-04** — merged PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-03** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2267200642) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-03** — opened PR [#912](https://github.com/slackhq/slack-gradle-plugin/pull/912) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for anvil-ksp fork"
-
-**2024-08-03** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2267165633) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
