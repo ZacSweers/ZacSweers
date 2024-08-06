@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-06** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2271894142) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-06** — closed PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
+
+**2024-08-06** — opened PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "WIP Extensions API"
+
+**2024-08-06** — created branch `z/extensions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-05** — closed PR [#29](https://github.com/ZacSweers/FieldSpottr/pull/29) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.0"
 
 **2024-08-05** — commented on [#135](https://github.com/MohamedRejeb/Calf/pull/135#issuecomment-2269969774) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-05** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2269878515) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-08-05** — closed PR [#30](https://github.com/ZacSweers/FieldSpottr/pull/30) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix changing light/dark mode dismisses AdaptiveBottomSheet"
-
-**2024-08-05** — commented on [#323](https://github.com/gradle/gradle-profiler/issues/323#issuecomment-2269697286) in [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler)
-
-**2024-08-04** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2268109375) in [google/ksp](https://github.com/google/ksp)
-
-**2024-08-04** — opened issue [#564](https://github.com/gradle/gradle-profiler/issues/564) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "Feature request: add pre-scenario tasks"
-
-**2024-08-04** — created branch `z/daggerKspPrep` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
