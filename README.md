@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-06** — opened PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
+
+**2024-08-06** — created branch `z/fixFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-06** — merged PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce an extensions API"
 
 **2024-08-06** — commented on [#40](https://github.com/ZacSweers/anvil/pull/40#issuecomment-2272172276) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-05** — closed PR [#29](https://github.com/ZacSweers/FieldSpottr/pull/29) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.0"
 
 **2024-08-05** — commented on [#135](https://github.com/MohamedRejeb/Calf/pull/135#issuecomment-2269969774) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
-
-**2024-08-05** — merged PR [#1576](https://github.com/ZacSweers/CatchUp/pull/1576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.3"
-
-**2024-08-05** — merged PR [#1577](https://github.com/ZacSweers/CatchUp/pull/1577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.52"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
