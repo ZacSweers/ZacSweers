@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-07** — opened PR [#1559](https://github.com/slackhq/circuit/pull/1559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to anvil-ksp fork"
+
+**2024-08-07** — created branch `z/anvilKsp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-07** — created tag `0.2.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-07** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2273691436) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-06** — merged PR [#1581](https://github.com/ZacSweers/CatchUp/pull/1581) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
 
 **2024-08-06** — merged PR [#1579](https://github.com/ZacSweers/CatchUp/pull/1579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha04"
-
-**2024-08-06** — opened PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
-
-**2024-08-06** — created branch `z/fixFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
