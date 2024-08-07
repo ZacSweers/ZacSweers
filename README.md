@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-06** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2272561843) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-06** — merged PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
+
+**2024-08-06** — merged PR [#1580](https://github.com/ZacSweers/CatchUp/pull/1580) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.10-1.0.24"
+
+**2024-08-06** — merged PR [#1578](https://github.com/ZacSweers/CatchUp/pull/1578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v2.0.10"
+
+**2024-08-06** — merged PR [#1581](https://github.com/ZacSweers/CatchUp/pull/1581) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
+
+**2024-08-06** — merged PR [#1579](https://github.com/ZacSweers/CatchUp/pull/1579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha04"
+
 **2024-08-06** — opened PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
 
 **2024-08-06** — created branch `z/fixFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-06** — merged PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce an extensions API"
 
 **2024-08-06** — commented on [#40](https://github.com/ZacSweers/anvil/pull/40#issuecomment-2272172276) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-06** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2271894142) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-06** — closed PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
-
-**2024-08-06** — opened PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "WIP Extensions API"
-
-**2024-08-06** — created branch `z/extensions` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-05** — closed PR [#29](https://github.com/ZacSweers/FieldSpottr/pull/29) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.0"
-
-**2024-08-05** — commented on [#135](https://github.com/MohamedRejeb/Calf/pull/135#issuecomment-2269969774) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
