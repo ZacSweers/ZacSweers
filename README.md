@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-07** — opened issue [#110](https://github.com/square/gradle-dependencies-sorter/issues/110) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "0.8 regression: IndexOutOfBoundsException when collecting dependencies"
+
 **2024-08-07** — opened PR [#1559](https://github.com/slackhq/circuit/pull/1559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to anvil-ksp fork"
 
 **2024-08-07** — created branch `z/anvilKsp` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-06** — merged PR [#1578](https://github.com/ZacSweers/CatchUp/pull/1578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v2.0.10"
 
 **2024-08-06** — merged PR [#1581](https://github.com/ZacSweers/CatchUp/pull/1581) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
-
-**2024-08-06** — merged PR [#1579](https://github.com/ZacSweers/CatchUp/pull/1579) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
