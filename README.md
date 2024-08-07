@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-06** — merged PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce an extensions API"
+
+**2024-08-06** — commented on [#40](https://github.com/ZacSweers/anvil/pull/40#issuecomment-2272172276) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-06** — commented on [#34](https://github.com/ZacSweers/anvil/pull/34#issuecomment-2271894142) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-06** — closed PR [#34](https://github.com/ZacSweers/anvil/pull/34) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Implement KspContributingAnnotationsSignal"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-05** — merged PR [#1576](https://github.com/ZacSweers/CatchUp/pull/1576) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.3"
 
 **2024-08-05** — merged PR [#1577](https://github.com/ZacSweers/CatchUp/pull/1577) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.52"
-
-**2024-08-05** — commented on [#30](https://github.com/ZacSweers/FieldSpottr/pull/30#issuecomment-2269878515) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-08-05** — closed PR [#30](https://github.com/ZacSweers/FieldSpottr/pull/30) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix changing light/dark mode dismisses AdaptiveBottomSheet"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
