@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-07** — created tag `0.2.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-07** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2273691436) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-06** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2272561843) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-06** — opened PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
 
 **2024-08-06** — created branch `z/fixFactories` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-06** — merged PR [#40](https://github.com/ZacSweers/anvil/pull/40) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce an extensions API"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
