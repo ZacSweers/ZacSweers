@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — created tag `0.2.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-08** — merged PR [#43](https://github.com/ZacSweers/anvil/pull/43) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix options handling"
+
+**2024-08-08** — opened PR [#43](https://github.com/ZacSweers/anvil/pull/43) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix options handling"
+
+**2024-08-08** — created branch `z/optionFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-08** — merged PR [#1591](https://github.com/ZacSweers/CatchUp/pull/1591) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
 
 **2024-08-08** — merged PR [#1589](https://github.com/ZacSweers/CatchUp/pull/1589) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-alpha14"
@@ -15,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#1584](https://github.com/ZacSweers/CatchUp/pull/1584) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-rc01"
 
 **2024-08-08** — merged PR [#1585](https://github.com/ZacSweers/CatchUp/pull/1585) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta07"
-
-**2024-08-08** — merged PR [#1587](https://github.com/ZacSweers/CatchUp/pull/1587) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.2"
-
-**2024-08-08** — merged PR [#1588](https://github.com/ZacSweers/CatchUp/pull/1588) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-alpha02"
-
-**2024-08-08** — merged PR [#1586](https://github.com/ZacSweers/CatchUp/pull/1586) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
