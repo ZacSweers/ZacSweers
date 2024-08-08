@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#359](https://github.com/slackhq/compose-lints/pull/359) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.0-rc01"
+
+**2024-08-08** — merged PR [#365](https://github.com/slackhq/compose-lints/pull/365) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.29.0"
+
+**2024-08-08** — merged PR [#363](https://github.com/slackhq/compose-lints/pull/363) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.31"
+
+**2024-08-08** — merged PR [#358](https://github.com/slackhq/compose-lints/pull/358) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.6.0-rc01"
+
+**2024-08-08** — created tag `0.2.2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-08** — merged PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
+
+**2024-08-08** — opened PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
+
+**2024-08-08** — created branch `z/fixInitBlock` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-08** — merged PR [#44](https://github.com/ZacSweers/anvil/pull/44) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce AnvilKspOptionsProvider"
+
 **2024-08-08** — opened PR [#44](https://github.com/ZacSweers/anvil/pull/44) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce AnvilKspOptionsProvider"
-
-**2024-08-08** — created branch `z/fixCLAP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-08** — created tag `0.2.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-08** — merged PR [#43](https://github.com/ZacSweers/anvil/pull/43) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix options handling"
-
-**2024-08-08** — opened PR [#43](https://github.com/ZacSweers/anvil/pull/43) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix options handling"
-
-**2024-08-08** — created branch `z/optionFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-08** — merged PR [#1591](https://github.com/ZacSweers/CatchUp/pull/1591) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
-
-**2024-08-08** — merged PR [#1589](https://github.com/ZacSweers/CatchUp/pull/1589) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-alpha14"
-
-**2024-08-08** — merged PR [#1582](https://github.com/ZacSweers/CatchUp/pull/1582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.262.0"
-
-**2024-08-08** — merged PR [#1583](https://github.com/ZacSweers/CatchUp/pull/1583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha06"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
