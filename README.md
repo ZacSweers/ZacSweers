@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#1582](https://github.com/ZacSweers/CatchUp/pull/1582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.262.0"
+
+**2024-08-08** — merged PR [#1583](https://github.com/ZacSweers/CatchUp/pull/1583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha06"
+
+**2024-08-08** — merged PR [#1584](https://github.com/ZacSweers/CatchUp/pull/1584) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-rc01"
+
+**2024-08-08** — merged PR [#1585](https://github.com/ZacSweers/CatchUp/pull/1585) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta07"
+
+**2024-08-08** — merged PR [#1587](https://github.com/ZacSweers/CatchUp/pull/1587) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.2"
+
+**2024-08-08** — merged PR [#1588](https://github.com/ZacSweers/CatchUp/pull/1588) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-alpha02"
+
+**2024-08-08** — merged PR [#1586](https://github.com/ZacSweers/CatchUp/pull/1586) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.3"
+
 **2024-08-08** — merged PR [#33](https://github.com/ZacSweers/FieldSpottr/pull/33) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
 
 **2024-08-08** — closed issue [#1945](https://github.com/square/kotlinpoet/issues/1945) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSAnnotation.toAnnotationSpec() fails if the KSAnnotation is a typealias to another Annotation"
 
 **2024-08-08** — merged PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
-
-**2024-08-07** — closed issue [#39](https://github.com/ZacSweers/anvil/issues/39) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP2: KaInvalidLifetimeOwnerAccessException in KspContributesSubcomponentHandlerSymbolProcessor"
-
-**2024-08-07** — merged PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
-
-**2024-08-07** — opened issue [#4381](https://github.com/google/dagger/issues/4381) on [google/dagger](https://github.com/google/dagger): "[KSP2] Assisted injection appears to not work correctly in KSP2"
-
-**2024-08-07** — opened PR [#1561](https://github.com/slackhq/circuit/pull/1561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test dagger-ksp w/ KSP2"
-
-**2024-08-07** — created branch `z/ksp2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-07** — opened PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
-
-**2024-08-07** — created branch `z/k2Error` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
