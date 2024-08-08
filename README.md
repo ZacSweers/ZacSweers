@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — opened PR [#44](https://github.com/ZacSweers/anvil/pull/44) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce AnvilKspOptionsProvider"
+
+**2024-08-08** — created branch `z/fixCLAP` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-08** — created tag `0.2.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-08** — merged PR [#43](https://github.com/ZacSweers/anvil/pull/43) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix options handling"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#1582](https://github.com/ZacSweers/CatchUp/pull/1582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.262.0"
 
 **2024-08-08** — merged PR [#1583](https://github.com/ZacSweers/CatchUp/pull/1583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha06"
-
-**2024-08-08** — merged PR [#1584](https://github.com/ZacSweers/CatchUp/pull/1584) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.3.0-rc01"
-
-**2024-08-08** — merged PR [#1585](https://github.com/ZacSweers/CatchUp/pull/1585) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-beta07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
