@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#46](https://github.com/ZacSweers/anvil/pull/46) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document alternatives and limitations"
+
+**2024-08-08** — opened PR [#46](https://github.com/ZacSweers/anvil/pull/46) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document alternatives and limitations"
+
+**2024-08-08** — created branch `z/moreDocs` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-08** — merged PR [#359](https://github.com/slackhq/compose-lints/pull/359) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.0-rc01"
 
 **2024-08-08** — merged PR [#365](https://github.com/slackhq/compose-lints/pull/365) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin mavenPublish to v0.29.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
 
 **2024-08-08** — opened PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
-
-**2024-08-08** — created branch `z/fixInitBlock` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-08** — merged PR [#44](https://github.com/ZacSweers/anvil/pull/44) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce AnvilKspOptionsProvider"
-
-**2024-08-08** — opened PR [#44](https://github.com/ZacSweers/anvil/pull/44) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce AnvilKspOptionsProvider"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
