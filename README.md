@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#1591](https://github.com/ZacSweers/CatchUp/pull/1591) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
+
+**2024-08-08** — merged PR [#1589](https://github.com/ZacSweers/CatchUp/pull/1589) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-alpha14"
+
 **2024-08-08** — merged PR [#1582](https://github.com/ZacSweers/CatchUp/pull/1582) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.262.0"
 
 **2024-08-08** — merged PR [#1583](https://github.com/ZacSweers/CatchUp/pull/1583) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha06"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#1588](https://github.com/ZacSweers/CatchUp/pull/1588) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-alpha02"
 
 **2024-08-08** — merged PR [#1586](https://github.com/ZacSweers/CatchUp/pull/1586) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.4.3"
-
-**2024-08-08** — merged PR [#33](https://github.com/ZacSweers/FieldSpottr/pull/33) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
-
-**2024-08-08** — closed issue [#1945](https://github.com/square/kotlinpoet/issues/1945) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSAnnotation.toAnnotationSpec() fails if the KSAnnotation is a typealias to another Annotation"
-
-**2024-08-08** — merged PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
