@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — closed issue [#1945](https://github.com/square/kotlinpoet/issues/1945) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSAnnotation.toAnnotationSpec() fails if the KSAnnotation is a typealias to another Annotation"
+
+**2024-08-08** — merged PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
+
 **2024-08-07** — closed issue [#39](https://github.com/ZacSweers/anvil/issues/39) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP2: KaInvalidLifetimeOwnerAccessException in KspContributesSubcomponentHandlerSymbolProcessor"
 
 **2024-08-07** — merged PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-07** — created branch `z/k2Error` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-07** — opened PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
-
-**2024-08-07** — created branch `z/doNotCacheBetweenRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-07** — merged PR [#1559](https://github.com/slackhq/circuit/pull/1559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to anvil-ksp fork"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
