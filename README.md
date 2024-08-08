@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-07** — opened issue [#110](https://github.com/square/gradle-dependencies-sorter/issues/110) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "0.8 regression: IndexOutOfBoundsException when collecting dependencies"
+**2024-08-07** — closed issue [#39](https://github.com/ZacSweers/anvil/issues/39) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "KSP2: KaInvalidLifetimeOwnerAccessException in KspContributesSubcomponentHandlerSymbolProcessor"
 
-**2024-08-07** — opened PR [#1559](https://github.com/slackhq/circuit/pull/1559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to anvil-ksp fork"
+**2024-08-07** — merged PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
 
-**2024-08-07** — created branch `z/anvilKsp` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-08-07** — opened issue [#4381](https://github.com/google/dagger/issues/4381) on [google/dagger](https://github.com/google/dagger): "[KSP2] Assisted injection appears to not work correctly in KSP2"
 
-**2024-08-07** — created tag `0.2.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-08-07** — opened PR [#1561](https://github.com/slackhq/circuit/pull/1561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test dagger-ksp w/ KSP2"
 
-**2024-08-07** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2273691436) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-08-07** — created branch `z/ksp2` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-08-06** — commented on [#39](https://github.com/ZacSweers/anvil/issues/39#issuecomment-2272561843) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-08-07** — opened PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
 
-**2024-08-06** — merged PR [#41](https://github.com/ZacSweers/anvil/pull/41) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Allow component merging even if generating factories"
+**2024-08-07** — created branch `z/k2Error` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-08-06** — merged PR [#1580](https://github.com/ZacSweers/CatchUp/pull/1580) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.10-1.0.24"
+**2024-08-07** — opened PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
 
-**2024-08-06** — merged PR [#1578](https://github.com/ZacSweers/CatchUp/pull/1578) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v2.0.10"
+**2024-08-07** — created branch `z/doNotCacheBetweenRounds` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-08-06** — merged PR [#1581](https://github.com/ZacSweers/CatchUp/pull/1581) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
+**2024-08-07** — merged PR [#1559](https://github.com/slackhq/circuit/pull/1559) to [slackhq/circuit](https://github.com/slackhq/circuit): "Switch to anvil-ksp fork"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
