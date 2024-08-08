@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#33](https://github.com/ZacSweers/FieldSpottr/pull/33) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.7.0"
+
 **2024-08-08** — closed issue [#1945](https://github.com/square/kotlinpoet/issues/1945) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSAnnotation.toAnnotationSpec() fails if the KSAnnotation is a typealias to another Annotation"
 
 **2024-08-08** — merged PR [#1956](https://github.com/square/kotlinpoet/pull/1956) to [square/kotlinpoet](https://github.com/square/kotlinpoet): "KSP typealias fixes"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-07** — opened PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
 
 **2024-08-07** — created branch `z/k2Error` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-07** — opened PR [#42](https://github.com/ZacSweers/anvil/pull/42) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Don't cache symbols between rounds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
