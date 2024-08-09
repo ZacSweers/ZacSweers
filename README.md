@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — merged PR [#1567](https://github.com/slackhq/circuit/pull/1567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v0.2.2"
+
 **2024-08-09** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2278010490) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-08** — merged PR [#645](https://github.com/ZacSweers/MoshiX/pull/645) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.10-1.0.24"
