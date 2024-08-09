@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#1594](https://github.com/ZacSweers/CatchUp/pull/1594) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha05"
+
+**2024-08-08** — merged PR [#1593](https://github.com/ZacSweers/CatchUp/pull/1593) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha05"
+
 **2024-08-08** — merged PR [#46](https://github.com/ZacSweers/anvil/pull/46) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document alternatives and limitations"
 
 **2024-08-08** — opened PR [#46](https://github.com/ZacSweers/anvil/pull/46) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document alternatives and limitations"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#363](https://github.com/slackhq/compose-lints/pull/363) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.31"
 
 **2024-08-08** — merged PR [#358](https://github.com/slackhq/compose-lints/pull/358) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint-latest to v31.6.0-rc01"
-
-**2024-08-08** — created tag `0.2.2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-08** — merged PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
-
-**2024-08-08** — opened PR [#45](https://github.com/ZacSweers/anvil/pull/45) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix init order in AnvilExtension"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
