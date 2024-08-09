@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — opened PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
+
+**2024-08-09** — created branch `z/betterNames` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-09** — commented on [#378](https://github.com/slackhq/compose-lints/pull/378#issuecomment-2278352765) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-08-09** — merged PR [#1567](https://github.com/slackhq/circuit/pull/1567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v0.2.2"
