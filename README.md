@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2278010490) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-08** — merged PR [#645](https://github.com/ZacSweers/MoshiX/pull/645) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.10-1.0.24"
 
 **2024-08-08** — merged PR [#648](https://github.com/ZacSweers/MoshiX/pull/648) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-rc01"
@@ -13,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#649](https://github.com/ZacSweers/MoshiX/pull/649) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.5.2"
 
 **2024-08-08** — merged PR [#1594](https://github.com/ZacSweers/CatchUp/pull/1594) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha05"
-
-**2024-08-08** — merged PR [#1593](https://github.com/ZacSweers/CatchUp/pull/1593) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
