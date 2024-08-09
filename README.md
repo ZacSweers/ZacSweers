@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — merged PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
+
+**2024-08-09** — merged PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
+
+**2024-08-09** — opened PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
+
+**2024-08-09** — created branch `z/abstract` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-09** — opened PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
 
 **2024-08-09** — created branch `z/betterNames` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -15,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-09** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2278010490) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-08** — merged PR [#645](https://github.com/ZacSweers/MoshiX/pull/645) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.10-1.0.24"
-
-**2024-08-08** — merged PR [#648](https://github.com/ZacSweers/MoshiX/pull/648) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-rc01"
-
-**2024-08-08** — closed PR [#643](https://github.com/ZacSweers/MoshiX/pull/643) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 2.0.10"
-
-**2024-08-08** — merged PR [#649](https://github.com/ZacSweers/MoshiX/pull/649) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
