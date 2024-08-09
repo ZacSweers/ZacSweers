@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-08** — merged PR [#645](https://github.com/ZacSweers/MoshiX/pull/645) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.10-1.0.24"
+
 **2024-08-08** — merged PR [#648](https://github.com/ZacSweers/MoshiX/pull/648) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.6.0-rc01"
 
 **2024-08-08** — closed PR [#643](https://github.com/ZacSweers/MoshiX/pull/643) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 2.0.10"
@@ -13,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — merged PR [#1594](https://github.com/ZacSweers/CatchUp/pull/1594) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha05"
 
 **2024-08-08** — merged PR [#1593](https://github.com/ZacSweers/CatchUp/pull/1593) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha05"
-
-**2024-08-08** — merged PR [#46](https://github.com/ZacSweers/anvil/pull/46) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Document alternatives and limitations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
