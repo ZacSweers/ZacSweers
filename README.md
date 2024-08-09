@@ -13,8 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-08** — closed PR [#643](https://github.com/ZacSweers/MoshiX/pull/643) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prepare for Kotlin 2.0.10"
 
 **2024-08-08** — merged PR [#649](https://github.com/ZacSweers/MoshiX/pull/649) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.5.2"
-
-**2024-08-08** — merged PR [#1594](https://github.com/ZacSweers/CatchUp/pull/1594) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
