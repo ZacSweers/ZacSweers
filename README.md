@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — merged PR [#50](https://github.com/ZacSweers/anvil/pull/50) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update README.md"
+
+**2024-08-09** — opened PR [#50](https://github.com/ZacSweers/anvil/pull/50) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update README.md"
+
+**2024-08-09** — created branch `ZacSweers-patch-1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-09** — created tag `0.2.3` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-09** — opened issue [#49](https://github.com/ZacSweers/anvil/issues/49) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source compatibility enhancement: merge merged modules in IR"
+
+**2024-08-09** — merged PR [#1568](https://github.com/slackhq/circuit/pull/1568) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v40"
+
 **2024-08-09** — merged PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
 
 **2024-08-09** — merged PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
@@ -11,23 +23,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-09** — opened PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
 
 **2024-08-09** — created branch `z/abstract` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-09** — opened PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
-
-**2024-08-09** — created branch `z/betterNames` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-09** — commented on [#378](https://github.com/slackhq/compose-lints/pull/378#issuecomment-2278352765) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-08-09** — merged PR [#1567](https://github.com/slackhq/circuit/pull/1567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v0.2.2"
-
-**2024-08-09** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2278010490) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-08** — merged PR [#645](https://github.com/ZacSweers/MoshiX/pull/645) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.10-1.0.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2024-08-09** — [Introducing: Anvil-KSP](https://www.zacsweers.dev/introducing-anvil-ksp/)
+
 **2024-05-06** — [Preparing for K2](https://www.zacsweers.dev/preparing-for-k2/)
 
 **2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-10-17** — [Is ViewPump A Security Risk?](https://www.zacsweers.dev/is-viewpump-a-security-risk/)
 
 **2022-05-23** — [You Are Not Blocked](https://www.zacsweers.dev/you-are-not-blocked/)
-
-**2021-07-23** — [Optimizing Your Kotlin Build](https://www.zacsweers.dev/optimizing-your-kotlin-build/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
