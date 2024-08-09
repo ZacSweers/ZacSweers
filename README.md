@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-09** — commented on [#378](https://github.com/slackhq/compose-lints/pull/378#issuecomment-2278352765) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-08-09** — merged PR [#1567](https://github.com/slackhq/circuit/pull/1567) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v0.2.2"
 
 **2024-08-09** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2278010490) in [slackhq/circuit](https://github.com/slackhq/circuit)
