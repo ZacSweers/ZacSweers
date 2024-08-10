@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-10** — opened issue [#1571](https://github.com/slackhq/circuit/issues/1571) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen assumes primary constructor is the injectable one"
+
 **2024-08-09** — merged PR [#50](https://github.com/ZacSweers/anvil/pull/50) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update README.md"
 
 **2024-08-09** — opened PR [#50](https://github.com/ZacSweers/anvil/pull/50) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update README.md"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-09** — merged PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
 
 **2024-08-09** — opened PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
-
-**2024-08-09** — created branch `z/abstract` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
