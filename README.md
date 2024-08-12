@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — merged PR [#1599](https://github.com/ZacSweers/CatchUp/pull/1599) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
+
 **2024-08-12** — merged PR [#1598](https://github.com/ZacSweers/CatchUp/pull/1598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.3"
 
 **2024-08-12** — closed issue [#51](https://github.com/ZacSweers/anvil/issues/51) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Contributed Parent interfaces on MergedSubcomponents are getting double added to the parent component"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — merged PR [#1596](https://github.com/ZacSweers/CatchUp/pull/1596) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.30.0"
 
 **2024-08-12** — opened PR [#1597](https://github.com/ZacSweers/CatchUp/pull/1597) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to anvil-ksp"
-
-**2024-08-11** — closed PR [#241](https://github.com/ZacSweers/redacted-compiler-plugin/pull/241) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.10-1.0.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
