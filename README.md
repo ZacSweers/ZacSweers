@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — opened PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
+
+**2024-08-12** — created branch `z/previewHelpers` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-08-12** — created tag `0.18.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-12** — merged PR [#920](https://github.com/slackhq/slack-gradle-plugin/pull/920) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a kapt language version override"
 
 **2024-08-12** — opened PR [#920](https://github.com/slackhq/slack-gradle-plugin/pull/920) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a kapt language version override"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — merged PR [#1598](https://github.com/ZacSweers/CatchUp/pull/1598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.3"
 
 **2024-08-12** — closed issue [#51](https://github.com/ZacSweers/anvil/issues/51) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Contributed Parent interfaces on MergedSubcomponents are getting double added to the parent component"
-
-**2024-08-12** — commented on [#51](https://github.com/ZacSweers/anvil/issues/51#issuecomment-2283946330) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-12** — merged PR [#1597](https://github.com/ZacSweers/CatchUp/pull/1597) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to anvil-ksp"
-
-**2024-08-12** — merged PR [#243](https://github.com/ZacSweers/redacted-compiler-plugin/pull/243) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update gradle/actions action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
