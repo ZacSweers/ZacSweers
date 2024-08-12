@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — closed issue [#1572](https://github.com/slackhq/circuit/issues/1572) on [slackhq/circuit](https://github.com/slackhq/circuit): "Check for local inspection in default `onUnavailableContent` and use a nicer placeholder"
+
+**2024-08-12** — merged PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
+
+**2024-08-12** — opened PR [#1574](https://github.com/slackhq/circuit/pull/1574) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support secondary constructors for injection"
+
+**2024-08-12** — created branch `z/multiInject` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-12** — opened PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
 
 **2024-08-12** — created branch `z/previewHelpers` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — opened PR [#920](https://github.com/slackhq/slack-gradle-plugin/pull/920) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a kapt language version override"
 
 **2024-08-12** — created branch `z/kaptLangOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-12** — opened issue [#1572](https://github.com/slackhq/circuit/issues/1572) on [slackhq/circuit](https://github.com/slackhq/circuit): "Check for local inspection in default `onUnavailableContent` and use a nicer placeholder"
-
-**2024-08-12** — merged PR [#1599](https://github.com/ZacSweers/CatchUp/pull/1599) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
-
-**2024-08-12** — merged PR [#1598](https://github.com/ZacSweers/CatchUp/pull/1598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.3"
-
-**2024-08-12** — closed issue [#51](https://github.com/ZacSweers/anvil/issues/51) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Contributed Parent interfaces on MergedSubcomponents are getting double added to the parent component"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
