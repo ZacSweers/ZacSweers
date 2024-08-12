@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — opened PR [#920](https://github.com/slackhq/slack-gradle-plugin/pull/920) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add a kapt language version override"
+
+**2024-08-12** — created branch `z/kaptLangOverride` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-12** — opened issue [#1572](https://github.com/slackhq/circuit/issues/1572) on [slackhq/circuit](https://github.com/slackhq/circuit): "Check for local inspection in default `onUnavailableContent` and use a nicer placeholder"
 
 **2024-08-12** — merged PR [#1599](https://github.com/ZacSweers/CatchUp/pull/1599) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — merged PR [#243](https://github.com/ZacSweers/redacted-compiler-plugin/pull/243) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update gradle/actions action to v4"
 
 **2024-08-12** — opened issue [#80](https://github.com/slackhq/EitherNet/issues/80) on [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add a tag from EitherNet controller to indicate that a result is under test and respect it in exponential backoff"
-
-**2024-08-12** — merged PR [#240](https://github.com/ZacSweers/redacted-compiler-plugin/pull/240) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.0.10"
-
-**2024-08-12** — merged PR [#1596](https://github.com/ZacSweers/CatchUp/pull/1596) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.30.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
