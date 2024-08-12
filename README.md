@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — merged PR [#1598](https://github.com/ZacSweers/CatchUp/pull/1598) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.3"
+
+**2024-08-12** — closed issue [#51](https://github.com/ZacSweers/anvil/issues/51) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Contributed Parent interfaces on MergedSubcomponents are getting double added to the parent component"
+
+**2024-08-12** — commented on [#51](https://github.com/ZacSweers/anvil/issues/51#issuecomment-2283946330) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-12** — merged PR [#1597](https://github.com/ZacSweers/CatchUp/pull/1597) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to anvil-ksp"
 
 **2024-08-12** — merged PR [#243](https://github.com/ZacSweers/redacted-compiler-plugin/pull/243) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update gradle/actions action to v4"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — opened PR [#1597](https://github.com/ZacSweers/CatchUp/pull/1597) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Switch to anvil-ksp"
 
 **2024-08-11** — closed PR [#241](https://github.com/ZacSweers/redacted-compiler-plugin/pull/241) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.10-1.0.24"
-
-**2024-08-11** — closed PR [#244](https://github.com/ZacSweers/redacted-compiler-plugin/pull/244) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.0.10"
-
-**2024-08-11** — commented on [#52](https://github.com/ZacSweers/anvil/issues/52#issuecomment-2282963076) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-11** — closed issue [#52](https://github.com/ZacSweers/anvil/issues/52) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "`@AssistedInject` doesn't seem to work with typealiased parameters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
