@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-11** — commented on [#52](https://github.com/ZacSweers/anvil/issues/52#issuecomment-2282963076) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-11** — closed issue [#52](https://github.com/ZacSweers/anvil/issues/52) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "`@AssistedInject` doesn't seem to work with typealiased parameters"
+
 **2024-08-10** — opened issue [#1571](https://github.com/slackhq/circuit/issues/1571) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen assumes primary constructor is the injectable one"
 
 **2024-08-09** — merged PR [#50](https://github.com/ZacSweers/anvil/pull/50) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Update README.md"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-09** — merged PR [#1568](https://github.com/slackhq/circuit/pull/1568) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update renovatebot/github-action action to v40"
 
 **2024-08-09** — merged PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
-
-**2024-08-09** — merged PR [#47](https://github.com/ZacSweers/anvil/pull/47) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Use more unique names for default parent component functions"
-
-**2024-08-09** — opened PR [#48](https://github.com/ZacSweers/anvil/pull/48) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Strip ABSTRACT modifiers if present when overriding component returning functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
