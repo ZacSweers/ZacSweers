@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-13** — commented on [#1577](https://github.com/slackhq/circuit/pull/1577#issuecomment-2286816732) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-08-13** — closed PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
 
-**2024-08-13** — opened PR [#1577](https://github.com/slackhq/circuit/pull/1577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix non-dismissable bottom sheets being dismissable on backpress"
+**2024-08-13** — commented on [#1002](https://github.com/square/anvil/pull/1002#issuecomment-2287091675) in [square/anvil](https://github.com/square/anvil)
 
-**2024-08-13** — created branch `z/fixDismissOnBackpress` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-08-13** — closed PR [#1002](https://github.com/square/anvil/pull/1002) to [square/anvil](https://github.com/square/anvil): "Add ComponentProcessingMode to test APIs"
 
-**2024-08-13** — commented on [#1549](https://github.com/slackhq/circuit/issues/1549#issuecomment-2286624222) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-08-13** — commented on [#1001](https://github.com/square/anvil/pull/1001#issuecomment-2287091545) in [square/anvil](https://github.com/square/anvil)
 
-**2024-08-13** — merged PR [#32](https://github.com/ZacSweers/FieldSpottr/pull/32) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.0.10"
+**2024-08-13** — closed PR [#1001](https://github.com/square/anvil/pull/1001) to [square/anvil](https://github.com/square/anvil): "Implement contribution merging in KSP"
 
-**2024-08-13** — commented on [#1571](https://github.com/slackhq/circuit/issues/1571#issuecomment-2286599051) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-08-13** — opened PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
 
-**2024-08-13** — closed issue [#1571](https://github.com/slackhq/circuit/issues/1571) on [slackhq/circuit](https://github.com/slackhq/circuit): "Code gen assumes primary constructor is the injectable one"
+**2024-08-13** — created branch `z/sourceExtensionAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-08-13** — merged PR [#1575](https://github.com/slackhq/circuit/pull/1575) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update anvil to v0.2.4"
+**2024-08-13** — created tag `0.23.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-08-13** — merged PR [#1602](https://github.com/ZacSweers/CatchUp/pull/1602) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.9.0-RC.2"
+**2024-08-13** — closed issue [#1549](https://github.com/slackhq/circuit/issues/1549) on [slackhq/circuit](https://github.com/slackhq/circuit): "Crash on CircuitX BottomSheetOverlay when dismissing via system back button/gesture "
 
-**2024-08-13** — merged PR [#34](https://github.com/ZacSweers/FieldSpottr/pull/34) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.2"
+**2024-08-13** — merged PR [#1577](https://github.com/slackhq/circuit/pull/1577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix non-dismissable bottom sheets being dismissable on backpress"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
