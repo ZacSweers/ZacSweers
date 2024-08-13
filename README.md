@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-13** — merged PR [#1601](https://github.com/ZacSweers/CatchUp/pull/1601) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.4"
+
 **2024-08-12** — commented on [#4376](https://github.com/google/dagger/issues/4376#issuecomment-2285281354) in [google/dagger](https://github.com/google/dagger)
 
 **2024-08-12** — closed issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class KSClassDeclarationEnumEntryImpl cannot be cast to class XEnumEntry"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — opened PR [#53](https://github.com/ZacSweers/anvil/pull/53) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Significantly improve error messaging when encountering error types"
 
 **2024-08-12** — created branch `z/betterKspTypeNameErrors` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-12** — merged PR [#1574](https://github.com/slackhq/circuit/pull/1574) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support secondary constructors for injection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
