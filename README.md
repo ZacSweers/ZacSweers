@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — merged PR [#53](https://github.com/ZacSweers/anvil/pull/53) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Significantly improve error messaging when encountering error types"
+
 **2024-08-12** — opened PR [#53](https://github.com/ZacSweers/anvil/pull/53) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Significantly improve error messaging when encountering error types"
 
 **2024-08-12** — created branch `z/betterKspTypeNameErrors` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — created branch `z/multiInject` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-12** — opened PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
-
-**2024-08-12** — created branch `z/previewHelpers` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
