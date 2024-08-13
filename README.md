@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-12** — commented on [#4376](https://github.com/google/dagger/issues/4376#issuecomment-2285281354) in [google/dagger](https://github.com/google/dagger)
+
+**2024-08-12** — closed issue [#4376](https://github.com/google/dagger/issues/4376) on [google/dagger](https://github.com/google/dagger): "[KSP2] ClassCastException: class KSClassDeclarationEnumEntryImpl cannot be cast to class XEnumEntry"
+
+**2024-08-12** — created tag `0.2.4` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-12** — commented on [#4381](https://github.com/google/dagger/issues/4381#issuecomment-2285262956) in [google/dagger](https://github.com/google/dagger)
+
+**2024-08-12** — closed issue [#4381](https://github.com/google/dagger/issues/4381) on [google/dagger](https://github.com/google/dagger): "Assisted injection appears to not work correctly in some cases"
+
+**2024-08-12** — commented on [#4381](https://github.com/google/dagger/issues/4381#issuecomment-2285262331) in [google/dagger](https://github.com/google/dagger)
+
 **2024-08-12** — merged PR [#53](https://github.com/ZacSweers/anvil/pull/53) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Significantly improve error messaging when encountering error types"
 
 **2024-08-12** — opened PR [#53](https://github.com/ZacSweers/anvil/pull/53) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Significantly improve error messaging when encountering error types"
@@ -11,24 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-12** — created branch `z/betterKspTypeNameErrors` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-12** — merged PR [#1574](https://github.com/slackhq/circuit/pull/1574) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support secondary constructors for injection"
-
-**2024-08-12** — merged PR [#1600](https://github.com/ZacSweers/CatchUp/pull/1600) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.18.4"
-
-**2024-08-12** — closed issue [#1572](https://github.com/slackhq/circuit/issues/1572) on [slackhq/circuit](https://github.com/slackhq/circuit): "Check for local inspection in default `onUnavailableContent` and use a nicer placeholder"
-
-**2024-08-12** — merged PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
-
-**2024-08-12** — opened PR [#1574](https://github.com/slackhq/circuit/pull/1574) to [slackhq/circuit](https://github.com/slackhq/circuit): "Support secondary constructors for injection"
-
-**2024-08-12** — created branch `z/multiInject` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-12** — opened PR [#1573](https://github.com/slackhq/circuit/pull/1573) to [slackhq/circuit](https://github.com/slackhq/circuit): "Small improvements for using circuit in previews"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-08-12** — Could not load blog content. Please check back later.
+**2024-08-13** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
