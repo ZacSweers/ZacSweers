@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-13** — opened PR [#1577](https://github.com/slackhq/circuit/pull/1577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix non-dismissable bottom sheets being dismissable on backpress"
+
 **2024-08-13** — created branch `z/fixDismissOnBackpress` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-13** — commented on [#1549](https://github.com/slackhq/circuit/issues/1549#issuecomment-2286624222) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-13** — merged PR [#34](https://github.com/ZacSweers/FieldSpottr/pull/34) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.5.2"
 
 **2024-08-13** — merged PR [#35](https://github.com/ZacSweers/FieldSpottr/pull/35) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.coroutines to v1.9.0-RC.2"
-
-**2024-08-13** — commented on [#1883](https://github.com/google/ksp/issues/1883#issuecomment-2286545864) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
