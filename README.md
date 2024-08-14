@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-14** — commented on [#621](https://github.com/ZacSweers/MoshiX/pull/621#issuecomment-2287878928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-08-14** — merged PR [#275](https://github.com/ZacSweers/kotlin-compile-testing/pull/275) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.10-1.0.24"
+
+**2024-08-14** — merged PR [#278](https://github.com/ZacSweers/kotlin-compile-testing/pull/278) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.0.10"
+
+**2024-08-14** — closed PR [#274](https://github.com/ZacSweers/kotlin-compile-testing/pull/274) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prepare for 2.0.10"
+
+**2024-08-14** — merged PR [#1605](https://github.com/ZacSweers/CatchUp/pull/1605) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.2.5"
+
 **2024-08-13** — created tag `0.2.5` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-13** — merged PR [#1603](https://github.com/ZacSweers/CatchUp/pull/1603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha06"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-13** — closed PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
 
 **2024-08-13** — commented on [#1002](https://github.com/square/anvil/pull/1002#issuecomment-2287091675) in [square/anvil](https://github.com/square/anvil)
-
-**2024-08-13** — closed PR [#1002](https://github.com/square/anvil/pull/1002) to [square/anvil](https://github.com/square/anvil): "Add ComponentProcessingMode to test APIs"
-
-**2024-08-13** — commented on [#1001](https://github.com/square/anvil/pull/1001#issuecomment-2287091545) in [square/anvil](https://github.com/square/anvil)
-
-**2024-08-13** — closed PR [#1001](https://github.com/square/anvil/pull/1001) to [square/anvil](https://github.com/square/anvil): "Implement contribution merging in KSP"
-
-**2024-08-13** — opened PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
-
-**2024-08-13** — created branch `z/sourceExtensionAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
