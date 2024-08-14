@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-14** — Could not load GitHub activity. Please check back later.
+**2024-08-14** — merged PR [#650](https://github.com/ZacSweers/MoshiX/pull/650) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.10"
+
+**2024-08-14** — merged PR [#135](https://github.com/ZacSweers/auto-service-ksp/pull/135) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.10"
+
+**2024-08-14** — merged PR [#1606](https://github.com/ZacSweers/CatchUp/pull/1606) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.10"
+
+**2024-08-14** — opened PR [#1607](https://github.com/ZacSweers/CatchUp/pull/1607) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.0.20 prep"
+
+**2024-08-14** — created branch `z/k2020` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-08-14** — merged PR [#200](https://github.com/ZacSweers/ZacSweers/pull/200) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.10"
+
+**2024-08-14** — merged PR [#245](https://github.com/ZacSweers/redacted-compiler-plugin/pull/245) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.10"
+
+**2024-08-14** — commented on [#621](https://github.com/ZacSweers/MoshiX/pull/621#issuecomment-2287878928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-08-14** — merged PR [#275](https://github.com/ZacSweers/kotlin-compile-testing/pull/275) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.10-1.0.24"
+
+**2024-08-14** — merged PR [#278](https://github.com/ZacSweers/kotlin-compile-testing/pull/278) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.0.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
