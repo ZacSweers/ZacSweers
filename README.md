@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-13** — created tag `0.2.5` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-13** — merged PR [#1603](https://github.com/ZacSweers/CatchUp/pull/1603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha06"
 
 **2024-08-13** — merged PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-13** — opened PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
 
 **2024-08-13** — created branch `z/sourceExtensionAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-13** — created tag `0.23.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
