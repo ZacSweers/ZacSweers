@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-14** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2289784961) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-14** — merged PR [#650](https://github.com/ZacSweers/MoshiX/pull/650) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.10"
 
 **2024-08-14** — merged PR [#135](https://github.com/ZacSweers/auto-service-ksp/pull/135) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.10"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-14** — commented on [#621](https://github.com/ZacSweers/MoshiX/pull/621#issuecomment-2287878928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-08-14** — merged PR [#275](https://github.com/ZacSweers/kotlin-compile-testing/pull/275) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.10-1.0.24"
-
-**2024-08-14** — merged PR [#278](https://github.com/ZacSweers/kotlin-compile-testing/pull/278) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.0.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
