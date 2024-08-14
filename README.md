@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-13** — merged PR [#1603](https://github.com/ZacSweers/CatchUp/pull/1603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha06"
+
+**2024-08-13** — merged PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
+
 **2024-08-13** — closed PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
 
 **2024-08-13** — commented on [#1002](https://github.com/square/anvil/pull/1002#issuecomment-2287091675) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-13** — created branch `z/sourceExtensionAnnotations` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-13** — created tag `0.23.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-13** — closed issue [#1549](https://github.com/slackhq/circuit/issues/1549) on [slackhq/circuit](https://github.com/slackhq/circuit): "Crash on CircuitX BottomSheetOverlay when dismissing via system back button/gesture "
-
-**2024-08-13** — merged PR [#1577](https://github.com/slackhq/circuit/pull/1577) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix non-dismissable bottom sheets being dismissable on backpress"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
