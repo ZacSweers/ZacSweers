@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-14** — merged PR [#200](https://github.com/ZacSweers/ZacSweers/pull/200) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.10"
+
+**2024-08-14** — merged PR [#245](https://github.com/ZacSweers/redacted-compiler-plugin/pull/245) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.10"
+
 **2024-08-14** — commented on [#621](https://github.com/ZacSweers/MoshiX/pull/621#issuecomment-2287878928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-08-14** — merged PR [#275](https://github.com/ZacSweers/kotlin-compile-testing/pull/275) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.10-1.0.24"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-13** — created tag `0.2.5` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-13** — merged PR [#1603](https://github.com/ZacSweers/CatchUp/pull/1603) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha06"
-
-**2024-08-13** — merged PR [#54](https://github.com/ZacSweers/anvil/pull/54) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Source extension supportedAnnotationTypes in contribution merging when deciding when to defer"
-
-**2024-08-13** — closed PR [#965](https://github.com/square/anvil/pull/965) to [square/anvil](https://github.com/square/anvil): "WIP K2 upgrade"
-
-**2024-08-13** — commented on [#1002](https://github.com/square/anvil/pull/1002#issuecomment-2287091675) in [square/anvil](https://github.com/square/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
