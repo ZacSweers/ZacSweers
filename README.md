@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-15** — merged PR [#1608](https://github.com/ZacSweers/CatchUp/pull/1608) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.7.2"
+
 **2024-08-14** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2289784961) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-14** — merged PR [#650](https://github.com/ZacSweers/MoshiX/pull/650) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.10"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-14** — merged PR [#245](https://github.com/ZacSweers/redacted-compiler-plugin/pull/245) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.10"
 
 **2024-08-14** — commented on [#621](https://github.com/ZacSweers/MoshiX/pull/621#issuecomment-2287878928) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-08-14** — merged PR [#275](https://github.com/ZacSweers/kotlin-compile-testing/pull/275) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.10-1.0.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
