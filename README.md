@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-14** — created branch `z/k2020` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-08-14** — merged PR [#200](https://github.com/ZacSweers/ZacSweers/pull/200) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.10"
-
-**2024-08-14** — merged PR [#245](https://github.com/ZacSweers/redacted-compiler-plugin/pull/245) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
