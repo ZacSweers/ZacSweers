@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-20** — merged PR [#162](https://github.com/slackhq/kotlin-cli-util/pull/162) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.truth:truth from 1.4.2 to 1.4.4"
+
+**2024-08-20** — merged PR [#154](https://github.com/slackhq/kotlin-cli-util/pull/154) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.vanniktech.maven.publish from 0.28.0 to 0.29.0"
+
+**2024-08-20** — merged PR [#168](https://github.com/slackhq/kotlin-cli-util/pull/168) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx.binary-compatibility-validator from 0.14.0 to 0.16.3"
+
+**2024-08-20** — merged PR [#150](https://github.com/slackhq/kotlin-cli-util/pull/150) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.autoservice:auto-service-ksp from 1.1.0 to 1.2.0"
+
+**2024-08-20** — opened issue [#172](https://github.com/slackhq/kotlin-cli-util/issues/172) on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "IOBE in shell-sentry"
+
 **2024-08-20** — created branch `z/develocityminer` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-08-20** — opened PR [#55](https://github.com/ZacSweers/anvil/pull/55) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add verbose option + start some timing logging"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-19** — closed issue [#9](https://github.com/ZacSweers/FieldSpottr/issues/9) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make fields in area swipeable"
 
 **2024-08-19** — closed PR [#39](https://github.com/ZacSweers/FieldSpottr/pull/39) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo"
-
-**2024-08-19** — merged PR [#36](https://github.com/ZacSweers/FieldSpottr/pull/36) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.1"
-
-**2024-08-19** — merged PR [#31](https://github.com/ZacSweers/FieldSpottr/pull/31) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update gradle/actions action to v4"
-
-**2024-08-19** — closed PR [#38](https://github.com/ZacSweers/FieldSpottr/pull/38) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo"
-
-**2024-08-19** — reopened PR [#36](https://github.com/ZacSweers/FieldSpottr/pull/36) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.1"
-
-**2024-08-19** — created branch `renovate/circuit` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
