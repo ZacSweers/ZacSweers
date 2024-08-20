@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-20** — opened PR [#55](https://github.com/ZacSweers/anvil/pull/55) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add verbose option + start some timing logging"
+
+**2024-08-20** — created branch `z/verbose` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-19** — closed issue [#9](https://github.com/ZacSweers/FieldSpottr/issues/9) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Make fields in area swipeable"
 
 **2024-08-19** — closed PR [#39](https://github.com/ZacSweers/FieldSpottr/pull/39) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-19** — created branch `renovate/circuit` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-08-19** — closed PR [#36](https://github.com/ZacSweers/FieldSpottr/pull/36) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.23.1"
-
-**2024-08-19** — merged PR [#26](https://github.com/ZacSweers/FieldSpottr/pull/26) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Rework date picker and field selection"
-
-**2024-08-19** — merged PR [#1613](https://github.com/ZacSweers/CatchUp/pull/1613) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.18"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
