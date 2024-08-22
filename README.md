@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-22** — opened PR [#58](https://github.com/ZacSweers/anvil/pull/58) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix resolution of nested class generics in constructor injection"
+
+**2024-08-22** — created branch `z/fixTypeArgs` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-22** — merged PR [#55](https://github.com/ZacSweers/anvil/pull/55) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add verbose option + start some timing logging + optimizations"
+
 **2024-08-21** — opened PR [#1590](https://github.com/slackhq/circuit/pull/1590) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make presenter tests use distinctUntilChanged by default"
 
 **2024-08-21** — created branch `z/distinctUntilChanged` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-20** — merged PR [#150](https://github.com/slackhq/kotlin-cli-util/pull/150) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.autoservice:auto-service-ksp from 1.1.0 to 1.2.0"
 
 **2024-08-20** — opened issue [#172](https://github.com/slackhq/kotlin-cli-util/issues/172) on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "IOBE in shell-sentry"
-
-**2024-08-20** — created branch `z/develocityminer` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-20** — opened PR [#55](https://github.com/ZacSweers/anvil/pull/55) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add verbose option + start some timing logging"
-
-**2024-08-20** — created branch `z/verbose` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
