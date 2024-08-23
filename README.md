@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-22** — merged PR [#656](https://github.com/ZacSweers/MoshiX/pull/656) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.28.0"
+
+**2024-08-22** — merged PR [#1590](https://github.com/slackhq/circuit/pull/1590) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make presenter tests use distinctUntilChanged by default"
+
+**2024-08-22** — created tag `1.10.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-08-22** — merged PR [#230](https://github.com/ZacSweers/redacted-compiler-plugin/pull/230) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.0.20"
 
 **2024-08-22** — created tag `0.28.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-22** — merged PR [#652](https://github.com/ZacSweers/MoshiX/pull/652) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Replace all usages of findProperty"
 
 **2024-08-22** — commented on [#29600](https://github.com/gradle/gradle/issues/29600#issuecomment-2306057918) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2024-08-22** — merged PR [#655](https://github.com/ZacSweers/MoshiX/pull/655) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha07"
-
-**2024-08-22** — merged PR [#647](https://github.com/ZacSweers/MoshiX/pull/647) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update gradle/actions action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
