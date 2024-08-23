@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-23** — commented on [#1971](https://github.com/square/kotlinpoet/issues/1971#issuecomment-2307882274) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2024-08-23** — opened PR [#930](https://github.com/slackhq/slack-gradle-plugin/pull/930) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update sortDependencies to v0.8""
 
 **2024-08-23** — created branch `revert-916-test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
