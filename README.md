@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-23** — opened PR [#930](https://github.com/slackhq/slack-gradle-plugin/pull/930) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Revert "Update sortDependencies to v0.8""
+
+**2024-08-23** — created branch `revert-916-test-renovate/sortdependencies` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-23** — opened PR [#1597](https://github.com/slackhq/circuit/pull/1597) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype CircuitReceiveTurbine"
 
 **2024-08-23** — created branch `z/circuitReceiveTurbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-22** — merged PR [#1590](https://github.com/slackhq/circuit/pull/1590) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make presenter tests use distinctUntilChanged by default"
 
 **2024-08-22** — created tag `1.10.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-08-22** — merged PR [#230](https://github.com/ZacSweers/redacted-compiler-plugin/pull/230) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.0.20"
-
-**2024-08-22** — created tag `0.28.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
