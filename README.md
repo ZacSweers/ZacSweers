@@ -4,21 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-22** — merged PR [#230](https://github.com/ZacSweers/redacted-compiler-plugin/pull/230) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.0.20"
+
+**2024-08-22** — created tag `0.28.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
+**2024-08-22** — closed PR [#247](https://github.com/ZacSweers/redacted-compiler-plugin/pull/247) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.0.20"
+
+**2024-08-22** — closed PR [#248](https://github.com/ZacSweers/redacted-compiler-plugin/pull/248) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.20-1.0.24"
+
+**2024-08-22** — merged PR [#652](https://github.com/ZacSweers/MoshiX/pull/652) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Replace all usages of findProperty"
+
+**2024-08-22** — commented on [#29600](https://github.com/gradle/gradle/issues/29600#issuecomment-2306057918) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2024-08-22** — merged PR [#655](https://github.com/ZacSweers/MoshiX/pull/655) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha07"
 
 **2024-08-22** — merged PR [#647](https://github.com/ZacSweers/MoshiX/pull/647) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update gradle/actions action to v4"
-
-**2024-08-22** — merged PR [#621](https://github.com/ZacSweers/MoshiX/pull/621) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.0.20"
-
-**2024-08-22** — closed PR [#654](https://github.com/ZacSweers/MoshiX/pull/654) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.20-1.0.24"
-
-**2024-08-22** — merged PR [#651](https://github.com/ZacSweers/MoshiX/pull/651) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.3.0-jre"
-
-**2024-08-22** — commented on [#652](https://github.com/ZacSweers/MoshiX/pull/652#issuecomment-2305982570) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-08-22** — created tag `0.2.6` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-08-22** — closed issue [#56](https://github.com/ZacSweers/anvil/issues/56) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "TypeParameterResolver failed to resolve nested generic types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
