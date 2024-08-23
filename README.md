@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-23** — opened PR [#1597](https://github.com/slackhq/circuit/pull/1597) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prototype CircuitReceiveTurbine"
+
+**2024-08-23** — created branch `z/circuitReceiveTurbine` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-22** — closed PR [#1595](https://github.com/slackhq/circuit/pull/1595) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlin monorepo to v2.0.20"
 
 **2024-08-22** — closed PR [#1596](https://github.com/slackhq/circuit/pull/1596) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v2.0.20-1.0.24"
