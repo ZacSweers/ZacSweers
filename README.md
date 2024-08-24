@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-24** — opened PR [#1631](https://github.com/ZacSweers/CatchUp/pull/1631) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for rich item previews"
+
+**2024-08-24** — created branch `z/richItems` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2024-08-24** — closed PR [#1614](https://github.com/ZacSweers/CatchUp/pull/1614) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.52"
+
+**2024-08-24** — merged PR [#1630](https://github.com/ZacSweers/CatchUp/pull/1630) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.13.0"
+
+**2024-08-24** — closed PR [#1529](https://github.com/ZacSweers/CatchUp/pull/1529) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha01"
+
+**2024-08-24** — merged PR [#1607](https://github.com/ZacSweers/CatchUp/pull/1607) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.0.20"
+
+**2024-08-24** — closed PR [#1629](https://github.com/ZacSweers/CatchUp/pull/1629) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.10.0"
+
+**2024-08-24** — merged PR [#1628](https://github.com/ZacSweers/CatchUp/pull/1628) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.263.0"
+
+**2024-08-24** — closed PR [#1627](https://github.com/ZacSweers/CatchUp/pull/1627) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.28.0"
+
 **2024-08-24** — merged PR [#1590](https://github.com/ZacSweers/CatchUp/pull/1590) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha01"
-
-**2024-08-24** — closed PR [#1626](https://github.com/ZacSweers/CatchUp/pull/1626) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlin monorepo to v2.0.20"
-
-**2024-08-24** — merged PR [#1619](https://github.com/ZacSweers/CatchUp/pull/1619) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha07"
-
-**2024-08-24** — closed PR [#1625](https://github.com/ZacSweers/CatchUp/pull/1625) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.20-1.0.24"
-
-**2024-08-24** — merged PR [#1623](https://github.com/ZacSweers/CatchUp/pull/1623) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-alpha02"
-
-**2024-08-24** — merged PR [#1624](https://github.com/ZacSweers/CatchUp/pull/1624) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-beta01"
-
-**2024-08-24** — merged PR [#1592](https://github.com/ZacSweers/CatchUp/pull/1592) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha01"
-
-**2024-08-24** — merged PR [#1604](https://github.com/ZacSweers/CatchUp/pull/1604) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.23.1"
-
-**2024-08-24** — merged PR [#1622](https://github.com/ZacSweers/CatchUp/pull/1622) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
