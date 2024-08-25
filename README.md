@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-24** — opened PR [#1631](https://github.com/ZacSweers/CatchUp/pull/1631) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Add support for rich item previews"
+**2024-08-24** — commented on [#267](https://github.com/slackhq/compose-lints/issues/267#issuecomment-2308619910) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-08-24** — created branch `z/richItems` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+**2024-08-24** — closed issue [#267](https://github.com/slackhq/compose-lints/issues/267) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalUsage doesn't seem to be derring to the allow-list option"
 
-**2024-08-24** — closed PR [#1614](https://github.com/ZacSweers/CatchUp/pull/1614) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.52"
+**2024-08-24** — closed issue [#372](https://github.com/slackhq/compose-lints/issues/372) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeMultipleContentEmitters` not working with conditional logic."
 
-**2024-08-24** — merged PR [#1630](https://github.com/ZacSweers/CatchUp/pull/1630) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.13.0"
+**2024-08-24** — commented on [#271](https://github.com/slackhq/compose-lints/issues/271#issuecomment-2308619029) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-08-24** — closed PR [#1529](https://github.com/ZacSweers/CatchUp/pull/1529) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha01"
+**2024-08-24** — closed issue [#271](https://github.com/slackhq/compose-lints/issues/271) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeModifierWithoutDefault triggers for @Composable Modifier factory functions"
 
-**2024-08-24** — merged PR [#1607](https://github.com/ZacSweers/CatchUp/pull/1607) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.0.20"
+**2024-08-24** — commented on [#369](https://github.com/slackhq/compose-lints/issues/369#issuecomment-2308618995) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-08-24** — closed PR [#1629](https://github.com/ZacSweers/CatchUp/pull/1629) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.10.0"
+**2024-08-24** — closed issue [#369](https://github.com/slackhq/compose-lints/issues/369) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Deprecated rule `ComposeComposableModifier` ("Don't use `@Composable` builder functions for modifiers")"
 
-**2024-08-24** — merged PR [#1628](https://github.com/ZacSweers/CatchUp/pull/1628) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.263.0"
+**2024-08-24** — merged PR [#368](https://github.com/slackhq/compose-lints/pull/368) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Normalize lint option loading to match with individual issues"
 
-**2024-08-24** — closed PR [#1627](https://github.com/ZacSweers/CatchUp/pull/1627) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.28.0"
+**2024-08-24** — commented on [#261](https://github.com/slackhq/slack-lints/pull/261#issuecomment-2308617665) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-08-24** — merged PR [#1590](https://github.com/ZacSweers/CatchUp/pull/1590) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha01"
+**2024-08-24** — merged PR [#294](https://github.com/slackhq/slack-lints/pull/294) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
