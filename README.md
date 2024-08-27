@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-27** — merged PR [#935](https://github.com/slackhq/slack-gradle-plugin/pull/935) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve KGP plugin handling"
+
 **2024-08-27** — merged PR [#936](https://github.com/slackhq/slack-gradle-plugin/pull/936) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 22"
 
 **2024-08-27** — merged PR [#1605](https://github.com/slackhq/circuit/pull/1605) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.0.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-27** — created branch `z/improveKgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-08-27** — commented on [#95](https://github.com/touchlab/SKIE/issues/95#issuecomment-2313348035) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
-
-**2024-08-27** — commented on [#95](https://github.com/touchlab/SKIE/issues/95#issuecomment-2313301398) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
