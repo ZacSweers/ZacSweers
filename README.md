@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-27** — opened PR [#64](https://github.com/ZacSweers/anvil/pull/64) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure round processing is correctly reset if no triggers are found"
+
+**2024-08-27** — created branch `z/fixRoundResetting` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-08-27** — created tag `0.19.0` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-08-27** — opened issue [#564](https://github.com/JetBrains/jewel/issues/564) on [JetBrains/jewel](https://github.com/JetBrains/jewel): "UnsatisfiedLinkError from TypefaceFontProviderWithFallbackKt in 0.23.0 using jewel-int-ui-standalone-241"
+
+**2024-08-27** — opened PR [#937](https://github.com/slackhq/slack-gradle-plugin/pull/937) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update jewel to 0.23.0"
+
+**2024-08-27** — created branch `z/updateJewel` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-08-27** — merged PR [#935](https://github.com/slackhq/slack-gradle-plugin/pull/935) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve KGP plugin handling"
 
 **2024-08-27** — merged PR [#936](https://github.com/slackhq/slack-gradle-plugin/pull/936) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 22"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-27** — merged PR [#1605](https://github.com/slackhq/circuit/pull/1605) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.0.20"
 
 **2024-08-27** — closed PR [#913](https://github.com/slackhq/slack-gradle-plugin/pull/913) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle/actions action to v4"
-
-**2024-08-27** — closed PR [#933](https://github.com/slackhq/slack-gradle-plugin/pull/933) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update moshix to v0.28.0"
-
-**2024-08-27** — opened PR [#936](https://github.com/slackhq/slack-gradle-plugin/pull/936) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 22"
-
-**2024-08-27** — opened PR [#935](https://github.com/slackhq/slack-gradle-plugin/pull/935) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve KGP plugin handling"
-
-**2024-08-27** — created branch `z/jdk22` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-27** — created branch `z/improveKgp` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-08-27** — commented on [#95](https://github.com/touchlab/SKIE/issues/95#issuecomment-2313348035) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
