@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-28** — merged PR [#64](https://github.com/ZacSweers/anvil/pull/64) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure round processing is correctly reset if no triggers are found"
+
 **2024-08-27** — opened PR [#64](https://github.com/ZacSweers/anvil/pull/64) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure round processing is correctly reset if no triggers are found"
 
 **2024-08-27** — created branch `z/fixRoundResetting` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,14 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-27** — merged PR [#936](https://github.com/slackhq/slack-gradle-plugin/pull/936) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 22"
 
 **2024-08-27** — merged PR [#1605](https://github.com/slackhq/circuit/pull/1605) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.0.20"
-
-**2024-08-27** — closed PR [#913](https://github.com/slackhq/slack-gradle-plugin/pull/913) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update gradle/actions action to v4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-08-27** — Could not load blog content. Please check back later.
+**2024-08-28** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
