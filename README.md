@@ -4,21 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-28** — merged PR [#653](https://github.com/ZacSweers/MoshiX/pull/653) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "ktfmt + jdk22 + gradle actions v4"
+
+**2024-08-28** — merged PR [#155](https://github.com/slackhq/kotlin-cli-util/pull/155) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.6.3 to 1.7.1"
+
+**2024-08-28** — merged PR [#153](https://github.com/slackhq/kotlin-cli-util/pull/153) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump xmlutil from 0.86.3 to 0.90.1"
+
+**2024-08-28** — merged PR [#163](https://github.com/slackhq/kotlin-cli-util/pull/163) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.9 to 1.5.10"
+
+**2024-08-28** — merged PR [#657](https://github.com/ZacSweers/MoshiX/pull/657) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha08"
+
 **2024-08-28** — merged PR [#169](https://github.com/slackhq/kotlin-cli-util/pull/169) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/actions from 3 to 4"
 
 **2024-08-28** — merged PR [#111](https://github.com/slackhq/kotlin-cli-util/pull/111) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update to K2 + modernize"
 
 **2024-08-28** — closed PR [#171](https://github.com/slackhq/kotlin-cli-util/pull/171) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.4.1 to 8.5.2"
-
-**2024-08-28** — closed PR [#175](https://github.com/slackhq/kotlin-cli-util/pull/175) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump kotlin from 1.9.24 to 2.0.20"
-
-**2024-08-28** — closed PR [#176](https://github.com/slackhq/kotlin-cli-util/pull/176) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 1.9.24-1.0.20 to 2.0.20-1.0.24"
-
-**2024-08-28** — closed PR [#177](https://github.com/slackhq/kotlin-cli-util/pull/177) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump dev.zacsweers.moshix from 0.26.0 to 0.28.0"
-
-**2024-08-28** — merged PR [#174](https://github.com/slackhq/kotlin-cli-util/pull/174) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.slf4j:slf4j-nop from 2.0.13 to 2.0.16"
-
-**2024-08-28** — merged PR [#937](https://github.com/slackhq/slack-gradle-plugin/pull/937) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update jewel to 0.23.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
