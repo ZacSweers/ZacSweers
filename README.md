@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-28** — commented on [#54](https://github.com/JetBrains/kotlin-multiplatform-dev-docs/pull/54#issuecomment-2315701670) in [JetBrains/kotlin-multiplatform-dev-docs](https://github.com/JetBrains/kotlin-multiplatform-dev-docs)
+
 **2024-08-28** — merged PR [#64](https://github.com/ZacSweers/anvil/pull/64) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure round processing is correctly reset if no triggers are found"
 
 **2024-08-27** — opened PR [#64](https://github.com/ZacSweers/anvil/pull/64) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Ensure round processing is correctly reset if no triggers are found"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-27** — merged PR [#935](https://github.com/slackhq/slack-gradle-plugin/pull/935) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Improve KGP plugin handling"
 
 **2024-08-27** — merged PR [#936](https://github.com/slackhq/slack-gradle-plugin/pull/936) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to JDK 22"
-
-**2024-08-27** — merged PR [#1605](https://github.com/slackhq/circuit/pull/1605) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.0.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
