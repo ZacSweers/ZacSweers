@@ -26,7 +26,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
-**2024-08-28** — Could not load blog content. Please check back later.
+**2024-08-29** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
