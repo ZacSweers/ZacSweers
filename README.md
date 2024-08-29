@@ -4,19 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-08-28** — merged PR [#653](https://github.com/ZacSweers/MoshiX/pull/653) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "ktfmt + jdk22 + gradle actions v4"
+**2024-08-28** — merged PR [#1641](https://github.com/ZacSweers/CatchUp/pull/1641) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.31.0"
 
-**2024-08-28** — merged PR [#155](https://github.com/slackhq/kotlin-cli-util/pull/155) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.6.3 to 1.7.1"
+**2024-08-28** — merged PR [#1639](https://github.com/ZacSweers/CatchUp/pull/1639) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha08"
 
-**2024-08-28** — merged PR [#153](https://github.com/slackhq/kotlin-cli-util/pull/153) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump xmlutil from 0.86.3 to 0.90.1"
+**2024-08-28** — merged PR [#1640](https://github.com/ZacSweers/CatchUp/pull/1640) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.2"
 
-**2024-08-28** — merged PR [#163](https://github.com/slackhq/kotlin-cli-util/pull/163) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.9 to 1.5.10"
+**2024-08-28** — merged PR [#197](https://github.com/ZacSweers/ZacSweers/pull/197) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update gradle/actions action to v4"
 
-**2024-08-28** — merged PR [#657](https://github.com/ZacSweers/MoshiX/pull/657) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha08"
+**2024-08-28** — merged PR [#196](https://github.com/ZacSweers/ZacSweers/pull/196) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.0.20-1.0.24"
 
-**2024-08-28** — merged PR [#169](https://github.com/slackhq/kotlin-cli-util/pull/169) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/actions from 3 to 4"
+**2024-08-28** — merged PR [#198](https://github.com/ZacSweers/ZacSweers/pull/198) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.0.20"
 
-**2024-08-28** — merged PR [#111](https://github.com/slackhq/kotlin-cli-util/pull/111) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update to K2 + modernize"
+**2024-08-28** — merged PR [#199](https://github.com/ZacSweers/ZacSweers/pull/199) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.16"
+
+**2024-08-28** — merged PR [#201](https://github.com/ZacSweers/ZacSweers/pull/201) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.1"
+
+**2024-08-28** — merged PR [#202](https://github.com/ZacSweers/ZacSweers/pull/202) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
