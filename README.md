@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-29** — merged PR [#658](https://github.com/ZacSweers/MoshiX/pull/658) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.6.0"
+
+**2024-08-29** — merged PR [#52](https://github.com/ZacSweers/FieldSpottr/pull/52) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.0"
+
+**2024-08-29** — closed PR [#1636](https://github.com/ZacSweers/CatchUp/pull/1636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v2"
+
 **2024-08-29** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2318399460) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-08-29** — commented on [#1249](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1249#issuecomment-2318393956) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-28** — merged PR [#197](https://github.com/ZacSweers/ZacSweers/pull/197) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update gradle/actions action to v4"
 
 **2024-08-28** — merged PR [#196](https://github.com/ZacSweers/ZacSweers/pull/196) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.0.20-1.0.24"
-
-**2024-08-28** — merged PR [#198](https://github.com/ZacSweers/ZacSweers/pull/198) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.0.20"
-
-**2024-08-28** — merged PR [#199](https://github.com/ZacSweers/ZacSweers/pull/199) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.16"
-
-**2024-08-28** — merged PR [#201](https://github.com/ZacSweers/ZacSweers/pull/201) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
