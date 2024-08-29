@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-29** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2318399460) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-08-29** — commented on [#1249](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1249#issuecomment-2318393956) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
+
 **2024-08-28** — merged PR [#1641](https://github.com/ZacSweers/CatchUp/pull/1641) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.31.0"
 
 **2024-08-28** — merged PR [#1639](https://github.com/ZacSweers/CatchUp/pull/1639) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-alpha08"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-28** — merged PR [#199](https://github.com/ZacSweers/ZacSweers/pull/199) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.16"
 
 **2024-08-28** — merged PR [#201](https://github.com/ZacSweers/ZacSweers/pull/201) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.1"
-
-**2024-08-28** — merged PR [#202](https://github.com/ZacSweers/ZacSweers/pull/202) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
