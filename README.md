@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-28** — merged PR [#169](https://github.com/slackhq/kotlin-cli-util/pull/169) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump gradle/actions from 3 to 4"
 
 **2024-08-28** — merged PR [#111](https://github.com/slackhq/kotlin-cli-util/pull/111) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Update to K2 + modernize"
-
-**2024-08-28** — closed PR [#171](https://github.com/slackhq/kotlin-cli-util/pull/171) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.4.1 to 8.5.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
