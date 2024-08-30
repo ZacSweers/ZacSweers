@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-30** — created branch `z/disableContributesSubcomponentHandler` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-29** — merged PR [#658](https://github.com/ZacSweers/MoshiX/pull/658) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.6.0"
 
 **2024-08-29** — merged PR [#52](https://github.com/ZacSweers/FieldSpottr/pull/52) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-28** — merged PR [#1640](https://github.com/ZacSweers/CatchUp/pull/1640) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.7.2"
 
 **2024-08-28** — merged PR [#197](https://github.com/ZacSweers/ZacSweers/pull/197) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update gradle/actions action to v4"
-
-**2024-08-28** — merged PR [#196](https://github.com/ZacSweers/ZacSweers/pull/196) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.0.20-1.0.24"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
