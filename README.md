@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-30** — merged PR [#67](https://github.com/ZacSweers/anvil/pull/67) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add option to disable contributes subcomponent handling"
+
+**2024-08-30** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2322152174) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-08-30** — merged PR [#659](https://github.com/ZacSweers/MoshiX/pull/659) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha09"
 
 **2024-08-30** — opened PR [#67](https://github.com/ZacSweers/anvil/pull/67) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "WIP add option to disable contributes subcomponent handling"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-29** — merged PR [#52](https://github.com/ZacSweers/FieldSpottr/pull/52) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.0"
 
 **2024-08-29** — closed PR [#1636](https://github.com/ZacSweers/CatchUp/pull/1636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v2"
-
-**2024-08-29** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2318399460) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-29** — commented on [#1249](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/issues/1249#issuecomment-2318393956) in [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
