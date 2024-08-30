@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-30** — opened PR [#68](https://github.com/ZacSweers/anvil/pull/68) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Introduce multi-level caching"
+
+**2024-08-30** — created branch `z/singleCacheLoad` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-08-30** — merged PR [#67](https://github.com/ZacSweers/anvil/pull/67) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add option to disable contributes subcomponent handling"
 
 **2024-08-30** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2322152174) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-30** — created branch `z/disableContributesSubcomponentHandler` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-29** — merged PR [#658](https://github.com/ZacSweers/MoshiX/pull/658) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.6.0"
-
-**2024-08-29** — merged PR [#52](https://github.com/ZacSweers/FieldSpottr/pull/52) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.0"
-
-**2024-08-29** — closed PR [#1636](https://github.com/ZacSweers/CatchUp/pull/1636) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
