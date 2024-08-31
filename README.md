@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-31** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2323040064) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-08-31** — closed issue [#1609](https://github.com/slackhq/circuit/issues/1609) on [slackhq/circuit](https://github.com/slackhq/circuit): "BackStack can diverge between Navigator and NavigableCircuitContent"
+
 **2024-08-31** — commented on [#61](https://github.com/ZacSweers/anvil/issues/61#issuecomment-2323024437) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-31** — closed issue [#61](https://github.com/ZacSweers/anvil/issues/61) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve caching in hint loading"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-31** — merged PR [#362](https://github.com/slackhq/compose-lints/pull/362) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.52"
 
 **2024-08-31** — merged PR [#392](https://github.com/slackhq/compose-lints/pull/392) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.6.0"
-
-**2024-08-31** — merged PR [#391](https://github.com/slackhq/compose-lints/pull/391) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.0"
-
-**2024-08-31** — merged PR [#390](https://github.com/slackhq/compose-lints/pull/390) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.6.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
