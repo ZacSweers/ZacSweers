@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-08-31** — merged PR [#362](https://github.com/slackhq/compose-lints/pull/362) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.52"
+
 **2024-08-31** — merged PR [#392](https://github.com/slackhq/compose-lints/pull/392) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.6.0"
 
 **2024-08-31** — merged PR [#391](https://github.com/slackhq/compose-lints/pull/391) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.0"
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-30** — merged PR [#67](https://github.com/ZacSweers/anvil/pull/67) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Add option to disable contributes subcomponent handling"
 
 **2024-08-30** — commented on [#1609](https://github.com/slackhq/circuit/issues/1609#issuecomment-2322152174) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-08-30** — merged PR [#659](https://github.com/ZacSweers/MoshiX/pull/659) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.0-alpha09"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
