@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-02** — created tag `0.3.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-09-02** — closed issue [#396](https://github.com/slackhq/compose-lints/issues/396) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "All main builds are publishing snapshots twice"
 
-**2024-09-02** — merged PR [#53](https://github.com/ZacSweers/FieldSpottr/pull/53) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Reimplement Area as a data class + DSL"
+**2024-09-02** — closed issue [#395](https://github.com/slackhq/compose-lints/issues/395) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Publish builds on `main` branch are failing with a config cache error."
 
-**2024-09-01** — opened PR [#53](https://github.com/ZacSweers/FieldSpottr/pull/53) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Reimplement Area as a data class + DSL"
+**2024-09-02** — merged PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
 
-**2024-09-01** — created branch `z/areaDsl` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2024-09-02** — opened PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
 
-**2024-09-01** — opened issue [#172](https://github.com/MohamedRejeb/Calf/issues/172) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "UIDatePicker is always in UTC time"
+**2024-09-02** — created branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-09-01** — merged PR [#1644](https://github.com/ZacSweers/CatchUp/pull/1644) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.3.0"
+**2024-09-02** — commented on [#293](https://github.com/slackhq/slack-lints/pull/293#issuecomment-2325224557) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-09-01** — commented on [#69](https://github.com/ZacSweers/anvil/issues/69#issuecomment-2323510934) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-09-02** — closed PR [#293](https://github.com/slackhq/slack-lints/pull/293) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow unit return type for suspend functions"
 
-**2024-09-01** — closed issue [#69](https://github.com/ZacSweers/anvil/issues/69) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve handling of error types in dagger factory generation"
+**2024-09-02** — merged PR [#291](https://github.com/slackhq/slack-lints/pull/291) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.7.0-alpha09"
 
-**2024-09-01** — merged PR [#70](https://github.com/ZacSweers/anvil/pull/70) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Better handle error types and round deferral"
+**2024-09-02** — commented on [#395](https://github.com/slackhq/compose-lints/issues/395#issuecomment-2325218495) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-09-01** — opened PR [#70](https://github.com/ZacSweers/anvil/pull/70) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Better handle error types and round deferral"
+**2024-09-02** — commented on [#396](https://github.com/slackhq/compose-lints/issues/396#issuecomment-2325218168) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
