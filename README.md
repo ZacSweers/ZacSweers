@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-01** — merged PR [#1644](https://github.com/ZacSweers/CatchUp/pull/1644) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.3.0"
+
 **2024-09-01** — commented on [#69](https://github.com/ZacSweers/anvil/issues/69#issuecomment-2323510934) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-09-01** — closed issue [#69](https://github.com/ZacSweers/anvil/issues/69) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve handling of error types in dagger factory generation"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-08-31** — commented on [#61](https://github.com/ZacSweers/anvil/issues/61#issuecomment-2323024437) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-08-31** — closed issue [#61](https://github.com/ZacSweers/anvil/issues/61) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve caching in hint loading"
-
-**2024-08-31** — created tag `0.3.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
