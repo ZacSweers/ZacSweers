@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-02** — created tag `0.3.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-09-02** — merged PR [#53](https://github.com/ZacSweers/FieldSpottr/pull/53) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Reimplement Area as a data class + DSL"
 
 **2024-09-01** — opened PR [#53](https://github.com/ZacSweers/FieldSpottr/pull/53) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Reimplement Area as a data class + DSL"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-01** — merged PR [#70](https://github.com/ZacSweers/anvil/pull/70) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Better handle error types and round deferral"
 
 **2024-09-01** — opened PR [#70](https://github.com/ZacSweers/anvil/pull/70) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Better handle error types and round deferral"
-
-**2024-09-01** — created branch `z/betterErrorHandling` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
