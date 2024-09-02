@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-02** — merged PR [#54](https://github.com/ZacSweers/FieldSpottr/pull/54) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Serialize areas to json and support remote loading"
+
+**2024-09-02** — merged PR [#1645](https://github.com/ZacSweers/CatchUp/pull/1645) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.3.1"
+
+**2024-09-02** — opened PR [#54](https://github.com/ZacSweers/FieldSpottr/pull/54) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Serialize areas to json and support remote loading"
+
+**2024-09-02** — created branch `z/areasJson` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-09-02** — commented on [#63](https://github.com/Kotlin/kotlinx.collections.immutable/issues/63#issuecomment-2325287622) in [Kotlin/kotlinx.collections.immutable](https://github.com/Kotlin/kotlinx.collections.immutable)
+
 **2024-09-02** — merged PR [#389](https://github.com/slackhq/compose-lints/pull/389) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Test lint 31.7.x alphas"
 
 **2024-09-02** — closed issue [#396](https://github.com/slackhq/compose-lints/issues/396) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "All main builds are publishing snapshots twice"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-02** — merged PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
 
 **2024-09-02** — opened PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
-
-**2024-09-02** — created branch `z/fixSnapshots` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-09-02** — commented on [#293](https://github.com/slackhq/slack-lints/pull/293#issuecomment-2325224557) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-09-02** — closed PR [#293](https://github.com/slackhq/slack-lints/pull/293) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow unit return type for suspend functions"
-
-**2024-09-02** — merged PR [#291](https://github.com/slackhq/slack-lints/pull/291) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.7.0-alpha09"
-
-**2024-09-02** — commented on [#395](https://github.com/slackhq/compose-lints/issues/395#issuecomment-2325218495) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
