@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-02** — merged PR [#389](https://github.com/slackhq/compose-lints/pull/389) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Test lint 31.7.x alphas"
+
 **2024-09-02** — closed issue [#396](https://github.com/slackhq/compose-lints/issues/396) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "All main builds are publishing snapshots twice"
 
 **2024-09-02** — closed issue [#395](https://github.com/slackhq/compose-lints/issues/395) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Publish builds on `main` branch are failing with a config cache error."
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-02** — merged PR [#291](https://github.com/slackhq/slack-lints/pull/291) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.7.0-alpha09"
 
 **2024-09-02** — commented on [#395](https://github.com/slackhq/compose-lints/issues/395#issuecomment-2325218495) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-09-02** — commented on [#396](https://github.com/slackhq/compose-lints/issues/396#issuecomment-2325218168) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
