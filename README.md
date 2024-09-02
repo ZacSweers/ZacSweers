@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-02** — merged PR [#55](https://github.com/ZacSweers/FieldSpottr/pull/55) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.7.2"
+
 **2024-09-02** — merged PR [#54](https://github.com/ZacSweers/FieldSpottr/pull/54) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Serialize areas to json and support remote loading"
 
 **2024-09-02** — merged PR [#1645](https://github.com/ZacSweers/CatchUp/pull/1645) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.3.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-02** — closed issue [#395](https://github.com/slackhq/compose-lints/issues/395) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Publish builds on `main` branch are failing with a config cache error."
 
 **2024-09-02** — merged PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
-
-**2024-09-02** — opened PR [#397](https://github.com/slackhq/compose-lints/pull/397) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix snapshot publishing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
