@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-03** — merged PR [#1637](https://github.com/ZacSweers/CatchUp/pull/1637) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.19.1"
+
 **2024-09-03** — created tag `0.19.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-03** — merged PR [#945](https://github.com/slackhq/slack-gradle-plugin/pull/945) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Small bootstrap tweaks"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-02** — merged PR [#1645](https://github.com/ZacSweers/CatchUp/pull/1645) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.3.1"
 
 **2024-09-02** — opened PR [#54](https://github.com/ZacSweers/FieldSpottr/pull/54) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Serialize areas to json and support remote loading"
-
-**2024-09-02** — created branch `z/areasJson` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
