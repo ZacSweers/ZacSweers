@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-04** — opened PR [#181](https://github.com/slackhq/kotlin-cli-util/pull/181) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Gradle test fixtures migrator CLI"
+
+**2024-09-04** — created branch `z/testFixturesMigrator` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
+**2024-09-04** — commented on [#942](https://github.com/slackhq/slack-gradle-plugin/pull/942#issuecomment-2329847180) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-09-04** — closed PR [#942](https://github.com/slackhq/slack-gradle-plugin/pull/942) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose to v1.7.0-beta01+build1794-release-1.7.0-beta01"
+
 **2024-09-04** — merged PR [#1646](https://github.com/ZacSweers/CatchUp/pull/1646) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.1.2"
 
 **2024-09-04** — merged PR [#56](https://github.com/ZacSweers/FieldSpottr/pull/56) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.2"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-03** — created tag `0.19.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-03** — merged PR [#945](https://github.com/slackhq/slack-gradle-plugin/pull/945) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Small bootstrap tweaks"
-
-**2024-09-03** — opened PR [#945](https://github.com/slackhq/slack-gradle-plugin/pull/945) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Small bootstrap tweaks"
-
-**2024-09-03** — created branch `z/bootstrapTweaks` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-03** — commented on [#293](https://github.com/slackhq/slack-lints/pull/293#issuecomment-2326813639) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-09-02** — merged PR [#55](https://github.com/ZacSweers/FieldSpottr/pull/55) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
