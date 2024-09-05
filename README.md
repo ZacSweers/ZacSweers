@@ -13,12 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-05** — merged PR [#1658](https://github.com/ZacSweers/CatchUp/pull/1658) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.265.0"
 
 **2024-09-04** — merged PR [#1655](https://github.com/ZacSweers/CatchUp/pull/1655) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha02"
-
-**2024-09-04** — merged PR [#1656](https://github.com/ZacSweers/CatchUp/pull/1656) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha01"
-
-**2024-09-04** — merged PR [#1654](https://github.com/ZacSweers/CatchUp/pull/1654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha02"
-
-**2024-09-04** — merged PR [#1652](https://github.com/ZacSweers/CatchUp/pull/1652) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
