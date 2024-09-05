@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-04** — opened PR [#181](https://github.com/slackhq/kotlin-cli-util/pull/181) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Gradle test fixtures migrator CLI"
+**2024-09-04** — merged PR [#1655](https://github.com/ZacSweers/CatchUp/pull/1655) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha02"
 
-**2024-09-04** — created branch `z/testFixturesMigrator` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+**2024-09-04** — merged PR [#1656](https://github.com/ZacSweers/CatchUp/pull/1656) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha01"
 
-**2024-09-04** — commented on [#942](https://github.com/slackhq/slack-gradle-plugin/pull/942#issuecomment-2329847180) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-09-04** — merged PR [#1654](https://github.com/ZacSweers/CatchUp/pull/1654) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha02"
 
-**2024-09-04** — closed PR [#942](https://github.com/slackhq/slack-gradle-plugin/pull/942) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose to v1.7.0-beta01+build1794-release-1.7.0-beta01"
+**2024-09-04** — merged PR [#1652](https://github.com/ZacSweers/CatchUp/pull/1652) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.3"
 
-**2024-09-04** — merged PR [#1646](https://github.com/ZacSweers/CatchUp/pull/1646) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.1.2"
+**2024-09-04** — merged PR [#1651](https://github.com/ZacSweers/CatchUp/pull/1651) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.core:core-splashscreen to v1.2.0-alpha02"
 
-**2024-09-04** — merged PR [#56](https://github.com/ZacSweers/FieldSpottr/pull/56) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.2"
+**2024-09-04** — merged PR [#1650](https://github.com/ZacSweers/CatchUp/pull/1650) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-beta01"
 
-**2024-09-03** — merged PR [#299](https://github.com/slackhq/slack-lints/pull/299) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Switch to stable kotlin metadata + update shadow plugin"
+**2024-09-04** — merged PR [#1649](https://github.com/ZacSweers/CatchUp/pull/1649) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-alpha03"
 
-**2024-09-03** — merged PR [#1637](https://github.com/ZacSweers/CatchUp/pull/1637) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.19.1"
+**2024-09-04** — merged PR [#1648](https://github.com/ZacSweers/CatchUp/pull/1648) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.0"
 
-**2024-09-03** — created tag `0.19.1` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-09-04** — merged PR [#1647](https://github.com/ZacSweers/CatchUp/pull/1647) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.0"
 
-**2024-09-03** — merged PR [#945](https://github.com/slackhq/slack-gradle-plugin/pull/945) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Small bootstrap tweaks"
+**2024-09-04** — merged PR [#57](https://github.com/ZacSweers/FieldSpottr/pull/57) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
