@@ -4,7 +4,7 @@ jdk = "21"
 kotlin = "2.0.20"
 kotlinx-serialization = "1.7.2"
 ktor = "3.0.0-wasm2"
-markdown = "0.25.0"
+markdown = "0.26.0"
 xmlutil = "0.90.1"
 
 [plugins]
