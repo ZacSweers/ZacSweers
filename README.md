@@ -9,8 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-05** — merged PR [#661](https://github.com/ZacSweers/MoshiX/pull/661) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.8"
 
 **2024-09-05** — merged PR [#58](https://github.com/ZacSweers/FieldSpottr/pull/58) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.8"
-
-**2024-09-05** — merged PR [#1659](https://github.com/ZacSweers/CatchUp/pull/1659) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
