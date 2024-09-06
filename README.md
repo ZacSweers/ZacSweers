@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-06** — merged PR [#399](https://github.com/slackhq/compose-lints/pull/399) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0-beta01"
+
 **2024-09-05** — merged PR [#181](https://github.com/slackhq/kotlin-cli-util/pull/181) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Add Gradle test fixtures migrator CLI"
 
 **2024-09-05** — merged PR [#661](https://github.com/ZacSweers/MoshiX/pull/661) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.8"
