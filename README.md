@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-06** — opened PR [#15](https://github.com/amzn/kotlin-inject-anvil/pull/15) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Implement multibindings support"
+
+**2024-09-06** — created branch `z/multibindings` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
+
 **2024-09-06** — opened PR [#14](https://github.com/amzn/kotlin-inject-anvil/pull/14) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add mingwX64() target"
 
 **2024-09-06** — created branch `z/kotlinInject` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-06** — commented on [#2034](https://github.com/google/ksp/pull/2034#issuecomment-2334748588) in [google/ksp](https://github.com/google/ksp)
 
 **2024-09-06** — opened issue [#2088](https://github.com/google/ksp/issues/2088) on [google/ksp](https://github.com/google/ksp): "[KSP2] Generic type arguments on typealiases are improperly forwarded to the KSType"
-
-**2024-09-06** — commented on [#1966](https://github.com/google/ksp/issues/1966#issuecomment-2334628050) in [google/ksp](https://github.com/google/ksp)
-
-**2024-09-06** — closed issue [#1966](https://github.com/google/ksp/issues/1966) on [google/ksp](https://github.com/google/ksp): "KSP2: IllegalArgumentException: Failed requirement."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
