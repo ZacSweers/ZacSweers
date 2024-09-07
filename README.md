@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-07** — closed issue [#1633](https://github.com/slackhq/circuit/issues/1633) on [slackhq/circuit](https://github.com/slackhq/circuit): "Unable to build when using BottomSheetOverlay"
+
+**2024-09-07** — commented on [#1633](https://github.com/slackhq/circuit/issues/1633#issuecomment-2335178584) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-09-06** — opened PR [#15](https://github.com/amzn/kotlin-inject-anvil/pull/15) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Implement multibindings support"
 
 **2024-09-06** — created branch `z/multibindings` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-06** — merged PR [#183](https://github.com/slackhq/kotlin-cli-util/pull/183) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.google.devtools.ksp from 2.0.20-1.0.24 to 2.0.20-1.0.25"
 
 **2024-09-06** — merged PR [#178](https://github.com/slackhq/kotlin-cli-util/pull/178) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.bugsnag:bugsnag from 3.7.1 to 3.7.2"
-
-**2024-09-06** — commented on [#2034](https://github.com/google/ksp/pull/2034#issuecomment-2334748588) in [google/ksp](https://github.com/google/ksp)
-
-**2024-09-06** — opened issue [#2088](https://github.com/google/ksp/issues/2088) on [google/ksp](https://github.com/google/ksp): "[KSP2] Generic type arguments on typealiases are improperly forwarded to the KSType"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
