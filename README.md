@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-09** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2338974963) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-09-09** — commented on [#8](https://github.com/amzn/kotlin-inject-anvil/issues/8#issuecomment-2338844549) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
 
 **2024-09-09** — commented on [#1](https://github.com/amzn/kotlin-inject-anvil/issues/1#issuecomment-2338841805) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-07** — closed issue [#431](https://github.com/evant/kotlin-inject/issues/431) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Scope equality doesn't appear to account for scope values"
 
 **2024-09-07** — opened issue [#2091](https://github.com/google/ksp/issues/2091) on [google/ksp](https://github.com/google/ksp): "KSValueArgumentImpl doesn't implement .equals() in KSP2"
-
-**2024-09-07** — commented on [#431](https://github.com/evant/kotlin-inject/issues/431#issuecomment-2336405988) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
