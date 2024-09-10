@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-09** — opened issue [#2093](https://github.com/google/ksp/issues/2093) on [google/ksp](https://github.com/google/ksp): "KSP does not register tasks for AGP test fixtures projects even if processors are registered for their configurations"
 
 **2024-09-07** — opened PR [#432](https://github.com/evant/kotlin-inject/pull/432) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Add an extra test for scope annotation equality"
-
-**2024-09-07** — created branch `z/extraTest` on [ZacSweers/kotlin-inject](https://github.com/ZacSweers/kotlin-inject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
