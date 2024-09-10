@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2341402983) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2340413380) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-10** — closed issue [#1638](https://github.com/slackhq/circuit/issues/1638) on [slackhq/circuit](https://github.com/slackhq/circuit): "rememberAnsweringNavigator's block is cancelled (The coroutine scope left the composition)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-07** — opened PR [#432](https://github.com/evant/kotlin-inject/pull/432) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Add an extra test for scope annotation equality"
 
 **2024-09-07** — created branch `z/extraTest` on [ZacSweers/kotlin-inject](https://github.com/ZacSweers/kotlin-inject)
-
-**2024-09-07** — opened PR [#1635](https://github.com/slackhq/circuit/pull/1635) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
