@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-10** — opened issue [#60](https://github.com/ZacSweers/FieldSpottr/issues/60) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show field information"
+
 **2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2341402983) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2340413380) in [slackhq/circuit](https://github.com/slackhq/circuit)
