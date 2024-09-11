@@ -4,23 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-10** — merged PR [#1664](https://github.com/ZacSweers/CatchUp/pull/1664) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.7"
+
+**2024-09-10** — merged PR [#1663](https://github.com/ZacSweers/CatchUp/pull/1663) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.26.0"
+
+**2024-09-10** — merged PR [#1662](https://github.com/ZacSweers/CatchUp/pull/1662) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.20-1.0.25"
+
+**2024-09-10** — merged PR [#1661](https://github.com/ZacSweers/CatchUp/pull/1661) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-beta01"
+
+**2024-09-10** — merged PR [#1660](https://github.com/ZacSweers/CatchUp/pull/1660) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.8"
+
+**2024-09-10** — merged PR [#1666](https://github.com/ZacSweers/CatchUp/pull/1666) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.18.1"
+
+**2024-09-10** — merged PR [#1667](https://github.com/ZacSweers/CatchUp/pull/1667) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.1"
+
 **2024-09-10** — opened issue [#60](https://github.com/ZacSweers/FieldSpottr/issues/60) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show field information"
-
-**2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2341402983) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2340413380) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-10** — closed issue [#1638](https://github.com/slackhq/circuit/issues/1638) on [slackhq/circuit](https://github.com/slackhq/circuit): "rememberAnsweringNavigator's block is cancelled (The coroutine scope left the composition)"
-
-**2024-09-10** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2339587355) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-09** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2338974963) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-09** — commented on [#8](https://github.com/amzn/kotlin-inject-anvil/issues/8#issuecomment-2338844549) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
-
-**2024-09-09** — commented on [#1](https://github.com/amzn/kotlin-inject-anvil/issues/1#issuecomment-2338841805) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
-
-**2024-09-09** — opened issue [#2093](https://github.com/google/ksp/issues/2093) on [google/ksp](https://github.com/google/ksp): "KSP does not register tasks for AGP test fixtures projects even if processors are registered for their configurations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
