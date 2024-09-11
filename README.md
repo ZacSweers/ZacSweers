@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-11** — opened PR [#957](https://github.com/slackhq/slack-gradle-plugin/pull/957) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add testFixtures feature to SlackExtension"
+
+**2024-09-11** — opened PR [#956](https://github.com/slackhq/slack-gradle-plugin/pull/956) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add SqlDelight DialectClasspath to known configurations"
+
+**2024-09-11** — created branch `z/testFixturesImprovements` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-09-11** — created branch `z/sqldelightConfigs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-09-10** — merged PR [#1664](https://github.com/ZacSweers/CatchUp/pull/1664) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.gitlab.arturbosch.detekt to v1.23.7"
 
 **2024-09-10** — merged PR [#1663](https://github.com/ZacSweers/CatchUp/pull/1663) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.26.0"
@@ -15,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-10** — merged PR [#1660](https://github.com/ZacSweers/CatchUp/pull/1660) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.3.8"
 
 **2024-09-10** — merged PR [#1666](https://github.com/ZacSweers/CatchUp/pull/1666) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.18.1"
-
-**2024-09-10** — merged PR [#1667](https://github.com/ZacSweers/CatchUp/pull/1667) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.1"
-
-**2024-09-10** — opened issue [#60](https://github.com/ZacSweers/FieldSpottr/issues/60) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Show field information"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
