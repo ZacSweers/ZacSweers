@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-11** — commented on [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22#issuecomment-2344658666) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
+
+**2024-09-11** — closed issue [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Contributed multibindings in the same round are not picked up by a merged component"
+
+**2024-09-11** — opened issue [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Contributed multibindings in the same round are not picked up by a merged component"
+
 **2024-09-11** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2344545049) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-11** — closed PR [#608](https://github.com/slackhq/slack-gradle-plugin/pull/608) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake updates"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-11** — commented on [#110](https://github.com/square/gradle-dependencies-sorter/issues/110#issuecomment-2344336789) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-09-11** — opened PR [#958](https://github.com/slackhq/slack-gradle-plugin/pull/958) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update compose feature flags to new API"
-
-**2024-09-11** — created branch `z/updateComposeFFs` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-11** — opened PR [#957](https://github.com/slackhq/slack-gradle-plugin/pull/957) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add testFixtures feature to SlackExtension"
-
-**2024-09-11** — opened PR [#956](https://github.com/slackhq/slack-gradle-plugin/pull/956) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add SqlDelight DialectClasspath to known configurations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
