@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-12** — commented on [#243](https://github.com/evant/kotlin-inject/issues/243#issuecomment-2347193145) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
+
 **2024-09-12** — opened PR [#187](https://github.com/slackhq/kotlin-cli-util/pull/187) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More test fixture migration work"
 
 **2024-09-12** — created branch `z/moreTestFixtures` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-12** — closed issue [#177](https://github.com/slackhq/slack-gradle-plugin/issues/177) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for Detekt's compiler plugin"
 
 **2024-09-12** — commented on [#735](https://github.com/slackhq/slack-gradle-plugin/issues/735#issuecomment-2346842997) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-12** — commented on [#813](https://github.com/slackhq/slack-gradle-plugin/issues/813#issuecomment-2346841561) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
