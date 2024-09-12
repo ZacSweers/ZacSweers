@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-12** — commented on [#917](https://github.com/slackhq/slack-gradle-plugin/issues/917#issuecomment-2346834167) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-09-12** — opened PR [#187](https://github.com/slackhq/kotlin-cli-util/pull/187) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More test fixture migration work"
 
-**2024-09-12** — merged PR [#957](https://github.com/slackhq/slack-gradle-plugin/pull/957) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add testFixtures feature to SlackExtension"
+**2024-09-12** — created branch `z/moreTestFixtures` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
-**2024-09-12** — merged PR [#956](https://github.com/slackhq/slack-gradle-plugin/pull/956) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add SqlDelight DialectClasspath to known configurations"
+**2024-09-12** — created tag `0.19.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
-**2024-09-11** — merged PR [#958](https://github.com/slackhq/slack-gradle-plugin/pull/958) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update compose feature flags to new API"
+**2024-09-12** — closed issue [#917](https://github.com/slackhq/slack-gradle-plugin/issues/917) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Roboletric setup seems broken for non-Slack usage"
 
-**2024-09-11** — opened PR [#25](https://github.com/amzn/kotlin-inject-anvil/pull/25) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add support for specifying contributing annotations via KSP option"
+**2024-09-12** — opened issue [#961](https://github.com/slackhq/slack-gradle-plugin/issues/961) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add project validation tasks"
 
-**2024-09-11** — created branch `z/annotationOption` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
+**2024-09-12** — opened issue [#960](https://github.com/slackhq/slack-gradle-plugin/issues/960) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add option to output SlackExtension config to a JSON file"
+
+**2024-09-12** — commented on [#177](https://github.com/slackhq/slack-gradle-plugin/issues/177#issuecomment-2346845005) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-09-12** — closed issue [#177](https://github.com/slackhq/slack-gradle-plugin/issues/177) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for Detekt's compiler plugin"
+
+**2024-09-12** — commented on [#735](https://github.com/slackhq/slack-gradle-plugin/issues/735#issuecomment-2346842997) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-09-12** — commented on [#813](https://github.com/slackhq/slack-gradle-plugin/issues/813#issuecomment-2346841561) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
