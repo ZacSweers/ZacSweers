@@ -4,25 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-12** — commented on [#917](https://github.com/slackhq/slack-gradle-plugin/issues/917#issuecomment-2346834167) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
+**2024-09-12** — merged PR [#957](https://github.com/slackhq/slack-gradle-plugin/pull/957) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add testFixtures feature to SlackExtension"
+
+**2024-09-12** — merged PR [#956](https://github.com/slackhq/slack-gradle-plugin/pull/956) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add SqlDelight DialectClasspath to known configurations"
+
 **2024-09-11** — merged PR [#958](https://github.com/slackhq/slack-gradle-plugin/pull/958) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update compose feature flags to new API"
 
 **2024-09-11** — opened PR [#25](https://github.com/amzn/kotlin-inject-anvil/pull/25) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add support for specifying contributing annotations via KSP option"
 
 **2024-09-11** — created branch `z/annotationOption` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
-
-**2024-09-11** — opened issue [#24](https://github.com/amzn/kotlin-inject-anvil/issues/24) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Support declaring custom annotations via KSP option"
-
-**2024-09-11** — commented on [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22#issuecomment-2344658666) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
-
-**2024-09-11** — closed issue [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Contributed multibindings in the same round are not picked up by a merged component"
-
-**2024-09-11** — opened issue [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Contributed multibindings in the same round are not picked up by a merged component"
-
-**2024-09-11** — commented on [#1638](https://github.com/slackhq/circuit/issues/1638#issuecomment-2344545049) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-11** — closed PR [#608](https://github.com/slackhq/slack-gradle-plugin/pull/608) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Misc dependency rake updates"
-
-**2024-09-11** — closed PR [#203](https://github.com/slackhq/slack-gradle-plugin/pull/203) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Implement SgpSettingsPlugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
