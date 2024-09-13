@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-12** — commented on [#252](https://github.com/ZacSweers/redacted-compiler-plugin/issues/252#issuecomment-2347429840) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-09-12** — created tag `0.19.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-12** — commented on [#243](https://github.com/evant/kotlin-inject/issues/243#issuecomment-2347193145) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-12** — opened issue [#960](https://github.com/slackhq/slack-gradle-plugin/issues/960) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add option to output SlackExtension config to a JSON file"
 
 **2024-09-12** — commented on [#177](https://github.com/slackhq/slack-gradle-plugin/issues/177#issuecomment-2346845005) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-12** — closed issue [#177](https://github.com/slackhq/slack-gradle-plugin/issues/177) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add support for Detekt's compiler plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
