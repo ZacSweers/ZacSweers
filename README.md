@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-13** — opened PR [#963](https://github.com/slackhq/slack-gradle-plugin/pull/963) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update -Werror behavior in kotlin and disallow in tests by default"
+
+**2024-09-13** — created branch `z/warningsInTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-09-13** — commented on [#36](https://github.com/amzn/kotlin-inject-anvil/issues/36#issuecomment-2348057638) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
 
 **2024-09-12** — commented on [#252](https://github.com/ZacSweers/redacted-compiler-plugin/issues/252#issuecomment-2347429840) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -15,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-12** — opened PR [#187](https://github.com/slackhq/kotlin-cli-util/pull/187) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More test fixture migration work"
 
 **2024-09-12** — created branch `z/moreTestFixtures` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-09-12** — created tag `0.19.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-12** — closed issue [#917](https://github.com/slackhq/slack-gradle-plugin/issues/917) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Roboletric setup seems broken for non-Slack usage"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
