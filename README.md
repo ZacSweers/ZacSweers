@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-13** — commented on [#36](https://github.com/amzn/kotlin-inject-anvil/issues/36#issuecomment-2348057638) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
 
 **2024-09-12** — commented on [#252](https://github.com/ZacSweers/redacted-compiler-plugin/issues/252#issuecomment-2347429840) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-09-12** — created tag `0.19.3` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
