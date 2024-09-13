@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-13** — opened issue [#113](https://github.com/square/gradle-dependencies-sorter/issues/113) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): ""configuration"(dependency) notation is unsupported"
+
 **2024-09-13** — commented on [#249](https://github.com/Kotlin/binary-compatibility-validator/issues/249#issuecomment-2350010623) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2024-09-13** — opened PR [#38](https://github.com/amzn/kotlin-inject-anvil/pull/38) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Apply unique module names to artifacts + disable klib validation for now"
