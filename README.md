@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-12** — created tag `0.19.2` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-12** — closed issue [#917](https://github.com/slackhq/slack-gradle-plugin/issues/917) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Roboletric setup seems broken for non-Slack usage"
-
-**2024-09-12** — opened issue [#961](https://github.com/slackhq/slack-gradle-plugin/issues/961) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add project validation tasks"
-
-**2024-09-12** — opened issue [#960](https://github.com/slackhq/slack-gradle-plugin/issues/960) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add option to output SlackExtension config to a JSON file"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
