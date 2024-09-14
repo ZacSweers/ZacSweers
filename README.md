@@ -4,23 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-14** — merged PR [#1668](https://github.com/ZacSweers/CatchUp/pull/1668) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.266.0"
+
+**2024-09-14** — merged PR [#1669](https://github.com/ZacSweers/CatchUp/pull/1669) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.6.0"
+
+**2024-09-14** — merged PR [#1670](https://github.com/ZacSweers/CatchUp/pull/1670) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook.soloader:soloader to v0.12.1"
+
+**2024-09-14** — merged PR [#1671](https://github.com/ZacSweers/CatchUp/pull/1671) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.32.0"
+
+**2024-09-14** — merged PR [#1673](https://github.com/ZacSweers/CatchUp/pull/1673) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.7.0-beta02"
+
+**2024-09-14** — merged PR [#1674](https://github.com/ZacSweers/CatchUp/pull/1674) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.9.1"
+
+**2024-09-14** — merged PR [#1675](https://github.com/ZacSweers/CatchUp/pull/1675) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update coroutines to v1.9.0"
+
 **2024-09-14** — opened PR [#440](https://github.com/evant/kotlin-inject/pull/440) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Proposal: Add mingwX64() target for windows"
-
-**2024-09-13** — opened issue [#113](https://github.com/square/gradle-dependencies-sorter/issues/113) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): ""configuration"(dependency) notation is unsupported"
-
-**2024-09-13** — commented on [#249](https://github.com/Kotlin/binary-compatibility-validator/issues/249#issuecomment-2350010623) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
-
-**2024-09-13** — opened PR [#38](https://github.com/amzn/kotlin-inject-anvil/pull/38) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Apply unique module names to artifacts + disable klib validation for now"
-
-**2024-09-13** — created branch `z/klibNames` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
-
-**2024-09-13** — opened PR [#963](https://github.com/slackhq/slack-gradle-plugin/pull/963) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update -Werror behavior in kotlin and disallow in tests by default"
-
-**2024-09-13** — created branch `z/warningsInTests` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-13** — commented on [#36](https://github.com/amzn/kotlin-inject-anvil/issues/36#issuecomment-2348057638) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
-
-**2024-09-12** — commented on [#252](https://github.com/ZacSweers/redacted-compiler-plugin/issues/252#issuecomment-2347429840) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
