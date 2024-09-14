@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-14** — opened PR [#440](https://github.com/evant/kotlin-inject/pull/440) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Proposal: Add mingwX64() target for windows"
+
 **2024-09-13** — opened issue [#113](https://github.com/square/gradle-dependencies-sorter/issues/113) on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): ""configuration"(dependency) notation is unsupported"
 
 **2024-09-13** — commented on [#249](https://github.com/Kotlin/binary-compatibility-validator/issues/249#issuecomment-2350010623) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
