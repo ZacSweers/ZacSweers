@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-14** — created tag `v17` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-09-14** — created tag `v18` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-09-14** — closed PR [#65](https://github.com/ZacSweers/FieldSpottr/pull/65) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.1"
 
 **2024-09-14** — merged PR [#64](https://github.com/ZacSweers/FieldSpottr/pull/64) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Improve text field dropdown UI"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-14** — created branch `z/locations` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-09-14** — merged PR [#59](https://github.com/ZacSweers/FieldSpottr/pull/59) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.1"
-
-**2024-09-14** — merged PR [#61](https://github.com/ZacSweers/FieldSpottr/pull/61) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.9.1"
-
-**2024-09-14** — merged PR [#62](https://github.com/ZacSweers/FieldSpottr/pull/62) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.coroutines to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
