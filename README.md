@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-15** — commented on [#8](https://github.com/amzn/kotlin-inject-anvil/issues/8#issuecomment-2351585569) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
+
 **2024-09-14** — opened PR [#66](https://github.com/ZacSweers/FieldSpottr/pull/66) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate to kotlin-inject"
 
 **2024-09-14** — created branch `z/kotlinInject` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-14** — created tag `v17` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-09-14** — created tag `v18` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-09-14** — closed PR [#65](https://github.com/ZacSweers/FieldSpottr/pull/65) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
