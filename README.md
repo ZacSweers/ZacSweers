@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-14** — opened PR [#66](https://github.com/ZacSweers/FieldSpottr/pull/66) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate to kotlin-inject"
+
+**2024-09-14** — created branch `z/kotlinInject` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-09-14** — opened PR [#442](https://github.com/evant/kotlin-inject/pull/442) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Align and share jvmTarget/JDK versions"
 
 **2024-09-14** — created branch `z/standardsJvmJdk` on [ZacSweers/kotlin-inject](https://github.com/ZacSweers/kotlin-inject)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-14** — created tag `v18` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-09-14** — closed PR [#65](https://github.com/ZacSweers/FieldSpottr/pull/65) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.1"
-
-**2024-09-14** — merged PR [#64](https://github.com/ZacSweers/FieldSpottr/pull/64) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Improve text field dropdown UI"
-
-**2024-09-14** — opened PR [#64](https://github.com/ZacSweers/FieldSpottr/pull/64) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Improve text field dropdown UI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
