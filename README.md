@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-16** — created tag `0.24.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-09-16** — opened PR [#1655](https://github.com/slackhq/circuit/pull/1655) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add test params for retained state registry"
 
 **2024-09-16** — created branch `z/testRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-15** — merged PR [#1635](https://github.com/slackhq/circuit/pull/1635) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add support for kotlin-inject-anvil"
 
 **2024-09-15** — commented on [#8](https://github.com/amzn/kotlin-inject-anvil/issues/8#issuecomment-2351585569) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
-
-**2024-09-14** — opened PR [#66](https://github.com/ZacSweers/FieldSpottr/pull/66) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate to kotlin-inject"
-
-**2024-09-14** — created branch `z/kotlinInject` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
