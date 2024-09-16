@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-16** — merged PR [#662](https://github.com/ZacSweers/MoshiX/pull/662) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add possibility to disable auto-application of Moshi dependency"
+
 **2024-09-16** — opened PR [#39](https://github.com/amzn/kotlin-inject-anvil/pull/39) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add PROPERTY_GETTER targets to SingleIn and ForScope"
 
 **2024-09-16** — created branch `z/target` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-14** — created branch `z/standardsJvmJdk` on [ZacSweers/kotlin-inject](https://github.com/ZacSweers/kotlin-inject)
 
 **2024-09-14** — opened PR [#441](https://github.com/evant/kotlin-inject/pull/441) to [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "Don't generate parameter-less constructors"
-
-**2024-09-14** — created branch `z/constructorParams` on [ZacSweers/kotlin-inject](https://github.com/ZacSweers/kotlin-inject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
