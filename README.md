@@ -17,10 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-16** — opened PR [#39](https://github.com/amzn/kotlin-inject-anvil/pull/39) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add PROPERTY_GETTER targets to SingleIn and ForScope"
 
 **2024-09-16** — created branch `z/target` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
-
-**2024-09-15** — merged PR [#1635](https://github.com/slackhq/circuit/pull/1635) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add support for kotlin-inject-anvil"
-
-**2024-09-15** — commented on [#8](https://github.com/amzn/kotlin-inject-anvil/issues/8#issuecomment-2351585569) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
