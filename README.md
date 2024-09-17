@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-17** — merged PR [#1654](https://github.com/slackhq/circuit/pull/1654) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency com.github.ajalt.clikt:clikt to v5"
+
+**2024-09-17** — commented on [#1653](https://github.com/slackhq/circuit/pull/1653#issuecomment-2356039878) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-09-17** — closed PR [#1653](https://github.com/slackhq/circuit/pull/1653) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.2"
+
+**2024-09-17** — commented on [#1636](https://github.com/slackhq/circuit/pull/1636#issuecomment-2356039216) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-09-17** — closed PR [#1636](https://github.com/slackhq/circuit/pull/1636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.10.1"
+
 **2024-09-16** — commented on [#1627](https://github.com/slackhq/circuit/pull/1627#issuecomment-2354062194) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-16** — created tag `0.24.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-16** — created branch `z/testRetained` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-16** — merged PR [#1597](https://github.com/slackhq/circuit/pull/1597) to [slackhq/circuit](https://github.com/slackhq/circuit): "Implement CircuitReceiveTurbine"
-
-**2024-09-16** — merged PR [#662](https://github.com/ZacSweers/MoshiX/pull/662) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Add possibility to disable auto-application of Moshi dependency"
-
-**2024-09-16** — opened PR [#39](https://github.com/amzn/kotlin-inject-anvil/pull/39) to [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Add PROPERTY_GETTER targets to SingleIn and ForScope"
-
-**2024-09-16** — created branch `z/target` on [ZacSweers/kotlin-inject-anvil](https://github.com/ZacSweers/kotlin-inject-anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
