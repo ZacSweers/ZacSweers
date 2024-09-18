@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-18** — merged PR [#963](https://github.com/slackhq/slack-gradle-plugin/pull/963) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update -Werror behavior in kotlin and disallow in tests by default"
+
 **2024-09-17** — merged PR [#187](https://github.com/slackhq/kotlin-cli-util/pull/187) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More test fixture migration work"
 
 **2024-09-17** — merged PR [#184](https://github.com/slackhq/kotlin-cli-util/pull/184) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.23.6 to 1.23.7"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-17** — closed PR [#1653](https://github.com/slackhq/circuit/pull/1653) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.2"
 
 **2024-09-17** — commented on [#1636](https://github.com/slackhq/circuit/pull/1636#issuecomment-2356039216) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-17** — closed PR [#1636](https://github.com/slackhq/circuit/pull/1636) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency gradle to v8.10.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
