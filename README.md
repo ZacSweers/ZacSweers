@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-19** — created branch `test-renovate/com.github.ajalt.clikt-clikt-5.x` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-09-19** — commented on [#288](https://github.com/ZacSweers/kotlin-compile-testing/pull/288#issuecomment-2362282376) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-18** — merged PR [#968](https://github.com/slackhq/slack-gradle-plugin/pull/968) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.github.ajalt.clikt:clikt to v5"
+**2024-09-19** — opened PR [#288](https://github.com/ZacSweers/kotlin-compile-testing/pull/288) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.1.0-Beta1"
 
-**2024-09-18** — commented on [#967](https://github.com/slackhq/slack-gradle-plugin/pull/967#issuecomment-2359363346) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+**2024-09-19** — created branch `z/k210` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-18** — closed PR [#967](https://github.com/slackhq/slack-gradle-plugin/pull/967) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.circuit:circuit-foundation to v0.24.0"
+**2024-09-19** — commented on [#277](https://github.com/ZacSweers/kotlin-compile-testing/issues/277#issuecomment-2362274970) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-18** — merged PR [#963](https://github.com/slackhq/slack-gradle-plugin/pull/963) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update -Werror behavior in kotlin and disallow in tests by default"
+**2024-09-19** — closed issue [#277](https://github.com/ZacSweers/kotlin-compile-testing/issues/277) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "`com.sun.tools.javac.util.Context` class can't be found "
 
-**2024-09-17** — merged PR [#187](https://github.com/slackhq/kotlin-cli-util/pull/187) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "More test fixture migration work"
+**2024-09-19** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2362274471) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-17** — merged PR [#184](https://github.com/slackhq/kotlin-cli-util/pull/184) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump io.gitlab.arturbosch.detekt from 1.23.6 to 1.23.7"
+**2024-09-19** — commented on [#257](https://github.com/ZacSweers/kotlin-compile-testing/issues/257#issuecomment-2362274221) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-17** — merged PR [#186](https://github.com/slackhq/kotlin-cli-util/pull/186) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.gradle.test-retry from 1.5.10 to 1.6.0"
+**2024-09-19** — closed issue [#257](https://github.com/ZacSweers/kotlin-compile-testing/issues/257) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "0.5.0 Generated Sources Not Produced"
 
-**2024-09-17** — merged PR [#189](https://github.com/slackhq/kotlin-cli-util/pull/189) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.7.0-beta01 to 8.8.0-alpha02"
+**2024-09-19** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2362273723) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-09-17** — merged PR [#188](https://github.com/slackhq/kotlin-cli-util/pull/188) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.squareup.okio:okio from 3.9.0 to 3.9.1"
+**2024-09-19** — commented on [#287](https://github.com/ZacSweers/kotlin-compile-testing/pull/287#issuecomment-2362272572) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
