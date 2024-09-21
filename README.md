@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-21** — merged PR [#67](https://github.com/ZacSweers/FieldSpottr/pull/67) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.24.0"
+
+**2024-09-21** — merged PR [#69](https://github.com/ZacSweers/FieldSpottr/pull/69) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.7.3"
+
+**2024-09-21** — merged PR [#68](https://github.com/ZacSweers/FieldSpottr/pull/68) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.1"
+
 **2024-09-21** — created tag `3.0.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
 
 **2024-09-21** — merged PR [#190](https://github.com/slackhq/kotlin-cli-util/pull/190) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.4.0 to 5.0.0"
@@ -13,16 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-21** — commented on [#310](https://github.com/slackhq/slack-lints/issues/310#issuecomment-2364992478) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-09-20** — commented on [#667](https://github.com/ZacSweers/MoshiX/pull/667#issuecomment-2362775292) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-09-20** — opened PR [#667](https://github.com/ZacSweers/MoshiX/pull/667) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.1.0-Beta1"
-
-**2024-09-20** — created branch `z/k210` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-09-19** — closed PR [#665](https://github.com/ZacSweers/MoshiX/pull/665) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.10.1"
-
-**2024-09-19** — merged PR [#663](https://github.com/ZacSweers/MoshiX/pull/663) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.20-1.0.25"
-
-**2024-09-19** — merged PR [#666](https://github.com/ZacSweers/MoshiX/pull/666) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
