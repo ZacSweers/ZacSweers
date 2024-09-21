@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-21** — commented on [#310](https://github.com/slackhq/slack-lints/issues/310#issuecomment-2364992478) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-09-20** — commented on [#667](https://github.com/ZacSweers/MoshiX/pull/667#issuecomment-2362775292) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-09-20** — opened PR [#667](https://github.com/ZacSweers/MoshiX/pull/667) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.1.0-Beta1"
@@ -21,14 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-19** — merged PR [#246](https://github.com/ZacSweers/redacted-compiler-plugin/pull/246) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.52"
 
 **2024-09-19** — commented on [#254](https://github.com/ZacSweers/redacted-compiler-plugin/pull/254#issuecomment-2362698465) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-09-19** — commented on [#252](https://github.com/ZacSweers/redacted-compiler-plugin/issues/252#issuecomment-2362693685) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-09-20** — Could not load blog content. Please check back later.
+**2024-09-21** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
