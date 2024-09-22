@@ -4,21 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-21** — merged PR [#206](https://github.com/ZacSweers/ZacSweers/pull/206) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.10.1"
+
+**2024-09-21** — merged PR [#203](https://github.com/ZacSweers/ZacSweers/pull/203) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.0.20-1.0.25"
+
+**2024-09-21** — merged PR [#204](https://github.com/ZacSweers/ZacSweers/pull/204) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.26.0"
+
+**2024-09-21** — merged PR [#207](https://github.com/ZacSweers/ZacSweers/pull/207) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.9.1"
+
+**2024-09-21** — merged PR [#208](https://github.com/ZacSweers/ZacSweers/pull/208) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.9.0"
+
+**2024-09-21** — merged PR [#210](https://github.com/ZacSweers/ZacSweers/pull/210) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.3"
+
 **2024-09-21** — merged PR [#67](https://github.com/ZacSweers/FieldSpottr/pull/67) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.24.0"
 
 **2024-09-21** — merged PR [#69](https://github.com/ZacSweers/FieldSpottr/pull/69) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.7.3"
-
-**2024-09-21** — merged PR [#68](https://github.com/ZacSweers/FieldSpottr/pull/68) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.6.1"
-
-**2024-09-21** — created tag `3.0.0` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-09-21** — merged PR [#190](https://github.com/slackhq/kotlin-cli-util/pull/190) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.github.ajalt.clikt:clikt from 4.4.0 to 5.0.0"
-
-**2024-09-21** — merged PR [#191](https://github.com/slackhq/kotlin-cli-util/pull/191) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump org.jetbrains.kotlinx:kotlinx-serialization-core from 1.7.2 to 1.7.3"
-
-**2024-09-21** — commented on [#310](https://github.com/slackhq/slack-lints/issues/310#issuecomment-2364992478) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-09-20** — commented on [#667](https://github.com/ZacSweers/MoshiX/pull/667#issuecomment-2362775292) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
