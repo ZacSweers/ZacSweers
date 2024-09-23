@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-23** — merged PR [#973](https://github.com/slackhq/slack-gradle-plugin/pull/973) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to IJ platform 2.0.1 + target IJ 241"
+
 **2024-09-23** — commented on [#662](https://github.com/ZacSweers/MoshiX/pull/662#issuecomment-2368391450) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-09-22** — created tag `0.19.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-21** — merged PR [#206](https://github.com/ZacSweers/ZacSweers/pull/206) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.10.1"
 
 **2024-09-21** — merged PR [#203](https://github.com/ZacSweers/ZacSweers/pull/203) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.0.20-1.0.25"
-
-**2024-09-21** — merged PR [#204](https://github.com/ZacSweers/ZacSweers/pull/204) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.26.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
