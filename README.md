@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-21** — merged PR [#210](https://github.com/ZacSweers/ZacSweers/pull/210) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.7.3"
 
 **2024-09-21** — merged PR [#67](https://github.com/ZacSweers/FieldSpottr/pull/67) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.24.0"
-
-**2024-09-21** — merged PR [#69](https://github.com/ZacSweers/FieldSpottr/pull/69) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
