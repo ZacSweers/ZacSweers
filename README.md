@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-23** — commented on [#662](https://github.com/ZacSweers/MoshiX/pull/662#issuecomment-2368391450) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-09-22** — created tag `0.19.4` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-22** — merged PR [#972](https://github.com/slackhq/slack-gradle-plugin/pull/972) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency com.slack.cli:kotlin-cli-util to v3"
