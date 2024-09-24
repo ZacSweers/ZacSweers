@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371691644) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2024-09-23** — created tag `0.19.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-23** — merged PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-23** — merged PR [#1683](https://github.com/ZacSweers/CatchUp/pull/1683) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-beta01"
 
 **2024-09-23** — merged PR [#1681](https://github.com/ZacSweers/CatchUp/pull/1681) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha08"
-
-**2024-09-23** — merged PR [#1679](https://github.com/ZacSweers/CatchUp/pull/1679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha06"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
