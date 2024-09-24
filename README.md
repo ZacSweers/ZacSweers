@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-23** — merged PR [#1680](https://github.com/ZacSweers/CatchUp/pull/1680) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.267.1"
+
+**2024-09-23** — merged PR [#1683](https://github.com/ZacSweers/CatchUp/pull/1683) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-beta01"
+
+**2024-09-23** — merged PR [#1681](https://github.com/ZacSweers/CatchUp/pull/1681) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha08"
+
+**2024-09-23** — merged PR [#1679](https://github.com/ZacSweers/CatchUp/pull/1679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha06"
+
+**2024-09-23** — merged PR [#1678](https://github.com/ZacSweers/CatchUp/pull/1678) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.24.0"
+
+**2024-09-23** — merged PR [#1682](https://github.com/ZacSweers/CatchUp/pull/1682) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.2"
+
 **2024-09-23** — opened PR [#82](https://github.com/slackhq/EitherNet/pull/82) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Prep for Kotlin 2.1.0"
 
 **2024-09-23** — created branch `z/k210` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-23** — merged PR [#81](https://github.com/slackhq/EitherNet/pull/81) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Add out variance to ApiResult.Failure generic type"
 
 **2024-09-23** — opened PR [#975](https://github.com/slackhq/slack-gradle-plugin/pull/975) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Prep for Kotlin 2.1.0"
-
-**2024-09-23** — created branch `z/k210` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-23** — opened issue [#4451](https://github.com/google/dagger/issues/4451) on [google/dagger](https://github.com/google/dagger): "Support Kotlin 2.1.0"
-
-**2024-09-23** — opened PR [#1677](https://github.com/slackhq/circuit/pull/1677) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.1.0"
-
-**2024-09-23** — created branch `z/k210` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-23** — merged PR [#973](https://github.com/slackhq/slack-gradle-plugin/pull/973) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update to IJ platform 2.0.1 + target IJ 241"
-
-**2024-09-23** — commented on [#662](https://github.com/ZacSweers/MoshiX/pull/662#issuecomment-2368391450) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
