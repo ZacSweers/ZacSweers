@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-24** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2371751520) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371702386) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
+**2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371697977) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
+
 **2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371691644) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-09-23** — created tag `0.19.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-23** — opened PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
 
 **2024-09-23** — created branch `z/sourceInfo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-23** — merged PR [#1680](https://github.com/ZacSweers/CatchUp/pull/1680) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.267.1"
-
-**2024-09-23** — merged PR [#1683](https://github.com/ZacSweers/CatchUp/pull/1683) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-beta01"
-
-**2024-09-23** — merged PR [#1681](https://github.com/ZacSweers/CatchUp/pull/1681) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha08"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
