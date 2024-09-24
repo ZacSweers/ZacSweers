@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-23** — merged PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
+
 **2024-09-23** — commented on [#4451](https://github.com/google/dagger/issues/4451#issuecomment-2369620613) in [google/dagger](https://github.com/google/dagger)
 
 **2024-09-23** — commented on [#1639](https://github.com/slackhq/circuit/issues/1639#issuecomment-2369416058) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,14 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-23** — merged PR [#1679](https://github.com/ZacSweers/CatchUp/pull/1679) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha06"
 
 **2024-09-23** — merged PR [#1678](https://github.com/ZacSweers/CatchUp/pull/1678) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.24.0"
-
-**2024-09-23** — merged PR [#1682](https://github.com/ZacSweers/CatchUp/pull/1682) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-09-23** — Could not load blog content. Please check back later.
+**2024-09-24** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
