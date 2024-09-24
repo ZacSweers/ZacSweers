@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
+
+**2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
+
+**2024-09-24** — merged PR [#1681](https://github.com/slackhq/circuit/pull/1681) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add note about only creating a presenter for supported screen types"
+
+**2024-09-24** — commented on [#1681](https://github.com/slackhq/circuit/pull/1681#issuecomment-2371905551) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-09-24** — created tag `3.0.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
+
 **2024-09-24** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2371751520) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371702386) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371691644) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-09-23** — created tag `0.19.5` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-23** — merged PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
-
-**2024-09-23** — commented on [#4451](https://github.com/google/dagger/issues/4451#issuecomment-2369620613) in [google/dagger](https://github.com/google/dagger)
-
-**2024-09-23** — commented on [#1639](https://github.com/slackhq/circuit/issues/1639#issuecomment-2369416058) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-23** — opened PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
-
-**2024-09-23** — created branch `z/sourceInfo` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
