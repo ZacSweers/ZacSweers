@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-23** — commented on [#4451](https://github.com/google/dagger/issues/4451#issuecomment-2369620613) in [google/dagger](https://github.com/google/dagger)
+
 **2024-09-23** — commented on [#1639](https://github.com/slackhq/circuit/issues/1639#issuecomment-2369416058) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-09-23** — opened PR [#977](https://github.com/slackhq/slack-gradle-plugin/pull/977) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Add workaround for source information in KGP/AGP"
