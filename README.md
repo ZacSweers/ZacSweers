@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-25** — opened issue [#984](https://github.com/slackhq/slack-gradle-plugin/issues/984) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Restructure to Foundry"
+
+**2024-09-25** — created tag `0.19.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-09-25** — merged PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
 
 **2024-09-25** — opened PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371916234) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
 
 **2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
-
-**2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
-
-**2024-09-24** — merged PR [#1681](https://github.com/slackhq/circuit/pull/1681) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add note about only creating a presenter for supported screen types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
