@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-25** — merged PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
+
+**2024-09-25** — opened PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
+
+**2024-09-25** — created branch `z/argsUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
+
 **2024-09-25** — closed PR [#981](https://github.com/slackhq/slack-gradle-plugin/pull/981) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose to v1.7.0-rc01+build1844-release-1.7"
 
 **2024-09-25** — commented on [#981](https://github.com/slackhq/slack-gradle-plugin/pull/981#issuecomment-2374875353) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
 
 **2024-09-24** — merged PR [#1681](https://github.com/slackhq/circuit/pull/1681) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add note about only creating a presenter for supported screen types"
-
-**2024-09-24** — commented on [#1681](https://github.com/slackhq/circuit/pull/1681#issuecomment-2371905551) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-09-24** — created tag `3.0.1` on [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util)
-
-**2024-09-24** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2371751520) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
