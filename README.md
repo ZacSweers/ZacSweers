@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-25** — merged PR [#985](https://github.com/slackhq/foundry/pull/985) to [slackhq/foundry](https://github.com/slackhq/foundry): "Mass rename + restructure to foundry"
+
+**2024-09-25** — commented on [#985](https://github.com/slackhq/foundry/pull/985#issuecomment-2375385832) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-09-25** — opened PR [#985](https://github.com/slackhq/foundry/pull/985) to [slackhq/foundry](https://github.com/slackhq/foundry): "Mass rename + restructure to foundry"
+
+**2024-09-25** — created branch `z/rename` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-09-25** — opened issue [#984](https://github.com/slackhq/slack-gradle-plugin/issues/984) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Restructure to Foundry"
 
 **2024-09-25** — created tag `0.19.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-25** — created branch `z/argsUpdates` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-25** — closed PR [#981](https://github.com/slackhq/slack-gradle-plugin/pull/981) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Update dependency org.jetbrains.compose to v1.7.0-rc01+build1844-release-1.7"
-
-**2024-09-25** — commented on [#981](https://github.com/slackhq/slack-gradle-plugin/pull/981#issuecomment-2374875353) in [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
-
-**2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2372630460) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-09-24** — commented on [#478](https://github.com/takahirom/roborazzi/issues/478#issuecomment-2371916234) in [takahirom/roborazzi](https://github.com/takahirom/roborazzi)
-
-**2024-09-24** — closed issue [#1639](https://github.com/slackhq/circuit/issues/1639) on [slackhq/circuit](https://github.com/slackhq/circuit): "Tutorial code causes runtime crash when navigating"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
