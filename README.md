@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-26** — opened PR [#988](https://github.com/slackhq/foundry/pull/988) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up aliases"
+
 **2024-09-26** — merged PR [#71](https://github.com/ZacSweers/FieldSpottr/pull/71) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.223.0"
 
 **2024-09-26** — commented on [#2072](https://github.com/google/ksp/issues/2072#issuecomment-2377893673) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-25** — created branch `z/rename` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-09-25** — opened issue [#984](https://github.com/slackhq/slack-gradle-plugin/issues/984) on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Restructure to Foundry"
-
-**2024-09-25** — created tag `0.19.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
