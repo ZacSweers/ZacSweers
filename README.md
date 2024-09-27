@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-26** — commented on [#2072](https://github.com/google/ksp/issues/2072#issuecomment-2377893673) in [google/ksp](https://github.com/google/ksp)
+
 **2024-09-26** — merged PR [#192](https://github.com/slackhq/kotlin-cli-util/pull/192) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.8.0-alpha02 to 8.8.0-alpha03"
 
 **2024-09-26** — created branch `z/warnings` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-25** — created tag `0.19.6` on [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin)
 
 **2024-09-25** — merged PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
-
-**2024-09-25** — opened PR [#983](https://github.com/slackhq/slack-gradle-plugin/pull/983) to [slackhq/slack-gradle-plugin](https://github.com/slackhq/slack-gradle-plugin): "Intro SoftRefLRUPolicyMSPerMB + ReservedCodeCacheSize args"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
