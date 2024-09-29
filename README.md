@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-09-29** — merged PR [#1688](https://github.com/slackhq/circuit/pull/1688) to [slackhq/circuit](https://github.com/slackhq/circuit): "[FIXED] Broken link navigation.md to overlays"
+
 **2024-09-27** — closed PR [#986](https://github.com/slackhq/foundry/pull/986) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose to v1.7.0-rc01+build1854-release-1.7"
 
 **2024-09-26** — merged PR [#988](https://github.com/slackhq/foundry/pull/988) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up aliases"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-09-25** — merged PR [#985](https://github.com/slackhq/foundry/pull/985) to [slackhq/foundry](https://github.com/slackhq/foundry): "Mass rename + restructure to foundry"
 
 **2024-09-25** — commented on [#985](https://github.com/slackhq/foundry/pull/985#issuecomment-2375385832) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-09-25** — opened PR [#985](https://github.com/slackhq/foundry/pull/985) to [slackhq/foundry](https://github.com/slackhq/foundry): "Mass rename + restructure to foundry"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
