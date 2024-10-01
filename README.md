@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-29** — merged PR [#1688](https://github.com/slackhq/circuit/pull/1688) to [slackhq/circuit](https://github.com/slackhq/circuit): "[FIXED] Broken link navigation.md to overlays"
+**2024-09-30** — merged PR [#305](https://github.com/slackhq/slack-lints/pull/305) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.7"
 
-**2024-09-27** — closed PR [#986](https://github.com/slackhq/foundry/pull/986) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose to v1.7.0-rc01+build1854-release-1.7"
+**2024-09-30** — opened PR [#998](https://github.com/slackhq/foundry/pull/998) to [slackhq/foundry](https://github.com/slackhq/foundry): "Port over kotlin-cli-util to :tools:cli"
 
-**2024-09-26** — merged PR [#988](https://github.com/slackhq/foundry/pull/988) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up aliases"
+**2024-09-30** — created branch `z/cli` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2024-09-26** — opened PR [#988](https://github.com/slackhq/foundry/pull/988) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up aliases"
+**2024-09-30** — merged PR [#302](https://github.com/slackhq/slack-lints/pull/302) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.20-1.0.25"
 
-**2024-09-26** — merged PR [#71](https://github.com/ZacSweers/FieldSpottr/pull/71) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.223.0"
+**2024-09-30** — merged PR [#307](https://github.com/slackhq/slack-lints/pull/307) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.7.0-rc01"
 
-**2024-09-26** — commented on [#2072](https://github.com/google/ksp/issues/2072#issuecomment-2377893673) in [google/ksp](https://github.com/google/ksp)
+**2024-09-30** — merged PR [#308](https://github.com/slackhq/slack-lints/pull/308) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.5.0"
 
-**2024-09-26** — merged PR [#192](https://github.com/slackhq/kotlin-cli-util/pull/192) to [slackhq/kotlin-cli-util](https://github.com/slackhq/kotlin-cli-util): "Bump com.android.lint from 8.8.0-alpha02 to 8.8.0-alpha03"
+**2024-09-30** — merged PR [#303](https://github.com/slackhq/slack-lints/pull/303) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.7.0-rc01"
 
-**2024-09-26** — created branch `z/warnings` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-09-30** — merged PR [#304](https://github.com/slackhq/slack-lints/pull/304) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.10.2"
 
-**2024-09-25** — merged PR [#985](https://github.com/slackhq/foundry/pull/985) to [slackhq/foundry](https://github.com/slackhq/foundry): "Mass rename + restructure to foundry"
+**2024-09-30** — merged PR [#306](https://github.com/slackhq/slack-lints/pull/306) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.2"
 
-**2024-09-25** — commented on [#985](https://github.com/slackhq/foundry/pull/985#issuecomment-2375385832) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-09-30** — opened issue [#311](https://github.com/slackhq/slack-lints/issues/311) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consider allowing preconditions without messages in tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
