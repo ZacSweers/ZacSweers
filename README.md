@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-09-30** — merged PR [#305](https://github.com/slackhq/slack-lints/pull/305) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.7"
+**2024-10-01** — merged PR [#406](https://github.com/slackhq/compose-lints/pull/406) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.39"
 
-**2024-09-30** — opened PR [#998](https://github.com/slackhq/foundry/pull/998) to [slackhq/foundry](https://github.com/slackhq/foundry): "Port over kotlin-cli-util to :tools:cli"
+**2024-10-01** — merged PR [#409](https://github.com/slackhq/compose-lints/pull/409) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.11.1"
 
-**2024-09-30** — created branch `z/cli` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-10-01** — merged PR [#403](https://github.com/slackhq/compose-lints/pull/403) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0-rc01"
 
-**2024-09-30** — merged PR [#302](https://github.com/slackhq/slack-lints/pull/302) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.20-1.0.25"
+**2024-10-01** — merged PR [#401](https://github.com/slackhq/compose-lints/pull/401) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.10.2"
 
-**2024-09-30** — merged PR [#307](https://github.com/slackhq/slack-lints/pull/307) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.7.0-rc01"
+**2024-10-01** — merged PR [#407](https://github.com/slackhq/compose-lints/pull/407) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.1"
 
-**2024-09-30** — merged PR [#308](https://github.com/slackhq/slack-lints/pull/308) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.5.0"
+**2024-10-01** — merged PR [#398](https://github.com/slackhq/compose-lints/pull/398) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.6.1"
 
-**2024-09-30** — merged PR [#303](https://github.com/slackhq/slack-lints/pull/303) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.7.0-rc01"
+**2024-10-01** — merged PR [#405](https://github.com/slackhq/compose-lints/pull/405) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.2.0"
 
-**2024-09-30** — merged PR [#304](https://github.com/slackhq/slack-lints/pull/304) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.10.2"
+**2024-10-01** — merged PR [#402](https://github.com/slackhq/compose-lints/pull/402) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.7"
 
-**2024-09-30** — merged PR [#306](https://github.com/slackhq/slack-lints/pull/306) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.2"
-
-**2024-09-30** — opened issue [#311](https://github.com/slackhq/slack-lints/issues/311) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consider allowing preconditions without messages in tests"
+**2024-10-01** — merged PR [#400](https://github.com/slackhq/compose-lints/pull/400) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v2.0.20-1.0.25"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
