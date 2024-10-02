@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-01** — merged PR [#406](https://github.com/slackhq/compose-lints/pull/406) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.39"
+**2024-10-01** — merged PR [#1691](https://github.com/ZacSweers/CatchUp/pull/1691) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.1.3"
 
-**2024-10-01** — merged PR [#409](https://github.com/slackhq/compose-lints/pull/409) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.11.1"
+**2024-10-01** — closed issue [#408](https://github.com/slackhq/compose-lints/issues/408) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive on `ComposeModifierWithoutDefault` "
 
-**2024-10-01** — merged PR [#403](https://github.com/slackhq/compose-lints/pull/403) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0-rc01"
+**2024-10-01** — merged PR [#410](https://github.com/slackhq/compose-lints/pull/410) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't lint about default modifiers on extensions"
 
-**2024-10-01** — merged PR [#401](https://github.com/slackhq/compose-lints/pull/401) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency gradle to v8.10.2"
+**2024-10-01** — merged PR [#1690](https://github.com/ZacSweers/CatchUp/pull/1690) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.3.1-jre"
 
-**2024-10-01** — merged PR [#407](https://github.com/slackhq/compose-lints/pull/407) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.6.1"
+**2024-10-01** — opened PR [#410](https://github.com/slackhq/compose-lints/pull/410) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't lint about default modifiers on extensions"
 
-**2024-10-01** — merged PR [#398](https://github.com/slackhq/compose-lints/pull/398) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.6.1"
+**2024-10-01** — created branch `z/modifierReceivers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-10-01** — merged PR [#405](https://github.com/slackhq/compose-lints/pull/405) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.2.0"
+**2024-10-01** — merged PR [#1665](https://github.com/ZacSweers/CatchUp/pull/1665) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.10.2"
 
-**2024-10-01** — merged PR [#402](https://github.com/slackhq/compose-lints/pull/402) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.7"
+**2024-10-01** — merged PR [#1685](https://github.com/ZacSweers/CatchUp/pull/1685) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha02"
 
-**2024-10-01** — merged PR [#400](https://github.com/slackhq/compose-lints/pull/400) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v2.0.20-1.0.25"
+**2024-10-01** — merged PR [#1686](https://github.com/ZacSweers/CatchUp/pull/1686) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0"
+
+**2024-10-01** — merged PR [#1687](https://github.com/ZacSweers/CatchUp/pull/1687) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
