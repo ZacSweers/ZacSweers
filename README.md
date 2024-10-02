@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-01** — closed issue [#339](https://github.com/slackhq/compose-lints/issues/339) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeContentEmitterReturningValues incorrectly reports on compose functions with multiple top-level emitters"
+
+**2024-10-01** — merged PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
+
+**2024-10-01** — commented on [#374](https://github.com/slackhq/compose-lints/issues/374#issuecomment-2387047669) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-01** — opened PR [#412](https://github.com/slackhq/compose-lints/pull/412) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow test-only previews to be public"
+
 **2024-10-01** — created branch `z/previewVisibleForTesting` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-01** — opened PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-01** — closed issue [#408](https://github.com/slackhq/compose-lints/issues/408) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive on `ComposeModifierWithoutDefault` "
 
 **2024-10-01** — merged PR [#410](https://github.com/slackhq/compose-lints/pull/410) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't lint about default modifiers on extensions"
-
-**2024-10-01** — merged PR [#1690](https://github.com/ZacSweers/CatchUp/pull/1690) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.guava:guava to v33.3.1-jre"
-
-**2024-10-01** — opened PR [#410](https://github.com/slackhq/compose-lints/pull/410) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't lint about default modifiers on extensions"
-
-**2024-10-01** — created branch `z/modifierReceivers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-01** — merged PR [#1665](https://github.com/ZacSweers/CatchUp/pull/1665) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
