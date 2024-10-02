@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-01** — closed issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
+
+**2024-10-01** — closed issue [#379](https://github.com/slackhq/compose-lints/issues/379) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed Rule modification: `ComposePreviewPublic` should not warn if the function has `VisibleForTesting` or similar"
+
+**2024-10-01** — merged PR [#412](https://github.com/slackhq/compose-lints/pull/412) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow test-only previews to be public + better recurse"
+
 **2024-10-01** — closed issue [#339](https://github.com/slackhq/compose-lints/issues/339) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeContentEmitterReturningValues incorrectly reports on compose functions with multiple top-level emitters"
 
 **2024-10-01** — merged PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
@@ -17,18 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-01** — opened PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
 
 **2024-10-01** — created branch `z/duplicateEmitters` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-01** — merged PR [#1691](https://github.com/ZacSweers/CatchUp/pull/1691) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.1.3"
-
-**2024-10-01** — closed issue [#408](https://github.com/slackhq/compose-lints/issues/408) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive on `ComposeModifierWithoutDefault` "
-
-**2024-10-01** — merged PR [#410](https://github.com/slackhq/compose-lints/pull/410) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't lint about default modifiers on extensions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-10-01** — Could not load blog content. Please check back later.
+**2024-10-02** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
