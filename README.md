@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-01** — created branch `z/previewVisibleForTesting` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-01** — opened PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
+
+**2024-10-01** — created branch `z/duplicateEmitters` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-10-01** — merged PR [#1691](https://github.com/ZacSweers/CatchUp/pull/1691) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.46.1.3"
 
 **2024-10-01** — closed issue [#408](https://github.com/slackhq/compose-lints/issues/408) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive on `ComposeModifierWithoutDefault` "
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-01** — created branch `z/modifierReceivers` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-01** — merged PR [#1665](https://github.com/ZacSweers/CatchUp/pull/1665) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.10.2"
-
-**2024-10-01** — merged PR [#1685](https://github.com/ZacSweers/CatchUp/pull/1685) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha02"
-
-**2024-10-01** — merged PR [#1686](https://github.com/ZacSweers/CatchUp/pull/1686) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.profileinstaller:profileinstaller to v1.4.0"
-
-**2024-10-01** — merged PR [#1687](https://github.com/ZacSweers/CatchUp/pull/1687) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
