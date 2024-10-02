@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — created tag `1.4.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-10-02** — commented on [#315](https://github.com/slackhq/compose-lints/issues/315#issuecomment-2387598072) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-02** — merged PR [#415](https://github.com/slackhq/compose-lints/pull/415) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-02** — commented on [#413](https://github.com/slackhq/compose-lints/issues/413#issuecomment-2387582204) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-01** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2387573893) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-10-01** — closed issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
