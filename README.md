@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — merged PR [#418](https://github.com/slackhq/compose-lints/pull/418) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix link to multipreview annotations in docs"
+
+**2024-10-02** — commented on [#419](https://github.com/slackhq/compose-lints/issues/419#issuecomment-2389056762) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — commented on [#418](https://github.com/slackhq/compose-lints/pull/418#issuecomment-2389055104) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — reopened PR [#418](https://github.com/slackhq/compose-lints/pull/418) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix link to multipreview annotations in docs"
+
+**2024-10-02** — closed PR [#418](https://github.com/slackhq/compose-lints/pull/418) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix link to multipreview annotations in docs"
+
+**2024-10-02** — commented on [#419](https://github.com/slackhq/compose-lints/issues/419#issuecomment-2389033623) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2389022638) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-10-02** — reopened PR [#1690](https://github.com/slackhq/circuit/pull/1690) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add passing tonal elevation to M3 Bottom Sheet"
+
+**2024-10-02** — closed PR [#1690](https://github.com/slackhq/circuit/pull/1690) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add passing tonal elevation to M3 Bottom Sheet"
+
 **2024-10-02** — created tag `1.4.0` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-02** — commented on [#315](https://github.com/slackhq/compose-lints/issues/315#issuecomment-2387598072) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-02** — merged PR [#415](https://github.com/slackhq/compose-lints/pull/415) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0"
-
-**2024-10-02** — merged PR [#414](https://github.com/slackhq/compose-lints/pull/414) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.11.2"
-
-**2024-10-02** — merged PR [#417](https://github.com/slackhq/compose-lints/pull/417) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.7.0"
-
-**2024-10-02** — closed PR [#416](https://github.com/slackhq/compose-lints/pull/416) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.7.0"
-
-**2024-10-02** — commented on [#266](https://github.com/slackhq/compose-lints/issues/266#issuecomment-2387584541) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-02** — closed issue [#266](https://github.com/slackhq/compose-lints/issues/266) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalGetter seems to be reporting non-getting fields"
-
-**2024-10-02** — commented on [#413](https://github.com/slackhq/compose-lints/issues/413#issuecomment-2387582204) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-01** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2387573893) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
