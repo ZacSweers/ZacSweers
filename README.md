@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — commented on [#315](https://github.com/slackhq/compose-lints/issues/315#issuecomment-2387598072) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — merged PR [#415](https://github.com/slackhq/compose-lints/pull/415) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.7.0"
+
+**2024-10-02** — merged PR [#414](https://github.com/slackhq/compose-lints/pull/414) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.11.2"
+
+**2024-10-02** — merged PR [#417](https://github.com/slackhq/compose-lints/pull/417) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.7.0"
+
+**2024-10-02** — closed PR [#416](https://github.com/slackhq/compose-lints/pull/416) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.android.tools.lint:lint-api to v31.7.0"
+
+**2024-10-02** — commented on [#266](https://github.com/slackhq/compose-lints/issues/266#issuecomment-2387584541) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — closed issue [#266](https://github.com/slackhq/compose-lints/issues/266) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeCompositionLocalGetter seems to be reporting non-getting fields"
+
+**2024-10-02** — commented on [#413](https://github.com/slackhq/compose-lints/issues/413#issuecomment-2387582204) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-01** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2387573893) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-10-01** — closed issue [#377](https://github.com/slackhq/compose-lints/issues/377) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Don't expect Modifier parameters on Preview functions"
-
-**2024-10-01** — closed issue [#379](https://github.com/slackhq/compose-lints/issues/379) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Proposed Rule modification: `ComposePreviewPublic` should not warn if the function has `VisibleForTesting` or similar"
-
-**2024-10-01** — merged PR [#412](https://github.com/slackhq/compose-lints/pull/412) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow test-only previews to be public + better recurse"
-
-**2024-10-01** — closed issue [#339](https://github.com/slackhq/compose-lints/issues/339) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ComposeContentEmitterReturningValues incorrectly reports on compose functions with multiple top-level emitters"
-
-**2024-10-01** — merged PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
-
-**2024-10-01** — commented on [#374](https://github.com/slackhq/compose-lints/issues/374#issuecomment-2387047669) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-01** — opened PR [#412](https://github.com/slackhq/compose-lints/pull/412) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow test-only previews to be public"
-
-**2024-10-01** — created branch `z/previewVisibleForTesting` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-01** — opened PR [#411](https://github.com/slackhq/compose-lints/pull/411) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix duplicate emissions for multicontent"
-
-**2024-10-01** — created branch `z/duplicateEmitters` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
