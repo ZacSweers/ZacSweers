@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-03** — merged PR [#1706](https://github.com/ZacSweers/CatchUp/pull/1706) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.8.0"
+**2024-10-03** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2392011626) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-10-03** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2391880066) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-03** — commented on [#1004](https://github.com/slackhq/foundry/pull/1004#issuecomment-2392009422) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2024-10-03** — merged PR [#1695](https://github.com/ZacSweers/CatchUp/pull/1695) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.4.1"
+**2024-10-03** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2391977614) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-10-02** — merged PR [#317](https://github.com/slackhq/slack-lints/pull/317) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Open-source new checks"
+**2024-10-03** — commented on [#421](https://github.com/slackhq/compose-lints/issues/421#issuecomment-2391976333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
-**2024-10-02** — commented on [#1006](https://github.com/slackhq/foundry/pull/1006#issuecomment-2390297902) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-10-03** — closed issue [#421](https://github.com/slackhq/compose-lints/issues/421) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Versions 1.4.1 and 1.4.0 require update to Android Gradle Plugin 8.7"
 
-**2024-10-02** — opened PR [#317](https://github.com/slackhq/slack-lints/pull/317) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Open-source new checks"
+**2024-10-03** — merged PR [#1704](https://github.com/ZacSweers/CatchUp/pull/1704) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha04"
 
-**2024-10-02** — created branch `z/upstreaming` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-03** — merged PR [#1705](https://github.com/ZacSweers/CatchUp/pull/1705) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha04"
 
-**2024-10-02** — merged PR [#1698](https://github.com/ZacSweers/CatchUp/pull/1698) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha09"
+**2024-10-03** — merged PR [#1700](https://github.com/ZacSweers/CatchUp/pull/1700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-rc01"
 
-**2024-10-02** — merged PR [#1699](https://github.com/ZacSweers/CatchUp/pull/1699) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.3"
+**2024-10-03** — merged PR [#1701](https://github.com/ZacSweers/CatchUp/pull/1701) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha03"
 
-**2024-10-02** — closed PR [#1003](https://github.com/slackhq/foundry/pull/1003) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.android.tools.build:gradle to v8.7.0"
+**2024-10-03** — merged PR [#1702](https://github.com/ZacSweers/CatchUp/pull/1702) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
