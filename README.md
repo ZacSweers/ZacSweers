@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — created tag `0.8.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-10-02** — created tag `1.4.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2024-10-02** — created branch `z/props` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-02** — closed issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not report on test sources"
 
 **2024-10-02** — merged PR [#316](https://github.com/slackhq/slack-lints/pull/316) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow providers to be called in tests"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-02** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2389468550) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-10-02** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-2389462745) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-10-02** — closed issue [#192](https://github.com/slackhq/slack-lints/issues/192) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Test with K2 support enabled"
-
-**2024-10-02** — opened PR [#316](https://github.com/slackhq/slack-lints/pull/316) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow providers to be called in tests"
-
-**2024-10-02** — created branch `z/providersInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
