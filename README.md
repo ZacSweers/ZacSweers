@@ -4,25 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — closed PR [#1003](https://github.com/slackhq/foundry/pull/1003) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.android.tools.build:gradle to v8.7.0"
+
+**2024-10-02** — merged PR [#1692](https://github.com/ZacSweers/CatchUp/pull/1692) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha02"
+
+**2024-10-02** — merged PR [#1693](https://github.com/ZacSweers/CatchUp/pull/1693) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.8.0"
+
+**2024-10-02** — merged PR [#1694](https://github.com/ZacSweers/CatchUp/pull/1694) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.33.0"
+
+**2024-10-02** — merged PR [#1696](https://github.com/ZacSweers/CatchUp/pull/1696) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.268.0"
+
+**2024-10-02** — merged PR [#1697](https://github.com/ZacSweers/CatchUp/pull/1697) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.15.0-beta01"
+
 **2024-10-02** — created tag `0.8.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-10-02** — created tag `1.4.1` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-02** — created branch `z/props` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-02** — closed issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not report on test sources"
-
-**2024-10-02** — merged PR [#316](https://github.com/slackhq/slack-lints/pull/316) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow providers to be called in tests"
-
-**2024-10-02** — merged PR [#1005](https://github.com/slackhq/foundry/pull/1005) to [slackhq/foundry](https://github.com/slackhq/foundry): "Misc foundry renames and documentation updates"
-
-**2024-10-02** — closed issue [#310](https://github.com/slackhq/slack-lints/issues/310) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "EffectsKt.LaunchedEffect is deprecated; but only one override deprecated causes Lint warning"
-
-**2024-10-02** — commented on [#310](https://github.com/slackhq/slack-lints/issues/310#issuecomment-2389469370) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-10-02** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2389468550) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-10-02** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-2389462745) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
