@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-02** — commented on [#315](https://github.com/slackhq/slack-lints/pull/315#issuecomment-2389438992) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-02** — closed issue [#162](https://github.com/slackhq/slack-lints/issues/162) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "DoNotCallProviders check should not report on test sources"
 
-**2024-10-02** — commented on [#315](https://github.com/slackhq/slack-lints/pull/315#issuecomment-2389428023) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-02** — merged PR [#316](https://github.com/slackhq/slack-lints/pull/316) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow providers to be called in tests"
 
-**2024-10-02** — commented on [#315](https://github.com/slackhq/slack-lints/pull/315#issuecomment-2389300387) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-02** — merged PR [#1005](https://github.com/slackhq/foundry/pull/1005) to [slackhq/foundry](https://github.com/slackhq/foundry): "Misc foundry renames and documentation updates"
 
-**2024-10-02** — merged PR [#314](https://github.com/slackhq/slack-lints/pull/314) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.3"
+**2024-10-02** — closed issue [#310](https://github.com/slackhq/slack-lints/issues/310) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "EffectsKt.LaunchedEffect is deprecated; but only one override deprecated causes Lint warning"
 
-**2024-10-02** — closed issue [#419](https://github.com/slackhq/compose-lints/issues/419) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for `ComposeContentEmitterReturningValues`?"
+**2024-10-02** — commented on [#310](https://github.com/slackhq/slack-lints/issues/310#issuecomment-2389469370) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-10-02** — merged PR [#420](https://github.com/slackhq/compose-lints/pull/420) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix false positives for `ComposeContentEmitterReturningValues`"
+**2024-10-02** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2389468550) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-10-02** — merged PR [#313](https://github.com/slackhq/slack-lints/pull/313) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.8.x"
+**2024-10-02** — commented on [#192](https://github.com/slackhq/slack-lints/issues/192#issuecomment-2389462745) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2024-10-02** — merged PR [#312](https://github.com/slackhq/slack-lints/pull/312) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.x"
+**2024-10-02** — closed issue [#192](https://github.com/slackhq/slack-lints/issues/192) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Test with K2 support enabled"
 
-**2024-10-02** — opened PR [#420](https://github.com/slackhq/compose-lints/pull/420) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix false positives for `ComposeContentEmitterReturningValues`"
+**2024-10-02** — opened PR [#316](https://github.com/slackhq/slack-lints/pull/316) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow providers to be called in tests"
 
-**2024-10-02** — created branch `z/fixContentEmitterReturningValues` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-10-02** — created branch `z/providersInTests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
