@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-02** — merged PR [#317](https://github.com/slackhq/slack-lints/pull/317) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Open-source new checks"
+
+**2024-10-02** — commented on [#1006](https://github.com/slackhq/foundry/pull/1006#issuecomment-2390297902) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-02** — opened PR [#317](https://github.com/slackhq/slack-lints/pull/317) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Open-source new checks"
 
 **2024-10-02** — created branch `z/upstreaming` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
