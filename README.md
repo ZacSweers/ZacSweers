@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-03** — merged PR [#1707](https://github.com/ZacSweers/CatchUp/pull/1707) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.8.1"
+
 **2024-10-03** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2392011626) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-10-03** — commented on [#1004](https://github.com/slackhq/foundry/pull/1004#issuecomment-2392009422) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-03** — merged PR [#1700](https://github.com/ZacSweers/CatchUp/pull/1700) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0-rc01"
 
 **2024-10-03** — merged PR [#1701](https://github.com/ZacSweers/CatchUp/pull/1701) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha03"
-
-**2024-10-03** — merged PR [#1702](https://github.com/ZacSweers/CatchUp/pull/1702) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
