@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-07** — merged PR [#939](https://github.com/slackhq/foundry/pull/939) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2 (major)"
+
+**2024-10-07** — merged PR [#1011](https://github.com/slackhq/foundry/pull/1011) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency net.ltgt.gradle:gradle-errorprone-plugin to v4"
+
+**2024-10-07** — merged PR [#1012](https://github.com/slackhq/foundry/pull/1012) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency net.ltgt.gradle:gradle-nullaway-plugin to v2"
+
+**2024-10-07** — merged PR [#256](https://github.com/ZacSweers/redacted-compiler-plugin/pull/256) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to eef6144"
+
 **2024-10-07** — closed issue [#1710](https://github.com/slackhq/circuit/issues/1710) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to mark presenter classes as Stable?"
 
 **2024-10-07** — commented on [#1710](https://github.com/slackhq/circuit/issues/1710#issuecomment-2397709198) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-04** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2394037007) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-10-03** — merged PR [#1707](https://github.com/ZacSweers/CatchUp/pull/1707) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.8.1"
-
-**2024-10-03** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2392011626) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-10-03** — commented on [#1004](https://github.com/slackhq/foundry/pull/1004#issuecomment-2392009422) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-03** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2391977614) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-10-03** — commented on [#421](https://github.com/slackhq/compose-lints/issues/421#issuecomment-2391976333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
