@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-07** — commented on [#1704](https://github.com/slackhq/circuit/issues/1704#issuecomment-2398493647) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-10-07** — merged PR [#939](https://github.com/slackhq/foundry/pull/939) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2 (major)"
 
 **2024-10-07** — merged PR [#1011](https://github.com/slackhq/foundry/pull/1011) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency net.ltgt.gradle:gradle-errorprone-plugin to v4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-04** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2394039709) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-10-04** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2394037007) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-10-03** — merged PR [#1707](https://github.com/ZacSweers/CatchUp/pull/1707) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
