@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-07** — closed issue [#1710](https://github.com/slackhq/circuit/issues/1710) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to mark presenter classes as Stable?"
+
+**2024-10-07** — commented on [#1710](https://github.com/slackhq/circuit/issues/1710#issuecomment-2397709198) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-10-04** — commented on [#423](https://github.com/slackhq/compose-lints/issues/423#issuecomment-2394796486) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-04** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2394039709) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-03** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2391977614) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-10-03** — commented on [#421](https://github.com/slackhq/compose-lints/issues/421#issuecomment-2391976333) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2024-10-03** — closed issue [#421](https://github.com/slackhq/compose-lints/issues/421) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Versions 1.4.1 and 1.4.0 require update to Android Gradle Plugin 8.7"
-
-**2024-10-03** — merged PR [#1704](https://github.com/ZacSweers/CatchUp/pull/1704) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
