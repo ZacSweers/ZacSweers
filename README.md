@@ -4,23 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-08** — merged PR [#1690](https://github.com/slackhq/circuit/pull/1690) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add passing tonal elevation to M3 Bottom Sheet"
+**2024-10-08** — commented on [#73](https://github.com/ZacSweers/anvil/pull/73#issuecomment-2400689592) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-10-08** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2400251787) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-10-08** — closed PR [#1676](https://github.com/ZacSweers/CatchUp/pull/1676) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v5"
 
-**2024-10-08** — opened PR [#1016](https://github.com/slackhq/foundry/pull/1016) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Dokka 2"
+**2024-10-08** — closed PR [#1677](https://github.com/ZacSweers/CatchUp/pull/1677) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt-jvm to v5"
 
-**2024-10-08** — created branch `z/dokka2` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-10-08** — merged PR [#1672](https://github.com/ZacSweers/CatchUp/pull/1672) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sgp to v0.19.6"
 
-**2024-10-08** — opened issue [#854](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/854) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Support Dokka 2"
+**2024-10-08** — commented on [#1711](https://github.com/slackhq/circuit/pull/1711#issuecomment-2400614983) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-10-08** — merged PR [#1014](https://github.com/slackhq/foundry/pull/1014) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename more properties"
-
-**2024-10-08** — merged PR [#1015](https://github.com/slackhq/foundry/pull/1015) to [slackhq/foundry](https://github.com/slackhq/foundry): "Provide default for kapt language version"
-
-**2024-10-08** — opened PR [#1015](https://github.com/slackhq/foundry/pull/1015) to [slackhq/foundry](https://github.com/slackhq/foundry): "Provide default for kapt language version"
-
-**2024-10-08** — opened PR [#1014](https://github.com/slackhq/foundry/pull/1014) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename more properties"
+**2024-10-08** — closed PR [#1711](https://github.com/slackhq/circuit/pull/1711) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update coil3 to v3.0.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
