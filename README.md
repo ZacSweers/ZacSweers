@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-07** — commented on [#1704](https://github.com/slackhq/circuit/issues/1704#issuecomment-2398493647) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-10-08** — merged PR [#1690](https://github.com/slackhq/circuit/pull/1690) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add passing tonal elevation to M3 Bottom Sheet"
 
-**2024-10-07** — merged PR [#939](https://github.com/slackhq/foundry/pull/939) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2 (major)"
+**2024-10-08** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2400251787) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2024-10-07** — merged PR [#1011](https://github.com/slackhq/foundry/pull/1011) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency net.ltgt.gradle:gradle-errorprone-plugin to v4"
+**2024-10-08** — opened PR [#1016](https://github.com/slackhq/foundry/pull/1016) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Dokka 2"
 
-**2024-10-07** — merged PR [#1012](https://github.com/slackhq/foundry/pull/1012) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency net.ltgt.gradle:gradle-nullaway-plugin to v2"
+**2024-10-08** — created branch `z/dokka2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2024-10-07** — merged PR [#256](https://github.com/ZacSweers/redacted-compiler-plugin/pull/256) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to eef6144"
+**2024-10-08** — opened issue [#854](https://github.com/vanniktech/gradle-maven-publish-plugin/issues/854) on [vanniktech/gradle-maven-publish-plugin](https://github.com/vanniktech/gradle-maven-publish-plugin): "Support Dokka 2"
 
-**2024-10-07** — closed issue [#1710](https://github.com/slackhq/circuit/issues/1710) on [slackhq/circuit](https://github.com/slackhq/circuit): "Do we need to mark presenter classes as Stable?"
+**2024-10-08** — merged PR [#1014](https://github.com/slackhq/foundry/pull/1014) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename more properties"
 
-**2024-10-07** — commented on [#1710](https://github.com/slackhq/circuit/issues/1710#issuecomment-2397709198) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-10-08** — merged PR [#1015](https://github.com/slackhq/foundry/pull/1015) to [slackhq/foundry](https://github.com/slackhq/foundry): "Provide default for kapt language version"
 
-**2024-10-04** — commented on [#423](https://github.com/slackhq/compose-lints/issues/423#issuecomment-2394796486) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-10-08** — opened PR [#1015](https://github.com/slackhq/foundry/pull/1015) to [slackhq/foundry](https://github.com/slackhq/foundry): "Provide default for kapt language version"
 
-**2024-10-04** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-2394039709) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-10-08** — opened PR [#1014](https://github.com/slackhq/foundry/pull/1014) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename more properties"
 
-**2024-10-04** — commented on [#1690](https://github.com/slackhq/circuit/pull/1690#issuecomment-2394037007) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-10-08** — created branch `z/fixKaptLangVersion` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
