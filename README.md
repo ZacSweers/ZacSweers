@@ -21,14 +21,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-08** — opened PR [#1015](https://github.com/slackhq/foundry/pull/1015) to [slackhq/foundry](https://github.com/slackhq/foundry): "Provide default for kapt language version"
 
 **2024-10-08** — opened PR [#1014](https://github.com/slackhq/foundry/pull/1014) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename more properties"
-
-**2024-10-08** — created branch `z/fixKaptLangVersion` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-10-08** — Could not load blog content. Please check back later.
+**2024-10-09** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
