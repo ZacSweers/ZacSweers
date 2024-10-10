@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-09** — merged PR [#318](https://github.com/slackhq/slack-lints/pull/318) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.0-alpha05"
+
+**2024-10-09** — merged PR [#319](https://github.com/slackhq/slack-lints/pull/319) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.8.0-alpha05"
+
 **2024-10-08** — commented on [#73](https://github.com/ZacSweers/anvil/pull/73#issuecomment-2400689592) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-10-08** — closed PR [#1676](https://github.com/ZacSweers/CatchUp/pull/1676) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.github.ajalt.clikt:clikt to v5"
