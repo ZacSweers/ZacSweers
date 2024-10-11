@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-10** — commented on [#22](https://github.com/amzn/kotlin-inject-anvil/issues/22#issuecomment-2405024135) in [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil)
+
 **2024-10-09** — commented on [#442](https://github.com/evant/kotlin-inject/pull/442#issuecomment-2403435866) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
 
 **2024-10-09** — merged PR [#1017](https://github.com/slackhq/foundry/pull/1017) to [slackhq/foundry](https://github.com/slackhq/foundry): "Track deleted build files when computing parent projects in Skippy"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-09** — merged PR [#428](https://github.com/slackhq/compose-lints/pull/428) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Fix missing indentation breaking the mkdocs admonition formatting"
 
 **2024-10-09** — merged PR [#422](https://github.com/slackhq/compose-lints/pull/422) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.8.0-alpha05"
-
-**2024-10-09** — merged PR [#425](https://github.com/slackhq/compose-lints/pull/425) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency termcolor to v2.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
