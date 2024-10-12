@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-11** — created tag `0.20.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-10** — opened PR [#121](https://github.com/square/gradle-dependencies-sorter/pull/121) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix CHANGELOG.md formatting"
 
 **2024-10-10** — created branch `z/fixChangelogFormatting` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-10** — commented on [#113](https://github.com/square/gradle-dependencies-sorter/issues/113#issuecomment-2406043921) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-10-10** — commented on [#113](https://github.com/square/gradle-dependencies-sorter/issues/113#issuecomment-2406043773) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2024-10-10** — merged PR [#1025](https://github.com/slackhq/foundry/pull/1025) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small project gen updates"
-
-**2024-10-10** — opened PR [#1026](https://github.com/slackhq/foundry/pull/1026) to [slackhq/foundry](https://github.com/slackhq/foundry): "Source blockmapFile from generator task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
