@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-10** — created branch `z/fixChangelogFormatting` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 
 **2024-10-10** — opened PR [#1027](https://github.com/slackhq/foundry/pull/1027) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to 0.9"
-
-**2024-10-10** — created branch `z/sortDeps09` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
