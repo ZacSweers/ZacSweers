@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-11** — merged PR [#73](https://github.com/ZacSweers/anvil/pull/73) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Report location of code causing KSP exceptions when generating assisted factories"
+
 **2024-10-11** — commented on [#1027](https://github.com/slackhq/foundry/pull/1027#issuecomment-2407883615) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-10-11** — created tag `0.20.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
