@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-12** — merged PR [#1724](https://github.com/slackhq/circuit/pull/1724) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update tutorial.md - Sample code fixes"
+
 **2024-10-11** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-2408051425) in [square/moshi](https://github.com/square/moshi)
 
 **2024-10-11** — created tag `0.3.2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-10** — opened PR [#121](https://github.com/square/gradle-dependencies-sorter/pull/121) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix CHANGELOG.md formatting"
 
 **2024-10-10** — created branch `z/fixChangelogFormatting` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2024-10-10** — opened PR [#1027](https://github.com/slackhq/foundry/pull/1027) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to 0.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
