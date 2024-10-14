@@ -4,17 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-14** — closed PR [#1722](https://github.com/slackhq/circuit/pull/1722) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v2.0.21-1.0.25"
+
+**2024-10-14** — merged PR [#1718](https://github.com/slackhq/circuit/pull/1718) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add -dontwarn on Anvil classes from codegen annotations"
+
+**2024-10-14** — created tag `0.8.2` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-10-14** — merged PR [#322](https://github.com/slackhq/slack-lints/pull/322) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.21-1.0.25"
+
+**2024-10-14** — merged PR [#321](https://github.com/slackhq/slack-lints/pull/321) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.0.21"
+
+**2024-10-14** — merged PR [#323](https://github.com/slackhq/slack-lints/pull/323) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.30.0"
+
 **2024-10-14** — created tag `0.20.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-10-14** — merged PR [#1022](https://github.com/slackhq/foundry/pull/1022) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v40"
-
-**2024-10-14** — created tag `0.20.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-14** — closed PR [#934](https://github.com/slackhq/foundry/pull/934) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to v0.9"
-
-**2024-10-14** — closed PR [#1019](https://github.com/slackhq/foundry/pull/1019) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.0+build1877-release-1.7"
-
-**2024-10-12** — merged PR [#1724](https://github.com/slackhq/circuit/pull/1724) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update tutorial.md - Sample code fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
