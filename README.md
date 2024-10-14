@@ -15,10 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-14** — merged PR [#321](https://github.com/slackhq/slack-lints/pull/321) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.0.21"
 
 **2024-10-14** — merged PR [#323](https://github.com/slackhq/slack-lints/pull/323) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.30.0"
-
-**2024-10-14** — created tag `0.20.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-14** — merged PR [#1022](https://github.com/slackhq/foundry/pull/1022) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v40"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
