@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-14** — created tag `0.20.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-10-14** — closed PR [#934](https://github.com/slackhq/foundry/pull/934) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to v0.9"
+
+**2024-10-14** — closed PR [#1019](https://github.com/slackhq/foundry/pull/1019) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.0+build1877-release-1.7"
+
 **2024-10-12** — merged PR [#1724](https://github.com/slackhq/circuit/pull/1724) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update tutorial.md - Sample code fixes"
 
 **2024-10-11** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-2408051425) in [square/moshi](https://github.com/square/moshi)
@@ -11,14 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-11** — created tag `0.3.2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-10-11** — merged PR [#73](https://github.com/ZacSweers/anvil/pull/73) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Report location of code causing KSP exceptions when generating assisted factories"
-
-**2024-10-11** — commented on [#1027](https://github.com/slackhq/foundry/pull/1027#issuecomment-2407883615) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-11** — created tag `0.20.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-10** — opened PR [#121](https://github.com/square/gradle-dependencies-sorter/pull/121) to [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter): "Fix CHANGELOG.md formatting"
-
-**2024-10-10** — created branch `z/fixChangelogFormatting` on [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
