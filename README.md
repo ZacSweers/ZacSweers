@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-14** — created tag `0.20.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-10-14** — merged PR [#1022](https://github.com/slackhq/foundry/pull/1022) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v40"
+
 **2024-10-14** — created tag `0.20.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-10-14** — closed PR [#934](https://github.com/slackhq/foundry/pull/934) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to v0.9"
@@ -11,12 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-14** — closed PR [#1019](https://github.com/slackhq/foundry/pull/1019) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.0+build1877-release-1.7"
 
 **2024-10-12** — merged PR [#1724](https://github.com/slackhq/circuit/pull/1724) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update tutorial.md - Sample code fixes"
-
-**2024-10-11** — commented on [#1183](https://github.com/square/moshi/pull/1183#issuecomment-2408051425) in [square/moshi](https://github.com/square/moshi)
-
-**2024-10-11** — created tag `0.3.2` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-10-11** — merged PR [#73](https://github.com/ZacSweers/anvil/pull/73) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Report location of code causing KSP exceptions when generating assisted factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
