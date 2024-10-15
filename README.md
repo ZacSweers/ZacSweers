@@ -11,8 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-14** — opened PR [#1031](https://github.com/slackhq/foundry/pull/1031) to [slackhq/foundry](https://github.com/slackhq/foundry): "Port CLI readme"
 
 **2024-10-14** — created branch `z/cliReadme` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-14** — closed PR [#1722](https://github.com/slackhq/circuit/pull/1722) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp to v2.0.21-1.0.25"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
