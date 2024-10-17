@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-16** — merged PR [#1039](https://github.com/slackhq/foundry/pull/1039) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract `VersionNumber` to standalone artifact"
+
+**2024-10-16** — opened PR [#1039](https://github.com/slackhq/foundry/pull/1039) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract `VersionNumber` to standalone artifact"
+
+**2024-10-16** — created branch `z/extractVersionNumber` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-16** — opened issue [#429](https://github.com/runningcode/fladle/issues/429) on [runningcode/fladle](https://github.com/runningcode/fladle): "VersionNumber is deprecated"
 
 **2024-10-16** — commented on [#3798](https://github.com/Kotlin/dokka/issues/3798#issuecomment-2417792112) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-15** — merged PR [#1034](https://github.com/slackhq/foundry/pull/1034) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract better-gradle-properties artifact"
 
 **2024-10-15** — opened PR [#1035](https://github.com/slackhq/foundry/pull/1035) to [slackhq/foundry](https://github.com/slackhq/foundry): "Start organizing docs better for new foundry structure"
-
-**2024-10-15** — created branch `z/organizeDocs` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-15** — opened PR [#1034](https://github.com/slackhq/foundry/pull/1034) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract better-gradle-properties artifact"
-
-**2024-10-15** — created branch `z/betterProperties` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
