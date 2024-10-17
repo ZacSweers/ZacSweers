@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-16** — opened issue [#429](https://github.com/runningcode/fladle/issues/429) on [runningcode/fladle](https://github.com/runningcode/fladle): "VersionNumber is deprecated"
+
 **2024-10-16** — commented on [#3798](https://github.com/Kotlin/dokka/issues/3798#issuecomment-2417792112) in [Kotlin/dokka](https://github.com/Kotlin/dokka)
 
 **2024-10-16** — opened PR [#1732](https://github.com/slackhq/circuit/pull/1732) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Dokka 2.0.0-Beta"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-15** — opened PR [#1034](https://github.com/slackhq/foundry/pull/1034) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract better-gradle-properties artifact"
 
 **2024-10-15** — created branch `z/betterProperties` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-14** — merged PR [#1016](https://github.com/slackhq/foundry/pull/1016) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Dokka 2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
