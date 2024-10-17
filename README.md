@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-15** — created branch `z/betterProperties` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-10-14** — merged PR [#1016](https://github.com/slackhq/foundry/pull/1016) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Dokka 2"
-
-**2024-10-14** — merged PR [#1031](https://github.com/slackhq/foundry/pull/1031) to [slackhq/foundry](https://github.com/slackhq/foundry): "Port CLI readme"
-
-**2024-10-14** — opened PR [#1031](https://github.com/slackhq/foundry/pull/1031) to [slackhq/foundry](https://github.com/slackhq/foundry): "Port CLI readme"
-
-**2024-10-14** — created branch `z/cliReadme` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
