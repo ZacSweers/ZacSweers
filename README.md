@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-17** — commented on [#74](https://github.com/ZacSweers/anvil/issues/74#issuecomment-2420150870) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-10-16** — merged PR [#1039](https://github.com/slackhq/foundry/pull/1039) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract `VersionNumber` to standalone artifact"
 
 **2024-10-16** — opened PR [#1039](https://github.com/slackhq/foundry/pull/1039) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract `VersionNumber` to standalone artifact"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-15** — merged PR [#1035](https://github.com/slackhq/foundry/pull/1035) to [slackhq/foundry](https://github.com/slackhq/foundry): "Start organizing docs better for new foundry structure"
 
 **2024-10-15** — merged PR [#1034](https://github.com/slackhq/foundry/pull/1034) to [slackhq/foundry](https://github.com/slackhq/foundry): "Extract better-gradle-properties artifact"
-
-**2024-10-15** — opened PR [#1035](https://github.com/slackhq/foundry/pull/1035) to [slackhq/foundry](https://github.com/slackhq/foundry): "Start organizing docs better for new foundry structure"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
