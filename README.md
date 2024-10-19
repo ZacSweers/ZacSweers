@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-18** — opened PR [#1045](https://github.com/slackhq/foundry/pull/1045) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename SgpArtifact to FoundryArtifact"
+
+**2024-10-18** — created branch `z/sgpArtifact` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-18** — merged PR [#259](https://github.com/ZacSweers/redacted-compiler-plugin/pull/259) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.30.0"
 
 **2024-10-18** — merged PR [#255](https://github.com/ZacSweers/redacted-compiler-plugin/pull/255) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.10.2"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-18** — opened PR [#676](https://github.com/ZacSweers/MoshiX/pull/676) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Dokka 2"
 
 **2024-10-18** — created branch `z/dokka2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-10-18** — merged PR [#674](https://github.com/ZacSweers/MoshiX/pull/674) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.30.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
