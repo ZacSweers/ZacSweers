@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-20** — merged PR [#1728](https://github.com/ZacSweers/CatchUp/pull/1728) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha07"
+
+**2024-10-20** — merged PR [#1729](https://github.com/ZacSweers/CatchUp/pull/1729) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha05"
+
+**2024-10-20** — merged PR [#1730](https://github.com/ZacSweers/CatchUp/pull/1730) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.34.0"
+
+**2024-10-20** — merged PR [#1731](https://github.com/ZacSweers/CatchUp/pull/1731) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.dropbox.focus to v0.7.0"
+
+**2024-10-20** — merged PR [#1732](https://github.com/ZacSweers/CatchUp/pull/1732) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin licensee to v1.12.0"
+
 **2024-10-20** — merged PR [#1721](https://github.com/ZacSweers/CatchUp/pull/1721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha10"
 
 **2024-10-20** — merged PR [#1722](https://github.com/ZacSweers/CatchUp/pull/1722) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha03"
@@ -13,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-20** — merged PR [#1724](https://github.com/ZacSweers/CatchUp/pull/1724) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0"
 
 **2024-10-20** — merged PR [#1725](https://github.com/ZacSweers/CatchUp/pull/1725) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha04"
-
-**2024-10-20** — merged PR [#1726](https://github.com/ZacSweers/CatchUp/pull/1726) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0-rc01"
-
-**2024-10-20** — merged PR [#1727](https://github.com/ZacSweers/CatchUp/pull/1727) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.4.0-alpha05"
-
-**2024-10-20** — merged PR [#1684](https://github.com/ZacSweers/CatchUp/pull/1684) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.8.x - abandoned"
-
-**2024-10-20** — merged PR [#1718](https://github.com/ZacSweers/CatchUp/pull/1718) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
