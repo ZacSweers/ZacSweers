@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-19** — created tag `0.3.3` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-10-19** — closed issue [#74](https://github.com/ZacSweers/anvil/issues/74) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Moving some KSP utils to compiler-util"
+
+**2024-10-19** — merged PR [#75](https://github.com/ZacSweers/anvil/pull/75) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Move KSP util functions into compiler-utils and make them public"
+
 **2024-10-18** — opened PR [#1045](https://github.com/slackhq/foundry/pull/1045) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename SgpArtifact to FoundryArtifact"
 
 **2024-10-18** — created branch `z/sgpArtifact` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-18** — merged PR [#258](https://github.com/ZacSweers/redacted-compiler-plugin/pull/258) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.21-1.0.25"
 
 **2024-10-18** — merged PR [#260](https://github.com/ZacSweers/redacted-compiler-plugin/pull/260) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0.BETA3"
-
-**2024-10-18** — merged PR [#676](https://github.com/ZacSweers/MoshiX/pull/676) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Dokka 2"
-
-**2024-10-18** — opened PR [#676](https://github.com/ZacSweers/MoshiX/pull/676) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Dokka 2"
-
-**2024-10-18** — created branch `z/dokka2` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
