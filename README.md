@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-20** — merged PR [#1723](https://github.com/ZacSweers/CatchUp/pull/1723) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.4"
 
 **2024-10-20** — merged PR [#1724](https://github.com/ZacSweers/CatchUp/pull/1724) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.0"
-
-**2024-10-20** — merged PR [#1725](https://github.com/ZacSweers/CatchUp/pull/1725) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
