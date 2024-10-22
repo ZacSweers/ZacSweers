@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-21** — opened issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
+
 **2024-10-21** — commented on [#268](https://github.com/slackhq/compose-lints/issues/268#issuecomment-2427797737) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-21** — commented on [#441](https://github.com/slackhq/compose-lints/pull/441#issuecomment-2427797373) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-21** — merged PR [#437](https://github.com/slackhq/compose-lints/pull/437) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update lint.latest to v31.8.0-alpha07"
 
 **2024-10-21** — merged PR [#440](https://github.com/slackhq/compose-lints/pull/440) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency MarkupSafe to v3.0.2"
-
-**2024-10-21** — merged PR [#439](https://github.com/slackhq/compose-lints/pull/439) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v7.0.0.BETA3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
