@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-21** — merged PR [#1045](https://github.com/slackhq/foundry/pull/1045) to [slackhq/foundry](https://github.com/slackhq/foundry): "Rename SgpArtifact to FoundryArtifact"
+
 **2024-10-20** — merged PR [#1728](https://github.com/ZacSweers/CatchUp/pull/1728) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.13.0-alpha07"
 
 **2024-10-20** — merged PR [#1729](https://github.com/ZacSweers/CatchUp/pull/1729) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha05"
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-20** — merged PR [#1721](https://github.com/ZacSweers/CatchUp/pull/1721) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha10"
 
 **2024-10-20** — merged PR [#1722](https://github.com/ZacSweers/CatchUp/pull/1722) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha03"
-
-**2024-10-20** — merged PR [#1723](https://github.com/ZacSweers/CatchUp/pull/1723) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
