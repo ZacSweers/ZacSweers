@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-22** — created tag `1.4.2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-10-22** — commented on [#423](https://github.com/slackhq/compose-lints/issues/423#issuecomment-2429777590) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-22** — closed issue [#423](https://github.com/slackhq/compose-lints/issues/423) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ArrayIndexOutOfBoundsException at `ModifierWithoutDefaultDetector.visitComposable`"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-21** — closed issue [#424](https://github.com/slackhq/compose-lints/issues/424) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False positive for SlotReusedDetector using it like in the Do's of the descritpion"
 
 **2024-10-21** — merged PR [#431](https://github.com/slackhq/compose-lints/pull/431) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-material to v9.5.42"
-
-**2024-10-21** — merged PR [#430](https://github.com/slackhq/compose-lints/pull/430) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency mkdocs-macros-plugin to v1.3.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
