@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-23** — closed issue [#404](https://github.com/slackhq/compose-lints/issues/404) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False negative for `SlotReusedDetector` when slot passed as lambda without being invoked"
+
+**2024-10-23** — merged PR [#442](https://github.com/slackhq/compose-lints/pull/442) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add slot parameter passing detection to SlotReusedDetector"
+
 **2024-10-23** — merged PR [#261](https://github.com/ZacSweers/redacted-compiler-plugin/pull/261) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 11bd719"
 
 **2024-10-22** — created tag `1.4.2` on [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -11,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-22** — commented on [#423](https://github.com/slackhq/compose-lints/issues/423#issuecomment-2429777590) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-10-22** — closed issue [#423](https://github.com/slackhq/compose-lints/issues/423) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "ArrayIndexOutOfBoundsException at `ModifierWithoutDefaultDetector.visitComposable`"
-
-**2024-10-21** — opened issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
