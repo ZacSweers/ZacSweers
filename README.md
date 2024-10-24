@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-24** — merged PR [#1736](https://github.com/ZacSweers/CatchUp/pull/1736) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.25.0"
+
 **2024-10-23** — created tag `0.25.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-10-23** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2433438319) in [slackhq/circuit](https://github.com/slackhq/circuit)
