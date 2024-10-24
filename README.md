@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435794975) in [google/ksp](https://github.com/google/ksp)
+
+**2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435785607) in [google/ksp](https://github.com/google/ksp)
+
+**2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435782915) in [google/ksp](https://github.com/google/ksp)
+
+**2024-10-24** — merged PR [#326](https://github.com/slackhq/slack-lints/pull/326) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.0.BETA3"
+
+**2024-10-24** — merged PR [#324](https://github.com/slackhq/slack-lints/pull/324) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.0-alpha07"
+
+**2024-10-24** — merged PR [#325](https://github.com/slackhq/slack-lints/pull/325) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.8.0-alpha07"
+
+**2024-10-24** — merged PR [#327](https://github.com/slackhq/slack-lints/pull/327) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.21-1.0.26"
+
 **2024-10-24** — merged PR [#1736](https://github.com/ZacSweers/CatchUp/pull/1736) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.25.0"
 
 **2024-10-23** — created tag `0.25.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-10-23** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2433438319) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-10-23** — closed issue [#1569](https://github.com/slackhq/circuit/issues/1569) on [slackhq/circuit](https://github.com/slackhq/circuit): "Binary incompatability in material3 causes crash"
-
-**2024-10-23** — closed PR [#1736](https://github.com/slackhq/circuit/pull/1736) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.activity:activity-compose to v1.9.3"
-
-**2024-10-23** — closed issue [#404](https://github.com/slackhq/compose-lints/issues/404) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "False negative for `SlotReusedDetector` when slot passed as lambda without being invoked"
-
-**2024-10-23** — merged PR [#442](https://github.com/slackhq/compose-lints/pull/442) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Add slot parameter passing detection to SlotReusedDetector"
-
-**2024-10-23** — merged PR [#261](https://github.com/ZacSweers/redacted-compiler-plugin/pull/261) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 11bd719"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
