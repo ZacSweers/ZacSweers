@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-24** — merged PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
+
+**2024-10-24** — merged PR [#80](https://github.com/ZacSweers/anvil/pull/80) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve error messaging for error types used as annotation arguments"
+
+**2024-10-24** — merged PR [#678](https://github.com/ZacSweers/MoshiX/pull/678) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.21-1.0.26"
+
+**2024-10-24** — merged PR [#679](https://github.com/ZacSweers/MoshiX/pull/679) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0.BETA4"
+
+**2024-10-24** — opened PR [#80](https://github.com/ZacSweers/anvil/pull/80) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve error messaging for error types used as annotation arguments"
+
+**2024-10-24** — opened PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
+
+**2024-10-24** — created branch `z/betterKspChecks` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-10-24** — created branch `z/jakarta` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435794975) in [google/ksp](https://github.com/google/ksp)
 
 **2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435785607) in [google/ksp](https://github.com/google/ksp)
-
-**2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435782915) in [google/ksp](https://github.com/google/ksp)
-
-**2024-10-24** — merged PR [#326](https://github.com/slackhq/slack-lints/pull/326) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.0.BETA3"
-
-**2024-10-24** — merged PR [#324](https://github.com/slackhq/slack-lints/pull/324) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.0-alpha07"
-
-**2024-10-24** — merged PR [#325](https://github.com/slackhq/slack-lints/pull/325) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.8.0-alpha07"
-
-**2024-10-24** — merged PR [#327](https://github.com/slackhq/slack-lints/pull/327) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.21-1.0.26"
-
-**2024-10-24** — merged PR [#1736](https://github.com/ZacSweers/CatchUp/pull/1736) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.25.0"
-
-**2024-10-23** — created tag `0.25.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-10-23** — commented on [#1569](https://github.com/slackhq/circuit/issues/1569#issuecomment-2433438319) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
