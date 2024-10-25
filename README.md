@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-24** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2436316754) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-10-24** — commented on [#172](https://github.com/MohamedRejeb/Calf/issues/172#issuecomment-2436315026) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
 **2024-10-24** — merged PR [#263](https://github.com/ZacSweers/redacted-compiler-plugin/pull/263) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0.BETA4"
 
 **2024-10-24** — merged PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-24** — opened PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
 
 **2024-10-24** — created branch `z/betterKspChecks` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-10-24** — created branch `z/jakarta` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-10-24** — commented on [#1854](https://github.com/google/ksp/issues/1854#issuecomment-2435794975) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
