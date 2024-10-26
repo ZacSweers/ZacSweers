@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-25** — created branch `z/moduleTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-25** — closed PR [#1738](https://github.com/ZacSweers/CatchUp/pull/1738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
 
 **2024-10-25** — merged PR [#1734](https://github.com/ZacSweers/CatchUp/pull/1734) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.47.0.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-25** — merged PR [#1057](https://github.com/slackhq/foundry/pull/1057) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve Skate publishing"
 
 **2024-10-25** — opened PR [#1057](https://github.com/slackhq/foundry/pull/1057) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve Skate publishing"
-
-**2024-10-25** — created branch `z/improvePublishing` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
