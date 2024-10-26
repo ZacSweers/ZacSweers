@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-25** — opened PR [#1056](https://github.com/slackhq/foundry/pull/1056) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support robolectric 4.14/SDK 35"
+
+**2024-10-25** — created branch `z/robolectric414` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-24** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2436316754) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-10-24** — commented on [#172](https://github.com/MohamedRejeb/Calf/issues/172#issuecomment-2436315026) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-24** — merged PR [#678](https://github.com/ZacSweers/MoshiX/pull/678) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.21-1.0.26"
 
 **2024-10-24** — merged PR [#679](https://github.com/ZacSweers/MoshiX/pull/679) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0.BETA4"
-
-**2024-10-24** — opened PR [#80](https://github.com/ZacSweers/anvil/pull/80) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Improve error messaging for error types used as annotation arguments"
-
-**2024-10-24** — opened PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
-
-**2024-10-24** — created branch `z/betterKspChecks` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
