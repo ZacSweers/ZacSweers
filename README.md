@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-10-25** — commented on [#78](https://github.com/ZacSweers/anvil/pull/78#issuecomment-2438637574) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2024-10-25** — closed PR [#1738](https://github.com/ZacSweers/CatchUp/pull/1738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
 
-**2024-10-25** — created tag `0.21.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-10-25** — merged PR [#1734](https://github.com/ZacSweers/CatchUp/pull/1734) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.47.0.0"
 
-**2024-10-25** — merged PR [#1056](https://github.com/slackhq/foundry/pull/1056) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support robolectric 4.14/SDK 35"
+**2024-10-25** — merged PR [#1735](https://github.com/ZacSweers/CatchUp/pull/1735) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.21-1.0.26"
 
-**2024-10-25** — merged PR [#444](https://github.com/slackhq/compose-lints/pull/444) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v7.0.0.BETA4"
+**2024-10-25** — merged PR [#1737](https://github.com/ZacSweers/CatchUp/pull/1737) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v7.0.0.BETA4"
 
-**2024-10-25** — merged PR [#443](https://github.com/slackhq/compose-lints/pull/443) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v2.0.21-1.0.26"
+**2024-10-25** — merged PR [#1739](https://github.com/ZacSweers/CatchUp/pull/1739) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.8.0-alpha08"
 
-**2024-10-25** — opened PR [#1056](https://github.com/slackhq/foundry/pull/1056) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support robolectric 4.14/SDK 35"
+**2024-10-25** — merged PR [#1740](https://github.com/ZacSweers/CatchUp/pull/1740) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.35.1"
 
-**2024-10-25** — created branch `z/robolectric414` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-10-25** — merged PR [#1741](https://github.com/ZacSweers/CatchUp/pull/1741) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.21.0"
 
-**2024-10-24** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2436316754) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-10-25** — merged PR [#1057](https://github.com/slackhq/foundry/pull/1057) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve Skate publishing"
 
-**2024-10-24** — commented on [#172](https://github.com/MohamedRejeb/Calf/issues/172#issuecomment-2436315026) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+**2024-10-25** — opened PR [#1057](https://github.com/slackhq/foundry/pull/1057) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve Skate publishing"
 
-**2024-10-24** — merged PR [#263](https://github.com/ZacSweers/redacted-compiler-plugin/pull/263) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0.BETA4"
+**2024-10-25** — created branch `z/improvePublishing` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
