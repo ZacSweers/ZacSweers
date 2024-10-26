@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-25** — commented on [#78](https://github.com/ZacSweers/anvil/pull/78#issuecomment-2438637574) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-10-25** — created tag `0.21.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-10-25** — merged PR [#1056](https://github.com/slackhq/foundry/pull/1056) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support robolectric 4.14/SDK 35"
+
 **2024-10-25** — merged PR [#444](https://github.com/slackhq/compose-lints/pull/444) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v7.0.0.BETA4"
 
 **2024-10-25** — merged PR [#443](https://github.com/slackhq/compose-lints/pull/443) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin ksp to v2.0.21-1.0.26"
@@ -17,14 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-24** — commented on [#172](https://github.com/MohamedRejeb/Calf/issues/172#issuecomment-2436315026) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 
 **2024-10-24** — merged PR [#263](https://github.com/ZacSweers/redacted-compiler-plugin/pull/263) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0.BETA4"
-
-**2024-10-24** — merged PR [#79](https://github.com/ZacSweers/anvil/pull/79) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Initial support for Jakarta annotations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-10-25** — Could not load blog content. Please check back later.
+**2024-10-26** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
