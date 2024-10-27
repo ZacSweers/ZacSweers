@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-26** — merged PR [#70](https://github.com/ZacSweers/FieldSpottr/pull/70) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.2"
+
+**2024-10-26** — merged PR [#73](https://github.com/ZacSweers/FieldSpottr/pull/73) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.8.0"
+
+**2024-10-26** — merged PR [#78](https://github.com/ZacSweers/FieldSpottr/pull/78) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.0.21"
+
+**2024-10-26** — merged PR [#74](https://github.com/ZacSweers/FieldSpottr/pull/74) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.7.1"
+
+**2024-10-26** — merged PR [#79](https://github.com/ZacSweers/FieldSpottr/pull/79) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.3"
+
+**2024-10-26** — merged PR [#72](https://github.com/ZacSweers/FieldSpottr/pull/72) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.225.0"
+
+**2024-10-26** — merged PR [#75](https://github.com/ZacSweers/FieldSpottr/pull/75) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.4.2"
+
+**2024-10-26** — merged PR [#80](https://github.com/ZacSweers/FieldSpottr/pull/80) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.25.0"
+
 **2024-10-26** — closed PR [#1755](https://github.com/slackhq/circuit/pull/1755) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
 
 **2024-10-25** — created branch `z/moduleTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-10-25** — closed PR [#1738](https://github.com/ZacSweers/CatchUp/pull/1738) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
-
-**2024-10-25** — merged PR [#1734](https://github.com/ZacSweers/CatchUp/pull/1734) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.47.0.0"
-
-**2024-10-25** — merged PR [#1735](https://github.com/ZacSweers/CatchUp/pull/1735) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.0.21-1.0.26"
-
-**2024-10-25** — merged PR [#1737](https://github.com/ZacSweers/CatchUp/pull/1737) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v7.0.0.BETA4"
-
-**2024-10-25** — merged PR [#1739](https://github.com/ZacSweers/CatchUp/pull/1739) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.8.0-alpha08"
-
-**2024-10-25** — merged PR [#1740](https://github.com/ZacSweers/CatchUp/pull/1740) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.35.1"
-
-**2024-10-25** — merged PR [#1741](https://github.com/ZacSweers/CatchUp/pull/1741) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.21.0"
-
-**2024-10-25** — merged PR [#1057](https://github.com/slackhq/foundry/pull/1057) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve Skate publishing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
