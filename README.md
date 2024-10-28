@@ -15,14 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-26** — merged PR [#79](https://github.com/ZacSweers/FieldSpottr/pull/79) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.9.3"
 
 **2024-10-26** — merged PR [#72](https://github.com/ZacSweers/FieldSpottr/pull/72) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.225.0"
-
-**2024-10-26** — merged PR [#75](https://github.com/ZacSweers/FieldSpottr/pull/75) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.slack.lint.compose:compose-lint-checks to v1.4.2"
-
-**2024-10-26** — merged PR [#80](https://github.com/ZacSweers/FieldSpottr/pull/80) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.25.0"
-
-**2024-10-26** — closed PR [#1755](https://github.com/slackhq/circuit/pull/1755) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
-
-**2024-10-25** — created branch `z/moduleTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
