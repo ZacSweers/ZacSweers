@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-28** — commented on [#1066](https://github.com/slackhq/foundry/pull/1066#issuecomment-2442753317) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-10-28** — merged PR [#1742](https://github.com/ZacSweers/CatchUp/pull/1742) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Remove unused build features"
 
 **2024-10-28** — commented on [#1066](https://github.com/slackhq/foundry/pull/1066#issuecomment-2442404860) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-28** — opened PR [#1067](https://github.com/slackhq/foundry/pull/1067) to [slackhq/foundry](https://github.com/slackhq/foundry): "Do not track internal state in DependencyRake"
 
 **2024-10-28** — opened PR [#1066](https://github.com/slackhq/foundry/pull/1066) to [slackhq/foundry](https://github.com/slackhq/foundry): "Initial pass at ModuleTopographyTask"
-
-**2024-10-28** — created branch `z/doNotTrackState` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
