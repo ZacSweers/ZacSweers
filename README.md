@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-28** — commented on [#1274](https://github.com/diffplug/spotless/issues/1274#issuecomment-2442261543) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
+**2024-10-28** — opened issue [#2318](https://github.com/diffplug/spotless/issues/2318) on [diffplug/spotless](https://github.com/diffplug/spotless): "Spotless 7.0 beta 3 and beta4 break configuration cache in GoogleJavaFormatStep"
+
 **2024-10-28** — merged PR [#1067](https://github.com/slackhq/foundry/pull/1067) to [slackhq/foundry](https://github.com/slackhq/foundry): "Do not track internal state in DependencyRake"
 
 **2024-10-28** — opened PR [#1067](https://github.com/slackhq/foundry/pull/1067) to [slackhq/foundry](https://github.com/slackhq/foundry): "Do not track internal state in DependencyRake"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-26** — merged PR [#70](https://github.com/ZacSweers/FieldSpottr/pull/70) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.10.2"
 
 **2024-10-26** — merged PR [#73](https://github.com/ZacSweers/FieldSpottr/pull/73) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.8.0"
-
-**2024-10-26** — merged PR [#78](https://github.com/ZacSweers/FieldSpottr/pull/78) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.0.21"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
