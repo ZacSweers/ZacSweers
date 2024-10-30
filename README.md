@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-10-29** — closed issue [#77](https://github.com/ZacSweers/anvil/issues/77) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Multiplatform annotation modules "
+
+**2024-10-29** — merged PR [#78](https://github.com/ZacSweers/anvil/pull/78) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Migrate Annotations to KMP"
+
 **2024-10-29** — opened issue [#81](https://github.com/ZacSweers/FieldSpottr/issues/81) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Murphy Field"
 
 **2024-10-29** — merged PR [#1065](https://github.com/slackhq/foundry/pull/1065) to [slackhq/foundry](https://github.com/slackhq/foundry): "Don't depend on build sources in mod score if `MODULE_SCORE_INCLUDE_GENERATED` is false"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-10-28** — created branch `z/cleanups` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2024-10-28** — commented on [#1274](https://github.com/diffplug/spotless/issues/1274#issuecomment-2442261543) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2024-10-28** — opened issue [#2318](https://github.com/diffplug/spotless/issues/2318) on [diffplug/spotless](https://github.com/diffplug/spotless): "Spotless 7.0 beta 3 and beta4 break configuration cache in GoogleJavaFormatStep"
-
-**2024-10-28** — merged PR [#1067](https://github.com/slackhq/foundry/pull/1067) to [slackhq/foundry](https://github.com/slackhq/foundry): "Do not track internal state in DependencyRake"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
