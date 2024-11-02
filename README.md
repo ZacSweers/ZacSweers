@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-02** — merged PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
+
+**2024-11-02** — opened PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
+
+**2024-11-02** — created branch `z/removeCupertino` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-11-02** — commented on [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55#issuecomment-2453050011) in [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
 
 **2024-11-02** — merged PR [#76](https://github.com/ZacSweers/FieldSpottr/pull/76) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3 (major)"
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-02** — closed PR [#83](https://github.com/ZacSweers/FieldSpottr/pull/83) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
 
 **2024-11-02** — merged PR [#77](https://github.com/ZacSweers/FieldSpottr/pull/77) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.0"
-
-**2024-11-02** — created tag `v19` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-11-01** — merged PR [#82](https://github.com/ZacSweers/FieldSpottr/pull/82) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.7.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
