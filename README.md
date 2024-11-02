@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-02** — created tag `v20` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2024-11-02** — merged PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
 
 **2024-11-02** — opened PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-02** — closed issue [#81](https://github.com/ZacSweers/FieldSpottr/issues/81) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Murphy Field"
 
 **2024-11-02** — closed PR [#83](https://github.com/ZacSweers/FieldSpottr/pull/83) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
-
-**2024-11-02** — merged PR [#77](https://github.com/ZacSweers/FieldSpottr/pull/77) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
