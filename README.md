@@ -4,17 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-02** — merged PR [#76](https://github.com/ZacSweers/FieldSpottr/pull/76) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3 (major)"
+
+**2024-11-02** — commented on [#76](https://github.com/ZacSweers/anvil/issues/76#issuecomment-2452870102) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-11-02** — created tag `0.4.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-11-02** — closed issue [#81](https://github.com/ZacSweers/FieldSpottr/issues/81) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Murphy Field"
+
+**2024-11-02** — closed PR [#83](https://github.com/ZacSweers/FieldSpottr/pull/83) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1894-release-1.7.1"
+
+**2024-11-02** — merged PR [#77](https://github.com/ZacSweers/FieldSpottr/pull/77) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.0"
+
 **2024-11-02** — created tag `v19` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-11-01** — merged PR [#82](https://github.com/ZacSweers/FieldSpottr/pull/82) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.7.2"
-
-**2024-11-01** — merged PR [#82](https://github.com/ZacSweers/anvil/pull/82) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "simplify publishing config"
-
-**2024-10-31** — merged PR [#81](https://github.com/ZacSweers/anvil/pull/81) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "make annotations-optional a KMP library"
-
-**2024-10-31** — merged PR [#1070](https://github.com/slackhq/foundry/pull/1070) to [slackhq/foundry](https://github.com/slackhq/foundry): "Initial pass at ModuleTopographyTask"
-
-**2024-10-31** — commented on [#81](https://github.com/ZacSweers/anvil/pull/81#issuecomment-2450411999) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
