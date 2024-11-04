@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-11-04** — Could not load GitHub activity. Please check back later.
+**2024-11-02** — opened issue [#190](https://github.com/MohamedRejeb/Calf/issues/190) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Support compose 1.7"
+
+**2024-11-02** — created tag `v20` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-11-02** — merged PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
+
+**2024-11-02** — opened PR [#84](https://github.com/ZacSweers/FieldSpottr/pull/84) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Remove compose-cupertino"
+
+**2024-11-02** — created branch `z/removeCupertino` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2024-11-02** — commented on [#55](https://github.com/alexzhirkevich/compose-cupertino/issues/55#issuecomment-2453050011) in [alexzhirkevich/compose-cupertino](https://github.com/alexzhirkevich/compose-cupertino)
+
+**2024-11-02** — merged PR [#76](https://github.com/ZacSweers/FieldSpottr/pull/76) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3 (major)"
+
+**2024-11-02** — commented on [#76](https://github.com/ZacSweers/anvil/issues/76#issuecomment-2452870102) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-11-02** — created tag `0.4.0` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-11-02** — closed issue [#81](https://github.com/ZacSweers/FieldSpottr/issues/81) on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Add Murphy Field"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
