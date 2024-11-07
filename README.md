@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-06** — commented on [#2016](https://github.com/square/kotlinpoet/issues/2016#issuecomment-2460656422) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
+**2024-11-06** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2460654769) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-11-04** — merged PR [#1744](https://github.com/ZacSweers/CatchUp/pull/1744) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha03"
 
 **2024-11-04** — merged PR [#1743](https://github.com/ZacSweers/CatchUp/pull/1743) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.271.0"
@@ -17,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-04** — merged PR [#1748](https://github.com/ZacSweers/CatchUp/pull/1748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.5"
 
 **2024-11-04** — merged PR [#1749](https://github.com/ZacSweers/CatchUp/pull/1749) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.1"
-
-**2024-11-04** — merged PR [#1750](https://github.com/ZacSweers/CatchUp/pull/1750) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.annotation:annotation to v1.9.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
