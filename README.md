@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-07** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2462496295) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
 **2024-11-06** — closed issue [#2016](https://github.com/square/kotlinpoet/issues/2016) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "`toClassName` throws exception"
 
 **2024-11-06** — commented on [#2016](https://github.com/square/kotlinpoet/issues/2016#issuecomment-2460809693) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-04** — merged PR [#1747](https://github.com/ZacSweers/CatchUp/pull/1747) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha04"
 
 **2024-11-04** — merged PR [#1746](https://github.com/ZacSweers/CatchUp/pull/1746) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha11"
-
-**2024-11-04** — merged PR [#1748](https://github.com/ZacSweers/CatchUp/pull/1748) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
