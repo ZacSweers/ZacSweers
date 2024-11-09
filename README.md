@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-08** — commented on [#1783](https://github.com/slackhq/circuit/issues/1783#issuecomment-2465535476) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-11-07** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2463074338) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-11-07** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2462496295) in [diffplug/spotless](https://github.com/diffplug/spotless)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-04** — merged PR [#1743](https://github.com/ZacSweers/CatchUp/pull/1743) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.271.0"
 
 **2024-11-04** — merged PR [#1745](https://github.com/ZacSweers/CatchUp/pull/1745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.15.0"
-
-**2024-11-04** — merged PR [#1747](https://github.com/ZacSweers/CatchUp/pull/1747) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha04"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
