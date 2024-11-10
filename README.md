@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-09** — merged PR [#89](https://github.com/ZacSweers/FieldSpottr/pull/89) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.0.21-1.0.27"
+
+**2024-11-09** — merged PR [#66](https://github.com/ZacSweers/FieldSpottr/pull/66) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate to kotlin-inject"
+
+**2024-11-09** — merged PR [#88](https://github.com/ZacSweers/FieldSpottr/pull/88) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.0"
+
+**2024-11-09** — merged PR [#87](https://github.com/ZacSweers/FieldSpottr/pull/87) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.9.0"
+
 **2024-11-08** — commented on [#1783](https://github.com/slackhq/circuit/issues/1783#issuecomment-2465535476) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-11-07** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2463074338) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-06** — commented on [#2016](https://github.com/square/kotlinpoet/issues/2016#issuecomment-2460809693) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-11-06** — commented on [#2016](https://github.com/square/kotlinpoet/issues/2016#issuecomment-2460656422) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2024-11-06** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2460654769) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-11-04** — merged PR [#1744](https://github.com/ZacSweers/CatchUp/pull/1744) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-alpha03"
-
-**2024-11-04** — merged PR [#1743](https://github.com/ZacSweers/CatchUp/pull/1743) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.271.0"
-
-**2024-11-04** — merged PR [#1745](https://github.com/ZacSweers/CatchUp/pull/1745) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
