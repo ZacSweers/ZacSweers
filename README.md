@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-10** — opened issue [#72](https://github.com/amzn/kotlin-inject-anvil/issues/72) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Generated createComponent functions should copy annotations to actualized code"
+
 **2024-11-10** — merged PR [#90](https://github.com/ZacSweers/FieldSpottr/pull/90) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.1"
 
 **2024-11-09** — merged PR [#85](https://github.com/ZacSweers/FieldSpottr/pull/85) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-08** — commented on [#1783](https://github.com/slackhq/circuit/issues/1783#issuecomment-2465535476) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-11-07** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2463074338) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-11-07** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2462496295) in [diffplug/spotless](https://github.com/diffplug/spotless)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
