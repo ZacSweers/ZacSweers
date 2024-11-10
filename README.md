@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-10** — merged PR [#90](https://github.com/ZacSweers/FieldSpottr/pull/90) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.1"
+
 **2024-11-09** — merged PR [#85](https://github.com/ZacSweers/FieldSpottr/pull/85) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.3"
 
 **2024-11-09** — closed PR [#86](https://github.com/ZacSweers/FieldSpottr/pull/86) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1910-release-1.7.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-07** — commented on [#683](https://github.com/ZacSweers/MoshiX/issues/683#issuecomment-2463074338) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-11-07** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2462496295) in [diffplug/spotless](https://github.com/diffplug/spotless)
-
-**2024-11-06** — closed issue [#2016](https://github.com/square/kotlinpoet/issues/2016) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "`toClassName` throws exception"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
