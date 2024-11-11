@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-11** — merged PR [#265](https://github.com/ZacSweers/redacted-compiler-plugin/pull/265) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.11"
+
+**2024-11-11** — merged PR [#681](https://github.com/ZacSweers/MoshiX/pull/681) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.7.2"
+
+**2024-11-11** — merged PR [#682](https://github.com/ZacSweers/MoshiX/pull/682) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.2"
+
+**2024-11-11** — merged PR [#687](https://github.com/ZacSweers/MoshiX/pull/687) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.21-1.0.27"
+
+**2024-11-11** — merged PR [#688](https://github.com/ZacSweers/MoshiX/pull/688) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.11"
+
+**2024-11-11** — merged PR [#137](https://github.com/ZacSweers/auto-service-ksp/pull/137) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.11"
+
 **2024-11-10** — created tag `v31` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-11-10** — opened issue [#72](https://github.com/amzn/kotlin-inject-anvil/issues/72) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Generated createComponent functions should copy annotations to actualized code"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-10** — merged PR [#90](https://github.com/ZacSweers/FieldSpottr/pull/90) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.1"
 
 **2024-11-09** — merged PR [#85](https://github.com/ZacSweers/FieldSpottr/pull/85) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.3"
-
-**2024-11-09** — closed PR [#86](https://github.com/ZacSweers/FieldSpottr/pull/86) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1910-release-1.7.1"
-
-**2024-11-09** — merged PR [#89](https://github.com/ZacSweers/FieldSpottr/pull/89) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.0.21-1.0.27"
-
-**2024-11-09** — merged PR [#66](https://github.com/ZacSweers/FieldSpottr/pull/66) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Migrate to kotlin-inject"
-
-**2024-11-09** — merged PR [#88](https://github.com/ZacSweers/FieldSpottr/pull/88) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.0"
-
-**2024-11-09** — merged PR [#87](https://github.com/ZacSweers/FieldSpottr/pull/87) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.9.0"
-
-**2024-11-08** — commented on [#1783](https://github.com/slackhq/circuit/issues/1783#issuecomment-2465535476) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
