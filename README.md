@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-11** — merged PR [#92](https://github.com/ZacSweers/FieldSpottr/pull/92) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.11"
+
+**2024-11-11** — closed PR [#91](https://github.com/ZacSweers/FieldSpottr/pull/91) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1914-release-1.7.1"
+
 **2024-11-11** — merged PR [#265](https://github.com/ZacSweers/redacted-compiler-plugin/pull/265) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.11"
 
 **2024-11-11** — merged PR [#681](https://github.com/ZacSweers/MoshiX/pull/681) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.7.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-10** — created tag `v31` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2024-11-10** — opened issue [#72](https://github.com/amzn/kotlin-inject-anvil/issues/72) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Generated createComponent functions should copy annotations to actualized code"
-
-**2024-11-10** — merged PR [#90](https://github.com/ZacSweers/FieldSpottr/pull/90) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.6.1"
-
-**2024-11-09** — merged PR [#85](https://github.com/ZacSweers/FieldSpottr/pull/85) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
