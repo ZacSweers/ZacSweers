@@ -4,25 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-11-11** — merged PR [#92](https://github.com/ZacSweers/FieldSpottr/pull/92) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.11"
+**2024-11-11** — merged PR [#332](https://github.com/slackhq/slack-lints/pull/332) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.53"
 
-**2024-11-11** — closed PR [#91](https://github.com/ZacSweers/FieldSpottr/pull/91) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1+build1914-release-1.7.1"
+**2024-11-11** — merged PR [#330](https://github.com/slackhq/slack-lints/pull/330) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.8.0-alpha09"
 
-**2024-11-11** — merged PR [#265](https://github.com/ZacSweers/redacted-compiler-plugin/pull/265) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.11"
+**2024-11-11** — merged PR [#328](https://github.com/slackhq/slack-lints/pull/328) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.0.BETA4"
 
-**2024-11-11** — merged PR [#681](https://github.com/ZacSweers/MoshiX/pull/681) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.7.2"
+**2024-11-11** — merged PR [#333](https://github.com/slackhq/slack-lints/pull/333) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.0.21-1.0.27"
 
-**2024-11-11** — merged PR [#682](https://github.com/ZacSweers/MoshiX/pull/682) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.2"
+**2024-11-11** — opened issue [#334](https://github.com/slackhq/slack-lints/issues/334) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "New check: Warning on `val` class properties assigned to null"
 
-**2024-11-11** — merged PR [#687](https://github.com/ZacSweers/MoshiX/pull/687) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.0.21-1.0.27"
-
-**2024-11-11** — merged PR [#688](https://github.com/ZacSweers/MoshiX/pull/688) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.11"
-
-**2024-11-11** — merged PR [#137](https://github.com/ZacSweers/auto-service-ksp/pull/137) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.11"
-
-**2024-11-10** — created tag `v31` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-11-10** — opened issue [#72](https://github.com/amzn/kotlin-inject-anvil/issues/72) on [amzn/kotlin-inject-anvil](https://github.com/amzn/kotlin-inject-anvil): "Generated createComponent functions should copy annotations to actualized code"
+**2024-11-11** — merged PR [#447](https://github.com/slackhq/compose-lints/pull/447) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency pymdown-extensions to v10.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
