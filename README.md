@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-11** — opened issue [#4505](https://github.com/google/dagger/issues/4505) on [google/dagger](https://github.com/google/dagger): "[KSP] [KSP2] unexpected jvm signature V when processing in KSP2 when encountering an error type"
+
 **2024-11-11** — merged PR [#1063](https://github.com/slackhq/foundry/pull/1063) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to v0.12"
 
 **2024-11-11** — merged PR [#262](https://github.com/ZacSweers/redacted-compiler-plugin/pull/262) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.21-1.0.27"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-11** — closed PR [#1084](https://github.com/slackhq/foundry/pull/1084) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.1+build1910-release-1.7.1""
 
 **2024-11-11** — opened PR [#1084](https://github.com/slackhq/foundry/pull/1084) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.1+build1910-release-1.7.1""
-
-**2024-11-11** — created branch `revert-1079-test-renovate/compose.jb.stable` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
