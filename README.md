@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-11-11** — commented on [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285#issuecomment-2469038869) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-11-11** — merged PR [#1063](https://github.com/slackhq/foundry/pull/1063) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to v0.12"
 
-**2024-11-11** — closed issue [#285](https://github.com/ZacSweers/kotlin-compile-testing/issues/285) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "resolver.getSymbolsWithAnnotation doesn't return all annotated symbols"
+**2024-11-11** — merged PR [#262](https://github.com/ZacSweers/redacted-compiler-plugin/pull/262) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.21-1.0.27"
 
-**2024-11-11** — commented on [#298](https://github.com/ZacSweers/kotlin-compile-testing/issues/298#issuecomment-2469038557) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-11-11** — merged PR [#264](https://github.com/ZacSweers/redacted-compiler-plugin/pull/264) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.53"
 
-**2024-11-11** — commented on [#299](https://github.com/ZacSweers/kotlin-compile-testing/issues/299#issuecomment-2469038058) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-11-11** — merged PR [#266](https://github.com/ZacSweers/redacted-compiler-plugin/pull/266) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.6.0"
 
-**2024-11-11** — merged PR [#291](https://github.com/ZacSweers/kotlin-compile-testing/pull/291) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.177"
+**2024-11-11** — merged PR [#1068](https://github.com/slackhq/foundry/pull/1068) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.squareup:kotlinpoet to v2"
 
-**2024-11-11** — merged PR [#292](https://github.com/ZacSweers/kotlin-compile-testing/pull/292) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to 11bd719"
+**2024-11-11** — merged PR [#1081](https://github.com/slackhq/foundry/pull/1081) to [slackhq/foundry](https://github.com/slackhq/foundry): "Source ModuleTopography in mod stats + various refactorings"
 
-**2024-11-11** — merged PR [#295](https://github.com/ZacSweers/kotlin-compile-testing/pull/295) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.30.0"
+**2024-11-11** — merged PR [#1082](https://github.com/slackhq/foundry/pull/1082) to [slackhq/foundry](https://github.com/slackhq/foundry): "Paper over test fixture dependency cycles in mod score computation"
 
-**2024-11-11** — merged PR [#297](https://github.com/ZacSweers/kotlin-compile-testing/pull/297) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2 (major)"
+**2024-11-11** — closed PR [#1084](https://github.com/slackhq/foundry/pull/1084) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.1+build1910-release-1.7.1""
 
-**2024-11-11** — merged PR [#289](https://github.com/ZacSweers/kotlin-compile-testing/pull/289) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.11"
+**2024-11-11** — opened PR [#1084](https://github.com/slackhq/foundry/pull/1084) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.7.1+build1910-release-1.7.1""
 
-**2024-11-11** — merged PR [#290](https://github.com/ZacSweers/kotlin-compile-testing/pull/290) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.14.2"
+**2024-11-11** — created branch `revert-1079-test-renovate/compose.jb.stable` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
