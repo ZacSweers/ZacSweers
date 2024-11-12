@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-12** — created tag `0.22.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-11-12** — merged PR [#93](https://github.com/ZacSweers/FieldSpottr/pull/93) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1"
 
 **2024-11-12** — closed PR [#1791](https://github.com/slackhq/circuit/pull/1791) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.7.1+build1914-release-1.7.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-11** — merged PR [#266](https://github.com/ZacSweers/redacted-compiler-plugin/pull/266) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.6.0"
 
 **2024-11-11** — merged PR [#1068](https://github.com/slackhq/foundry/pull/1068) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.squareup:kotlinpoet to v2"
-
-**2024-11-11** — merged PR [#1081](https://github.com/slackhq/foundry/pull/1081) to [slackhq/foundry](https://github.com/slackhq/foundry): "Source ModuleTopography in mod stats + various refactorings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
