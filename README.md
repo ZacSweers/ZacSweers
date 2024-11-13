@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-12** — commented on [#4505](https://github.com/google/dagger/issues/4505#issuecomment-2471764521) in [google/dagger](https://github.com/google/dagger)
+
 **2024-11-12** — created tag `0.22.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-12** — closed PR [#1027](https://github.com/slackhq/foundry/pull/1027) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to 0.9"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-12** — closed PR [#1791](https://github.com/slackhq/circuit/pull/1791) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update compose.jb to v1.7.1+build1914-release-1.7.1"
 
 **2024-11-12** — commented on [#1783](https://github.com/slackhq/circuit/issues/1783#issuecomment-2470929362) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-11** — opened issue [#4505](https://github.com/google/dagger/issues/4505) on [google/dagger](https://github.com/google/dagger): "[KSP] [KSP2] unexpected jvm signature V when processing in KSP2 when encountering an error type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
