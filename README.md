@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-12** — created tag `0.22.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-12** — closed PR [#1027](https://github.com/slackhq/foundry/pull/1027) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to 0.9"
-
-**2024-11-12** — closed PR [#1085](https://github.com/slackhq/foundry/pull/1085) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose to v1.7.1+build1914-release-1.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
