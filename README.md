@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-13** — created tag `0.22.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-11-13** — created tag `0.22.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-12** — commented on [#4505](https://github.com/google/dagger/issues/4505#issuecomment-2471786577) in [google/dagger](https://github.com/google/dagger)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-12** — commented on [#4505](https://github.com/google/dagger/issues/4505#issuecomment-2471268903) in [google/dagger](https://github.com/google/dagger)
 
 **2024-11-12** — created tag `0.22.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-12** — merged PR [#93](https://github.com/ZacSweers/FieldSpottr/pull/93) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
