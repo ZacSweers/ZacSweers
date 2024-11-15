@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-14** — opened PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateTopography"
+
+**2024-11-14** — created branch `z/skippyValidate` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-14** — merged PR [#1094](https://github.com/slackhq/foundry/pull/1094) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove GenerateSchema task from source-generating tasks"
+
+**2024-11-14** — opened PR [#1094](https://github.com/slackhq/foundry/pull/1094) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove GenerateSchema task from source-generating tasks"
+
+**2024-11-14** — created branch `z/sourceFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-11-14** — opened issue [#1093](https://github.com/slackhq/foundry/issues/1093) on [slackhq/foundry](https://github.com/slackhq/foundry): "Make validateModuleTopography skippy-compatible"
 
 **2024-11-14** — merged PR [#1800](https://github.com/slackhq/circuit/pull/1800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce kotlin binary compatibility checker"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-14** — opened PR [#1800](https://github.com/slackhq/circuit/pull/1800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce kotlin binary compatibility checker"
 
 **2024-11-14** — created branch `z/apiFiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-14** — merged PR [#1092](https://github.com/slackhq/foundry/pull/1092) to [slackhq/foundry](https://github.com/slackhq/foundry): "Improve detekt exclusion of build dir files"
-
-**2024-11-14** — merged PR [#1754](https://github.com/slackhq/circuit/pull/1754) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update kotlinpoet to v2 (major)"
-
-**2024-11-14** — closed issue [#554](https://github.com/slackhq/foundry/issues/554) on [slackhq/foundry](https://github.com/slackhq/foundry): "Linkify feature flags - Make *.Feature.kt file configurable inside isFeatureFile() instead of hardcoding it"
-
-**2024-11-14** — closed issue [#813](https://github.com/slackhq/foundry/issues/813) on [slackhq/foundry](https://github.com/slackhq/foundry): "[Bug] Lint baseline is not generated"
-
-**2024-11-14** — commented on [#813](https://github.com/slackhq/foundry/issues/813#issuecomment-2477056598) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
