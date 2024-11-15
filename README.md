@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-14** — merged PR [#1097](https://github.com/slackhq/foundry/pull/1097) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add another compose matching text"
+
+**2024-11-14** — opened PR [#1098](https://github.com/slackhq/foundry/pull/1098) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use mustRunAfter for depending on source gen tasks + add back schema …"
+
+**2024-11-14** — opened PR [#1097](https://github.com/slackhq/foundry/pull/1097) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add another compose matching text"
+
+**2024-11-14** — created branch `z/moreSourceGenFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-14** — created branch `z/validateComposableFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-14** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2477817254) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-11-14** — opened PR [#1096](https://github.com/slackhq/foundry/pull/1096) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix snapshot tests job on CI"
 
 **2024-11-14** — created branch `z/fixSnapshotReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-14** — opened PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateTopography"
 
 **2024-11-14** — created branch `z/skippyValidate` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-14** — merged PR [#1094](https://github.com/slackhq/foundry/pull/1094) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove GenerateSchema task from source-generating tasks"
-
-**2024-11-14** — opened PR [#1094](https://github.com/slackhq/foundry/pull/1094) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove GenerateSchema task from source-generating tasks"
-
-**2024-11-14** — created branch `z/sourceFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-14** — opened issue [#1093](https://github.com/slackhq/foundry/issues/1093) on [slackhq/foundry](https://github.com/slackhq/foundry): "Make validateModuleTopography skippy-compatible"
-
-**2024-11-14** — merged PR [#1800](https://github.com/slackhq/circuit/pull/1800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce kotlin binary compatibility checker"
-
-**2024-11-14** — opened issue [#1801](https://github.com/slackhq/circuit/issues/1801) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter example"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
