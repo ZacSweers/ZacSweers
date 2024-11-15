@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-14** — merged PR [#1075](https://github.com/slackhq/foundry/pull/1075) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.27.0"
+
 **2024-11-13** — created tag `0.22.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-13** — created tag `0.22.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -11,10 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-12** — commented on [#4505](https://github.com/google/dagger/issues/4505#issuecomment-2471786577) in [google/dagger](https://github.com/google/dagger)
 
 **2024-11-12** — commented on [#4505](https://github.com/google/dagger/issues/4505#issuecomment-2471764521) in [google/dagger](https://github.com/google/dagger)
-
-**2024-11-12** — created tag `0.22.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-12** — closed PR [#1027](https://github.com/slackhq/foundry/pull/1027) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update sortDependencies to 0.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
