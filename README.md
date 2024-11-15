@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-14** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2477877391) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-11-14** — merged PR [#1097](https://github.com/slackhq/foundry/pull/1097) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add another compose matching text"
 
 **2024-11-14** — opened PR [#1098](https://github.com/slackhq/foundry/pull/1098) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use mustRunAfter for depending on source gen tasks + add back schema …"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-14** — created branch `z/fixSnapshotReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-14** — opened PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateTopography"
-
-**2024-11-14** — created branch `z/skippyValidate` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
