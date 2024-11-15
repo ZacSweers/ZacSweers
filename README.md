@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-14** — opened PR [#1096](https://github.com/slackhq/foundry/pull/1096) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix snapshot tests job on CI"
+
+**2024-11-14** — created branch `z/fixSnapshotReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-11-14** — opened PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateTopography"
 
 **2024-11-14** — created branch `z/skippyValidate` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-14** — merged PR [#1800](https://github.com/slackhq/circuit/pull/1800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce kotlin binary compatibility checker"
 
 **2024-11-14** — opened issue [#1801](https://github.com/slackhq/circuit/issues/1801) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add a composite presenter example"
-
-**2024-11-14** — opened PR [#1800](https://github.com/slackhq/circuit/pull/1800) to [slackhq/circuit](https://github.com/slackhq/circuit): "Introduce kotlin binary compatibility checker"
-
-**2024-11-14** — created branch `z/apiFiles` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
