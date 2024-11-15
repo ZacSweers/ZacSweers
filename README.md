@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-11-14** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2477877391) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-11-15** — merged PR [#1753](https://github.com/ZacSweers/CatchUp/pull/1753) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0"
 
-**2024-11-14** — merged PR [#1097](https://github.com/slackhq/foundry/pull/1097) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add another compose matching text"
+**2024-11-15** — merged PR [#1754](https://github.com/ZacSweers/CatchUp/pull/1754) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.5"
 
-**2024-11-14** — opened PR [#1098](https://github.com/slackhq/foundry/pull/1098) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use mustRunAfter for depending on source gen tasks + add back schema …"
+**2024-11-15** — merged PR [#1757](https://github.com/ZacSweers/CatchUp/pull/1757) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.53"
 
-**2024-11-14** — opened PR [#1097](https://github.com/slackhq/foundry/pull/1097) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add another compose matching text"
+**2024-11-15** — merged PR [#1751](https://github.com/ZacSweers/CatchUp/pull/1751) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.8.0-alpha09"
 
-**2024-11-14** — created branch `z/moreSourceGenFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-11-15** — merged PR [#1756](https://github.com/ZacSweers/CatchUp/pull/1756) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update anvil to v0.4.0"
 
-**2024-11-14** — created branch `z/validateComposableFix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-11-15** — merged PR [#1752](https://github.com/ZacSweers/CatchUp/pull/1752) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.collection:collection to v1.5.0-alpha06"
 
-**2024-11-14** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2477817254) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-11-15** — merged PR [#1755](https://github.com/ZacSweers/CatchUp/pull/1755) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-alpha07"
 
-**2024-11-14** — opened PR [#1096](https://github.com/slackhq/foundry/pull/1096) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix snapshot tests job on CI"
+**2024-11-15** — closed issue [#1093](https://github.com/slackhq/foundry/issues/1093) on [slackhq/foundry](https://github.com/slackhq/foundry): "Make validateModuleTopography skippy-compatible"
 
-**2024-11-14** — created branch `z/fixSnapshotReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-11-15** — merged PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateModuleTopography"
 
-**2024-11-14** — opened PR [#1095](https://github.com/slackhq/foundry/pull/1095) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support for validateTopography"
+**2024-11-15** — merged PR [#1098](https://github.com/slackhq/foundry/pull/1098) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use mustRunAfter for depending on source gen tasks + add back schema task"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
