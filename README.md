@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-16** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2480460608) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2024-11-15** — created tag `0.22.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-15** — merged PR [#1101](https://github.com/slackhq/foundry/pull/1101) to [slackhq/foundry](https://github.com/slackhq/foundry): "Introduce ModuleFeaturesConfig"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-15** — merged PR [#1754](https://github.com/ZacSweers/CatchUp/pull/1754) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.5"
 
 **2024-11-15** — merged PR [#1757](https://github.com/ZacSweers/CatchUp/pull/1757) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.53"
-
-**2024-11-15** — merged PR [#1751](https://github.com/ZacSweers/CatchUp/pull/1751) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.8.0-alpha09"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
