@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-19** — closed issue [#882](https://github.com/google/auto/issues/882) on [google/auto](https://github.com/google/auto): "KSP Implementation of AutoService"
+
+**2024-11-19** — commented on [#882](https://github.com/google/auto/issues/882#issuecomment-2485858767) in [google/auto](https://github.com/google/auto)
+
 **2024-11-16** — commented on [#1790](https://github.com/slackhq/circuit/issues/1790#issuecomment-2480854811) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-11-16** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2480460608) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-15** — opened PR [#1101](https://github.com/slackhq/foundry/pull/1101) to [slackhq/foundry](https://github.com/slackhq/foundry): "Introduce ModuleFeaturesConfig"
 
 **2024-11-15** — created branch `z/moduleFeaturesConfig` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-15** — merged PR [#1753](https://github.com/ZacSweers/CatchUp/pull/1753) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.constraintlayout:constraintlayout to v2.2.0"
-
-**2024-11-15** — merged PR [#1754](https://github.com/ZacSweers/CatchUp/pull/1754) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
