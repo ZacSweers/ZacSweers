@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-19** — opened issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
+
 **2024-11-19** — created tag `0.22.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-19** — closed issue [#882](https://github.com/google/auto/issues/882) on [google/auto](https://github.com/google/auto): "KSP Implementation of AutoService"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-15** — commented on [#961](https://github.com/slackhq/foundry/issues/961#issuecomment-2479770193) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-15** — closed issue [#961](https://github.com/slackhq/foundry/issues/961) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add project validation tasks"
-
-**2024-11-15** — opened PR [#1101](https://github.com/slackhq/foundry/pull/1101) to [slackhq/foundry](https://github.com/slackhq/foundry): "Introduce ModuleFeaturesConfig"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
