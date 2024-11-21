@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-20** — created branch `z/topographyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-20** — opened issue [#1194](https://github.com/google/google-java-format/issues/1194) on [google/google-java-format](https://github.com/google/google-java-format): "1.25.0 release is missing"
+
 **2024-11-20** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2489643567) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-11-20** — created tag `0.22.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-20** — merged PR [#301](https://github.com/ZacSweers/kotlin-compile-testing/pull/301) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.21-1.0.28"
 
 **2024-11-20** — opened PR [#1107](https://github.com/slackhq/foundry/pull/1107) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make robolectric sdk downloads less hardcoded"
-
-**2024-11-20** — created branch `z/robolectricDynamic` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-20** — reopened PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
