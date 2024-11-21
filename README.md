@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-20** — created tag `0.22.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-20** — merged PR [#1107](https://github.com/slackhq/foundry/pull/1107) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make robolectric sdk downloads less hardcoded"
+
 **2024-11-20** — commented on [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302#issuecomment-2489261622) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-11-20** — closed issue [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Unresolved references"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-20** — reopened PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
 
 **2024-11-20** — closed PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
-
-**2024-11-19** — merged PR [#267](https://github.com/ZacSweers/redacted-compiler-plugin/pull/267) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.21-1.0.28"
-
-**2024-11-19** — opened issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
