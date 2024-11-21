@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-20** — commented on [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302#issuecomment-2489261622) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2024-11-20** — closed issue [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Unresolved references"
+
+**2024-11-20** — merged PR [#300](https://github.com/ZacSweers/kotlin-compile-testing/pull/300) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.179"
+
+**2024-11-20** — merged PR [#301](https://github.com/ZacSweers/kotlin-compile-testing/pull/301) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.21-1.0.28"
+
+**2024-11-20** — opened PR [#1107](https://github.com/slackhq/foundry/pull/1107) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make robolectric sdk downloads less hardcoded"
+
+**2024-11-20** — created branch `z/robolectricDynamic` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-20** — reopened PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
+
+**2024-11-20** — closed PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
+
 **2024-11-19** — merged PR [#267](https://github.com/ZacSweers/redacted-compiler-plugin/pull/267) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.0.21-1.0.28"
 
 **2024-11-19** — opened issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
-
-**2024-11-19** — created tag `0.22.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-19** — closed issue [#882](https://github.com/google/auto/issues/882) on [google/auto](https://github.com/google/auto): "KSP Implementation of AutoService"
-
-**2024-11-19** — commented on [#882](https://github.com/google/auto/issues/882#issuecomment-2485858767) in [google/auto](https://github.com/google/auto)
-
-**2024-11-16** — commented on [#1790](https://github.com/slackhq/circuit/issues/1790#issuecomment-2480854811) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-16** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2480460608) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2024-11-15** — created tag `0.22.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-15** — merged PR [#1101](https://github.com/slackhq/foundry/pull/1101) to [slackhq/foundry](https://github.com/slackhq/foundry): "Introduce ModuleFeaturesConfig"
-
-**2024-11-15** — commented on [#961](https://github.com/slackhq/foundry/issues/961#issuecomment-2479770193) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
