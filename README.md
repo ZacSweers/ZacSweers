@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-20** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2489643567) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-11-20** — created tag `0.22.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-20** — merged PR [#1107](https://github.com/slackhq/foundry/pull/1107) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make robolectric sdk downloads less hardcoded"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-20** — created branch `z/robolectricDynamic` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-20** — reopened PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
-
-**2024-11-20** — closed PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
