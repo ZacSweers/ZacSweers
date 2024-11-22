@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-21** — opened PR [#1811](https://github.com/slackhq/circuit/pull/1811) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove coil 2"
+
+**2024-11-21** — created branch `z/removecoil2` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-11-21** — opened PR [#1110](https://github.com/slackhq/foundry/pull/1110) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small topography fixes"
+
 **2024-11-21** — merged PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
 
 **2024-11-20** — created branch `z/topographyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-20** — created tag `0.22.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-20** — merged PR [#1107](https://github.com/slackhq/foundry/pull/1107) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make robolectric sdk downloads less hardcoded"
-
-**2024-11-20** — commented on [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302#issuecomment-2489261622) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-11-20** — closed issue [#302](https://github.com/ZacSweers/kotlin-compile-testing/issues/302) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Unresolved references"
-
-**2024-11-20** — merged PR [#300](https://github.com/ZacSweers/kotlin-compile-testing/pull/300) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.179"
-
-**2024-11-20** — merged PR [#301](https://github.com/ZacSweers/kotlin-compile-testing/pull/301) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp to v2.0.21-1.0.28"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
