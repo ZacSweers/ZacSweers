@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-21** — merged PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
+
+**2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492171224) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-21** — merged PR [#1812](https://github.com/slackhq/circuit/pull/1812) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration cache sharing on CI"
+
+**2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492164641) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-11-21** — merged PR [#1811](https://github.com/slackhq/circuit/pull/1811) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove coil 2"
+
+**2024-11-21** — commented on [#1194](https://github.com/google/google-java-format/issues/1194#issuecomment-2492135344) in [google/google-java-format](https://github.com/google/google-java-format)
+
+**2024-11-21** — closed issue [#1194](https://github.com/google/google-java-format/issues/1194) on [google/google-java-format](https://github.com/google/google-java-format): "1.25.0 release is missing"
+
+**2024-11-21** — opened PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
+
+**2024-11-21** — created branch `z/ccOnCi` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-11-21** — opened PR [#1812](https://github.com/slackhq/circuit/pull/1812) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration cache sharing on CI"
-
-**2024-11-21** — created branch `z/CC` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-21** — opened PR [#1811](https://github.com/slackhq/circuit/pull/1811) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove coil 2"
-
-**2024-11-21** — created branch `z/removecoil2` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-21** — opened PR [#1110](https://github.com/slackhq/foundry/pull/1110) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small topography fixes"
-
-**2024-11-21** — merged PR [#1807](https://github.com/slackhq/circuit/pull/1807) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fixes issue causing codegen to fail for class `@Inject` annotations."
-
-**2024-11-20** — created branch `z/topographyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-20** — opened issue [#1194](https://github.com/google/google-java-format/issues/1194) on [google/google-java-format](https://github.com/google/google-java-format): "1.25.0 release is missing"
-
-**2024-11-20** — commented on [#1550](https://github.com/slackhq/circuit/pull/1550#issuecomment-2489643567) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-11-20** — created tag `0.22.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
