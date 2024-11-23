@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-22** — closed PR [#1105](https://github.com/cashapp/paparazzi/pull/1105) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Make AGP and KGP deps compileOnly"
+
 **2024-11-21** — merged PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
 
 **2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492171224) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,14 +23,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-21** — opened PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
 
 **2024-11-21** — created branch `z/ccOnCi` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-11-21** — opened PR [#1812](https://github.com/slackhq/circuit/pull/1812) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration cache sharing on CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-11-22** — Could not load blog content. Please check back later.
+**2024-11-23** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
