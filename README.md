@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-24** — commented on [#1908](https://github.com/square/moshi/pull/1908#issuecomment-2496692566) in [square/moshi](https://github.com/square/moshi)
+
 **2024-11-22** — closed PR [#1105](https://github.com/cashapp/paparazzi/pull/1105) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Make AGP and KGP deps compileOnly"
 
 **2024-11-21** — merged PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-21** — closed issue [#1194](https://github.com/google/google-java-format/issues/1194) on [google/google-java-format](https://github.com/google/google-java-format): "1.25.0 release is missing"
 
 **2024-11-21** — opened PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
-
-**2024-11-21** — created branch `z/ccOnCi` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
