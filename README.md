@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-27** — closed issue [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "How to add .klib as classpath dependencies"
+
+**2024-11-27** — commented on [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304#issuecomment-2503015074) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-11-24** — commented on [#1908](https://github.com/square/moshi/pull/1908#issuecomment-2496692566) in [square/moshi](https://github.com/square/moshi)
 
 **2024-11-22** — closed PR [#1105](https://github.com/cashapp/paparazzi/pull/1105) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Make AGP and KGP deps compileOnly"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-21** — merged PR [#1811](https://github.com/slackhq/circuit/pull/1811) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove coil 2"
 
 **2024-11-21** — commented on [#1194](https://github.com/google/google-java-format/issues/1194#issuecomment-2492135344) in [google/google-java-format](https://github.com/google/google-java-format)
-
-**2024-11-21** — closed issue [#1194](https://github.com/google/google-java-format/issues/1194) on [google/google-java-format](https://github.com/google/google-java-format): "1.25.0 release is missing"
-
-**2024-11-21** — opened PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
