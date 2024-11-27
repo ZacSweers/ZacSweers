@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-27** — commented on [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304#issuecomment-2503931796) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2024-11-27** — closed issue [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "How to add .klib as classpath dependencies"
 
 **2024-11-27** — commented on [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304#issuecomment-2503015074) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492164641) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-11-21** — merged PR [#1811](https://github.com/slackhq/circuit/pull/1811) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove coil 2"
-
-**2024-11-21** — commented on [#1194](https://github.com/google/google-java-format/issues/1194#issuecomment-2492135344) in [google/google-java-format](https://github.com/google/google-java-format)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
