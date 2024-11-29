@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-11-28** — commented on [#334](https://github.com/slackhq/slack-lints/issues/334#issuecomment-2506634004) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2024-11-28** — closed PR [#680](https://github.com/ZacSweers/MoshiX/pull/680) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.53"
 
-**2024-11-27** — commented on [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304#issuecomment-2503931796) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-11-28** — closed PR [#689](https://github.com/ZacSweers/MoshiX/pull/689) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.6.0"
 
-**2024-11-27** — closed issue [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "How to add .klib as classpath dependencies"
+**2024-11-28** — closed PR [#690](https://github.com/ZacSweers/MoshiX/pull/690) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-rigel-276"
 
-**2024-11-27** — commented on [#304](https://github.com/ZacSweers/kotlin-compile-testing/issues/304#issuecomment-2503015074) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+**2024-11-28** — closed PR [#692](https://github.com/ZacSweers/MoshiX/pull/692) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.11.1"
 
-**2024-11-24** — commented on [#1908](https://github.com/square/moshi/pull/1908#issuecomment-2496692566) in [square/moshi](https://github.com/square/moshi)
+**2024-11-28** — closed PR [#691](https://github.com/ZacSweers/MoshiX/pull/691) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.1.0-1.0.29"
 
-**2024-11-22** — closed PR [#1105](https://github.com/cashapp/paparazzi/pull/1105) to [cashapp/paparazzi](https://github.com/cashapp/paparazzi): "Make AGP and KGP deps compileOnly"
+**2024-11-28** — created tag `0.7.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
-**2024-11-21** — merged PR [#1111](https://github.com/slackhq/foundry/pull/1111) to [slackhq/foundry](https://github.com/slackhq/foundry): "Enable CC sharing on CI"
+**2024-11-28** — closed PR [#268](https://github.com/ZacSweers/redacted-compiler-plugin/pull/268) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.11.1"
 
-**2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492171224) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-11-28** — closed PR [#269](https://github.com/ZacSweers/redacted-compiler-plugin/pull/269) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.1.0"
 
-**2024-11-21** — merged PR [#1812](https://github.com/slackhq/circuit/pull/1812) to [slackhq/circuit](https://github.com/slackhq/circuit): "Enable configuration cache sharing on CI"
+**2024-11-28** — closed PR [#270](https://github.com/ZacSweers/redacted-compiler-plugin/pull/270) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp to v2.1.0-1.0.29"
 
-**2024-11-21** — commented on [#1111](https://github.com/slackhq/foundry/pull/1111#issuecomment-2492164641) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-11-28** — closed PR [#303](https://github.com/ZacSweers/kotlin-compile-testing/pull/303) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.11.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
