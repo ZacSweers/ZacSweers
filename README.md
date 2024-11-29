@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-11-29** — closed issue [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Can it support customizing the class name of the data class?"
+
+**2024-11-29** — commented on [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271#issuecomment-2507688169) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-11-28** — commented on [#1910](https://github.com/square/moshi/issues/1910#issuecomment-2507070622) in [square/moshi](https://github.com/square/moshi)
 
 **2024-11-28** — created branch `renovate/major-kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-28** — merged PR [#667](https://github.com/ZacSweers/MoshiX/pull/667) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.1.0"
 
 **2024-11-28** — closed PR [#680](https://github.com/ZacSweers/MoshiX/pull/680) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.53"
-
-**2024-11-28** — closed PR [#689](https://github.com/ZacSweers/MoshiX/pull/689) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.6.0"
-
-**2024-11-28** — closed PR [#690](https://github.com/ZacSweers/MoshiX/pull/690) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-rigel-276"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
