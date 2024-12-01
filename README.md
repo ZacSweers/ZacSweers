@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-01** — opened PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
+
+**2024-12-01** — created branch `z/lessImpls` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2024-11-29** — commented on [#2029](https://github.com/square/kotlinpoet/pull/2029#issuecomment-2508543909) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2024-11-29** — closed issue [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Can it support customizing the class name of the data class?"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-28** — created tag `0.29.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2024-11-28** — closed issue [#253](https://github.com/ZacSweers/redacted-compiler-plugin/issues/253) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.1.0-Beta1: NoSuchMethodError"
-
-**2024-11-28** — merged PR [#254](https://github.com/ZacSweers/redacted-compiler-plugin/pull/254) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.1.0"
-
-**2024-11-28** — merged PR [#667](https://github.com/ZacSweers/MoshiX/pull/667) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
