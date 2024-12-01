@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-01** — merged PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
+
 **2024-12-01** — opened PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
 
 **2024-12-01** — created branch `z/lessImpls` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-28** — created tag `1.11.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-11-28** — created tag `0.29.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-11-28** — closed issue [#253](https://github.com/ZacSweers/redacted-compiler-plugin/issues/253) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.1.0-Beta1: NoSuchMethodError"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
