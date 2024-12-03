@@ -4,11 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-12-02** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2512713940) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2024-12-02** — merged PR [#1708](https://github.com/ZacSweers/CatchUp/pull/1708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.getkeepsafe.taptargetview:taptargetview to v1.15.0"
 
-**2024-12-02** — commented on [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271#issuecomment-2511927383) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-12-02** — merged PR [#1764](https://github.com/ZacSweers/CatchUp/pull/1764) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.3"
 
-**2024-12-01** — merged PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
+**2024-12-02** — merged PR [#1762](https://github.com/ZacSweers/CatchUp/pull/1762) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.1.3"
+
+**2024-12-02** — merged PR [#1761](https://github.com/ZacSweers/CatchUp/pull/1761) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.4"
+
+**2024-12-02** — merged PR [#1759](https://github.com/ZacSweers/CatchUp/pull/1759) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-beta01"
+
+**2024-12-02** — merged PR [#1760](https://github.com/ZacSweers/CatchUp/pull/1760) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
