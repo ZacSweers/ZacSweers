@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-02** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2512713940) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-02** — commented on [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271#issuecomment-2511927383) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2024-12-01** — merged PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-11-28** — commented on [#1910](https://github.com/square/moshi/issues/1910#issuecomment-2507070622) in [square/moshi](https://github.com/square/moshi)
 
 **2024-11-28** — created branch `renovate/major-kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2024-11-28** — created tag `1.11.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
