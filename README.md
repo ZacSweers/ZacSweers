@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-04** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2518520535) in [square/anvil](https://github.com/square/anvil)
+
+**2024-12-04** — closed issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP in Anvil"
+
+**2024-12-04** — closed issue [#939](https://github.com/square/anvil/issues/939) on [square/anvil](https://github.com/square/anvil): "Adopt new KSP moduleName API or better handle in KSP2"
+
 **2024-12-02** — merged PR [#1708](https://github.com/ZacSweers/CatchUp/pull/1708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.getkeepsafe.taptargetview:taptargetview to v1.15.0"
 
 **2024-12-02** — merged PR [#1764](https://github.com/ZacSweers/CatchUp/pull/1764) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.3"
