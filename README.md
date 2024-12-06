@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-05** — merged PR [#1914](https://github.com/square/moshi/pull/1914) to [square/moshi](https://github.com/square/moshi): "Version 1.15.2 change log"
+
 **2024-12-04** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2518520535) in [square/anvil](https://github.com/square/anvil)
 
 **2024-12-04** — closed issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP in Anvil"
