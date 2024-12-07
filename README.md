@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-06** — closed issue [#1834](https://github.com/slackhq/circuit/issues/1834) on [slackhq/circuit](https://github.com/slackhq/circuit): "ContentWithOverlays with kotlin/js (without Compose UI)"
+
+**2024-12-06** — commented on [#1834](https://github.com/slackhq/circuit/issues/1834#issuecomment-2523843383) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-06** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2523490545) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-06** — commented on [#1834](https://github.com/slackhq/circuit/issues/1834#issuecomment-2523481023) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-02** — merged PR [#1708](https://github.com/ZacSweers/CatchUp/pull/1708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.getkeepsafe.taptargetview:taptargetview to v1.15.0"
 
 **2024-12-02** — merged PR [#1764](https://github.com/ZacSweers/CatchUp/pull/1764) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.90.3"
-
-**2024-12-02** — merged PR [#1762](https://github.com/ZacSweers/CatchUp/pull/1762) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.1.3"
-
-**2024-12-02** — merged PR [#1761](https://github.com/ZacSweers/CatchUp/pull/1761) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
