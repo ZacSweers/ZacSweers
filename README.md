@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-06** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2523490545) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-12-06** — commented on [#1834](https://github.com/slackhq/circuit/issues/1834#issuecomment-2523481023) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-05** — merged PR [#1914](https://github.com/square/moshi/pull/1914) to [square/moshi](https://github.com/square/moshi): "Version 1.15.2 change log"
 
 **2024-12-04** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2518520535) in [square/anvil](https://github.com/square/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-02** — merged PR [#1762](https://github.com/ZacSweers/CatchUp/pull/1762) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.android.tools:desugar_jdk_libs_minimal to v2.1.3"
 
 **2024-12-02** — merged PR [#1761](https://github.com/ZacSweers/CatchUp/pull/1761) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.3.4"
-
-**2024-12-02** — merged PR [#1759](https://github.com/ZacSweers/CatchUp/pull/1759) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0-beta01"
-
-**2024-12-02** — merged PR [#1760](https://github.com/ZacSweers/CatchUp/pull/1760) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha05"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
