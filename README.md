@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-09** — opened PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
+
+**2024-12-09** — created branch `z/fixBuildkiteEnv` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-06** — commented on [#1911](https://github.com/square/moshi/issues/1911#issuecomment-2524495238) in [square/moshi](https://github.com/square/moshi)
 
 **2024-12-06** — closed issue [#1834](https://github.com/slackhq/circuit/issues/1834) on [slackhq/circuit](https://github.com/slackhq/circuit): "ContentWithOverlays with kotlin/js (without Compose UI)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-04** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2518520535) in [square/anvil](https://github.com/square/anvil)
 
 **2024-12-04** — closed issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP in Anvil"
-
-**2024-12-04** — closed issue [#939](https://github.com/square/anvil/issues/939) on [square/anvil](https://github.com/square/anvil): "Adopt new KSP moduleName API or better handle in KSP2"
-
-**2024-12-02** — merged PR [#1708](https://github.com/ZacSweers/CatchUp/pull/1708) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.getkeepsafe.taptargetview:taptargetview to v1.15.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
