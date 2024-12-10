@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-10** — merged PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
+
+**2024-12-10** — opened PR [#1133](https://github.com/slackhq/foundry/pull/1133) to [slackhq/foundry](https://github.com/slackhq/foundry): "Split out ValidateModuleTopographyTask"
+
+**2024-12-10** — created branch `z/betterValidation` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-09** — commented on [#463](https://github.com/slackhq/compose-lints/issues/463#issuecomment-2529505751) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-12-09** — merged PR [#82](https://github.com/slackhq/EitherNet/pull/82) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 2.1.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-06** — closed issue [#1834](https://github.com/slackhq/circuit/issues/1834) on [slackhq/circuit](https://github.com/slackhq/circuit): "ContentWithOverlays with kotlin/js (without Compose UI)"
 
 **2024-12-06** — commented on [#1834](https://github.com/slackhq/circuit/issues/1834#issuecomment-2523843383) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-06** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2523490545) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-12-06** — commented on [#1834](https://github.com/slackhq/circuit/issues/1834#issuecomment-2523481023) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-05** — merged PR [#1914](https://github.com/square/moshi/pull/1914) to [square/moshi](https://github.com/square/moshi): "Version 1.15.2 change log"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
