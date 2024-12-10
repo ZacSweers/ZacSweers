@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-09** — merged PR [#82](https://github.com/slackhq/EitherNet/pull/82) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 2.1.0"
+
 **2024-12-09** — opened PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
 
 **2024-12-09** — created branch `z/fixBuildkiteEnv` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-05** — merged PR [#1914](https://github.com/square/moshi/pull/1914) to [square/moshi](https://github.com/square/moshi): "Version 1.15.2 change log"
 
 **2024-12-04** — commented on [#704](https://github.com/square/anvil/issues/704#issuecomment-2518520535) in [square/anvil](https://github.com/square/anvil)
-
-**2024-12-04** — closed issue [#704](https://github.com/square/anvil/issues/704) on [square/anvil](https://github.com/square/anvil): "Support Dagger KSP in Anvil"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
