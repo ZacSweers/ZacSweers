@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-10** — opened PR [#1135](https://github.com/slackhq/foundry/pull/1135) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add compressAndroidTestApksWithLegacyPackaging option"
+
+**2024-12-10** — created branch `z/packagingOptions` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-12-10** — opened PR [#1134](https://github.com/slackhq/foundry/pull/1134) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support emulator.wtf"
+
+**2024-12-10** — created branch `z/ew` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-10** — created tag `2.0.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
 
 **2024-12-10** — merged PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-09** — commented on [#463](https://github.com/slackhq/compose-lints/issues/463#issuecomment-2529505751) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2024-12-09** — merged PR [#82](https://github.com/slackhq/EitherNet/pull/82) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 2.1.0"
-
-**2024-12-09** — opened PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
-
-**2024-12-09** — created branch `z/fixBuildkiteEnv` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-06** — commented on [#1911](https://github.com/square/moshi/issues/1911#issuecomment-2524495238) in [square/moshi](https://github.com/square/moshi)
-
-**2024-12-06** — closed issue [#1834](https://github.com/slackhq/circuit/issues/1834) on [slackhq/circuit](https://github.com/slackhq/circuit): "ContentWithOverlays with kotlin/js (without Compose UI)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
