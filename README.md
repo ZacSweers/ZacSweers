@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-12-10** — opened PR [#1135](https://github.com/slackhq/foundry/pull/1135) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add compressAndroidTestApksWithLegacyPackaging option"
+**2024-12-10** — merged PR [#1136](https://github.com/slackhq/foundry/pull/1136) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Split out ValidateModuleTopographyTask""
 
-**2024-12-10** — created branch `z/packagingOptions` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-12-10** — merged PR [#975](https://github.com/slackhq/foundry/pull/975) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.1.0"
 
-**2024-12-10** — opened PR [#1134](https://github.com/slackhq/foundry/pull/1134) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support emulator.wtf"
+**2024-12-10** — opened PR [#1136](https://github.com/slackhq/foundry/pull/1136) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Split out ValidateModuleTopographyTask""
 
-**2024-12-10** — created branch `z/ew` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-12-10** — created branch `revert-1133-z/betterValidation` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2024-12-10** — created tag `2.0.0` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+**2024-12-10** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2532753846) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-12-10** — merged PR [#1132](https://github.com/slackhq/foundry/pull/1132) to [slackhq/foundry](https://github.com/slackhq/foundry): "Fix buildkite env vars"
+**2024-12-10** — commented on [#1129](https://github.com/slackhq/foundry/pull/1129#issuecomment-2532749461) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2024-12-10** — opened PR [#1133](https://github.com/slackhq/foundry/pull/1133) to [slackhq/foundry](https://github.com/slackhq/foundry): "Split out ValidateModuleTopographyTask"
+**2024-12-10** — closed PR [#1129](https://github.com/slackhq/foundry/pull/1129) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.2.0"
 
-**2024-12-10** — created branch `z/betterValidation` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2024-12-10** — closed PR [#1119](https://github.com/slackhq/foundry/pull/1119) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.1.20-canopus-119"
 
-**2024-12-09** — commented on [#463](https://github.com/slackhq/compose-lints/issues/463#issuecomment-2529505751) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2024-12-10** — closed PR [#1122](https://github.com/slackhq/foundry/pull/1122) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update moshix to v0.29.0"
 
-**2024-12-09** — merged PR [#82](https://github.com/slackhq/EitherNet/pull/82) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Update to Kotlin 2.1.0"
+**2024-12-10** — closed PR [#1131](https://github.com/slackhq/foundry/pull/1131) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin org.jetbrains.intellij.platform.settings to v2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
