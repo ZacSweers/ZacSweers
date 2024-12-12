@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-11** — opened PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
+
+**2024-12-11** — created branch `z/lazyLocales` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-12-11** — merged PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
+
 **2024-12-11** — opened PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
 
 **2024-12-11** — created branch `z/blankProps` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-10** — created tag `0.23.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-10** — merged PR [#1134](https://github.com/slackhq/foundry/pull/1134) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support emulator.wtf"
-
-**2024-12-10** — merged PR [#1110](https://github.com/slackhq/foundry/pull/1110) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small topography fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
