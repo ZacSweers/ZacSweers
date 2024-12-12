@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-11** — created tag `0.23.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-11** — created tag `0.23.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-10** — created tag `0.23.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -13,12 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-10** — merged PR [#1110](https://github.com/slackhq/foundry/pull/1110) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small topography fixes"
 
 **2024-12-10** — merged PR [#1136](https://github.com/slackhq/foundry/pull/1136) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Split out ValidateModuleTopographyTask""
-
-**2024-12-10** — merged PR [#975](https://github.com/slackhq/foundry/pull/975) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.1.0"
-
-**2024-12-10** — opened PR [#1136](https://github.com/slackhq/foundry/pull/1136) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Split out ValidateModuleTopographyTask""
-
-**2024-12-10** — created branch `revert-1133-z/betterValidation` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
