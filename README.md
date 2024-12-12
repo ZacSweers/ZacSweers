@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-11** — opened PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
+
+**2024-12-11** — created branch `z/blankProps` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-11** — created tag `0.23.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-11** — created tag `0.23.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -13,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-10** — merged PR [#1134](https://github.com/slackhq/foundry/pull/1134) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support emulator.wtf"
 
 **2024-12-10** — merged PR [#1110](https://github.com/slackhq/foundry/pull/1110) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small topography fixes"
-
-**2024-12-10** — merged PR [#1136](https://github.com/slackhq/foundry/pull/1136) to [slackhq/foundry](https://github.com/slackhq/foundry): "Revert "Split out ValidateModuleTopographyTask""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
