@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-11** — created tag `0.23.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-12-11** — created tag `0.23.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-11** — merged PR [#1137](https://github.com/slackhq/foundry/pull/1137) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okhttp monorepo to v5.0.0-alpha.14"
 
 **2024-12-11** — merged PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-11** — opened PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
 
 **2024-12-11** — created branch `z/blankProps` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-11** — created tag `0.23.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-11** — created tag `0.23.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
