@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-11** — merged PR [#1137](https://github.com/slackhq/foundry/pull/1137) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okhttp monorepo to v5.0.0-alpha.14"
+
+**2024-12-11** — merged PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
+
+**2024-12-11** — commented on [#1139](https://github.com/slackhq/foundry/pull/1139#issuecomment-2537290475) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-11** — opened PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
 
 **2024-12-11** — created branch `z/lazyLocales` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-11** — created tag `0.23.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-11** — created tag `0.23.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-10** — created tag `0.23.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-10** — merged PR [#1134](https://github.com/slackhq/foundry/pull/1134) to [slackhq/foundry](https://github.com/slackhq/foundry): "Support emulator.wtf"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
