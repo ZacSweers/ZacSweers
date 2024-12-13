@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-12** — merged PR [#340](https://github.com/slackhq/slack-lints/pull/340) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v2"
+
+**2024-12-12** — merged PR [#336](https://github.com/slackhq/slack-lints/pull/336) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.0-1.0.29"
+
+**2024-12-12** — closed PR [#329](https://github.com/slackhq/slack-lints/pull/329) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.0-rc01"
+
+**2024-12-12** — opened PR [#341](https://github.com/slackhq/slack-lints/pull/341) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Don't require ExceptionMessage lint in tests"
+
+**2024-12-12** — created branch `z/allowExceptionMessageIntests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2024-12-12** — merged PR [#339](https://github.com/slackhq/slack-lints/pull/339) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.0"
+
+**2024-12-12** — merged PR [#331](https://github.com/slackhq/slack-lints/pull/331) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.5"
+
+**2024-12-12** — merged PR [#338](https://github.com/slackhq/slack-lints/pull/338) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.5.1"
+
+**2024-12-12** — merged PR [#335](https://github.com/slackhq/slack-lints/pull/335) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.11.1"
+
 **2024-12-12** — created tag `0.23.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-12** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2540183846) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-12** — commented on [#1907](https://github.com/square/moshi/pull/1907#issuecomment-2540103525) in [square/moshi](https://github.com/square/moshi)
-
-**2024-12-12** — closed PR [#1907](https://github.com/square/moshi/pull/1907) to [square/moshi](https://github.com/square/moshi): "Improved Documentation: Added Examples and Error Handling for JsonAdapters"
-
-**2024-12-12** — commented on [#31458](https://github.com/gradle/gradle/issues/31458#issuecomment-2540037221) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2024-12-11** — created tag `0.23.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-11** — created tag `0.23.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-11** — merged PR [#1137](https://github.com/slackhq/foundry/pull/1137) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okhttp monorepo to v5.0.0-alpha.14"
-
-**2024-12-11** — merged PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
-
-**2024-12-11** — commented on [#1139](https://github.com/slackhq/foundry/pull/1139#issuecomment-2537290475) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
