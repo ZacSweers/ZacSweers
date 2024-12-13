@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-12** — commented on [#31458](https://github.com/gradle/gradle/issues/31458#issuecomment-2540037221) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2024-12-11** — created tag `0.23.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-11** — created tag `0.23.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-11** — merged PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
 
 **2024-12-11** — opened PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
-
-**2024-12-11** — created branch `z/blankProps` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
