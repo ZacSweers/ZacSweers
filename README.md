@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-13** — opened PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
+
+**2024-12-13** — created branch `z/skippyRoborazzi` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2024-12-12** — merged PR [#340](https://github.com/slackhq/slack-lints/pull/340) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v2"
 
 **2024-12-12** — merged PR [#336](https://github.com/slackhq/slack-lints/pull/336) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.0-1.0.29"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-12** — merged PR [#331](https://github.com/slackhq/slack-lints/pull/331) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.5"
 
 **2024-12-12** — merged PR [#338](https://github.com/slackhq/slack-lints/pull/338) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.5.1"
-
-**2024-12-12** — merged PR [#335](https://github.com/slackhq/slack-lints/pull/335) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.11.1"
-
-**2024-12-12** — created tag `0.23.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
