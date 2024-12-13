@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-12** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2540183846) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
 **2024-12-12** — commented on [#1907](https://github.com/square/moshi/pull/1907#issuecomment-2540103525) in [square/moshi](https://github.com/square/moshi)
 
 **2024-12-12** — closed PR [#1907](https://github.com/square/moshi/pull/1907) to [square/moshi](https://github.com/square/moshi): "Improved Documentation: Added Examples and Error Handling for JsonAdapters"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-11** — commented on [#1139](https://github.com/slackhq/foundry/pull/1139#issuecomment-2537290475) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-11** — opened PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
-
-**2024-12-11** — created branch `z/lazyLocales` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
