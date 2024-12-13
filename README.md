@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-12** — commented on [#1907](https://github.com/square/moshi/pull/1907#issuecomment-2540103525) in [square/moshi](https://github.com/square/moshi)
+
+**2024-12-12** — closed PR [#1907](https://github.com/square/moshi/pull/1907) to [square/moshi](https://github.com/square/moshi): "Improved Documentation: Added Examples and Error Handling for JsonAdapters"
+
 **2024-12-12** — commented on [#31458](https://github.com/gradle/gradle/issues/31458#issuecomment-2540037221) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2024-12-11** — created tag `0.23.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-11** — opened PR [#1139](https://github.com/slackhq/foundry/pull/1139) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make supported locales lazily computed providers"
 
 **2024-12-11** — created branch `z/lazyLocales` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-11** — merged PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
-
-**2024-12-11** — opened PR [#1138](https://github.com/slackhq/foundry/pull/1138) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add blank behavior controls to PropertyResolver.optionalStringProvider"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
