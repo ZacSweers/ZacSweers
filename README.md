@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-13** — merged PR [#341](https://github.com/slackhq/slack-lints/pull/341) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Don't require ExceptionMessage lint in tests"
+
 **2024-12-13** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2542184564) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-13** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2542178118) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-12** — merged PR [#340](https://github.com/slackhq/slack-lints/pull/340) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v2"
 
 **2024-12-12** — merged PR [#336](https://github.com/slackhq/slack-lints/pull/336) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.0-1.0.29"
-
-**2024-12-12** — closed PR [#329](https://github.com/slackhq/slack-lints/pull/329) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.0-rc01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
