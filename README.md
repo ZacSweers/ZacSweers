@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-13** — created tag `0.23.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2024-12-13** — merged PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
+
 **2024-12-13** — opened PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
 
 **2024-12-13** — created branch `z/skippyRoborazzi` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-12** — created branch `z/allowExceptionMessageIntests` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2024-12-12** — merged PR [#339](https://github.com/slackhq/slack-lints/pull/339) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.0"
-
-**2024-12-12** — merged PR [#331](https://github.com/slackhq/slack-lints/pull/331) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.5"
-
-**2024-12-12** — merged PR [#338](https://github.com/slackhq/slack-lints/pull/338) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.5.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
