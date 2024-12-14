@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-14** — closed issue [#60](https://github.com/slackhq/compose-lints/issues/60) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Sample/documentation to use the lint rules for compose mpp projects"
+
+**2024-12-14** — commented on [#60](https://github.com/slackhq/compose-lints/issues/60#issuecomment-2543080110) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2024-12-13** — merged PR [#341](https://github.com/slackhq/slack-lints/pull/341) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Don't require ExceptionMessage lint in tests"
 
 **2024-12-13** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2542184564) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-13** — opened PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
 
 **2024-12-13** — created branch `z/skippyRoborazzi` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-12** — merged PR [#340](https://github.com/slackhq/slack-lints/pull/340) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.slack.eithernet:eithernet to v2"
-
-**2024-12-12** — merged PR [#336](https://github.com/slackhq/slack-lints/pull/336) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.0-1.0.29"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
