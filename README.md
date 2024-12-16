@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-16** — opened issue [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495) on [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu): "jvmTarget 23 is unsupported"
+
 **2024-12-16** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2544661170) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-15** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2544189088) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-13** — created tag `0.23.7` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2024-12-13** — created tag `0.23.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-13** — merged PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
