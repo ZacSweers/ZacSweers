@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-15** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2544189088) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
 **2024-12-14** — closed issue [#60](https://github.com/slackhq/compose-lints/issues/60) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Sample/documentation to use the lint rules for compose mpp projects"
 
 **2024-12-14** — commented on [#60](https://github.com/slackhq/compose-lints/issues/60#issuecomment-2543080110) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-13** — merged PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
 
 **2024-12-13** — opened PR [#1140](https://github.com/slackhq/foundry/pull/1140) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add skippy support to roborazzi"
-
-**2024-12-13** — created branch `z/skippyRoborazzi` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
