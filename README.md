@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-17** — commented on [#1874](https://github.com/square/moshi/issues/1874#issuecomment-2548753577) in [square/moshi](https://github.com/square/moshi)
+
+**2024-12-17** — reopened issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
+
 **2024-12-16** — opened issue [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495) on [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu): "jvmTarget 23 is unsupported"
 
 **2024-12-16** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2544661170) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-13** — commented on [#84](https://github.com/ZacSweers/anvil/issues/84#issuecomment-2542184564) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-13** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2542178118) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-12-13** — created tag `0.23.7` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2024-12-13** — created tag `0.23.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
