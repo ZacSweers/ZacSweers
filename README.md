@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-19** — commented on [#1852](https://github.com/slackhq/circuit/issues/1852#issuecomment-2555043240) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-18** — commented on [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495#issuecomment-2551888232) in [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
 
 **2024-12-18** — closed issue [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495) on [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu): "jvmTarget 23 is unsupported"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-15** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2544189088) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
 **2024-12-14** — closed issue [#60](https://github.com/slackhq/compose-lints/issues/60) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Sample/documentation to use the lint rules for compose mpp projects"
-
-**2024-12-14** — commented on [#60](https://github.com/slackhq/compose-lints/issues/60#issuecomment-2543080110) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
