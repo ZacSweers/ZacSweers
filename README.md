@@ -4,31 +4,31 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-20** — merged PR [#280](https://github.com/ZacSweers/redacted-compiler-plugin/pull/280) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.5.1"
+
+**2024-12-20** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-2557977208) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-12-20** — closed issue [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "IDE support"
+
+**2024-12-20** — created tag `1.12.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-12-20** — merged PR [#272](https://github.com/ZacSweers/redacted-compiler-plugin/pull/272) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin dokka to v2"
+
+**2024-12-20** — merged PR [#279](https://github.com/ZacSweers/redacted-compiler-plugin/pull/279) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support multiple custom annotations"
+
+**2024-12-20** — opened PR [#279](https://github.com/ZacSweers/redacted-compiler-plugin/pull/279) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support multiple custom annotations"
+
+**2024-12-20** — created branch `z/multiple` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2024-12-20** — merged PR [#278](https://github.com/ZacSweers/redacted-compiler-plugin/pull/278) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Report custom names in FIR errors"
 
 **2024-12-20** — opened PR [#278](https://github.com/ZacSweers/redacted-compiler-plugin/pull/278) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Report custom names in FIR errors"
-
-**2024-12-20** — created branch `z/customNames` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-12-20** — merged PR [#277](https://github.com/ZacSweers/redacted-compiler-plugin/pull/277) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.0.3"
-
-**2024-12-20** — merged PR [#276](https://github.com/ZacSweers/redacted-compiler-plugin/pull/276) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Move checkers to FIR only + run sample tests on KMP"
-
-**2024-12-20** — opened PR [#276](https://github.com/ZacSweers/redacted-compiler-plugin/pull/276) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Move checkers to FIR only + run sample tests on KMP"
-
-**2024-12-20** — created branch `z/firCheckersOnly` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2024-12-20** — merged PR [#275](https://github.com/ZacSweers/redacted-compiler-plugin/pull/275) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix diagnostics reporting in the IDE"
-
-**2024-12-20** — opened PR [#275](https://github.com/ZacSweers/redacted-compiler-plugin/pull/275) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix diagnostics reporting in the IDE"
-
-**2024-12-20** — created branch `z/fixDiagnostics` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-12-20** — Could not load blog content. Please check back later.
+**2024-12-21** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
