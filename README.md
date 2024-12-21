@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-20** — merged PR [#275](https://github.com/ZacSweers/redacted-compiler-plugin/pull/275) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix diagnostics reporting in the IDE"
+
+**2024-12-20** — opened PR [#275](https://github.com/ZacSweers/redacted-compiler-plugin/pull/275) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix diagnostics reporting in the IDE"
+
+**2024-12-20** — created branch `z/fixDiagnostics` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2024-12-20** — merged PR [#273](https://github.com/ZacSweers/redacted-compiler-plugin/pull/273) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.17.0"
+
+**2024-12-20** — merged PR [#274](https://github.com/ZacSweers/redacted-compiler-plugin/pull/274) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.12"
+
 **2024-12-19** — commented on [#1852](https://github.com/slackhq/circuit/issues/1852#issuecomment-2555043240) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-12-18** — commented on [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495#issuecomment-2551888232) in [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-18** — commented on [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495#issuecomment-2551769059) in [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu)
 
 **2024-12-17** — commented on [#1874](https://github.com/square/moshi/issues/1874#issuecomment-2548753577) in [square/moshi](https://github.com/square/moshi)
-
-**2024-12-17** — reopened issue [#1874](https://github.com/square/moshi/issues/1874) on [square/moshi](https://github.com/square/moshi): "KSP2 crash when using @JsonQualifier"
-
-**2024-12-16** — opened issue [#495](https://github.com/Kotlin/kotlinx-atomicfu/issues/495) on [Kotlin/kotlinx-atomicfu](https://github.com/Kotlin/kotlinx-atomicfu): "jvmTarget 23 is unsupported"
-
-**2024-12-16** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2544661170) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-12-15** — commented on [#436](https://github.com/drewhamilton/Poko/issues/436#issuecomment-2544189088) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-14** — closed issue [#60](https://github.com/slackhq/compose-lints/issues/60) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Sample/documentation to use the lint rules for compose mpp projects"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
