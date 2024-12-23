@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-12-21** — merged PR [#695](https://github.com/ZacSweers/MoshiX/pull/695) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.7.3"
+**2024-12-23** — opened PR [#107](https://github.com/ZacSweers/FieldSpottr/pull/107) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update misc"
 
-**2024-12-21** — merged PR [#696](https://github.com/ZacSweers/MoshiX/pull/696) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.7.3"
+**2024-12-23** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2024-12-21** — merged PR [#697](https://github.com/ZacSweers/MoshiX/pull/697) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.2"
+**2024-12-23** — merged PR [#96](https://github.com/ZacSweers/FieldSpottr/pull/96) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.0-1.0.29"
 
-**2024-12-21** — merged PR [#702](https://github.com/ZacSweers/MoshiX/pull/702) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.0"
+**2024-12-23** — merged PR [#98](https://github.com/ZacSweers/FieldSpottr/pull/98) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinInject.anvil to v0.1.2"
 
-**2024-12-21** — merged PR [#703](https://github.com/ZacSweers/MoshiX/pull/703) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.17.0"
+**2024-12-23** — merged PR [#105](https://github.com/ZacSweers/FieldSpottr/pull/105) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.4"
 
-**2024-12-21** — merged PR [#700](https://github.com/ZacSweers/MoshiX/pull/700) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.4.0-jre"
+**2024-12-23** — closed PR [#106](https://github.com/ZacSweers/FieldSpottr/pull/106) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0+check"
 
-**2024-12-21** — opened issue [#704](https://github.com/ZacSweers/MoshiX/issues/704) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Move class generation into subclass + copy default params"
+**2024-12-23** — merged PR [#103](https://github.com/ZacSweers/FieldSpottr/pull/103) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx-coroutines monorepo to v1.10.1"
 
-**2024-12-20** — merged PR [#280](https://github.com/ZacSweers/redacted-compiler-plugin/pull/280) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.5.1"
+**2024-12-23** — merged PR [#101](https://github.com/ZacSweers/FieldSpottr/pull/101) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.0.3"
 
-**2024-12-20** — commented on [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8#issuecomment-2557977208) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-12-23** — merged PR [#99](https://github.com/ZacSweers/FieldSpottr/pull/99) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.0"
 
-**2024-12-20** — closed issue [#8](https://github.com/ZacSweers/redacted-compiler-plugin/issues/8) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "IDE support"
+**2024-12-23** — merged PR [#95](https://github.com/ZacSweers/FieldSpottr/pull/95) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.10.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
