@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-24** — merged PR [#109](https://github.com/ZacSweers/FieldSpottr/pull/109) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
+
 **2024-12-23** — merged PR [#108](https://github.com/ZacSweers/FieldSpottr/pull/108) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Work around another broken city API"
 
 **2024-12-23** — opened PR [#108](https://github.com/ZacSweers/FieldSpottr/pull/108) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Work around another broken city API"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-23** — merged PR [#98](https://github.com/ZacSweers/FieldSpottr/pull/98) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinInject.anvil to v0.1.2"
 
 **2024-12-23** — merged PR [#105](https://github.com/ZacSweers/FieldSpottr/pull/105) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.4"
-
-**2024-12-23** — closed PR [#106](https://github.com/ZacSweers/FieldSpottr/pull/106) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0+check"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
