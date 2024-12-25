@@ -4,25 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-25** — commented on [#76](https://github.com/ZacSweers/anvil/issues/76#issuecomment-2562012502) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2024-12-25** — opened issue [#458](https://github.com/evant/kotlin-inject/issues/458) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "[KSP2] kotlin-inject doesn't link typealiases for functions to their function"
+
+**2024-12-25** — commented on [#1868](https://github.com/slackhq/circuit/pull/1868#issuecomment-2562007886) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-12-25** — commented on [#1857](https://github.com/slackhq/circuit/pull/1857#issuecomment-2562007855) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-12-25** — commented on [#1860](https://github.com/slackhq/circuit/pull/1860#issuecomment-2562007824) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2024-12-25** — commented on [#1866](https://github.com/slackhq/circuit/pull/1866#issuecomment-2562007806) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-25** — merged PR [#1861](https://github.com/slackhq/circuit/pull/1861) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
-
-**2024-12-25** — closed PR [#1850](https://github.com/slackhq/circuit/pull/1850) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency org.jetbrains.dokka to v2"
-
-**2024-12-24** — merged PR [#109](https://github.com/ZacSweers/FieldSpottr/pull/109) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
-
-**2024-12-23** — merged PR [#108](https://github.com/ZacSweers/FieldSpottr/pull/108) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Work around another broken city API"
-
-**2024-12-23** — opened PR [#108](https://github.com/ZacSweers/FieldSpottr/pull/108) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Work around another broken city API"
-
-**2024-12-23** — created branch `z/fixPermits` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-12-23** — merged PR [#107](https://github.com/ZacSweers/FieldSpottr/pull/107) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update misc"
-
-**2024-12-23** — opened PR [#107](https://github.com/ZacSweers/FieldSpottr/pull/107) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update misc"
-
-**2024-12-23** — created branch `z/updates` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2024-12-23** — merged PR [#96](https://github.com/ZacSweers/FieldSpottr/pull/96) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.0-1.0.29"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
