@@ -52,8 +52,6 @@ java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
 application { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") }
 
-compose { experimental { web.application {} } }
-
 kotlin {
   // region KMP Targets
   jvm()
