@@ -4,31 +4,31 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-12-01** — merged PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
+**2024-12-26** — merged PR [#219](https://github.com/ZacSweers/ZacSweers/pull/219) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.1"
 
-**2024-12-01** — opened PR [#694](https://github.com/ZacSweers/MoshiX/pull/694) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Remove various impl APIs"
+**2024-12-26** — merged PR [#216](https://github.com/ZacSweers/ZacSweers/pull/216) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.90.3"
 
-**2024-12-01** — created branch `z/lessImpls` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-12-26** — merged PR [#213](https://github.com/ZacSweers/ZacSweers/pull/213) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.7.3"
 
-**2024-11-29** — commented on [#2029](https://github.com/square/kotlinpoet/pull/2029#issuecomment-2508543909) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2024-12-26** — merged PR [#215](https://github.com/ZacSweers/ZacSweers/pull/215) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.0-1.0.29"
 
-**2024-11-29** — closed issue [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Can it support customizing the class name of the data class?"
+**2024-12-26** — merged PR [#217](https://github.com/ZacSweers/ZacSweers/pull/217) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.27.0"
 
-**2024-11-29** — commented on [#271](https://github.com/ZacSweers/redacted-compiler-plugin/issues/271#issuecomment-2507688169) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-12-26** — merged PR [#214](https://github.com/ZacSweers/ZacSweers/pull/214) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.1.0"
 
-**2024-11-28** — commented on [#1910](https://github.com/square/moshi/issues/1910#issuecomment-2507070622) in [square/moshi](https://github.com/square/moshi)
+**2024-12-26** — merged PR [#218](https://github.com/ZacSweers/ZacSweers/pull/218) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.slack.eithernet:eithernet to v2"
 
-**2024-11-28** — created branch `renovate/major-kotlinpoet` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-12-26** — merged PR [#211](https://github.com/ZacSweers/ZacSweers/pull/211) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.12"
 
-**2024-11-28** — created tag `1.11.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2024-12-25** — commented on [#76](https://github.com/ZacSweers/anvil/issues/76#issuecomment-2562012502) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
-**2024-11-28** — created tag `0.29.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+**2024-12-25** — opened issue [#458](https://github.com/evant/kotlin-inject/issues/458) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "[KSP2] kotlin-inject doesn't link typealiases for functions to their function"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
-**2024-12-02** — Could not load blog content. Please check back later.
+**2024-12-26** — Could not load blog content. Please check back later.
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>

@@ -1,18 +1,18 @@
 [versions]
-compose = "1.6.11"
-jdk = "21"
-kotlin = "2.0.20"
+compose = "1.7.3"
+jdk = "23"
+kotlin = "2.1.0"
 kotlinx-serialization = "1.7.3"
-ktor = "3.0.0-wasm2"
-markdown = "0.26.0"
-xmlutil = "0.90.1"
+ktor = "3.0.3"
+markdown = "0.27.0"
+xmlutil = "0.90.3"
 
 [plugins]
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
 kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
 kotlin-plugin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
-ksp = { id = "com.google.devtools.ksp", version = "2.0.20-1.0.25" }
+ksp = { id = "com.google.devtools.ksp", version = "2.1.0-1.0.29" }
 spotless = { id = "com.diffplug.spotless", version = "6.25.0" }
 
 [libraries]
@@ -20,8 +20,8 @@ clikt = "com.github.ajalt.clikt:clikt:5.0.2"
 compose-markdown = { module = "com.mikepenz:multiplatform-markdown-renderer", version.ref = "markdown" }
 compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m3", version.ref = "markdown" }
 compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "compose" }
-eithernet = "com.slack.eithernet:eithernet:1.9.0"
-kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0"
+eithernet = "com.slack.eithernet:eithernet:2.0.0"
+kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.1"
 kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.6.1"
 kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json-okio", version.ref = "kotlinx-serialization" }
 kotlinx-serialization-xml-core = { module = "io.github.pdvrieze.xmlutil:core", version.ref = "xmlutil" }
