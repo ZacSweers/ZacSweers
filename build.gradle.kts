@@ -19,7 +19,6 @@
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.dsl.KotlinJsCompile
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
-import org.jetbrains.kotlin.gradle.targets.js.nodejs.NodeJsRootExtension
 import org.jetbrains.kotlin.gradle.targets.js.npm.LockStoreTask
 import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
@@ -78,7 +77,8 @@ kotlin {
         implementation(libs.ktor.client.contentNegotiation)
         implementation(libs.ktor.serialization.json)
         implementation(libs.okio)
-        implementation(libs.mordant)
+        implementation(libs.mordant.coroutines)
+        implementation(libs.mordant.markdown)
       }
     }
     jvmMain {
@@ -132,18 +132,9 @@ tasks.named<Jar>("jar") {
   duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }
 
-// a temporary workaround for a bug in jsRun invocation - see
-// https://youtrack.jetbrains.com/issue/KT-48273
-afterEvaluate {
-  rootProject.extensions.configure<NodeJsRootExtension> {
-    versions.webpackDevServer.version = "4.0.0"
-    versions.webpackCli.version = "4.10.0"
-  }
-}
-
 spotless {
-  kotlin { ktfmt("0.47").googleStyle() }
-  kotlinGradle { ktfmt("0.47").googleStyle() }
+  kotlin { ktfmt("0.53").googleStyle() }
+  kotlinGradle { ktfmt("0.53").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {
