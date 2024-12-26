@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-26** — merged PR [#209](https://github.com/ZacSweers/ZacSweers/pull/209) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v5"
+
+**2024-12-26** — closed PR [#205](https://github.com/ZacSweers/ZacSweers/pull/205) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.mordant:mordant-coroutines to v3"
+
 **2024-12-26** — merged PR [#212](https://github.com/ZacSweers/ZacSweers/pull/212) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo"
 
 **2024-12-26** — closed PR [#220](https://github.com/ZacSweers/ZacSweers/pull/220) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.0+check"
@@ -13,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-26** — merged PR [#216](https://github.com/ZacSweers/ZacSweers/pull/216) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.90.3"
 
 **2024-12-26** — merged PR [#213](https://github.com/ZacSweers/ZacSweers/pull/213) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.7.3"
-
-**2024-12-26** — merged PR [#215](https://github.com/ZacSweers/ZacSweers/pull/215) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.0-1.0.29"
-
-**2024-12-26** — merged PR [#217](https://github.com/ZacSweers/ZacSweers/pull/217) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.27.0"
-
-**2024-12-26** — merged PR [#214](https://github.com/ZacSweers/ZacSweers/pull/214) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
