@@ -25,7 +25,7 @@ class ReadMeUpdater {
       json(json = Json { ignoreUnknownKeys = true })
       xml(
         format = XML { defaultPolicy { ignoreUnknownChildren() } },
-        contentType = ContentType.Text.Xml,
+        contentType = ContentType.Application.Rss,
       )
     }
   }
