@@ -78,7 +78,8 @@ kotlin {
         implementation(libs.ktor.client.contentNegotiation)
         implementation(libs.ktor.serialization.json)
         implementation(libs.okio)
-        implementation(libs.mordant)
+        implementation(libs.mordant.coroutines)
+        implementation(libs.mordant.markdown)
       }
     }
     jvmMain {
@@ -132,18 +133,9 @@ tasks.named<Jar>("jar") {
   duplicatesStrategy = DuplicatesStrategy.EXCLUDE
 }
 
-// a temporary workaround for a bug in jsRun invocation - see
-// https://youtrack.jetbrains.com/issue/KT-48273
-afterEvaluate {
-  rootProject.extensions.configure<NodeJsRootExtension> {
-    versions.webpackDevServer.version = "4.0.0"
-    versions.webpackCli.version = "4.10.0"
-  }
-}
-
 spotless {
-  kotlin { ktfmt("0.47").googleStyle() }
-  kotlinGradle { ktfmt("0.47").googleStyle() }
+  kotlin { ktfmt("0.53").googleStyle() }
+  kotlinGradle { ktfmt("0.53").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {
