@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-26** — merged PR [#219](https://github.com/ZacSweers/ZacSweers/pull/219) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.1"
+
+**2024-12-26** — merged PR [#216](https://github.com/ZacSweers/ZacSweers/pull/216) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.90.3"
+
+**2024-12-26** — merged PR [#213](https://github.com/ZacSweers/ZacSweers/pull/213) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.7.3"
+
 **2024-12-26** — merged PR [#215](https://github.com/ZacSweers/ZacSweers/pull/215) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.0-1.0.29"
 
 **2024-12-26** — merged PR [#217](https://github.com/ZacSweers/ZacSweers/pull/217) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.27.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-25** — commented on [#76](https://github.com/ZacSweers/anvil/issues/76#issuecomment-2562012502) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-25** — opened issue [#458](https://github.com/evant/kotlin-inject/issues/458) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "[KSP2] kotlin-inject doesn't link typealiases for functions to their function"
-
-**2024-12-25** — commented on [#1868](https://github.com/slackhq/circuit/pull/1868#issuecomment-2562007886) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-25** — commented on [#1857](https://github.com/slackhq/circuit/pull/1857#issuecomment-2562007855) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-25** — commented on [#1860](https://github.com/slackhq/circuit/pull/1860#issuecomment-2562007824) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
