@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-27** — closed issue [#1852](https://github.com/slackhq/circuit/issues/1852) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add `BottomSheetOverlay` Explanation in Document's Overlays Section"
+
+**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858409) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
+**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858014) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
 **2024-12-27** — commented on [#460](https://github.com/drewhamilton/Poko/pull/460#issuecomment-2563361279) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
 **2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563360410) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-26** — closed PR [#220](https://github.com/ZacSweers/ZacSweers/pull/220) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.0+check"
 
 **2024-12-26** — merged PR [#219](https://github.com/ZacSweers/ZacSweers/pull/219) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.1"
-
-**2024-12-26** — merged PR [#216](https://github.com/ZacSweers/ZacSweers/pull/216) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.90.3"
-
-**2024-12-26** — merged PR [#213](https://github.com/ZacSweers/ZacSweers/pull/213) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.7.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
