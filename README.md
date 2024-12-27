@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-27** — commented on [#460](https://github.com/drewhamilton/Poko/pull/460#issuecomment-2563361279) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
+**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563360410) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+
 **2024-12-26** — merged PR [#209](https://github.com/ZacSweers/ZacSweers/pull/209) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v5"
 
 **2024-12-26** — closed PR [#205](https://github.com/ZacSweers/ZacSweers/pull/205) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.mordant:mordant-coroutines to v3"
