@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-30** — opened issue [#2282](https://github.com/google/ksp/issues/2282) on [google/ksp](https://github.com/google/ksp): "KSP2 Performance Issues"
+
 **2024-12-28** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2564514746) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-12-28** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2564514710) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858014) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
 **2024-12-27** — commented on [#460](https://github.com/drewhamilton/Poko/pull/460#issuecomment-2563361279) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563360410) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
