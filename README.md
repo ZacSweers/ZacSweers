@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2024-12-30** — opened issue [#2282](https://github.com/google/ksp/issues/2282) on [google/ksp](https://github.com/google/ksp): "KSP2 Performance Issues"
-
-**2024-12-28** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2564514746) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-12-28** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2564514710) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-12-28** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2564494000) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-12-28** — merged PR [#312](https://github.com/ZacSweers/kotlin-compile-testing/pull/312) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.0"
-
-**2024-12-28** — merged PR [#313](https://github.com/ZacSweers/kotlin-compile-testing/pull/313) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.12"
-
-**2024-12-27** — closed issue [#1852](https://github.com/slackhq/circuit/issues/1852) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add `BottomSheetOverlay` Explanation in Document's Overlays Section"
-
-**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858409) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858014) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-27** — commented on [#460](https://github.com/drewhamilton/Poko/pull/460#issuecomment-2563361279) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
+**2024-12-31** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
