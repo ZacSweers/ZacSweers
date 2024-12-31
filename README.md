@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-31** — commented on [#458](https://github.com/evant/kotlin-inject/issues/458#issuecomment-2566679531) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
+
 **2024-12-31** — merged PR [#1870](https://github.com/slackhq/circuit/pull/1870) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix variable casing in Navigation documentation example"
 
 **2024-12-31** — commented on [#1870](https://github.com/slackhq/circuit/pull/1870#issuecomment-2566530231) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-28** — merged PR [#313](https://github.com/ZacSweers/kotlin-compile-testing/pull/313) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.12"
 
 **2024-12-27** — closed issue [#1852](https://github.com/slackhq/circuit/issues/1852) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add `BottomSheetOverlay` Explanation in Document's Overlays Section"
-
-**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858409) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
