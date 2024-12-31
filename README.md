@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2024-12-31** — merged PR [#1870](https://github.com/slackhq/circuit/pull/1870) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix variable casing in Navigation documentation example"
+
 **2024-12-31** — commented on [#1870](https://github.com/slackhq/circuit/pull/1870#issuecomment-2566530231) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-12-30** — opened issue [#2282](https://github.com/google/ksp/issues/2282) on [google/ksp](https://github.com/google/ksp): "KSP2 Performance Issues"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-27** — closed issue [#1852](https://github.com/slackhq/circuit/issues/1852) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add `BottomSheetOverlay` Explanation in Document's Overlays Section"
 
 **2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858409) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2024-12-27** — commented on [#457](https://github.com/drewhamilton/Poko/pull/457#issuecomment-2563858014) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
