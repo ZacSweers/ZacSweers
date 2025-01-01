@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-01** — merged PR [#83](https://github.com/ZacSweers/anvil/pull/83) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "ContributeSubComponent: Support returning Super Type"
+
+**2025-01-01** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2567157756) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2024-12-31** — commented on [#458](https://github.com/evant/kotlin-inject/issues/458#issuecomment-2566679531) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
 
 **2024-12-31** — merged PR [#1870](https://github.com/slackhq/circuit/pull/1870) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix variable casing in Navigation documentation example"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-28** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2564494000) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2024-12-28** — merged PR [#312](https://github.com/ZacSweers/kotlin-compile-testing/pull/312) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.0"
-
-**2024-12-28** — merged PR [#313](https://github.com/ZacSweers/kotlin-compile-testing/pull/313) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.12"
-
-**2024-12-27** — closed issue [#1852](https://github.com/slackhq/circuit/issues/1852) on [slackhq/circuit](https://github.com/slackhq/circuit): "Add `BottomSheetOverlay` Explanation in Document's Overlays Section"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
