@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-02** — merged PR [#1677](https://github.com/slackhq/circuit/pull/1677) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.0"
+
+**2025-01-02** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2568421743) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-01-02** — merged PR [#1732](https://github.com/slackhq/circuit/pull/1732) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Dokka 2.0.0"
 
 **2025-01-01** — merged PR [#83](https://github.com/ZacSweers/anvil/pull/83) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "ContributeSubComponent: Support returning Super Type"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-30** — opened issue [#2282](https://github.com/google/ksp/issues/2282) on [google/ksp](https://github.com/google/ksp): "KSP2 Performance Issues"
 
 **2024-12-28** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2564514746) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-12-28** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2564514710) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2024-12-28** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2564494000) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
