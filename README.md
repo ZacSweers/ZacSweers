@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-02** — merged PR [#1732](https://github.com/slackhq/circuit/pull/1732) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Dokka 2.0.0"
+
 **2025-01-01** — merged PR [#83](https://github.com/ZacSweers/anvil/pull/83) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "ContributeSubComponent: Support returning Super Type"
 
 **2025-01-01** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2567157756) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-12-28** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2564514710) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2024-12-28** — commented on [#83](https://github.com/ZacSweers/anvil/pull/83#issuecomment-2564494000) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2024-12-28** — merged PR [#312](https://github.com/ZacSweers/kotlin-compile-testing/pull/312) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
