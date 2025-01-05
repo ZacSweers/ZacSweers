@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-05** — merged PR [#114](https://github.com/ZacSweers/FieldSpottr/pull/114) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
+
 **2025-01-04** — merged PR [#113](https://github.com/ZacSweers/FieldSpottr/pull/113) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.4.0"
 
 **2025-01-04** — merged PR [#112](https://github.com/ZacSweers/FieldSpottr/pull/112) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.3.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-01** — merged PR [#83](https://github.com/ZacSweers/anvil/pull/83) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "ContributeSubComponent: Support returning Super Type"
 
 **2025-01-01** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2567157756) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-31** — commented on [#458](https://github.com/evant/kotlin-inject/issues/458#issuecomment-2566679531) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
