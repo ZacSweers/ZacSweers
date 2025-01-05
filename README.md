@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-04** — merged PR [#113](https://github.com/ZacSweers/FieldSpottr/pull/113) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.4.0"
+
+**2025-01-04** — merged PR [#112](https://github.com/ZacSweers/FieldSpottr/pull/112) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.3.0"
+
+**2025-01-04** — merged PR [#111](https://github.com/ZacSweers/FieldSpottr/pull/111) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.7.0"
+
+**2025-01-04** — merged PR [#110](https://github.com/ZacSweers/FieldSpottr/pull/110) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
+
 **2025-01-02** — merged PR [#1677](https://github.com/slackhq/circuit/pull/1677) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.0"
 
 **2025-01-02** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2568421743) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-01** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2567157756) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2024-12-31** — commented on [#458](https://github.com/evant/kotlin-inject/issues/458#issuecomment-2566679531) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
-
-**2024-12-31** — merged PR [#1870](https://github.com/slackhq/circuit/pull/1870) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix variable casing in Navigation documentation example"
-
-**2024-12-31** — commented on [#1870](https://github.com/slackhq/circuit/pull/1870#issuecomment-2566530231) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2024-12-30** — opened issue [#2282](https://github.com/google/ksp/issues/2282) on [google/ksp](https://github.com/google/ksp): "KSP2 Performance Issues"
-
-**2024-12-28** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2564514746) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
