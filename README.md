@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-07** — merged PR [#707](https://github.com/ZacSweers/MoshiX/pull/707) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0"
+
+**2025-01-07** — commented on [#1772](https://github.com/ZacSweers/CatchUp/issues/1772#issuecomment-2574540387) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2025-01-07** — closed issue [#1772](https://github.com/ZacSweers/CatchUp/issues/1772) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Question about handling Toast and Snackbar in Circuit: Presenter vs UI "
+
 **2025-01-06** — merged PR [#281](https://github.com/ZacSweers/redacted-compiler-plugin/pull/281) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0"
 
 **2025-01-06** — opened issue [#526](https://github.com/facebook/ktfmt/issues/526) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "IntelliJ plugin does not optimized/prune unused imports"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-04** — merged PR [#111](https://github.com/ZacSweers/FieldSpottr/pull/111) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.7.0"
 
 **2025-01-04** — merged PR [#110](https://github.com/ZacSweers/FieldSpottr/pull/110) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
-
-**2025-01-02** — merged PR [#1677](https://github.com/slackhq/circuit/pull/1677) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.0"
-
-**2025-01-02** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2568421743) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-01-02** — merged PR [#1732](https://github.com/slackhq/circuit/pull/1732) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Dokka 2.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
