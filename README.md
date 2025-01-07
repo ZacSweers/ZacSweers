@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-06** — merged PR [#281](https://github.com/ZacSweers/redacted-compiler-plugin/pull/281) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0"
+
 **2025-01-06** — opened issue [#526](https://github.com/facebook/ktfmt/issues/526) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "IntelliJ plugin does not optimized/prune unused imports"
 
 **2025-01-05** — merged PR [#114](https://github.com/ZacSweers/FieldSpottr/pull/114) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-02** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2568421743) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-01-02** — merged PR [#1732](https://github.com/slackhq/circuit/pull/1732) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Dokka 2.0.0"
-
-**2025-01-01** — merged PR [#83](https://github.com/ZacSweers/anvil/pull/83) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "ContributeSubComponent: Support returning Super Type"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
