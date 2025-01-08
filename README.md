@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-01-07** — merged PR [#707](https://github.com/ZacSweers/MoshiX/pull/707) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0"
-
-**2025-01-07** — commented on [#1772](https://github.com/ZacSweers/CatchUp/issues/1772#issuecomment-2574540387) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-01-07** — closed issue [#1772](https://github.com/ZacSweers/CatchUp/issues/1772) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Question about handling Toast and Snackbar in Circuit: Presenter vs UI "
-
-**2025-01-06** — merged PR [#281](https://github.com/ZacSweers/redacted-compiler-plugin/pull/281) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0"
-
-**2025-01-06** — opened issue [#526](https://github.com/facebook/ktfmt/issues/526) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "IntelliJ plugin does not optimized/prune unused imports"
-
-**2025-01-05** — merged PR [#114](https://github.com/ZacSweers/FieldSpottr/pull/114) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
-
-**2025-01-04** — merged PR [#113](https://github.com/ZacSweers/FieldSpottr/pull/113) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.4.0"
-
-**2025-01-04** — merged PR [#112](https://github.com/ZacSweers/FieldSpottr/pull/112) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.3.0"
-
-**2025-01-04** — merged PR [#111](https://github.com/ZacSweers/FieldSpottr/pull/111) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.7.0"
-
-**2025-01-04** — merged PR [#110](https://github.com/ZacSweers/FieldSpottr/pull/110) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
+**2025-01-08** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
