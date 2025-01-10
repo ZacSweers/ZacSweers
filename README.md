@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-09** — opened PR [#1170](https://github.com/slackhq/foundry/pull/1170) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add new Dagger 2.55 option"
+
+**2025-01-09** — created branch `z/newDaggerOption` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-01-08** — commented on [#29700](https://github.com/gradle/gradle/issues/29700#issuecomment-2578455597) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-01-07** — merged PR [#707](https://github.com/ZacSweers/MoshiX/pull/707) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-05** — merged PR [#114](https://github.com/ZacSweers/FieldSpottr/pull/114) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
 
 **2025-01-04** — merged PR [#113](https://github.com/ZacSweers/FieldSpottr/pull/113) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.4.0"
-
-**2025-01-04** — merged PR [#112](https://github.com/ZacSweers/FieldSpottr/pull/112) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.3.0"
-
-**2025-01-04** — merged PR [#111](https://github.com/ZacSweers/FieldSpottr/pull/111) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
