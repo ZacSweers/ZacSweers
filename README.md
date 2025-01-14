@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-13** — merged PR [#705](https://github.com/ZacSweers/MoshiX/pull/705) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12"
+
+**2025-01-13** — merged PR [#706](https://github.com/ZacSweers/MoshiX/pull/706) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.2"
+
+**2025-01-13** — merged PR [#708](https://github.com/ZacSweers/MoshiX/pull/708) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.1"
+
+**2025-01-13** — merged PR [#709](https://github.com/ZacSweers/MoshiX/pull/709) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.8.0"
+
+**2025-01-13** — commented on [#123](https://github.com/square/gradle-dependencies-sorter/pull/123#issuecomment-2587783688) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
+
+**2025-01-13** — merged PR [#282](https://github.com/ZacSweers/redacted-compiler-plugin/pull/282) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.1"
+
+**2025-01-13** — merged PR [#710](https://github.com/ZacSweers/MoshiX/pull/710) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.8.0"
+
 **2025-01-10** — merged PR [#1886](https://github.com/slackhq/circuit/pull/1886) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
 
 **2025-01-10** — merged PR [#1878](https://github.com/slackhq/circuit/pull/1878) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
 
 **2025-01-10** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2581796440) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-01-09** — opened PR [#1170](https://github.com/slackhq/foundry/pull/1170) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add new Dagger 2.55 option"
-
-**2025-01-09** — created branch `z/newDaggerOption` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-01-08** — commented on [#29700](https://github.com/gradle/gradle/issues/29700#issuecomment-2578455597) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-01-07** — merged PR [#707](https://github.com/ZacSweers/MoshiX/pull/707) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.0"
-
-**2025-01-07** — commented on [#1772](https://github.com/ZacSweers/CatchUp/issues/1772#issuecomment-2574540387) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-01-07** — closed issue [#1772](https://github.com/ZacSweers/CatchUp/issues/1772) on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Question about handling Toast and Snackbar in Circuit: Presenter vs UI "
-
-**2025-01-06** — merged PR [#281](https://github.com/ZacSweers/redacted-compiler-plugin/pull/281) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
