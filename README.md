@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-13** — created tag `0.4.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2025-01-13** — closed issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
+
+**2025-01-13** — merged PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
+
 **2025-01-13** — opened PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
 
 **2025-01-13** — created branch `z/jakartaFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — merged PR [#709](https://github.com/ZacSweers/MoshiX/pull/709) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.8.0"
 
 **2025-01-13** — commented on [#123](https://github.com/square/gradle-dependencies-sorter/pull/123#issuecomment-2587783688) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
-
-**2025-01-13** — merged PR [#282](https://github.com/ZacSweers/redacted-compiler-plugin/pull/282) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.1"
-
-**2025-01-13** — merged PR [#710](https://github.com/ZacSweers/MoshiX/pull/710) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.8.0"
-
-**2025-01-10** — merged PR [#1886](https://github.com/slackhq/circuit/pull/1886) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
