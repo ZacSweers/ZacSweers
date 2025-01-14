@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-13** — opened PR [#749](https://github.com/androidx/androidx/pull/749) to [androidx/androidx](https://github.com/androidx/androidx): "Remove unused kotlin-reflect dependency from glance-appwidget-preview"
+
 **2025-01-13** — created tag `0.4.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2025-01-13** — closed issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — merged PR [#708](https://github.com/ZacSweers/MoshiX/pull/708) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.1"
 
 **2025-01-13** — merged PR [#709](https://github.com/ZacSweers/MoshiX/pull/709) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.8.0"
-
-**2025-01-13** — commented on [#123](https://github.com/square/gradle-dependencies-sorter/pull/123#issuecomment-2587783688) in [square/gradle-dependencies-sorter](https://github.com/square/gradle-dependencies-sorter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
