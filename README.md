@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-13** — opened PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
+
+**2025-01-13** — created branch `z/jakartaFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2025-01-13** — merged PR [#705](https://github.com/ZacSweers/MoshiX/pull/705) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12"
 
 **2025-01-13** — merged PR [#706](https://github.com/ZacSweers/MoshiX/pull/706) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — merged PR [#710](https://github.com/ZacSweers/MoshiX/pull/710) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.8.0"
 
 **2025-01-10** — merged PR [#1886](https://github.com/slackhq/circuit/pull/1886) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
-
-**2025-01-10** — merged PR [#1878](https://github.com/slackhq/circuit/pull/1878) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
-
-**2025-01-10** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2581796440) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
