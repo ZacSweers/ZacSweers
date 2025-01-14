@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-14** — commented on [#87](https://github.com/ZacSweers/anvil/issues/87#issuecomment-2589223804) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
 **2025-01-13** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2588872982) in [google/ksp](https://github.com/google/ksp)
 
 **2025-01-13** — commented on [#749](https://github.com/androidx/androidx/pull/749#issuecomment-2588277171) in [androidx/androidx](https://github.com/androidx/androidx)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — created branch `z/jakartaFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2025-01-13** — merged PR [#705](https://github.com/ZacSweers/MoshiX/pull/705) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12"
-
-**2025-01-13** — merged PR [#706](https://github.com/ZacSweers/MoshiX/pull/706) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
