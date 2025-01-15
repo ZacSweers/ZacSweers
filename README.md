@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-14** — opened issue [#1177](https://github.com/slackhq/foundry/issues/1177) on [slackhq/foundry](https://github.com/slackhq/foundry): "Project validation: check for wrong source sets"
+
 **2025-01-14** — commented on [#87](https://github.com/ZacSweers/anvil/issues/87#issuecomment-2589223804) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2025-01-13** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2588872982) in [google/ksp](https://github.com/google/ksp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — opened PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
 
 **2025-01-13** — created branch `z/jakartaFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2025-01-13** — merged PR [#705](https://github.com/ZacSweers/MoshiX/pull/705) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
