@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-16** — commented on [#32050](https://github.com/gradle/gradle/issues/32050#issuecomment-2596211050) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2025-01-15** — opened issue [#32050](https://github.com/gradle/gradle/issues/32050) on [gradle/gradle](https://github.com/gradle/gradle): "BuildFeatures API reports the wrong information about configuration cache"
 
 **2025-01-15** — opened PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — opened PR [#749](https://github.com/androidx/androidx/pull/749) to [androidx/androidx](https://github.com/androidx/androidx): "Remove unused kotlin-reflect dependency from glance-appwidget-preview"
 
 **2025-01-13** — created tag `0.4.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2025-01-13** — closed issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
