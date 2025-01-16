@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-15** — opened issue [#32050](https://github.com/gradle/gradle/issues/32050) on [gradle/gradle](https://github.com/gradle/gradle): "BuildFeatures API reports the wrong information about configuration cache"
+
 **2025-01-15** — opened PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
 
 **2025-01-15** — created branch `z/reproFir` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — created tag `0.4.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2025-01-13** — closed issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
-
-**2025-01-13** — merged PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
