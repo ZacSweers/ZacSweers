@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-15** — opened PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
+
+**2025-01-15** — created branch `z/reproFir` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2025-01-14** — opened issue [#1177](https://github.com/slackhq/foundry/issues/1177) on [slackhq/foundry](https://github.com/slackhq/foundry): "Project validation: check for wrong source sets"
 
 **2025-01-14** — commented on [#87](https://github.com/ZacSweers/anvil/issues/87#issuecomment-2589223804) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-13** — closed issue [#76](https://github.com/ZacSweers/anvil/issues/76) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Support Jakarta"
 
 **2025-01-13** — merged PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
-
-**2025-01-13** — opened PR [#86](https://github.com/ZacSweers/anvil/pull/86) to [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Fix missing jakarta inject constructors"
-
-**2025-01-13** — created branch `z/jakartaFixes` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
