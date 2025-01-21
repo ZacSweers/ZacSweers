@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-21** — commented on [#32050](https://github.com/gradle/gradle/issues/32050#issuecomment-2605067220) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2025-01-20** — created branch `z/daggerPlayground` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-01-20** — merged PR [#1804](https://github.com/ZacSweers/CatchUp/pull/1804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlinx-coroutines monorepo to v1.10.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-20** — merged PR [#1806](https://github.com/ZacSweers/CatchUp/pull/1806) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.19"
 
 **2025-01-20** — merged PR [#1805](https://github.com/ZacSweers/CatchUp/pull/1805) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.10.2"
-
-**2025-01-20** — merged PR [#1801](https://github.com/ZacSweers/CatchUp/pull/1801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.273.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
