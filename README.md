@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-01-16** — commented on [#32050](https://github.com/gradle/gradle/issues/32050#issuecomment-2596211050) in [gradle/gradle](https://github.com/gradle/gradle)
+**2025-01-20** — merged PR [#1774](https://github.com/ZacSweers/CatchUp/pull/1774) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha12"
 
-**2025-01-15** — opened issue [#32050](https://github.com/gradle/gradle/issues/32050) on [gradle/gradle](https://github.com/gradle/gradle): "BuildFeatures API reports the wrong information about configuration cache"
+**2025-01-20** — merged PR [#1773](https://github.com/ZacSweers/CatchUp/pull/1773) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0"
 
-**2025-01-15** — opened PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
+**2025-01-20** — merged PR [#1786](https://github.com/ZacSweers/CatchUp/pull/1786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.2"
 
-**2025-01-15** — created branch `z/reproFir` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2025-01-20** — merged PR [#1809](https://github.com/ZacSweers/CatchUp/pull/1809) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.14.0"
 
-**2025-01-14** — opened issue [#1177](https://github.com/slackhq/foundry/issues/1177) on [slackhq/foundry](https://github.com/slackhq/foundry): "Project validation: check for wrong source sets"
+**2025-01-20** — merged PR [#1807](https://github.com/ZacSweers/CatchUp/pull/1807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.12.1"
 
-**2025-01-14** — commented on [#87](https://github.com/ZacSweers/anvil/issues/87#issuecomment-2589223804) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2025-01-20** — merged PR [#1806](https://github.com/ZacSweers/CatchUp/pull/1806) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.19"
 
-**2025-01-13** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2588872982) in [google/ksp](https://github.com/google/ksp)
+**2025-01-20** — merged PR [#1805](https://github.com/ZacSweers/CatchUp/pull/1805) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.10.2"
 
-**2025-01-13** — commented on [#749](https://github.com/androidx/androidx/pull/749#issuecomment-2588277171) in [androidx/androidx](https://github.com/androidx/androidx)
+**2025-01-20** — merged PR [#1801](https://github.com/ZacSweers/CatchUp/pull/1801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.273.0"
 
-**2025-01-13** — opened PR [#749](https://github.com/androidx/androidx/pull/749) to [androidx/androidx](https://github.com/androidx/androidx): "Remove unused kotlin-reflect dependency from glance-appwidget-preview"
+**2025-01-20** — merged PR [#1800](https://github.com/ZacSweers/CatchUp/pull/1800) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.8.0"
 
-**2025-01-13** — created tag `0.4.1` on [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+**2025-01-20** — merged PR [#1799](https://github.com/ZacSweers/CatchUp/pull/1799) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
