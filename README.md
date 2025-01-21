@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-20** — created branch `z/daggerPlayground` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-01-20** — merged PR [#1804](https://github.com/ZacSweers/CatchUp/pull/1804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlinx-coroutines monorepo to v1.10.1"
+
 **2025-01-20** — merged PR [#1774](https://github.com/ZacSweers/CatchUp/pull/1774) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha12"
 
 **2025-01-20** — merged PR [#1773](https://github.com/ZacSweers/CatchUp/pull/1773) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-20** — merged PR [#1805](https://github.com/ZacSweers/CatchUp/pull/1805) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.10.2"
 
 **2025-01-20** — merged PR [#1801](https://github.com/ZacSweers/CatchUp/pull/1801) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update flipper to v0.273.0"
-
-**2025-01-20** — merged PR [#1800](https://github.com/ZacSweers/CatchUp/pull/1800) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-core to v1.8.0"
-
-**2025-01-20** — merged PR [#1799](https://github.com/ZacSweers/CatchUp/pull/1799) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
