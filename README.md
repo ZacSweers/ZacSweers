@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-22** — commented on [#2065](https://github.com/square/kotlinpoet/issues/2065#issuecomment-2607584219) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2025-01-21** — commented on [#32050](https://github.com/gradle/gradle/issues/32050#issuecomment-2605067220) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-01-20** — created branch `z/daggerPlayground` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-20** — merged PR [#1807](https://github.com/ZacSweers/CatchUp/pull/1807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.12.1"
 
 **2025-01-20** — merged PR [#1806](https://github.com/ZacSweers/CatchUp/pull/1806) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v3.19"
-
-**2025-01-20** — merged PR [#1805](https://github.com/ZacSweers/CatchUp/pull/1805) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
