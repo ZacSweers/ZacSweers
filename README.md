@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-24** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2613245622) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2025-01-22** — commented on [#4134](https://github.com/square/retrofit/issues/4134#issuecomment-2608279806) in [square/retrofit](https://github.com/square/retrofit)
 
 **2025-01-22** — commented on [#2065](https://github.com/square/kotlinpoet/issues/2065#issuecomment-2607584219) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-20** — merged PR [#1786](https://github.com/ZacSweers/CatchUp/pull/1786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.2"
 
 **2025-01-20** — merged PR [#1809](https://github.com/ZacSweers/CatchUp/pull/1809) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.14.0"
-
-**2025-01-20** — merged PR [#1807](https://github.com/ZacSweers/CatchUp/pull/1807) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin playPublisher to v3.12.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
