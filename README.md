@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-01-24** — created branch `z/validateSourceDirs` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-01-24** — created tag `0.24.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-01-24** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2613245622) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2025-01-24** — opened PR [#1188](https://github.com/slackhq/foundry/pull/1188) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP validate source dirs"
 
-**2025-01-22** — commented on [#4134](https://github.com/square/retrofit/issues/4134#issuecomment-2608279806) in [square/retrofit](https://github.com/square/retrofit)
+**2025-01-24** — commented on [#974](https://github.com/slackhq/foundry/pull/974#issuecomment-2613487133) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-01-22** — commented on [#2065](https://github.com/square/kotlinpoet/issues/2065#issuecomment-2607584219) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2025-01-24** — closed PR [#974](https://github.com/slackhq/foundry/pull/974) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kl/aibot api call"
 
-**2025-01-21** — commented on [#32050](https://github.com/gradle/gradle/issues/32050#issuecomment-2605067220) in [gradle/gradle](https://github.com/gradle/gradle)
+**2025-01-24** — closed PR [#797](https://github.com/slackhq/foundry/pull/797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add circuit feature generation from template to Skate"
 
-**2025-01-20** — created branch `z/daggerPlayground` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-01-24** — commented on [#1144](https://github.com/slackhq/foundry/pull/1144#issuecomment-2613486737) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-01-20** — merged PR [#1804](https://github.com/ZacSweers/CatchUp/pull/1804) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update kotlinx-coroutines monorepo to v1.10.1"
+**2025-01-24** — closed PR [#1144](https://github.com/slackhq/foundry/pull/1144) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.2.1"
 
-**2025-01-20** — merged PR [#1774](https://github.com/ZacSweers/CatchUp/pull/1774) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0-alpha12"
+**2025-01-24** — commented on [#1147](https://github.com/slackhq/foundry/pull/1147#issuecomment-2613486662) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-01-20** — merged PR [#1773](https://github.com/ZacSweers/CatchUp/pull/1773) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.10.0"
+**2025-01-24** — closed PR [#1147](https://github.com/slackhq/foundry/pull/1147) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin org.jetbrains.intellij.platform.settings to v2.2.1"
 
-**2025-01-20** — merged PR [#1786](https://github.com/ZacSweers/CatchUp/pull/1786) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.moshi:moshi-kotlin to v1.15.2"
+**2025-01-24** — merged PR [#1170](https://github.com/slackhq/foundry/pull/1170) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add new Dagger 2.55 option"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
