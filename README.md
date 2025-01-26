@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-26** — created branch `z/latticeTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-01-25** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2614209079) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2025-01-24** — created tag `0.24.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-24** — closed PR [#1144](https://github.com/slackhq/foundry/pull/1144) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.2.1"
 
 **2025-01-24** — commented on [#1147](https://github.com/slackhq/foundry/pull/1147#issuecomment-2613486662) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-01-24** — closed PR [#1147](https://github.com/slackhq/foundry/pull/1147) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin org.jetbrains.intellij.platform.settings to v2.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
