@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-26** — merged PR [#117](https://github.com/ZacSweers/FieldSpottr/pull/117) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.8.0"
+
+**2025-01-26** — merged PR [#119](https://github.com/ZacSweers/FieldSpottr/pull/119) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.10.0"
+
 **2025-01-26** — merged PR [#283](https://github.com/ZacSweers/redacted-compiler-plugin/pull/283) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.2"
 
 **2025-01-26** — merged PR [#285](https://github.com/ZacSweers/redacted-compiler-plugin/pull/285) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.54"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-26** — merged PR [#120](https://github.com/ZacSweers/FieldSpottr/pull/120) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.11.0"
 
 **2025-01-26** — merged PR [#115](https://github.com/ZacSweers/FieldSpottr/pull/115) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
-
-**2025-01-26** — merged PR [#121](https://github.com/ZacSweers/FieldSpottr/pull/121) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.12.1"
-
-**2025-01-26** — merged PR [#122](https://github.com/ZacSweers/FieldSpottr/pull/122) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
