@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-01-26** — created branch `z/latticeTesting` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-01-26** — merged PR [#283](https://github.com/ZacSweers/redacted-compiler-plugin/pull/283) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.2"
 
-**2025-01-25** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2614209079) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2025-01-26** — merged PR [#285](https://github.com/ZacSweers/redacted-compiler-plugin/pull/285) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.54"
 
-**2025-01-24** — created tag `0.24.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-01-26** — merged PR [#286](https://github.com/ZacSweers/redacted-compiler-plugin/pull/286) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.12.1"
 
-**2025-01-24** — opened PR [#1188](https://github.com/slackhq/foundry/pull/1188) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP validate source dirs"
+**2025-01-26** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2614635808) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2025-01-24** — commented on [#974](https://github.com/slackhq/foundry/pull/974#issuecomment-2613487133) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-01-26** — merged PR [#116](https://github.com/ZacSweers/FieldSpottr/pull/116) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.10.2"
 
-**2025-01-24** — closed PR [#974](https://github.com/slackhq/foundry/pull/974) to [slackhq/foundry](https://github.com/slackhq/foundry): "Kl/aibot api call"
+**2025-01-26** — merged PR [#118](https://github.com/ZacSweers/FieldSpottr/pull/118) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.8.0"
 
-**2025-01-24** — closed PR [#797](https://github.com/slackhq/foundry/pull/797) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add circuit feature generation from template to Skate"
+**2025-01-26** — merged PR [#120](https://github.com/ZacSweers/FieldSpottr/pull/120) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.11.0"
 
-**2025-01-24** — commented on [#1144](https://github.com/slackhq/foundry/pull/1144#issuecomment-2613486737) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-01-26** — merged PR [#115](https://github.com/ZacSweers/FieldSpottr/pull/115) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.226.0"
 
-**2025-01-24** — closed PR [#1144](https://github.com/slackhq/foundry/pull/1144) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.2.1"
+**2025-01-26** — merged PR [#121](https://github.com/ZacSweers/FieldSpottr/pull/121) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.12.1"
 
-**2025-01-24** — commented on [#1147](https://github.com/slackhq/foundry/pull/1147#issuecomment-2613486662) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-01-26** — merged PR [#122](https://github.com/ZacSweers/FieldSpottr/pull/122) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
