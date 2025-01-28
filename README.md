@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-27** — created tag `0.24.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-01-27** — merged PR [#1192](https://github.com/slackhq/foundry/pull/1192) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gate dagger processing options behind a property instead"
+
 **2025-01-27** — opened PR [#1192](https://github.com/slackhq/foundry/pull/1192) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gate dagger processing options behind a property instead"
 
 **2025-01-27** — created branch `z/configurableArgs` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-26** — merged PR [#285](https://github.com/ZacSweers/redacted-compiler-plugin/pull/285) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.54"
 
 **2025-01-26** — merged PR [#286](https://github.com/ZacSweers/redacted-compiler-plugin/pull/286) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.12.1"
-
-**2025-01-26** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2614635808) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-01-26** — merged PR [#116](https://github.com/ZacSweers/FieldSpottr/pull/116) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
