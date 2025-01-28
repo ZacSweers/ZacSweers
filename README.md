@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-27** — opened PR [#1192](https://github.com/slackhq/foundry/pull/1192) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gate dagger processing options behind a property instead"
+
+**2025-01-27** — created branch `z/configurableArgs` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-01-26** — created branch `z/lattice` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-01-26** — merged PR [#117](https://github.com/ZacSweers/FieldSpottr/pull/117) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.8.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-26** — commented on [#347](https://github.com/slackhq/slack-lints/issues/347#issuecomment-2614635808) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2025-01-26** — merged PR [#116](https://github.com/ZacSweers/FieldSpottr/pull/116) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.10.2"
-
-**2025-01-26** — merged PR [#118](https://github.com/ZacSweers/FieldSpottr/pull/118) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.8.0"
-
-**2025-01-26** — merged PR [#120](https://github.com/ZacSweers/FieldSpottr/pull/120) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
