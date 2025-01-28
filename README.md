@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-28** — merged PR [#123](https://github.com/ZacSweers/FieldSpottr/pull/123) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.10"
+
 **2025-01-27** — created tag `0.24.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-01-27** — merged PR [#1192](https://github.com/slackhq/foundry/pull/1192) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gate dagger processing options behind a property instead"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-26** — merged PR [#283](https://github.com/ZacSweers/redacted-compiler-plugin/pull/283) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.2"
 
 **2025-01-26** — merged PR [#285](https://github.com/ZacSweers/redacted-compiler-plugin/pull/285) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.54"
-
-**2025-01-26** — merged PR [#286](https://github.com/ZacSweers/redacted-compiler-plugin/pull/286) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.12.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
