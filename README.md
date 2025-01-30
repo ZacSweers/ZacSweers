@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-01-29** — merged PR [#711](https://github.com/ZacSweers/MoshiX/pull/711) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.2"
+
+**2025-01-29** — merged PR [#713](https://github.com/ZacSweers/MoshiX/pull/713) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.3"
+
+**2025-01-29** — merged PR [#714](https://github.com/ZacSweers/MoshiX/pull/714) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12.1"
+
+**2025-01-29** — merged PR [#715](https://github.com/ZacSweers/MoshiX/pull/715) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.1.10-1.0.29"
+
 **2025-01-28** — merged PR [#123](https://github.com/ZacSweers/FieldSpottr/pull/123) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.10"
 
 **2025-01-27** — created tag `0.24.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -13,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-27** — opened PR [#1192](https://github.com/slackhq/foundry/pull/1192) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gate dagger processing options behind a property instead"
 
 **2025-01-27** — created branch `z/configurableArgs` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-01-26** — created branch `z/lattice` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-01-26** — merged PR [#117](https://github.com/ZacSweers/FieldSpottr/pull/117) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.8.0"
-
-**2025-01-26** — merged PR [#119](https://github.com/ZacSweers/FieldSpottr/pull/119) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.10.0"
-
-**2025-01-26** — merged PR [#283](https://github.com/ZacSweers/redacted-compiler-plugin/pull/283) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.2"
-
-**2025-01-26** — merged PR [#285](https://github.com/ZacSweers/redacted-compiler-plugin/pull/285) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.54"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
