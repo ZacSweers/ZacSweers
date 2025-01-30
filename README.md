@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-29** — merged PR [#715](https://github.com/ZacSweers/MoshiX/pull/715) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.1.10-1.0.29"
 
 **2025-01-28** — merged PR [#123](https://github.com/ZacSweers/FieldSpottr/pull/123) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.10"
-
-**2025-01-27** — created tag `0.24.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
