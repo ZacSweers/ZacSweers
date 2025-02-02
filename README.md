@@ -4,7 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-02** — Could not load GitHub activity. Please check back later.
+**2025-01-29** — merged PR [#712](https://github.com/ZacSweers/MoshiX/pull/712) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.54"
+
+**2025-01-29** — merged PR [#701](https://github.com/ZacSweers/MoshiX/pull/701) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.10"
+
+**2025-01-29** — merged PR [#711](https://github.com/ZacSweers/MoshiX/pull/711) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.2"
+
+**2025-01-29** — merged PR [#713](https://github.com/ZacSweers/MoshiX/pull/713) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.3"
+
+**2025-01-29** — merged PR [#714](https://github.com/ZacSweers/MoshiX/pull/714) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.12.1"
+
+**2025-01-29** — merged PR [#715](https://github.com/ZacSweers/MoshiX/pull/715) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp to v2.1.10-1.0.29"
+
+**2025-01-28** — merged PR [#123](https://github.com/ZacSweers/FieldSpottr/pull/123) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
