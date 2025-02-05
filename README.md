@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-03** — merged PR [#1899](https://github.com/slackhq/circuit/pull/1899) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2025"
 
 **2025-02-03** — merged PR [#1893](https://github.com/slackhq/circuit/pull/1893) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
-
-**2025-01-29** — merged PR [#712](https://github.com/ZacSweers/MoshiX/pull/712) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.54"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
