@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-04** — merged PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
+
+**2025-02-04** — opened PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
+
+**2025-02-04** — created branch `z/fixExecPrefix` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-04** — commented on [#1919](https://github.com/slackhq/circuit/issues/1919#issuecomment-2634998087) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-04** — created branch `z/hierarchicalSkippyConfig` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-03** — merged PR [#1893](https://github.com/slackhq/circuit/pull/1893) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
 
 **2025-01-29** — merged PR [#712](https://github.com/ZacSweers/MoshiX/pull/712) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.54"
-
-**2025-01-29** — merged PR [#701](https://github.com/ZacSweers/MoshiX/pull/701) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.10"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
