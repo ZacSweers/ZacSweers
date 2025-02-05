@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-04** — created branch `z/hierarchicalSkippyConfig` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-03** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2632871092) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-03** — merged PR [#1899](https://github.com/slackhq/circuit/pull/1899) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2025"
