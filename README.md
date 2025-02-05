@@ -13,8 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-01-29** — merged PR [#712](https://github.com/ZacSweers/MoshiX/pull/712) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.54"
 
 **2025-01-29** — merged PR [#701](https://github.com/ZacSweers/MoshiX/pull/701) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.10"
-
-**2025-01-29** — merged PR [#711](https://github.com/ZacSweers/MoshiX/pull/711) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
