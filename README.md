@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-04** — opened issue [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98) on [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "FR: Support zstd compression"
+
 **2025-02-04** — merged PR [#1920](https://github.com/slackhq/circuit/pull/1920) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update rememberRetained to allow CanRetainChecker to be updated in place"
 
 **2025-02-04** — closed issue [#1919](https://github.com/slackhq/circuit/issues/1919) on [slackhq/circuit](https://github.com/slackhq/circuit): "Allow instances of `CanRetainChecker` to change without recreating holder"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-03** — commented on [#1794](https://github.com/slackhq/circuit/pull/1794#issuecomment-2632871092) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-03** — merged PR [#1899](https://github.com/slackhq/circuit/pull/1899) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency androidx.compose:compose-bom to v2025"
-
-**2025-02-03** — merged PR [#1893](https://github.com/slackhq/circuit/pull/1893) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update dependency fastlane to v2.226.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
