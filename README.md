@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-06** — closed issue [#1895](https://github.com/slackhq/circuit/issues/1895) on [slackhq/circuit](https://github.com/slackhq/circuit): "`NavigableCircuitContent` retains `rememberSaveable` values for exited screens"
+
+**2025-02-06** — merged PR [#1922](https://github.com/slackhq/circuit/pull/1922) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change SaveableStateHolder to remove saved states of removed records"
+
 **2025-02-05** — opened PR [#1923](https://github.com/slackhq/circuit/pull/1923) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update mosaic + modernize mosaic counter sample"
 
 **2025-02-05** — created branch `z/mosaic0150` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,10 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-04** — merged PR [#1920](https://github.com/slackhq/circuit/pull/1920) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update rememberRetained to allow CanRetainChecker to be updated in place"
 
 **2025-02-04** — closed issue [#1919](https://github.com/slackhq/circuit/issues/1919) on [slackhq/circuit](https://github.com/slackhq/circuit): "Allow instances of `CanRetainChecker` to change without recreating holder"
-
-**2025-02-04** — merged PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
-
-**2025-02-04** — opened PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
