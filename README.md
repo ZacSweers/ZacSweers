@@ -4,7 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-06** — Could not load GitHub activity. Please check back later.
+**2025-02-06** — closed issue [#1895](https://github.com/slackhq/circuit/issues/1895) on [slackhq/circuit](https://github.com/slackhq/circuit): "`NavigableCircuitContent` retains `rememberSaveable` values for exited screens"
+
+**2025-02-06** — merged PR [#1922](https://github.com/slackhq/circuit/pull/1922) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change SaveableStateHolder to remove saved states of removed records"
+
+**2025-02-05** — opened PR [#1923](https://github.com/slackhq/circuit/pull/1923) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update mosaic + modernize mosaic counter sample"
+
+**2025-02-05** — created branch `z/mosaic0150` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-04** — opened issue [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98) on [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "FR: Support zstd compression"
+
+**2025-02-04** — merged PR [#1920](https://github.com/slackhq/circuit/pull/1920) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update rememberRetained to allow CanRetainChecker to be updated in place"
+
+**2025-02-04** — closed issue [#1919](https://github.com/slackhq/circuit/issues/1919) on [slackhq/circuit](https://github.com/slackhq/circuit): "Allow instances of `CanRetainChecker` to change without recreating holder"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
