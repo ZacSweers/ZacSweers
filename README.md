@@ -17,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-04** — merged PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
 
 **2025-02-04** — opened PR [#1198](https://github.com/slackhq/foundry/pull/1198) to [slackhq/foundry](https://github.com/slackhq/foundry): "Change exec prefix to use JAVA_HOME"
-
-**2025-02-04** — created branch `z/fixExecPrefix` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-04** — commented on [#1919](https://github.com/slackhq/circuit/issues/1919#issuecomment-2634998087) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-04** — created branch `z/hierarchicalSkippyConfig` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
