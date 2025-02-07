@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-07** — merged PR [#124](https://github.com/ZacSweers/FieldSpottr/pull/124) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.29"
+
+**2025-02-07** — merged PR [#125](https://github.com/ZacSweers/FieldSpottr/pull/125) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.26.0"
+
 **2025-02-06** — created tag `0.26.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-06** — merged PR [#1923](https://github.com/slackhq/circuit/pull/1923) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update mosaic + modernize mosaic counter sample"
