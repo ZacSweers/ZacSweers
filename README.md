@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-06** — created tag `0.26.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-02-06** — merged PR [#1923](https://github.com/slackhq/circuit/pull/1923) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update mosaic + modernize mosaic counter sample"
 
 **2025-02-06** — closed issue [#1783](https://github.com/slackhq/circuit/issues/1783) on [slackhq/circuit](https://github.com/slackhq/circuit): "`rememberRetained` retains value of removed node"
