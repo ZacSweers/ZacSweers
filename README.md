@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-07** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2644119215) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+
 **2025-02-07** — merged PR [#124](https://github.com/ZacSweers/FieldSpottr/pull/124) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.29"
 
 **2025-02-07** — merged PR [#125](https://github.com/ZacSweers/FieldSpottr/pull/125) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.26.0"
