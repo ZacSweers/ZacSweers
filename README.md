@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-07** — opened PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
+
+**2025-02-07** — created branch `z/skippyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-07** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2644119215) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
 
 **2025-02-07** — merged PR [#124](https://github.com/ZacSweers/FieldSpottr/pull/124) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.29"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-06** — merged PR [#1794](https://github.com/slackhq/circuit/pull/1794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change rememberRetain not to retain the value of removed node"
 
 **2025-02-06** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-2640982379) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-06** — closed PR [#1168](https://github.com/slackhq/circuit/pull/1168) to [slackhq/circuit](https://github.com/slackhq/circuit): "WIP RetainedStateHolder"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
