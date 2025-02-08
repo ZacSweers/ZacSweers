@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-07** — merged PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
+
 **2025-02-07** — opened PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
 
 **2025-02-07** — created branch `z/skippyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-06** — closed issue [#1783](https://github.com/slackhq/circuit/issues/1783) on [slackhq/circuit](https://github.com/slackhq/circuit): "`rememberRetained` retains value of removed node"
 
 **2025-02-06** — merged PR [#1794](https://github.com/slackhq/circuit/pull/1794) to [slackhq/circuit](https://github.com/slackhq/circuit): "Change rememberRetain not to retain the value of removed node"
-
-**2025-02-06** — commented on [#1168](https://github.com/slackhq/circuit/pull/1168#issuecomment-2640982379) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
