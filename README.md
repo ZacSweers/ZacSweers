@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-11** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2649805364) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-02-10** — reopened issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
 
 **2025-02-10** — closed issue [#1930](https://github.com/slackhq/circuit/issues/1930) on [slackhq/circuit](https://github.com/slackhq/circuit): "Crash during rapid tab switching with resetRoot(saveState = true, restoreState = true)"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-10** — closed PR [#716](https://github.com/ZacSweers/MoshiX/pull/716) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-rigel-310"
 
 **2025-02-10** — merged PR [#717](https://github.com/ZacSweers/MoshiX/pull/717) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.2"
-
-**2025-02-10** — opened PR [#717](https://github.com/ZacSweers/MoshiX/pull/717) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
