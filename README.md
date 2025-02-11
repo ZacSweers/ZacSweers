@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-10** — closed PR [#716](https://github.com/ZacSweers/MoshiX/pull/716) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-rigel-310"
+
+**2025-02-10** — merged PR [#717](https://github.com/ZacSweers/MoshiX/pull/717) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.2"
+
+**2025-02-10** — opened PR [#717](https://github.com/ZacSweers/MoshiX/pull/717) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.squareup.moshi:moshi to v1.15.2"
+
+**2025-02-10** — opened PR [#290](https://github.com/ZacSweers/redacted-compiler-plugin/pull/290) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.1.20"
+
+**2025-02-10** — created branch `z/2120test` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-02-10** — created branch `renovate/com.squareup.moshi-moshi-1.x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2025-02-10** — merged PR [#289](https://github.com/ZacSweers/redacted-compiler-plugin/pull/289) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.29"
 
 **2025-02-10** — merged PR [#287](https://github.com/ZacSweers/redacted-compiler-plugin/pull/287) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.1.10"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-10** — opened PR [#1206](https://github.com/slackhq/foundry/pull/1206) to [slackhq/foundry](https://github.com/slackhq/foundry): "Set up skippy support for emulator.wtf"
 
 **2025-02-10** — created branch `z/skippyEw` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-10** — created tag `0.24.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-09** — commented on [#1927](https://github.com/slackhq/circuit/issues/1927#issuecomment-2646610991) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-07** — merged PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
-
-**2025-02-07** — opened PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
-
-**2025-02-07** — created branch `z/skippyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-07** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2644119215) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
