@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-10** — merged PR [#289](https://github.com/ZacSweers/redacted-compiler-plugin/pull/289) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.29"
+
+**2025-02-10** — merged PR [#287](https://github.com/ZacSweers/redacted-compiler-plugin/pull/287) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.1.10"
+
+**2025-02-10** — opened PR [#1206](https://github.com/slackhq/foundry/pull/1206) to [slackhq/foundry](https://github.com/slackhq/foundry): "Set up skippy support for emulator.wtf"
+
+**2025-02-10** — created branch `z/skippyEw` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-10** — created tag `0.24.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-09** — commented on [#1927](https://github.com/slackhq/circuit/issues/1927#issuecomment-2646610991) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-07** — created branch `z/skippyFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-07** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2644119215) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
-
-**2025-02-07** — merged PR [#124](https://github.com/ZacSweers/FieldSpottr/pull/124) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.29"
-
-**2025-02-07** — merged PR [#125](https://github.com/ZacSweers/FieldSpottr/pull/125) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.26.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
