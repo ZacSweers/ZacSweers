@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-10** — created tag `0.24.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-09** — commented on [#1927](https://github.com/slackhq/circuit/issues/1927#issuecomment-2646610991) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-07** — merged PR [#1202](https://github.com/slackhq/foundry/pull/1202) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make --android-test-project-paths optional in Skippy"
@@ -17,12 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-07** — merged PR [#124](https://github.com/ZacSweers/FieldSpottr/pull/124) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.29"
 
 **2025-02-07** — merged PR [#125](https://github.com/ZacSweers/FieldSpottr/pull/125) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.26.0"
-
-**2025-02-06** — created tag `0.26.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-06** — merged PR [#1923](https://github.com/slackhq/circuit/pull/1923) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update mosaic + modernize mosaic counter sample"
-
-**2025-02-06** — closed issue [#1783](https://github.com/slackhq/circuit/issues/1783) on [slackhq/circuit](https://github.com/slackhq/circuit): "`rememberRetained` retains value of removed node"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
