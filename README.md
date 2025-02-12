@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-12** — merged PR [#1937](https://github.com/slackhq/circuit/pull/1937) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Metro code gen support"
+
+**2025-02-12** — merged PR [#1207](https://github.com/slackhq/foundry/pull/1207) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for Roborazzi snapshot testing"
+
 **2025-02-11** — merged PR [#1926](https://github.com/slackhq/circuit/pull/1926) to [slackhq/circuit](https://github.com/slackhq/circuit): "[📖 User Guide] Added basic reference guide on deep-linking using circuit for Android platform."
 
 **2025-02-11** — commented on [#1207](https://github.com/slackhq/foundry/pull/1207#issuecomment-2652099414) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-10** — closed issue [#1930](https://github.com/slackhq/circuit/issues/1930) on [slackhq/circuit](https://github.com/slackhq/circuit): "Crash during rapid tab switching with resetRoot(saveState = true, restoreState = true)"
 
 **2025-02-10** — commented on [#1930](https://github.com/slackhq/circuit/issues/1930#issuecomment-2649734990) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-10** — opened PR [#1929](https://github.com/slackhq/circuit/pull/1929) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.1.20"
-
-**2025-02-10** — created branch `z/k2120` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
