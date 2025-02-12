@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-11** — merged PR [#1926](https://github.com/slackhq/circuit/pull/1926) to [slackhq/circuit](https://github.com/slackhq/circuit): "[📖 User Guide] Added basic reference guide on deep-linking using circuit for Android platform."
+
+**2025-02-11** — commented on [#1207](https://github.com/slackhq/foundry/pull/1207#issuecomment-2652099414) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-11** — merged PR [#176](https://github.com/ZacSweers/metro/pull/176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.2"
 
 **2025-02-11** — merged PR [#175](https://github.com/ZacSweers/metro/pull/175) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.github.ajalt.clikt:clikt to v5.0.3"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-10** — opened PR [#1929](https://github.com/slackhq/circuit/pull/1929) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.1.20"
 
 **2025-02-10** — created branch `z/k2120` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-10** — opened PR [#718](https://github.com/ZacSweers/MoshiX/pull/718) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.1.20"
-
-**2025-02-10** — created branch `z/k2120` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
