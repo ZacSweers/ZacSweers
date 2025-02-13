@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-12** — merged PR [#1206](https://github.com/slackhq/foundry/pull/1206) to [slackhq/foundry](https://github.com/slackhq/foundry): "Set up skippy support for emulator.wtf"
+
+**2025-02-12** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2655032682) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-02-12** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2654895061) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
 
 **2025-02-12** — opened PR [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100) to [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "Add zstd_wrapper"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-12** — merged PR [#1207](https://github.com/slackhq/foundry/pull/1207) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for Roborazzi snapshot testing"
 
 **2025-02-11** — merged PR [#1926](https://github.com/slackhq/circuit/pull/1926) to [slackhq/circuit](https://github.com/slackhq/circuit): "[📖 User Guide] Added basic reference guide on deep-linking using circuit for Android platform."
-
-**2025-02-11** — commented on [#1207](https://github.com/slackhq/foundry/pull/1207#issuecomment-2652099414) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-11** — merged PR [#176](https://github.com/ZacSweers/metro/pull/176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
