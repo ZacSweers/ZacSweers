@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-12** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2654895061) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+
+**2025-02-12** — opened PR [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100) to [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "Add zstd_wrapper"
+
+**2025-02-12** — created branch `z/zstd` on [ZacSweers/cache-buildkite-plugin](https://github.com/ZacSweers/cache-buildkite-plugin)
+
+**2025-02-12** — commented on [#99](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/99#issuecomment-2654871836) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+
 **2025-02-12** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2654805846) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-12** — merged PR [#1937](https://github.com/slackhq/circuit/pull/1937) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Metro code gen support"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-11** — commented on [#1207](https://github.com/slackhq/foundry/pull/1207#issuecomment-2652099414) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-11** — merged PR [#176](https://github.com/ZacSweers/metro/pull/176) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.2"
-
-**2025-02-11** — merged PR [#175](https://github.com/ZacSweers/metro/pull/175) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.github.ajalt.clikt:clikt to v5.0.3"
-
-**2025-02-11** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2649805364) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-10** — reopened issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
-
-**2025-02-10** — closed issue [#1930](https://github.com/slackhq/circuit/issues/1930) on [slackhq/circuit](https://github.com/slackhq/circuit): "Crash during rapid tab switching with resetRoot(saveState = true, restoreState = true)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
