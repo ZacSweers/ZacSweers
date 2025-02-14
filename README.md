@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-14** — merged PR [#1951](https://github.com/slackhq/circuit/pull/1951) to [slackhq/circuit](https://github.com/slackhq/circuit): "[FIXED] 404 errors for video demo and css files"
+
 **2025-02-12** — merged PR [#1206](https://github.com/slackhq/foundry/pull/1206) to [slackhq/foundry](https://github.com/slackhq/foundry): "Set up skippy support for emulator.wtf"
 
 **2025-02-12** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2655032682) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-12** — merged PR [#1937](https://github.com/slackhq/circuit/pull/1937) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Metro code gen support"
 
 **2025-02-12** — merged PR [#1207](https://github.com/slackhq/foundry/pull/1207) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for Roborazzi snapshot testing"
-
-**2025-02-11** — merged PR [#1926](https://github.com/slackhq/circuit/pull/1926) to [slackhq/circuit](https://github.com/slackhq/circuit): "[📖 User Guide] Added basic reference guide on deep-linking using circuit for Android platform."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
