@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-16** — merged PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
+
+**2025-02-16** — opened PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
+
+**2025-02-16** — commented on [#192](https://github.com/ZacSweers/metro/issues/192#issuecomment-2661623761) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-02-16** — created branch `z/moreTypeKeyWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-02-15** — merged PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
 
 **2025-02-15** — opened PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-15** — merged PR [#191](https://github.com/ZacSweers/metro/pull/191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make no-op logger truly no-op"
 
 **2025-02-15** — merged PR [#190](https://github.com/ZacSweers/metro/pull/190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow null locations for error reports"
-
-**2025-02-15** — opened PR [#191](https://github.com/ZacSweers/metro/pull/191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make no-op logger truly no-op"
-
-**2025-02-15** — created branch `z/lazierLogging` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-15** — opened PR [#190](https://github.com/ZacSweers/metro/pull/190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow null locations for error reports"
-
-**2025-02-15** — created branch `z/nullLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
