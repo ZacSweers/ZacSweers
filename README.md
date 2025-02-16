@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-15** — merged PR [#187](https://github.com/ZacSweers/metro/pull/187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Dagger MapKey package"
+
+**2025-02-15** — opened PR [#187](https://github.com/ZacSweers/metro/pull/187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Dagger MapKey package"
+
+**2025-02-15** — created branch `z/fixMapKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-02-14** — commented on [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100#issuecomment-2660048551) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
 
 **2025-02-14** — merged PR [#1951](https://github.com/slackhq/circuit/pull/1951) to [slackhq/circuit](https://github.com/slackhq/circuit): "[FIXED] 404 errors for video demo and css files"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-12** — opened PR [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100) to [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "Add zstd_wrapper"
 
 **2025-02-12** — created branch `z/zstd` on [ZacSweers/cache-buildkite-plugin](https://github.com/ZacSweers/cache-buildkite-plugin)
-
-**2025-02-12** — commented on [#99](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/99#issuecomment-2654871836) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
-
-**2025-02-12** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2654805846) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-12** — merged PR [#1937](https://github.com/slackhq/circuit/pull/1937) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Metro code gen support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
