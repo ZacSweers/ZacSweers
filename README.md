@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-15** — merged PR [#187](https://github.com/ZacSweers/metro/pull/187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Dagger MapKey package"
+**2025-02-15** — merged PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
 
-**2025-02-15** — opened PR [#187](https://github.com/ZacSweers/metro/pull/187) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Dagger MapKey package"
+**2025-02-15** — opened PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
 
-**2025-02-15** — created branch `z/fixMapKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-02-15** — created branch `z/equalsTypeKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-02-14** — commented on [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100#issuecomment-2660048551) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+**2025-02-15** — opened issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
 
-**2025-02-14** — merged PR [#1951](https://github.com/slackhq/circuit/pull/1951) to [slackhq/circuit](https://github.com/slackhq/circuit): "[FIXED] 404 errors for video demo and css files"
+**2025-02-15** — merged PR [#191](https://github.com/ZacSweers/metro/pull/191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make no-op logger truly no-op"
 
-**2025-02-12** — merged PR [#1206](https://github.com/slackhq/foundry/pull/1206) to [slackhq/foundry](https://github.com/slackhq/foundry): "Set up skippy support for emulator.wtf"
+**2025-02-15** — merged PR [#190](https://github.com/ZacSweers/metro/pull/190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow null locations for error reports"
 
-**2025-02-12** — commented on [#1580](https://github.com/slackhq/circuit/issues/1580#issuecomment-2655032682) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-02-15** — opened PR [#191](https://github.com/ZacSweers/metro/pull/191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make no-op logger truly no-op"
 
-**2025-02-12** — commented on [#98](https://github.com/buildkite-plugins/cache-buildkite-plugin/issues/98#issuecomment-2654895061) in [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin)
+**2025-02-15** — created branch `z/lazierLogging` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-02-12** — opened PR [#100](https://github.com/buildkite-plugins/cache-buildkite-plugin/pull/100) to [buildkite-plugins/cache-buildkite-plugin](https://github.com/buildkite-plugins/cache-buildkite-plugin): "Add zstd_wrapper"
+**2025-02-15** — opened PR [#190](https://github.com/ZacSweers/metro/pull/190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow null locations for error reports"
 
-**2025-02-12** — created branch `z/zstd` on [ZacSweers/cache-buildkite-plugin](https://github.com/ZacSweers/cache-buildkite-plugin)
+**2025-02-15** — created branch `z/nullLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
