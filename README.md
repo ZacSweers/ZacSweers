@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2025-02-17** — [One Last View of Mom](https://www.zacsweers.dev/one-last-view-of-mom/)
+
 **2024-09-11** — [Gradle Footguns: Don't add potentially-empty providers to collection properties](https://www.zacsweers.dev/gradle-footgun-adding-empty-providers-to-collection-properties/)
 
 **2024-08-25** — [Writing a Kotlin Multiplatform App from Start to Store](https://www.zacsweers.dev/writing-a-kotlin-multiplatform-app-from-start-to-store/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2022-12-19** — [Improving Your Gradle Workflow by Not Auto-reloading Build Files](https://www.zacsweers.dev/improving-your-workflow-by-not-auto-reloading-build-files/)
 
 **2022-11-30** — [Android Studio's "I'm Feeling Lucky" Button](https://www.zacsweers.dev/android-studios-im-feeling-lucky-button/)
-
-**2022-11-22** — [Network Calls in Lint: Best Practices](https://www.zacsweers.dev/network-calls-in-lint-best-practices/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
