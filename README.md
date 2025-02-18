@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-17** — closed issue [#347](https://github.com/slackhq/slack-lints/issues/347) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "`DenyListedApiDetector.kt` seems to be missing `java.util.Calendar`"
+
+**2025-02-17** — merged PR [#351](https://github.com/slackhq/slack-lints/pull/351) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add `java.util.Calendar` to `DenyListedApiDetector`"
+
 **2025-02-16** — merged PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
 
 **2025-02-16** — opened PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-15** — created branch `z/equalsTypeKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-02-15** — opened issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
-
-**2025-02-15** — merged PR [#191](https://github.com/ZacSweers/metro/pull/191) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make no-op logger truly no-op"
-
-**2025-02-15** — merged PR [#190](https://github.com/ZacSweers/metro/pull/190) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow null locations for error reports"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
