@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-17** — merged PR [#346](https://github.com/slackhq/slack-lints/pull/346) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.54"
+
+**2025-02-17** — merged PR [#345](https://github.com/slackhq/slack-lints/pull/345) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.2"
+
+**2025-02-17** — merged PR [#348](https://github.com/slackhq/slack-lints/pull/348) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.10"
+
+**2025-02-17** — merged PR [#344](https://github.com/slackhq/slack-lints/pull/344) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.12.1"
+
+**2025-02-17** — merged PR [#350](https://github.com/slackhq/slack-lints/pull/350) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.6"
+
+**2025-02-17** — merged PR [#349](https://github.com/slackhq/slack-lints/pull/349) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.10-1.0.30"
+
 **2025-02-17** — closed issue [#347](https://github.com/slackhq/slack-lints/issues/347) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "`DenyListedApiDetector.kt` seems to be missing `java.util.Calendar`"
 
 **2025-02-17** — merged PR [#351](https://github.com/slackhq/slack-lints/pull/351) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add `java.util.Calendar` to `DenyListedApiDetector`"
-
-**2025-02-16** — merged PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
-
-**2025-02-16** — opened PR [#194](https://github.com/ZacSweers/metro/pull/194) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More type key work + collect errors"
-
-**2025-02-16** — commented on [#192](https://github.com/ZacSweers/metro/issues/192#issuecomment-2661623761) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-16** — created branch `z/moreTypeKeyWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-15** — merged PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
-
-**2025-02-15** — opened PR [#193](https://github.com/ZacSweers/metro/pull/193) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve TypeKey equality/hashing"
-
-**2025-02-15** — created branch `z/equalsTypeKey` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-15** — opened issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
