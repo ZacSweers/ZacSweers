@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-17** — merged PR [#349](https://github.com/slackhq/slack-lints/pull/349) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.10-1.0.30"
 
 **2025-02-17** — closed issue [#347](https://github.com/slackhq/slack-lints/issues/347) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "`DenyListedApiDetector.kt` seems to be missing `java.util.Calendar`"
-
-**2025-02-17** — merged PR [#351](https://github.com/slackhq/slack-lints/pull/351) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add `java.util.Calendar` to `DenyListedApiDetector`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
