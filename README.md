@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665972497) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-18** — reopened PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
+
+**2025-02-18** — closed PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
+
+**2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665952224) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-02-17** — merged PR [#346](https://github.com/slackhq/slack-lints/pull/346) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.54"
 
 **2025-02-17** — merged PR [#345](https://github.com/slackhq/slack-lints/pull/345) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.2"
@@ -15,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-17** — merged PR [#350](https://github.com/slackhq/slack-lints/pull/350) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.6"
 
 **2025-02-17** — merged PR [#349](https://github.com/slackhq/slack-lints/pull/349) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.10-1.0.30"
-
-**2025-02-17** — closed issue [#347](https://github.com/slackhq/slack-lints/issues/347) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "`DenyListedApiDetector.kt` seems to be missing `java.util.Calendar`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
