@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-18** — closed issue [#1760](https://github.com/slackhq/circuit/issues/1760) on [slackhq/circuit](https://github.com/slackhq/circuit): "Missing Configuration in Testing Documentation"
+
+**2025-02-18** — merged PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
+
 **2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665972497) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-18** — reopened PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-17** — merged PR [#348](https://github.com/slackhq/slack-lints/pull/348) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.10"
 
 **2025-02-17** — merged PR [#344](https://github.com/slackhq/slack-lints/pull/344) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.12.1"
-
-**2025-02-17** — merged PR [#350](https://github.com/slackhq/slack-lints/pull/350) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.6"
-
-**2025-02-17** — merged PR [#349](https://github.com/slackhq/slack-lints/pull/349) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.10-1.0.30"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
