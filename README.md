@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675578720) in [google/ksp](https://github.com/google/ksp)
+
+**2025-02-21** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2675575429) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-02-21** — created tag `0.24.7` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675247581) in [google/ksp](https://github.com/google/ksp)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665972497) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-18** — reopened PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
-
-**2025-02-18** — closed PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
-
-**2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665952224) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
