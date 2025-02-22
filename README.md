@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-22** — closed issue [#1959](https://github.com/slackhq/circuit/issues/1959) on [slackhq/circuit](https://github.com/slackhq/circuit): "Plain JVM unit tests in samples"
+
+**2025-02-22** — commented on [#1959](https://github.com/slackhq/circuit/issues/1959#issuecomment-2676224375) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-02-22** — merged PR [#196](https://github.com/ZacSweers/metro/pull/196) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.5"
 
 **2025-02-22** — closed issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675900710) in [google/ksp](https://github.com/google/ksp)
 
 **2025-02-21** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2675899628) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675578720) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-21** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2675575429) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
