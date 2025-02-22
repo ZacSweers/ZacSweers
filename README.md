@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-21** — created tag `0.24.7` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675247581) in [google/ksp](https://github.com/google/ksp)
 
 **2025-02-20** — opened issue [#2347](https://github.com/google/ksp/issues/2347) on [google/ksp](https://github.com/google/ksp): "KSP1 breaks compilation avoidance"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-18** — closed PR [#1957](https://github.com/slackhq/circuit/pull/1957) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add Missing Configuration Info on Readme"
 
 **2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665952224) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-17** — merged PR [#346](https://github.com/slackhq/slack-lints/pull/346) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.54"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
