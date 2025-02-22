@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675247581) in [google/ksp](https://github.com/google/ksp)
+
 **2025-02-20** — opened issue [#2347](https://github.com/google/ksp/issues/2347) on [google/ksp](https://github.com/google/ksp): "KSP1 breaks compilation avoidance"
 
 **2025-02-20** — merged PR [#195](https://github.com/ZacSweers/metro/pull/195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix wrapper type string formatting in FirContextualTypeKey"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-18** — commented on [#1957](https://github.com/slackhq/circuit/pull/1957#issuecomment-2665952224) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-17** — merged PR [#346](https://github.com/slackhq/slack-lints/pull/346) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.54"
-
-**2025-02-17** — merged PR [#345](https://github.com/slackhq/slack-lints/pull/345) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
