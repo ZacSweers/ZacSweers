@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-22** — merged PR [#196](https://github.com/ZacSweers/metro/pull/196) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.5"
+
+**2025-02-22** — closed issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
+
+**2025-02-22** — merged PR [#197](https://github.com/ZacSweers/metro/pull/197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger runtime interop"
+
+**2025-02-21** — opened PR [#197](https://github.com/ZacSweers/metro/pull/197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger runtime interop"
+
+**2025-02-21** — created branch `z/daggerInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675901309) in [google/ksp](https://github.com/google/ksp)
 
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675900710) in [google/ksp](https://github.com/google/ksp)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675578720) in [google/ksp](https://github.com/google/ksp)
 
 **2025-02-21** — commented on [#307](https://github.com/ZacSweers/kotlin-compile-testing/issues/307#issuecomment-2675575429) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-02-21** — created tag `0.24.7` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675247581) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-20** — opened issue [#2347](https://github.com/google/ksp/issues/2347) on [google/ksp](https://github.com/google/ksp): "KSP1 breaks compilation avoidance"
-
-**2025-02-20** — merged PR [#195](https://github.com/ZacSweers/metro/pull/195) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix wrapper type string formatting in FirContextualTypeKey"
-
-**2025-02-18** — closed issue [#1760](https://github.com/slackhq/circuit/issues/1760) on [slackhq/circuit](https://github.com/slackhq/circuit): "Missing Configuration in Testing Documentation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
