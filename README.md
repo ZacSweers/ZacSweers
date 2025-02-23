@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-22** — merged PR [#1825](https://github.com/ZacSweers/CatchUp/pull/1825) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0-alpha01"
+**2025-02-22** — created tag `1.12.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-02-22** — merged PR [#1826](https://github.com/ZacSweers/CatchUp/pull/1826) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.6.2"
+**2025-02-22** — merged PR [#293](https://github.com/ZacSweers/redacted-compiler-plugin/pull/293) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix command line parsing of multiple args"
 
-**2025-02-22** — merged PR [#135](https://github.com/ZacSweers/FieldSpottr/pull/135) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.6.3"
+**2025-02-22** — opened PR [#293](https://github.com/ZacSweers/redacted-compiler-plugin/pull/293) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix command line parsing of multiple args"
 
-**2025-02-22** — closed issue [#1959](https://github.com/slackhq/circuit/issues/1959) on [slackhq/circuit](https://github.com/slackhq/circuit): "Plain JVM unit tests in samples"
+**2025-02-22** — created branch `z/fixParsing` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-02-22** — commented on [#1959](https://github.com/slackhq/circuit/issues/1959#issuecomment-2676224375) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-02-22** — merged PR [#291](https://github.com/ZacSweers/redacted-compiler-plugin/pull/291) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.0"
 
-**2025-02-22** — merged PR [#196](https://github.com/ZacSweers/metro/pull/196) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.5"
+**2025-02-22** — merged PR [#292](https://github.com/ZacSweers/redacted-compiler-plugin/pull/292) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.30"
 
-**2025-02-22** — closed issue [#192](https://github.com/ZacSweers/metro/issues/192) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger lazy/provider interop artifact"
+**2025-02-22** — merged PR [#1829](https://github.com/ZacSweers/CatchUp/pull/1829) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha08"
 
-**2025-02-22** — merged PR [#197](https://github.com/ZacSweers/metro/pull/197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger runtime interop"
+**2025-02-22** — merged PR [#1830](https://github.com/ZacSweers/CatchUp/pull/1830) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.8"
 
-**2025-02-21** — opened PR [#197](https://github.com/ZacSweers/metro/pull/197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger runtime interop"
+**2025-02-22** — merged PR [#1845](https://github.com/ZacSweers/CatchUp/pull/1845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.15.1"
 
-**2025-02-21** — created branch `z/daggerInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-02-22** — merged PR [#1844](https://github.com/ZacSweers/CatchUp/pull/1844) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.49.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
