@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-22** — created tag `0.24.8` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-22** — created tag `1.12.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2025-02-22** — merged PR [#293](https://github.com/ZacSweers/redacted-compiler-plugin/pull/293) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix command line parsing of multiple args"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-22** — merged PR [#1830](https://github.com/ZacSweers/CatchUp/pull/1830) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.8"
 
 **2025-02-22** — merged PR [#1845](https://github.com/ZacSweers/CatchUp/pull/1845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.15.1"
-
-**2025-02-22** — merged PR [#1844](https://github.com/ZacSweers/CatchUp/pull/1844) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.49.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
