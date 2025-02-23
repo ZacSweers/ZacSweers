@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-22** — created tag `0.24.10` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-02-22** — created tag `0.24.9` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-22** — created tag `0.24.8` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-22** — created tag `1.12.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-22** — merged PR [#291](https://github.com/ZacSweers/redacted-compiler-plugin/pull/291) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.0"
 
 **2025-02-22** — merged PR [#292](https://github.com/ZacSweers/redacted-compiler-plugin/pull/292) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.30"
-
-**2025-02-22** — merged PR [#1829](https://github.com/ZacSweers/CatchUp/pull/1829) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha08"
-
-**2025-02-22** — merged PR [#1830](https://github.com/ZacSweers/CatchUp/pull/1830) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.7.8"
-
-**2025-02-22** — merged PR [#1845](https://github.com/ZacSweers/CatchUp/pull/1845) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.15.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
