@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-23** — commented on [#321](https://github.com/ZacSweers/kotlin-compile-testing/issues/321#issuecomment-2676913994) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-02-22** — merged PR [#1794](https://github.com/ZacSweers/CatchUp/pull/1794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.accompanist:accompanist-adaptive to v0.37.2"
 
 **2025-02-22** — merged PR [#1778](https://github.com/ZacSweers/CatchUp/pull/1778) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.2"
