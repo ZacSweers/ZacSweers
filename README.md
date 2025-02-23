@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-22** — merged PR [#1825](https://github.com/ZacSweers/CatchUp/pull/1825) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0-alpha01"
+
+**2025-02-22** — merged PR [#1826](https://github.com/ZacSweers/CatchUp/pull/1826) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin retry to v1.6.2"
+
+**2025-02-22** — merged PR [#135](https://github.com/ZacSweers/FieldSpottr/pull/135) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v11.6.3"
+
 **2025-02-22** — closed issue [#1959](https://github.com/slackhq/circuit/issues/1959) on [slackhq/circuit](https://github.com/slackhq/circuit): "Plain JVM unit tests in samples"
 
 **2025-02-22** — commented on [#1959](https://github.com/slackhq/circuit/issues/1959#issuecomment-2676224375) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-21** — opened PR [#197](https://github.com/ZacSweers/metro/pull/197) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add dagger runtime interop"
 
 **2025-02-21** — created branch `z/daggerInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675901309) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-21** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2675900710) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-21** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2675899628) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
