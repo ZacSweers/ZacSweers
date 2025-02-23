@@ -4,23 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-22** — created tag `0.24.10` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-02-22** — merged PR [#1794](https://github.com/ZacSweers/CatchUp/pull/1794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.accompanist:accompanist-adaptive to v0.37.2"
 
-**2025-02-22** — created tag `0.24.9` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-02-22** — merged PR [#1778](https://github.com/ZacSweers/CatchUp/pull/1778) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.2"
 
-**2025-02-22** — created tag `0.24.8` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-02-22** — merged PR [#1758](https://github.com/ZacSweers/CatchUp/pull/1758) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.31.0"
 
-**2025-02-22** — created tag `1.12.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2025-02-22** — merged PR [#1811](https://github.com/ZacSweers/CatchUp/pull/1811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1"
 
-**2025-02-22** — merged PR [#293](https://github.com/ZacSweers/redacted-compiler-plugin/pull/293) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix command line parsing of multiple args"
+**2025-02-22** — merged PR [#1713](https://github.com/ZacSweers/CatchUp/pull/1713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.14"
 
-**2025-02-22** — opened PR [#293](https://github.com/ZacSweers/redacted-compiler-plugin/pull/293) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Fix command line parsing of multiple args"
-
-**2025-02-22** — created branch `z/fixParsing` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-02-22** — merged PR [#291](https://github.com/ZacSweers/redacted-compiler-plugin/pull/291) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.0"
-
-**2025-02-22** — merged PR [#292](https://github.com/ZacSweers/redacted-compiler-plugin/pull/292) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.30"
+**2025-02-22** — merged PR [#1842](https://github.com/ZacSweers/CatchUp/pull/1842) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.26.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
