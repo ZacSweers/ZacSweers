@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-22** — merged PR [#1811](https://github.com/ZacSweers/CatchUp/pull/1811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1"
 
 **2025-02-22** — merged PR [#1713](https://github.com/ZacSweers/CatchUp/pull/1713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.14"
-
-**2025-02-22** — merged PR [#1842](https://github.com/ZacSweers/CatchUp/pull/1842) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.26.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
