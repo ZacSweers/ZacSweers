@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-24** — merged PR [#699](https://github.com/ZacSweers/MoshiX/pull/699) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v2.0.0"
+
+**2025-02-24** — merged PR [#693](https://github.com/ZacSweers/MoshiX/pull/693) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.29.0"
+
 **2025-02-24** — merged PR [#721](https://github.com/ZacSweers/MoshiX/pull/721) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.10-1.0.30"
 
 **2025-02-24** — merged PR [#720](https://github.com/ZacSweers/MoshiX/pull/720) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.8.1"
@@ -13,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-24** — merged PR [#136](https://github.com/ZacSweers/FieldSpottr/pull/136) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.1"
 
 **2025-02-24** — merged PR [#232](https://github.com/ZacSweers/ZacSweers/pull/232) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update mordant to v3.0.2"
-
-**2025-02-24** — merged PR [#228](https://github.com/ZacSweers/ZacSweers/pull/228) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.10-1.0.30"
-
-**2025-02-24** — merged PR [#230](https://github.com/ZacSweers/ZacSweers/pull/230) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.2"
-
-**2025-02-24** — merged PR [#229](https://github.com/ZacSweers/ZacSweers/pull/229) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v5.0.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
