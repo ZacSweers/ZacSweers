@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-24** — opened PR [#1227](https://github.com/slackhq/foundry/pull/1227) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.1.20"
+
+**2025-02-24** — created branch `z/k2120` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-24** — merged PR [#699](https://github.com/ZacSweers/MoshiX/pull/699) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v2.0.0"
 
 **2025-02-24** — merged PR [#693](https://github.com/ZacSweers/MoshiX/pull/693) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.29.0"
@@ -15,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-24** — merged PR [#719](https://github.com/ZacSweers/MoshiX/pull/719) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.8.1"
 
 **2025-02-24** — merged PR [#136](https://github.com/ZacSweers/FieldSpottr/pull/136) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.1"
-
-**2025-02-24** — merged PR [#232](https://github.com/ZacSweers/ZacSweers/pull/232) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update mordant to v3.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
