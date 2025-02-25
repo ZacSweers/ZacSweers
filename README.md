@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-24** — opened PR [#1964](https://github.com/slackhq/circuit/pull/1964) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to JDK 23"
+
+**2025-02-24** — opened PR [#1963](https://github.com/slackhq/circuit/pull/1963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add shared elements baseline profile"
+
+**2025-02-24** — opened PR [#1962](https://github.com/slackhq/circuit/pull/1962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix random unnecessary parens"
+
+**2025-02-24** — created branch `z/jdk23` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-24** — created branch `z/baselineProf` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-24** — created branch `z/parens` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-24** — opened issue [#722](https://github.com/ZacSweers/MoshiX/issues/722) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Move proguard rule gen to IR"
+
 **2025-02-24** — opened PR [#1227](https://github.com/slackhq/foundry/pull/1227) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.1.20"
 
 **2025-02-24** — created branch `z/k2120` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-02-24** — merged PR [#699](https://github.com/ZacSweers/MoshiX/pull/699) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin dokka to v2.0.0"
-
-**2025-02-24** — merged PR [#693](https://github.com/ZacSweers/MoshiX/pull/693) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.29.0"
-
-**2025-02-24** — merged PR [#721](https://github.com/ZacSweers/MoshiX/pull/721) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.10-1.0.30"
-
-**2025-02-24** — merged PR [#720](https://github.com/ZacSweers/MoshiX/pull/720) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.8.1"
-
-**2025-02-24** — merged PR [#719](https://github.com/ZacSweers/MoshiX/pull/719) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.8.1"
-
-**2025-02-24** — merged PR [#136](https://github.com/ZacSweers/FieldSpottr/pull/136) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
