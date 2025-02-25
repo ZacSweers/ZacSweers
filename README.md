@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-24** — merged PR [#232](https://github.com/ZacSweers/ZacSweers/pull/232) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update mordant to v3.0.2"
+
+**2025-02-24** — merged PR [#228](https://github.com/ZacSweers/ZacSweers/pull/228) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.10-1.0.30"
+
+**2025-02-24** — merged PR [#230](https://github.com/ZacSweers/ZacSweers/pull/230) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.6.2"
+
+**2025-02-24** — merged PR [#229](https://github.com/ZacSweers/ZacSweers/pull/229) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.github.ajalt.clikt:clikt to v5.0.3"
+
+**2025-02-24** — merged PR [#226](https://github.com/ZacSweers/ZacSweers/pull/226) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.1.10"
+
+**2025-02-24** — merged PR [#225](https://github.com/ZacSweers/ZacSweers/pull/225) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.12.1"
+
+**2025-02-24** — merged PR [#233](https://github.com/ZacSweers/ZacSweers/pull/233) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.31.0"
+
 **2025-02-23** — commented on [#321](https://github.com/ZacSweers/kotlin-compile-testing/issues/321#issuecomment-2676913994) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-02-22** — merged PR [#1794](https://github.com/ZacSweers/CatchUp/pull/1794) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.accompanist:accompanist-adaptive to v0.37.2"
 
 **2025-02-22** — merged PR [#1778](https://github.com/ZacSweers/CatchUp/pull/1778) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update datastore to v1.1.2"
-
-**2025-02-22** — merged PR [#1758](https://github.com/ZacSweers/CatchUp/pull/1758) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.31.0"
-
-**2025-02-22** — merged PR [#1811](https://github.com/ZacSweers/CatchUp/pull/1811) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1"
-
-**2025-02-22** — merged PR [#1713](https://github.com/ZacSweers/CatchUp/pull/1713) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
