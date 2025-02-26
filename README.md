@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-25** — opened PR [#1228](https://github.com/slackhq/foundry/pull/1228) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 8.13"
+
+**2025-02-25** — created branch `z/gradle813` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-24** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2679819629) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-24** — commented on [#1801](https://github.com/slackhq/circuit/issues/1801#issuecomment-2679812023) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-24** — opened PR [#1964](https://github.com/slackhq/circuit/pull/1964) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to JDK 23"
 
 **2025-02-24** — opened PR [#1963](https://github.com/slackhq/circuit/pull/1963) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add shared elements baseline profile"
-
-**2025-02-24** — opened PR [#1962](https://github.com/slackhq/circuit/pull/1962) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix random unnecessary parens"
-
-**2025-02-24** — created branch `z/jdk23` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
