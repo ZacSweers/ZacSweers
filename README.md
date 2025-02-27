@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2686104877) in [google/ksp](https://github.com/google/ksp)
+
+**2025-02-26** — opened PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
+
+**2025-02-26** — created branch `z/fixMain` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-26** — opened PR [#1231](https://github.com/slackhq/foundry/pull/1231) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement BuildkitePipelineDsl"
 
 **2025-02-26** — created branch `z/buildkiteDSL` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-25** — opened PR [#1228](https://github.com/slackhq/foundry/pull/1228) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 8.13"
 
 **2025-02-25** — created branch `z/gradle813` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-24** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2679819629) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-24** — commented on [#1801](https://github.com/slackhq/circuit/issues/1801#issuecomment-2679812023) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-24** — commented on [#1801](https://github.com/slackhq/circuit/issues/1801#issuecomment-2679807735) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
