@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-27** — merged PR [#1241](https://github.com/slackhq/foundry/pull/1241) to [slackhq/foundry](https://github.com/slackhq/foundry): "Migrate renovate config"
+
+**2025-02-27** — merged PR [#1240](https://github.com/slackhq/foundry/pull/1240) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v41"
+
 **2025-02-27** — merged PR [#1231](https://github.com/slackhq/foundry/pull/1231) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement BuildkitePipelineDsl"
 
 **2025-02-27** — merged PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
@@ -15,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-26** — opened PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
 
 **2025-02-26** — created branch `z/fixMain` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-26** — opened PR [#1231](https://github.com/slackhq/foundry/pull/1231) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement BuildkitePipelineDsl"
-
-**2025-02-26** — created branch `z/buildkiteDSL` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2685724521) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2685394101) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
