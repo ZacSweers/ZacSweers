@@ -15,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-27** — merged PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
 
 **2025-02-26** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-2686197922) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2686104877) in [google/ksp](https://github.com/google/ksp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
