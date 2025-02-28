@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-27** — merged PR [#1231](https://github.com/slackhq/foundry/pull/1231) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement BuildkitePipelineDsl"
+
 **2025-02-27** — merged PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
 
 **2025-02-26** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-2686197922) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2685724521) in [google/ksp](https://github.com/google/ksp)
 
 **2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2685394101) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-25** — merged PR [#1228](https://github.com/slackhq/foundry/pull/1228) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 8.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
