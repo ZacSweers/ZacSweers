@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-02-27** — created tag `0.24.11` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-02-27** — merged PR [#1241](https://github.com/slackhq/foundry/pull/1241) to [slackhq/foundry](https://github.com/slackhq/foundry): "Migrate renovate config"
 
 **2025-02-27** — merged PR [#1240](https://github.com/slackhq/foundry/pull/1240) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v41"
@@ -15,10 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-26** — commented on [#16712](https://github.com/gradle/gradle/issues/16712#issuecomment-2686197922) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-02-26** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2686104877) in [google/ksp](https://github.com/google/ksp)
-
-**2025-02-26** — opened PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
-
-**2025-02-26** — created branch `z/fixMain` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
