@@ -4,13 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-02-28** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-02-28** — opened PR [#1977](https://github.com/slackhq/circuit/pull/1977) to [slackhq/circuit](https://github.com/slackhq/circuit): "Always name parameters in code gen"
 
-**2025-02-27** — created tag `0.24.11` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-02-28** — created branch `z/namedArgs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2025-02-27** — merged PR [#1241](https://github.com/slackhq/foundry/pull/1241) to [slackhq/foundry](https://github.com/slackhq/foundry): "Migrate renovate config"
+**2025-02-28** — merged PR [#1934](https://github.com/slackhq/circuit/pull/1934) to [slackhq/circuit](https://github.com/slackhq/circuit): "Proposal for modifying CanRetainChecker to apply exclusively to RetainedStateRegistry"
 
-**2025-02-27** — merged PR [#1240](https://github.com/slackhq/foundry/pull/1240) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v41"
+**2025-02-28** — commented on [#1439](https://github.com/slackhq/circuit/issues/1439#issuecomment-2691667658) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-28** — closed issue [#1439](https://github.com/slackhq/circuit/issues/1439) on [slackhq/circuit](https://github.com/slackhq/circuit): "Latest 0.22.1 `resetRoot(saveState = true, restoreState = true)` loses state when using `pop`"
+
+**2025-02-28** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2691666475) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-02-28** — closed issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
+
+**2025-02-28** — commented on [#2347](https://github.com/google/ksp/issues/2347#issuecomment-2691665731) in [google/ksp](https://github.com/google/ksp)
+
+**2025-02-28** — merged PR [#201](https://github.com/ZacSweers/metro/pull/201) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.13"
+
+**2025-02-28** — merged PR [#199](https://github.com/ZacSweers/metro/pull/199) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.slf4j:slf4j-nop to v2.0.17"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
