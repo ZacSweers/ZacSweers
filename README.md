@@ -13,8 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-27** — merged PR [#1240](https://github.com/slackhq/foundry/pull/1240) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update renovatebot/github-action action to v41"
 
 **2025-02-27** — merged PR [#1231](https://github.com/slackhq/foundry/pull/1231) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement BuildkitePipelineDsl"
-
-**2025-02-27** — merged PR [#1232](https://github.com/slackhq/foundry/pull/1232) to [slackhq/foundry](https://github.com/slackhq/foundry): "Regenerate snapshots"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
