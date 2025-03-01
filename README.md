@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-01** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2692252486) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-03-01** — opened PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
 
 **2025-03-01** — created branch `z/exclusions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-28** — created branch `z/regression` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-02-28** — merged PR [#1979](https://github.com/slackhq/circuit/pull/1979) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make assisted injection detection more robust in code gen"
-
-**2025-02-28** — merged PR [#1980](https://github.com/slackhq/circuit/pull/1980) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Always name parameters in code gen""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
