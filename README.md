@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-01** — opened PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
+
+**2025-03-01** — created branch `z/exclusions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-02-28** — merged PR [#1981](https://github.com/slackhq/circuit/pull/1981) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add regression test for parameter order"
+
 **2025-02-28** — closed issue [#188](https://github.com/ZacSweers/metro/issues/188) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate function-returning providers"
 
 **2025-02-28** — merged PR [#202](https://github.com/ZacSweers/metro/pull/202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-28** — merged PR [#1979](https://github.com/slackhq/circuit/pull/1979) to [slackhq/circuit](https://github.com/slackhq/circuit): "Make assisted injection detection more robust in code gen"
 
 **2025-02-28** — merged PR [#1980](https://github.com/slackhq/circuit/pull/1980) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Always name parameters in code gen""
-
-**2025-02-28** — opened PR [#1980](https://github.com/slackhq/circuit/pull/1980) to [slackhq/circuit](https://github.com/slackhq/circuit): "Revert "Always name parameters in code gen""
-
-**2025-02-28** — created branch `revert-1977-z/namedArgs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-02-28** — closed issue [#1704](https://github.com/slackhq/circuit/issues/1704) on [slackhq/circuit](https://github.com/slackhq/circuit): "StaticScreen codegen broken for kotlinInject/kotlinInjectAnvil"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
