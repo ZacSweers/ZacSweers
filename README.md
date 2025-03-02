@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-02** — opened issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable"
+
+**2025-03-02** — closed issue [#136](https://github.com/ZacSweers/metro/issues/136) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@Contributes*.replaces` arguments"
+
+**2025-03-02** — merged PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
+
+**2025-03-02** — commented on [#203](https://github.com/ZacSweers/metro/pull/203#issuecomment-2692921717) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-01** — commented on [#1801](https://github.com/slackhq/circuit/issues/1801#issuecomment-2692409431) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-01** — commented on [#203](https://github.com/ZacSweers/metro/pull/203#issuecomment-2692407360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-01** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2692252486) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-01** — opened PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
-
-**2025-03-01** — created branch `z/exclusions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-02-28** — merged PR [#1981](https://github.com/slackhq/circuit/pull/1981) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add regression test for parameter order"
-
-**2025-02-28** — closed issue [#188](https://github.com/ZacSweers/metro/issues/188) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate function-returning providers"
-
-**2025-02-28** — merged PR [#202](https://github.com/ZacSweers/metro/pull/202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
