@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-01** — commented on [#1801](https://github.com/slackhq/circuit/issues/1801#issuecomment-2692409431) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-01** — commented on [#203](https://github.com/ZacSweers/metro/pull/203#issuecomment-2692407360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-01** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2692348948) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-01** — reopened issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-02-28** — closed issue [#188](https://github.com/ZacSweers/metro/issues/188) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate function-returning providers"
 
 **2025-02-28** — merged PR [#202](https://github.com/ZacSweers/metro/pull/202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
-
-**2025-02-28** — opened PR [#202](https://github.com/ZacSweers/metro/pull/202) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc fixes"
-
-**2025-02-28** — opened PR [#1981](https://github.com/slackhq/circuit/pull/1981) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add regression test for parameter order"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
