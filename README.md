@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-03** — created branch `z/commandOverload` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-03** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2695020639) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-03-02** — created branch `z/metro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-01** — commented on [#203](https://github.com/ZacSweers/metro/pull/203#issuecomment-2692407360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-01** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2692348948) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-01** — reopened issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
