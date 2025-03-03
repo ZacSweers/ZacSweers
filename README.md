@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-02** — created branch `z/metro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2025-03-02** — opened issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable"
 
 **2025-03-02** — closed issue [#136](https://github.com/ZacSweers/metro/issues/136) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@Contributes*.replaces` arguments"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-01** — reopened issue [#1285](https://github.com/slackhq/circuit/issues/1285) on [slackhq/circuit](https://github.com/slackhq/circuit): "Fast switching between tab bars causing creating new tab instead of restoring previous one"
 
 **2025-03-01** — commented on [#1285](https://github.com/slackhq/circuit/issues/1285#issuecomment-2692252486) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-01** — opened PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
