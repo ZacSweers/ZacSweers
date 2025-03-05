@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701526632) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701178294) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-05** — closed issue [#1988](https://github.com/slackhq/circuit/issues/1988) on [slackhq/circuit](https://github.com/slackhq/circuit): "ViewModel should be an implementation detail of circuit-retained"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-03** — created branch `z/commandOverload` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-03** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2695020639) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-03-02** — created branch `z/metro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
