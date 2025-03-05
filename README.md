@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701178294) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-05** — closed issue [#1988](https://github.com/slackhq/circuit/issues/1988) on [slackhq/circuit](https://github.com/slackhq/circuit): "ViewModel should be an implementation detail of circuit-retained"
+
 **2025-03-04** — closed issue [#207](https://github.com/ZacSweers/metro/issues/207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesBinding interop with daggerAnvil not working across modules"
 
 **2025-03-04** — commented on [#207](https://github.com/ZacSweers/metro/issues/207#issuecomment-2698930627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-03** — commented on [#308](https://github.com/ZacSweers/kotlin-compile-testing/issues/308#issuecomment-2695020639) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-03-02** — created branch `z/metro` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-03-02** — opened issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable"
-
-**2025-03-02** — closed issue [#136](https://github.com/ZacSweers/metro/issues/136) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@Contributes*.replaces` arguments"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
