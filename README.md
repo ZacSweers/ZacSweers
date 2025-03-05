@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-04** — closed issue [#207](https://github.com/ZacSweers/metro/issues/207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesBinding interop with daggerAnvil not working across modules"
+
+**2025-03-04** — commented on [#207](https://github.com/ZacSweers/metro/issues/207#issuecomment-2698930627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-03** — closed PR [#1236](https://github.com/slackhq/foundry/pull/1236) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.3.0"
 
 **2025-03-03** — opened PR [#1247](https://github.com/slackhq/foundry/pull/1247) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add validation task infrastructure + java version matcher"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-02** — opened issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable"
 
 **2025-03-02** — closed issue [#136](https://github.com/ZacSweers/metro/issues/136) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support `@Contributes*.replaces` arguments"
-
-**2025-03-02** — merged PR [#203](https://github.com/ZacSweers/metro/pull/203) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement exclusions and replacements"
-
-**2025-03-02** — commented on [#203](https://github.com/ZacSweers/metro/pull/203#issuecomment-2692921717) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
