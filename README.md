@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-05** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2702123219) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2701945179) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701768248) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-03** — closed PR [#1236](https://github.com/slackhq/foundry/pull/1236) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.3.0"
 
 **2025-03-03** — opened PR [#1247](https://github.com/slackhq/foundry/pull/1247) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add validation task infrastructure + java version matcher"
-
-**2025-03-03** — created branch `z/validateJavaVersion` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
