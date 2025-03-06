@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702589973) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702549637) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702504884) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-05** — merged PR [#204](https://github.com/ZacSweers/metro/pull/204) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.7"
+
+**2025-03-05** — merged PR [#208](https://github.com/ZacSweers/metro/pull/208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Jinja2 to v3.1.6"
+
 **2025-03-05** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2702123219) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2701945179) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701526632) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-05** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2701178294) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-05** — closed issue [#1988](https://github.com/slackhq/circuit/issues/1988) on [slackhq/circuit](https://github.com/slackhq/circuit): "ViewModel should be an implementation detail of circuit-retained"
-
-**2025-03-04** — closed issue [#207](https://github.com/ZacSweers/metro/issues/207) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesBinding interop with daggerAnvil not working across modules"
-
-**2025-03-04** — commented on [#207](https://github.com/ZacSweers/metro/issues/207#issuecomment-2698930627) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-03** — closed PR [#1236](https://github.com/slackhq/foundry/pull/1236) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update intellij.platform to v2.3.0"
-
-**2025-03-03** — opened PR [#1247](https://github.com/slackhq/foundry/pull/1247) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add validation task infrastructure + java version matcher"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
