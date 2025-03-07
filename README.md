@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-06** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2704843631) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-03-06** — commented on [#211](https://github.com/ZacSweers/metro/issues/211#issuecomment-2704605787) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-06** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2702863233) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-05** — merged PR [#208](https://github.com/ZacSweers/metro/pull/208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Jinja2 to v3.1.6"
 
 **2025-03-05** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2702123219) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2701945179) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
