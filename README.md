@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-07** — created branch `z/nestedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-03-06** — merged PR [#128](https://github.com/ZacSweers/metro/pull/128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use official compiler infrastructure"
+
 **2025-03-06** — merged PR [#137](https://github.com/ZacSweers/FieldSpottr/pull/137) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.5"
 
 **2025-03-06** — merged PR [#138](https://github.com/ZacSweers/FieldSpottr/pull/138) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.13"
@@ -15,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-06** — merged PR [#144](https://github.com/ZacSweers/FieldSpottr/pull/144) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.12.1"
 
 **2025-03-06** — merged PR [#140](https://github.com/ZacSweers/FieldSpottr/pull/140) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.0"
-
-**2025-03-06** — merged PR [#724](https://github.com/ZacSweers/MoshiX/pull/724) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
