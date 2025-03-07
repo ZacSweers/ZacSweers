@@ -4,25 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-03-06** — commented on [#211](https://github.com/ZacSweers/metro/issues/211#issuecomment-2704871466) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-03-06** — merged PR [#137](https://github.com/ZacSweers/FieldSpottr/pull/137) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.5"
 
-**2025-03-06** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2704843631) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-03-06** — merged PR [#138](https://github.com/ZacSweers/FieldSpottr/pull/138) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.13"
 
-**2025-03-06** — commented on [#211](https://github.com/ZacSweers/metro/issues/211#issuecomment-2704605787) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-03-06** — merged PR [#139](https://github.com/ZacSweers/FieldSpottr/pull/139) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.10.1"
 
-**2025-03-06** — commented on [#1988](https://github.com/slackhq/circuit/issues/1988#issuecomment-2702863233) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-03-06** — merged PR [#142](https://github.com/ZacSweers/FieldSpottr/pull/142) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.31"
 
-**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702761005) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-03-06** — merged PR [#144](https://github.com/ZacSweers/FieldSpottr/pull/144) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.12.1"
 
-**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702589973) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-03-06** — merged PR [#140](https://github.com/ZacSweers/FieldSpottr/pull/140) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.0"
 
-**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702549637) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-05** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2702504884) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-05** — merged PR [#204](https://github.com/ZacSweers/metro/pull/204) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.7"
-
-**2025-03-05** — merged PR [#208](https://github.com/ZacSweers/metro/pull/208) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Jinja2 to v3.1.6"
+**2025-03-06** — merged PR [#724](https://github.com/ZacSweers/MoshiX/pull/724) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinpoet to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
