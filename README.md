@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-07** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2707025247) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-03-07** — commented on [#1991](https://github.com/slackhq/circuit/issues/1991#issuecomment-2707022024) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-07** — closed issue [#1991](https://github.com/slackhq/circuit/issues/1991) on [slackhq/circuit](https://github.com/slackhq/circuit): "`ClassCastException` - App crash on launch using obfuscated release build using Circuit `0.27.0`"
+
 **2025-03-07** — created branch `z/nestedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-06** — merged PR [#128](https://github.com/ZacSweers/metro/pull/128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use official compiler infrastructure"
@@ -13,12 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-06** — merged PR [#138](https://github.com/ZacSweers/FieldSpottr/pull/138) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.13"
 
 **2025-03-06** — merged PR [#139](https://github.com/ZacSweers/FieldSpottr/pull/139) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency androidx.activity:activity-compose to v1.10.1"
-
-**2025-03-06** — merged PR [#142](https://github.com/ZacSweers/FieldSpottr/pull/142) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.10-1.0.31"
-
-**2025-03-06** — merged PR [#144](https://github.com/ZacSweers/FieldSpottr/pull/144) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.12.1"
-
-**2025-03-06** — merged PR [#140](https://github.com/ZacSweers/FieldSpottr/pull/140) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
