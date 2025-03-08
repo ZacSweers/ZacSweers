@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-07** — merged PR [#143](https://github.com/ZacSweers/FieldSpottr/pull/143) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.0"
+
+**2025-03-07** — opened PR [#1992](https://github.com/slackhq/circuit/pull/1992) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use .toUri"
+
+**2025-03-07** — created branch `z/toUri` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-07** — closed PR [#145](https://github.com/ZacSweers/FieldSpottr/pull/145) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix iOS?"
+
 **2025-03-07** — merged PR [#141](https://github.com/ZacSweers/FieldSpottr/pull/141) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.4.0"
 
 **2025-03-07** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2707265668) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-07** — commented on [#1991](https://github.com/slackhq/circuit/issues/1991#issuecomment-2707022024) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-07** — closed issue [#1991](https://github.com/slackhq/circuit/issues/1991) on [slackhq/circuit](https://github.com/slackhq/circuit): "`ClassCastException` - App crash on launch using obfuscated release build using Circuit `0.27.0`"
-
-**2025-03-07** — created branch `z/nestedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-06** — merged PR [#128](https://github.com/ZacSweers/metro/pull/128) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use official compiler infrastructure"
-
-**2025-03-06** — merged PR [#137](https://github.com/ZacSweers/FieldSpottr/pull/137) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.tools:desugar_jdk_libs to v2.1.5"
-
-**2025-03-06** — merged PR [#138](https://github.com/ZacSweers/FieldSpottr/pull/138) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
