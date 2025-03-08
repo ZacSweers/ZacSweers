@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-07** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2707265668) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-03-07** — commented on [#210](https://github.com/ZacSweers/metro/issues/210#issuecomment-2707203047) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-07** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2707025247) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2025-03-07** — commented on [#1991](https://github.com/slackhq/circuit/issues/1991#issuecomment-2707022024) in [slackhq/circuit](https://github.com/slackhq/circuit)
