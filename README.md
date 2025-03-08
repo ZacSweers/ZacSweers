@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-08** — merged PR [#217](https://github.com/ZacSweers/metro/pull/217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename BoundType -> binding"
+
+**2025-03-08** — merged PR [#215](https://github.com/ZacSweers/metro/pull/215) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.5.2"
+
+**2025-03-08** — merged PR [#216](https://github.com/ZacSweers/metro/pull/216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency lunr to v0.8.0"
+
+**2025-03-08** — opened PR [#217](https://github.com/ZacSweers/metro/pull/217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename BoundType -> binding"
+
+**2025-03-08** — created branch `z/bindingRename` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-03-08** — closed issue [#1670](https://github.com/slackhq/circuit/issues/1670) on [slackhq/circuit](https://github.com/slackhq/circuit): "Enable circuit-retained without composition local manual setup"
+
 **2025-03-08** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2708469027) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-07** — merged PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-07** — reopened PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
 
 **2025-03-07** — closed PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
-
-**2025-03-07** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2707620638) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-03-07** — merged PR [#143](https://github.com/ZacSweers/FieldSpottr/pull/143) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.0"
-
-**2025-03-07** — opened PR [#1992](https://github.com/slackhq/circuit/pull/1992) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use .toUri"
-
-**2025-03-07** — created branch `z/toUri` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-07** — closed PR [#145](https://github.com/ZacSweers/FieldSpottr/pull/145) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix iOS?"
-
-**2025-03-07** — merged PR [#141](https://github.com/ZacSweers/FieldSpottr/pull/141) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.4.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
