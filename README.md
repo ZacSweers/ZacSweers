@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-07** — merged PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
+
+**2025-03-07** — reopened PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
+
+**2025-03-07** — closed PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
+
+**2025-03-07** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2707620638) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
 **2025-03-07** — merged PR [#143](https://github.com/ZacSweers/FieldSpottr/pull/143) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.0"
 
 **2025-03-07** — opened PR [#1992](https://github.com/slackhq/circuit/pull/1992) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use .toUri"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-07** — merged PR [#141](https://github.com/ZacSweers/FieldSpottr/pull/141) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.4.0"
 
 **2025-03-07** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2707265668) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-07** — commented on [#210](https://github.com/ZacSweers/metro/issues/210#issuecomment-2707203047) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-07** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2707025247) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-03-07** — commented on [#1991](https://github.com/slackhq/circuit/issues/1991#issuecomment-2707022024) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-03-07** — closed issue [#1991](https://github.com/slackhq/circuit/issues/1991) on [slackhq/circuit](https://github.com/slackhq/circuit): "`ClassCastException` - App crash on launch using obfuscated release build using Circuit `0.27.0`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
