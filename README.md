@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-08** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2708469027) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-03-07** — merged PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
 
 **2025-03-07** — reopened PR [#357](https://github.com/slackhq/slack-lints/pull/357) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Added mockito-kotlin mock/spy functions to mock factories"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-07** — closed PR [#145](https://github.com/ZacSweers/FieldSpottr/pull/145) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix iOS?"
 
 **2025-03-07** — merged PR [#141](https://github.com/ZacSweers/FieldSpottr/pull/141) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency net.harawata:appdirs to v1.4.0"
-
-**2025-03-07** — commented on [#1670](https://github.com/slackhq/circuit/issues/1670#issuecomment-2707265668) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
