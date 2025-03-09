@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-09** — opened PR [#1254](https://github.com/slackhq/foundry/pull/1254) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP update JVM target and IJ platform"
+
+**2025-03-09** — created branch `test-renovate/agp` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-09** — merged PR [#1992](https://github.com/slackhq/circuit/pull/1992) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use .toUri"
 
 **2025-03-09** — merged PR [#220](https://github.com/ZacSweers/metro/pull/220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't generate java interop in wire"
@@ -15,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-09** — merged PR [#218](https://github.com/ZacSweers/metro/pull/218) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start preparing MetroMetadata"
 
 **2025-03-09** — merged PR [#295](https://github.com/ZacSweers/redacted-compiler-plugin/pull/295) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.13"
-
-**2025-03-09** — merged PR [#296](https://github.com/ZacSweers/redacted-compiler-plugin/pull/296) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.31"
-
-**2025-03-09** — merged PR [#297](https://github.com/ZacSweers/redacted-compiler-plugin/pull/297) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
