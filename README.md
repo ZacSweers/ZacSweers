@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-08** — merged PR [#219](https://github.com/ZacSweers/metro/pull/219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add CONTRIBUTING docs"
+
 **2025-03-08** — opened PR [#219](https://github.com/ZacSweers/metro/pull/219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add CONTRIBUTING docs"
 
 **2025-03-08** — created branch `z/contributing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-08** — opened PR [#217](https://github.com/ZacSweers/metro/pull/217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename BoundType -> binding"
 
 **2025-03-08** — created branch `z/bindingRename` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-08** — closed issue [#1670](https://github.com/slackhq/circuit/issues/1670) on [slackhq/circuit](https://github.com/slackhq/circuit): "Enable circuit-retained without composition local manual setup"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
