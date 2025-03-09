@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-03-08** — merged PR [#146](https://github.com/ZacSweers/FieldSpottr/pull/146) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.7.1"
+**2025-03-09** — merged PR [#1992](https://github.com/slackhq/circuit/pull/1992) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use .toUri"
 
-**2025-03-08** — merged PR [#219](https://github.com/ZacSweers/metro/pull/219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add CONTRIBUTING docs"
+**2025-03-09** — merged PR [#220](https://github.com/ZacSweers/metro/pull/220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't generate java interop in wire"
 
-**2025-03-08** — opened PR [#219](https://github.com/ZacSweers/metro/pull/219) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add CONTRIBUTING docs"
+**2025-03-09** — opened PR [#220](https://github.com/ZacSweers/metro/pull/220) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't generate java interop in wire"
 
-**2025-03-08** — created branch `z/contributing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-03-09** — created branch `z/moreWireWork` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-03-08** — opened PR [#218](https://github.com/ZacSweers/metro/pull/218) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start preparing MetroMetadata"
+**2025-03-09** — merged PR [#218](https://github.com/ZacSweers/metro/pull/218) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start preparing MetroMetadata"
 
-**2025-03-08** — created branch `z/metroMetadata` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-03-09** — merged PR [#295](https://github.com/ZacSweers/redacted-compiler-plugin/pull/295) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.13"
 
-**2025-03-08** — merged PR [#217](https://github.com/ZacSweers/metro/pull/217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename BoundType -> binding"
+**2025-03-09** — merged PR [#296](https://github.com/ZacSweers/redacted-compiler-plugin/pull/296) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.10-1.0.31"
 
-**2025-03-08** — merged PR [#215](https://github.com/ZacSweers/metro/pull/215) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.5.2"
-
-**2025-03-08** — merged PR [#216](https://github.com/ZacSweers/metro/pull/216) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency lunr to v0.8.0"
-
-**2025-03-08** — opened PR [#217](https://github.com/ZacSweers/metro/pull/217) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename BoundType -> binding"
+**2025-03-09** — merged PR [#297](https://github.com/ZacSweers/redacted-compiler-plugin/pull/297) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
