@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-10** — created tag `0.25.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-10** — created tag `0.25.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-10** — merged PR [#1255](https://github.com/slackhq/foundry/pull/1255) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update JVM target to 21 and kotlin to 2.0 for gradle"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-09** — created branch `z/publishingFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-09** — opened PR [#1254](https://github.com/slackhq/foundry/pull/1254) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP update JVM target and IJ platform"
-
-**2025-03-09** — created branch `test-renovate/agp` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
