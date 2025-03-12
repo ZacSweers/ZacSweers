@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-10** — opened PR [#1255](https://github.com/slackhq/foundry/pull/1255) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update JVM target to 21 and kotlin to 2.0 for gradle"
 
 **2025-03-10** — created branch `z/jvmtarget21` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-09** — merged PR [#221](https://github.com/ZacSweers/metro/pull/221) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix publishing in shadowing"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
