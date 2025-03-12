@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-12** — opened PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
+
+**2025-03-12** — created branch `z/configurableJvmTarget` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-11** — created tag `0.25.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-11** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2714585046) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-10** — merged PR [#1255](https://github.com/slackhq/foundry/pull/1255) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update JVM target to 21 and kotlin to 2.0 for gradle"
 
 **2025-03-10** — merged PR [#1247](https://github.com/slackhq/foundry/pull/1247) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add validation task infrastructure + java/kotlin version matcher"
-
-**2025-03-10** — opened PR [#1255](https://github.com/slackhq/foundry/pull/1255) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update JVM target to 21 and kotlin to 2.0 for gradle"
-
-**2025-03-10** — created branch `z/jvmtarget21` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
