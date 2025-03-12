@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-12** — created tag `0.25.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-12** — merged PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
+
+**2025-03-12** — commented on [#1258](https://github.com/slackhq/foundry/pull/1258#issuecomment-2718883291) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-12** — opened PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
 
 **2025-03-12** — created branch `z/configurableJvmTarget` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-11** — merged PR [#222](https://github.com/ZacSweers/metro/pull/222) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throws CliOptionProcessingException instead of IllegalStateException"
 
 **2025-03-10** — created tag `0.25.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-10** — created tag `0.25.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-10** — merged PR [#1255](https://github.com/slackhq/foundry/pull/1255) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update JVM target to 21 and kotlin to 2.0 for gradle"
-
-**2025-03-10** — merged PR [#1247](https://github.com/slackhq/foundry/pull/1247) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add validation task infrastructure + java/kotlin version matcher"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
