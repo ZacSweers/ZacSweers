@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-13** — commented on [#120](https://github.com/slackhq/foundry/issues/120#issuecomment-2723301349) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-13** — closed issue [#120](https://github.com/slackhq/foundry/issues/120) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for specifying detekt ruleset dependencies"
+
+**2025-03-13** — commented on [#525](https://github.com/slackhq/foundry/issues/525#issuecomment-2723300622) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-13** — closed issue [#525](https://github.com/slackhq/foundry/issues/525) on [slackhq/foundry](https://github.com/slackhq/foundry): "Anvil dagger config isn't applied correctly if SGP isn't applied first in plugins"
+
+**2025-03-13** — commented on [#1197](https://github.com/slackhq/foundry/issues/1197#issuecomment-2723299580) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-13** — closed issue [#1197](https://github.com/slackhq/foundry/issues/1197) on [slackhq/foundry](https://github.com/slackhq/foundry): "JVM toolchain does not get set for KMP modules."
+
+**2025-03-13** — opened PR [#1260](https://github.com/slackhq/foundry/pull/1260) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small module topography fixes + tests"
+
+**2025-03-13** — created branch `z/moreTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-13** — opened issue [#8017](https://github.com/detekt/detekt/issues/8017) on [detekt/detekt](https://github.com/detekt/detekt): "Support JVM Target 23"
 
 **2025-03-12** — created tag `0.25.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-12** — merged PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
-
-**2025-03-12** — commented on [#1258](https://github.com/slackhq/foundry/pull/1258#issuecomment-2718883291) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-12** — opened PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
-
-**2025-03-12** — created branch `z/configurableJvmTarget` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-11** — created tag `0.25.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-11** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2714585046) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-11** — merged PR [#222](https://github.com/ZacSweers/metro/pull/222) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throws CliOptionProcessingException instead of IllegalStateException"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
