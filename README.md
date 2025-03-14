@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-13** — opened issue [#8017](https://github.com/detekt/detekt/issues/8017) on [detekt/detekt](https://github.com/detekt/detekt): "Support JVM Target 23"
+
 **2025-03-12** — created tag `0.25.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-12** — merged PR [#1258](https://github.com/slackhq/foundry/pull/1258) to [slackhq/foundry](https://github.com/slackhq/foundry): "Make jvmTarget configurable per-project"
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-11** — commented on [#165](https://github.com/ZacSweers/metro/issues/165#issuecomment-2714585046) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-11** — merged PR [#222](https://github.com/ZacSweers/metro/pull/222) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throws CliOptionProcessingException instead of IllegalStateException"
-
-**2025-03-10** — created tag `0.25.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
