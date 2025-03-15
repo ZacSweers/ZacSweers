@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-14** — merged PR [#1261](https://github.com/slackhq/foundry/pull/1261) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2.12.0"
+
+**2025-03-14** — merged PR [#1260](https://github.com/slackhq/foundry/pull/1260) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small module topography fixes + tests"
+
 **2025-03-13** — commented on [#120](https://github.com/slackhq/foundry/issues/120#issuecomment-2723301349) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-13** — closed issue [#120](https://github.com/slackhq/foundry/issues/120) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for specifying detekt ruleset dependencies"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-13** — opened PR [#1260](https://github.com/slackhq/foundry/pull/1260) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small module topography fixes + tests"
 
 **2025-03-13** — created branch `z/moreTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-13** — opened issue [#8017](https://github.com/detekt/detekt/issues/8017) on [detekt/detekt](https://github.com/detekt/detekt): "Support JVM Target 23"
-
-**2025-03-12** — created tag `0.25.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
