@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-14** — created tag `0.25.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-14** — merged PR [#1261](https://github.com/slackhq/foundry/pull/1261) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2.12.0"
 
 **2025-03-14** — merged PR [#1260](https://github.com/slackhq/foundry/pull/1260) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small module topography fixes + tests"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-13** — closed issue [#1197](https://github.com/slackhq/foundry/issues/1197) on [slackhq/foundry](https://github.com/slackhq/foundry): "JVM toolchain does not get set for KMP modules."
 
 **2025-03-13** — opened PR [#1260](https://github.com/slackhq/foundry/pull/1260) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small module topography fixes + tests"
-
-**2025-03-13** — created branch `z/moreTopography` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
