@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-14** — merged PR [#1262](https://github.com/slackhq/foundry/pull/1262) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Java agent configuration in tests"
+
+**2025-03-14** — commented on [#1262](https://github.com/slackhq/foundry/pull/1262#issuecomment-2725756307) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-14** — commented on [#32464](https://github.com/gradle/gradle/issues/32464#issuecomment-2725579307) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-03-14** — opened PR [#1262](https://github.com/slackhq/foundry/pull/1262) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Java agent configuration in tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-13** — commented on [#120](https://github.com/slackhq/foundry/issues/120#issuecomment-2723301349) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-13** — closed issue [#120](https://github.com/slackhq/foundry/issues/120) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add configuration for specifying detekt ruleset dependencies"
-
-**2025-03-13** — commented on [#525](https://github.com/slackhq/foundry/issues/525#issuecomment-2723300622) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-13** — closed issue [#525](https://github.com/slackhq/foundry/issues/525) on [slackhq/foundry](https://github.com/slackhq/foundry): "Anvil dagger config isn't applied correctly if SGP isn't applied first in plugins"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
