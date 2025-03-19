@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-18** — opened PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
+
+**2025-03-18** — created branch `z/moreProblemsApi` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-18** — merged PR [#224](https://github.com/ZacSweers/metro/pull/224) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.9"
+
+**2025-03-18** — merged PR [#223](https://github.com/ZacSweers/metro/pull/223) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.5.4"
+
+**2025-03-18** — merged PR [#1265](https://github.com/slackhq/foundry/pull/1265) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use Gradle Problems API for module validation reporting"
+
+**2025-03-18** — merged PR [#227](https://github.com/ZacSweers/metro/pull/227) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta11"
+
 **2025-03-18** — reopened PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
 
 **2025-03-18** — closed PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-17** — opened PR [#1265](https://github.com/slackhq/foundry/pull/1265) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use Gradle Problems API for module validation reporting"
 
 **2025-03-17** — created branch `z/improveTopographyReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-17** — opened issue [#1264](https://github.com/slackhq/foundry/issues/1264) on [slackhq/foundry](https://github.com/slackhq/foundry): "Skate crash in IJ 2025.1 EAP"
-
-**2025-03-15** — merged PR [#225](https://github.com/ZacSweers/metro/pull/225) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a function typo in dagger interop"
-
-**2025-03-14** — merged PR [#1262](https://github.com/slackhq/foundry/pull/1262) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Java agent configuration in tests"
-
-**2025-03-14** — commented on [#1262](https://github.com/slackhq/foundry/pull/1262#issuecomment-2725756307) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-14** — commented on [#32464](https://github.com/gradle/gradle/issues/32464#issuecomment-2725579307) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-03-14** — opened PR [#1262](https://github.com/slackhq/foundry/pull/1262) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Java agent configuration in tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
