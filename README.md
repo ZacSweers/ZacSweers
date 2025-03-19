@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-18** — reopened PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
+
+**2025-03-18** — closed PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
+
 **2025-03-17** — opened PR [#1265](https://github.com/slackhq/foundry/pull/1265) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use Gradle Problems API for module validation reporting"
 
 **2025-03-17** — created branch `z/improveTopographyReports` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-14** — commented on [#32464](https://github.com/gradle/gradle/issues/32464#issuecomment-2725579307) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-03-14** — opened PR [#1262](https://github.com/slackhq/foundry/pull/1262) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Java agent configuration in tests"
-
-**2025-03-14** — created branch `z/mockitoAgent` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-14** — created tag `0.25.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
