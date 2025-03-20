@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-19** — merged PR [#229](https://github.com/ZacSweers/metro/pull/229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker to ensure ContributesTo is only applied to interfaces"
+
+**2025-03-19** — merged PR [#228](https://github.com/ZacSweers/metro/pull/228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Permit open classes to use @Inject annotation"
+
 **2025-03-18** — merged PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
 
 **2025-03-18** — opened PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
@@ -13,16 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-18** — merged PR [#224](https://github.com/ZacSweers/metro/pull/224) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.9"
 
 **2025-03-18** — merged PR [#223](https://github.com/ZacSweers/metro/pull/223) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.5.4"
-
-**2025-03-18** — merged PR [#1265](https://github.com/slackhq/foundry/pull/1265) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use Gradle Problems API for module validation reporting"
-
-**2025-03-18** — merged PR [#227](https://github.com/ZacSweers/metro/pull/227) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta11"
-
-**2025-03-18** — reopened PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
-
-**2025-03-18** — closed PR [#2000](https://github.com/slackhq/circuit/pull/2000) to [slackhq/circuit](https://github.com/slackhq/circuit): "[Docs] Decouple Screen class from State class in the docs example"
-
-**2025-03-17** — opened PR [#1265](https://github.com/slackhq/foundry/pull/1265) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use Gradle Problems API for module validation reporting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
