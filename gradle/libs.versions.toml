@@ -36,5 +36,5 @@ mordant-coroutines = { module = "com.github.ajalt.mordant:mordant-coroutines", v
 mordant-markdown = { module = "com.github.ajalt.mordant:mordant-markdown", version.ref = "mordant" }
 okhttp = "com.squareup.okhttp3:okhttp:5.0.0-alpha.14"
 okio = "com.squareup.okio:okio:3.10.2"
-slf4jNop = "org.slf4j:slf4j-nop:2.0.16"
+slf4jNop = "org.slf4j:slf4j-nop:2.0.17"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
