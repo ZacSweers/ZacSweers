@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-19** — commented on [#205](https://github.com/ZacSweers/metro/issues/205#issuecomment-2738079314) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-19** — merged PR [#229](https://github.com/ZacSweers/metro/pull/229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker to ensure ContributesTo is only applied to interfaces"
 
 **2025-03-19** — merged PR [#228](https://github.com/ZacSweers/metro/pull/228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Permit open classes to use @Inject annotation"
