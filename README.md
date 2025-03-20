@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-18** — created branch `z/moreProblemsApi` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-18** — merged PR [#224](https://github.com/ZacSweers/metro/pull/224) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.9"
-
-**2025-03-18** — merged PR [#223](https://github.com/ZacSweers/metro/pull/223) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.5.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
