@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-22** — merged PR [#234](https://github.com/ZacSweers/ZacSweers/pull/234) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.13"
+
+**2025-03-22** — merged PR [#235](https://github.com/ZacSweers/ZacSweers/pull/235) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.17"
+
+**2025-03-22** — closed issue [#231](https://github.com/ZacSweers/metro/issues/231) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers for explicit binding types"
+
+**2025-03-22** — merged PR [#239](https://github.com/ZacSweers/metro/pull/239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report additional information when duplicate bindings are detected"
+
+**2025-03-22** — merged PR [#238](https://github.com/ZacSweers/metro/pull/238) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bug where type of MembersInjector was always Unit"
+
 **2025-03-22** — commented on [#235](https://github.com/ZacSweers/metro/issues/235#issuecomment-2745837651) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-22** — merged PR [#232](https://github.com/ZacSweers/metro/pull/232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers on contributed bindings when setting an explicit binding type"
@@ -11,18 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — closed PR [#70](https://github.com/ZacSweers/metro/pull/70) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.1.20-Beta1"
 
 **2025-03-22** — merged PR [#233](https://github.com/ZacSweers/metro/pull/233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Simplify testData file paths in TestDataPluginSettings"
-
-**2025-03-22** — merged PR [#240](https://github.com/ZacSweers/metro/pull/240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding.Alias + metadata-based ProviderFactory API for provides"
-
-**2025-03-22** — closed PR [#234](https://github.com/ZacSweers/metro/pull/234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.1.20"
-
-**2025-03-22** — closed PR [#237](https://github.com/ZacSweers/metro/pull/237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-1.0.31"
-
-**2025-03-22** — opened PR [#240](https://github.com/ZacSweers/metro/pull/240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding.Alias + metadata-based ProviderFactory API for provides"
-
-**2025-03-22** — created branch `z/metadataProvides` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-21** — commented on [#1264](https://github.com/slackhq/foundry/issues/1264#issuecomment-2744570421) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
