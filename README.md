@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-21** — commented on [#1264](https://github.com/slackhq/foundry/issues/1264#issuecomment-2744570421) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-21** — opened PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
 
 **2025-03-21** — created branch `z/copyPaths` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-21** — commented on [#1270](https://github.com/slackhq/foundry/pull/1270#issuecomment-2744197454) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-21** — closed PR [#1271](https://github.com/slackhq/foundry/pull/1271) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ksp monorepo to v2.1.20-1.0.31"
-
-**2025-03-21** — closed PR [#1268](https://github.com/slackhq/foundry/pull/1268) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.1.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
