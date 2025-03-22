@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-22** — commented on [#235](https://github.com/ZacSweers/metro/issues/235#issuecomment-2745837651) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-03-22** — merged PR [#232](https://github.com/ZacSweers/metro/pull/232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers on contributed bindings when setting an explicit binding type"
+
+**2025-03-22** — closed PR [#70](https://github.com/ZacSweers/metro/pull/70) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.1.20-Beta1"
+
+**2025-03-22** — merged PR [#233](https://github.com/ZacSweers/metro/pull/233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Simplify testData file paths in TestDataPluginSettings"
+
+**2025-03-22** — merged PR [#240](https://github.com/ZacSweers/metro/pull/240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding.Alias + metadata-based ProviderFactory API for provides"
+
+**2025-03-22** — closed PR [#234](https://github.com/ZacSweers/metro/pull/234) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.1.20"
+
+**2025-03-22** — closed PR [#237](https://github.com/ZacSweers/metro/pull/237) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-1.0.31"
+
+**2025-03-22** — opened PR [#240](https://github.com/ZacSweers/metro/pull/240) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding.Alias + metadata-based ProviderFactory API for provides"
+
+**2025-03-22** — created branch `z/metadataProvides` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-21** — commented on [#1264](https://github.com/slackhq/foundry/issues/1264#issuecomment-2744570421) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-21** — opened PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
-
-**2025-03-21** — created branch `z/copyPaths` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-21** — merged PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
-
-**2025-03-21** — closed issue [#614](https://github.com/slackhq/foundry/issues/614) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add button to open WHATSNEW.md file from panel"
-
-**2025-03-21** — merged PR [#1270](https://github.com/slackhq/foundry/pull/1270) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add whatsnew action + edit button"
-
-**2025-03-21** — commented on [#613](https://github.com/slackhq/foundry/issues/613#issuecomment-2744206404) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-21** — closed issue [#613](https://github.com/slackhq/foundry/issues/613) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add "What's New" action to open panel on demand"
-
-**2025-03-21** — commented on [#1270](https://github.com/slackhq/foundry/pull/1270#issuecomment-2744197454) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-21** — closed PR [#1271](https://github.com/slackhq/foundry/pull/1271) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ksp monorepo to v2.1.20-1.0.31"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
