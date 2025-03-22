@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-21** — commented on [#1270](https://github.com/slackhq/foundry/pull/1270#issuecomment-2744197454) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-21** — closed PR [#1271](https://github.com/slackhq/foundry/pull/1271) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ksp monorepo to v2.1.20-1.0.31"
+
+**2025-03-21** — closed PR [#1268](https://github.com/slackhq/foundry/pull/1268) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.1.20"
+
+**2025-03-21** — opened PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
+
+**2025-03-21** — created branch `z/projectGenLock` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-21** — merged PR [#1269](https://github.com/slackhq/foundry/pull/1269) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete unused Maps util"
 
 **2025-03-19** — commented on [#205](https://github.com/ZacSweers/metro/issues/205#issuecomment-2738079314) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-19** — merged PR [#228](https://github.com/ZacSweers/metro/pull/228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Permit open classes to use @Inject annotation"
 
 **2025-03-18** — merged PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
-
-**2025-03-18** — opened PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
-
-**2025-03-18** — created branch `z/moreProblemsApi` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-18** — merged PR [#224](https://github.com/ZacSweers/metro/pull/224) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
