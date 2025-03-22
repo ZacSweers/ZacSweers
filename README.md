@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-21** — merged PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
+
+**2025-03-21** — closed issue [#614](https://github.com/slackhq/foundry/issues/614) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add button to open WHATSNEW.md file from panel"
+
+**2025-03-21** — merged PR [#1270](https://github.com/slackhq/foundry/pull/1270) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add whatsnew action + edit button"
+
+**2025-03-21** — commented on [#613](https://github.com/slackhq/foundry/issues/613#issuecomment-2744206404) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-21** — closed issue [#613](https://github.com/slackhq/foundry/issues/613) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add "What's New" action to open panel on demand"
+
 **2025-03-21** — commented on [#1270](https://github.com/slackhq/foundry/pull/1270#issuecomment-2744197454) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-21** — closed PR [#1271](https://github.com/slackhq/foundry/pull/1271) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ksp monorepo to v2.1.20-1.0.31"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-21** — opened PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
 
 **2025-03-21** — created branch `z/projectGenLock` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-21** — merged PR [#1269](https://github.com/slackhq/foundry/pull/1269) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete unused Maps util"
-
-**2025-03-19** — commented on [#205](https://github.com/ZacSweers/metro/issues/205#issuecomment-2738079314) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-19** — merged PR [#229](https://github.com/ZacSweers/metro/pull/229) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checker to ensure ContributesTo is only applied to interfaces"
-
-**2025-03-19** — merged PR [#228](https://github.com/ZacSweers/metro/pull/228) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Permit open classes to use @Inject annotation"
-
-**2025-03-18** — merged PR [#1266](https://github.com/slackhq/foundry/pull/1266) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use the problems API in more places"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
