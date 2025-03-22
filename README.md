@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-21** — opened PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
+
+**2025-03-21** — created branch `z/copyPaths` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-21** — merged PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
 
 **2025-03-21** — closed issue [#614](https://github.com/slackhq/foundry/issues/614) on [slackhq/foundry](https://github.com/slackhq/foundry): "Add button to open WHATSNEW.md file from panel"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-21** — closed PR [#1271](https://github.com/slackhq/foundry/pull/1271) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ksp monorepo to v2.1.20-1.0.31"
 
 **2025-03-21** — closed PR [#1268](https://github.com/slackhq/foundry/pull/1268) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlin monorepo to v2.1.20"
-
-**2025-03-21** — opened PR [#1273](https://github.com/slackhq/foundry/pull/1273) to [slackhq/foundry](https://github.com/slackhq/foundry): "Delete project gen lock"
-
-**2025-03-21** — created branch `z/projectGenLock` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
