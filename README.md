@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-22** — merged PR [#325](https://github.com/ZacSweers/kotlin-compile-testing/pull/325) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.13"
+
+**2025-03-22** — merged PR [#326](https://github.com/ZacSweers/kotlin-compile-testing/pull/326) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.1.0"
+
+**2025-03-22** — merged PR [#328](https://github.com/ZacSweers/kotlin-compile-testing/pull/328) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.31.0"
+
+**2025-03-22** — merged PR [#327](https://github.com/ZacSweers/kotlin-compile-testing/pull/327) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.16.1"
+
+**2025-03-22** — commented on [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329#issuecomment-2745898091) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-03-22** — merged PR [#234](https://github.com/ZacSweers/ZacSweers/pull/234) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.13"
 
 **2025-03-22** — merged PR [#235](https://github.com/ZacSweers/ZacSweers/pull/235) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.17"
@@ -13,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — merged PR [#239](https://github.com/ZacSweers/metro/pull/239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report additional information when duplicate bindings are detected"
 
 **2025-03-22** — merged PR [#238](https://github.com/ZacSweers/metro/pull/238) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bug where type of MembersInjector was always Unit"
-
-**2025-03-22** — commented on [#235](https://github.com/ZacSweers/metro/issues/235#issuecomment-2745837651) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-22** — merged PR [#232](https://github.com/ZacSweers/metro/pull/232) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers on contributed bindings when setting an explicit binding type"
-
-**2025-03-22** — closed PR [#70](https://github.com/ZacSweers/metro/pull/70) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.1.20-Beta1"
-
-**2025-03-22** — merged PR [#233](https://github.com/ZacSweers/metro/pull/233) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Simplify testData file paths in TestDataPluginSettings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
