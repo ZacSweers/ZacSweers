@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-22** — merged PR [#230](https://github.com/ZacSweers/metro/pull/230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56"
+
 **2025-03-22** — merged PR [#325](https://github.com/ZacSweers/kotlin-compile-testing/pull/325) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.13"
 
 **2025-03-22** — merged PR [#326](https://github.com/ZacSweers/kotlin-compile-testing/pull/326) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.1.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — closed issue [#231](https://github.com/ZacSweers/metro/issues/231) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers for explicit binding types"
 
 **2025-03-22** — merged PR [#239](https://github.com/ZacSweers/metro/pull/239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report additional information when duplicate bindings are detected"
-
-**2025-03-22** — merged PR [#238](https://github.com/ZacSweers/metro/pull/238) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix bug where type of MembersInjector was always Unit"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
