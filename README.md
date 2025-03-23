@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-23** — opened PR [#242](https://github.com/ZacSweers/metro/pull/242) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial pass at detached graph extensions"
+
+**2025-03-23** — created branch `z/detachedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-22** — merged PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
 
 **2025-03-22** — opened PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — merged PR [#328](https://github.com/ZacSweers/kotlin-compile-testing/pull/328) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.31.0"
 
 **2025-03-22** — merged PR [#327](https://github.com/ZacSweers/kotlin-compile-testing/pull/327) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.16.1"
-
-**2025-03-22** — commented on [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329#issuecomment-2745898091) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-03-22** — merged PR [#234](https://github.com/ZacSweers/ZacSweers/pull/234) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
