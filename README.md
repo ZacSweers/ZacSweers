@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-22** — merged PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
+
+**2025-03-22** — opened PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
+
+**2025-03-22** — created branch `z/optimize` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-22** — merged PR [#230](https://github.com/ZacSweers/metro/pull/230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56"
 
 **2025-03-22** — merged PR [#325](https://github.com/ZacSweers/kotlin-compile-testing/pull/325) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.13"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — commented on [#329](https://github.com/ZacSweers/kotlin-compile-testing/issues/329#issuecomment-2745898091) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-03-22** — merged PR [#234](https://github.com/ZacSweers/ZacSweers/pull/234) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.13"
-
-**2025-03-22** — merged PR [#235](https://github.com/ZacSweers/ZacSweers/pull/235) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.slf4j:slf4j-nop to v2.0.17"
-
-**2025-03-22** — closed issue [#231](https://github.com/ZacSweers/metro/issues/231) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support class-level qualifiers for explicit binding types"
-
-**2025-03-22** — merged PR [#239](https://github.com/ZacSweers/metro/pull/239) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report additional information when duplicate bindings are detected"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
