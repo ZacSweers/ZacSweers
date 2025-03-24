@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-24** — closed issue [#1049](https://github.com/slackhq/foundry/issues/1049) on [slackhq/foundry](https://github.com/slackhq/foundry): "FR: Skate option to copy gradle project path from project navigator"
+
+**2025-03-24** — merged PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
+
 **2025-03-23** — opened PR [#242](https://github.com/ZacSweers/metro/pull/242) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial pass at detached graph extensions"
 
 **2025-03-23** — created branch `z/detachedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — merged PR [#325](https://github.com/ZacSweers/kotlin-compile-testing/pull/325) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.13"
 
 **2025-03-22** — merged PR [#326](https://github.com/ZacSweers/kotlin-compile-testing/pull/326) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.1.0"
-
-**2025-03-22** — merged PR [#328](https://github.com/ZacSweers/kotlin-compile-testing/pull/328) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.31.0"
-
-**2025-03-22** — merged PR [#327](https://github.com/ZacSweers/kotlin-compile-testing/pull/327) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.16.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
