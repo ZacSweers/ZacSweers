@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-25** — commented on [#178](https://github.com/ZacSweers/metro/issues/178#issuecomment-2752356015) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-03-25** — merged PR [#246](https://github.com/ZacSweers/metro/pull/246) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.1"
+
+**2025-03-25** — closed issue [#235](https://github.com/ZacSweers/metro/issues/235) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor injection fails when there is a parameter annotated with a qualifier with a class argument (e.g. @ForScope)"
+
+**2025-03-25** — closed issue [#235](https://github.com/ZacSweers/metro/issues/235) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor injection fails when there is a parameter annotated with a qualifier with a class argument (e.g. @ForScope)"
+
+**2025-03-25** — merged PR [#245](https://github.com/ZacSweers/metro/pull/245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Safe copy all parameter annotations from constructor args when generating factories (fixes #235)"
+
+**2025-03-25** — merged PR [#244](https://github.com/ZacSweers/metro/pull/244) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.0"
+
 **2025-03-24** — opened PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP InstanceFactory as a value calss"
 
 **2025-03-24** — created branch `z/valueClassInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-24** — closed issue [#1049](https://github.com/slackhq/foundry/issues/1049) on [slackhq/foundry](https://github.com/slackhq/foundry): "FR: Skate option to copy gradle project path from project navigator"
 
 **2025-03-24** — merged PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
-
-**2025-03-23** — opened PR [#242](https://github.com/ZacSweers/metro/pull/242) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial pass at detached graph extensions"
-
-**2025-03-23** — created branch `z/detachedGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-22** — merged PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
-
-**2025-03-22** — opened PR [#241](https://github.com/ZacSweers/metro/pull/241) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc tweaks"
-
-**2025-03-22** — created branch `z/optimize` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-22** — merged PR [#230](https://github.com/ZacSweers/metro/pull/230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
