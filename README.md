@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-24** — created branch `z/valueClassInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-03-24** — closed issue [#1049](https://github.com/slackhq/foundry/issues/1049) on [slackhq/foundry](https://github.com/slackhq/foundry): "FR: Skate option to copy gradle project path from project navigator"
 
 **2025-03-24** — merged PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-22** — merged PR [#230](https://github.com/ZacSweers/metro/pull/230) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56"
 
 **2025-03-22** — merged PR [#325](https://github.com/ZacSweers/kotlin-compile-testing/pull/325) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.13"
-
-**2025-03-22** — merged PR [#326](https://github.com/ZacSweers/kotlin-compile-testing/pull/326) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
