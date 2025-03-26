@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-26** — closed PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
+
+**2025-03-26** — merged PR [#294](https://github.com/ZacSweers/redacted-compiler-plugin/pull/294) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.1"
+
+**2025-03-26** — merged PR [#290](https://github.com/ZacSweers/redacted-compiler-plugin/pull/290) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.1.20"
+
 **2025-03-25** — commented on [#178](https://github.com/ZacSweers/metro/issues/178#issuecomment-2752356015) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-03-25** — merged PR [#246](https://github.com/ZacSweers/metro/pull/246) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-25** — merged PR [#244](https://github.com/ZacSweers/metro/pull/244) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.0"
 
 **2025-03-24** — opened PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP InstanceFactory as a value calss"
-
-**2025-03-24** — created branch `z/valueClassInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-24** — closed issue [#1049](https://github.com/slackhq/foundry/issues/1049) on [slackhq/foundry](https://github.com/slackhq/foundry): "FR: Skate option to copy gradle project path from project navigator"
-
-**2025-03-24** — merged PR [#1275](https://github.com/slackhq/foundry/pull/1275) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add gradle path copy actions to Skate"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
