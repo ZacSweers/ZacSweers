@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-26** — merged PR [#1227](https://github.com/slackhq/foundry/pull/1227) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.1.20"
+
 **2025-03-26** — created tag `0.30.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2025-03-26** — merged PR [#718](https://github.com/ZacSweers/MoshiX/pull/718) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.1.20"
@@ -13,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-26** — closed PR [#732](https://github.com/ZacSweers/MoshiX/pull/732) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-1.0.31"
 
 **2025-03-26** — merged PR [#733](https://github.com/ZacSweers/MoshiX/pull/733) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.9.1"
-
-**2025-03-26** — merged PR [#734](https://github.com/ZacSweers/MoshiX/pull/734) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.9.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
