@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-03-26** — closed PR [#284](https://github.com/ZacSweers/redacted-compiler-plugin/pull/284) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Repro FIR issue"
+**2025-03-26** — closed PR [#730](https://github.com/ZacSweers/MoshiX/pull/730) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-218"
 
-**2025-03-26** — merged PR [#294](https://github.com/ZacSweers/redacted-compiler-plugin/pull/294) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.1"
+**2025-03-26** — closed PR [#732](https://github.com/ZacSweers/MoshiX/pull/732) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-1.0.31"
 
-**2025-03-26** — merged PR [#290](https://github.com/ZacSweers/redacted-compiler-plugin/pull/290) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Kotlin 2.1.20"
+**2025-03-26** — merged PR [#733](https://github.com/ZacSweers/MoshiX/pull/733) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.9.1"
 
-**2025-03-25** — commented on [#178](https://github.com/ZacSweers/metro/issues/178#issuecomment-2752356015) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-03-26** — merged PR [#734](https://github.com/ZacSweers/MoshiX/pull/734) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.9.1"
 
-**2025-03-25** — merged PR [#246](https://github.com/ZacSweers/metro/pull/246) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.1"
+**2025-03-26** — merged PR [#731](https://github.com/ZacSweers/MoshiX/pull/731) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.4.6-jre"
 
-**2025-03-25** — closed issue [#235](https://github.com/ZacSweers/metro/issues/235) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor injection fails when there is a parameter annotated with a qualifier with a class argument (e.g. @ForScope)"
+**2025-03-26** — commented on [#303](https://github.com/ZacSweers/redacted-compiler-plugin/issues/303#issuecomment-2755091702) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-03-25** — closed issue [#235](https://github.com/ZacSweers/metro/issues/235) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor injection fails when there is a parameter annotated with a qualifier with a class argument (e.g. @ForScope)"
+**2025-03-26** — closed issue [#303](https://github.com/ZacSweers/redacted-compiler-plugin/issues/303) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Add support for kotlin 2.1.20"
 
-**2025-03-25** — merged PR [#245](https://github.com/ZacSweers/metro/pull/245) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Safe copy all parameter annotations from constructor args when generating factories (fixes #235)"
+**2025-03-26** — created tag `1.13.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-03-25** — merged PR [#244](https://github.com/ZacSweers/metro/pull/244) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.0"
+**2025-03-26** — commented on [#1254](https://github.com/slackhq/foundry/pull/1254#issuecomment-2755073104) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-03-24** — opened PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP InstanceFactory as a value calss"
+**2025-03-26** — closed PR [#1254](https://github.com/slackhq/foundry/pull/1254) to [slackhq/foundry](https://github.com/slackhq/foundry): "WIP update JVM target and IJ platform"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
