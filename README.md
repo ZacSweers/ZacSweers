@@ -4,17 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-26** — commented on [#170](https://github.com/ZacSweers/metro/pull/170#issuecomment-2755848310) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-03-26** — closed PR [#170](https://github.com/ZacSweers/metro/pull/170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP Implement GraphExtension"
+
+**2025-03-26** — merged PR [#248](https://github.com/ZacSweers/metro/pull/248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.3"
+
+**2025-03-26** — merged PR [#247](https://github.com/ZacSweers/metro/pull/247) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-1.0.32"
+
 **2025-03-26** — merged PR [#1227](https://github.com/slackhq/foundry/pull/1227) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.1.20"
 
 **2025-03-26** — created tag `0.30.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2025-03-26** — merged PR [#718](https://github.com/ZacSweers/MoshiX/pull/718) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.1.20"
-
-**2025-03-26** — closed PR [#730](https://github.com/ZacSweers/MoshiX/pull/730) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.20-218"
-
-**2025-03-26** — closed PR [#732](https://github.com/ZacSweers/MoshiX/pull/732) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-1.0.31"
-
-**2025-03-26** — merged PR [#733](https://github.com/ZacSweers/MoshiX/pull/733) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.9.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
