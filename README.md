@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-27** — merged PR [#362](https://github.com/slackhq/slack-lints/pull/362) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement TestParameterFieldDetector"
+
 **2025-03-27** — merged PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
 
 **2025-03-27** — opened PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-27** — created branch `z/testParameter` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2025-03-27** — opened PR [#1289](https://github.com/slackhq/foundry/pull/1289) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add testing DSL + burst hook"
-
-**2025-03-27** — created branch `z/burst` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
