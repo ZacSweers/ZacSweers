@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-27** — created tag `0.26.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-27** — closed issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
+
+**2025-03-27** — merged PR [#363](https://github.com/slackhq/slack-lints/pull/363) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Check for nullable types in ConcurrentHashMap"
+
 **2025-03-27** — opened PR [#363](https://github.com/slackhq/slack-lints/pull/363) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Check for nullable types in ConcurrentHashMap"
 
 **2025-03-27** — created branch `z/nullableCHM` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-27** — created branch `z/removeIncludeSourceWorkaround` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-27** — merged PR [#1289](https://github.com/slackhq/foundry/pull/1289) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add testing DSL + burst hook"
-
-**2025-03-27** — merged PR [#249](https://github.com/ZacSweers/metro/pull/249) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Convert all ProvidesErrorsTest tests to Kotlin infrastructure"
-
-**2025-03-27** — merged PR [#252](https://github.com/ZacSweers/metro/pull/252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.googlejavaformat:google-java-format to v1.26.0"
-
-**2025-03-27** — opened PR [#362](https://github.com/slackhq/slack-lints/pull/362) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement TestParameterFieldDetector"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
