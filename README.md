@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-28** — closed PR [#2015](https://github.com/slackhq/circuit/pull/2015) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp monorepo to v2.1.20-1.0.32"
+
+**2025-03-28** — commented on [#1929](https://github.com/slackhq/circuit/pull/1929#issuecomment-2762162654) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-03-28** — merged PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
 
 **2025-03-28** — opened PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-27** — opened PR [#363](https://github.com/slackhq/slack-lints/pull/363) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Check for nullable types in ConcurrentHashMap"
 
 **2025-03-27** — created branch `z/nullableCHM` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-03-27** — merged PR [#362](https://github.com/slackhq/slack-lints/pull/362) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement TestParameterFieldDetector"
-
-**2025-03-27** — merged PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
