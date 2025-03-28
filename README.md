@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-27** — opened PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
+
+**2025-03-27** — created branch `z/removeIncludeSourceWorkaround` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-27** — merged PR [#1289](https://github.com/slackhq/foundry/pull/1289) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add testing DSL + burst hook"
+
+**2025-03-27** — merged PR [#249](https://github.com/ZacSweers/metro/pull/249) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Convert all ProvidesErrorsTest tests to Kotlin infrastructure"
+
+**2025-03-27** — merged PR [#252](https://github.com/ZacSweers/metro/pull/252) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.googlejavaformat:google-java-format to v1.26.0"
+
+**2025-03-27** — opened PR [#362](https://github.com/slackhq/slack-lints/pull/362) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement TestParameterFieldDetector"
+
+**2025-03-27** — created branch `z/testParameter` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-03-27** — opened PR [#1289](https://github.com/slackhq/foundry/pull/1289) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add testing DSL + burst hook"
+
 **2025-03-27** — created branch `z/burst` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-27** — merged PR [#343](https://github.com/slackhq/slack-lints/pull/343) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin dokka to v2"
-
-**2025-03-27** — merged PR [#337](https://github.com/slackhq/slack-lints/pull/337) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.10.0-alpha03"
-
-**2025-03-27** — closed PR [#354](https://github.com/slackhq/slack-lints/pull/354) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.20-1.0.32"
-
-**2025-03-27** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2759403967) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-03-27** — closed issue [#356](https://github.com/slackhq/slack-lints/issues/356) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[Feature Request] Add support for mockito kotlin in MockDetector"
-
-**2025-03-27** — closed PR [#342](https://github.com/slackhq/slack-lints/pull/342) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.1"
-
-**2025-03-27** — closed PR [#360](https://github.com/slackhq/slack-lints/pull/360) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.20"
-
-**2025-03-27** — merged PR [#352](https://github.com/slackhq/slack-lints/pull/352) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.8"
-
-**2025-03-27** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2759307636) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
