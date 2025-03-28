@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-27** — created branch `z/burst` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-03-27** — merged PR [#343](https://github.com/slackhq/slack-lints/pull/343) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin dokka to v2"
+
+**2025-03-27** — merged PR [#337](https://github.com/slackhq/slack-lints/pull/337) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.10.0-alpha03"
+
+**2025-03-27** — closed PR [#354](https://github.com/slackhq/slack-lints/pull/354) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.20-1.0.32"
+
+**2025-03-27** — commented on [#356](https://github.com/slackhq/slack-lints/issues/356#issuecomment-2759403967) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-03-27** — closed issue [#356](https://github.com/slackhq/slack-lints/issues/356) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[Feature Request] Add support for mockito kotlin in MockDetector"
+
+**2025-03-27** — closed PR [#342](https://github.com/slackhq/slack-lints/pull/342) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.8.1"
+
+**2025-03-27** — closed PR [#360](https://github.com/slackhq/slack-lints/pull/360) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.1.20"
+
 **2025-03-27** — merged PR [#352](https://github.com/slackhq/slack-lints/pull/352) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.8"
 
 **2025-03-27** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2759307636) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-03-27** — merged PR [#355](https://github.com/slackhq/slack-lints/pull/355) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.31.0"
-
-**2025-03-27** — merged PR [#353](https://github.com/slackhq/slack-lints/pull/353) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.13"
-
-**2025-03-27** — merged PR [#359](https://github.com/slackhq/slack-lints/pull/359) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.6.0"
-
-**2025-03-27** — opened issue [#49](https://github.com/google/TestParameterInjector/issues/49) on [google/TestParameterInjector](https://github.com/google/TestParameterInjector): "Surprise behavior with Kotlin's upcoming annotation-default-target changes"
-
-**2025-03-27** — commented on [#242](https://github.com/ZacSweers/metro/pull/242#issuecomment-2759123619) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-26** — commented on [#170](https://github.com/ZacSweers/metro/pull/170#issuecomment-2755848310) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-03-26** — closed PR [#170](https://github.com/ZacSweers/metro/pull/170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP Implement GraphExtension"
-
-**2025-03-26** — merged PR [#248](https://github.com/ZacSweers/metro/pull/248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
