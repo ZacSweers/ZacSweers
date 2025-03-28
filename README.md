@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-27** — merged PR [#352](https://github.com/slackhq/slack-lints/pull/352) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin detekt to v1.23.8"
+
+**2025-03-27** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2759307636) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-03-27** — merged PR [#355](https://github.com/slackhq/slack-lints/pull/355) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.31.0"
+
+**2025-03-27** — merged PR [#353](https://github.com/slackhq/slack-lints/pull/353) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.13"
+
+**2025-03-27** — merged PR [#359](https://github.com/slackhq/slack-lints/pull/359) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.6.0"
+
 **2025-03-27** — opened issue [#49](https://github.com/google/TestParameterInjector/issues/49) on [google/TestParameterInjector](https://github.com/google/TestParameterInjector): "Surprise behavior with Kotlin's upcoming annotation-default-target changes"
 
 **2025-03-27** — commented on [#242](https://github.com/ZacSweers/metro/pull/242#issuecomment-2759123619) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-26** — closed PR [#170](https://github.com/ZacSweers/metro/pull/170) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP Implement GraphExtension"
 
 **2025-03-26** — merged PR [#248](https://github.com/ZacSweers/metro/pull/248) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.3"
-
-**2025-03-26** — merged PR [#247](https://github.com/ZacSweers/metro/pull/247) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-1.0.32"
-
-**2025-03-26** — merged PR [#1227](https://github.com/slackhq/foundry/pull/1227) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.1.20"
-
-**2025-03-26** — created tag `0.30.0` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2025-03-26** — merged PR [#718](https://github.com/ZacSweers/MoshiX/pull/718) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.1.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
