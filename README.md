@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-28** — merged PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
+
+**2025-03-28** — opened PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
+
+**2025-03-28** — created branch `z/testDryRun` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-03-27** — created tag `0.26.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-03-27** — closed issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-27** — merged PR [#362](https://github.com/slackhq/slack-lints/pull/362) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Implement TestParameterFieldDetector"
 
 **2025-03-27** — merged PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
-
-**2025-03-27** — opened PR [#1290](https://github.com/slackhq/foundry/pull/1290) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove old compose workarounds"
-
-**2025-03-27** — created branch `z/removeIncludeSourceWorkaround` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-03-27** — merged PR [#1289](https://github.com/slackhq/foundry/pull/1289) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add testing DSL + burst hook"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
