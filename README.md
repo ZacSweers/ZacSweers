@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-03-28** — closed PR [#2015](https://github.com/slackhq/circuit/pull/2015) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update ksp monorepo to v2.1.20-1.0.32"
+**2025-03-28** — merged PR [#150](https://github.com/ZacSweers/FieldSpottr/pull/150) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.20"
 
-**2025-03-28** — commented on [#1929](https://github.com/slackhq/circuit/pull/1929#issuecomment-2762162654) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-03-28** — closed PR [#151](https://github.com/ZacSweers/FieldSpottr/pull/151) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.20-1.0.32"
 
-**2025-03-28** — merged PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
+**2025-03-28** — commented on [#230](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/230#issuecomment-2762542746) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 
-**2025-03-28** — opened PR [#1294](https://github.com/slackhq/foundry/pull/1294) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add a property for setting tests' dry run mode"
+**2025-03-28** — merged PR [#154](https://github.com/ZacSweers/FieldSpottr/pull/154) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.2"
 
-**2025-03-28** — created branch `z/testDryRun` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-03-28** — merged PR [#153](https://github.com/ZacSweers/FieldSpottr/pull/153) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency logger to v1.7.0"
 
-**2025-03-27** — created tag `0.26.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-03-28** — merged PR [#152](https://github.com/ZacSweers/FieldSpottr/pull/152) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.1"
 
-**2025-03-27** — closed issue [#73](https://github.com/slackhq/slack-lints/issues/73) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "[New Lint] Forbid nullable types for ConcurrentHashMap"
+**2025-03-28** — merged PR [#149](https://github.com/ZacSweers/FieldSpottr/pull/149) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.3"
 
-**2025-03-27** — merged PR [#363](https://github.com/slackhq/slack-lints/pull/363) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Check for nullable types in ConcurrentHashMap"
-
-**2025-03-27** — opened PR [#363](https://github.com/slackhq/slack-lints/pull/363) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Check for nullable types in ConcurrentHashMap"
-
-**2025-03-27** — created branch `z/nullableCHM` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2025-03-28** — merged PR [#148](https://github.com/ZacSweers/FieldSpottr/pull/148) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
