@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-28** — closed PR [#155](https://github.com/ZacSweers/FieldSpottr/pull/155) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0-SNAPSHOT+pull-5245"
+
 **2025-03-28** — merged PR [#150](https://github.com/ZacSweers/FieldSpottr/pull/150) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.20"
 
 **2025-03-28** — closed PR [#151](https://github.com/ZacSweers/FieldSpottr/pull/151) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.20-1.0.32"
