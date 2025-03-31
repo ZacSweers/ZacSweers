@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-03-30** — merged PR [#364](https://github.com/slackhq/slack-lints/pull/364) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to 31.11.0 alphas"
+
 **2025-03-30** — commented on [#2017](https://github.com/slackhq/circuit/issues/2017#issuecomment-2764599256) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-03-28** — closed PR [#155](https://github.com/ZacSweers/FieldSpottr/pull/155) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0-SNAPSHOT+pull-5245"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-28** — merged PR [#152](https://github.com/ZacSweers/FieldSpottr/pull/152) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.1"
 
 **2025-03-28** — merged PR [#149](https://github.com/ZacSweers/FieldSpottr/pull/149) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.3"
-
-**2025-03-28** — merged PR [#148](https://github.com/ZacSweers/FieldSpottr/pull/148) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
