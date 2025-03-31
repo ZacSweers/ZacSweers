@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-28** — merged PR [#154](https://github.com/ZacSweers/FieldSpottr/pull/154) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.2"
 
 **2025-03-28** — merged PR [#153](https://github.com/ZacSweers/FieldSpottr/pull/153) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency logger to v1.7.0"
-
-**2025-03-28** — merged PR [#152](https://github.com/ZacSweers/FieldSpottr/pull/152) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.9.1"
-
-**2025-03-28** — merged PR [#149](https://github.com/ZacSweers/FieldSpottr/pull/149) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
