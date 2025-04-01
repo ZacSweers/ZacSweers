@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-03-28** — commented on [#230](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/230#issuecomment-2762542746) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
 
 **2025-03-28** — merged PR [#154](https://github.com/ZacSweers/FieldSpottr/pull/154) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.2"
-
-**2025-03-28** — merged PR [#153](https://github.com/ZacSweers/FieldSpottr/pull/153) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency logger to v1.7.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
