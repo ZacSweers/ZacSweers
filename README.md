@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-01** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2770107416) in [google/ksp](https://github.com/google/ksp)
+
 **2025-04-01** — merged PR [#264](https://github.com/ZacSweers/metro/pull/264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi-module integration test + fix misc things along the way"
 
 **2025-04-01** — closed issue [#71](https://github.com/ZacSweers/metro/issues/71) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi module integration tests"
@@ -17,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — merged PR [#257](https://github.com/ZacSweers/metro/pull/257) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.11"
 
 **2025-04-01** — merged PR [#260](https://github.com/ZacSweers/metro/pull/260) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3"
-
-**2025-04-01** — merged PR [#262](https://github.com/ZacSweers/metro/pull/262) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta12"
-
-**2025-04-01** — merged PR [#256](https://github.com/ZacSweers/metro/pull/256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
