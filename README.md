@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-01** — merged PR [#264](https://github.com/ZacSweers/metro/pull/264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi-module integration test + fix misc things along the way"
+
+**2025-04-01** — closed issue [#71](https://github.com/ZacSweers/metro/issues/71) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi module integration tests"
+
+**2025-04-01** — opened PR [#264](https://github.com/ZacSweers/metro/pull/264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi-module integration test + fix misc things along the way"
+
 **2025-04-01** — merged PR [#259](https://github.com/ZacSweers/metro/pull/259) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.5"
 
 **2025-04-01** — commented on [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158#issuecomment-2769701273) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
@@ -15,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — merged PR [#262](https://github.com/ZacSweers/metro/pull/262) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta12"
 
 **2025-04-01** — merged PR [#256](https://github.com/ZacSweers/metro/pull/256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.1"
-
-**2025-04-01** — merged PR [#263](https://github.com/ZacSweers/metro/pull/263) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
