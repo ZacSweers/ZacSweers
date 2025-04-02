@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-01** — closed issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
+
+**2025-04-01** — merged PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
+
 **2025-04-01** — merged PR [#269](https://github.com/ZacSweers/metro/pull/269) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.2"
 
 **2025-04-01** — closed issue [#261](https://github.com/ZacSweers/metro/issues/261) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesIntoSet + @ContributesBinding annotations on the same type results in duplicate binding"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — created branch `z/moreBindingINfo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-01** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2770560526) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-04-01** — opened issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
-
-**2025-04-01** — opened issue [#265](https://github.com/ZacSweers/metro/issues/265) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullability"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
