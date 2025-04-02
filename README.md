@@ -4,19 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-03-30** — merged PR [#364](https://github.com/slackhq/slack-lints/pull/364) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to 31.11.0 alphas"
+**2025-04-01** — merged PR [#257](https://github.com/ZacSweers/metro/pull/257) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.11"
 
-**2025-03-30** — commented on [#2017](https://github.com/slackhq/circuit/issues/2017#issuecomment-2764599256) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-04-01** — merged PR [#260](https://github.com/ZacSweers/metro/pull/260) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3"
 
-**2025-03-28** — closed PR [#155](https://github.com/ZacSweers/FieldSpottr/pull/155) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0-SNAPSHOT+pull-5245"
+**2025-04-01** — merged PR [#262](https://github.com/ZacSweers/metro/pull/262) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta12"
 
-**2025-03-28** — merged PR [#150](https://github.com/ZacSweers/FieldSpottr/pull/150) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlin monorepo to v2.1.20"
+**2025-04-01** — merged PR [#256](https://github.com/ZacSweers/metro/pull/256) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.1"
 
-**2025-03-28** — closed PR [#151](https://github.com/ZacSweers/FieldSpottr/pull/151) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin ksp to v2.1.20-1.0.32"
-
-**2025-03-28** — commented on [#230](https://github.com/gmazzo/gradle-buildconfig-plugin/issues/230#issuecomment-2762542746) in [gmazzo/gradle-buildconfig-plugin](https://github.com/gmazzo/gradle-buildconfig-plugin)
-
-**2025-03-28** — merged PR [#154](https://github.com/ZacSweers/FieldSpottr/pull/154) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.2"
+**2025-04-01** — merged PR [#263](https://github.com/ZacSweers/metro/pull/263) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
