@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-01** — merged PR [#259](https://github.com/ZacSweers/metro/pull/259) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.5"
+
+**2025-04-01** — commented on [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158#issuecomment-2769701273) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
+
 **2025-04-01** — merged PR [#257](https://github.com/ZacSweers/metro/pull/257) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.11"
 
 **2025-04-01** — merged PR [#260](https://github.com/ZacSweers/metro/pull/260) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3"
