@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-01** — opened issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
+
+**2025-04-01** — opened issue [#265](https://github.com/ZacSweers/metro/issues/265) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullability"
+
 **2025-04-01** — commented on [#2282](https://github.com/google/ksp/issues/2282#issuecomment-2770107416) in [google/ksp](https://github.com/google/ksp)
 
 **2025-04-01** — merged PR [#264](https://github.com/ZacSweers/metro/pull/264) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add multi-module integration test + fix misc things along the way"
@@ -15,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — merged PR [#259](https://github.com/ZacSweers/metro/pull/259) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.5"
 
 **2025-04-01** — commented on [#158](https://github.com/mikepenz/multiplatform-markdown-renderer/issues/158#issuecomment-2769701273) in [mikepenz/multiplatform-markdown-renderer](https://github.com/mikepenz/multiplatform-markdown-renderer)
-
-**2025-04-01** — merged PR [#257](https://github.com/ZacSweers/metro/pull/257) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.11"
-
-**2025-04-01** — merged PR [#260](https://github.com/ZacSweers/metro/pull/260) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
