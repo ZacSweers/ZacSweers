@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-02** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2773020325) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
 **2025-04-01** — closed issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
 
 **2025-04-01** — merged PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — opened PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
 
 **2025-04-01** — created branch `z/moreBindingINfo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-01** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2770560526) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
