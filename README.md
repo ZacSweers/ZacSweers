@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-03** — closed issue [#177](https://github.com/ZacSweers/metro/issues/177) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial release"
+
 **2025-04-02** — merged PR [#270](https://github.com/ZacSweers/metro/pull/270) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.0.1"
 
 **2025-04-02** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2773020325) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — commented on [#267](https://github.com/ZacSweers/metro/pull/267#issuecomment-2770581274) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-01** — merged PR [#258](https://github.com/ZacSweers/metro/pull/258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for Anvil's ContributesMultibinding annotation"
-
-**2025-04-01** — opened PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
