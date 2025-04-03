@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-02** — Could not load GitHub activity. Please check back later.
+**2025-04-01** — closed issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
+
+**2025-04-01** — merged PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
+
+**2025-04-01** — merged PR [#269](https://github.com/ZacSweers/metro/pull/269) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.2"
+
+**2025-04-01** — closed issue [#261](https://github.com/ZacSweers/metro/issues/261) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesIntoSet + @ContributesBinding annotations on the same type results in duplicate binding"
+
+**2025-04-01** — merged PR [#267](https://github.com/ZacSweers/metro/pull/267) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Prevent duplicate bindings when using multiple Contributes* annotations"
+
+**2025-04-01** — commented on [#267](https://github.com/ZacSweers/metro/pull/267#issuecomment-2770581274) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-01** — merged PR [#258](https://github.com/ZacSweers/metro/pull/258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for Anvil's ContributesMultibinding annotation"
+
+**2025-04-01** — opened PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
+
+**2025-04-01** — created branch `z/moreBindingINfo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-01** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2770560526) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
