@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-03** — merged PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
+
+**2025-04-03** — opened PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
+
+**2025-04-03** — created branch `z/moreDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-03** — closed issue [#177](https://github.com/ZacSweers/metro/issues/177) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial release"
 
 **2025-04-02** — merged PR [#270](https://github.com/ZacSweers/metro/pull/270) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.0.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-01** — merged PR [#269](https://github.com/ZacSweers/metro/pull/269) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.2"
 
 **2025-04-01** — closed issue [#261](https://github.com/ZacSweers/metro/issues/261) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesIntoSet + @ContributesBinding annotations on the same type results in duplicate binding"
-
-**2025-04-01** — merged PR [#267](https://github.com/ZacSweers/metro/pull/267) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Prevent duplicate bindings when using multiple Contributes* annotations"
-
-**2025-04-01** — commented on [#267](https://github.com/ZacSweers/metro/pull/267#issuecomment-2770581274) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-01** — merged PR [#258](https://github.com/ZacSweers/metro/pull/258) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for Anvil's ContributesMultibinding annotation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
