@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-03** — commented on [#113](https://github.com/dropbox/dependency-guard/issues/113#issuecomment-2777018769) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+
+**2025-04-03** — commented on [#113](https://github.com/dropbox/dependency-guard/issues/113#issuecomment-2776996062) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
+
+**2025-04-03** — opened issue [#113](https://github.com/dropbox/dependency-guard/issues/113) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Configuration cache failure when consuming root buildscript `classpath` configuration"
+
+**2025-04-03** — opened issue [#2459](https://github.com/diffplug/spotless/issues/2459) on [diffplug/spotless](https://github.com/diffplug/spotless): "Google Java Format step is not compatible with configuration cache"
+
 **2025-04-03** — merged PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
 
 **2025-04-03** — opened PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-02** — merged PR [#270](https://github.com/ZacSweers/metro/pull/270) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.0.1"
 
 **2025-04-02** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2773020325) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-04-01** — closed issue [#266](https://github.com/ZacSweers/metro/issues/266) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more similar bindings in missing binding errors"
-
-**2025-04-01** — merged PR [#268](https://github.com/ZacSweers/metro/pull/268) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report more information about similar bindings in errors"
-
-**2025-04-01** — merged PR [#269](https://github.com/ZacSweers/metro/pull/269) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.2"
-
-**2025-04-01** — closed issue [#261](https://github.com/ZacSweers/metro/issues/261) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesIntoSet + @ContributesBinding annotations on the same type results in duplicate binding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
