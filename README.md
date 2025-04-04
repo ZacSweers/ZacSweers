@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-04** — merged PR [#276](https://github.com/ZacSweers/metro/pull/276) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for anvil ignoreQualifier"
+
+**2025-04-04** — commented on [#275](https://github.com/ZacSweers/metro/pull/275#issuecomment-2778845037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-03** — commented on [#205](https://github.com/ZacSweers/metro/issues/205#issuecomment-2777270654) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-03** — closed issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable for references in the same compilation"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-03** — opened issue [#2459](https://github.com/diffplug/spotless/issues/2459) on [diffplug/spotless](https://github.com/diffplug/spotless): "Google Java Format step is not compatible with configuration cache"
 
 **2025-04-03** — merged PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
-
-**2025-04-03** — opened PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
-
-**2025-04-03** — created branch `z/moreDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
