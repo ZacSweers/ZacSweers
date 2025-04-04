@@ -6,7 +6,7 @@ kotlinx-serialization = "1.8.0"
 ktor = "3.0.3"
 markdown = "0.31.0"
 mordant = "3.0.2"
-xmlutil = "0.90.3"
+xmlutil = "0.91.0"
 
 [plugins]
 compose = { id = "org.jetbrains.compose", version.ref = "compose" }
