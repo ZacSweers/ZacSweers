@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-04** — opened issue [#279](https://github.com/ZacSweers/metro/issues/279) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Qualifiers on provider dependencies are missing from external ProviderFactories"
+
+**2025-04-04** — opened issue [#278](https://github.com/ZacSweers/metro/issues/278) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve layered typekey equality"
+
 **2025-04-04** — merged PR [#276](https://github.com/ZacSweers/metro/pull/276) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for anvil ignoreQualifier"
 
 **2025-04-04** — commented on [#275](https://github.com/ZacSweers/metro/pull/275#issuecomment-2778845037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-03** — commented on [#113](https://github.com/dropbox/dependency-guard/issues/113#issuecomment-2776996062) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2025-04-03** — opened issue [#113](https://github.com/dropbox/dependency-guard/issues/113) on [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard): "Configuration cache failure when consuming root buildscript `classpath` configuration"
-
-**2025-04-03** — opened issue [#2459](https://github.com/diffplug/spotless/issues/2459) on [diffplug/spotless](https://github.com/diffplug/spotless): "Google Java Format step is not compatible with configuration cache"
-
-**2025-04-03** — merged PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
