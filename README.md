@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-03** — commented on [#205](https://github.com/ZacSweers/metro/issues/205#issuecomment-2777270654) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-03** — closed issue [#205](https://github.com/ZacSweers/metro/issues/205) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributes*.replaces is not reliable for references in the same compilation"
+
+**2025-04-03** — opened issue [#274](https://github.com/ZacSweers/metro/issues/274) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include a Metro version in MetroMetadata"
+
 **2025-04-03** — commented on [#113](https://github.com/dropbox/dependency-guard/issues/113#issuecomment-2777018769) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
 
 **2025-04-03** — commented on [#113](https://github.com/dropbox/dependency-guard/issues/113#issuecomment-2776996062) in [dropbox/dependency-guard](https://github.com/dropbox/dependency-guard)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-03** — opened PR [#273](https://github.com/ZacSweers/metro/pull/273) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More doc updates"
 
 **2025-04-03** — created branch `z/moreDocs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-03** — closed issue [#177](https://github.com/ZacSweers/metro/issues/177) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial release"
-
-**2025-04-02** — merged PR [#270](https://github.com/ZacSweers/metro/pull/270) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.0.1"
-
-**2025-04-02** — commented on [#470](https://github.com/slackhq/compose-lints/issues/470#issuecomment-2773020325) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
