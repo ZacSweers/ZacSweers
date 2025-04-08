@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — closed PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
+
+**2025-04-07** — opened PR [#297](https://github.com/ZacSweers/metro/pull/297) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
+
+**2025-04-07** — merged PR [#296](https://github.com/ZacSweers/metro/pull/296) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.0.3"
+
+**2025-04-07** — created branch `z/valueClassInstanceFactory2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-07** — commented on [#166](https://github.com/ZacSweers/metro/issues/166#issuecomment-2784733991) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-07** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2784730801) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-07** — closed issue [#274](https://github.com/ZacSweers/metro/issues/274) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include a Metro version in MetroMetadata"
 
 **2025-04-07** — merged PR [#292](https://github.com/ZacSweers/metro/pull/292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include metro version in metadata"
-
-**2025-04-07** — opened PR [#292](https://github.com/ZacSweers/metro/pull/292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include metro version in metadata"
-
-**2025-04-07** — created branch `z/metroVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed issue [#289](https://github.com/ZacSweers/metro/issues/289) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check kotlin compatibility at compiler-time"
-
-**2025-04-07** — merged PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
