@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-08** — closed issue [#278](https://github.com/ZacSweers/metro/issues/278) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve layered typekey equality"
+
+**2025-04-08** — merged PR [#298](https://github.com/ZacSweers/metro/pull/298) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ContextualTypeKey unwrapping"
+
+**2025-04-08** — commented on [#297](https://github.com/ZacSweers/metro/pull/297#issuecomment-2785361622) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-08** — opened PR [#298](https://github.com/ZacSweers/metro/pull/298) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ContextualTypeKey unwrapping"
+
+**2025-04-08** — created branch `z/onions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-07** — closed PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
 
 **2025-04-07** — opened PR [#297](https://github.com/ZacSweers/metro/pull/297) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-07** — created branch `z/valueClassInstanceFactory2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-07** — commented on [#166](https://github.com/ZacSweers/metro/issues/166#issuecomment-2784733991) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2784730801) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2784724198) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed PR [#186](https://github.com/ZacSweers/metro/pull/186) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Record class lookups in Contribution supertype gen"
-
-**2025-04-07** — closed issue [#274](https://github.com/ZacSweers/metro/issues/274) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include a Metro version in MetroMetadata"
-
-**2025-04-07** — merged PR [#292](https://github.com/ZacSweers/metro/pull/292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include metro version in metadata"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
