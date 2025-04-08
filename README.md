@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — opened PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
+
+**2025-04-07** — created branch `z/compilerVersionCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — closed issue [#280](https://github.com/ZacSweers/metro/issues/280) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Internal error: Exception during IR lowering"
+
+**2025-04-07** — merged PR [#290](https://github.com/ZacSweers/metro/pull/290) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement CreateGraphChecker"
+
+**2025-04-07** — opened issue [#2400](https://github.com/google/ksp/issues/2400) on [google/ksp](https://github.com/google/ksp): "KSP uses a deprecated KGP API "ApiVersion""
+
 **2025-04-07** — opened PR [#290](https://github.com/ZacSweers/metro/pull/290) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement CreateGraphChecker"
 
 **2025-04-07** — created branch `z/createGraphChecker` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-07** — merged PR [#2019](https://github.com/slackhq/circuit/pull/2019) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(gesture-navigation): hide material dependency as an implementation detail"
 
 **2025-04-07** — commented on [#285](https://github.com/ZacSweers/metro/pull/285#issuecomment-2784126277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed PR [#285](https://github.com/ZacSweers/metro/pull/285) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for graph to pick up member's dependency bindings"
-
-**2025-04-07** — closed issue [#284](https://github.com/ZacSweers/metro/issues/284) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "DependencyGraph doesn't pick up bindings from MemberInjector"
-
-**2025-04-07** — merged PR [#287](https://github.com/ZacSweers/metro/pull/287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injector graph validation"
-
-**2025-04-07** — opened PR [#287](https://github.com/ZacSweers/metro/pull/287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injector graph validation"
-
-**2025-04-07** — created branch `z/dfsInjectors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
