@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — commented on [#285](https://github.com/ZacSweers/metro/pull/285#issuecomment-2784097511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — closed issue [#279](https://github.com/ZacSweers/metro/issues/279) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Qualifiers on provider parameters are missing from external ProviderFactories"
+
+**2025-04-07** — merged PR [#286](https://github.com/ZacSweers/metro/pull/286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc small fixes"
+
+**2025-04-07** — opened PR [#286](https://github.com/ZacSweers/metro/pull/286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc small fixes"
+
+**2025-04-07** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — commented on [#280](https://github.com/ZacSweers/metro/issues/280#issuecomment-2783995267) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-07** — closed issue [#471](https://github.com/slackhq/compose-lints/issues/471) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "@jezebel"
 
 **2025-04-07** — commented on [#2024](https://github.com/slackhq/circuit/pull/2024#issuecomment-2783920858) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-07** — reopened PR [#2024](https://github.com/slackhq/circuit/pull/2024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the activity-compose dependency"
 
 **2025-04-07** — closed PR [#2024](https://github.com/slackhq/circuit/pull/2024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the activity-compose dependency"
-
-**2025-04-07** — commented on [#2024](https://github.com/slackhq/circuit/pull/2024#issuecomment-2783920225) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-04-06** — merged PR [#283](https://github.com/ZacSweers/metro/pull/283) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in interop docs"
-
-**2025-04-05** — commented on [#280](https://github.com/ZacSweers/metro/issues/280#issuecomment-2781170188) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-05** — closed issue [#282](https://github.com/ZacSweers/metro/issues/282) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Singleton Annotation Missing in Runtime"
-
-**2025-04-05** — commented on [#282](https://github.com/ZacSweers/metro/issues/282#issuecomment-2780885715) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-05** — commented on [#280](https://github.com/ZacSweers/metro/issues/280#issuecomment-2780688528) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
