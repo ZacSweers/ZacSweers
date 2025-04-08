@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — merged PR [#2019](https://github.com/slackhq/circuit/pull/2019) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(gesture-navigation): hide material dependency as an implementation detail"
+
+**2025-04-07** — commented on [#285](https://github.com/ZacSweers/metro/pull/285#issuecomment-2784126277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — closed PR [#285](https://github.com/ZacSweers/metro/pull/285) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for graph to pick up member's dependency bindings"
+
+**2025-04-07** — closed issue [#284](https://github.com/ZacSweers/metro/issues/284) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "DependencyGraph doesn't pick up bindings from MemberInjector"
+
+**2025-04-07** — merged PR [#287](https://github.com/ZacSweers/metro/pull/287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injector graph validation"
+
+**2025-04-07** — opened PR [#287](https://github.com/ZacSweers/metro/pull/287) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix member injector graph validation"
+
+**2025-04-07** — created branch `z/dfsInjectors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-07** — commented on [#285](https://github.com/ZacSweers/metro/pull/285#issuecomment-2784097511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-07** — closed issue [#279](https://github.com/ZacSweers/metro/issues/279) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Qualifiers on provider parameters are missing from external ProviderFactories"
 
 **2025-04-07** — merged PR [#286](https://github.com/ZacSweers/metro/pull/286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc small fixes"
-
-**2025-04-07** — opened PR [#286](https://github.com/ZacSweers/metro/pull/286) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc small fixes"
-
-**2025-04-07** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — commented on [#280](https://github.com/ZacSweers/metro/issues/280#issuecomment-2783995267) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed issue [#471](https://github.com/slackhq/compose-lints/issues/471) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "@jezebel"
-
-**2025-04-07** — commented on [#2024](https://github.com/slackhq/circuit/pull/2024#issuecomment-2783920858) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-04-07** — reopened PR [#2024](https://github.com/slackhq/circuit/pull/2024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the activity-compose dependency"
-
-**2025-04-07** — closed PR [#2024](https://github.com/slackhq/circuit/pull/2024) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix the activity-compose dependency"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
