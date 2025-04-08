@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — commented on [#166](https://github.com/ZacSweers/metro/issues/166#issuecomment-2784733991) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2784730801) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2784724198) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-07** — closed PR [#186](https://github.com/ZacSweers/metro/pull/186) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Record class lookups in Contribution supertype gen"
+
+**2025-04-07** — closed issue [#274](https://github.com/ZacSweers/metro/issues/274) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include a Metro version in MetroMetadata"
+
+**2025-04-07** — merged PR [#292](https://github.com/ZacSweers/metro/pull/292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include metro version in metadata"
+
+**2025-04-07** — opened PR [#292](https://github.com/ZacSweers/metro/pull/292) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Include metro version in metadata"
+
+**2025-04-07** — created branch `z/metroVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-07** — closed issue [#289](https://github.com/ZacSweers/metro/issues/289) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check kotlin compatibility at compiler-time"
 
 **2025-04-07** — merged PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
-
-**2025-04-07** — merged PR [#288](https://github.com/ZacSweers/metro/pull/288) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add ContributesBinding.rank interop support"
-
-**2025-04-07** — opened PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
-
-**2025-04-07** — created branch `z/compilerVersionCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed issue [#280](https://github.com/ZacSweers/metro/issues/280) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backend Internal error: Exception during IR lowering"
-
-**2025-04-07** — merged PR [#290](https://github.com/ZacSweers/metro/pull/290) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement CreateGraphChecker"
-
-**2025-04-07** — opened issue [#2400](https://github.com/google/ksp/issues/2400) on [google/ksp](https://github.com/google/ksp): "KSP uses a deprecated KGP API "ApiVersion""
-
-**2025-04-07** — opened PR [#290](https://github.com/ZacSweers/metro/pull/290) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement CreateGraphChecker"
-
-**2025-04-07** — created branch `z/createGraphChecker` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
