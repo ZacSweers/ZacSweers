@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-07** — closed issue [#289](https://github.com/ZacSweers/metro/issues/289) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check kotlin compatibility at compiler-time"
+
+**2025-04-07** — merged PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
+
+**2025-04-07** — merged PR [#288](https://github.com/ZacSweers/metro/pull/288) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add ContributesBinding.rank interop support"
+
 **2025-04-07** — opened PR [#291](https://github.com/ZacSweers/metro/pull/291) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement kotlin compatibility checks in Gradle"
 
 **2025-04-07** — created branch `z/compilerVersionCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-07** — opened PR [#290](https://github.com/ZacSweers/metro/pull/290) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement CreateGraphChecker"
 
 **2025-04-07** — created branch `z/createGraphChecker` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — opened issue [#289](https://github.com/ZacSweers/metro/issues/289) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check kotlin compatibility at compiler-time"
-
-**2025-04-07** — merged PR [#2019](https://github.com/slackhq/circuit/pull/2019) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(gesture-navigation): hide material dependency as an implementation detail"
-
-**2025-04-07** — commented on [#285](https://github.com/ZacSweers/metro/pull/285#issuecomment-2784126277) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
