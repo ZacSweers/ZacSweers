@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-08** — merged PR [#161](https://github.com/ZacSweers/FieldSpottr/pull/161) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.1.2"
 
 **2025-04-08** — commented on [#166](https://github.com/ZacSweers/metro/issues/166#issuecomment-2786918082) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-08** — created tag `0.1.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
