@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-08** — created tag `0.1.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-08** — merged PR [#302](https://github.com/ZacSweers/metro/pull/302) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make providerOf use InstanceFactory under the hood"
+
+**2025-04-08** — merged PR [#301](https://github.com/ZacSweers/metro/pull/301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix map typekey resolution"
+
+**2025-04-08** — opened PR [#302](https://github.com/ZacSweers/metro/pull/302) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make providerOf use InstanceFactory under the hood"
+
+**2025-04-08** — created branch `z/providerOfInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-08** — opened PR [#301](https://github.com/ZacSweers/metro/pull/301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix map typekey resolution"
+
+**2025-04-08** — created branch `z/moreOnions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-08** — merged PR [#297](https://github.com/ZacSweers/metro/pull/297) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
 
 **2025-04-08** — merged PR [#300](https://github.com/ZacSweers/metro/pull/300) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove KSP from the :compiler"
-
-**2025-04-08** — opened PR [#300](https://github.com/ZacSweers/metro/pull/300) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove KSP from the :compiler"
-
-**2025-04-08** — merged PR [#299](https://github.com/ZacSweers/metro/pull/299) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinx-coroutines monorepo to v1.10.2"
-
-**2025-04-08** — created branch `z/noKspInCompiler` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-08** — closed issue [#278](https://github.com/ZacSweers/metro/issues/278) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve layered typekey equality"
-
-**2025-04-08** — merged PR [#298](https://github.com/ZacSweers/metro/pull/298) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ContextualTypeKey unwrapping"
-
-**2025-04-08** — commented on [#297](https://github.com/ZacSweers/metro/pull/297#issuecomment-2785361622) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-08** — opened PR [#298](https://github.com/ZacSweers/metro/pull/298) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ContextualTypeKey unwrapping"
-
-**2025-04-08** — created branch `z/onions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
