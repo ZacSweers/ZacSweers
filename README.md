@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-08** — opened PR [#1310](https://github.com/slackhq/foundry/pull/1310) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove guava from VersionNumber + add tests"
+
+**2025-04-08** — created branch `z/versionNumberChanges` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-04-08** — merged PR [#161](https://github.com/ZacSweers/FieldSpottr/pull/161) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.1.2"
 
 **2025-04-08** — commented on [#166](https://github.com/ZacSweers/metro/issues/166#issuecomment-2786918082) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-08** — created branch `z/providerOfInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-08** — opened PR [#301](https://github.com/ZacSweers/metro/pull/301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix map typekey resolution"
-
-**2025-04-08** — created branch `z/moreOnions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-08** — merged PR [#297](https://github.com/ZacSweers/metro/pull/297) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
