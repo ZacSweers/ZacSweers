@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-08** — opened PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
+
+**2025-04-08** — created branch `z/targetSdk` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-04-08** — merged PR [#1310](https://github.com/slackhq/foundry/pull/1310) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove guava from VersionNumber + add tests"
 
 **2025-04-08** — opened PR [#1310](https://github.com/slackhq/foundry/pull/1310) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove guava from VersionNumber + add tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-08** — merged PR [#302](https://github.com/ZacSweers/metro/pull/302) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make providerOf use InstanceFactory under the hood"
 
 **2025-04-08** — merged PR [#301](https://github.com/ZacSweers/metro/pull/301) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix map typekey resolution"
-
-**2025-04-08** — opened PR [#302](https://github.com/ZacSweers/metro/pull/302) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make providerOf use InstanceFactory under the hood"
-
-**2025-04-08** — created branch `z/providerOfInstanceFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
