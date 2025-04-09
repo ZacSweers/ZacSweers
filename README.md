@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-08** — merged PR [#297](https://github.com/ZacSweers/metro/pull/297) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
+
 **2025-04-08** — merged PR [#300](https://github.com/ZacSweers/metro/pull/300) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove KSP from the :compiler"
 
 **2025-04-08** — opened PR [#300](https://github.com/ZacSweers/metro/pull/300) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove KSP from the :compiler"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-08** — opened PR [#298](https://github.com/ZacSweers/metro/pull/298) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve ContextualTypeKey unwrapping"
 
 **2025-04-08** — created branch `z/onions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-07** — closed PR [#243](https://github.com/ZacSweers/metro/pull/243) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make InstanceFactory a value class"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
