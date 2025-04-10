@@ -9,10 +9,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-09** — merged PR [#163](https://github.com/ZacSweers/FieldSpottr/pull/163) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.11.0"
 
 **2025-04-09** — merged PR [#307](https://github.com/ZacSweers/metro/pull/307) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.11.0"
-
-**2025-04-08** — opened PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
-
-**2025-04-08** — created branch `z/targetSdk` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
