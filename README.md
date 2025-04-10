@@ -4,7 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-10** — Could not load GitHub activity. Please check back later.
+**2025-04-10** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2793114851) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-04-09** — merged PR [#243](https://github.com/ZacSweers/ZacSweers/pull/243) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.11.0"
+
+**2025-04-09** — merged PR [#163](https://github.com/ZacSweers/FieldSpottr/pull/163) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.11.0"
+
+**2025-04-09** — merged PR [#307](https://github.com/ZacSweers/metro/pull/307) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
