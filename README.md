@@ -4,17 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-09** — merged PR [#243](https://github.com/ZacSweers/ZacSweers/pull/243) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.11.0"
+
+**2025-04-09** — merged PR [#163](https://github.com/ZacSweers/FieldSpottr/pull/163) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.11.0"
+
+**2025-04-09** — merged PR [#307](https://github.com/ZacSweers/metro/pull/307) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.11.0"
+
 **2025-04-08** — opened PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
 
 **2025-04-08** — created branch `z/targetSdk` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-04-08** — merged PR [#1310](https://github.com/slackhq/foundry/pull/1310) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove guava from VersionNumber + add tests"
-
-**2025-04-08** — opened PR [#1310](https://github.com/slackhq/foundry/pull/1310) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove guava from VersionNumber + add tests"
-
-**2025-04-08** — created branch `z/versionNumberChanges` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-04-08** — merged PR [#161](https://github.com/ZacSweers/FieldSpottr/pull/161) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
