@@ -4,19 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-10** — merged PR [#308](https://github.com/ZacSweers/metro/pull/308) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix repeatable @ContributesTo annotations being missed when aggregating contributions from downstream modules"
+**2025-04-10** — opened PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
 
-**2025-04-10** — reopened issue [#210](https://github.com/ZacSweers/metro/issues/210) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repeated ContributesBinding annotations result in duplicate declaration exception"
+**2025-04-10** — created branch `z/metro` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
-**2025-04-10** — commented on [#309](https://github.com/ZacSweers/metro/issues/309#issuecomment-2794136238) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-10** — merged PR [#1888](https://github.com/ZacSweers/CatchUp/pull/1888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-beta01"
 
-**2025-04-10** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2793114851) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2025-04-10** — merged PR [#1889](https://github.com/ZacSweers/CatchUp/pull/1889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.11.0"
 
-**2025-04-09** — merged PR [#243](https://github.com/ZacSweers/ZacSweers/pull/243) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.11.0"
+**2025-04-10** — merged PR [#1886](https://github.com/ZacSweers/CatchUp/pull/1886) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.2"
 
-**2025-04-09** — merged PR [#163](https://github.com/ZacSweers/FieldSpottr/pull/163) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.11.0"
+**2025-04-10** — merged PR [#1877](https://github.com/ZacSweers/CatchUp/pull/1877) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.26.0"
 
-**2025-04-09** — merged PR [#307](https://github.com/ZacSweers/metro/pull/307) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.11.0"
+**2025-04-10** — merged PR [#1884](https://github.com/ZacSweers/CatchUp/pull/1884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0"
+
+**2025-04-10** — merged PR [#1867](https://github.com/ZacSweers/CatchUp/pull/1867) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.27.0"
+
+**2025-04-10** — merged PR [#1885](https://github.com/ZacSweers/CatchUp/pull/1885) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
