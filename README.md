@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-10** — merged PR [#144](https://github.com/ZacSweers/auto-service-ksp/pull/144) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.17.0"
+
+**2025-04-10** — merged PR [#145](https://github.com/ZacSweers/auto-service-ksp/pull/145) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7"
+
+**2025-04-10** — merged PR [#146](https://github.com/ZacSweers/auto-service-ksp/pull/146) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.7-jre"
+
+**2025-04-10** — merged PR [#1308](https://github.com/slackhq/foundry/pull/1308) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlinx-coroutines monorepo to v1.10.2"
+
 **2025-04-10** — opened PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
 
 **2025-04-10** — created branch `z/metro` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -11,16 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-10** — merged PR [#1888](https://github.com/ZacSweers/CatchUp/pull/1888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-beta01"
 
 **2025-04-10** — merged PR [#1889](https://github.com/ZacSweers/CatchUp/pull/1889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.11.0"
-
-**2025-04-10** — merged PR [#1886](https://github.com/ZacSweers/CatchUp/pull/1886) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.material3 to v1.3.2"
-
-**2025-04-10** — merged PR [#1877](https://github.com/ZacSweers/CatchUp/pull/1877) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.26.0"
-
-**2025-04-10** — merged PR [#1884](https://github.com/ZacSweers/CatchUp/pull/1884) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.0"
-
-**2025-04-10** — merged PR [#1867](https://github.com/ZacSweers/CatchUp/pull/1867) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.27.0"
-
-**2025-04-10** — merged PR [#1885](https://github.com/ZacSweers/CatchUp/pull/1885) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-alpha11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
