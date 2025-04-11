@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-10** — reopened issue [#210](https://github.com/ZacSweers/metro/issues/210) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repeated ContributesBinding annotations result in duplicate declaration exception"
+
 **2025-04-10** — commented on [#309](https://github.com/ZacSweers/metro/issues/309#issuecomment-2794136238) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-10** — commented on [#358](https://github.com/slackhq/slack-lints/pull/358#issuecomment-2793114851) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
