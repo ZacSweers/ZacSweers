@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-10** — created branch `z/metro` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-04-10** — merged PR [#1888](https://github.com/ZacSweers/CatchUp/pull/1888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-beta01"
-
-**2025-04-10** — merged PR [#1889](https://github.com/ZacSweers/CatchUp/pull/1889) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
