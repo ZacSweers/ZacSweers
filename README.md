@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-12** — opened PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
+
+**2025-04-12** — created branch `z/faq` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-11** — opened PR [#313](https://github.com/ZacSweers/metro/pull/313) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #312"
 
 **2025-04-11** — merged PR [#310](https://github.com/ZacSweers/metro/pull/310) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-11** — created branch `z/moreSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-10** — merged PR [#144](https://github.com/ZacSweers/auto-service-ksp/pull/144) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.17.0"
-
-**2025-04-10** — merged PR [#145](https://github.com/ZacSweers/auto-service-ksp/pull/145) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7"
-
-**2025-04-10** — merged PR [#146](https://github.com/ZacSweers/auto-service-ksp/pull/146) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.7-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
