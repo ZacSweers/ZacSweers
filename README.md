@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-11** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2797458451) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-11** — opened PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit sample"
+
 **2025-04-11** — created branch `z/moreSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-10** — merged PR [#144](https://github.com/ZacSweers/auto-service-ksp/pull/144) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.17.0"
@@ -15,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-10** — merged PR [#1308](https://github.com/slackhq/foundry/pull/1308) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update kotlinx-coroutines monorepo to v1.10.2"
 
 **2025-04-10** — opened PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
-
-**2025-04-10** — created branch `z/metro` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
