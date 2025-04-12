@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-11** — created branch `z/moreSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-10** — merged PR [#144](https://github.com/ZacSweers/auto-service-ksp/pull/144) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.17.0"
 
 **2025-04-10** — merged PR [#145](https://github.com/ZacSweers/auto-service-ksp/pull/145) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7"
@@ -15,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-10** — opened PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
 
 **2025-04-10** — created branch `z/metro` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-04-10** — merged PR [#1888](https://github.com/ZacSweers/CatchUp/pull/1888) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.9.0-beta01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
