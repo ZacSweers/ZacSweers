@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-12** — commented on [#314](https://github.com/ZacSweers/metro/issues/314#issuecomment-2799041262) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-12** — opened issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
+
 **2025-04-12** — opened PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
 
 **2025-04-12** — created branch `z/faq` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-11** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2797458451) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-11** — opened PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit sample"
-
-**2025-04-11** — created branch `z/moreSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-10** — merged PR [#144](https://github.com/ZacSweers/auto-service-ksp/pull/144) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.17.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
