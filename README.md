@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-13** — opened PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
+
+**2025-04-13** — created branch `z/emptyMapProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-12** — commented on [#314](https://github.com/ZacSweers/metro/issues/314#issuecomment-2799041262) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-12** — opened issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-11** — created branch `z/intersectionTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-11** — commented on [#312](https://github.com/ZacSweers/metro/issues/312#issuecomment-2797754143) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-11** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2797458451) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-11** — opened PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit sample"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
