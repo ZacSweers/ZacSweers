@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-13** — closed issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
+
+**2025-04-13** — merged PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
+
+**2025-04-13** — opened issue [#318](https://github.com/ZacSweers/metro/issues/318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make empty multibindings an error by default"
+
+**2025-04-13** — merged PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
+
 **2025-04-13** — opened PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
 
 **2025-04-13** — created branch `z/emptyMapProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-12** — opened PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
 
 **2025-04-12** — created branch `z/faq` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-11** — opened PR [#313](https://github.com/ZacSweers/metro/pull/313) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #312"
-
-**2025-04-11** — merged PR [#310](https://github.com/ZacSweers/metro/pull/310) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8"
-
-**2025-04-11** — created branch `z/intersectionTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-11** — commented on [#312](https://github.com/ZacSweers/metro/issues/312#issuecomment-2797754143) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
