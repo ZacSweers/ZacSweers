@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-13** — commented on [#1314](https://github.com/slackhq/foundry/pull/1314#issuecomment-2800115450) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-04-13** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2800112409) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-13** — closed issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
 
 **2025-04-13** — merged PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-12** — commented on [#314](https://github.com/ZacSweers/metro/issues/314#issuecomment-2799041262) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-12** — opened issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
-
-**2025-04-12** — opened PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
-
-**2025-04-12** — created branch `z/faq` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
