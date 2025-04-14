@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-14** — opened PR [#319](https://github.com/ZacSweers/metro/pull/319) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow empty multibindings by default"
+
+**2025-04-14** — created branch `z/emptyMulti` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-14** — merged PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit & Android samples"
 
 **2025-04-13** — opened issue [#1663](https://github.com/java-native-access/jna/issues/1663) on [java-native-access/jna](https://github.com/java-native-access/jna): ""[Resource-Usage] Failed to initialize JNA" error log could use more context"
