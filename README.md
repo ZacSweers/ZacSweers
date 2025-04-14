@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-13** — opened PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
 
 **2025-04-13** — created branch `z/emptyMapProviders` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-12** — commented on [#314](https://github.com/ZacSweers/metro/issues/314#issuecomment-2799041262) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
