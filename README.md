@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-14** — merged PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit & Android samples"
+
 **2025-04-13** — opened issue [#1663](https://github.com/java-native-access/jna/issues/1663) on [java-native-access/jna](https://github.com/java-native-access/jna): ""[Resource-Usage] Failed to initialize JNA" error log could use more context"
 
 **2025-04-13** — commented on [#1314](https://github.com/slackhq/foundry/pull/1314#issuecomment-2800115450) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-13** — opened issue [#318](https://github.com/ZacSweers/metro/issues/318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make empty multibindings an error by default"
 
 **2025-04-13** — merged PR [#315](https://github.com/ZacSweers/metro/pull/315) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Start an FAQ doc"
-
-**2025-04-13** — opened PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
