@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-14** — merged PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit & Android samples"
 
 **2025-04-13** — opened issue [#1663](https://github.com/java-native-access/jna/issues/1663) on [java-native-access/jna](https://github.com/java-native-access/jna): ""[Resource-Usage] Failed to initialize JNA" error log could use more context"
-
-**2025-04-13** — commented on [#1314](https://github.com/slackhq/foundry/pull/1314#issuecomment-2800115450) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-04-13** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2800112409) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
