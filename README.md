@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-15** — merged PR [#320](https://github.com/ZacSweers/metro/pull/320) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.27.1"
+
+**2025-04-15** — opened PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
+
+**2025-04-15** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-15** — commented on [#10103](https://github.com/robolectric/robolectric/issues/10103#issuecomment-2806971164) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2025-04-14** — opened PR [#319](https://github.com/ZacSweers/metro/pull/319) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow empty multibindings by default"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-13** — commented on [#1314](https://github.com/slackhq/foundry/pull/1314#issuecomment-2800115450) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-04-13** — commented on [#311](https://github.com/ZacSweers/metro/pull/311#issuecomment-2800112409) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-13** — closed issue [#316](https://github.com/ZacSweers/metro/issues/316) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize `MapProviderFactory` with empty singleton + optimized single-element type"
-
-**2025-04-13** — merged PR [#317](https://github.com/ZacSweers/metro/pull/317) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize Map*Factory when empty"
-
-**2025-04-13** — opened issue [#318](https://github.com/ZacSweers/metro/issues/318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make empty multibindings an error by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
