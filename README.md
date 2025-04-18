@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — merged PR [#321](https://github.com/ZacSweers/metro/pull/321) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support repeatable @ContributesBinding annotations with different scopes"
+
+**2025-04-18** — closed issue [#314](https://github.com/ZacSweers/metro/issues/314) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin Incremental doesn't work when requesting dependencies in one graph from another"
+
+**2025-04-18** — merged PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Record lookups to included graph dep accessors"
+
 **2025-04-18** — merged PR [#331](https://github.com/ZacSweers/metro/pull/331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improvements for lookup recording to support IC"
 
 **2025-04-18** — commented on [#331](https://github.com/ZacSweers/metro/pull/331#issuecomment-2816120608) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — created branch `z/icIssue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-17** — merged PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate per-scope hint overloads"
-
-**2025-04-17** — opened PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hint() overloads instead"
-
-**2025-04-17** — created branch `z/focusedHInts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-17** — commented on [#318](https://github.com/ZacSweers/metro/issues/318#issuecomment-2813985050) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
