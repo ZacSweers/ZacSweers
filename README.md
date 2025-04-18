@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-17** — opened PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP record lookups to included graph dep accessors"
+
+**2025-04-17** — created branch `z/icIssue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-17** — merged PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate per-scope hint overloads"
 
 **2025-04-17** — opened PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hint() overloads instead"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — merged PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
 
 **2025-04-17** — merged PR [#323](https://github.com/ZacSweers/metro/pull/323) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.6"
-
-**2025-04-17** — merged PR [#324](https://github.com/ZacSweers/metro/pull/324) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.2"
-
-**2025-04-17** — merged PR [#325](https://github.com/ZacSweers/metro/pull/325) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
