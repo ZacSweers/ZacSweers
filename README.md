@@ -4,21 +4,17 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-15** — merged PR [#320](https://github.com/ZacSweers/metro/pull/320) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.27.1"
+**2025-04-17** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-04-15** — opened PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
+**2025-04-17** — merged PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
 
-**2025-04-15** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-17** — merged PR [#323](https://github.com/ZacSweers/metro/pull/323) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.6"
 
-**2025-04-15** — commented on [#10103](https://github.com/robolectric/robolectric/issues/10103#issuecomment-2806971164) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+**2025-04-17** — merged PR [#324](https://github.com/ZacSweers/metro/pull/324) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.2"
 
-**2025-04-14** — opened PR [#319](https://github.com/ZacSweers/metro/pull/319) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow empty multibindings by default"
+**2025-04-17** — merged PR [#325](https://github.com/ZacSweers/metro/pull/325) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.4"
 
-**2025-04-14** — created branch `z/emptyMulti` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-14** — merged PR [#311](https://github.com/ZacSweers/metro/pull/311) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Circuit & Android samples"
-
-**2025-04-13** — opened issue [#1663](https://github.com/java-native-access/jna/issues/1663) on [java-native-access/jna](https://github.com/java-native-access/jna): ""[Resource-Usage] Failed to initialize JNA" error log could use more context"
+**2025-04-17** — merged PR [#326](https://github.com/ZacSweers/metro/pull/326) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
