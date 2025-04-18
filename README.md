@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-17** — opened PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hint() overloads instead"
+
+**2025-04-17** — created branch `z/focusedHInts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-17** — commented on [#318](https://github.com/ZacSweers/metro/issues/318#issuecomment-2813985050) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-17** — closed issue [#318](https://github.com/ZacSweers/metro/issues/318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make empty multibindings an error by default"
+
 **2025-04-17** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-17** — merged PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
