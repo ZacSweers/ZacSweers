@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — commented on [#739](https://github.com/ZacSweers/MoshiX/issues/739#issuecomment-2815724603) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
+
 **2025-04-17** — opened PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP record lookups to included graph dep accessors"
 
 **2025-04-17** — created branch `z/icIssue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-17** — merged PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
-
-**2025-04-17** — merged PR [#323](https://github.com/ZacSweers/metro/pull/323) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
