@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — merged PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
+
 **2025-04-18** — merged PR [#321](https://github.com/ZacSweers/metro/pull/321) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support repeatable @ContributesBinding annotations with different scopes"
 
 **2025-04-18** — closed issue [#314](https://github.com/ZacSweers/metro/issues/314) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin Incremental doesn't work when requesting dependencies in one graph from another"
@@ -17,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-18** — commented on [#329](https://github.com/ZacSweers/metro/pull/329#issuecomment-2816118483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-18** — commented on [#739](https://github.com/ZacSweers/MoshiX/issues/739#issuecomment-2815724603) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2025-04-17** — opened PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP record lookups to included graph dep accessors"
-
-**2025-04-17** — created branch `z/icIssue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
