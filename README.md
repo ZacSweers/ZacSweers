@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-17** — merged PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate per-scope hint overloads"
+
 **2025-04-17** — opened PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hint() overloads instead"
 
 **2025-04-17** — created branch `z/focusedHInts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — merged PR [#324](https://github.com/ZacSweers/metro/pull/324) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.56.2"
 
 **2025-04-17** — merged PR [#325](https://github.com/ZacSweers/metro/pull/325) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.4"
-
-**2025-04-17** — merged PR [#326](https://github.com/ZacSweers/metro/pull/326) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
