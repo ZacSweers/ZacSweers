@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — merged PR [#331](https://github.com/ZacSweers/metro/pull/331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improvements for lookup recording to support IC"
+
+**2025-04-18** — commented on [#331](https://github.com/ZacSweers/metro/pull/331#issuecomment-2816120608) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-18** — commented on [#329](https://github.com/ZacSweers/metro/pull/329#issuecomment-2816118483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-18** — commented on [#739](https://github.com/ZacSweers/MoshiX/issues/739#issuecomment-2815724603) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2025-04-17** — opened PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP record lookups to included graph dep accessors"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — created branch `z/focusedHInts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-17** — commented on [#318](https://github.com/ZacSweers/metro/issues/318#issuecomment-2813985050) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-17** — closed issue [#318](https://github.com/ZacSweers/metro/issues/318) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make empty multibindings an error by default"
-
-**2025-04-17** — created branch `z/noOverlappingScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-17** — merged PR [#322](https://github.com/ZacSweers/metro/pull/322) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check for overlapping/conflicting ancestor scopes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
