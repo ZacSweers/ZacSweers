@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-17** — opened PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP record lookups to included graph dep accessors"
 
 **2025-04-17** — created branch `z/icIssue` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-17** — merged PR [#328](https://github.com/ZacSweers/metro/pull/328) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate per-scope hint overloads"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
