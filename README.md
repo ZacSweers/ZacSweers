@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-19** — merged PR [#169](https://github.com/ZacSweers/FieldSpottr/pull/169) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.1.3"
+
 **2025-04-19** — closed issue [#265](https://github.com/ZacSweers/metro/issues/265) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
 
 **2025-04-19** — merged PR [#333](https://github.com/ZacSweers/metro/pull/333) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816490640) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-18** — merged PR [#212](https://github.com/ZacSweers/metro/pull/212) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Another test repeated ContributesBinding with different scopes and same bound type"
-
-**2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816487920) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
