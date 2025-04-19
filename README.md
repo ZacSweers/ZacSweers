@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-19** — closed issue [#265](https://github.com/ZacSweers/metro/issues/265) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+
+**2025-04-19** — merged PR [#333](https://github.com/ZacSweers/metro/pull/333) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+
+**2025-04-19** — commented on [#275](https://github.com/ZacSweers/metro/pull/275#issuecomment-2816561924) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-19** — closed PR [#275](https://github.com/ZacSweers/metro/pull/275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow nullable types to be contributed to the graph"
+
+**2025-04-19** — opened PR [#333](https://github.com/ZacSweers/metro/pull/333) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+
+**2025-04-19** — created branch `z/nullableBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-18** — created tag `0.1.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816490640) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-18** — merged PR [#212](https://github.com/ZacSweers/metro/pull/212) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Another test repeated ContributesBinding with different scopes and same bound type"
 
 **2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816487920) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816487026) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — commented on [#210](https://github.com/ZacSweers/metro/issues/210#issuecomment-2816486890) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — closed issue [#210](https://github.com/ZacSweers/metro/issues/210) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repeated ContributesBinding annotations result in duplicate declaration exception"
-
-**2025-04-18** — opened PR [#332](https://github.com/ZacSweers/metro/pull/332) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP set up IC tests"
-
-**2025-04-18** — created branch `z/icTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — opened PR [#1424](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1424) to [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Fix issues in testkit readme"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
