@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-19** — merged PR [#169](https://github.com/ZacSweers/FieldSpottr/pull/169) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.1.3"
+**2025-04-19** — closed issue [#334](https://github.com/ZacSweers/metro/issues/334) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception during compilation when using interop for dagger Multibinds"
 
-**2025-04-19** — closed issue [#265](https://github.com/ZacSweers/metro/issues/265) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+**2025-04-19** — merged PR [#336](https://github.com/ZacSweers/metro/pull/336) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix multibinds interop"
 
-**2025-04-19** — merged PR [#333](https://github.com/ZacSweers/metro/pull/333) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+**2025-04-19** — opened PR [#336](https://github.com/ZacSweers/metro/pull/336) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix multibinds interop"
 
-**2025-04-19** — commented on [#275](https://github.com/ZacSweers/metro/pull/275#issuecomment-2816561924) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-19** — created branch `z/fixMultibinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-04-19** — closed PR [#275](https://github.com/ZacSweers/metro/pull/275) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow nullable types to be contributed to the graph"
+**2025-04-19** — merged PR [#737](https://github.com/ZacSweers/MoshiX/pull/737) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.3"
 
-**2025-04-19** — opened PR [#333](https://github.com/ZacSweers/metro/pull/333) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support nullable bindings"
+**2025-04-19** — merged PR [#738](https://github.com/ZacSweers/MoshiX/pull/738) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.4.8-jre"
 
-**2025-04-19** — created branch `z/nullableBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-19** — commented on [#334](https://github.com/ZacSweers/metro/issues/334#issuecomment-2816853511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-04-18** — created tag `0.1.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-19** — merged PR [#304](https://github.com/ZacSweers/redacted-compiler-plugin/pull/304) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.0"
 
-**2025-04-18** — commented on [#294](https://github.com/ZacSweers/metro/pull/294#issuecomment-2816490640) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-19** — merged PR [#305](https://github.com/ZacSweers/redacted-compiler-plugin/pull/305) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.2"
 
-**2025-04-18** — merged PR [#212](https://github.com/ZacSweers/metro/pull/212) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Another test repeated ContributesBinding with different scopes and same bound type"
+**2025-04-19** — merged PR [#307](https://github.com/ZacSweers/redacted-compiler-plugin/pull/307) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.0.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
