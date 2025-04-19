@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — commented on [#149](https://github.com/ZacSweers/metro/issues/149#issuecomment-2816402220) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-18** — closed issue [#149](https://github.com/ZacSweers/metro/issues/149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hints as artifact resource files"
+
 **2025-04-18** — merged PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
 
 **2025-04-18** — merged PR [#321](https://github.com/ZacSweers/metro/pull/321) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support repeatable @ContributesBinding annotations with different scopes"
@@ -11,14 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-18** — closed issue [#314](https://github.com/ZacSweers/metro/issues/314) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin Incremental doesn't work when requesting dependencies in one graph from another"
 
 **2025-04-18** — merged PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Record lookups to included graph dep accessors"
-
-**2025-04-18** — merged PR [#331](https://github.com/ZacSweers/metro/pull/331) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improvements for lookup recording to support IC"
-
-**2025-04-18** — commented on [#331](https://github.com/ZacSweers/metro/pull/331#issuecomment-2816120608) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — commented on [#329](https://github.com/ZacSweers/metro/pull/329#issuecomment-2816118483) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-18** — commented on [#739](https://github.com/ZacSweers/MoshiX/issues/739#issuecomment-2815724603) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
