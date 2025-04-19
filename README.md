@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — opened PR [#332](https://github.com/ZacSweers/metro/pull/332) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP set up IC tests"
+
+**2025-04-18** — created branch `z/icTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-18** — opened PR [#1424](https://github.com/autonomousapps/dependency-analysis-gradle-plugin/pull/1424) to [autonomousapps/dependency-analysis-gradle-plugin](https://github.com/autonomousapps/dependency-analysis-gradle-plugin): "Fix issues in testkit readme"
+
 **2025-04-18** — closed issue [#309](https://github.com/ZacSweers/metro/issues/309) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Injecting a javax.inject.Provider or dagger.Lazy results in ClassCastException at runtime"
 
 **2025-04-18** — merged PR [#327](https://github.com/ZacSweers/metro/pull/327) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Issue 309 - Fix runtime class cast exception when interoping with javax provider"
@@ -15,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-18** — merged PR [#1311](https://github.com/slackhq/foundry/pull/1311) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always set target SDK in androidx.benchmark projects"
 
 **2025-04-18** — merged PR [#321](https://github.com/ZacSweers/metro/pull/321) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support repeatable @ContributesBinding annotations with different scopes"
-
-**2025-04-18** — closed issue [#314](https://github.com/ZacSweers/metro/issues/314) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin Incremental doesn't work when requesting dependencies in one graph from another"
-
-**2025-04-18** — merged PR [#329](https://github.com/ZacSweers/metro/pull/329) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Record lookups to included graph dep accessors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
