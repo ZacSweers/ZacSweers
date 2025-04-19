@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-18** — closed issue [#309](https://github.com/ZacSweers/metro/issues/309) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Injecting a javax.inject.Provider or dagger.Lazy results in ClassCastException at runtime"
+
+**2025-04-18** — merged PR [#327](https://github.com/ZacSweers/metro/pull/327) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Issue 309 - Fix runtime class cast exception when interoping with javax provider"
+
 **2025-04-18** — commented on [#149](https://github.com/ZacSweers/metro/issues/149#issuecomment-2816402220) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-18** — closed issue [#149](https://github.com/ZacSweers/metro/issues/149) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate hints as artifact resource files"
