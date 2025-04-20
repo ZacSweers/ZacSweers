@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-20** — commented on [#338](https://github.com/ZacSweers/metro/issues/338#issuecomment-2817263568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-19** — merged PR [#736](https://github.com/ZacSweers/MoshiX/pull/736) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.30.0"
 
 **2025-04-19** — closed issue [#334](https://github.com/ZacSweers/metro/issues/334) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception during compilation when using interop for dagger Multibinds"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-19** — commented on [#334](https://github.com/ZacSweers/metro/issues/334#issuecomment-2816853511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-19** — merged PR [#304](https://github.com/ZacSweers/redacted-compiler-plugin/pull/304) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.0"
-
-**2025-04-19** — merged PR [#305](https://github.com/ZacSweers/redacted-compiler-plugin/pull/305) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
