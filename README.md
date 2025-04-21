@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-21** — merged PR [#341](https://github.com/ZacSweers/metro/pull/341) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.android.application to v8.9.2"
+
+**2025-04-21** — closed issue [#338](https://github.com/ZacSweers/metro/issues/338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding isExtendable = true to DependencyGraph in /samples/circuit-app results in Platform declaration clash"
+
+**2025-04-21** — merged PR [#337](https://github.com/ZacSweers/metro/pull/337) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add viewmodel DI wiring sample"
+
 **2025-04-21** — opened PR [#340](https://github.com/ZacSweers/metro/pull/340) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP ContributesGraphExtension"
 
 **2025-04-21** — created branch `z/contributesGraphExtension3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-19** — merged PR [#736](https://github.com/ZacSweers/MoshiX/pull/736) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.30.0"
 
 **2025-04-19** — closed issue [#334](https://github.com/ZacSweers/metro/issues/334) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception during compilation when using interop for dagger Multibinds"
-
-**2025-04-19** — merged PR [#336](https://github.com/ZacSweers/metro/pull/336) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix multibinds interop"
-
-**2025-04-19** — opened PR [#336](https://github.com/ZacSweers/metro/pull/336) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix multibinds interop"
-
-**2025-04-19** — created branch `z/fixMultibinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
