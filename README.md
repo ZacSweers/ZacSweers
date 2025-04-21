@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-21** — opened PR [#340](https://github.com/ZacSweers/metro/pull/340) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP ContributesGraphExtension"
+
+**2025-04-21** — created branch `z/contributesGraphExtension3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-21** — closed issue [#339](https://github.com/ZacSweers/metro/issues/339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dagger interop for Multibinds crash the compiler because of allowEmpty flag"
 
 **2025-04-21** — commented on [#339](https://github.com/ZacSweers/metro/issues/339#issuecomment-2818440473) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-19** — opened PR [#336](https://github.com/ZacSweers/metro/pull/336) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix multibinds interop"
 
 **2025-04-19** — created branch `z/fixMultibinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-19** — merged PR [#737](https://github.com/ZacSweers/MoshiX/pull/737) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.3"
-
-**2025-04-19** — merged PR [#738](https://github.com/ZacSweers/MoshiX/pull/738) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.4.8-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
