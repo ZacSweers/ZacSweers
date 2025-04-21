@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-21** — closed issue [#339](https://github.com/ZacSweers/metro/issues/339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dagger interop for Multibinds crash the compiler because of allowEmpty flag"
+
+**2025-04-21** — commented on [#339](https://github.com/ZacSweers/metro/issues/339#issuecomment-2818440473) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-20** — commented on [#338](https://github.com/ZacSweers/metro/issues/338#issuecomment-2817263568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-19** — merged PR [#736](https://github.com/ZacSweers/MoshiX/pull/736) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.30.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-19** — merged PR [#737](https://github.com/ZacSweers/MoshiX/pull/737) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v7.0.3"
 
 **2025-04-19** — merged PR [#738](https://github.com/ZacSweers/MoshiX/pull/738) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.4.8-jre"
-
-**2025-04-19** — commented on [#334](https://github.com/ZacSweers/metro/issues/334#issuecomment-2816853511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-19** — merged PR [#304](https://github.com/ZacSweers/redacted-compiler-plugin/pull/304) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
