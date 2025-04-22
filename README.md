@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-22** — merged PR [#171](https://github.com/ZacSweers/FieldSpottr/pull/171) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.2.0"
+
 **2025-04-21** — created tag `0.2.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-21** — closed issue [#342](https://github.com/ZacSweers/metro/issues/342) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scoping doesn't work with assisted injection"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-21** — merged PR [#166](https://github.com/ZacSweers/FieldSpottr/pull/166) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.1"
 
 **2025-04-21** — merged PR [#167](https://github.com/ZacSweers/FieldSpottr/pull/167) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.13.0"
-
-**2025-04-21** — merged PR [#168](https://github.com/ZacSweers/FieldSpottr/pull/168) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
