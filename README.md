@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-21** — merged PR [#165](https://github.com/ZacSweers/FieldSpottr/pull/165) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.3"
 
 **2025-04-21** — merged PR [#166](https://github.com/ZacSweers/FieldSpottr/pull/166) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.1"
-
-**2025-04-21** — merged PR [#167](https://github.com/ZacSweers/FieldSpottr/pull/167) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
