@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-22** — commented on [#1320](https://github.com/slackhq/foundry/pull/1320#issuecomment-2822066506) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-04-22** — opened issue [#613](https://github.com/gradle/actions/issues/613) on [gradle/actions](https://github.com/gradle/actions): "setup-gradle action sets up a broken home .gradle dir"
+
 **2025-04-22** — commented on [#340](https://github.com/ZacSweers/metro/pull/340#issuecomment-2821689729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-22** — merged PR [#171](https://github.com/ZacSweers/FieldSpottr/pull/171) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.2.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-21** — merged PR [#162](https://github.com/ZacSweers/FieldSpottr/pull/162) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.1"
 
 **2025-04-21** — merged PR [#164](https://github.com/ZacSweers/FieldSpottr/pull/164) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.4"
-
-**2025-04-21** — merged PR [#165](https://github.com/ZacSweers/FieldSpottr/pull/165) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.3"
-
-**2025-04-21** — merged PR [#166](https://github.com/ZacSweers/FieldSpottr/pull/166) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
