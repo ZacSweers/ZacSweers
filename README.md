@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-21** — merged PR [#344](https://github.com/ZacSweers/metro/pull/344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce IR dump base test"
+
 **2025-04-21** — merged PR [#341](https://github.com/ZacSweers/metro/pull/341) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.android.application to v8.9.2"
 
 **2025-04-21** — closed issue [#338](https://github.com/ZacSweers/metro/issues/338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding isExtendable = true to DependencyGraph in /samples/circuit-app results in Platform declaration clash"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-20** — commented on [#338](https://github.com/ZacSweers/metro/issues/338#issuecomment-2817263568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-19** — merged PR [#736](https://github.com/ZacSweers/MoshiX/pull/736) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.30.0"
-
-**2025-04-19** — closed issue [#334](https://github.com/ZacSweers/metro/issues/334) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exception during compilation when using interop for dagger Multibinds"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
