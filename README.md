@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-21** — merged PR [#344](https://github.com/ZacSweers/metro/pull/344) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce IR dump base test"
+**2025-04-21** — created tag `0.2.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-04-21** — merged PR [#341](https://github.com/ZacSweers/metro/pull/341) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.android.application to v8.9.2"
+**2025-04-21** — closed issue [#342](https://github.com/ZacSweers/metro/issues/342) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scoping doesn't work with assisted injection"
 
-**2025-04-21** — closed issue [#338](https://github.com/ZacSweers/metro/issues/338) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Adding isExtendable = true to DependencyGraph in /samples/circuit-app results in Platform declaration clash"
+**2025-04-21** — commented on [#342](https://github.com/ZacSweers/metro/issues/342#issuecomment-2819963456) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-04-21** — merged PR [#337](https://github.com/ZacSweers/metro/pull/337) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add viewmodel DI wiring sample"
+**2025-04-21** — merged PR [#160](https://github.com/ZacSweers/FieldSpottr/pull/160) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx-coroutines monorepo to v1.10.2"
 
-**2025-04-21** — opened PR [#340](https://github.com/ZacSweers/metro/pull/340) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP ContributesGraphExtension"
+**2025-04-21** — merged PR [#162](https://github.com/ZacSweers/FieldSpottr/pull/162) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.1"
 
-**2025-04-21** — created branch `z/contributesGraphExtension3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-21** — merged PR [#164](https://github.com/ZacSweers/FieldSpottr/pull/164) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.4"
 
-**2025-04-21** — closed issue [#339](https://github.com/ZacSweers/metro/issues/339) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dagger interop for Multibinds crash the compiler because of allowEmpty flag"
+**2025-04-21** — merged PR [#165](https://github.com/ZacSweers/FieldSpottr/pull/165) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.3"
 
-**2025-04-21** — commented on [#339](https://github.com/ZacSweers/metro/issues/339#issuecomment-2818440473) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-21** — merged PR [#166](https://github.com/ZacSweers/FieldSpottr/pull/166) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.27.1"
 
-**2025-04-20** — commented on [#338](https://github.com/ZacSweers/metro/issues/338#issuecomment-2817263568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-04-21** — merged PR [#167](https://github.com/ZacSweers/FieldSpottr/pull/167) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.13.0"
 
-**2025-04-19** — merged PR [#736](https://github.com/ZacSweers/MoshiX/pull/736) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.30.0"
+**2025-04-21** — merged PR [#168](https://github.com/ZacSweers/FieldSpottr/pull/168) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
