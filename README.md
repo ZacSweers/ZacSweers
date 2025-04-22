@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-22** — commented on [#340](https://github.com/ZacSweers/metro/pull/340#issuecomment-2821689729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-22** — merged PR [#171](https://github.com/ZacSweers/FieldSpottr/pull/171) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.2.0"
 
 **2025-04-21** — created tag `0.2.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
