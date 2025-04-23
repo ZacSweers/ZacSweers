@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-22** — merged PR [#343](https://github.com/ZacSweers/metro/pull/343) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix rank processing error when the outranked binding is contributed using Metro's ContributesBinding annotation"
+
 **2025-04-22** — commented on [#1320](https://github.com/slackhq/foundry/pull/1320#issuecomment-2822066506) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-04-22** — opened issue [#613](https://github.com/gradle/actions/issues/613) on [gradle/actions](https://github.com/gradle/actions): "setup-gradle action sets up a broken home .gradle dir"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-21** — merged PR [#160](https://github.com/ZacSweers/FieldSpottr/pull/160) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx-coroutines monorepo to v1.10.2"
 
 **2025-04-21** — merged PR [#162](https://github.com/ZacSweers/FieldSpottr/pull/162) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.1"
-
-**2025-04-21** — merged PR [#164](https://github.com/ZacSweers/FieldSpottr/pull/164) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
