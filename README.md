@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-04-23** — Could not load GitHub activity. Please check back later.
+**2025-04-22** — merged PR [#343](https://github.com/ZacSweers/metro/pull/343) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix rank processing error when the outranked binding is contributed using Metro's ContributesBinding annotation"
+
+**2025-04-22** — commented on [#1320](https://github.com/slackhq/foundry/pull/1320#issuecomment-2822066506) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-04-22** — opened issue [#613](https://github.com/gradle/actions/issues/613) on [gradle/actions](https://github.com/gradle/actions): "setup-gradle action sets up a broken home .gradle dir"
+
+**2025-04-22** — commented on [#340](https://github.com/ZacSweers/metro/pull/340#issuecomment-2821689729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-22** — merged PR [#171](https://github.com/ZacSweers/FieldSpottr/pull/171) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.2.0"
+
+**2025-04-21** — created tag `0.2.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-21** — closed issue [#342](https://github.com/ZacSweers/metro/issues/342) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scoping doesn't work with assisted injection"
+
+**2025-04-21** — commented on [#342](https://github.com/ZacSweers/metro/issues/342#issuecomment-2819963456) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-21** — merged PR [#160](https://github.com/ZacSweers/FieldSpottr/pull/160) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx-coroutines monorepo to v1.10.2"
+
+**2025-04-21** — merged PR [#162](https://github.com/ZacSweers/FieldSpottr/pull/162) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
