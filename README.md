@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-21** — closed issue [#342](https://github.com/ZacSweers/metro/issues/342) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Scoping doesn't work with assisted injection"
 
 **2025-04-21** — commented on [#342](https://github.com/ZacSweers/metro/issues/342#issuecomment-2819963456) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-21** — merged PR [#160](https://github.com/ZacSweers/FieldSpottr/pull/160) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx-coroutines monorepo to v1.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
