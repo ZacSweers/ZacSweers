@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#173](https://github.com/ZacSweers/FieldSpottr/pull/173) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#308](https://github.com/ZacSweers/redacted-compiler-plugin/pull/308) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#1904](https://github.com/ZacSweers/CatchUp/pull/1904) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v4.0.1"
+
+**2025-04-25** — merged PR [#1905](https://github.com/ZacSweers/CatchUp/pull/1905) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#141](https://github.com/ZacSweers/auto-service-ksp/pull/141) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#244](https://github.com/ZacSweers/ZacSweers/pull/244) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#356](https://github.com/ZacSweers/metro/pull/356) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14"
+
+**2025-04-25** — merged PR [#357](https://github.com/ZacSweers/metro/pull/357) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin testkit to v0.13"
+
 **2025-04-25** — merged PR [#351](https://github.com/ZacSweers/metro/pull/351) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for extending a generic interface in ContributesGraphExtension.Factory"
 
 **2025-04-25** — commented on [#350](https://github.com/ZacSweers/metro/pull/350#issuecomment-2829364247) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-25** — merged PR [#353](https://github.com/ZacSweers/metro/pull/353) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.12.2"
-
-**2025-04-25** — merged PR [#352](https://github.com/ZacSweers/metro/pull/352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.autonomousapps:gradle-testkit-support to v0.18"
-
-**2025-04-25** — commented on [#351](https://github.com/ZacSweers/metro/pull/351#issuecomment-2829346655) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-25** — merged PR [#332](https://github.com/ZacSweers/metro/pull/332) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Set up IC tests"
-
-**2025-04-24** — created branch `z/test` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-23** — merged PR [#345](https://github.com/ZacSweers/metro/pull/345) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.0"
-
-**2025-04-23** — commented on [#613](https://github.com/gradle/actions/issues/613#issuecomment-2825033502) in [gradle/actions](https://github.com/gradle/actions)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
