@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#358](https://github.com/ZacSweers/metro/pull/358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.1"
+
 **2025-04-25** — merged PR [#173](https://github.com/ZacSweers/FieldSpottr/pull/173) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14"
 
 **2025-04-25** — merged PR [#308](https://github.com/ZacSweers/redacted-compiler-plugin/pull/308) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — merged PR [#357](https://github.com/ZacSweers/metro/pull/357) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin testkit to v0.13"
 
 **2025-04-25** — merged PR [#351](https://github.com/ZacSweers/metro/pull/351) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for extending a generic interface in ContributesGraphExtension.Factory"
-
-**2025-04-25** — commented on [#350](https://github.com/ZacSweers/metro/pull/350#issuecomment-2829364247) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
