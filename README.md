@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#353](https://github.com/ZacSweers/metro/pull/353) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.12.2"
+
+**2025-04-25** — merged PR [#352](https://github.com/ZacSweers/metro/pull/352) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.autonomousapps:gradle-testkit-support to v0.18"
+
+**2025-04-25** — commented on [#351](https://github.com/ZacSweers/metro/pull/351#issuecomment-2829346655) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-25** — merged PR [#332](https://github.com/ZacSweers/metro/pull/332) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Set up IC tests"
+
 **2025-04-24** — created branch `z/test` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-23** — merged PR [#345](https://github.com/ZacSweers/metro/pull/345) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.0"
@@ -11,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-23** — commented on [#613](https://github.com/gradle/actions/issues/613#issuecomment-2825033502) in [gradle/actions](https://github.com/gradle/actions)
 
 **2025-04-22** — merged PR [#343](https://github.com/ZacSweers/metro/pull/343) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix rank processing error when the outranked binding is contributed using Metro's ContributesBinding annotation"
-
-**2025-04-22** — commented on [#1320](https://github.com/slackhq/foundry/pull/1320#issuecomment-2822066506) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-04-22** — opened issue [#613](https://github.com/gradle/actions/issues/613) on [gradle/actions](https://github.com/gradle/actions): "setup-gradle action sets up a broken home .gradle dir"
-
-**2025-04-22** — commented on [#340](https://github.com/ZacSweers/metro/pull/340#issuecomment-2821689729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-22** — merged PR [#171](https://github.com/ZacSweers/FieldSpottr/pull/171) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
