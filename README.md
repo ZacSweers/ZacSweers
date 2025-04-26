@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#1327](https://github.com/slackhq/foundry/pull/1327) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.9.2"
+
 **2025-04-25** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2831328036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-25** — merged PR [#1322](https://github.com/slackhq/foundry/pull/1322) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.gradle:develocity-gradle-plugin to v4"
@@ -13,8 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — merged PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
 
 **2025-04-25** — closed PR [#1319](https://github.com/slackhq/foundry/pull/1319) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
-
-**2025-04-25** — merged PR [#1321](https://github.com/slackhq/foundry/pull/1321) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okio to v3.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
