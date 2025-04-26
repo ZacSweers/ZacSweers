@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#1321](https://github.com/slackhq/foundry/pull/1321) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okio to v3.11.0"
+
+**2025-04-25** — merged PR [#1325](https://github.com/slackhq/foundry/pull/1325) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.google.guava:guava to v33.4.8-jre"
+
 **2025-04-25** — commented on [#354](https://github.com/ZacSweers/metro/pull/354#issuecomment-2831069942) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-25** — merged PR [#358](https://github.com/ZacSweers/metro/pull/358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — merged PR [#141](https://github.com/ZacSweers/auto-service-ksp/pull/141) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14"
 
 **2025-04-25** — merged PR [#244](https://github.com/ZacSweers/ZacSweers/pull/244) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#356](https://github.com/ZacSweers/metro/pull/356) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#357](https://github.com/ZacSweers/metro/pull/357) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin testkit to v0.13"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
