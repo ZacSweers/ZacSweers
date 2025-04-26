@@ -4,25 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — merged PR [#1322](https://github.com/slackhq/foundry/pull/1322) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.gradle:develocity-gradle-plugin to v4"
+
+**2025-04-25** — merged PR [#1323](https://github.com/slackhq/foundry/pull/1323) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin com.gradle.develocity to v4"
+
+**2025-04-25** — merged PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
+
+**2025-04-25** — closed PR [#1319](https://github.com/slackhq/foundry/pull/1319) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
+
 **2025-04-25** — merged PR [#1321](https://github.com/slackhq/foundry/pull/1321) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update okio to v3.11.0"
-
-**2025-04-25** — merged PR [#1325](https://github.com/slackhq/foundry/pull/1325) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.google.guava:guava to v33.4.8-jre"
-
-**2025-04-25** — commented on [#354](https://github.com/ZacSweers/metro/pull/354#issuecomment-2831069942) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-25** — merged PR [#358](https://github.com/ZacSweers/metro/pull/358) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.1"
-
-**2025-04-25** — merged PR [#173](https://github.com/ZacSweers/FieldSpottr/pull/173) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#308](https://github.com/ZacSweers/redacted-compiler-plugin/pull/308) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#1904](https://github.com/ZacSweers/CatchUp/pull/1904) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v4.0.1"
-
-**2025-04-25** — merged PR [#1905](https://github.com/ZacSweers/CatchUp/pull/1905) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#141](https://github.com/ZacSweers/auto-service-ksp/pull/141) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14"
-
-**2025-04-25** — merged PR [#244](https://github.com/ZacSweers/ZacSweers/pull/244) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
