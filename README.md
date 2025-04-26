@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — opened PR [#360](https://github.com/ZacSweers/metro/pull/360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Change reports dir to be per-compilation"
+
+**2025-04-25** — created branch `z/tweakDir` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-25** — merged PR [#1327](https://github.com/slackhq/foundry/pull/1327) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.9.2"
 
 **2025-04-25** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2831328036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
