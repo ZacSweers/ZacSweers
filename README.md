@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-25** — created tag `0.27.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-04-25** — merged PR [#360](https://github.com/ZacSweers/metro/pull/360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Change reports dir to be per-compilation"
 
 **2025-04-25** — opened PR [#360](https://github.com/ZacSweers/metro/pull/360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Change reports dir to be per-compilation"
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — merged PR [#1323](https://github.com/slackhq/foundry/pull/1323) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin com.gradle.develocity to v4"
 
 **2025-04-25** — merged PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
-
-**2025-04-25** — closed PR [#1319](https://github.com/slackhq/foundry/pull/1319) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
