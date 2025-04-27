@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-27** — opened issue [#363](https://github.com/ZacSweers/metro/issues/363) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error message for missing bindings injected as members"
+
 **2025-04-26** — merged PR [#362](https://github.com/ZacSweers/metro/pull/362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.3"
 
 **2025-04-25** — created tag `0.27.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
