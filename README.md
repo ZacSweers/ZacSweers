@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-26** — merged PR [#362](https://github.com/ZacSweers/metro/pull/362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.3"
+
 **2025-04-25** — created tag `0.27.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-04-25** — merged PR [#360](https://github.com/ZacSweers/metro/pull/360) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Change reports dir to be per-compilation"
@@ -15,12 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — merged PR [#1327](https://github.com/slackhq/foundry/pull/1327) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.9.2"
 
 **2025-04-25** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2831328036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-25** — merged PR [#1322](https://github.com/slackhq/foundry/pull/1322) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.gradle:develocity-gradle-plugin to v4"
-
-**2025-04-25** — merged PR [#1323](https://github.com/slackhq/foundry/pull/1323) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin com.gradle.develocity to v4"
-
-**2025-04-25** — merged PR [#1317](https://github.com/slackhq/foundry/pull/1317) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for Metro DI in Foundry Gradle plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
