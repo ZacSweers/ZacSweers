@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-28** — merged PR [#366](https://github.com/ZacSweers/metro/pull/366) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency pymdown-extensions to v10.15"
+
+**2025-04-28** — merged PR [#367](https://github.com/ZacSweers/metro/pull/367) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject to v0.8.0"
+
 **2025-04-27** — opened issue [#363](https://github.com/ZacSweers/metro/issues/363) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error message for missing bindings injected as members"
 
 **2025-04-26** — merged PR [#362](https://github.com/ZacSweers/metro/pull/362) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.3"
@@ -17,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-25** — created branch `z/tweakDir` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-25** — merged PR [#1327](https://github.com/slackhq/foundry/pull/1327) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.9.2"
-
-**2025-04-25** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2831328036) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
