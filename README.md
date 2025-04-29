@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-28** — opened PR [#368](https://github.com/ZacSweers/metro/pull/368) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework BindingGraph"
+
+**2025-04-28** — created branch `z/newBindingGraph` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-28** — commented on [#22600](https://github.com/gradle/gradle/issues/22600#issuecomment-2836812375) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-04-28** — merged PR [#735](https://github.com/ZacSweers/MoshiX/pull/735) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-2.0.0"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-28** — merged PR [#741](https://github.com/ZacSweers/MoshiX/pull/741) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.9.2"
 
 **2025-04-28** — merged PR [#742](https://github.com/ZacSweers/MoshiX/pull/742) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.14"
-
-**2025-04-28** — commented on [#365](https://github.com/ZacSweers/metro/issues/365#issuecomment-2836274145) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
