@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-29** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-2839879120) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-04-29** — merged PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
+
 **2025-04-29** — opened PR [#2062](https://github.com/slackhq/circuit/pull/2062) to [slackhq/circuit](https://github.com/slackhq/circuit): "Compile against SDK 36"
 
 **2025-04-29** — created branch `z/sdk36` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — merged PR [#369](https://github.com/ZacSweers/metro/pull/369) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.4"
 
 **2025-04-29** — commented on [#371](https://github.com/ZacSweers/metro/pull/371#issuecomment-2839045752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-29** — closed issue [#365](https://github.com/ZacSweers/metro/issues/365) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't suggest moving @Inject to class for Dagger interop"
-
-**2025-04-29** — merged PR [#371](https://github.com/ZacSweers/metro/pull/371) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't suggest moving @Inject to class for annotations that don't have CLASS target"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
