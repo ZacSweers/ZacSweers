@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-30** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2842843030) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-04-30** — merged PR [#374](https://github.com/ZacSweers/metro/pull/374) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.1.0"
 
 **2025-04-29** — closed issue [#372](https://github.com/ZacSweers/metro/issues/372) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension fails to compile when it includes contributions from ContributesBinding"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — opened PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
 
 **2025-04-29** — created branch `z/morestatedocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-04-29** — commented on [#1855](https://github.com/ZacSweers/CatchUp/pull/1855#issuecomment-2839339296) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
