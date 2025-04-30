@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-29** — closed issue [#372](https://github.com/ZacSweers/metro/issues/372) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension fails to compile when it includes contributions from ContributesBinding"
+
+**2025-04-29** — merged PR [#373](https://github.com/ZacSweers/metro/pull/373) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ContributesGraphExtension missing binding receiver info for contributed bindings"
+
 **2025-04-29** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-2839879120) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-04-29** — merged PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — commented on [#1855](https://github.com/ZacSweers/CatchUp/pull/1855#issuecomment-2839339296) in [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2025-04-29** — commented on [#368](https://github.com/ZacSweers/metro/pull/368#issuecomment-2839202534) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-04-29** — merged PR [#369](https://github.com/ZacSweers/metro/pull/369) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.4"
-
-**2025-04-29** — commented on [#371](https://github.com/ZacSweers/metro/pull/371#issuecomment-2839045752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
