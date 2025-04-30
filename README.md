@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-29** — merged PR [#369](https://github.com/ZacSweers/metro/pull/369) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.4"
+
+**2025-04-29** — commented on [#371](https://github.com/ZacSweers/metro/pull/371#issuecomment-2839045752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-04-29** — closed issue [#365](https://github.com/ZacSweers/metro/issues/365) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't suggest moving @Inject to class for Dagger interop"
+
+**2025-04-29** — merged PR [#371](https://github.com/ZacSweers/metro/pull/371) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't suggest moving @Inject to class for annotations that don't have CLASS target"
+
 **2025-04-28** — opened PR [#368](https://github.com/ZacSweers/metro/pull/368) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework BindingGraph"
 
 **2025-04-28** — created branch `z/newBindingGraph` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-28** — merged PR [#1855](https://github.com/ZacSweers/CatchUp/pull/1855) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to Metro"
 
 **2025-04-28** — merged PR [#1903](https://github.com/ZacSweers/CatchUp/pull/1903) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0-alpha03"
-
-**2025-04-28** — merged PR [#1907](https://github.com/ZacSweers/CatchUp/pull/1907) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.accompanist:accompanist-adaptive to v0.37.3"
-
-**2025-04-28** — merged PR [#740](https://github.com/ZacSweers/MoshiX/pull/740) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.9.2"
-
-**2025-04-28** — merged PR [#741](https://github.com/ZacSweers/MoshiX/pull/741) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.9.2"
-
-**2025-04-28** — merged PR [#742](https://github.com/ZacSweers/MoshiX/pull/742) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.14"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
