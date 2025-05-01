@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-04-30** — merged PR [#376](https://github.com/ZacSweers/metro/pull/376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-2.0.1"
+
 **2025-04-30** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2842843030) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-30** — merged PR [#374](https://github.com/ZacSweers/metro/pull/374) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.1.0"
@@ -15,14 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-2839879120) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-04-29** — merged PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
-
-**2025-04-29** — opened PR [#2062](https://github.com/slackhq/circuit/pull/2062) to [slackhq/circuit](https://github.com/slackhq/circuit): "Compile against SDK 36"
-
-**2025-04-29** — created branch `z/sdk36` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-04-29** — opened PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
-
-**2025-04-29** — created branch `z/morestatedocs` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
