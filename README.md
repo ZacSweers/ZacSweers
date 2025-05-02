@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-02** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2847323595) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-02** — commented on [#613](https://github.com/gradle/actions/issues/613#issuecomment-2847311242) in [gradle/actions](https://github.com/gradle/actions)
+
 **2025-04-30** — merged PR [#376](https://github.com/ZacSweers/metro/pull/376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-2.0.1"
 
 **2025-04-30** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2842843030) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — merged PR [#373](https://github.com/ZacSweers/metro/pull/373) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ContributesGraphExtension missing binding receiver info for contributed bindings"
 
 **2025-04-29** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-2839879120) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-04-29** — merged PR [#2061](https://github.com/slackhq/circuit/pull/2061) to [slackhq/circuit](https://github.com/slackhq/circuit): "Flesh out state docs more + different designs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
