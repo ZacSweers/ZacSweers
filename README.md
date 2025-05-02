@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-02** — closed issue [#364](https://github.com/ZacSweers/metro/issues/364) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Assisted injection codegen fails when factory has super type"
+
+**2025-05-02** — merged PR [#378](https://github.com/ZacSweers/metro/pull/378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix error reporting for missing return type in AssistedFactory"
+
 **2025-05-02** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2847323595) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-02** — commented on [#613](https://github.com/gradle/actions/issues/613#issuecomment-2847311242) in [gradle/actions](https://github.com/gradle/actions)
@@ -17,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-29** — closed issue [#372](https://github.com/ZacSweers/metro/issues/372) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension fails to compile when it includes contributions from ContributesBinding"
 
 **2025-04-29** — merged PR [#373](https://github.com/ZacSweers/metro/pull/373) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ContributesGraphExtension missing binding receiver info for contributed bindings"
-
-**2025-04-29** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-2839879120) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
