@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848466076) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-03** — commented on [#350](https://github.com/ZacSweers/metro/pull/350#issuecomment-2848462986) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-03** — closed PR [#350](https://github.com/ZacSweers/metro/pull/350) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing tests to demonstrate issue related to: SingleIn + ContributesBinding + interface naming"
+
 **2025-05-02** — closed issue [#364](https://github.com/ZacSweers/metro/issues/364) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Assisted injection codegen fails when factory has super type"
 
 **2025-05-02** — merged PR [#378](https://github.com/ZacSweers/metro/pull/378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix error reporting for missing return type in AssistedFactory"
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-04-30** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2842843030) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-04-30** — merged PR [#374](https://github.com/ZacSweers/metro/pull/374) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.1.0"
-
-**2025-04-29** — closed issue [#372](https://github.com/ZacSweers/metro/issues/372) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension fails to compile when it includes contributions from ContributesBinding"
-
-**2025-04-29** — merged PR [#373](https://github.com/ZacSweers/metro/pull/373) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ContributesGraphExtension missing binding receiver info for contributed bindings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
