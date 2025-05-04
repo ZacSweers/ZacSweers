@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-03** — closed issue [#359](https://github.com/ZacSweers/metro/issues/359) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension can't access providers from interface contributed to parent"
+
+**2025-05-03** — merged PR [#381](https://github.com/ZacSweers/metro/pull/381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing parent supertype bindings"
+
+**2025-05-03** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2848917785) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-03** — opened PR [#381](https://github.com/ZacSweers/metro/pull/381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing parent supertype bindings"
 
 **2025-05-03** — created branch `z/fixMissingParents` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-03** — created branch `z/updateCyclesTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-03** — merged PR [#1906](https://github.com/ZacSweers/CatchUp/pull/1906) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.1"
-
-**2025-05-03** — merged PR [#1908](https://github.com/ZacSweers/CatchUp/pull/1908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.20.1"
-
-**2025-05-03** — merged PR [#1909](https://github.com/ZacSweers/CatchUp/pull/1909) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.20-2.0.1"
-
-**2025-05-03** — merged PR [#368](https://github.com/ZacSweers/metro/pull/368) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework BindingGraph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
