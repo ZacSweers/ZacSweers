@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848466076) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — opened PR [#381](https://github.com/ZacSweers/metro/pull/381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing parent supertype bindings"
 
-**2025-05-03** — commented on [#350](https://github.com/ZacSweers/metro/pull/350#issuecomment-2848462986) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — created branch `z/fixMissingParents` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-03** — closed PR [#350](https://github.com/ZacSweers/metro/pull/350) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing tests to demonstrate issue related to: SingleIn + ContributesBinding + interface naming"
+**2025-05-03** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2848905443) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-02** — closed issue [#364](https://github.com/ZacSweers/metro/issues/364) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Assisted injection codegen fails when factory has super type"
+**2025-05-03** — merged PR [#380](https://github.com/ZacSweers/metro/pull/380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable extensions test in CyclesTest"
 
-**2025-05-02** — merged PR [#378](https://github.com/ZacSweers/metro/pull/378) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix error reporting for missing return type in AssistedFactory"
+**2025-05-03** — opened PR [#380](https://github.com/ZacSweers/metro/pull/380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable extensions test in CyclesTest"
 
-**2025-05-02** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2847323595) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — created branch `z/updateCyclesTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-02** — commented on [#613](https://github.com/gradle/actions/issues/613#issuecomment-2847311242) in [gradle/actions](https://github.com/gradle/actions)
+**2025-05-03** — merged PR [#1906](https://github.com/ZacSweers/CatchUp/pull/1906) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.1"
 
-**2025-04-30** — merged PR [#376](https://github.com/ZacSweers/metro/pull/376) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.20-2.0.1"
+**2025-05-03** — merged PR [#1908](https://github.com/ZacSweers/CatchUp/pull/1908) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.20.1"
 
-**2025-04-30** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2842843030) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — merged PR [#1909](https://github.com/ZacSweers/CatchUp/pull/1909) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.20-2.0.1"
 
-**2025-04-30** — merged PR [#374](https://github.com/ZacSweers/metro/pull/374) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency termcolor to v3.1.0"
+**2025-05-03** — merged PR [#368](https://github.com/ZacSweers/metro/pull/368) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rework BindingGraph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
