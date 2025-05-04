@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-03** — closed issue [#359](https://github.com/ZacSweers/metro/issues/359) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension can't access providers from interface contributed to parent"
+**2025-05-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848985950) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-03** — merged PR [#381](https://github.com/ZacSweers/metro/pull/381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing parent supertype bindings"
+**2025-05-03** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2848984568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-03** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2848917785) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — commented on [#361](https://github.com/ZacSweers/metro/issues/361#issuecomment-2848983953) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-03** — opened PR [#381](https://github.com/ZacSweers/metro/pull/381) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing parent supertype bindings"
+**2025-05-03** — closed issue [#361](https://github.com/ZacSweers/metro/issues/361) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph extension breaks parent provides"
 
-**2025-05-03** — created branch `z/fixMissingParents` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — closed issue [#375](https://github.com/ZacSweers/metro/issues/375) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Extended parent graph is missing Metro metadata"
 
-**2025-05-03** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2848905443) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — merged PR [#382](https://github.com/ZacSweers/metro/pull/382) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure parent graphs are generated before extensions"
 
-**2025-05-03** — merged PR [#380](https://github.com/ZacSweers/metro/pull/380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable extensions test in CyclesTest"
+**2025-05-03** — merged PR [#174](https://github.com/ZacSweers/FieldSpottr/pull/174) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.4"
 
-**2025-05-03** — opened PR [#380](https://github.com/ZacSweers/metro/pull/380) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable extensions test in CyclesTest"
+**2025-05-03** — merged PR [#172](https://github.com/ZacSweers/FieldSpottr/pull/172) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.1.0"
 
-**2025-05-03** — created branch `z/updateCyclesTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-03** — merged PR [#1848](https://github.com/ZacSweers/CatchUp/pull/1848) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.11.0-rc01"
 
-**2025-05-03** — merged PR [#1906](https://github.com/ZacSweers/CatchUp/pull/1906) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.1"
+**2025-05-03** — commented on [#375](https://github.com/ZacSweers/metro/issues/375#issuecomment-2848979642) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
