@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2849490948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-04** — closed issue [#389](https://github.com/ZacSweers/metro/issues/389) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError in FirProvidesStatusTransformer when AGP generated class is referenced"
+
+**2025-05-04** — merged PR [#392](https://github.com/ZacSweers/metro/pull/392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "StatusTransformer improvements"
+
 **2025-05-04** — opened PR [#392](https://github.com/ZacSweers/metro/pull/392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "StatusTransformer improvements"
 
 **2025-05-04** — created branch `z/moveIsOverride` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — created branch `z/propagateTypeResolver` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — commented on [#389](https://github.com/ZacSweers/metro/issues/389#issuecomment-2849454318) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — reopened issue [#389](https://github.com/ZacSweers/metro/issues/389) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError when AGP generated class is referenced"
-
-**2025-05-04** — merged PR [#387](https://github.com/ZacSweers/metro/pull/387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "allow AssistedFactory methods to be protected"
-
-**2025-05-04** — closed issue [#389](https://github.com/ZacSweers/metro/issues/389) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError when AGP generated class is referenced"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
