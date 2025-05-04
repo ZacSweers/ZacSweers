@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — commented on [#306](https://github.com/ZacSweers/metro/issues/306#issuecomment-2849040012) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-04** — closed issue [#306](https://github.com/ZacSweers/metro/issues/306) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow graph extensions from having the same scope as their parents"
+
+**2025-05-04** — commented on [#355](https://github.com/ZacSweers/metro/issues/355#issuecomment-2849039126) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-04** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848999416) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — commented on [#354](https://github.com/ZacSweers/metro/pull/354#issuecomment-2848996723) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — created branch `z/moreDetail` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848985950) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-03** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2848984568) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-03** — commented on [#361](https://github.com/ZacSweers/metro/issues/361#issuecomment-2848983953) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-03** — closed issue [#361](https://github.com/ZacSweers/metro/issues/361) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Graph extension breaks parent provides"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
