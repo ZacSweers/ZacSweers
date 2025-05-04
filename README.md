@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — merged PR [#387](https://github.com/ZacSweers/metro/pull/387) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "allow AssistedFactory methods to be protected"
+
+**2025-05-04** — closed issue [#389](https://github.com/ZacSweers/metro/issues/389) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError when AGP generated class is referenced"
+
+**2025-05-04** — merged PR [#390](https://github.com/ZacSweers/metro/pull/390) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't check visibility before modifying it"
+
+**2025-05-04** — commented on [#389](https://github.com/ZacSweers/metro/issues/389#issuecomment-2849420184) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-04** — opened PR [#390](https://github.com/ZacSweers/metro/pull/390) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't check visibility before modifying it"
+
+**2025-05-04** — created branch `z/doNotCheckFirst` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-04** — merged PR [#386](https://github.com/ZacSweers/metro/pull/386) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "ignore additional non-abstract methods in AssistedFactory"
+
 **2025-05-04** — merged PR [#385](https://github.com/ZacSweers/metro/pull/385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fallback AssistedInjectChecker error report to the declaration source"
 
 **2025-05-04** — commented on [#364](https://github.com/ZacSweers/metro/issues/364#issuecomment-2849267500) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — closed issue [#53](https://github.com/ZacSweers/metro/issues/53) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making functions automatically private in FIR"
-
-**2025-05-04** — merged PR [#384](https://github.com/ZacSweers/metro/pull/384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transform provider functions to be private by default"
-
-**2025-05-04** — opened PR [#384](https://github.com/ZacSweers/metro/pull/384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transform provider functions to be private by default"
-
-**2025-05-04** — created branch `z/statusTransformer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — commented on [#306](https://github.com/ZacSweers/metro/issues/306#issuecomment-2849040012) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — closed issue [#306](https://github.com/ZacSweers/metro/issues/306) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow graph extensions from having the same scope as their parents"
-
-**2025-05-04** — commented on [#355](https://github.com/ZacSweers/metro/issues/355#issuecomment-2849039126) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848999416) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
