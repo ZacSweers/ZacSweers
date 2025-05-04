@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — merged PR [#385](https://github.com/ZacSweers/metro/pull/385) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fallback AssistedInjectChecker error report to the declaration source"
+
+**2025-05-04** — commented on [#364](https://github.com/ZacSweers/metro/issues/364#issuecomment-2849267500) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-04** — closed issue [#53](https://github.com/ZacSweers/metro/issues/53) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making functions automatically private in FIR"
 
 **2025-05-04** — merged PR [#384](https://github.com/ZacSweers/metro/pull/384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transform provider functions to be private by default"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — commented on [#355](https://github.com/ZacSweers/metro/issues/355#issuecomment-2849039126) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848999416) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — commented on [#354](https://github.com/ZacSweers/metro/pull/354#issuecomment-2848996723) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — closed issue [#377](https://github.com/ZacSweers/metro/issues/377) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: Can't depend on a parent-scoped dependency if not added explicitly to the parent graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
