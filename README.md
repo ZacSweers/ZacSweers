@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — closed issue [#53](https://github.com/ZacSweers/metro/issues/53) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making functions automatically private in FIR"
+
+**2025-05-04** — merged PR [#384](https://github.com/ZacSweers/metro/pull/384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transform provider functions to be private by default"
+
+**2025-05-04** — opened PR [#384](https://github.com/ZacSweers/metro/pull/384) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transform provider functions to be private by default"
+
+**2025-05-04** — created branch `z/statusTransformer` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-04** — commented on [#306](https://github.com/ZacSweers/metro/issues/306#issuecomment-2849040012) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — closed issue [#306](https://github.com/ZacSweers/metro/issues/306) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow graph extensions from having the same scope as their parents"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — commented on [#354](https://github.com/ZacSweers/metro/pull/354#issuecomment-2848996723) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — closed issue [#377](https://github.com/ZacSweers/metro/issues/377) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: Can't depend on a parent-scoped dependency if not added explicitly to the parent graph"
-
-**2025-05-04** — merged PR [#383](https://github.com/ZacSweers/metro/pull/383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check parent scopes for mismatched scope errors"
-
-**2025-05-04** — opened PR [#383](https://github.com/ZacSweers/metro/pull/383) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check parent scopes for mismatched scope errors"
-
-**2025-05-04** — created branch `z/moreDetail` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2848985950) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
