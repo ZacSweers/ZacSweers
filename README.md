@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-05** — closed PR [#394](https://github.com/ZacSweers/metro/pull/394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in faq.md"
+
+**2025-05-05** — commented on [#394](https://github.com/ZacSweers/metro/pull/394#issuecomment-2851223245) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-05** — created tag `0.3.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-05** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2849934414) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-05** — merged PR [#339](https://github.com/ZacSweers/kotlin-compile-testing/pull/339) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14"
 
 **2025-05-05** — closed issue [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "New KSP Version"
-
-**2025-05-05** — commented on [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334#issuecomment-2849888720) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-05-05** — commented on [#338](https://github.com/ZacSweers/kotlin-compile-testing/issues/338#issuecomment-2849888396) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
