@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-04** — commented on [#518](https://github.com/facebook/ktfmt/issues/518#issuecomment-2849802827) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-04** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2849758374) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — opened PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — created branch `z/moveIsOverride` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-04** — closed issue [#388](https://github.com/ZacSweers/metro/issues/388) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension with Anvil interop fails on ForScope annotation"
-
-**2025-05-04** — merged PR [#391](https://github.com/ZacSweers/metro/pull/391) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate typeresolver when resolving annotations in supertype gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
