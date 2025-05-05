@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-05** — created tag `0.3.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-05** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2849934414) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-05-05** — opened PR [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.2.0"
+
+**2025-05-05** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2849932604) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-05** — merged PR [#337](https://github.com/ZacSweers/kotlin-compile-testing/pull/337) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.11.0"
+
+**2025-05-05** — merged PR [#335](https://github.com/ZacSweers/kotlin-compile-testing/pull/335) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.17.0"
+
+**2025-05-05** — merged PR [#339](https://github.com/ZacSweers/kotlin-compile-testing/pull/339) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14"
+
 **2025-05-05** — closed issue [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "New KSP Version"
 
 **2025-05-05** — commented on [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334#issuecomment-2849888720) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-05-05** — commented on [#338](https://github.com/ZacSweers/kotlin-compile-testing/issues/338#issuecomment-2849888396) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-05-05** — commented on [#332](https://github.com/ZacSweers/kotlin-compile-testing/issues/332#issuecomment-2849888326) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-05-05** — opened issue [#340](https://github.com/ZacSweers/kotlin-compile-testing/issues/340) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Future of this library"
-
-**2025-05-05** — created branch `z/k220` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-05-04** — commented on [#518](https://github.com/facebook/ktfmt/issues/518#issuecomment-2849802827) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-04** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2849758374) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — opened PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
-
-**2025-05-04** — created branch `z/privateConstructors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
