@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-05** — closed issue [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "New KSP Version"
+
+**2025-05-05** — commented on [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334#issuecomment-2849888720) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — commented on [#338](https://github.com/ZacSweers/kotlin-compile-testing/issues/338#issuecomment-2849888396) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — commented on [#332](https://github.com/ZacSweers/kotlin-compile-testing/issues/332#issuecomment-2849888326) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — opened issue [#340](https://github.com/ZacSweers/kotlin-compile-testing/issues/340) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Future of this library"
+
+**2025-05-05** — created branch `z/k220` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2025-05-04** — commented on [#518](https://github.com/facebook/ktfmt/issues/518#issuecomment-2849802827) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-04** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2849758374) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-04** — opened PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 
 **2025-05-04** — created branch `z/privateConstructors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2849490948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — closed issue [#389](https://github.com/ZacSweers/metro/issues/389) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "StackOverflowError in FirProvidesStatusTransformer when AGP generated class is referenced"
-
-**2025-05-04** — merged PR [#392](https://github.com/ZacSweers/metro/pull/392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "StatusTransformer improvements"
-
-**2025-05-04** — opened PR [#392](https://github.com/ZacSweers/metro/pull/392) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "StatusTransformer improvements"
-
-**2025-05-04** — created branch `z/moveIsOverride` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-04** — closed issue [#388](https://github.com/ZacSweers/metro/issues/388) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension with Anvil interop fails on ForScope annotation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
