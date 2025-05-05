@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-05** — created branch `z/k22x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-05** — commented on [#332](https://github.com/ZacSweers/kotlin-compile-testing/issues/332#issuecomment-2851857034) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — created tag `0.7.1` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — commented on [#338](https://github.com/ZacSweers/kotlin-compile-testing/issues/338#issuecomment-2851853903) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-05-05** — closed issue [#338](https://github.com/ZacSweers/kotlin-compile-testing/issues/338) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Support for Kotlin 2.2.0-Beta1"
+
+**2025-05-05** — merged PR [#341](https://github.com/ZacSweers/kotlin-compile-testing/pull/341) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove old useOldBackend option"
+
+**2025-05-05** — opened PR [#341](https://github.com/ZacSweers/kotlin-compile-testing/pull/341) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Remove old useOldBackend option"
+
+**2025-05-05** — created branch `z/removeOldAPI` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-05-05** — closed PR [#394](https://github.com/ZacSweers/metro/pull/394) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in faq.md"
 
 **2025-05-05** — commented on [#394](https://github.com/ZacSweers/metro/pull/394#issuecomment-2851223245) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-05** — created tag `0.3.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-05** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2849934414) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-05-05** — opened PR [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.2.0"
-
-**2025-05-05** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2849932604) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-05** — merged PR [#337](https://github.com/ZacSweers/kotlin-compile-testing/pull/337) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.11.0"
-
-**2025-05-05** — merged PR [#335](https://github.com/ZacSweers/kotlin-compile-testing/pull/335) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.17.0"
-
-**2025-05-05** — merged PR [#339](https://github.com/ZacSweers/kotlin-compile-testing/pull/339) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14"
-
-**2025-05-05** — closed issue [#334](https://github.com/ZacSweers/kotlin-compile-testing/issues/334) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "New KSP Version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
