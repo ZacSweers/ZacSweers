@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-05** — merged PR [#743](https://github.com/ZacSweers/MoshiX/pull/743) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-2.0.1"
+
+**2025-05-05** — merged PR [#745](https://github.com/ZacSweers/MoshiX/pull/745) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.7.1"
+
+**2025-05-05** — merged PR [#395](https://github.com/ZacSweers/metro/pull/395) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.1.3"
+
+**2025-05-05** — merged PR [#175](https://github.com/ZacSweers/FieldSpottr/pull/175) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.0"
+
 **2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852394243) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852374583) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-05** — merged PR [#397](https://github.com/ZacSweers/metro/pull/397) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency dev.zacsweers.kctfork:ksp to v0.7.1"
 
 **2025-05-05** — commented on [#537](https://github.com/facebook/ktfmt/pull/537#issuecomment-2852239495) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — commented on [#537](https://github.com/facebook/ktfmt/pull/537#issuecomment-2852238741) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — commented on [#530](https://github.com/facebook/ktfmt/issues/530#issuecomment-2852136480) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — opened PR [#538](https://github.com/facebook/ktfmt/pull/538) to [facebook/ktfmt](https://github.com/facebook/ktfmt): "Update Kotlin to 2.2.0-Beta2"
-
-**2025-05-05** — created branch `z/kotlin220beta` on [ZacSweers/ktfmt](https://github.com/ZacSweers/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
