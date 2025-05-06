@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-06** — merged PR [#398](https://github.com/ZacSweers/metro/pull/398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't transform provides status if visibility is explicitly defined"
+**2025-05-06** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2853385792) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-05-06** — created branch `z/k22x` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-05-06** — opened PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.2"
 
-**2025-05-06** — merged PR [#1910](https://github.com/ZacSweers/CatchUp/pull/1910) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.0"
+**2025-05-06** — merged PR [#309](https://github.com/ZacSweers/redacted-compiler-plugin/pull/309) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.4"
 
-**2025-05-05** — opened PR [#398](https://github.com/ZacSweers/metro/pull/398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't transform provides status if visibility is explicitly defined"
+**2025-05-06** — merged PR [#311](https://github.com/ZacSweers/redacted-compiler-plugin/pull/311) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.1"
 
-**2025-05-05** — created branch `z/respectExplicitVisibility` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-06** — merged PR [#314](https://github.com/ZacSweers/redacted-compiler-plugin/pull/314) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.7.1"
 
-**2025-05-05** — merged PR [#743](https://github.com/ZacSweers/MoshiX/pull/743) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-2.0.1"
+**2025-05-06** — merged PR [#313](https://github.com/ZacSweers/redacted-compiler-plugin/pull/313) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.3"
 
-**2025-05-05** — merged PR [#745](https://github.com/ZacSweers/MoshiX/pull/745) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.7.1"
+**2025-05-06** — commented on [#746](https://github.com/ZacSweers/MoshiX/pull/746#issuecomment-2853328908) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
-**2025-05-05** — merged PR [#395](https://github.com/ZacSweers/metro/pull/395) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.1.3"
+**2025-05-06** — closed PR [#744](https://github.com/ZacSweers/MoshiX/pull/744) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-315"
 
-**2025-05-05** — merged PR [#175](https://github.com/ZacSweers/FieldSpottr/pull/175) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.0"
+**2025-05-06** — opened PR [#746](https://github.com/ZacSweers/MoshiX/pull/746) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.2"
 
-**2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852394243) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2025-05-06** — created branch `z/k22x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
