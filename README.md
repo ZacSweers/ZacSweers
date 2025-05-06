@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — merged PR [#398](https://github.com/ZacSweers/metro/pull/398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't transform provides status if visibility is explicitly defined"
+
+**2025-05-06** — created branch `z/k22x` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-05-06** — merged PR [#1910](https://github.com/ZacSweers/CatchUp/pull/1910) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.0"
+
+**2025-05-05** — opened PR [#398](https://github.com/ZacSweers/metro/pull/398) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't transform provides status if visibility is explicitly defined"
+
+**2025-05-05** — created branch `z/respectExplicitVisibility` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-05** — merged PR [#743](https://github.com/ZacSweers/MoshiX/pull/743) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.20-2.0.1"
 
 **2025-05-05** — merged PR [#745](https://github.com/ZacSweers/MoshiX/pull/745) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.7.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-05** — merged PR [#175](https://github.com/ZacSweers/FieldSpottr/pull/175) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.0"
 
 **2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852394243) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852374583) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852358637) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2852348717) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-05** — merged PR [#397](https://github.com/ZacSweers/metro/pull/397) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency dev.zacsweers.kctfork:ksp to v0.7.1"
-
-**2025-05-05** — commented on [#537](https://github.com/facebook/ktfmt/pull/537#issuecomment-2852239495) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
