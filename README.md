@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — opened PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
+
+**2025-05-06** — created branch `z/fixComparator` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-06** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2853385792) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2025-05-06** — opened PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — commented on [#746](https://github.com/ZacSweers/MoshiX/pull/746#issuecomment-2853328908) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2025-05-06** — closed PR [#744](https://github.com/ZacSweers/MoshiX/pull/744) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-315"
-
-**2025-05-06** — opened PR [#746](https://github.com/ZacSweers/MoshiX/pull/746) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.2"
-
-**2025-05-06** — created branch `z/k22x` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
