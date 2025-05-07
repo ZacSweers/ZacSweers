@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — opened PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
 
 **2025-05-06** — merged PR [#401](https://github.com/ZacSweers/metro/pull/401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.0"
-
-**2025-05-06** — created branch `z/tracing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
