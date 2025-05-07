@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — merged PR [#180](https://github.com/ZacSweers/FieldSpottr/pull/180) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.0"
+
+**2025-05-06** — merged PR [#178](https://github.com/ZacSweers/FieldSpottr/pull/178) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0"
+
+**2025-05-06** — commented on [#178](https://github.com/ZacSweers/FieldSpottr/pull/178#issuecomment-2855562112) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2025-05-06** — merged PR [#176](https://github.com/ZacSweers/FieldSpottr/pull/176) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.3"
+
+**2025-05-06** — merged PR [#177](https://github.com/ZacSweers/FieldSpottr/pull/177) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.2"
+
+**2025-05-06** — merged PR [#179](https://github.com/ZacSweers/FieldSpottr/pull/179) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.5"
+
+**2025-05-06** — merged PR [#315](https://github.com/ZacSweers/redacted-compiler-plugin/pull/315) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.5"
+
 **2025-05-06** — opened PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
 
 **2025-05-06** — merged PR [#401](https://github.com/ZacSweers/metro/pull/401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.0"
 
 **2025-05-06** — created branch `z/tracing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-06** — merged PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
-
-**2025-05-06** — merged PR [#400](https://github.com/ZacSweers/metro/pull/400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.5"
-
-**2025-05-06** — opened PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
-
-**2025-05-06** — created branch `z/fixComparator` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-06** — commented on [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312#issuecomment-2853385792) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-05-06** — opened PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.2"
-
-**2025-05-06** — merged PR [#309](https://github.com/ZacSweers/redacted-compiler-plugin/pull/309) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
