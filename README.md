@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — merged PR [#748](https://github.com/ZacSweers/MoshiX/pull/748) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.10.0"
+
+**2025-05-06** — merged PR [#406](https://github.com/ZacSweers/metro/pull/406) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.googlejavaformat:google-java-format to v1.27.0"
+
+**2025-05-06** — merged PR [#405](https://github.com/ZacSweers/metro/pull/405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.0"
+
+**2025-05-06** — merged PR [#1899](https://github.com/ZacSweers/CatchUp/pull/1899) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.0"
+
+**2025-05-06** — merged PR [#181](https://github.com/ZacSweers/FieldSpottr/pull/181) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.1.1"
+
+**2025-05-06** — merged PR [#747](https://github.com/ZacSweers/MoshiX/pull/747) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.10.0"
+
+**2025-05-06** — created branch `z/k22x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2025-05-06** — commented on [#30871](https://github.com/gradle/gradle/issues/30871#issuecomment-2856794963) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-05-06** — merged PR [#180](https://github.com/ZacSweers/FieldSpottr/pull/180) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.0"
 
 **2025-05-06** — merged PR [#178](https://github.com/ZacSweers/FieldSpottr/pull/178) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0"
-
-**2025-05-06** — commented on [#178](https://github.com/ZacSweers/FieldSpottr/pull/178#issuecomment-2855562112) in [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-05-06** — merged PR [#176](https://github.com/ZacSweers/FieldSpottr/pull/176) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.1.3"
-
-**2025-05-06** — merged PR [#177](https://github.com/ZacSweers/FieldSpottr/pull/177) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.227.2"
-
-**2025-05-06** — merged PR [#179](https://github.com/ZacSweers/FieldSpottr/pull/179) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.5"
-
-**2025-05-06** — merged PR [#315](https://github.com/ZacSweers/redacted-compiler-plugin/pull/315) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.5"
-
-**2025-05-06** — opened PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
