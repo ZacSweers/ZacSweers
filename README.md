@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — opened PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
+
+**2025-05-06** — merged PR [#401](https://github.com/ZacSweers/metro/pull/401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.0"
+
+**2025-05-06** — created branch `z/tracing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-06** — merged PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
 
 **2025-05-06** — merged PR [#400](https://github.com/ZacSweers/metro/pull/400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.5"
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — opened PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Prep for Kotlin 2.2"
 
 **2025-05-06** — merged PR [#309](https://github.com/ZacSweers/redacted-compiler-plugin/pull/309) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.4"
-
-**2025-05-06** — merged PR [#311](https://github.com/ZacSweers/redacted-compiler-plugin/pull/311) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.1"
-
-**2025-05-06** — merged PR [#314](https://github.com/ZacSweers/redacted-compiler-plugin/pull/314) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
