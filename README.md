@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-07** — opened issue [#606](https://github.com/gradle/gradle-profiler/issues/606) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "gradle-profiler is not compatible with async-profiler 3.0+"
+
+**2025-05-07** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2856959758) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-06** — merged PR [#748](https://github.com/ZacSweers/MoshiX/pull/748) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.10.0"
 
 **2025-05-06** — merged PR [#406](https://github.com/ZacSweers/metro/pull/406) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.googlejavaformat:google-java-format to v1.27.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — created branch `z/k22x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2025-05-06** — commented on [#30871](https://github.com/gradle/gradle/issues/30871#issuecomment-2856794963) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-05-06** — merged PR [#180](https://github.com/ZacSweers/FieldSpottr/pull/180) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.0"
-
-**2025-05-06** — merged PR [#178](https://github.com/ZacSweers/FieldSpottr/pull/178) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
