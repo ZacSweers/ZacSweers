@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — merged PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
+
+**2025-05-06** — merged PR [#400](https://github.com/ZacSweers/metro/pull/400) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.5"
+
 **2025-05-06** — opened PR [#402](https://github.com/ZacSweers/metro/pull/402) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix comparator infitine loop vector"
 
 **2025-05-06** — created branch `z/fixComparator` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — merged PR [#311](https://github.com/ZacSweers/redacted-compiler-plugin/pull/311) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.20-2.0.1"
 
 **2025-05-06** — merged PR [#314](https://github.com/ZacSweers/redacted-compiler-plugin/pull/314) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlinCompileTesting to v0.7.1"
-
-**2025-05-06** — merged PR [#313](https://github.com/ZacSweers/redacted-compiler-plugin/pull/313) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.1.3"
-
-**2025-05-06** — commented on [#746](https://github.com/ZacSweers/MoshiX/pull/746#issuecomment-2853328908) in [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2025-05-06** — closed PR [#744](https://github.com/ZacSweers/MoshiX/pull/744) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-315"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
