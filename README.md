@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-06** — commented on [#30871](https://github.com/gradle/gradle/issues/30871#issuecomment-2856794963) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2025-05-06** — merged PR [#180](https://github.com/ZacSweers/FieldSpottr/pull/180) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.0"
 
 **2025-05-06** — merged PR [#178](https://github.com/ZacSweers/FieldSpottr/pull/178) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.0"
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — merged PR [#315](https://github.com/ZacSweers/redacted-compiler-plugin/pull/315) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.5"
 
 **2025-05-06** — opened PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
-
-**2025-05-06** — merged PR [#401](https://github.com/ZacSweers/metro/pull/401) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
