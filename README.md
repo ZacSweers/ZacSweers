@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-08** — merged PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
+
+**2025-05-07** — commented on [#404](https://github.com/ZacSweers/metro/pull/404#issuecomment-2861662625) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-07** — merged PR [#408](https://github.com/ZacSweers/metro/pull/408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ElementsIntoSet multibinding contributions triggering a dependency cycle in some situations"
 
 **2025-05-07** — merged PR [#236](https://github.com/ZacSweers/ZacSweers/pull/236) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.20-2.0.1"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-07** — merged PR [#242](https://github.com/ZacSweers/ZacSweers/pull/242) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
 
 **2025-05-07** — merged PR [#245](https://github.com/ZacSweers/ZacSweers/pull/245) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.0"
-
-**2025-05-07** — merged PR [#231](https://github.com/ZacSweers/ZacSweers/pull/231) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.1.3"
-
-**2025-05-07** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-2860100164) in [google/ksp](https://github.com/google/ksp)
-
-**2025-05-07** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2860003185) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
