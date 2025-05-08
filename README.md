@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-07** — merged PR [#408](https://github.com/ZacSweers/metro/pull/408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ElementsIntoSet multibinding contributions triggering a dependency cycle in some situations"
+
 **2025-05-07** — merged PR [#236](https://github.com/ZacSweers/ZacSweers/pull/236) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.20-2.0.1"
 
 **2025-05-07** — merged PR [#238](https://github.com/ZacSweers/ZacSweers/pull/238) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.33.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-07** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-2860100164) in [google/ksp](https://github.com/google/ksp)
 
 **2025-05-07** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2860003185) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-07** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2860002613) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
