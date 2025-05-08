@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-07** — merged PR [#236](https://github.com/ZacSweers/ZacSweers/pull/236) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.20-2.0.1"
+
+**2025-05-07** — merged PR [#238](https://github.com/ZacSweers/ZacSweers/pull/238) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.33.0"
+
+**2025-05-07** — merged PR [#239](https://github.com/ZacSweers/ZacSweers/pull/239) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.8.1"
+
+**2025-05-07** — merged PR [#241](https://github.com/ZacSweers/ZacSweers/pull/241) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v7.0.3"
+
+**2025-05-07** — merged PR [#242](https://github.com/ZacSweers/ZacSweers/pull/242) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
+
+**2025-05-07** — merged PR [#245](https://github.com/ZacSweers/ZacSweers/pull/245) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.0"
+
+**2025-05-07** — merged PR [#231](https://github.com/ZacSweers/ZacSweers/pull/231) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.1.3"
+
 **2025-05-07** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-2860100164) in [google/ksp](https://github.com/google/ksp)
 
 **2025-05-07** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2860003185) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-07** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2860002613) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-07** — commented on [#537](https://github.com/facebook/ktfmt/pull/537#issuecomment-2860002623) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-07** — opened issue [#606](https://github.com/gradle/gradle-profiler/issues/606) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "gradle-profiler is not compatible with async-profiler 3.0+"
-
-**2025-05-07** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2856959758) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-06** — merged PR [#748](https://github.com/ZacSweers/MoshiX/pull/748) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.10.0"
-
-**2025-05-06** — merged PR [#406](https://github.com/ZacSweers/metro/pull/406) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.googlejavaformat:google-java-format to v1.27.0"
-
-**2025-05-06** — merged PR [#405](https://github.com/ZacSweers/metro/pull/405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.0"
-
-**2025-05-06** — merged PR [#1899](https://github.com/ZacSweers/CatchUp/pull/1899) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
