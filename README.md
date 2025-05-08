@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-07** — commented on [#1789](https://github.com/google/ksp/issues/1789#issuecomment-2860100164) in [google/ksp](https://github.com/google/ksp)
+
+**2025-05-07** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2860003185) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2025-05-07** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2860002613) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2025-05-07** — commented on [#537](https://github.com/facebook/ktfmt/pull/537#issuecomment-2860002623) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-07** — opened issue [#606](https://github.com/gradle/gradle-profiler/issues/606) on [gradle/gradle-profiler](https://github.com/gradle/gradle-profiler): "gradle-profiler is not compatible with async-profiler 3.0+"
 
 **2025-05-07** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2856959758) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-06** — merged PR [#405](https://github.com/ZacSweers/metro/pull/405) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.0"
 
 **2025-05-06** — merged PR [#1899](https://github.com/ZacSweers/CatchUp/pull/1899) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.0"
-
-**2025-05-06** — merged PR [#181](https://github.com/ZacSweers/FieldSpottr/pull/181) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.1.1"
-
-**2025-05-06** — merged PR [#747](https://github.com/ZacSweers/MoshiX/pull/747) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.android.tools.build:gradle to v8.10.0"
-
-**2025-05-06** — created branch `z/k22x` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-05-06** — commented on [#30871](https://github.com/gradle/gradle/issues/30871#issuecomment-2856794963) in [gradle/gradle](https://github.com/gradle/gradle)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
