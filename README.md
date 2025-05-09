@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-08** — closed PR [#2080](https://github.com/slackhq/circuit/pull/2080) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.material:material to v1.8.1"
+
+**2025-05-08** — closed PR [#2079](https://github.com/slackhq/circuit/pull/2079) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.foundation:foundation to v1.8.1"
+
+**2025-05-08** — closed PR [#2077](https://github.com/slackhq/circuit/pull/2077) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update compose.ui to v1.8.1"
+
+**2025-05-08** — closed PR [#2078](https://github.com/slackhq/circuit/pull/2078) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.animation:animation to v1.8.1"
+
 **2025-05-08** — merged PR [#404](https://github.com/ZacSweers/metro/pull/404) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more timing logging"
 
 **2025-05-07** — commented on [#404](https://github.com/ZacSweers/metro/pull/404#issuecomment-2861662625) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,16 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-07** — merged PR [#408](https://github.com/ZacSweers/metro/pull/408) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix @ElementsIntoSet multibinding contributions triggering a dependency cycle in some situations"
 
 **2025-05-07** — merged PR [#236](https://github.com/ZacSweers/ZacSweers/pull/236) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.20-2.0.1"
-
-**2025-05-07** — merged PR [#238](https://github.com/ZacSweers/ZacSweers/pull/238) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.33.0"
-
-**2025-05-07** — merged PR [#239](https://github.com/ZacSweers/ZacSweers/pull/239) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.8.1"
-
-**2025-05-07** — merged PR [#241](https://github.com/ZacSweers/ZacSweers/pull/241) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v7.0.3"
-
-**2025-05-07** — merged PR [#242](https://github.com/ZacSweers/ZacSweers/pull/242) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-coroutines-core to v1.10.2"
-
-**2025-05-07** — merged PR [#245](https://github.com/ZacSweers/ZacSweers/pull/245) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
