@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-08** — merged PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
+
+**2025-05-08** — closed PR [#1320](https://github.com/slackhq/foundry/pull/1320) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2.16.0 - abandoned"
+
+**2025-05-08** — opened PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
+
+**2025-05-08** — created branch `z/finalizeDsl` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-05-08** — commented on [#414](https://github.com/ZacSweers/metro/pull/414#issuecomment-2864014110) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-08** — merged PR [#413](https://github.com/ZacSweers/metro/pull/413) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update agp to v8.10.0""
 
 **2025-05-08** — merged PR [#410](https://github.com/ZacSweers/metro/pull/410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.0"
 
 **2025-05-08** — merged PR [#409](https://github.com/ZacSweers/metro/pull/409) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.0"
-
-**2025-05-08** — merged PR [#411](https://github.com/ZacSweers/metro/pull/411) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.navigation:navigation-compose to v2.9.0"
-
-**2025-05-08** — merged PR [#412](https://github.com/ZacSweers/metro/pull/412) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.1"
-
-**2025-05-08** — opened PR [#413](https://github.com/ZacSweers/metro/pull/413) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update agp to v8.10.0""
-
-**2025-05-08** — created branch `revert-405-renovate/agp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-08** — closed PR [#2080](https://github.com/slackhq/circuit/pull/2080) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.material:material to v1.8.1"
-
-**2025-05-08** — closed PR [#2079](https://github.com/slackhq/circuit/pull/2079) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.foundation:foundation to v1.8.1"
-
-**2025-05-08** — closed PR [#2077](https://github.com/slackhq/circuit/pull/2077) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update compose.ui to v1.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
