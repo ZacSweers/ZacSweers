@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-08** — created branch `z/bindingGraphv3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-08** — merged PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
 
 **2025-05-08** — closed PR [#1320](https://github.com/slackhq/foundry/pull/1320) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2.16.0 - abandoned"
@@ -17,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-08** — merged PR [#413](https://github.com/ZacSweers/metro/pull/413) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update agp to v8.10.0""
 
 **2025-05-08** — merged PR [#410](https://github.com/ZacSweers/metro/pull/410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.0"
-
-**2025-05-08** — merged PR [#409](https://github.com/ZacSweers/metro/pull/409) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
