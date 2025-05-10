@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-09** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2867291424) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+
+**2025-05-09** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2867284536) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-08** — created branch `z/bindingGraphv3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-08** — merged PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
@@ -17,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-08** — commented on [#414](https://github.com/ZacSweers/metro/pull/414#issuecomment-2864014110) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-08** — merged PR [#413](https://github.com/ZacSweers/metro/pull/413) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update agp to v8.10.0""
-
-**2025-05-08** — merged PR [#410](https://github.com/ZacSweers/metro/pull/410) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
