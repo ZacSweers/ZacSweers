@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-09** — merged PR [#1350](https://github.com/slackhq/foundry/pull/1350) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.0"
+
 **2025-05-09** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2867291424) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
 
 **2025-05-09** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2867284536) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
