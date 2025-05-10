@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-10** — merged PR [#419](https://github.com/ZacSweers/metro/pull/419) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a couple multibinding errors"
+
 **2025-05-09** — commented on [#480](https://github.com/slackhq/compose-lints/issues/480#issuecomment-2867866256) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2025-05-09** — closed issue [#480](https://github.com/slackhq/compose-lints/issues/480) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Is there a way to run compose-lints in a Compose Multiplatform codebase?"
