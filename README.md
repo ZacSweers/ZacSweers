@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-08** — created branch `z/finalizeDsl` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-05-08** — commented on [#414](https://github.com/ZacSweers/metro/pull/414#issuecomment-2864014110) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-08** — merged PR [#413](https://github.com/ZacSweers/metro/pull/413) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update agp to v8.10.0""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
