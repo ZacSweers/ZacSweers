@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-09** — commented on [#480](https://github.com/slackhq/compose-lints/issues/480#issuecomment-2867866256) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2025-05-09** — closed issue [#480](https://github.com/slackhq/compose-lints/issues/480) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Is there a way to run compose-lints in a Compose Multiplatform codebase?"
+
+**2025-05-09** — created tag `0.27.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-05-09** — merged PR [#1354](https://github.com/slackhq/foundry/pull/1354) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.10.0"
+
 **2025-05-09** — merged PR [#1350](https://github.com/slackhq/foundry/pull/1350) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.0"
 
 **2025-05-09** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2867291424) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
@@ -13,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-08** — created branch `z/bindingGraphv3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-08** — merged PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
-
-**2025-05-08** — closed PR [#1320](https://github.com/slackhq/foundry/pull/1320) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v2.16.0 - abandoned"
-
-**2025-05-08** — opened PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
-
-**2025-05-08** — created branch `z/finalizeDsl` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-08** — commented on [#414](https://github.com/ZacSweers/metro/pull/414#issuecomment-2864014110) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
