@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-10** — Could not load GitHub activity. Please check back later.
+**2025-05-10** — merged PR [#419](https://github.com/ZacSweers/metro/pull/419) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a couple multibinding errors"
+
+**2025-05-09** — commented on [#480](https://github.com/slackhq/compose-lints/issues/480#issuecomment-2867866256) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2025-05-09** — closed issue [#480](https://github.com/slackhq/compose-lints/issues/480) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Is there a way to run compose-lints in a Compose Multiplatform codebase?"
+
+**2025-05-09** — created tag `0.27.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-05-09** — merged PR [#1354](https://github.com/slackhq/foundry/pull/1354) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.10.0"
+
+**2025-05-09** — merged PR [#1350](https://github.com/slackhq/foundry/pull/1350) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.0"
+
+**2025-05-09** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2867291424) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
+
+**2025-05-09** — commented on [#538](https://github.com/facebook/ktfmt/pull/538#issuecomment-2867284536) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2025-05-08** — created branch `z/bindingGraphv3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-08** — merged PR [#1355](https://github.com/slackhq/foundry/pull/1355) to [slackhq/foundry](https://github.com/slackhq/foundry): "Use finalizeDsl if in android projects for DSL compat"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
