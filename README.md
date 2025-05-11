@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-11** — opened issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
+
+**2025-05-11** — opened PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: topological sorting"
+
+**2025-05-11** — commented on [#2088](https://github.com/slackhq/circuit/issues/2088#issuecomment-2870218143) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-05-11** — merged PR [#416](https://github.com/ZacSweers/metro/pull/416) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.5"
 
 **2025-05-11** — merged PR [#420](https://github.com/ZacSweers/metro/pull/420) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.13"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-09** — closed issue [#480](https://github.com/slackhq/compose-lints/issues/480) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Is there a way to run compose-lints in a Compose Multiplatform codebase?"
 
 **2025-05-09** — created tag `0.27.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-09** — merged PR [#1354](https://github.com/slackhq/foundry/pull/1354) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update agp to v8.10.0"
-
-**2025-05-09** — merged PR [#1350](https://github.com/slackhq/foundry/pull/1350) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.0"
-
-**2025-05-09** — commented on [#1507](https://github.com/JetBrains/intellij-platform-gradle-plugin/issues/1507#issuecomment-2867291424) in [JetBrains/intellij-platform-gradle-plugin](https://github.com/JetBrains/intellij-platform-gradle-plugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
