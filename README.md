@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-11** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2870428886) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-11** — opened issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
 
 **2025-05-11** — opened PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: topological sorting"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-09** — commented on [#480](https://github.com/slackhq/compose-lints/issues/480#issuecomment-2867866256) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 
 **2025-05-09** — closed issue [#480](https://github.com/slackhq/compose-lints/issues/480) on [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Is there a way to run compose-lints in a Compose Multiplatform codebase?"
-
-**2025-05-09** — created tag `0.27.2` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
