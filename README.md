@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-12** — commented on [#407](https://github.com/ZacSweers/metro/pull/407#issuecomment-2873501383) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-12** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2873405691) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-12** — merged PR [#422](https://github.com/ZacSweers/metro/pull/422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid unnecessary StringBuilder allocations"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-12** — merged PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: tarjan's algorithm + topological sorting"
 
 **2025-05-12** — merged PR [#182](https://github.com/ZacSweers/FieldSpottr/pull/182) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.1.2"
-
-**2025-05-11** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2870428886) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
