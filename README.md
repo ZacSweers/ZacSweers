@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-12** — merged PR [#422](https://github.com/ZacSweers/metro/pull/422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid unnecessary StringBuilder allocations"
+
 **2025-05-12** — merged PR [#403](https://github.com/ZacSweers/metro/pull/403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a failing test for SingleIn when combining Provider and multibindings"
 
 **2025-05-12** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2871321556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-11** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2870428886) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-11** — opened issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
-
-**2025-05-11** — opened PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: topological sorting"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
