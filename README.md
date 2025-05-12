@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-12** — merged PR [#403](https://github.com/ZacSweers/metro/pull/403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a failing test for SingleIn when combining Provider and multibindings"
+
+**2025-05-12** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2871321556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-12** — commented on [#403](https://github.com/ZacSweers/metro/pull/403#issuecomment-2871283907) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-12** — commented on [#422](https://github.com/ZacSweers/metro/pull/422#issuecomment-2871279048) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-12** — closed issue [#80](https://github.com/ZacSweers/metro/issues/80) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve dependency graph field generation"
+
+**2025-05-12** — merged PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: tarjan's algorithm + topological sorting"
+
 **2025-05-12** — merged PR [#182](https://github.com/ZacSweers/FieldSpottr/pull/182) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.1.2"
 
 **2025-05-11** — commented on [#536](https://github.com/facebook/ktfmt/pull/536#issuecomment-2870428886) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-11** — opened issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
 
 **2025-05-11** — opened PR [#423](https://github.com/ZacSweers/metro/pull/423) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding graph v3: topological sorting"
-
-**2025-05-11** — commented on [#2088](https://github.com/slackhq/circuit/issues/2088#issuecomment-2870218143) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-05-11** — merged PR [#416](https://github.com/ZacSweers/metro/pull/416) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.5"
-
-**2025-05-11** — merged PR [#420](https://github.com/ZacSweers/metro/pull/420) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.13"
-
-**2025-05-11** — merged PR [#421](https://github.com/ZacSweers/metro/pull/421) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency click to v8.2.0"
-
-**2025-05-10** — merged PR [#419](https://github.com/ZacSweers/metro/pull/419) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a couple multibinding errors"
-
-**2025-05-09** — commented on [#480](https://github.com/slackhq/compose-lints/issues/480#issuecomment-2867866256) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
