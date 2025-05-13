@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873780638) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-12** — commented on [#399](https://github.com/ZacSweers/metro/pull/399#issuecomment-2873777519) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-12** — opened PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
 
 **2025-05-12** — created branch `z/fixupBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-12** — merged PR [#422](https://github.com/ZacSweers/metro/pull/422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid unnecessary StringBuilder allocations"
 
 **2025-05-12** — merged PR [#403](https://github.com/ZacSweers/metro/pull/403) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a failing test for SingleIn when combining Provider and multibindings"
-
-**2025-05-12** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2871321556) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — commented on [#403](https://github.com/ZacSweers/metro/pull/403#issuecomment-2871283907) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
