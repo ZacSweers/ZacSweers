@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-13** — merged PR [#399](https://github.com/ZacSweers/metro/pull/399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Several small ContributesGraphExtension fixes!"
+
 **2025-05-13** — opened issue [#431](https://github.com/ZacSweers/metro/issues/431) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move all :compiler tests to :compiler-tests"
 
 **2025-05-13** — opened issue [#430](https://github.com/ZacSweers/metro/issues/430) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid creating provider fields for multibinding elements unnecessarily"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-13** — opened PR [#1358](https://github.com/slackhq/foundry/pull/1358) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement ProjectDependenciesDumpTask"
 
 **2025-05-13** — created branch `z/projectDepsGen` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-12** — merged PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
