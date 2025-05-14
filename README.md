@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-13** — opened issue [#431](https://github.com/ZacSweers/metro/issues/431) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move all :compiler tests to :compiler-tests"
+
+**2025-05-13** — opened issue [#430](https://github.com/ZacSweers/metro/issues/430) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid creating provider fields for multibinding elements unnecessarily"
+
+**2025-05-13** — opened issue [#429](https://github.com/ZacSweers/metro/issues/429) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure topologically sorted types still have a fallback sort"
+
+**2025-05-13** — merged PR [#426](https://github.com/ZacSweers/metro/pull/426) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.28.0"
+
+**2025-05-13** — merged PR [#427](https://github.com/ZacSweers/metro/pull/427) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.1.21"
+
+**2025-05-13** — merged PR [#428](https://github.com/ZacSweers/metro/pull/428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.14"
+
+**2025-05-13** — merged PR [#1358](https://github.com/slackhq/foundry/pull/1358) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement ProjectDependenciesDumpTask"
+
 **2025-05-13** — opened PR [#1358](https://github.com/slackhq/foundry/pull/1358) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement ProjectDependenciesDumpTask"
 
 **2025-05-13** — created branch `z/projectDepsGen` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-05-12** — merged PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
-
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873780638) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — commented on [#399](https://github.com/ZacSweers/metro/pull/399#issuecomment-2873777519) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — opened PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
-
-**2025-05-12** — created branch `z/fixupBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873687784) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873639909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-12** — commented on [#407](https://github.com/ZacSweers/metro/pull/407#issuecomment-2873501383) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
