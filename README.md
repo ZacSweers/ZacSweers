@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-13** — merged PR [#399](https://github.com/ZacSweers/metro/pull/399) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Several small ContributesGraphExtension fixes!"
+**2025-05-13** — created tag `0.3.1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-13** — opened issue [#431](https://github.com/ZacSweers/metro/issues/431) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move all :compiler tests to :compiler-tests"
+**2025-05-13** — merged PR [#435](https://github.com/ZacSweers/metro/pull/435) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more tests for implicit return types"
 
-**2025-05-13** — opened issue [#430](https://github.com/ZacSweers/metro/issues/430) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid creating provider fields for multibinding elements unnecessarily"
+**2025-05-13** — commented on [#379](https://github.com/ZacSweers/metro/issues/379#issuecomment-2878183699) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-13** — opened issue [#429](https://github.com/ZacSweers/metro/issues/429) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure topologically sorted types still have a fallback sort"
+**2025-05-13** — closed issue [#379](https://github.com/ZacSweers/metro/issues/379) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Singleton Binding Issue"
 
-**2025-05-13** — merged PR [#426](https://github.com/ZacSweers/metro/pull/426) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.28.0"
+**2025-05-13** — commented on [#424](https://github.com/ZacSweers/metro/issues/424#issuecomment-2878174623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-13** — merged PR [#427](https://github.com/ZacSweers/metro/pull/427) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.1.21"
+**2025-05-13** — closed issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
 
-**2025-05-13** — merged PR [#428](https://github.com/ZacSweers/metro/pull/428) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.14"
+**2025-05-13** — opened PR [#435](https://github.com/ZacSweers/metro/pull/435) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more tests for implicit return types"
 
-**2025-05-13** — merged PR [#1358](https://github.com/slackhq/foundry/pull/1358) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement ProjectDependenciesDumpTask"
+**2025-05-13** — merged PR [#434](https://github.com/ZacSweers/metro/pull/434) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.1"
 
-**2025-05-13** — opened PR [#1358](https://github.com/slackhq/foundry/pull/1358) to [slackhq/foundry](https://github.com/slackhq/foundry): "Implement ProjectDependenciesDumpTask"
+**2025-05-13** — created branch `z/fixFalsePositive` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-13** — created branch `z/projectDepsGen` on [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-05-13** — closed issue [#430](https://github.com/ZacSweers/metro/issues/430) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid creating provider fields for multibinding elements unnecessarily"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
