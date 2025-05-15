@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-15** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2882435797) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-15** — merged PR [#417](https://github.com/ZacSweers/metro/pull/417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ContributedGraphExtension that extends same interface as parent causes duplicate binding error"
+
+**2025-05-15** — merged PR [#438](https://github.com/ZacSweers/metro/pull/438) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed binding replacements not being respected in contributed graphs"
+
+**2025-05-15** — merged PR [#437](https://github.com/ZacSweers/metro/pull/437) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.32.0"
+
+**2025-05-15** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2882349002) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-14** — commented on [#2090](https://github.com/slackhq/circuit/pull/2090#issuecomment-2882147719) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-05-14** — opened PR [#1](https://github.com/joshfriend/spotlight/pull/1) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Remove trailing .dependencyProject suffixes in accessors"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-14** — merged PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
 
 **2025-05-14** — opened PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
-
-**2025-05-14** — created branch `z/metroFixes` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-05-14** — created branch `z/fixLocation` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-14** — opened PR [#436](https://github.com/ZacSweers/metro/pull/436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable IR verification in :compiler tests"
-
-**2025-05-14** — created branch `z/irVerify` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-14** — merged PR [#354](https://github.com/ZacSweers/metro/pull/354) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compiler's addFakeOverrides"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
