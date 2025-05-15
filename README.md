@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-14** — commented on [#2090](https://github.com/slackhq/circuit/pull/2090#issuecomment-2882147719) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-05-14** — opened PR [#1](https://github.com/joshfriend/spotlight/pull/1) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Remove trailing .dependencyProject suffixes in accessors"
+
+**2025-05-14** — created branch `z/dependencyProject` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+
 **2025-05-14** — merged PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
 
 **2025-05-14** — opened PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-14** — created branch `z/irVerify` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-14** — merged PR [#354](https://github.com/ZacSweers/metro/pull/354) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compiler's addFakeOverrides"
-
-**2025-05-14** — merged PR [#185](https://github.com/ZacSweers/FieldSpottr/pull/185) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.1"
-
-**2025-05-13** — created tag `0.3.1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-13** — merged PR [#435](https://github.com/ZacSweers/metro/pull/435) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more tests for implicit return types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
