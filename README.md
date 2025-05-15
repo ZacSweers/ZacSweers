@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-15** — commented on [#359](https://github.com/ZacSweers/metro/issues/359#issuecomment-2882435797) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2882686273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-15** — merged PR [#417](https://github.com/ZacSweers/metro/pull/417) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix ContributedGraphExtension that extends same interface as parent causes duplicate binding error"
+**2025-05-15** — opened PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
 
-**2025-05-15** — merged PR [#438](https://github.com/ZacSweers/metro/pull/438) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed binding replacements not being respected in contributed graphs"
+**2025-05-15** — created branch `z/followInjectors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-15** — merged PR [#437](https://github.com/ZacSweers/metro/pull/437) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.32.0"
+**2025-05-15** — merged PR [#439](https://github.com/ZacSweers/metro/pull/439) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed providers not being visible to N+2+ descendant graphs"
 
-**2025-05-15** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2882349002) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2882587405) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-14** — commented on [#2090](https://github.com/slackhq/circuit/pull/2090#issuecomment-2882147719) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-05-15** — reopened issue [#377](https://github.com/ZacSweers/metro/issues/377) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: Can't depend on a parent-scoped dependency if not added explicitly to the parent graph"
 
-**2025-05-14** — opened PR [#1](https://github.com/joshfriend/spotlight/pull/1) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Remove trailing .dependencyProject suffixes in accessors"
+**2025-05-15** — merged PR [#317](https://github.com/ZacSweers/redacted-compiler-plugin/pull/317) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.1"
 
-**2025-05-14** — created branch `z/dependencyProject` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+**2025-05-15** — merged PR [#318](https://github.com/ZacSweers/redacted-compiler-plugin/pull/318) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.32.0"
 
-**2025-05-14** — merged PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
+**2025-05-15** — opened PR [#439](https://github.com/ZacSweers/metro/pull/439) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed providers not being visible to N+2+ descendant graphs"
 
-**2025-05-14** — opened PR [#1918](https://github.com/ZacSweers/CatchUp/pull/1918) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Metro 0.3.1 + kotlin 2.1.21"
+**2025-05-15** — created branch `z/contributedSupertypeCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
