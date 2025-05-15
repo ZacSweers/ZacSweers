@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-14** — opened PR [#436](https://github.com/ZacSweers/metro/pull/436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable IR verification in :compiler tests"
+
+**2025-05-14** — created branch `z/irVerify` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-14** — merged PR [#354](https://github.com/ZacSweers/metro/pull/354) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compiler's addFakeOverrides"
+
 **2025-05-14** — merged PR [#185](https://github.com/ZacSweers/FieldSpottr/pull/185) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.1"
 
 **2025-05-13** — created tag `0.3.1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-13** — commented on [#424](https://github.com/ZacSweers/metro/issues/424#issuecomment-2878174623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-13** — closed issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
-
-**2025-05-13** — opened PR [#435](https://github.com/ZacSweers/metro/pull/435) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more tests for implicit return types"
-
-**2025-05-13** — merged PR [#434](https://github.com/ZacSweers/metro/pull/434) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.1"
-
-**2025-05-13** — created branch `z/fixFalsePositive` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
