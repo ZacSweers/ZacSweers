@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-14** — created branch `z/fixLocation` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-05-14** — opened PR [#436](https://github.com/ZacSweers/metro/pull/436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable IR verification in :compiler tests"
 
 **2025-05-14** — created branch `z/irVerify` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-13** — closed issue [#379](https://github.com/ZacSweers/metro/issues/379) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Singleton Binding Issue"
 
 **2025-05-13** — commented on [#424](https://github.com/ZacSweers/metro/issues/424#issuecomment-2878174623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-13** — closed issue [#424](https://github.com/ZacSweers/metro/issues/424) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Explicit return type false positive warning"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
