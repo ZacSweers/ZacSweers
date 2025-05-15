@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-15** — commented on [#418](https://github.com/ZacSweers/metro/pull/418#issuecomment-2882745664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-15** — merged PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
+
 **2025-05-15** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2882686273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-15** — opened PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-15** — merged PR [#317](https://github.com/ZacSweers/redacted-compiler-plugin/pull/317) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.1"
 
 **2025-05-15** — merged PR [#318](https://github.com/ZacSweers/redacted-compiler-plugin/pull/318) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.32.0"
-
-**2025-05-15** — opened PR [#439](https://github.com/ZacSweers/metro/pull/439) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed providers not being visible to N+2+ descendant graphs"
-
-**2025-05-15** — created branch `z/contributedSupertypeCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
