@@ -4,23 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-15** — created tag `0.3.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — merged PR [#1902](https://github.com/ZacSweers/CatchUp/pull/1902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.1"
 
-**2025-05-15** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2884357106) in [diffplug/spotless](https://github.com/diffplug/spotless)
+**2025-05-15** — merged PR [#1927](https://github.com/ZacSweers/CatchUp/pull/1927) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update retrofit monorepo to v3 (major)"
 
-**2025-05-15** — merged PR [#418](https://github.com/ZacSweers/metro/pull/418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KSP to compiler test framework"
+**2025-05-15** — merged PR [#1919](https://github.com/ZacSweers/CatchUp/pull/1919) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency io.github.pdvrieze.xmlutil:core to v0.91.1"
 
-**2025-05-15** — merged PR [#436](https://github.com/ZacSweers/metro/pull/436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable IR verification in :compiler tests"
+**2025-05-15** — merged PR [#1925](https://github.com/ZacSweers/CatchUp/pull/1925) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-collections-immutable to v0.4.0"
 
-**2025-05-15** — commented on [#418](https://github.com/ZacSweers/metro/pull/418#issuecomment-2882745664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — merged PR [#1922](https://github.com/ZacSweers/CatchUp/pull/1922) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.28.0"
 
-**2025-05-15** — merged PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
+**2025-05-15** — merged PR [#1923](https://github.com/ZacSweers/CatchUp/pull/1923) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha01"
 
-**2025-05-15** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2882686273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — merged PR [#1924](https://github.com/ZacSweers/CatchUp/pull/1924) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.0"
 
-**2025-05-15** — opened PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
-
-**2025-05-15** — created branch `z/followInjectors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-15** — merged PR [#1921](https://github.com/ZacSweers/CatchUp/pull/1921) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
