@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-15** — created tag `0.3.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-15** — commented on [#2318](https://github.com/diffplug/spotless/issues/2318#issuecomment-2884357106) in [diffplug/spotless](https://github.com/diffplug/spotless)
+
+**2025-05-15** — merged PR [#418](https://github.com/ZacSweers/metro/pull/418) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KSP to compiler test framework"
+
 **2025-05-15** — merged PR [#436](https://github.com/ZacSweers/metro/pull/436) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable IR verification in :compiler tests"
 
 **2025-05-15** — commented on [#418](https://github.com/ZacSweers/metro/pull/418#issuecomment-2882745664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-15** — opened PR [#440](https://github.com/ZacSweers/metro/pull/440) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix missing binding collection from member injectors"
 
 **2025-05-15** — created branch `z/followInjectors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-15** — merged PR [#439](https://github.com/ZacSweers/metro/pull/439) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributed providers not being visible to N+2+ descendant graphs"
-
-**2025-05-15** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2882587405) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-15** — reopened issue [#377](https://github.com/ZacSweers/metro/issues/377) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: Can't depend on a parent-scoped dependency if not added explicitly to the parent graph"
-
-**2025-05-15** — merged PR [#317](https://github.com/ZacSweers/redacted-compiler-plugin/pull/317) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
