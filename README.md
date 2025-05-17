@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-16** — merged PR [#1917](https://github.com/ZacSweers/CatchUp/pull/1917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.2"
+
 **2025-05-16** — merged PR [#1929](https://github.com/slackhq/circuit/pull/1929) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.20"
 
 **2025-05-16** — merged PR [#377](https://github.com/slackhq/slack-lints/pull/377) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.32.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-16** — opened PR [#1367](https://github.com/slackhq/foundry/pull/1367) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt file in project gen"
 
 **2025-05-16** — created branch `z/addAllProjectsSUpport` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-16** — merged PR [#1928](https://github.com/ZacSweers/CatchUp/pull/1928) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update sqldelight to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
