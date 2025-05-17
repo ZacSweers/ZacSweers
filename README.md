@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-16** — merged PR [#2100](https://github.com/slackhq/circuit/pull/2100) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate away from deprecated dependencyProject APIs"
+
+**2025-05-16** — opened PR [#2100](https://github.com/slackhq/circuit/pull/2100) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate away from deprecated dependencyProject APIs"
+
+**2025-05-16** — created branch `z/deprecatedApis` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-05-16** — merged PR [#1367](https://github.com/slackhq/foundry/pull/1367) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt file in project gen"
 
 **2025-05-16** — opened PR [#1367](https://github.com/slackhq/foundry/pull/1367) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt file in project gen"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-16** — merged PR [#1364](https://github.com/slackhq/foundry/pull/1364) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.vanniktech.maven.publish to v0.32.0"
 
 **2025-05-16** — merged PR [#1365](https://github.com/slackhq/foundry/pull/1365) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add edges support to skippy CLI"
-
-**2025-05-16** — merged PR [#1366](https://github.com/slackhq/foundry/pull/1366) to [slackhq/foundry](https://github.com/slackhq/foundry): "Simplify debuggable androidTest"
-
-**2025-05-16** — merged PR [#316](https://github.com/ZacSweers/redacted-compiler-plugin/pull/316) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.1.21"
-
-**2025-05-16** — merged PR [#189](https://github.com/ZacSweers/FieldSpottr/pull/189) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update sqldelight to v2.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
