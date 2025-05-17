@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-16** — opened PR [#1365](https://github.com/slackhq/foundry/pull/1365) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add edges support to skippy CLI"
+
+**2025-05-16** — created branch `z/buildscriptUtil` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-05-15** — merged PR [#1902](https://github.com/ZacSweers/CatchUp/pull/1902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.1"
 
 **2025-05-15** — merged PR [#1927](https://github.com/ZacSweers/CatchUp/pull/1927) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update retrofit monorepo to v3 (major)"
@@ -17,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-15** — merged PR [#1923](https://github.com/ZacSweers/CatchUp/pull/1923) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha01"
 
 **2025-05-15** — merged PR [#1924](https://github.com/ZacSweers/CatchUp/pull/1924) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.0"
-
-**2025-05-15** — merged PR [#1921](https://github.com/ZacSweers/CatchUp/pull/1921) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
