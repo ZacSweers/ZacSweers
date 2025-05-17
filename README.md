@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-16** — created tag `0.27.3` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-05-16** — merged PR [#1364](https://github.com/slackhq/foundry/pull/1364) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.vanniktech.maven.publish to v0.32.0"
+
+**2025-05-16** — merged PR [#1365](https://github.com/slackhq/foundry/pull/1365) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add edges support to skippy CLI"
+
+**2025-05-16** — merged PR [#1366](https://github.com/slackhq/foundry/pull/1366) to [slackhq/foundry](https://github.com/slackhq/foundry): "Simplify debuggable androidTest"
+
 **2025-05-16** — merged PR [#316](https://github.com/ZacSweers/redacted-compiler-plugin/pull/316) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.1.21"
 
 **2025-05-16** — merged PR [#189](https://github.com/ZacSweers/FieldSpottr/pull/189) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update sqldelight to v2.1.0"
@@ -15,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-16** — opened issue [#33525](https://github.com/gradle/gradle/issues/33525) on [gradle/gradle](https://github.com/gradle/gradle): "Feature request: add a control to use a configuration cache entry if available but don't compute one on misses"
 
 **2025-05-16** — created branch `z/simplifyDebuggable` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-16** — opened PR [#1365](https://github.com/slackhq/foundry/pull/1365) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add edges support to skippy CLI"
-
-**2025-05-16** — created branch `z/buildscriptUtil` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-15** — merged PR [#1902](https://github.com/ZacSweers/CatchUp/pull/1902) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
