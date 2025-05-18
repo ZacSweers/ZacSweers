@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-18** — commented on [#539](https://github.com/facebook/ktfmt/issues/539#issuecomment-2889192882) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2025-05-18** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2889191872) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-18** — merged PR [#443](https://github.com/ZacSweers/metro/pull/443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to new parameters API"
 
 **2025-05-18** — opened PR [#443](https://github.com/ZacSweers/metro/pull/443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to new parameters API"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-16** — merged PR [#377](https://github.com/slackhq/slack-lints/pull/377) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.32.0"
 
 **2025-05-16** — merged PR [#442](https://github.com/ZacSweers/metro/pull/442) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.18.7"
-
-**2025-05-16** — merged PR [#2100](https://github.com/slackhq/circuit/pull/2100) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate away from deprecated dependencyProject APIs"
-
-**2025-05-16** — opened PR [#2100](https://github.com/slackhq/circuit/pull/2100) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate away from deprecated dependencyProject APIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
