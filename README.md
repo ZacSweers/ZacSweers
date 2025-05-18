@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-17** — commented on [#340](https://github.com/ZacSweers/kotlin-compile-testing/issues/340#issuecomment-2888590644) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
 **2025-05-16** — merged PR [#1917](https://github.com/ZacSweers/CatchUp/pull/1917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.2"
 
 **2025-05-16** — merged PR [#1929](https://github.com/slackhq/circuit/pull/1929) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-16** — merged PR [#1367](https://github.com/slackhq/foundry/pull/1367) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt file in project gen"
 
 **2025-05-16** — opened PR [#1367](https://github.com/slackhq/foundry/pull/1367) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt file in project gen"
-
-**2025-05-16** — created branch `z/addAllProjectsSUpport` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
