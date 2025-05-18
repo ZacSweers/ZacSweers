@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-18** — opened issue [#542](https://github.com/facebook/ktfmt/issues/542) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "FR: Publish snapshots"
+
+**2025-05-18** — opened PR [#5446](https://github.com/JetBrains/kotlin/pull/5446) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix a couple issues in IR parameter API migration doc"
+
 **2025-05-18** — commented on [#531](https://github.com/facebook/ktfmt/issues/531#issuecomment-2889200597) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-18** — commented on [#539](https://github.com/facebook/ktfmt/issues/539#issuecomment-2889192882) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-17** — commented on [#340](https://github.com/ZacSweers/kotlin-compile-testing/issues/340#issuecomment-2888590644) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-05-16** — merged PR [#1917](https://github.com/ZacSweers/CatchUp/pull/1917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.2"
-
-**2025-05-16** — merged PR [#1929](https://github.com/slackhq/circuit/pull/1929) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.1.20"
-
-**2025-05-16** — merged PR [#377](https://github.com/slackhq/slack-lints/pull/377) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin mavenPublish to v0.32.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
