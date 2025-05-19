@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-18** — closed PR [#754](https://github.com/ZacSweers/MoshiX/pull/754) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-318"
+
+**2025-05-18** — opened PR [#190](https://github.com/ZacSweers/FieldSpottr/pull/190) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.2.0"
+
+**2025-05-18** — created branch `z/k22x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2025-05-18** — reopened PR [#2027](https://github.com/slackhq/circuit/pull/2027) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.1.21-2.0.1"
+
+**2025-05-18** — created branch `renovate/ksp-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-05-18** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2889298406) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-18** — opened issue [#542](https://github.com/facebook/ktfmt/issues/542) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "FR: Publish snapshots"
 
 **2025-05-18** — opened PR [#5446](https://github.com/JetBrains/kotlin/pull/5446) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix a couple issues in IR parameter API migration doc"
-
-**2025-05-18** — commented on [#531](https://github.com/facebook/ktfmt/issues/531#issuecomment-2889200597) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-18** — commented on [#539](https://github.com/facebook/ktfmt/issues/539#issuecomment-2889192882) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-18** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2889191872) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-18** — merged PR [#443](https://github.com/ZacSweers/metro/pull/443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to new parameters API"
-
-**2025-05-18** — opened PR [#443](https://github.com/ZacSweers/metro/pull/443) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to new parameters API"
-
-**2025-05-18** — created branch `z/parametersMigration` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-17** — commented on [#340](https://github.com/ZacSweers/kotlin-compile-testing/issues/340#issuecomment-2888590644) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-05-16** — merged PR [#1917](https://github.com/ZacSweers/CatchUp/pull/1917) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
