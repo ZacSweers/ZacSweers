@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-18** — closed PR [#754](https://github.com/ZacSweers/MoshiX/pull/754) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-318"
+**2025-05-18** — merged PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
 
-**2025-05-18** — opened PR [#190](https://github.com/ZacSweers/FieldSpottr/pull/190) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.2.0"
+**2025-05-18** — opened PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
 
-**2025-05-18** — created branch `z/k22x` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2025-05-18** — created branch `z/cyclesTestsToBox` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-18** — reopened PR [#2027](https://github.com/slackhq/circuit/pull/2027) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.1.21-2.0.1"
+**2025-05-18** — merged PR [#445](https://github.com/ZacSweers/metro/pull/445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't unnecessarily recompute bindings for roots when populating graphs"
 
-**2025-05-18** — created branch `renovate/ksp-monorepo` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-05-18** — opened issue [#147](https://github.com/touchlab/SKIE/issues/147) on [touchlab/SKIE](https://github.com/touchlab/SKIE): "KGP 2.2.0 lifecycle issue: amedDomainObjectProvider.configure(Action) on task set cannot be executed in the current context."
 
-**2025-05-18** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2889298406) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-18** — opened PR [#2105](https://github.com/slackhq/circuit/pull/2105) to [slackhq/circuit](https://github.com/slackhq/circuit): "Prep for Kotlin 2.2.0"
 
-**2025-05-18** — opened issue [#542](https://github.com/facebook/ktfmt/issues/542) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "FR: Publish snapshots"
+**2025-05-18** — created branch `z/k22x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2025-05-18** — opened PR [#5446](https://github.com/JetBrains/kotlin/pull/5446) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Fix a couple issues in IR parameter API migration doc"
+**2025-05-18** — opened PR [#445](https://github.com/ZacSweers/metro/pull/445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't unnecessarily recompute bindings for roots when populating graphs"
+
+**2025-05-18** — created branch `z/fixReAdds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-18** — merged PR [#2027](https://github.com/slackhq/circuit/pull/2027) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.1.21-2.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
