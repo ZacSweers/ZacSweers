@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-18** — opened PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
+
+**2025-05-18** — created branch `z/moveMoreCyclesTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-18** — merged PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
 
 **2025-05-18** — opened PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-18** — created branch `z/k22x` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-05-18** — opened PR [#445](https://github.com/ZacSweers/metro/pull/445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't unnecessarily recompute bindings for roots when populating graphs"
-
-**2025-05-18** — created branch `z/fixReAdds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-18** — merged PR [#2027](https://github.com/slackhq/circuit/pull/2027) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.1.21-2.0.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
