@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-19** — opened PR [#14](https://github.com/joshfriend/spotlight/pull/14) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Optimize BFS"
+
+**2025-05-19** — created branch `z/optimizeBFS` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+
 **2025-05-19** — commented on [#13](https://github.com/joshfriend/spotlight/pull/13#issuecomment-2892084447) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
 
 **2025-05-19** — opened PR [#13](https://github.com/joshfriend/spotlight/pull/13) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Implement KotlinGradleScriptNestingRule"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-18** — opened PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
 
 **2025-05-18** — created branch `z/cyclesTestsToBox` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-18** — merged PR [#445](https://github.com/ZacSweers/metro/pull/445) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't unnecessarily recompute bindings for roots when populating graphs"
-
-**2025-05-18** — opened issue [#147](https://github.com/touchlab/SKIE/issues/147) on [touchlab/SKIE](https://github.com/touchlab/SKIE): "KGP 2.2.0 lifecycle issue: amedDomainObjectProvider.configure(Action) on task set cannot be executed in the current context."
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
