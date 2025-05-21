@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-05-20** — merged PR [#191](https://github.com/ZacSweers/FieldSpottr/pull/191) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.1"
 
 **2025-05-19** — opened PR [#14](https://github.com/joshfriend/spotlight/pull/14) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Optimize BFS"
