@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-22** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2900820791) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-22** — commented on [#535](https://github.com/facebook/ktfmt/issues/535#issuecomment-2900182916) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-21** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2899361948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-19** — opened PR [#13](https://github.com/joshfriend/spotlight/pull/13) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Implement KotlinGradleScriptNestingRule"
 
 **2025-05-19** — created branch `z/ktsRule` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
-
-**2025-05-18** — opened PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
