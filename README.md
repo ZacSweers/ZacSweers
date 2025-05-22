@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-22** — commented on [#535](https://github.com/facebook/ktfmt/issues/535#issuecomment-2900182916) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-05-21** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2899361948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-19** — created branch `z/ktsRule` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
 
 **2025-05-18** — opened PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
-
-**2025-05-18** — created branch `z/moveMoreCyclesTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
