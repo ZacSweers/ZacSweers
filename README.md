@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-21** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2899361948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-05-20** — merged PR [#191](https://github.com/ZacSweers/FieldSpottr/pull/191) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-18** — opened PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
 
 **2025-05-18** — created branch `z/moveMoreCyclesTests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-18** — merged PR [#446](https://github.com/ZacSweers/metro/pull/446) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate cycle tests to box + IR dump tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
