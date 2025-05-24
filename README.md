@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-24** — merged PR [#462](https://github.com/ZacSweers/metro/pull/462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic AssistedFactory with ViewBinding"
+
+**2025-05-24** — opened PR [#464](https://github.com/ZacSweers/metro/pull/464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP improve replaces handling"
+
 **2025-05-24** — created branch `z/replacesEnhancements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-24** — merged PR [#457](https://github.com/ZacSweers/metro/pull/457) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-22** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2900820791) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-22** — commented on [#535](https://github.com/facebook/ktfmt/issues/535#issuecomment-2900182916) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-05-21** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2899361948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
