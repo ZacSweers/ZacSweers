@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-24** — created branch `z/replacesEnhancements` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-24** — merged PR [#457](https://github.com/ZacSweers/metro/pull/457) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.1"
 
 **2025-05-24** — merged PR [#458](https://github.com/ZacSweers/metro/pull/458) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency tornado to v6.5.1"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-21** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2899361948) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-05-20** — merged PR [#191](https://github.com/ZacSweers/FieldSpottr/pull/191) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
