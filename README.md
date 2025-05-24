@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-24** — merged PR [#457](https://github.com/ZacSweers/metro/pull/457) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.1"
+
+**2025-05-24** — merged PR [#458](https://github.com/ZacSweers/metro/pull/458) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency tornado to v6.5.1"
+
 **2025-05-22** — merged PR [#455](https://github.com/ZacSweers/metro/pull/455) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up parameters in ProvidesTransformer"
 
 **2025-05-22** — opened PR [#455](https://github.com/ZacSweers/metro/pull/455) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up parameters in ProvidesTransformer"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-20** — created tag `0.27.4` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-05-20** — merged PR [#191](https://github.com/ZacSweers/FieldSpottr/pull/191) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.1"
-
-**2025-05-19** — opened PR [#14](https://github.com/joshfriend/spotlight/pull/14) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Optimize BFS"
-
-**2025-05-19** — created branch `z/optimizeBFS` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
