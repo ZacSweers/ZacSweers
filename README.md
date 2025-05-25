@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-25** — merged PR [#1938](https://github.com/ZacSweers/CatchUp/pull/1938) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14.1"
+
+**2025-05-25** — merged PR [#1937](https://github.com/ZacSweers/CatchUp/pull/1937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to spotlight"
+
+**2025-05-25** — merged PR [#1930](https://github.com/ZacSweers/CatchUp/pull/1930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.1"
+
 **2025-05-25** — commented on [#527](https://github.com/facebook/ktfmt/issues/527#issuecomment-2908127302) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
 **2025-05-25** — commented on [#546](https://github.com/facebook/ktfmt/issues/546#issuecomment-2908125297) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-25** — merged PR [#1933](https://github.com/ZacSweers/CatchUp/pull/1933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.9.0-alpha04"
 
 **2025-05-25** — merged PR [#1934](https://github.com/ZacSweers/CatchUp/pull/1934) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.7"
-
-**2025-05-25** — merged PR [#1935](https://github.com/ZacSweers/CatchUp/pull/1935) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha01"
-
-**2025-05-25** — merged PR [#1936](https://github.com/ZacSweers/CatchUp/pull/1936) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.4"
-
-**2025-05-25** — opened PR [#1937](https://github.com/ZacSweers/CatchUp/pull/1937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to spotlight"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
