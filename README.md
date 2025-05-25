@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-25** — opened issue [#546](https://github.com/facebook/ktfmt/issues/546) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "0.55 release is missing from maven central"
+**2025-05-25** — commented on [#527](https://github.com/facebook/ktfmt/issues/527#issuecomment-2908127302) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
-**2025-05-24** — merged PR [#466](https://github.com/ZacSweers/metro/pull/466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure unique hint files in IR gen"
+**2025-05-25** — commented on [#546](https://github.com/facebook/ktfmt/issues/546#issuecomment-2908125297) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
 
-**2025-05-24** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-2907245348) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-25** — merged PR [#1929](https://github.com/ZacSweers/CatchUp/pull/1929) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.2"
 
-**2025-05-24** — closed issue [#456](https://github.com/ZacSweers/metro/issues/456) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Capitalized @Provides method borks with weird IR errors"
+**2025-05-25** — merged PR [#1931](https://github.com/ZacSweers/CatchUp/pull/1931) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.16.0"
 
-**2025-05-24** — merged PR [#465](https://github.com/ZacSweers/metro/pull/465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix capitalized providers"
+**2025-05-25** — merged PR [#1932](https://github.com/ZacSweers/CatchUp/pull/1932) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.2"
 
-**2025-05-24** — opened PR [#466](https://github.com/ZacSweers/metro/pull/466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure unique hint files in IR gen"
+**2025-05-25** — merged PR [#1933](https://github.com/ZacSweers/CatchUp/pull/1933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.9.0-alpha04"
 
-**2025-05-24** — created branch `z/hintGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-25** — merged PR [#1934](https://github.com/ZacSweers/CatchUp/pull/1934) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.7"
 
-**2025-05-24** — opened PR [#465](https://github.com/ZacSweers/metro/pull/465) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix capitalized providers"
+**2025-05-25** — merged PR [#1935](https://github.com/ZacSweers/CatchUp/pull/1935) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha01"
 
-**2025-05-24** — created branch `z/capitalizedProvides` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-25** — merged PR [#1936](https://github.com/ZacSweers/CatchUp/pull/1936) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.27.4"
 
-**2025-05-24** — merged PR [#462](https://github.com/ZacSweers/metro/pull/462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic AssistedFactory with ViewBinding"
+**2025-05-25** — opened PR [#1937](https://github.com/ZacSweers/CatchUp/pull/1937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to spotlight"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
