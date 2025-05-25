@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-25** — opened issue [#546](https://github.com/facebook/ktfmt/issues/546) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "0.55 release is missing from maven central"
+
 **2025-05-24** — merged PR [#466](https://github.com/ZacSweers/metro/pull/466) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure unique hint files in IR gen"
 
 **2025-05-24** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-2907245348) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-24** — created branch `z/capitalizedProvides` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-24** — merged PR [#462](https://github.com/ZacSweers/metro/pull/462) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic AssistedFactory with ViewBinding"
-
-**2025-05-24** — opened PR [#464](https://github.com/ZacSweers/metro/pull/464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP improve replaces handling"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
