@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — merged PR [#476](https://github.com/ZacSweers/metro/pull/476) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix link to IDE support in `circuit-app`"
+
+**2025-05-26** — created tag `0.3.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-26** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2910137028) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-26** — merged PR [#192](https://github.com/ZacSweers/FieldSpottr/pull/192) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.1"
+
+**2025-05-26** — merged PR [#193](https://github.com/ZacSweers/FieldSpottr/pull/193) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mohamedrejeb.calf:calf-ui to v0.8.0"
+
+**2025-05-26** — merged PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
+
+**2025-05-26** — opened issue [#475](https://github.com/ZacSweers/metro/issues/475) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate packaging in androidx.trace for compiler performance tracing"
+
 **2025-05-26** — opened PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
 
 **2025-05-26** — created branch `z/disambiguate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-26** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2910011694) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — merged PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
-
-**2025-05-26** — opened PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
-
-**2025-05-26** — created branch `z/optimizeAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — commented on [#320](https://github.com/ZacSweers/redacted-compiler-plugin/issues/320#issuecomment-2909686939) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-05-25** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2908310459) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-25** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2908297166) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-25** — closed PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
