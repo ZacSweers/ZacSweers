@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — closed issue [#477](https://github.com/ZacSweers/metro/issues/477) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IllegalStateException: Unsupported ir type during ios compilation"
+
+**2025-05-26** — commented on [#477](https://github.com/ZacSweers/metro/issues/477#issuecomment-2910388259) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-26** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2910267772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-26** — merged PR [#476](https://github.com/ZacSweers/metro/pull/476) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix link to IDE support in `circuit-app`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — merged PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
 
 **2025-05-26** — opened issue [#475](https://github.com/ZacSweers/metro/issues/475) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate packaging in androidx.trace for compiler performance tracing"
-
-**2025-05-26** — opened PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
-
-**2025-05-26** — created branch `z/disambiguate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
