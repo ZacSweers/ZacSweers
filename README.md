@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — opened PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
+
+**2025-05-26** — created branch `z/disambiguate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-26** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2910011694) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-26** — merged PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
 
 **2025-05-26** — opened PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-25** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2908297166) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-25** — closed PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
-
-**2025-05-25** — opened PR [#472](https://github.com/ZacSweers/metro/pull/472) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
-
-**2025-05-25** — created branch `z/privateConstructors2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-25** — merged PR [#1911](https://github.com/ZacSweers/CatchUp/pull/1911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
