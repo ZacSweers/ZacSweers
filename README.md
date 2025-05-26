@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — merged PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
+
 **2025-05-26** — opened PR [#473](https://github.com/ZacSweers/metro/pull/473) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Optimize graph accessors"
 
 **2025-05-26** — created branch `z/optimizeAccessors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-25** — created branch `z/privateConstructors2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-25** — merged PR [#1911](https://github.com/ZacSweers/CatchUp/pull/1911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.0"
-
-**2025-05-25** — merged PR [#471](https://github.com/ZacSweers/metro/pull/471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more IC tests + placeholder"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
