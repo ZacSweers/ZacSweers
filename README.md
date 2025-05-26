@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-25** — merged PR [#1938](https://github.com/ZacSweers/CatchUp/pull/1938) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14.1"
+**2025-05-25** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2908310459) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-25** — merged PR [#1937](https://github.com/ZacSweers/CatchUp/pull/1937) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate to spotlight"
+**2025-05-25** — commented on [#393](https://github.com/ZacSweers/metro/pull/393#issuecomment-2908297166) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-25** — merged PR [#1930](https://github.com/ZacSweers/CatchUp/pull/1930) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.1"
+**2025-05-25** — closed PR [#393](https://github.com/ZacSweers/metro/pull/393) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 
-**2025-05-25** — commented on [#527](https://github.com/facebook/ktfmt/issues/527#issuecomment-2908127302) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2025-05-25** — opened PR [#472](https://github.com/ZacSweers/metro/pull/472) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 
-**2025-05-25** — commented on [#546](https://github.com/facebook/ktfmt/issues/546#issuecomment-2908125297) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2025-05-25** — created branch `z/privateConstructors2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-25** — merged PR [#1929](https://github.com/ZacSweers/CatchUp/pull/1929) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.2"
+**2025-05-25** — merged PR [#1911](https://github.com/ZacSweers/CatchUp/pull/1911) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.0"
 
-**2025-05-25** — merged PR [#1931](https://github.com/ZacSweers/CatchUp/pull/1931) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update telephoto to v0.16.0"
+**2025-05-25** — merged PR [#471](https://github.com/ZacSweers/metro/pull/471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more IC tests + placeholder"
 
-**2025-05-25** — merged PR [#1932](https://github.com/ZacSweers/CatchUp/pull/1932) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.2"
+**2025-05-25** — opened PR [#471](https://github.com/ZacSweers/metro/pull/471) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add more IC tests + placeholder"
 
-**2025-05-25** — merged PR [#1933](https://github.com/ZacSweers/CatchUp/pull/1933) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.9.0-alpha04"
+**2025-05-25** — created branch `z/moreIC` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-25** — merged PR [#1934](https://github.com/ZacSweers/CatchUp/pull/1934) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.fragment:fragment to v1.8.7"
+**2025-05-25** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2908243747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
