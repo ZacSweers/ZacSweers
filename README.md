@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2910267772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-26** — merged PR [#476](https://github.com/ZacSweers/metro/pull/476) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix link to IDE support in `circuit-app`"
 
 **2025-05-26** — created tag `0.3.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — opened PR [#474](https://github.com/ZacSweers/metro/pull/474) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nested contributed graph classes"
 
 **2025-05-26** — created branch `z/disambiguate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2910011694) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
