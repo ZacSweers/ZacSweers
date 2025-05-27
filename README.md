@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-26** — merged PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
+
+**2025-05-26** — opened PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
+
+**2025-05-26** — created branch `z/typo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-26** — merged PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
+
+**2025-05-26** — merged PR [#479](https://github.com/ZacSweers/metro/pull/479) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use counting name allocator for contributed graphs instead"
+
+**2025-05-26** — opened PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
+
+**2025-05-26** — created branch `z/compileSdk36` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-26** — opened PR [#479](https://github.com/ZacSweers/metro/pull/479) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use counting name allocator for contributed graphs instead"
+
 **2025-05-26** — created branch `z/countingInstead` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-26** — merged PR [#194](https://github.com/ZacSweers/FieldSpottr/pull/194) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.3"
-
-**2025-05-26** — commented on [#320](https://github.com/ZacSweers/redacted-compiler-plugin/issues/320#issuecomment-2910727244) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-05-26** — closed issue [#320](https://github.com/ZacSweers/redacted-compiler-plugin/issues/320) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support for simple classes"
-
-**2025-05-26** — closed issue [#477](https://github.com/ZacSweers/metro/issues/477) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IllegalStateException: Unsupported ir type during ios compilation"
-
-**2025-05-26** — commented on [#477](https://github.com/ZacSweers/metro/issues/477#issuecomment-2910388259) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2910267772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — merged PR [#476](https://github.com/ZacSweers/metro/pull/476) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix link to IDE support in `circuit-app`"
-
-**2025-05-26** — created tag `0.3.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2910137028) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
