@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — merged PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
+
+**2025-05-27** — opened PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
+
+**2025-05-27** — created branch `z/cleanupProviderFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-27** — merged PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid intermediate sorts"
 
 **2025-05-26** — opened PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More binding tweaks"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — created branch `z/typo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-26** — merged PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
-
-**2025-05-26** — merged PR [#479](https://github.com/ZacSweers/metro/pull/479) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use counting name allocator for contributed graphs instead"
-
-**2025-05-26** — opened PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
-
-**2025-05-26** — created branch `z/compileSdk36` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
