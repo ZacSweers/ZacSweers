@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-12** — merged PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
+**2025-05-27** — merged PR [#485](https://github.com/ZacSweers/metro/pull/485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.2"
 
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873780638) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
 
-**2025-05-12** — commented on [#399](https://github.com/ZacSweers/metro/pull/399#issuecomment-2873777519) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — opened PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
 
-**2025-05-12** — opened PR [#425](https://github.com/ZacSweers/metro/pull/425) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Tweak binding rendering"
+**2025-05-27** — created branch `z/cleanupProviderFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-12** — created branch `z/fixupBinding` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid intermediate sorts"
 
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873687784) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-26** — opened PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More binding tweaks"
 
-**2025-05-12** — commented on [#417](https://github.com/ZacSweers/metro/pull/417#issuecomment-2873639909) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-26** — created branch `z/moreBindingTweaks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-12** — commented on [#407](https://github.com/ZacSweers/metro/pull/407#issuecomment-2873501383) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-26** — merged PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
 
-**2025-05-12** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-2873405691) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+**2025-05-26** — opened PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
 
-**2025-05-12** — merged PR [#422](https://github.com/ZacSweers/metro/pull/422) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid unnecessary StringBuilder allocations"
+**2025-05-26** — created branch `z/typo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
