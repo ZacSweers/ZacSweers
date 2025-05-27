@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — merged PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid intermediate sorts"
+
 **2025-05-26** — opened PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More binding tweaks"
 
 **2025-05-26** — created branch `z/moreBindingTweaks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — opened PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
 
 **2025-05-26** — created branch `z/compileSdk36` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — opened PR [#479](https://github.com/ZacSweers/metro/pull/479) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use counting name allocator for contributed graphs instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
