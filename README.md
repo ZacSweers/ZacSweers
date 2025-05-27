@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — merged PR [#485](https://github.com/ZacSweers/metro/pull/485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.2"
+
 **2025-05-27** — merged PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
 
 **2025-05-27** — opened PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — opened PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
 
 **2025-05-26** — created branch `z/typo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — merged PR [#480](https://github.com/ZacSweers/metro/pull/480) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Raise samples compile/target sdk"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
