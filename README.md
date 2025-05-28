@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-27** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2914457023) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#118](https://github.com/ZacSweers/auto-service-ksp/pull/118) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.54"
 
-**2025-05-27** — merged PR [#492](https://github.com/ZacSweers/metro/pull/492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.0.4"
+**2025-05-27** — merged PR [#147](https://github.com/ZacSweers/auto-service-ksp/pull/147) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.8-jre"
 
-**2025-05-27** — merged PR [#491](https://github.com/ZacSweers/metro/pull/491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.6"
+**2025-05-27** — merged PR [#149](https://github.com/ZacSweers/auto-service-ksp/pull/149) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.7.1"
 
-**2025-05-27** — merged PR [#1943](https://github.com/ZacSweers/CatchUp/pull/1943) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.12.0"
+**2025-05-27** — merged PR [#151](https://github.com/ZacSweers/auto-service-ksp/pull/151) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v2.2.0"
 
-**2025-05-27** — merged PR [#1942](https://github.com/ZacSweers/CatchUp/pull/1942) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.4"
+**2025-05-27** — merged PR [#152](https://github.com/ZacSweers/auto-service-ksp/pull/152) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14.1"
 
-**2025-05-27** — merged PR [#1944](https://github.com/ZacSweers/CatchUp/pull/1944) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.11.0"
+**2025-05-27** — merged PR [#150](https://github.com/ZacSweers/auto-service-ksp/pull/150) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.32.0"
 
-**2025-05-27** — merged PR [#1941](https://github.com/ZacSweers/CatchUp/pull/1941) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v7.0.4"
+**2025-05-27** — merged PR [#153](https://github.com/ZacSweers/auto-service-ksp/pull/153) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7.0.4"
 
-**2025-05-27** — merged PR [#196](https://github.com/ZacSweers/FieldSpottr/pull/196) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.12.0"
+**2025-05-27** — merged PR [#237](https://github.com/ZacSweers/ZacSweers/pull/237) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.1.21"
 
-**2025-05-27** — merged PR [#249](https://github.com/ZacSweers/ZacSweers/pull/249) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.1"
-
-**2025-05-27** — merged PR [#240](https://github.com/ZacSweers/ZacSweers/pull/240) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.91.1"
+**2025-05-27** — merged PR [#757](https://github.com/ZacSweers/MoshiX/pull/757) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
