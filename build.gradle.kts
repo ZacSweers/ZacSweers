@@ -49,6 +49,8 @@ tasks.withType<KotlinCompilationTask<*>>().configureEach {
 
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
+compose.desktop.application.mainClass = "dev.zacsweers.DesktopKt"
+
 kotlin {
   // region KMP Targets
   jvm { binaries { executable { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") } } }
