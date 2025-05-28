@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915996479) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915905462) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-28** — merged PR [#497](https://github.com/ZacSweers/metro/pull/497) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta15"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-27** — merged PR [#147](https://github.com/ZacSweers/auto-service-ksp/pull/147) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.8-jre"
 
 **2025-05-27** — merged PR [#149](https://github.com/ZacSweers/auto-service-ksp/pull/149) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.7.1"
-
-**2025-05-27** — merged PR [#151](https://github.com/ZacSweers/auto-service-ksp/pull/151) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kotlinpoet to v2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
