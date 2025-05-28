@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-05-27** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2914030749) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2914457023) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-05-27** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2913788605) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#492](https://github.com/ZacSweers/metro/pull/492) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.0.4"
 
-**2025-05-27** — created tag `0.3.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#491](https://github.com/ZacSweers/metro/pull/491) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinInject.anvil to v0.1.6"
 
-**2025-05-27** — merged PR [#487](https://github.com/ZacSweers/metro/pull/487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow computing binding to create multiple bindings"
+**2025-05-27** — merged PR [#1943](https://github.com/ZacSweers/CatchUp/pull/1943) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.12.0"
 
-**2025-05-27** — merged PR [#1939](https://github.com/ZacSweers/CatchUp/pull/1939) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.3"
+**2025-05-27** — merged PR [#1942](https://github.com/ZacSweers/CatchUp/pull/1942) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.4"
 
-**2025-05-27** — merged PR [#1940](https://github.com/ZacSweers/CatchUp/pull/1940) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v4.0.2"
+**2025-05-27** — merged PR [#1944](https://github.com/ZacSweers/CatchUp/pull/1944) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.11.0"
 
-**2025-05-27** — opened issue [#488](https://github.com/ZacSweers/metro/issues/488) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor-injected bindings do not report member injections as dependencies"
+**2025-05-27** — merged PR [#1941](https://github.com/ZacSweers/CatchUp/pull/1941) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v7.0.4"
 
-**2025-05-27** — opened PR [#487](https://github.com/ZacSweers/metro/pull/487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow computing binding to create multiple bindings"
+**2025-05-27** — merged PR [#196](https://github.com/ZacSweers/FieldSpottr/pull/196) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.12.0"
 
-**2025-05-27** — created branch `z/memberInjectDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-05-27** — merged PR [#249](https://github.com/ZacSweers/ZacSweers/pull/249) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.1"
 
-**2025-05-27** — merged PR [#486](https://github.com/ZacSweers/metro/pull/486) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix walking successors + rework missing binding validation order"
+**2025-05-27** — merged PR [#240](https://github.com/ZacSweers/ZacSweers/pull/240) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.91.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
