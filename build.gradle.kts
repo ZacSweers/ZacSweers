@@ -14,18 +14,18 @@
  * limitations under the License.
  */
 
-@file:OptIn(org.jetbrains.kotlin.gradle.ExperimentalWasmDsl::class)
+@file:OptIn(ExperimentalWasmDsl::class, ExperimentalKotlinGradlePluginApi::class)
 
+import org.jetbrains.kotlin.gradle.ExperimentalKotlinGradlePluginApi
+import org.jetbrains.kotlin.gradle.ExperimentalWasmDsl
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 import org.jetbrains.kotlin.gradle.dsl.KotlinJsCompile
 import org.jetbrains.kotlin.gradle.dsl.KotlinJvmCompilerOptions
 import org.jetbrains.kotlin.gradle.targets.js.npm.LockStoreTask
-import org.jetbrains.kotlin.gradle.targets.jvm.KotlinJvmTarget
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompilationTask
 
 plugins {
   alias(libs.plugins.kotlin.multiplatform)
-  application
   alias(libs.plugins.spotless)
   alias(libs.plugins.kotlin.serialization)
   alias(libs.plugins.compose)
@@ -49,11 +49,9 @@ tasks.withType<KotlinCompilationTask<*>>().configureEach {
 
 java { toolchain { languageVersion.set(JavaLanguageVersion.of(jdk)) } }
 
-application { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") }
-
 kotlin {
   // region KMP Targets
-  jvm()
+  jvm { binaries { executable { mainClass.set("dev.zacsweers.UpdateReadmeCommandKt") } } }
   wasmJs {
     browser { commonWebpackConfig { outputFileName = "zacsweers-root.js" } }
     binaries.executable()
@@ -105,11 +103,6 @@ kotlin {
       }
     }
   }
-
-  targets.withType<KotlinJvmTarget> {
-    // Needed for 'application' plugin.
-    withJava()
-  }
 }
 
 tasks.withType<KotlinJsCompile>().configureEach {
@@ -117,24 +110,9 @@ tasks.withType<KotlinJsCompile>().configureEach {
   compilerOptions.freeCompilerArgs.add("-Xklib-enable-signature-clash-checks=false")
 }
 
-// Fat jar configuration to run this as a standalone jar
-// Configuration borrowed from https://stackoverflow.com/a/49284432/3323598
-tasks.named<Jar>("jar") {
-  manifest { attributes(mapOf("Main-Class" to "dev.zacsweers.UpdateReadmeCommandKt")) }
-  from(
-    provider {
-      configurations.compileClasspath
-        .get()
-        .filter { it.exists() }
-        .map { if (it.isDirectory()) it else zipTree(it) }
-    }
-  )
-  duplicatesStrategy = DuplicatesStrategy.EXCLUDE
-}
-
 spotless {
-  kotlin { ktfmt("0.53").googleStyle() }
-  kotlinGradle { ktfmt("0.53").googleStyle() }
+  kotlin { ktfmt("0.54").googleStyle() }
+  kotlinGradle { ktfmt("0.54").googleStyle() }
 }
 
 tasks.withType<LockStoreTask>().configureEach {
