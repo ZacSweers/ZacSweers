@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — opened PR [#487](https://github.com/ZacSweers/metro/pull/487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow computing binding to create multiple bindings"
+
+**2025-05-27** — created branch `z/memberInjectDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-27** — merged PR [#486](https://github.com/ZacSweers/metro/pull/486) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix walking successors + rework missing binding validation order"
 
 **2025-05-27** — merged PR [#485](https://github.com/ZacSweers/metro/pull/485) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.gradle.develocity to v4.0.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-26** — opened PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More binding tweaks"
 
 **2025-05-26** — created branch `z/moreBindingTweaks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-26** — merged PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
-
-**2025-05-26** — opened PR [#482](https://github.com/ZacSweers/metro/pull/482) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix SCC typo"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
