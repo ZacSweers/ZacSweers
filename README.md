@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2914030749) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-27** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2913788605) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-27** — created tag `0.3.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
