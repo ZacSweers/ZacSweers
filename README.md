@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-27** — merged PR [#1939](https://github.com/ZacSweers/CatchUp/pull/1939) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.3"
+
+**2025-05-27** — merged PR [#1940](https://github.com/ZacSweers/CatchUp/pull/1940) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v4.0.2"
+
+**2025-05-27** — opened issue [#488](https://github.com/ZacSweers/metro/issues/488) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor-injected bindings do not report member injections as dependencies"
+
 **2025-05-27** — opened PR [#487](https://github.com/ZacSweers/metro/pull/487) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow computing binding to create multiple bindings"
 
 **2025-05-27** — created branch `z/memberInjectDeps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-27** — opened PR [#484](https://github.com/ZacSweers/metro/pull/484) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up multibinding providers"
 
 **2025-05-27** — created branch `z/cleanupProviderFields` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-27** — merged PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid intermediate sorts"
-
-**2025-05-26** — opened PR [#483](https://github.com/ZacSweers/metro/pull/483) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More binding tweaks"
-
-**2025-05-26** — created branch `z/moreBindingTweaks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
