@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2917569323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-28** — opened PR [#499](https://github.com/ZacSweers/metro/pull/499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Write FIR logs when reporting/debug is enabled"
+
+**2025-05-28** — created branch `z/betterLoggingControl` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-28** — merged PR [#496](https://github.com/ZacSweers/metro/pull/496) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for an IC issue on contributed class visibility changes"
+
+**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2917557691) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2916275664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915996479) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-28** — merged PR [#497](https://github.com/ZacSweers/metro/pull/497) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta15"
 
 **2025-05-28** — commented on [#312](https://github.com/ZacSweers/metro/issues/312#issuecomment-2915850710) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — merged PR [#494](https://github.com/ZacSweers/metro/pull/494) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta14"
-
-**2025-05-28** — merged PR [#493](https://github.com/ZacSweers/metro/pull/493) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.12.0"
-
-**2025-05-28** — commented on [#495](https://github.com/ZacSweers/metro/pull/495#issuecomment-2915848102) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-27** — merged PR [#118](https://github.com/ZacSweers/auto-service-ksp/pull/118) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.54"
-
-**2025-05-27** — merged PR [#147](https://github.com/ZacSweers/auto-service-ksp/pull/147) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.8-jre"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
