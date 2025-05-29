@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2916275664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915996479) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915905462) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-27** — merged PR [#118](https://github.com/ZacSweers/auto-service-ksp/pull/118) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.54"
 
 **2025-05-27** — merged PR [#147](https://github.com/ZacSweers/auto-service-ksp/pull/147) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.4.8-jre"
-
-**2025-05-27** — merged PR [#149](https://github.com/ZacSweers/auto-service-ksp/pull/149) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update kct to v0.7.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
