@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-28** — opened issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
+
+**2025-05-28** — closed issue [#498](https://github.com/ZacSweers/metro/issues/498) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirUserTypeRefImpl cannot be cast to class FirResolvedTypeRef with generics"
+
+**2025-05-28** — closed issue [#312](https://github.com/ZacSweers/metro/issues/312) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FIR cannot resolve `where` type parameter bounds"
+
+**2025-05-28** — merged PR [#502](https://github.com/ZacSweers/metro/pull/502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No longer generate bounds for API-invisible FIR declarations"
+
+**2025-05-28** — commented on [#313](https://github.com/ZacSweers/metro/pull/313#issuecomment-2917999244) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-28** — closed PR [#313](https://github.com/ZacSweers/metro/pull/313) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP where clauses"
+
+**2025-05-28** — opened PR [#502](https://github.com/ZacSweers/metro/pull/502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No longer generate bounds for API-invisible FIR declarations"
+
+**2025-05-28** — created branch `z/typePArams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-28** — opened issue [#501](https://github.com/ZacSweers/metro/issues/501) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Expand box compiler tests to support multiple platforms"
+
 **2025-05-28** — merged PR [#499](https://github.com/ZacSweers/metro/pull/499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Write FIR logs when reporting/debug is enabled"
-
-**2025-05-28** — commented on [#72](https://github.com/gradle/actions/issues/72#issuecomment-2917627152) in [gradle/actions](https://github.com/gradle/actions)
-
-**2025-05-28** — opened issue [#500](https://github.com/ZacSweers/metro/issues/500) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Changing contributed class visibility does not trigger IC for FIR checkers"
-
-**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2917569323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — opened PR [#499](https://github.com/ZacSweers/metro/pull/499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Write FIR logs when reporting/debug is enabled"
-
-**2025-05-28** — created branch `z/betterLoggingControl` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — merged PR [#496](https://github.com/ZacSweers/metro/pull/496) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for an IC issue on contributed class visibility changes"
-
-**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2917557691) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2916275664) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — commented on [#496](https://github.com/ZacSweers/metro/pull/496#issuecomment-2915996479) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
