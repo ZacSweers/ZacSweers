@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-29** — opened PR [#506](https://github.com/ZacSweers/metro/pull/506) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix shading"
+
+**2025-05-29** — created branch `z/fixShading` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — closed issue [#504](https://github.com/ZacSweers/metro/issues/504) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic providers in Graph Factory"
+
+**2025-05-29** — merged PR [#495](https://github.com/ZacSweers/metro/pull/495) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic providers in Graph Factory"
+
+**2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919445607) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919428579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — commented on [#91](https://github.com/ZacSweers/anvil/issues/91#issuecomment-2919412068) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
+
+**2025-05-29** — closed issue [#91](https://github.com/ZacSweers/anvil/issues/91) on [ZacSweers/anvil](https://github.com/ZacSweers/anvil): "Drop In Replacement issues with annotations"
+
 **2025-05-29** — merged PR [#505](https://github.com/ZacSweers/metro/pull/505) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.15"
 
 **2025-05-29** — commented on [#490](https://github.com/ZacSweers/metro/pull/490#issuecomment-2919385077) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — closed PR [#490](https://github.com/ZacSweers/metro/pull/490) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Documentation] Reword aggregation @ContributesBinding section"
-
-**2025-05-28** — opened issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
-
-**2025-05-28** — closed issue [#498](https://github.com/ZacSweers/metro/issues/498) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirUserTypeRefImpl cannot be cast to class FirResolvedTypeRef with generics"
-
-**2025-05-28** — closed issue [#312](https://github.com/ZacSweers/metro/issues/312) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FIR cannot resolve `where` type parameter bounds"
-
-**2025-05-28** — merged PR [#502](https://github.com/ZacSweers/metro/pull/502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No longer generate bounds for API-invisible FIR declarations"
-
-**2025-05-28** — commented on [#313](https://github.com/ZacSweers/metro/pull/313#issuecomment-2917999244) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — closed PR [#313](https://github.com/ZacSweers/metro/pull/313) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP where clauses"
-
-**2025-05-28** — opened PR [#502](https://github.com/ZacSweers/metro/pull/502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No longer generate bounds for API-invisible FIR declarations"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
