@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-29** — merged PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
+
+**2025-05-29** — opened PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
+
+**2025-05-29** — closed PR [#509](https://github.com/ZacSweers/metro/pull/509) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope more"
+
+**2025-05-29** — created branch `z/moreScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — opened PR [#509](https://github.com/ZacSweers/metro/pull/509) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope more"
+
+**2025-05-29** — created branch `z/unsubstitutedScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — merged PR [#508](https://github.com/ZacSweers/metro/pull/508) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.16"
+
 **2025-05-29** — merged PR [#507](https://github.com/ZacSweers/metro/pull/507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope in SAM function lookups"
 
 **2025-05-29** — opened PR [#507](https://github.com/ZacSweers/metro/pull/507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope in SAM function lookups"
 
 **2025-05-29** — merged PR [#506](https://github.com/ZacSweers/metro/pull/506) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix shading"
-
-**2025-05-29** — created branch `z/unsubstitutedScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — opened PR [#506](https://github.com/ZacSweers/metro/pull/506) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix shading"
-
-**2025-05-29** — created branch `z/fixShading` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — closed issue [#504](https://github.com/ZacSweers/metro/issues/504) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic providers in Graph Factory"
-
-**2025-05-29** — merged PR [#495](https://github.com/ZacSweers/metro/pull/495) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic providers in Graph Factory"
-
-**2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919445607) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919428579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
