@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-29** — merged PR [#507](https://github.com/ZacSweers/metro/pull/507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope in SAM function lookups"
+
 **2025-05-29** — opened PR [#507](https://github.com/ZacSweers/metro/pull/507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope in SAM function lookups"
 
 **2025-05-29** — merged PR [#506](https://github.com/ZacSweers/metro/pull/506) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix shading"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919445607) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-29** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2919428579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — commented on [#91](https://github.com/ZacSweers/anvil/issues/91#issuecomment-2919412068) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
