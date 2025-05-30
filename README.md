@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-29** — merged PR [#505](https://github.com/ZacSweers/metro/pull/505) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.15"
+
+**2025-05-29** — commented on [#490](https://github.com/ZacSweers/metro/pull/490#issuecomment-2919385077) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-29** — closed PR [#490](https://github.com/ZacSweers/metro/pull/490) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Documentation] Reword aggregation @ContributesBinding section"
+
 **2025-05-28** — opened issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
 
 **2025-05-28** — closed issue [#498](https://github.com/ZacSweers/metro/issues/498) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FirUserTypeRefImpl cannot be cast to class FirResolvedTypeRef with generics"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-28** — closed PR [#313](https://github.com/ZacSweers/metro/pull/313) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP where clauses"
 
 **2025-05-28** — opened PR [#502](https://github.com/ZacSweers/metro/pull/502) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "No longer generate bounds for API-invisible FIR declarations"
-
-**2025-05-28** — created branch `z/typePArams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-28** — opened issue [#501](https://github.com/ZacSweers/metro/issues/501) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Expand box compiler tests to support multiple platforms"
-
-**2025-05-28** — merged PR [#499](https://github.com/ZacSweers/metro/pull/499) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Write FIR logs when reporting/debug is enabled"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
