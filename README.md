@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-30** — opened PR [#514](https://github.com/ZacSweers/metro/pull/514) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move contribution binds function generation to IR"
+
+**2025-05-30** — merged PR [#512](https://github.com/ZacSweers/metro/pull/512) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.0"
+
+**2025-05-30** — created branch `z/reworkContributionProps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-30** — merged PR [#511](https://github.com/ZacSweers/metro/pull/511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesBinding: Fix implicit bound type resolution"
 
 **2025-05-29** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2920814150) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-29** — created branch `z/moreScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-29** — opened PR [#509](https://github.com/ZacSweers/metro/pull/509) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope more"
-
-**2025-05-29** — created branch `z/unsubstitutedScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — merged PR [#508](https://github.com/ZacSweers/metro/pull/508) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.16"
-
-**2025-05-29** — merged PR [#507](https://github.com/ZacSweers/metro/pull/507) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope in SAM function lookups"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
