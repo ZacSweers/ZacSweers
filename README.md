@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — merged PR [#199](https://github.com/ZacSweers/FieldSpottr/pull/199) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.5"
+
 **2025-05-31** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2925305518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-31** — commented on [#95](https://github.com/ZacSweers/metro/issues/95#issuecomment-2925302360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-31** — merged PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
 
 **2025-05-31** — opened PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
-
-**2025-05-31** — created branch `z/followup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
