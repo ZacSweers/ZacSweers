@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-01** — commented on [#518](https://github.com/ZacSweers/metro/pull/518#issuecomment-2927063722) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-01** — merged PR [#1945](https://github.com/ZacSweers/CatchUp/pull/1945) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.1"
 
 **2025-06-01** — merged PR [#1947](https://github.com/ZacSweers/CatchUp/pull/1947) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.0.0-alpha.16"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-31** — closed issue [#468](https://github.com/ZacSweers/metro/issues/468) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations changes are sometimes not picked up in non-app modules"
 
 **2025-05-31** — merged PR [#472](https://github.com/ZacSweers/metro/pull/472) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
-
-**2025-05-31** — opened PR [#518](https://github.com/ZacSweers/metro/pull/518) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP deterministic IrType.render + sorted sets/maps again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
