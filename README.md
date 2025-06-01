@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-01** — closed PR [#279](https://github.com/ZacSweers/kotlin-compile-testing/pull/279) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v242.26775.26"
+
+**2025-06-01** — merged PR [#272](https://github.com/ZacSweers/kotlin-compile-testing/pull/272) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea (major)"
+
+**2025-06-01** — merged PR [#342](https://github.com/ZacSweers/kotlin-compile-testing/pull/342) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.32.0"
+
+**2025-06-01** — merged PR [#343](https://github.com/ZacSweers/kotlin-compile-testing/pull/343) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.2.0"
+
+**2025-06-01** — merged PR [#344](https://github.com/ZacSweers/kotlin-compile-testing/pull/344) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14.1"
+
 **2025-06-01** — opened PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata"
 
 **2025-06-01** — created branch `z/memberInjectsToMetadata` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — commented on [#97](https://github.com/ZacSweers/metro/issues/97#issuecomment-2927260551) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-01** — closed issue [#97](https://github.com/ZacSweers/metro/issues/97) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
-
-**2025-06-01** — commented on [#488](https://github.com/ZacSweers/metro/issues/488#issuecomment-2927259990) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — commented on [#518](https://github.com/ZacSweers/metro/pull/518#issuecomment-2927257253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — commented on [#518](https://github.com/ZacSweers/metro/pull/518#issuecomment-2927063722) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — merged PR [#1945](https://github.com/ZacSweers/CatchUp/pull/1945) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.1"
-
-**2025-06-01** — merged PR [#1947](https://github.com/ZacSweers/CatchUp/pull/1947) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.0.0-alpha.16"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
