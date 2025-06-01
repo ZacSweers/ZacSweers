@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2925239985) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — created tag `0.3.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — merged PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
+
+**2025-05-31** — closed issue [#133](https://github.com/ZacSweers/metro/issues/133) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection FIR checkers"
+
+**2025-05-31** — merged PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
+
+**2025-05-31** — opened PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
+
+**2025-05-31** — created branch `z/followup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-31** — opened PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
 
 **2025-05-31** — created branch `z/functionInjectChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-31** — closed issue [#513](https://github.com/ZacSweers/metro/issues/513) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cycle remained after SCC collapse"
-
-**2025-05-31** — merged PR [#515](https://github.com/ZacSweers/metro/pull/515) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Avoid intermediate sorts (#483)""
-
-**2025-05-31** — opened PR [#515](https://github.com/ZacSweers/metro/pull/515) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Avoid intermediate sorts (#483)""
-
-**2025-05-31** — created branch `z/revert877e1779e6a03964873e3550867c01fc1c2b85c3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-30** — commented on [#91](https://github.com/ZacSweers/anvil/issues/91#issuecomment-2923539682) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
-
-**2025-05-30** — opened PR [#514](https://github.com/ZacSweers/metro/pull/514) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move contribution binds function generation to IR"
-
-**2025-05-30** — merged PR [#512](https://github.com/ZacSweers/metro/pull/512) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.0"
-
-**2025-05-30** — created branch `z/reworkContributionProps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
