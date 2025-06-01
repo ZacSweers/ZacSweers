@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — merged PR [#407](https://github.com/ZacSweers/metro/pull/407) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test: ForScope qualifier in contributed graph factory causes IllegalStateException"
+
+**2025-05-31** — closed PR [#481](https://github.com/ZacSweers/metro/pull/481) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.android.settings to v8.10.1"
+
 **2025-05-31** — merged PR [#199](https://github.com/ZacSweers/FieldSpottr/pull/199) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.5"
 
 **2025-05-31** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2925305518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2925239985) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-31** — created tag `0.3.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — merged PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
-
-**2025-05-31** — closed issue [#133](https://github.com/ZacSweers/metro/issues/133) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection FIR checkers"
-
-**2025-05-31** — merged PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
-
-**2025-05-31** — opened PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
