@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — opened PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
+
+**2025-05-31** — created branch `z/functionInjectChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — closed issue [#513](https://github.com/ZacSweers/metro/issues/513) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cycle remained after SCC collapse"
+
+**2025-05-31** — merged PR [#515](https://github.com/ZacSweers/metro/pull/515) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Avoid intermediate sorts (#483)""
+
 **2025-05-31** — opened PR [#515](https://github.com/ZacSweers/metro/pull/515) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Avoid intermediate sorts (#483)""
 
 **2025-05-31** — created branch `z/revert877e1779e6a03964873e3550867c01fc1c2b85c3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-30** — merged PR [#512](https://github.com/ZacSweers/metro/pull/512) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.0"
 
 **2025-05-30** — created branch `z/reworkContributionProps` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-30** — merged PR [#511](https://github.com/ZacSweers/metro/pull/511) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesBinding: Fix implicit bound type resolution"
-
-**2025-05-29** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2920814150) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-29** — merged PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
-
-**2025-05-29** — opened PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
