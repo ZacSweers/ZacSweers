@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-01** — merged PR [#518](https://github.com/ZacSweers/metro/pull/518) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Deterministic IrType.render + sorted sets/maps again"
+
+**2025-06-01** — commented on [#97](https://github.com/ZacSweers/metro/issues/97#issuecomment-2927260551) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-01** — closed issue [#97](https://github.com/ZacSweers/metro/issues/97) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
+
+**2025-06-01** — commented on [#488](https://github.com/ZacSweers/metro/issues/488#issuecomment-2927259990) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-01** — commented on [#518](https://github.com/ZacSweers/metro/pull/518#issuecomment-2927257253) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-01** — commented on [#518](https://github.com/ZacSweers/metro/pull/518#issuecomment-2927063722) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-01** — merged PR [#1945](https://github.com/ZacSweers/CatchUp/pull/1945) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.10.1"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — merged PR [#1949](https://github.com/ZacSweers/CatchUp/pull/1949) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.3"
 
 **2025-06-01** — merged PR [#1946](https://github.com/ZacSweers/CatchUp/pull/1946) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.5"
-
-**2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2926256706) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — merged PR [#514](https://github.com/ZacSweers/metro/pull/514) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move contribution binds function generation to IR"
-
-**2025-05-31** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2926177841) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — closed issue [#468](https://github.com/ZacSweers/metro/issues/468) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations changes are sometimes not picked up in non-app modules"
-
-**2025-05-31** — merged PR [#472](https://github.com/ZacSweers/metro/pull/472) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
