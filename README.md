@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — opened PR [#515](https://github.com/ZacSweers/metro/pull/515) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Avoid intermediate sorts (#483)""
+
+**2025-05-31** — created branch `z/revert877e1779e6a03964873e3550867c01fc1c2b85c3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-05-30** — commented on [#91](https://github.com/ZacSweers/anvil/issues/91#issuecomment-2923539682) in [ZacSweers/anvil](https://github.com/ZacSweers/anvil)
 
 **2025-05-30** — opened PR [#514](https://github.com/ZacSweers/metro/pull/514) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move contribution binds function generation to IR"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-29** — merged PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
 
 **2025-05-29** — opened PR [#510](https://github.com/ZacSweers/metro/pull/510) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstituted scope more"
-
-**2025-05-29** — closed PR [#509](https://github.com/ZacSweers/metro/pull/509) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use unsubstitutedScope more"
-
-**2025-05-29** — created branch `z/moreScope` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
