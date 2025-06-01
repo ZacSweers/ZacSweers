@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2925305518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — commented on [#95](https://github.com/ZacSweers/metro/issues/95#issuecomment-2925302360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — closed issue [#95](https://github.com/ZacSweers/metro/issues/95) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate remapping default values for parameters in FIR"
+
 **2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2925239985) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-05-31** — created tag `0.3.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-31** — opened PR [#517](https://github.com/ZacSweers/metro/pull/517) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Followup to #510"
 
 **2025-05-31** — created branch `z/followup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — opened PR [#516](https://github.com/ZacSweers/metro/pull/516) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement top-level function injection checkers"
-
-**2025-05-31** — created branch `z/functionInjectChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
