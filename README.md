@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2926256706) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — merged PR [#514](https://github.com/ZacSweers/metro/pull/514) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move contribution binds function generation to IR"
+
+**2025-05-31** — commented on [#468](https://github.com/ZacSweers/metro/issues/468#issuecomment-2926177841) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-05-31** — closed issue [#468](https://github.com/ZacSweers/metro/issues/468) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Annotations changes are sometimes not picked up in non-app modules"
+
+**2025-05-31** — merged PR [#472](https://github.com/ZacSweers/metro/pull/472) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
+
 **2025-05-31** — opened PR [#518](https://github.com/ZacSweers/metro/pull/518) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP deterministic IrType.render + sorted sets/maps again"
 
 **2025-05-31** — created branch `z/retryOptimized` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-05-31** — merged PR [#407](https://github.com/ZacSweers/metro/pull/407) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test: ForScope qualifier in contributed graph factory causes IllegalStateException"
 
 **2025-05-31** — closed PR [#481](https://github.com/ZacSweers/metro/pull/481) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.android.settings to v8.10.1"
-
-**2025-05-31** — merged PR [#199](https://github.com/ZacSweers/FieldSpottr/pull/199) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.5"
-
-**2025-05-31** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2925305518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — commented on [#95](https://github.com/ZacSweers/metro/issues/95#issuecomment-2925302360) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-05-31** — closed issue [#95](https://github.com/ZacSweers/metro/issues/95) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate remapping default values for parameters in FIR"
-
-**2025-05-31** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2925239985) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
