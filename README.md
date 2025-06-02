@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-01** — opened PR [#524](https://github.com/ZacSweers/metro/pull/524) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report member injections in constructor-injected class lookups"
+
+**2025-06-01** — created branch `z/reportMemberInjections` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-01** — closed issue [#106](https://github.com/ZacSweers/metro/issues/106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider storing member injection data in metadata"
 
 **2025-06-01** — merged PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata + rework parameters"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — merged PR [#344](https://github.com/ZacSweers/kotlin-compile-testing/pull/344) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14.1"
 
 **2025-06-01** — opened PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata"
-
-**2025-06-01** — created branch `z/memberInjectsToMetadata` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — merged PR [#518](https://github.com/ZacSweers/metro/pull/518) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Deterministic IrType.render + sorted sets/maps again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
