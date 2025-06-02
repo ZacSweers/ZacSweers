@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2930125531) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — closed issue [#525](https://github.com/ZacSweers/metro/issues/525) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: False positive missing binding when using @Includes in parent"
+
+**2025-06-02** — merged PR [#526](https://github.com/ZacSweers/metro/pull/526) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for ContributesGraphExtension missing binding when using @Includes in parent"
+
 **2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2929965835) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-02** — closed issue [#488](https://github.com/ZacSweers/metro/issues/488) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor-injected bindings do not report member injections as dependencies"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — closed issue [#106](https://github.com/ZacSweers/metro/issues/106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider storing member injection data in metadata"
 
 **2025-06-01** — merged PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata + rework parameters"
-
-**2025-06-01** — closed PR [#279](https://github.com/ZacSweers/kotlin-compile-testing/pull/279) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v242.26775.26"
-
-**2025-06-01** — merged PR [#272](https://github.com/ZacSweers/kotlin-compile-testing/pull/272) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea (major)"
-
-**2025-06-01** — merged PR [#342](https://github.com/ZacSweers/kotlin-compile-testing/pull/342) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.32.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
