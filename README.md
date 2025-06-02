@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-02** — created branch `z/providerUtil` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2930125531) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-02** — closed issue [#525](https://github.com/ZacSweers/metro/issues/525) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: False positive missing binding when using @Includes in parent"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — created branch `z/reportMemberInjections` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-01** — closed issue [#106](https://github.com/ZacSweers/metro/issues/106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider storing member injection data in metadata"
-
-**2025-06-01** — merged PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata + rework parameters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
