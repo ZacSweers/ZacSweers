@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2929965835) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-02** — closed issue [#488](https://github.com/ZacSweers/metro/issues/488) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor-injected bindings do not report member injections as dependencies"
 
 **2025-06-02** — merged PR [#524](https://github.com/ZacSweers/metro/pull/524) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report member injections in constructor-injected class lookups"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — merged PR [#272](https://github.com/ZacSweers/kotlin-compile-testing/pull/272) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea (major)"
 
 **2025-06-01** — merged PR [#342](https://github.com/ZacSweers/kotlin-compile-testing/pull/342) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.32.0"
-
-**2025-06-01** — merged PR [#343](https://github.com/ZacSweers/kotlin-compile-testing/pull/343) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlinpoet to v2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
