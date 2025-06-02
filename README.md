@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-02** — merged PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
+
+**2025-06-02** — merged PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
+
+**2025-06-02** — opened PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
+
+**2025-06-02** — created branch `z/enableCGEIntegrationTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — opened PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
+
 **2025-06-02** — created branch `z/providerUtil` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2930125531) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-02** — merged PR [#526](https://github.com/ZacSweers/metro/pull/526) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for ContributesGraphExtension missing binding when using @Includes in parent"
 
 **2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2929965835) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-02** — closed issue [#488](https://github.com/ZacSweers/metro/issues/488) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Constructor-injected bindings do not report member injections as dependencies"
-
-**2025-06-02** — merged PR [#524](https://github.com/ZacSweers/metro/pull/524) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report member injections in constructor-injected class lookups"
-
-**2025-06-01** — opened PR [#524](https://github.com/ZacSweers/metro/pull/524) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report member injections in constructor-injected class lookups"
-
-**2025-06-01** — created branch `z/reportMemberInjections` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — closed issue [#106](https://github.com/ZacSweers/metro/issues/106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider storing member injection data in metadata"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
