@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-01** — closed issue [#106](https://github.com/ZacSweers/metro/issues/106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider storing member injection data in metadata"
+
+**2025-06-01** — merged PR [#521](https://github.com/ZacSweers/metro/pull/521) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cache member injection info to metadata + rework parameters"
+
 **2025-06-01** — closed PR [#279](https://github.com/ZacSweers/kotlin-compile-testing/pull/279) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v242.26775.26"
 
 **2025-06-01** — merged PR [#272](https://github.com/ZacSweers/kotlin-compile-testing/pull/272) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea (major)"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-01** — created branch `z/memberInjectsToMetadata` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-01** — merged PR [#518](https://github.com/ZacSweers/metro/pull/518) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Deterministic IrType.render + sorted sets/maps again"
-
-**2025-06-01** — commented on [#97](https://github.com/ZacSweers/metro/issues/97#issuecomment-2927260551) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-01** — closed issue [#97](https://github.com/ZacSweers/metro/issues/97) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support private constructor injection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
