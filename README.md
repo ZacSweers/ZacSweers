@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-03** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2935470087) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-02** — opened PR [#529](https://github.com/ZacSweers/metro/pull/529) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generalize mirror functions + generate them for provider funs"
 
 **2025-06-02** — created branch `z/copyProviderAnnotations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-02** — created branch `z/providerUtil` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2930125531) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-02** — closed issue [#525](https://github.com/ZacSweers/metro/issues/525) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: False positive missing binding when using @Includes in parent"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
