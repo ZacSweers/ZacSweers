@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-03** — Could not load GitHub activity. Please check back later.
+**2025-06-02** — opened PR [#529](https://github.com/ZacSweers/metro/pull/529) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generalize mirror functions + generate them for provider funs"
+
+**2025-06-02** — created branch `z/copyProviderAnnotations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — merged PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
+
+**2025-06-02** — merged PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
+
+**2025-06-02** — opened PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
+
+**2025-06-02** — created branch `z/enableCGEIntegrationTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — opened PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
+
+**2025-06-02** — created branch `z/providerUtil` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — commented on [#525](https://github.com/ZacSweers/metro/issues/525#issuecomment-2930125531) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-02** — closed issue [#525](https://github.com/ZacSweers/metro/issues/525) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: False positive missing binding when using @Includes in parent"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
