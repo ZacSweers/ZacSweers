@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-03** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2937295164) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-03** — closed issue [#444](https://github.com/ZacSweers/metro/issues/444) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "private providers' annotations are not visible even if the function is made visible in metadata"
+
+**2025-06-03** — merged PR [#529](https://github.com/ZacSweers/metro/pull/529) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generalize mirror functions + generate them for provider funs"
+
 **2025-06-03** — merged PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
 
 **2025-06-03** — opened PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-03** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2937085071) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-03** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2935470087) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-02** — opened PR [#529](https://github.com/ZacSweers/metro/pull/529) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generalize mirror functions + generate them for provider funs"
-
-**2025-06-02** — created branch `z/copyProviderAnnotations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-02** — merged PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
