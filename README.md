@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-03** — merged PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
+
+**2025-06-03** — opened PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
+
+**2025-06-03** — created branch `z/moreIrHintIssues` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-03** — merged PR [#532](https://github.com/ZacSweers/metro/pull/532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.2"
 
 **2025-06-03** — closed issue [#500](https://github.com/ZacSweers/metro/issues/500) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Changing contributed class visibility does not trigger IC for FIR checkers"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-02** — created branch `z/copyProviderAnnotations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-02** — merged PR [#527](https://github.com/ZacSweers/metro/pull/527) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add new Provider utils"
-
-**2025-06-02** — merged PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
-
-**2025-06-02** — opened PR [#528](https://github.com/ZacSweers/metro/pull/528) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable ContributesGraphExtensionTest integration test"
-
-**2025-06-02** — created branch `z/enableCGEIntegrationTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
