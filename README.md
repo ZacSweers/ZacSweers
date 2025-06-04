@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-03** — merged PR [#197](https://github.com/ZacSweers/FieldSpottr/pull/197) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.1"
+
+**2025-06-03** — merged PR [#198](https://github.com/ZacSweers/FieldSpottr/pull/198) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.0"
+
+**2025-06-03** — merged PR [#200](https://github.com/ZacSweers/FieldSpottr/pull/200) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.5"
+
+**2025-06-03** — opened PR [#534](https://github.com/ZacSweers/metro/pull/534) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate injected member qualifiers"
+
+**2025-06-03** — created branch `z/missingQualifiersFromParents` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-03** — commented on [#531](https://github.com/ZacSweers/metro/issues/531#issuecomment-2937687983) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-03** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2937295164) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-03** — closed issue [#444](https://github.com/ZacSweers/metro/issues/444) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "private providers' annotations are not visible even if the function is made visible in metadata"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-03** — merged PR [#529](https://github.com/ZacSweers/metro/pull/529) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generalize mirror functions + generate them for provider funs"
 
 **2025-06-03** — merged PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
-
-**2025-06-03** — opened PR [#533](https://github.com/ZacSweers/metro/pull/533) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable hint gen on JS too"
-
-**2025-06-03** — created branch `z/moreIrHintIssues` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-03** — merged PR [#532](https://github.com/ZacSweers/metro/pull/532) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.2"
-
-**2025-06-03** — closed issue [#500](https://github.com/ZacSweers/metro/issues/500) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Changing contributed class visibility does not trigger IC for FIR checkers"
-
-**2025-06-03** — commented on [#500](https://github.com/ZacSweers/metro/issues/500#issuecomment-2937085071) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-03** — commented on [#444](https://github.com/ZacSweers/metro/issues/444#issuecomment-2935470087) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
