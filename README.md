@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — commented on [#544](https://github.com/ZacSweers/metro/pull/544#issuecomment-2944530186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-05** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
+
+**2025-06-05** — merged PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
+
 **2025-06-05** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2944343689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-05** — commented on [#543](https://github.com/ZacSweers/metro/issues/543#issuecomment-2944343373) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-05** — created branch `z/noInjectingAssistedTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-04** — merged PR [#540](https://github.com/ZacSweers/metro/pull/540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail with a clear error message if `languageVersion` is too old"
-
-**2025-06-04** — commented on [#538](https://github.com/ZacSweers/metro/issues/538#issuecomment-2942034047) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-04** — opened PR [#540](https://github.com/ZacSweers/metro/pull/540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail with a clear error message if `languageVersion` is too old"
-
-**2025-06-04** — created branch `z/betterErrorMessage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
