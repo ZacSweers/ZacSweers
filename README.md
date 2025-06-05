@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — commented on [#541](https://github.com/ZacSweers/metro/pull/541#issuecomment-2943853781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-05** — opened PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
+
+**2025-06-05** — created branch `z/noInjectingAssistedTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-04** — merged PR [#540](https://github.com/ZacSweers/metro/pull/540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail with a clear error message if `languageVersion` is too old"
 
 **2025-06-04** — commented on [#538](https://github.com/ZacSweers/metro/issues/538#issuecomment-2942034047) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-03** — closed issue [#531](https://github.com/ZacSweers/metro/issues/531) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContribuitesGraphExtension: Named qualifier in members injector is not respected if the contributed graph lives in a different module than parent"
 
 **2025-06-03** — merged PR [#534](https://github.com/ZacSweers/metro/pull/534) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate injected member qualifiers"
-
-**2025-06-03** — merged PR [#197](https://github.com/ZacSweers/FieldSpottr/pull/197) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.10.1"
-
-**2025-06-03** — merged PR [#198](https://github.com/ZacSweers/FieldSpottr/pull/198) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.0"
-
-**2025-06-03** — merged PR [#200](https://github.com/ZacSweers/FieldSpottr/pull/200) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency csv to v3.3.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
