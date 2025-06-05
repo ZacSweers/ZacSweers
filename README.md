@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — opened issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
+
 **2025-06-05** — commented on [#541](https://github.com/ZacSweers/metro/pull/541#issuecomment-2943853781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-05** — opened PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-03** — commented on [#531](https://github.com/ZacSweers/metro/issues/531#issuecomment-2937735983) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-03** — closed issue [#531](https://github.com/ZacSweers/metro/issues/531) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContribuitesGraphExtension: Named qualifier in members injector is not respected if the contributed graph lives in a different module than parent"
-
-**2025-06-03** — merged PR [#534](https://github.com/ZacSweers/metro/pull/534) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate injected member qualifiers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
