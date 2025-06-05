@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2944343689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-05** — commented on [#543](https://github.com/ZacSweers/metro/issues/543#issuecomment-2944343373) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-05** — opened issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
 
 **2025-06-05** — commented on [#541](https://github.com/ZacSweers/metro/pull/541#issuecomment-2943853781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-04** — opened PR [#540](https://github.com/ZacSweers/metro/pull/540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail with a clear error message if `languageVersion` is too old"
 
 **2025-06-04** — created branch `z/betterErrorMessage` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-03** — commented on [#531](https://github.com/ZacSweers/metro/issues/531#issuecomment-2937735983) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-03** — closed issue [#531](https://github.com/ZacSweers/metro/issues/531) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContribuitesGraphExtension: Named qualifier in members injector is not respected if the contributed graph lives in a different module than parent"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
