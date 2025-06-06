@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — merged PR [#546](https://github.com/ZacSweers/metro/pull/546) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.2"
+
+**2025-06-05** — merged PR [#545](https://github.com/ZacSweers/metro/pull/545) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.1"
+
 **2025-06-05** — merged PR [#319](https://github.com/ZacSweers/redacted-compiler-plugin/pull/319) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14.2"
 
 **2025-06-05** — merged PR [#203](https://github.com/ZacSweers/FieldSpottr/pull/203) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-05** — merged PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
 
 **2025-06-05** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2944343689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-05** — commented on [#543](https://github.com/ZacSweers/metro/issues/543#issuecomment-2944343373) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-05** — opened issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
