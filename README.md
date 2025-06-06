@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — opened issue [#63](https://github.com/JetBrains/kotlin-compiler-devkit/issues/63) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "What's the new plugin repository for this plugin?"
+
+**2025-06-05** — created branch `z/genericInjects` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-05** — merged PR [#546](https://github.com/ZacSweers/metro/pull/546) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.2"
 
 **2025-06-05** — merged PR [#545](https://github.com/ZacSweers/metro/pull/545) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-05** — commented on [#544](https://github.com/ZacSweers/metro/pull/544#issuecomment-2944530186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-05** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
-
-**2025-06-05** — merged PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
-
-**2025-06-05** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2944343689) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
