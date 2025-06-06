@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-05** — merged PR [#319](https://github.com/ZacSweers/redacted-compiler-plugin/pull/319) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14.2"
+
+**2025-06-05** — merged PR [#203](https://github.com/ZacSweers/FieldSpottr/pull/203) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.2"
+
+**2025-06-05** — merged PR [#1957](https://github.com/ZacSweers/CatchUp/pull/1957) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14.2"
+
+**2025-06-05** — merged PR [#761](https://github.com/ZacSweers/MoshiX/pull/761) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.14.2"
+
 **2025-06-05** — commented on [#544](https://github.com/ZacSweers/metro/pull/544#issuecomment-2944530186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-05** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-05** — commented on [#543](https://github.com/ZacSweers/metro/issues/543#issuecomment-2944343373) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-05** — opened issue [#543](https://github.com/ZacSweers/metro/issues/543) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate supporting re-providing of assisted types via their factories"
-
-**2025-06-05** — commented on [#541](https://github.com/ZacSweers/metro/pull/541#issuecomment-2943853781) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-05** — opened PR [#542](https://github.com/ZacSweers/metro/pull/542) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Validate assisted inject dependencies"
-
-**2025-06-05** — created branch `z/noInjectingAssistedTypes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-04** — merged PR [#540](https://github.com/ZacSweers/metro/pull/540) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail with a clear error message if `languageVersion` is too old"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
