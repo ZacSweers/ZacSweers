@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-05** — opened issue [#63](https://github.com/JetBrains/kotlin-compiler-devkit/issues/63) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "What's the new plugin repository for this plugin?"
-
-**2025-06-05** — created branch `z/genericInjects` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-05** — merged PR [#546](https://github.com/ZacSweers/metro/pull/546) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency gradle to v8.14.2"
-
-**2025-06-05** — merged PR [#545](https://github.com/ZacSweers/metro/pull/545) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.1"
-
-**2025-06-05** — merged PR [#319](https://github.com/ZacSweers/redacted-compiler-plugin/pull/319) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14.2"
-
-**2025-06-05** — merged PR [#203](https://github.com/ZacSweers/FieldSpottr/pull/203) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.2"
-
-**2025-06-05** — merged PR [#1957](https://github.com/ZacSweers/CatchUp/pull/1957) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v8.14.2"
-
-**2025-06-05** — merged PR [#761](https://github.com/ZacSweers/MoshiX/pull/761) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v8.14.2"
-
-**2025-06-05** — commented on [#544](https://github.com/ZacSweers/metro/pull/544#issuecomment-2944530186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-05** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
+**2025-06-07** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
