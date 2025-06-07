@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-06** — created branch `z/evenMoreGenericsInMembers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-06** — merged PR [#547](https://github.com/ZacSweers/metro/pull/547) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe merged overrides of `@Includes` accessors"
 
 **2025-06-06** — merged PR [#414](https://github.com/ZacSweers/metro/pull/414) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.1"
