@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-06** — commented on [#548](https://github.com/ZacSweers/metro/issues/548#issuecomment-2950986752) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-06** — merged PR [#547](https://github.com/ZacSweers/metro/pull/547) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe merged overrides of `@Includes` accessors"
 
-**2025-06-06** — closed issue [#548](https://github.com/ZacSweers/metro/issues/548) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "API docs are broken"
+**2025-06-06** — merged PR [#414](https://github.com/ZacSweers/metro/pull/414) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.1"
 
-**2025-06-06** — commented on [#548](https://github.com/ZacSweers/metro/issues/548#issuecomment-2950945641) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-06** — merged PR [#544](https://github.com/ZacSweers/metro/pull/544) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix static inject function calls in IC"
 
-**2025-06-06** — created tag `0.3.6` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-06** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2951193755) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-06-06** — opened issue [#551](https://github.com/ZacSweers/metro/issues/551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generic member injection"
+**2025-06-06** — merged PR [#252](https://github.com/ZacSweers/ZacSweers/pull/252) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.16"
 
-**2025-06-06** — merged PR [#549](https://github.com/ZacSweers/metro/pull/549) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generic constructor-injected parameters"
+**2025-06-06** — merged PR [#253](https://github.com/ZacSweers/ZacSweers/pull/253) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.2"
 
-**2025-06-06** — merged PR [#550](https://github.com/ZacSweers/metro/pull/550) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.3"
+**2025-06-06** — merged PR [#1953](https://github.com/ZacSweers/CatchUp/pull/1953) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.1"
 
-**2025-06-06** — merged PR [#148](https://github.com/ZacSweers/auto-service-ksp/pull/148) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp monorepo to v2.1.21-2.0.1"
+**2025-06-06** — merged PR [#1950](https://github.com/ZacSweers/CatchUp/pull/1950) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bouncycastle to v1.81"
 
-**2025-06-06** — merged PR [#154](https://github.com/ZacSweers/auto-service-ksp/pull/154) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14.2"
-
-**2025-06-06** — commented on [#541](https://github.com/ZacSweers/metro/pull/541#issuecomment-2950907835) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-06** — merged PR [#1958](https://github.com/ZacSweers/CatchUp/pull/1958) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
