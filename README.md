@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-08** — created tag `0.3.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-08** — commented on [#36](https://github.com/ZacSweers/metro/issues/36#issuecomment-2953873311) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-08** — closed issue [#36](https://github.com/ZacSweers/metro/issues/36) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add FIR/IR tests covering different qualifier annotation types"
+
 **2025-06-07** — commented on [#104](https://github.com/ZacSweers/metro/issues/104#issuecomment-2953267022) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-07** — closed issue [#104](https://github.com/ZacSweers/metro/issues/104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generics handling in FIR"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-07** — merged PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
 
 **2025-06-07** — opened PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
-
-**2025-06-07** — created branch `z/evenMoreGenericMembers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-07** — merged PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
-
-**2025-06-07** — merged PR [#553](https://github.com/ZacSweers/metro/pull/553) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
