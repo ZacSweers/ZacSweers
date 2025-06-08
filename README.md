@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-07** — merged PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
+
 **2025-06-07** — merged PR [#553](https://github.com/ZacSweers/metro/pull/553) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.1"
 
 **2025-06-07** — opened PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-06** — merged PR [#544](https://github.com/ZacSweers/metro/pull/544) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix static inject function calls in IC"
 
 **2025-06-06** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2951193755) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-06** — merged PR [#252](https://github.com/ZacSweers/ZacSweers/pull/252) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.16"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
