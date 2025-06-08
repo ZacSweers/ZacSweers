@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-07** — opened PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
+
+**2025-06-07** — commented on [#552](https://github.com/ZacSweers/metro/pull/552#issuecomment-2952807155) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-07** — opened issue [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "Cannot locate `cleanTest` gradle task when trying to run "Run all and apply diffs""
+
 **2025-06-06** — created branch `z/evenMoreGenericsInMembers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-06** — merged PR [#547](https://github.com/ZacSweers/metro/pull/547) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe merged overrides of `@Includes` accessors"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-06** — merged PR [#252](https://github.com/ZacSweers/ZacSweers/pull/252) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.16"
 
 **2025-06-06** — merged PR [#253](https://github.com/ZacSweers/ZacSweers/pull/253) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.2"
-
-**2025-06-06** — merged PR [#1953](https://github.com/ZacSweers/CatchUp/pull/1953) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update appcompat to v1.7.1"
-
-**2025-06-06** — merged PR [#1950](https://github.com/ZacSweers/CatchUp/pull/1950) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update bouncycastle to v1.81"
-
-**2025-06-06** — merged PR [#1958](https://github.com/ZacSweers/CatchUp/pull/1958) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
