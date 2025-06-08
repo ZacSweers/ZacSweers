@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-07** — commented on [#104](https://github.com/ZacSweers/metro/issues/104#issuecomment-2953267022) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-07** — closed issue [#104](https://github.com/ZacSweers/metro/issues/104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generics handling in FIR"
+
+**2025-06-07** — commented on [#551](https://github.com/ZacSweers/metro/issues/551#issuecomment-2953265529) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-07** — closed issue [#551](https://github.com/ZacSweers/metro/issues/551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generic member injection"
+
+**2025-06-07** — merged PR [#552](https://github.com/ZacSweers/metro/pull/552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test: Includes a deep inherited interface results in duplicated bindings"
+
+**2025-06-07** — merged PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
+
+**2025-06-07** — opened PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
+
+**2025-06-07** — created branch `z/evenMoreGenericMembers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-07** — merged PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
 
 **2025-06-07** — merged PR [#553](https://github.com/ZacSweers/metro/pull/553) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit5 monorepo to v5.13.1"
-
-**2025-06-07** — opened PR [#554](https://github.com/ZacSweers/metro/pull/554) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More generic member injection work"
-
-**2025-06-07** — commented on [#552](https://github.com/ZacSweers/metro/pull/552#issuecomment-2952807155) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-07** — opened issue [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "Cannot locate `cleanTest` gradle task when trying to run "Run all and apply diffs""
-
-**2025-06-06** — created branch `z/evenMoreGenericsInMembers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-06** — merged PR [#547](https://github.com/ZacSweers/metro/pull/547) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe merged overrides of `@Includes` accessors"
-
-**2025-06-06** — merged PR [#414](https://github.com/ZacSweers/metro/pull/414) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update agp to v8.10.1"
-
-**2025-06-06** — merged PR [#544](https://github.com/ZacSweers/metro/pull/544) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix static inject function calls in IC"
-
-**2025-06-06** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2951193755) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
