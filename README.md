@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-08** — merged PR [#1960](https://github.com/ZacSweers/CatchUp/pull/1960) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.7"
+
 **2025-06-08** — merged PR [#206](https://github.com/ZacSweers/FieldSpottr/pull/206) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.7"
 
 **2025-06-08** — merged PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-07** — commented on [#104](https://github.com/ZacSweers/metro/issues/104#issuecomment-2953267022) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-07** — closed issue [#104](https://github.com/ZacSweers/metro/issues/104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generics handling in FIR"
-
-**2025-06-07** — commented on [#551](https://github.com/ZacSweers/metro/issues/551#issuecomment-2953265529) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
