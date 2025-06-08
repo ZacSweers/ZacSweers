@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-08** — merged PR [#206](https://github.com/ZacSweers/FieldSpottr/pull/206) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.7"
+
+**2025-06-08** — merged PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
+
+**2025-06-08** — opened PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
+
+**2025-06-08** — created branch `z/moreGenerics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-08** — created tag `0.3.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-08** — commented on [#36](https://github.com/ZacSweers/metro/issues/36#issuecomment-2953873311) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-07** — closed issue [#104](https://github.com/ZacSweers/metro/issues/104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generics handling in FIR"
 
 **2025-06-07** — commented on [#551](https://github.com/ZacSweers/metro/issues/551#issuecomment-2953265529) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-07** — closed issue [#551](https://github.com/ZacSweers/metro/issues/551) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generic member injection"
-
-**2025-06-07** — merged PR [#552](https://github.com/ZacSweers/metro/pull/552) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test: Includes a deep inherited interface results in duplicated bindings"
-
-**2025-06-07** — merged PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
-
-**2025-06-07** — opened PR [#555](https://github.com/ZacSweers/metro/pull/555) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix deeply nested generics"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
