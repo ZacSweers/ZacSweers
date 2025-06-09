@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-09** — opened PR [#559](https://github.com/ZacSweers/metro/pull/559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Track reachable nodes and omit unused bindings"
+
+**2025-06-09** — created branch `z/unreachable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-09** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2955516893) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-09** — merged PR [#1961](https://github.com/ZacSweers/CatchUp/pull/1961) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.50.1.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-08** — merged PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
 
 **2025-06-08** — opened PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
-
-**2025-06-08** — created branch `z/moreGenerics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-08** — created tag `0.3.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
