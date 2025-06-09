@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-09** — merged PR [#1961](https://github.com/ZacSweers/CatchUp/pull/1961) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.50.1.0"
+
 **2025-06-08** — opened PR [#557](https://github.com/ZacSweers/metro/pull/557) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add benchmark project generator + runner"
 
 **2025-06-08** — created branch `z/benchmark` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-08** — created tag `0.3.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-08** — commented on [#36](https://github.com/ZacSweers/metro/issues/36#issuecomment-2953873311) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-08** — closed issue [#36](https://github.com/ZacSweers/metro/issues/36) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add FIR/IR tests covering different qualifier annotation types"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
