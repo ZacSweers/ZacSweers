@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-08** — opened PR [#557](https://github.com/ZacSweers/metro/pull/557) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add benchmark project generator + runner"
+
+**2025-06-08** — created branch `z/benchmark` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-08** — merged PR [#1960](https://github.com/ZacSweers/CatchUp/pull/1960) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.7"
 
 **2025-06-08** — merged PR [#206](https://github.com/ZacSweers/FieldSpottr/pull/206) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.7"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-08** — commented on [#36](https://github.com/ZacSweers/metro/issues/36#issuecomment-2953873311) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-08** — closed issue [#36](https://github.com/ZacSweers/metro/issues/36) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add FIR/IR tests covering different qualifier annotation types"
-
-**2025-06-07** — commented on [#104](https://github.com/ZacSweers/metro/issues/104#issuecomment-2953267022) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-07** — closed issue [#104](https://github.com/ZacSweers/metro/issues/104) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve generics handling in FIR"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
