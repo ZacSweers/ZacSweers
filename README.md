@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-09** — commented on [#559](https://github.com/ZacSweers/metro/pull/559#issuecomment-2956165489) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-09** — opened PR [#559](https://github.com/ZacSweers/metro/pull/559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Track reachable nodes and omit unused bindings"
 
 **2025-06-09** — created branch `z/unreachable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-08** — merged PR [#206](https://github.com/ZacSweers/FieldSpottr/pull/206) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.7"
 
 **2025-06-08** — merged PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
-
-**2025-06-08** — opened PR [#556](https://github.com/ZacSweers/metro/pull/556) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support generic assisted injection"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
