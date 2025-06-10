@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-09** — merged PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
+
 **2025-06-09** — opened PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
 
 **2025-06-09** — created branch `z/missing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-09** — created branch `z/unreachable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-09** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2955516893) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-09** — merged PR [#1961](https://github.com/ZacSweers/CatchUp/pull/1961) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.50.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
