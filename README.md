@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-09** — merged PR [#207](https://github.com/ZacSweers/FieldSpottr/pull/207) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.28.1"
+
+**2025-06-09** — merged PR [#561](https://github.com/ZacSweers/metro/pull/561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.28.1"
+
+**2025-06-09** — merged PR [#562](https://github.com/ZacSweers/metro/pull/562) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ksp monorepo to v2.1.21-2.0.2"
+
 **2025-06-09** — merged PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
 
 **2025-06-09** — opened PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-09** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2956947064) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-09** — commented on [#559](https://github.com/ZacSweers/metro/pull/559#issuecomment-2956165489) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-09** — opened PR [#559](https://github.com/ZacSweers/metro/pull/559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Track reachable nodes and omit unused bindings"
-
-**2025-06-09** — created branch `z/unreachable` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-09** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2955516893) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
