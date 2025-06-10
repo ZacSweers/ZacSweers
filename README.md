@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-10** — commented on [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65#issuecomment-2959029565) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
+
 **2025-06-10** — commented on [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65#issuecomment-2959003766) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
 
 **2025-06-10** — opened issue [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "Testing IR-reported diagnostics"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-09** — merged PR [#562](https://github.com/ZacSweers/metro/pull/562) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ksp monorepo to v2.1.21-2.0.2"
 
 **2025-06-09** — merged PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
-
-**2025-06-09** — opened PR [#560](https://github.com/ZacSweers/metro/pull/560) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add missing test"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
