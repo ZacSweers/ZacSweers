@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958877171) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
+
+**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958857618) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
+
+**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958776605) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
+
 **2025-06-09** — merged PR [#207](https://github.com/ZacSweers/FieldSpottr/pull/207) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.28.1"
 
 **2025-06-09** — merged PR [#561](https://github.com/ZacSweers/metro/pull/561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.28.1"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-09** — created branch `z/missing` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-09** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2957275913) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-09** — merged PR [#1962](https://github.com/ZacSweers/CatchUp/pull/1962) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.28.1"
-
-**2025-06-09** — commented on [#542](https://github.com/ZacSweers/metro/pull/542#issuecomment-2956947064) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-09** — commented on [#559](https://github.com/ZacSweers/metro/pull/559#issuecomment-2956165489) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
