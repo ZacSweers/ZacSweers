@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-10** — opened PR [#571](https://github.com/ZacSweers/metro/pull/571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency vue to v2.7.16""
+
+**2025-06-10** — opened PR [#570](https://github.com/ZacSweers/metro/pull/570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency font-awesome to v6.7.2""
+
+**2025-06-10** — created branch `revert-566-renovate/font-awesome-6.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-10** — created branch `revert-565-renovate/vue-monorepo` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-10** — closed PR [#568](https://github.com/ZacSweers/metro/pull/568) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mathjs to v11.12.0"
+
+**2025-06-10** — closed PR [#569](https://github.com/ZacSweers/metro/pull/569) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Chart.js to v4"
+
+**2025-06-10** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2960457142) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-10** — merged PR [#567](https://github.com/ZacSweers/metro/pull/567) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate performance summaries"
 
 **2025-06-10** — opened PR [#567](https://github.com/ZacSweers/metro/pull/567) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate performance summaries"
 
 **2025-06-10** — merged PR [#565](https://github.com/ZacSweers/metro/pull/565) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency vue to v2.7.16"
-
-**2025-06-10** — merged PR [#566](https://github.com/ZacSweers/metro/pull/566) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency font-awesome to v6.7.2"
-
-**2025-06-10** — created branch `z/perfSummaries` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-10** — merged PR [#557](https://github.com/ZacSweers/metro/pull/557) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add benchmark project generator + runner"
-
-**2025-06-10** — commented on [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65#issuecomment-2959029565) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-10** — commented on [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65#issuecomment-2959003766) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-10** — opened issue [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "Testing IR-reported diagnostics"
-
-**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958877171) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
