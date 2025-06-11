@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-10** — merged PR [#567](https://github.com/ZacSweers/metro/pull/567) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate performance summaries"
+
+**2025-06-10** — opened PR [#567](https://github.com/ZacSweers/metro/pull/567) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate performance summaries"
+
+**2025-06-10** — merged PR [#565](https://github.com/ZacSweers/metro/pull/565) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency vue to v2.7.16"
+
+**2025-06-10** — merged PR [#566](https://github.com/ZacSweers/metro/pull/566) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency font-awesome to v6.7.2"
+
+**2025-06-10** — created branch `z/perfSummaries` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-10** — merged PR [#557](https://github.com/ZacSweers/metro/pull/557) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add benchmark project generator + runner"
 
 **2025-06-10** — commented on [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65#issuecomment-2959029565) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-10** — opened issue [#65](https://github.com/JetBrains/kotlin-compiler-devkit/issues/65) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "Testing IR-reported diagnostics"
 
 **2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958877171) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958857618) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-10** — commented on [#64](https://github.com/JetBrains/kotlin-compiler-devkit/issues/64#issuecomment-2958776605) in [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit)
-
-**2025-06-09** — merged PR [#207](https://github.com/ZacSweers/FieldSpottr/pull/207) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.28.1"
-
-**2025-06-09** — merged PR [#561](https://github.com/ZacSweers/metro/pull/561) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.28.1"
-
-**2025-06-09** — merged PR [#562](https://github.com/ZacSweers/metro/pull/562) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ksp monorepo to v2.1.21-2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
