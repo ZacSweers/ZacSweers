@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-12** — merged PR [#583](https://github.com/ZacSweers/metro/pull/583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metrow help text to include 'format' option"
+
+**2025-06-12** — merged PR [#587](https://github.com/ZacSweers/metro/pull/587) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.0"
+
 **2025-06-12** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2968296977) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-12** — merged PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
@@ -11,12 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-12** — merged PR [#585](https://github.com/ZacSweers/metro/pull/585) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin Compiler DevKit as a required IntelliJ plugin"
 
 **2025-06-11** — merged PR [#581](https://github.com/ZacSweers/metro/pull/581) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow local testing for benchmarks"
-
-**2025-06-11** — opened PR [#581](https://github.com/ZacSweers/metro/pull/581) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow local testing for benchmarks"
-
-**2025-06-11** — created branch `z/localTesting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-11** — merged PR [#559](https://github.com/ZacSweers/metro/pull/559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Track reachable nodes and omit unused bindings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
