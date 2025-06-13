@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-12** — merged PR [#585](https://github.com/ZacSweers/metro/pull/585) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin Compiler DevKit as a required IntelliJ plugin"
+
 **2025-06-11** — merged PR [#581](https://github.com/ZacSweers/metro/pull/581) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow local testing for benchmarks"
 
 **2025-06-11** — opened PR [#581](https://github.com/ZacSweers/metro/pull/581) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow local testing for benchmarks"
@@ -17,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-10** — closed issue [#178](https://github.com/ZacSweers/metro/issues/178) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Benchmarks"
 
 **2025-06-10** — merged PR [#570](https://github.com/ZacSweers/metro/pull/570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency font-awesome to v6.7.2""
-
-**2025-06-10** — merged PR [#571](https://github.com/ZacSweers/metro/pull/571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency vue to v2.7.16""
-
-**2025-06-10** — opened PR [#571](https://github.com/ZacSweers/metro/pull/571) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency vue to v2.7.16""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
