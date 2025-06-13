@@ -13,12 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-11** — created branch `z/localTesting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-11** — merged PR [#559](https://github.com/ZacSweers/metro/pull/559) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Track reachable nodes and omit unused bindings"
-
-**2025-06-10** — commented on [#178](https://github.com/ZacSweers/metro/issues/178#issuecomment-2960563579) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-10** — closed issue [#178](https://github.com/ZacSweers/metro/issues/178) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Benchmarks"
-
-**2025-06-10** — merged PR [#570](https://github.com/ZacSweers/metro/pull/570) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Update dependency font-awesome to v6.7.2""
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
