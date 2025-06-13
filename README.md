@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-12** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2968296977) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-12** — merged PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
+
 **2025-06-12** — merged PR [#585](https://github.com/ZacSweers/metro/pull/585) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin Compiler DevKit as a required IntelliJ plugin"
 
 **2025-06-11** — merged PR [#581](https://github.com/ZacSweers/metro/pull/581) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow local testing for benchmarks"
