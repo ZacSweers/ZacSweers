@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-13** — merged PR [#576](https://github.com/ZacSweers/metro/pull/576) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable child graphs to depend on parent-scoped dependencies that are unused in the parent scope (IR)"
+
 **2025-06-13** — merged PR [#254](https://github.com/ZacSweers/ZacSweers/pull/254) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.21-2.0.2"
 
 **2025-06-13** — merged PR [#255](https://github.com/ZacSweers/ZacSweers/pull/255) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.13.0"
