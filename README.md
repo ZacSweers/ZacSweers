@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-13** — merged PR [#1963](https://github.com/ZacSweers/CatchUp/pull/1963) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.2"
+
+**2025-06-13** — merged PR [#1965](https://github.com/ZacSweers/CatchUp/pull/1965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.13.0"
+
 **2025-06-13** — merged PR [#576](https://github.com/ZacSweers/metro/pull/576) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable child graphs to depend on parent-scoped dependencies that are unused in the parent scope (IR)"
 
 **2025-06-13** — merged PR [#254](https://github.com/ZacSweers/ZacSweers/pull/254) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.21-2.0.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-12** — merged PR [#583](https://github.com/ZacSweers/metro/pull/583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metrow help text to include 'format' option"
 
 **2025-06-12** — merged PR [#587](https://github.com/ZacSweers/metro/pull/587) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.0"
-
-**2025-06-12** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2968296977) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-12** — merged PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
