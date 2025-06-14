@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-13** — merged PR [#254](https://github.com/ZacSweers/ZacSweers/pull/254) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.21-2.0.2"
+
+**2025-06-13** — merged PR [#255](https://github.com/ZacSweers/ZacSweers/pull/255) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.13.0"
+
+**2025-06-13** — commented on [#588](https://github.com/ZacSweers/metro/issues/588#issuecomment-2971134273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-13** — closed issue [#588](https://github.com/ZacSweers/metro/issues/588) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IllegalStateException: No expected assisted factory impl class generated"
+
 **2025-06-12** — commented on [#586](https://github.com/ZacSweers/metro/issues/586#issuecomment-2968925644) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-12** — merged PR [#583](https://github.com/ZacSweers/metro/pull/583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metrow help text to include 'format' option"
@@ -13,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-12** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2968296977) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-12** — merged PR [#447](https://github.com/ZacSweers/metro/pull/447) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move more cycles tests to compiler-tests"
-
-**2025-06-12** — merged PR [#585](https://github.com/ZacSweers/metro/pull/585) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Kotlin Compiler DevKit as a required IntelliJ plugin"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
