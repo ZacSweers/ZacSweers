@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-13** — merged PR [#580](https://github.com/ZacSweers/metro/pull/580) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update atomicfu to v0.28.0"
+
+**2025-06-13** — merged PR [#591](https://github.com/ZacSweers/metro/pull/591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backport Disambiguate MetroContribution class names based on scope"
+
+**2025-06-13** — merged PR [#589](https://github.com/ZacSweers/metro/pull/589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.13.0"
+
+**2025-06-13** — opened PR [#591](https://github.com/ZacSweers/metro/pull/591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backport Disambiguate MetroContribution class names based on scope"
+
+**2025-06-13** — created branch `z/backport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-13** — merged PR [#582](https://github.com/ZacSweers/metro/pull/582) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate MetroContribution class names based on scope"
+
 **2025-06-13** — merged PR [#1963](https://github.com/ZacSweers/CatchUp/pull/1963) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.2"
 
 **2025-06-13** — merged PR [#1965](https://github.com/ZacSweers/CatchUp/pull/1965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.13.0"
 
 **2025-06-13** — merged PR [#576](https://github.com/ZacSweers/metro/pull/576) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable child graphs to depend on parent-scoped dependencies that are unused in the parent scope (IR)"
-
-**2025-06-13** — merged PR [#254](https://github.com/ZacSweers/ZacSweers/pull/254) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.1.21-2.0.2"
-
-**2025-06-13** — merged PR [#255](https://github.com/ZacSweers/ZacSweers/pull/255) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.13.0"
-
-**2025-06-13** — commented on [#588](https://github.com/ZacSweers/metro/issues/588#issuecomment-2971134273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-13** — closed issue [#588](https://github.com/ZacSweers/metro/issues/588) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IllegalStateException: No expected assisted factory impl class generated"
-
-**2025-06-12** — commented on [#586](https://github.com/ZacSweers/metro/issues/586#issuecomment-2968925644) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-12** — merged PR [#583](https://github.com/ZacSweers/metro/pull/583) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update metrow help text to include 'format' option"
-
-**2025-06-12** — merged PR [#587](https://github.com/ZacSweers/metro/pull/587) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
