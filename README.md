@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-14** — opened PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
+
+**2025-06-14** — created branch `z/membersInjectorRequests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-14** — opened issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
+
+**2025-06-14** — opened issue [#68](https://github.com/JetBrains/kotlin-compiler-devkit/issues/68) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "generateTests ambiguous task issue"
+
+**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973302567) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973300888) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-14** — opened PR [#5466](https://github.com/JetBrains/kotlin/pull/5466) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Use resolvedStatus in FirOverrideChecker"
+
+**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973297872) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973292219) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973257473) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — merged PR [#592](https://github.com/ZacSweers/metro/pull/592) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta16"
-
-**2025-06-13** — merged PR [#580](https://github.com/ZacSweers/metro/pull/580) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update atomicfu to v0.28.0"
-
-**2025-06-13** — merged PR [#591](https://github.com/ZacSweers/metro/pull/591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backport Disambiguate MetroContribution class names based on scope"
-
-**2025-06-13** — merged PR [#589](https://github.com/ZacSweers/metro/pull/589) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okio to v3.13.0"
-
-**2025-06-13** — opened PR [#591](https://github.com/ZacSweers/metro/pull/591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backport Disambiguate MetroContribution class names based on scope"
-
-**2025-06-13** — created branch `z/backport` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-13** — merged PR [#582](https://github.com/ZacSweers/metro/pull/582) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate MetroContribution class names based on scope"
-
-**2025-06-13** — merged PR [#1963](https://github.com/ZacSweers/CatchUp/pull/1963) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.2"
-
-**2025-06-13** — merged PR [#1965](https://github.com/ZacSweers/CatchUp/pull/1965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
