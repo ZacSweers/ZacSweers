@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-15** — merged PR [#596](https://github.com/ZacSweers/metro/pull/596) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.6"
+
+**2025-06-15** — opened PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
+
+**2025-06-15** — commented on [#538](https://github.com/ZacSweers/metro/issues/538#issuecomment-2974676623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-15** — reopened issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
+
+**2025-06-15** — created branch `z/anotherVmCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-15** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2974668561) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2025-06-14** — commented on [#594](https://github.com/ZacSweers/metro/issues/594#issuecomment-2973420576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-14** — closed issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-14** — merged PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
 
 **2025-06-14** — opened PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
-
-**2025-06-14** — created branch `z/membersInjectorRequests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — opened issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
-
-**2025-06-14** — opened issue [#68](https://github.com/JetBrains/kotlin-compiler-devkit/issues/68) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "generateTests ambiguous task issue"
-
-**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973302567) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973300888) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — opened PR [#5466](https://github.com/JetBrains/kotlin/pull/5466) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Use resolvedStatus in FirOverrideChecker"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
