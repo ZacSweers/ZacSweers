@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-15** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
+
+**2025-06-15** — merged PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
+
 **2025-06-15** — merged PR [#596](https://github.com/ZacSweers/metro/pull/596) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.6"
 
 **2025-06-15** — opened PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-14** — commented on [#594](https://github.com/ZacSweers/metro/issues/594#issuecomment-2973420576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-14** — closed issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
-
-**2025-06-14** — merged PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
-
-**2025-06-14** — opened PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
