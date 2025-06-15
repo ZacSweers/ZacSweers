@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973257473) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-14** — merged PR [#592](https://github.com/ZacSweers/metro/pull/592) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta16"
+
 **2025-06-13** — merged PR [#580](https://github.com/ZacSweers/metro/pull/580) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update atomicfu to v0.28.0"
 
 **2025-06-13** — merged PR [#591](https://github.com/ZacSweers/metro/pull/591) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Backport Disambiguate MetroContribution class names based on scope"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-13** — merged PR [#1963](https://github.com/ZacSweers/CatchUp/pull/1963) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.devtools.ksp to v2.1.21-2.0.2"
 
 **2025-06-13** — merged PR [#1965](https://github.com/ZacSweers/CatchUp/pull/1965) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.13.0"
-
-**2025-06-13** — merged PR [#576](https://github.com/ZacSweers/metro/pull/576) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable child graphs to depend on parent-scoped dependencies that are unused in the parent scope (IR)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
