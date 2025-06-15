@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-14** — commented on [#594](https://github.com/ZacSweers/metro/issues/594#issuecomment-2973420576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — closed issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
-
-**2025-06-14** — merged PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
-
-**2025-06-14** — opened PR [#595](https://github.com/ZacSweers/metro/pull/595) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lookup members injectors"
-
-**2025-06-14** — created branch `z/membersInjectorRequests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — opened issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
-
-**2025-06-14** — opened issue [#68](https://github.com/JetBrains/kotlin-compiler-devkit/issues/68) on [JetBrains/kotlin-compiler-devkit](https://github.com/JetBrains/kotlin-compiler-devkit): "generateTests ambiguous task issue"
-
-**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973302567) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2973300888) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — opened PR [#5466](https://github.com/JetBrains/kotlin/pull/5466) to [JetBrains/kotlin](https://github.com/JetBrains/kotlin): "Use resolvedStatus in FirOverrideChecker"
+**2025-06-15** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
