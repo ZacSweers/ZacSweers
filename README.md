@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — merged PR [#600](https://github.com/ZacSweers/metro/pull/600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc `enableScopedInjectClassHints()`"
+
+**2025-06-16** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2976816271) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-16** — opened PR [#601](https://github.com/ZacSweers/metro/pull/601) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2 RC 3"
+
+**2025-06-16** — created branch `z/rc3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-16** — opened PR [#600](https://github.com/ZacSweers/metro/pull/600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc `enableScopedInjectClassHints()`"
+
+**2025-06-16** — created branch `z/docClassHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-16** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2976729546) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-16** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2976701232) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-16** — closed issue [#377](https://github.com/ZacSweers/metro/issues/377) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Bindings scoped to parent graphs but unused in parent graphs are scoped to extensions instead "
+
 **2025-06-16** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2976464747) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2025-06-16** — merged PR [#590](https://github.com/ZacSweers/metro/pull/590) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Link class hint functions to source class factories"
-
-**2025-06-15** — merged PR [#563](https://github.com/ZacSweers/metro/pull/563) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support assisted factory cycles + minimize delegate factories"
-
-**2025-06-15** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2974778943) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-15** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
-
-**2025-06-15** — merged PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
-
-**2025-06-15** — merged PR [#596](https://github.com/ZacSweers/metro/pull/596) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.6"
-
-**2025-06-15** — opened PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
-
-**2025-06-15** — commented on [#538](https://github.com/ZacSweers/metro/issues/538#issuecomment-2974676623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-15** — reopened issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
