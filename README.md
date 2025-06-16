@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-15** — commented on [#563](https://github.com/ZacSweers/metro/pull/563#issuecomment-2974778943) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-15** — closed issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
 
 **2025-06-15** — merged PR [#597](https://github.com/ZacSweers/metro/pull/597) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't short-circuit if no dependents exist"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-15** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2974668561) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2025-06-14** — commented on [#594](https://github.com/ZacSweers/metro/issues/594#issuecomment-2973420576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-14** — closed issue [#594](https://github.com/ZacSweers/metro/issues/594) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjectors cannot be accessed as a graph accessor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
