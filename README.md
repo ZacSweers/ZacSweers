@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2976464747) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
 **2025-06-16** — merged PR [#590](https://github.com/ZacSweers/metro/pull/590) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Link class hint functions to source class factories"
 
 **2025-06-15** — merged PR [#563](https://github.com/ZacSweers/metro/pull/563) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support assisted factory cycles + minimize delegate factories"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-15** — commented on [#538](https://github.com/ZacSweers/metro/issues/538#issuecomment-2974676623) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-15** — reopened issue [#538](https://github.com/ZacSweers/metro/issues/538) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Incorrect assisted injection fails at runtime, not compile time"
-
-**2025-06-15** — created branch `z/anotherVmCheck` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
