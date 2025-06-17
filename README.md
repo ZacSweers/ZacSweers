@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — merged PR [#602](https://github.com/ZacSweers/metro/pull/602) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.facebook:ktfmt to v0.55"
+
+**2025-06-17** — merged PR [#764](https://github.com/ZacSweers/MoshiX/pull/764) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.55"
+
+**2025-06-17** — merged PR [#325](https://github.com/ZacSweers/redacted-compiler-plugin/pull/325) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.55"
+
+**2025-06-17** — merged PR [#256](https://github.com/ZacSweers/ZacSweers/pull/256) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.2"
+
 **2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2978908996) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2025-06-16** — merged PR [#1376](https://github.com/slackhq/foundry/pull/1376) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v3 (major)"
@@ -13,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-16** — merged PR [#209](https://github.com/ZacSweers/FieldSpottr/pull/209) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.3"
 
 **2025-06-16** — merged PR [#212](https://github.com/ZacSweers/FieldSpottr/pull/212) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.6"
-
-**2025-06-16** — merged PR [#211](https://github.com/ZacSweers/FieldSpottr/pull/211) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.13.0"
-
-**2025-06-16** — merged PR [#1402](https://github.com/slackhq/foundry/pull/1402) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1"
-
-**2025-06-16** — closed PR [#1373](https://github.com/slackhq/foundry/pull/1373) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v2.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
