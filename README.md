@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — closed PR [#1373](https://github.com/slackhq/foundry/pull/1373) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v2.12.0"
+
+**2025-06-16** — merged PR [#213](https://github.com/ZacSweers/FieldSpottr/pull/213) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.8"
+
 **2025-06-16** — opened issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
 
 **2025-06-16** — opened PR [#36](https://github.com/joshfriend/spotlight/pull/36) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Fix JSON keys in README"
@@ -17,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-16** — merged PR [#382](https://github.com/slackhq/slack-lints/pull/382) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.11.0-rc02"
 
 **2025-06-16** — merged PR [#384](https://github.com/slackhq/slack-lints/pull/384) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.21-2.0.2"
-
-**2025-06-16** — merged PR [#380](https://github.com/slackhq/slack-lints/pull/380) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.14.2"
-
-**2025-06-16** — merged PR [#1966](https://github.com/ZacSweers/CatchUp/pull/1966) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.8"
-
-**2025-06-16** — created tag `0.3.8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
