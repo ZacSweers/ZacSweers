@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — merged PR [#378](https://github.com/slackhq/slack-lints/pull/378) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v2.12.0"
+
 **2025-06-16** — merged PR [#381](https://github.com/slackhq/slack-lints/pull/381) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.4"
 
 **2025-06-16** — merged PR [#385](https://github.com/slackhq/slack-lints/pull/385) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.6.6"
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-16** — created tag `0.3.8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-16** — merged PR [#601](https://github.com/ZacSweers/metro/pull/601) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2 RC 3"
-
-**2025-06-16** — merged PR [#600](https://github.com/ZacSweers/metro/pull/600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc `enableScopedInjectClassHints()`"
-
-**2025-06-16** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2976816271) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
