@@ -4,23 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — merged PR [#1376](https://github.com/slackhq/foundry/pull/1376) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v3 (major)"
+
+**2025-06-16** — merged PR [#208](https://github.com/ZacSweers/FieldSpottr/pull/208) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.228.0"
+
+**2025-06-16** — merged PR [#209](https://github.com/ZacSweers/FieldSpottr/pull/209) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.3"
+
+**2025-06-16** — merged PR [#212](https://github.com/ZacSweers/FieldSpottr/pull/212) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.6"
+
+**2025-06-16** — merged PR [#211](https://github.com/ZacSweers/FieldSpottr/pull/211) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.13.0"
+
+**2025-06-16** — merged PR [#1402](https://github.com/slackhq/foundry/pull/1402) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1"
+
 **2025-06-16** — closed PR [#1373](https://github.com/slackhq/foundry/pull/1373) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v2.12.0"
-
-**2025-06-16** — merged PR [#213](https://github.com/ZacSweers/FieldSpottr/pull/213) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.3.8"
-
-**2025-06-16** — opened issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
-
-**2025-06-16** — opened PR [#36](https://github.com/joshfriend/spotlight/pull/36) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Fix JSON keys in README"
-
-**2025-06-16** — merged PR [#378](https://github.com/slackhq/slack-lints/pull/378) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v2.12.0"
-
-**2025-06-16** — merged PR [#381](https://github.com/slackhq/slack-lints/pull/381) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.4"
-
-**2025-06-16** — merged PR [#385](https://github.com/slackhq/slack-lints/pull/385) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.6.6"
-
-**2025-06-16** — merged PR [#382](https://github.com/slackhq/slack-lints/pull/382) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.11.0-rc02"
-
-**2025-06-16** — merged PR [#384](https://github.com/slackhq/slack-lints/pull/384) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.21-2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
