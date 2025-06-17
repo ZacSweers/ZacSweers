@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — opened issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
+
 **2025-06-16** — opened PR [#36](https://github.com/joshfriend/spotlight/pull/36) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Fix JSON keys in README"
 
 **2025-06-16** — merged PR [#378](https://github.com/slackhq/slack-lints/pull/378) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v2.12.0"
