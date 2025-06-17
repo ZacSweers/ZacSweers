@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-16** — merged PR [#381](https://github.com/slackhq/slack-lints/pull/381) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.0.4"
+
+**2025-06-16** — merged PR [#385](https://github.com/slackhq/slack-lints/pull/385) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin buildConfig to v5.6.6"
+
+**2025-06-16** — merged PR [#382](https://github.com/slackhq/slack-lints/pull/382) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.11.0-rc02"
+
+**2025-06-16** — merged PR [#384](https://github.com/slackhq/slack-lints/pull/384) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.1.21-2.0.2"
+
+**2025-06-16** — merged PR [#380](https://github.com/slackhq/slack-lints/pull/380) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.14.2"
+
+**2025-06-16** — merged PR [#1966](https://github.com/ZacSweers/CatchUp/pull/1966) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.3.8"
+
 **2025-06-16** — created tag `0.3.8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-16** — merged PR [#601](https://github.com/ZacSweers/metro/pull/601) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2 RC 3"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-16** — merged PR [#600](https://github.com/ZacSweers/metro/pull/600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc `enableScopedInjectClassHints()`"
 
 **2025-06-16** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-2976816271) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-16** — opened PR [#601](https://github.com/ZacSweers/metro/pull/601) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2 RC 3"
-
-**2025-06-16** — created branch `z/rc3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-16** — opened PR [#600](https://github.com/ZacSweers/metro/pull/600) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc `enableScopedInjectClassHints()`"
-
-**2025-06-16** — created branch `z/docClassHint` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-16** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2976729546) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-16** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2976701232) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
