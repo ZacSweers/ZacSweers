@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — opened PR [#1408](https://github.com/slackhq/foundry/pull/1408) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove deprecated config from gradle doctor"
+
+**2025-06-17** — created branch `z/removeAnother` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-06-17** — created tag `0.27.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-17** — merged PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — reopened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
 
 **2025-06-17** — closed PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
-
-**2025-06-17** — opened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
-
-**2025-06-17** — created branch `z/alwaysPatchKSP` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
