@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-18** — merged PR [#606](https://github.com/ZacSweers/metro/pull/606) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.3"
+
 **2025-06-18** — created tag `0.27.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-18** — merged PR [#1410](https://github.com/slackhq/foundry/pull/1410) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-18** — created branch `z/improveVerify` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-17** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2982031819) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-17** — opened PR [#1408](https://github.com/slackhq/foundry/pull/1408) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove deprecated config from gradle doctor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
