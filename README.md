@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — opened issue [#2493](https://github.com/google/ksp/issues/2493) on [google/ksp](https://github.com/google/ksp): "Adding AGP generated source dirs from AGP Variant API does not work"
+
 **2025-06-17** — closed issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
 
 **2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2980829385) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — merged PR [#764](https://github.com/ZacSweers/MoshiX/pull/764) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.55"
 
 **2025-06-17** — merged PR [#325](https://github.com/ZacSweers/redacted-compiler-plugin/pull/325) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-17** — merged PR [#256](https://github.com/ZacSweers/ZacSweers/pull/256) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
