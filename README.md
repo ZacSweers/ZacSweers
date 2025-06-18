@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — opened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
+
+**2025-06-17** — created branch `z/alwaysPatchKSP` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-06-17** — opened issue [#2493](https://github.com/google/ksp/issues/2493) on [google/ksp](https://github.com/google/ksp): "Adding AGP generated source dirs from AGP Variant API does not work"
 
 **2025-06-17** — closed issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — merged PR [#322](https://github.com/ZacSweers/redacted-compiler-plugin/pull/322) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.2"
 
 **2025-06-17** — merged PR [#602](https://github.com/ZacSweers/metro/pull/602) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-17** — merged PR [#764](https://github.com/ZacSweers/MoshiX/pull/764) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-17** — merged PR [#325](https://github.com/ZacSweers/redacted-compiler-plugin/pull/325) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.55"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
