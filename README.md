@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — created tag `0.27.5` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-06-17** — merged PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
+
+**2025-06-17** — merged PR [#1407](https://github.com/slackhq/foundry/pull/1407) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ktfmt to 0.55"
+
+**2025-06-17** — opened PR [#1407](https://github.com/slackhq/foundry/pull/1407) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update ktfmt to 0.55"
+
 **2025-06-17** — created branch `z/newktfmt` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-17** — commented on [#1406](https://github.com/slackhq/foundry/pull/1406#issuecomment-2981560488) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — opened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
 
 **2025-06-17** — created branch `z/alwaysPatchKSP` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-17** — opened issue [#2493](https://github.com/google/ksp/issues/2493) on [google/ksp](https://github.com/google/ksp): "Adding AGP generated source dirs from AGP Variant API does not work"
-
-**2025-06-17** — closed issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
-
-**2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2980829385) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2025-06-17** — merged PR [#214](https://github.com/ZacSweers/FieldSpottr/pull/214) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
