@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — commented on [#1406](https://github.com/slackhq/foundry/pull/1406#issuecomment-2981560488) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-06-17** — reopened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
+
+**2025-06-17** — closed PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
+
 **2025-06-17** — opened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
 
 **2025-06-17** — created branch `z/alwaysPatchKSP` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — merged PR [#214](https://github.com/ZacSweers/FieldSpottr/pull/214) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.2"
 
 **2025-06-17** — merged PR [#762](https://github.com/ZacSweers/MoshiX/pull/762) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.21-2.0.2"
-
-**2025-06-17** — merged PR [#1968](https://github.com/ZacSweers/CatchUp/pull/1968) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.2"
-
-**2025-06-17** — merged PR [#322](https://github.com/ZacSweers/redacted-compiler-plugin/pull/322) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.2"
-
-**2025-06-17** — merged PR [#602](https://github.com/ZacSweers/metro/pull/602) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.facebook:ktfmt to v0.55"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
