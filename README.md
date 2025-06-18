@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-18** — commented on [#305](https://github.com/jraska/modules-graph-assert/issues/305#issuecomment-2985602968) in [jraska/modules-graph-assert](https://github.com/jraska/modules-graph-assert)
+
 **2025-06-18** — merged PR [#606](https://github.com/ZacSweers/metro/pull/606) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.3"
 
 **2025-06-18** — created tag `0.27.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-18** — opened PR [#1411](https://github.com/slackhq/foundry/pull/1411) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt files to verifying"
 
 **2025-06-18** — created branch `z/improveVerify` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-17** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2982031819) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
