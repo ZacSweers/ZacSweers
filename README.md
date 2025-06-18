@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-18** — created branch `z/improveVerify` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-06-17** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-2982031819) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-17** — opened PR [#1408](https://github.com/slackhq/foundry/pull/1408) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove deprecated config from gradle doctor"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — created branch `z/newktfmt` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-17** — commented on [#1406](https://github.com/slackhq/foundry/pull/1406#issuecomment-2981560488) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-17** — reopened PR [#1406](https://github.com/slackhq/foundry/pull/1406) to [slackhq/foundry](https://github.com/slackhq/foundry): "Always defensively patch KSP tasks with sqldelight and viewbinding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
