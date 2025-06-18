@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — merged PR [#762](https://github.com/ZacSweers/MoshiX/pull/762) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.21-2.0.2"
+
+**2025-06-17** — merged PR [#1968](https://github.com/ZacSweers/CatchUp/pull/1968) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose.jb to v1.8.2"
+
+**2025-06-17** — merged PR [#322](https://github.com/ZacSweers/redacted-compiler-plugin/pull/322) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update ksp monorepo to v2.1.21-2.0.2"
+
 **2025-06-17** — merged PR [#602](https://github.com/ZacSweers/metro/pull/602) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.facebook:ktfmt to v0.55"
 
 **2025-06-17** — merged PR [#764](https://github.com/ZacSweers/MoshiX/pull/764) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.facebook:ktfmt to v0.55"
@@ -15,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2978908996) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2025-06-16** — merged PR [#1376](https://github.com/slackhq/foundry/pull/1376) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v3 (major)"
-
-**2025-06-16** — merged PR [#208](https://github.com/ZacSweers/FieldSpottr/pull/208) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency fastlane to v2.228.0"
-
-**2025-06-16** — merged PR [#209](https://github.com/ZacSweers/FieldSpottr/pull/209) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.3"
-
-**2025-06-16** — merged PR [#212](https://github.com/ZacSweers/FieldSpottr/pull/212) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
