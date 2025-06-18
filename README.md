@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-17** — closed issue [#10403](https://github.com/robolectric/robolectric/issues/10403) on [robolectric/robolectric](https://github.com/robolectric/robolectric): "Semver violation"
+
+**2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2980829385) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
 **2025-06-17** — merged PR [#214](https://github.com/ZacSweers/FieldSpottr/pull/214) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update compose.jb to v1.8.2"
 
 **2025-06-17** — merged PR [#762](https://github.com/ZacSweers/MoshiX/pull/762) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.1.21-2.0.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-17** — merged PR [#325](https://github.com/ZacSweers/redacted-compiler-plugin/pull/325) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.55"
 
 **2025-06-17** — merged PR [#256](https://github.com/ZacSweers/ZacSweers/pull/256) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update compose to v1.8.2"
-
-**2025-06-17** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2978908996) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
-
-**2025-06-16** — merged PR [#1376](https://github.com/slackhq/foundry/pull/1376) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update retrofit monorepo to v3 (major)"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
