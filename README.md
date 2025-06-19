@@ -4,13 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — reopened PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
+
+**2025-06-19** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
+
+**2025-06-19** — opened issue [#767](https://github.com/ZacSweers/MoshiX/issues/767) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test framework"
+
+**2025-06-19** — opened issue [#766](https://github.com/ZacSweers/MoshiX/issues/766) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to DiagnosticReporter for IR errors"
+
+**2025-06-19** — opened issue [#765](https://github.com/ZacSweers/MoshiX/issues/765) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate diagnostic errors to FIR where possible"
+
 **2025-06-19** — closed PR [#756](https://github.com/ZacSweers/MoshiX/pull/756) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-329"
 
 **2025-06-19** — merged PR [#760](https://github.com/ZacSweers/MoshiX/pull/760) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.10.1"
 
 **2025-06-19** — merged PR [#323](https://github.com/ZacSweers/redacted-compiler-plugin/pull/323) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.2.0"
-
-**2025-06-19** — merged PR [#324](https://github.com/ZacSweers/redacted-compiler-plugin/pull/324) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.6"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
