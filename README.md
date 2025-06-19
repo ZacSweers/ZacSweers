@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-18** — closed PR [#1948](https://github.com/ZacSweers/CatchUp/pull/1948) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v0.9"
+
+**2025-06-18** — merged PR [#1967](https://github.com/ZacSweers/CatchUp/pull/1967) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.55"
+
+**2025-06-18** — merged PR [#1970](https://github.com/ZacSweers/CatchUp/pull/1970) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha02"
+
+**2025-06-18** — merged PR [#1972](https://github.com/ZacSweers/CatchUp/pull/1972) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.2"
+
+**2025-06-18** — merged PR [#1973](https://github.com/ZacSweers/CatchUp/pull/1973) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-rc01"
+
+**2025-06-18** — merged PR [#1974](https://github.com/ZacSweers/CatchUp/pull/1974) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.3"
+
+**2025-06-18** — merged PR [#1971](https://github.com/ZacSweers/CatchUp/pull/1971) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha03"
+
 **2025-06-18** — commented on [#305](https://github.com/jraska/modules-graph-assert/issues/305#issuecomment-2985602968) in [jraska/modules-graph-assert](https://github.com/jraska/modules-graph-assert)
 
 **2025-06-18** — merged PR [#606](https://github.com/ZacSweers/metro/pull/606) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.3"
 
 **2025-06-18** — created tag `0.27.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-18** — merged PR [#1410](https://github.com/slackhq/foundry/pull/1410) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency org.jetbrains.compose:compose-gradle-plugin to v1.8.2"
-
-**2025-06-18** — merged PR [#1408](https://github.com/slackhq/foundry/pull/1408) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove deprecated config from gradle doctor"
-
-**2025-06-18** — merged PR [#604](https://github.com/ZacSweers/metro/pull/604) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8.1"
-
-**2025-06-18** — merged PR [#605](https://github.com/ZacSweers/metro/pull/605) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin shadow to v9.0.0-beta17"
-
-**2025-06-18** — merged PR [#1411](https://github.com/slackhq/foundry/pull/1411) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt files to verifying"
-
-**2025-06-18** — opened PR [#1411](https://github.com/slackhq/foundry/pull/1411) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add support for all-projects.txt files to verifying"
-
-**2025-06-18** — created branch `z/improveVerify` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
