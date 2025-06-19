@@ -17,8 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-19** — closed PR [#756](https://github.com/ZacSweers/MoshiX/pull/756) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlin monorepo to v2.1.21-329"
 
 **2025-06-19** — merged PR [#760](https://github.com/ZacSweers/MoshiX/pull/760) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin lint to v8.10.1"
-
-**2025-06-19** — merged PR [#323](https://github.com/ZacSweers/redacted-compiler-plugin/pull/323) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
