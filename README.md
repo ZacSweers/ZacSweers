@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-18** — commented on [#598](https://github.com/ZacSweers/metro/issues/598#issuecomment-2986433415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-18** — closed issue [#598](https://github.com/ZacSweers/metro/issues/598) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: No matching included type instance found"
+
+**2025-06-18** — merged PR [#599](https://github.com/ZacSweers/metro/pull/599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix always excluding parent includes"
+
+**2025-06-18** — commented on [#503](https://github.com/ZacSweers/metro/issues/503#issuecomment-2986416729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-18** — closed issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
+
+**2025-06-18** — opened issue [#607](https://github.com/ZacSweers/metro/issues/607) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support denoting weak reachability"
+
+**2025-06-18** — opened PR [#1413](https://github.com/slackhq/foundry/pull/1413) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gradle 9.0 WIP"
+
+**2025-06-18** — created branch `z/gradle9` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-06-18** — closed PR [#1948](https://github.com/ZacSweers/CatchUp/pull/1948) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v0.9"
 
 **2025-06-18** — merged PR [#1967](https://github.com/ZacSweers/CatchUp/pull/1967) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-18** — merged PR [#1970](https://github.com/ZacSweers/CatchUp/pull/1970) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.android.material:material to v1.14.0-alpha02"
-
-**2025-06-18** — merged PR [#1972](https://github.com/ZacSweers/CatchUp/pull/1972) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.5.2"
-
-**2025-06-18** — merged PR [#1973](https://github.com/ZacSweers/CatchUp/pull/1973) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update benchmark to v1.4.0-rc01"
-
-**2025-06-18** — merged PR [#1974](https://github.com/ZacSweers/CatchUp/pull/1974) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update compose to v1.8.3"
-
-**2025-06-18** — merged PR [#1971](https://github.com/ZacSweers/CatchUp/pull/1971) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha03"
-
-**2025-06-18** — commented on [#305](https://github.com/jraska/modules-graph-assert/issues/305#issuecomment-2985602968) in [jraska/modules-graph-assert](https://github.com/jraska/modules-graph-assert)
-
-**2025-06-18** — merged PR [#606](https://github.com/ZacSweers/metro/pull/606) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.compose.material:material-navigation to v1.8.3"
-
-**2025-06-18** — created tag `0.27.6` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
