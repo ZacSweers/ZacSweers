@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — merged PR [#612](https://github.com/ZacSweers/metro/pull/612) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8.2"
+
+**2025-06-19** — opened PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
+
+**2025-06-19** — created branch `z/moreIrDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-19** — merged PR [#2150](https://github.com/slackhq/circuit/pull/2150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update Metro @Assisted inject support"
 
 **2025-06-19** — commented on [#2150](https://github.com/slackhq/circuit/pull/2150#issuecomment-2989022422) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-19** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2988871824) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
 
 **2025-06-19** — commented on [#2150](https://github.com/slackhq/circuit/pull/2150#issuecomment-2988869053) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-19** — reopened PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
-
-**2025-06-19** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
-
-**2025-06-19** — opened issue [#767](https://github.com/ZacSweers/MoshiX/issues/767) on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Migrate to compiler test framework"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
