@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — commented on [#610](https://github.com/ZacSweers/metro/issues/610#issuecomment-2987004772) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-19** — closed issue [#610](https://github.com/ZacSweers/metro/issues/610) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support dynamic entry point (injection by class)"
+
+**2025-06-19** — commented on [#396](https://github.com/ZacSweers/metro/pull/396#issuecomment-2986969713) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-19** — merged PR [#611](https://github.com/ZacSweers/metro/pull/611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable scoped class discovery by default"
+
 **2025-06-19** — opened PR [#611](https://github.com/ZacSweers/metro/pull/611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable scoped class discovery by default"
 
 **2025-06-19** — created branch `z/enableByDefault` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-19** — merged PR [#608](https://github.com/ZacSweers/metro/pull/608) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a flag for shrinking unused bindings + fixes"
 
 **2025-06-19** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2986591159) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-19** — merged PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
-
-**2025-06-18** — opened PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
-
-**2025-06-18** — created branch `z/removeJitpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-18** — opened PR [#608](https://github.com/ZacSweers/metro/pull/608) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a flag for shrinking unused bindings"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
