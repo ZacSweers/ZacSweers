@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — merged PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
+
+**2025-06-18** — opened PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
+
+**2025-06-18** — created branch `z/removeJitpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-18** — opened PR [#608](https://github.com/ZacSweers/metro/pull/608) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a flag for shrinking unused bindings"
+
+**2025-06-18** — created branch `z/flagShrinking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-18** — commented on [#598](https://github.com/ZacSweers/metro/issues/598#issuecomment-2986433415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-18** — closed issue [#598](https://github.com/ZacSweers/metro/issues/598) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: No matching included type instance found"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-18** — commented on [#503](https://github.com/ZacSweers/metro/issues/503#issuecomment-2986416729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-18** — closed issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
-
-**2025-06-18** — opened issue [#607](https://github.com/ZacSweers/metro/issues/607) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support denoting weak reachability"
-
-**2025-06-18** — opened PR [#1413](https://github.com/slackhq/foundry/pull/1413) to [slackhq/foundry](https://github.com/slackhq/foundry): "Gradle 9.0 WIP"
-
-**2025-06-18** — created branch `z/gradle9` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-18** — closed PR [#1948](https://github.com/ZacSweers/CatchUp/pull/1948) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v0.9"
-
-**2025-06-18** — merged PR [#1967](https://github.com/ZacSweers/CatchUp/pull/1967) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.facebook:ktfmt to v0.55"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
