@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — merged PR [#603](https://github.com/ZacSweers/metro/pull/603) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.2"
+
+**2025-06-19** — commented on [#578](https://github.com/ZacSweers/metro/pull/578#issuecomment-2986744947) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-19** — merged PR [#608](https://github.com/ZacSweers/metro/pull/608) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a flag for shrinking unused bindings + fixes"
+
+**2025-06-19** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-2986591159) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-19** — merged PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
 
 **2025-06-18** — opened PR [#609](https://github.com/ZacSweers/metro/pull/609) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove jitpack workaround for ktfmt"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-18** — created branch `z/flagShrinking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-18** — commented on [#598](https://github.com/ZacSweers/metro/issues/598#issuecomment-2986433415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-18** — closed issue [#598](https://github.com/ZacSweers/metro/issues/598) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension: No matching included type instance found"
-
-**2025-06-18** — merged PR [#599](https://github.com/ZacSweers/metro/pull/599) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix always excluding parent includes"
-
-**2025-06-18** — commented on [#503](https://github.com/ZacSweers/metro/issues/503#issuecomment-2986416729) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-18** — closed issue [#503](https://github.com/ZacSweers/metro/issues/503) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support capturing+asserting IR failure messages in compiler-tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
