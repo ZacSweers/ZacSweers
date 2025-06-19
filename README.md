@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — opened PR [#611](https://github.com/ZacSweers/metro/pull/611) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable scoped class discovery by default"
+
+**2025-06-19** — created branch `z/enableByDefault` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-19** — merged PR [#603](https://github.com/ZacSweers/metro/pull/603) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update compose.jb to v1.8.2"
 
 **2025-06-19** — commented on [#578](https://github.com/ZacSweers/metro/pull/578#issuecomment-2986744947) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-18** — created branch `z/removeJitpack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-18** — opened PR [#608](https://github.com/ZacSweers/metro/pull/608) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a flag for shrinking unused bindings"
-
-**2025-06-18** — created branch `z/flagShrinking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-18** — commented on [#598](https://github.com/ZacSweers/metro/issues/598#issuecomment-2986433415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
