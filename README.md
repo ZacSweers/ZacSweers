@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-19** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2988930697) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2025-06-19** — commented on [#10403](https://github.com/robolectric/robolectric/issues/10403#issuecomment-2988871824) in [robolectric/robolectric](https://github.com/robolectric/robolectric)
+
+**2025-06-19** — commented on [#2150](https://github.com/slackhq/circuit/pull/2150#issuecomment-2988869053) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-06-19** — reopened PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
 
 **2025-06-19** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
