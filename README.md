@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-20** — opened PR [#615](https://github.com/ZacSweers/metro/pull/615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build/run benchmarks on CI"
+
+**2025-06-20** — created branch `z/moreCi` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-20** — merged PR [#396](https://github.com/ZacSweers/metro/pull/396) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.2"
 
 **2025-06-20** — merged PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-19** — merged PR [#612](https://github.com/ZacSweers/metro/pull/612) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8.2"
 
 **2025-06-19** — opened PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
-
-**2025-06-19** — created branch `z/moreIrDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-19** — merged PR [#2150](https://github.com/slackhq/circuit/pull/2150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update Metro @Assisted inject support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
