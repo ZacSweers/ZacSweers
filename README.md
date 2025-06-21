@@ -19,10 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-20** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2992548618) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2025-06-20** — merged PR [#386](https://github.com/slackhq/slack-lints/pull/386) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-19** — merged PR [#612](https://github.com/ZacSweers/metro/pull/612) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Markdown to v3.8.2"
-
-**2025-06-19** — opened PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
