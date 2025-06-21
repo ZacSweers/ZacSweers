@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-20** — merged PR [#396](https://github.com/ZacSweers/metro/pull/396) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.2"
+
+**2025-06-20** — merged PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
+
+**2025-06-20** — opened issue [#614](https://github.com/ZacSweers/metro/issues/614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automate running benchmarks"
+
 **2025-06-20** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2992561497) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
 
 **2025-06-20** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2992548618) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-19** — created branch `z/moreIrDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-19** — merged PR [#2150](https://github.com/slackhq/circuit/pull/2150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update Metro @Assisted inject support"
-
-**2025-06-19** — commented on [#2150](https://github.com/slackhq/circuit/pull/2150#issuecomment-2989022422) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-19** — reopened PR [#2150](https://github.com/slackhq/circuit/pull/2150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update Metro @Assisted inject support"
-
-**2025-06-19** — closed PR [#2150](https://github.com/slackhq/circuit/pull/2150) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update Metro @Assisted inject support"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
