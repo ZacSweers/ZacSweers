@@ -4,21 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-21** — opened PR [#618](https://github.com/ZacSweers/metro/pull/618) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up comment"
+
+**2025-06-21** — created branch `z/tweak` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-21** — closed issue [#614](https://github.com/ZacSweers/metro/issues/614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automate running benchmarks"
+
+**2025-06-21** — merged PR [#615](https://github.com/ZacSweers/metro/pull/615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build/run benchmarks on CI"
+
+**2025-06-21** — merged PR [#616](https://github.com/ZacSweers/metro/pull/616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Pygments to v2.19.2"
+
+**2025-06-21** — merged PR [#617](https://github.com/ZacSweers/metro/pull/617) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency pymdown-extensions to v10.16"
+
 **2025-06-20** — opened PR [#615](https://github.com/ZacSweers/metro/pull/615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build/run benchmarks on CI"
 
 **2025-06-20** — created branch `z/moreCi` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-20** — merged PR [#396](https://github.com/ZacSweers/metro/pull/396) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to Kotlin 2.2"
-
-**2025-06-20** — merged PR [#613](https://github.com/ZacSweers/metro/pull/613) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move remaining IR diagnostics to IrDiagnosticReporter"
-
-**2025-06-20** — opened issue [#614](https://github.com/ZacSweers/metro/issues/614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automate running benchmarks"
-
-**2025-06-20** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2992561497) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2025-06-20** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-2992548618) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2025-06-20** — merged PR [#386](https://github.com/slackhq/slack-lints/pull/386) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.facebook:ktfmt to v0.55"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
