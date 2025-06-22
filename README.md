@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-21** — merged PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
+
 **2025-06-21** — opened PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
 
 **2025-06-21** — created branch `z/windowsSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-21** — opened PR [#618](https://github.com/ZacSweers/metro/pull/618) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up comment"
 
 **2025-06-21** — created branch `z/tweak` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-21** — closed issue [#614](https://github.com/ZacSweers/metro/issues/614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automate running benchmarks"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
