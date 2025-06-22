@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-22** — merged PR [#326](https://github.com/ZacSweers/redacted-compiler-plugin/pull/326) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.33.0"
+
 **2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994340154) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
 **2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994333054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-21** — opened PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
 
 **2025-06-21** — created branch `z/windowsSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-21** — opened PR [#619](https://github.com/ZacSweers/metro/pull/619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compilerVersion API for gradle and compiler"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
