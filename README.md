@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-22** — merged PR [#326](https://github.com/ZacSweers/redacted-compiler-plugin/pull/326) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.33.0"
-
-**2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994340154) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994333054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-06-22** — merged PR [#155](https://github.com/ZacSweers/auto-service-ksp/pull/155) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp monorepo to v2.1.21-2.0.2"
-
-**2025-06-22** — merged PR [#156](https://github.com/ZacSweers/auto-service-ksp/pull/156) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-22** — merged PR [#157](https://github.com/ZacSweers/auto-service-ksp/pull/157) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.33.0"
-
-**2025-06-22** — commented on [#621](https://github.com/ZacSweers/metro/issues/621#issuecomment-2994326215) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-21** — merged PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
-
-**2025-06-21** — opened PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
-
-**2025-06-21** — created branch `z/windowsSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-22** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
