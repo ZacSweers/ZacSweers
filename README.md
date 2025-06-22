@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-21** — opened PR [#620](https://github.com/ZacSweers/metro/pull/620) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable windows samples runs"
+
+**2025-06-21** — created branch `z/windowsSamples` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-21** — opened PR [#619](https://github.com/ZacSweers/metro/pull/619) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use compilerVersion API for gradle and compiler"
+
+**2025-06-21** — created branch `z/compilerVersion` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-21** — commented on [#2125](https://github.com/slackhq/circuit/issues/2125#issuecomment-2993825077) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-06-21** — closed issue [#607](https://github.com/ZacSweers/metro/issues/607) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support denoting weak reachability"
 
 **2025-06-21** — merged PR [#618](https://github.com/ZacSweers/metro/pull/618) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up comment"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-21** — created branch `z/tweak` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-21** — closed issue [#614](https://github.com/ZacSweers/metro/issues/614) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automate running benchmarks"
-
-**2025-06-21** — merged PR [#615](https://github.com/ZacSweers/metro/pull/615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build/run benchmarks on CI"
-
-**2025-06-21** — merged PR [#616](https://github.com/ZacSweers/metro/pull/616) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency Pygments to v2.19.2"
-
-**2025-06-21** — merged PR [#617](https://github.com/ZacSweers/metro/pull/617) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency pymdown-extensions to v10.16"
-
-**2025-06-20** — opened PR [#615](https://github.com/ZacSweers/metro/pull/615) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Build/run benchmarks on CI"
-
-**2025-06-20** — created branch `z/moreCi` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
