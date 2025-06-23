@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-23** — opened PR [#627](https://github.com/ZacSweers/metro/pull/627) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publishing fixes"
+
+**2025-06-23** — created branch `z/publishingFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-23** — merged PR [#625](https://github.com/ZacSweers/metro/pull/625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.7"
+
+**2025-06-23** — closed PR [#624](https://github.com/ZacSweers/metro/pull/624) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.2.0"
+
+**2025-06-23** — opened PR [#626](https://github.com/ZacSweers/metro/pull/626) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding containers"
+
+**2025-06-23** — created branch `z/bindingContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-23** — merged PR [#623](https://github.com/ZacSweers/metro/pull/623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2.0 final"
+
+**2025-06-23** — merged PR [#622](https://github.com/ZacSweers/metro/pull/622) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.33.0"
+
 **2025-06-23** — opened PR [#623](https://github.com/ZacSweers/metro/pull/623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2.0 final"
 
 **2025-06-23** — created branch `z/final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-23** — commented on [#546](https://github.com/facebook/ktfmt/issues/546#issuecomment-2996571824) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-06-22** — merged PR [#326](https://github.com/ZacSweers/redacted-compiler-plugin/pull/326) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin mavenPublish to v0.33.0"
-
-**2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994340154) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-06-22** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2994333054) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-06-22** — merged PR [#155](https://github.com/ZacSweers/auto-service-ksp/pull/155) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update ksp monorepo to v2.1.21-2.0.2"
-
-**2025-06-22** — merged PR [#156](https://github.com/ZacSweers/auto-service-ksp/pull/156) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.55"
-
-**2025-06-22** — merged PR [#157](https://github.com/ZacSweers/auto-service-ksp/pull/157) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.33.0"
-
-**2025-06-22** — commented on [#621](https://github.com/ZacSweers/metro/issues/621#issuecomment-2994326215) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
