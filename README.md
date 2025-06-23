@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-23** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-2996998968) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2025-06-23** — created tag `0.4.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-23** — created tag `1.14.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — merged PR [#768](https://github.com/ZacSweers/MoshiX/pull/768) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.33.0"
 
 **2025-06-23** — opened PR [#627](https://github.com/ZacSweers/metro/pull/627) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publishing fixes"
-
-**2025-06-23** — created branch `z/publishingFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
