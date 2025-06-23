@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-23** — created tag `0.4.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-06-23** — created tag `1.14.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-06-23** — merged PR [#328](https://github.com/ZacSweers/redacted-compiler-plugin/pull/328) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.7"
+
+**2025-06-23** — closed PR [#327](https://github.com/ZacSweers/redacted-compiler-plugin/pull/327) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.2.0"
+
+**2025-06-23** — closed issue [#310](https://github.com/ZacSweers/redacted-compiler-plugin/issues/310) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support Kotlin `2.2.0-Beta2`"
+
+**2025-06-23** — merged PR [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.2.0"
+
+**2025-06-23** — merged PR [#627](https://github.com/ZacSweers/metro/pull/627) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publishing fixes"
+
+**2025-06-23** — merged PR [#768](https://github.com/ZacSweers/MoshiX/pull/768) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin mavenPublish to v0.33.0"
+
 **2025-06-23** — opened PR [#627](https://github.com/ZacSweers/metro/pull/627) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publishing fixes"
 
 **2025-06-23** — created branch `z/publishingFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-23** — merged PR [#625](https://github.com/ZacSweers/metro/pull/625) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin buildConfig to v5.6.7"
-
-**2025-06-23** — closed PR [#624](https://github.com/ZacSweers/metro/pull/624) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlin monorepo to v2.2.0"
-
-**2025-06-23** — opened PR [#626](https://github.com/ZacSweers/metro/pull/626) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding containers"
-
-**2025-06-23** — created branch `z/bindingContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-23** — merged PR [#623](https://github.com/ZacSweers/metro/pull/623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2.0 final"
-
-**2025-06-23** — merged PR [#622](https://github.com/ZacSweers/metro/pull/622) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.33.0"
-
-**2025-06-23** — opened PR [#623](https://github.com/ZacSweers/metro/pull/623) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update to 2.2.0 final"
-
-**2025-06-23** — created branch `z/final` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
