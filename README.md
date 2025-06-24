@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-23** — merged PR [#190](https://github.com/ZacSweers/FieldSpottr/pull/190) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.2.0"
+
 **2025-06-23** — merged PR [#746](https://github.com/ZacSweers/MoshiX/pull/746) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.2"
 
 **2025-06-23** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-2996998968) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -15,10 +17,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — merged PR [#328](https://github.com/ZacSweers/redacted-compiler-plugin/pull/328) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.7"
 
 **2025-06-23** — closed PR [#327](https://github.com/ZacSweers/redacted-compiler-plugin/pull/327) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.2.0"
-
-**2025-06-23** — closed issue [#310](https://github.com/ZacSweers/redacted-compiler-plugin/issues/310) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support Kotlin `2.2.0-Beta2`"
-
-**2025-06-23** — merged PR [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
