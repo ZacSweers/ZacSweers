@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-23** — merged PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.2"
+
+**2025-06-23** — closed issue [#1786](https://github.com/square/kotlinpoet/issues/1786) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support at least few Kotlin API targets via apiVersion to simplify migrations"
+
+**2025-06-23** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2997572470) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+
 **2025-06-23** — merged PR [#190](https://github.com/ZacSweers/FieldSpottr/pull/190) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.2.0"
 
 **2025-06-23** — merged PR [#746](https://github.com/ZacSweers/MoshiX/pull/746) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update to Kotlin 2.2"
@@ -15,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — created tag `1.14.0` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
 **2025-06-23** — merged PR [#328](https://github.com/ZacSweers/redacted-compiler-plugin/pull/328) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin buildConfig to v5.6.7"
-
-**2025-06-23** — closed PR [#327](https://github.com/ZacSweers/redacted-compiler-plugin/pull/327) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update kotlin monorepo to v2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
