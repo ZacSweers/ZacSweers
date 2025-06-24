@@ -11,8 +11,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — merged PR [#1977](https://github.com/ZacSweers/CatchUp/pull/1977) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.21.1"
 
 **2025-06-23** — created tag `0.28.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-23** — merged PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
