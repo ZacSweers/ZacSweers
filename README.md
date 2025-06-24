@@ -13,10 +13,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — created tag `0.28.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-23** — merged PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.2"
-
-**2025-06-23** — closed issue [#1786](https://github.com/square/kotlinpoet/issues/1786) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support at least few Kotlin API targets via apiVersion to simplify migrations"
-
-**2025-06-23** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2997572470) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
