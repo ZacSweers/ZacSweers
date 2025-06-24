@@ -4,21 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-23** — merged PR [#1975](https://github.com/ZacSweers/CatchUp/pull/1975) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.9.0-alpha05"
-
-**2025-06-23** — merged PR [#1976](https://github.com/ZacSweers/CatchUp/pull/1976) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.17.0-alpha01"
-
-**2025-06-23** — merged PR [#1977](https://github.com/ZacSweers/CatchUp/pull/1977) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.21.1"
-
-**2025-06-23** — created tag `0.28.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-23** — merged PR [#1348](https://github.com/slackhq/foundry/pull/1348) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Kotlin 2.2"
-
-**2025-06-23** — closed issue [#1786](https://github.com/square/kotlinpoet/issues/1786) on [square/kotlinpoet](https://github.com/square/kotlinpoet): "Support at least few Kotlin API targets via apiVersion to simplify migrations"
-
-**2025-06-23** — commented on [#2151](https://github.com/square/kotlinpoet/issues/2151#issuecomment-2997572470) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
-
-**2025-06-23** — merged PR [#190](https://github.com/ZacSweers/FieldSpottr/pull/190) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Kotlin 2.2.0"
+**2025-06-24** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
