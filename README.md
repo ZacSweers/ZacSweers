@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-23** — closed issue [#310](https://github.com/ZacSweers/redacted-compiler-plugin/issues/310) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Support Kotlin `2.2.0-Beta2`"
 
 **2025-06-23** — merged PR [#312](https://github.com/ZacSweers/redacted-compiler-plugin/pull/312) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update to Kotlin 2.2.0"
-
-**2025-06-23** — merged PR [#627](https://github.com/ZacSweers/metro/pull/627) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Publishing fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
