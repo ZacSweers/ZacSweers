@@ -4,13 +4,15 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-24** — merged PR [#1420](https://github.com/slackhq/foundry/pull/1420) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to AGP 8.11.0"
+
+**2025-06-24** — opened PR [#1420](https://github.com/slackhq/foundry/pull/1420) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to AGP 8.11.0"
+
+**2025-06-24** — created branch `z/agp811` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-06-24** — merged PR [#215](https://github.com/ZacSweers/FieldSpottr/pull/215) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update plugin buildConfig to v5.6.7"
 
 **2025-06-24** — merged PR [#628](https://github.com/ZacSweers/metro/pull/628) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.junit.jupiter:junit-jupiter to v5.13.2"
-
-**2025-06-23** — merged PR [#1975](https://github.com/ZacSweers/CatchUp/pull/1975) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.browser:browser to v1.9.0-alpha05"
-
-**2025-06-23** — merged PR [#1976](https://github.com/ZacSweers/CatchUp/pull/1976) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.core to v1.17.0-alpha01"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
