@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-24** — closed issue [#1264](https://github.com/slackhq/foundry/issues/1264) on [slackhq/foundry](https://github.com/slackhq/foundry): "Skate crash in IJ 2025.1 EAP"
+
+**2025-06-24** — closed issue [#1343](https://github.com/slackhq/foundry/issues/1343) on [slackhq/foundry](https://github.com/slackhq/foundry): "Artifactory Authenticator breaking change in 2025.1"
+
+**2025-06-24** — merged PR [#1344](https://github.com/slackhq/foundry/pull/1344) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update IJ platform to 2025.1"
+
 **2025-06-24** — merged PR [#1420](https://github.com/slackhq/foundry/pull/1420) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to AGP 8.11.0"
 
 **2025-06-24** — opened PR [#1420](https://github.com/slackhq/foundry/pull/1420) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to AGP 8.11.0"
