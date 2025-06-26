@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-25** — closed issue [#330](https://github.com/ZacSweers/redacted-compiler-plugin/issues/330) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "BuiltInKotlinJvmAndroidCompilation.implementationConfigurationName' API is currently not supported"
+
+**2025-06-25** — commented on [#330](https://github.com/ZacSweers/redacted-compiler-plugin/issues/330#issuecomment-3006493262) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
 **2025-06-24** — closed issue [#1264](https://github.com/slackhq/foundry/issues/1264) on [slackhq/foundry](https://github.com/slackhq/foundry): "Skate crash in IJ 2025.1 EAP"
 
 **2025-06-24** — closed issue [#1343](https://github.com/slackhq/foundry/issues/1343) on [slackhq/foundry](https://github.com/slackhq/foundry): "Artifactory Authenticator breaking change in 2025.1"
