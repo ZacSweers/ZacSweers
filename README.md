@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-26** — closed PR [#2165](https://github.com/slackhq/circuit/pull/2165) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency org.jetbrains.kotlinx:atomicfu to v0.29.0"
+
+**2025-06-26** — closed PR [#2162](https://github.com/slackhq/circuit/pull/2162) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
+**2025-06-26** — closed PR [#2158](https://github.com/slackhq/circuit/pull/2158) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.2.0"
+
+**2025-06-26** — closed PR [#2163](https://github.com/slackhq/circuit/pull/2163) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.2.0-2.0.2"
+
 **2025-06-26** — created tag `0.28.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-06-26** — merged PR [#634](https://github.com/ZacSweers/metro/pull/634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin binaryCompatibilityValidator to v0.18.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-26** — merged PR [#637](https://github.com/ZacSweers/metro/pull/637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.0"
 
 **2025-06-25** — closed issue [#330](https://github.com/ZacSweers/redacted-compiler-plugin/issues/330) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "BuiltInKotlinJvmAndroidCompilation.implementationConfigurationName' API is currently not supported"
-
-**2025-06-25** — commented on [#330](https://github.com/ZacSweers/redacted-compiler-plugin/issues/330#issuecomment-3006493262) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-06-24** — closed issue [#1264](https://github.com/slackhq/foundry/issues/1264) on [slackhq/foundry](https://github.com/slackhq/foundry): "Skate crash in IJ 2025.1 EAP"
-
-**2025-06-24** — closed issue [#1343](https://github.com/slackhq/foundry/issues/1343) on [slackhq/foundry](https://github.com/slackhq/foundry): "Artifactory Authenticator breaking change in 2025.1"
-
-**2025-06-24** — merged PR [#1344](https://github.com/slackhq/foundry/pull/1344) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update IJ platform to 2025.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
