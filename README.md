@@ -4,7 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-27** — Could not load GitHub activity. Please check back later.
+**2025-06-26** — created tag `0.29.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-06-26** — merged PR [#2062](https://github.com/slackhq/circuit/pull/2062) to [slackhq/circuit](https://github.com/slackhq/circuit): "Compile against SDK 36"
+
+**2025-06-26** — merged PR [#2166](https://github.com/slackhq/circuit/pull/2166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update xcode version"
+
+**2025-06-26** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-3010559028) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-06-26** — closed PR [#638](https://github.com/ZacSweers/metro/pull/638) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
+**2025-06-26** — merged PR [#2105](https://github.com/slackhq/circuit/pull/2105) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.2.0"
+
+**2025-06-26** — opened PR [#2166](https://github.com/slackhq/circuit/pull/2166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update xcode version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
