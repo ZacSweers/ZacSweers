@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-26** — closed PR [#638](https://github.com/ZacSweers/metro/pull/638) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
+**2025-06-26** — merged PR [#2105](https://github.com/slackhq/circuit/pull/2105) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update to Kotlin 2.2.0"
+
+**2025-06-26** — opened PR [#2166](https://github.com/slackhq/circuit/pull/2166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update xcode version"
+
+**2025-06-26** — merged PR [#632](https://github.com/ZacSweers/metro/pull/632) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0"
+
+**2025-06-26** — created branch `z/xcodeVersion` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-06-26** — commented on [#458](https://github.com/evant/kotlin-inject/issues/458#issuecomment-3010352533) in [evant/kotlin-inject](https://github.com/evant/kotlin-inject)
+
+**2025-06-26** — closed issue [#458](https://github.com/evant/kotlin-inject/issues/458) on [evant/kotlin-inject](https://github.com/evant/kotlin-inject): "[KSP2] kotlin-inject doesn't link typealiases for functions to their function"
+
 **2025-06-26** — closed PR [#2165](https://github.com/slackhq/circuit/pull/2165) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency org.jetbrains.kotlinx:atomicfu to v0.29.0"
-
-**2025-06-26** — closed PR [#2162](https://github.com/slackhq/circuit/pull/2162) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
-
-**2025-06-26** — closed PR [#2158](https://github.com/slackhq/circuit/pull/2158) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update kotlin monorepo to v2.2.0"
-
-**2025-06-26** — closed PR [#2163](https://github.com/slackhq/circuit/pull/2163) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.2.0-2.0.2"
-
-**2025-06-26** — created tag `0.28.1` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-06-26** — merged PR [#634](https://github.com/ZacSweers/metro/pull/634) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin binaryCompatibilityValidator to v0.18.0"
-
-**2025-06-26** — merged PR [#635](https://github.com/ZacSweers/metro/pull/635) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.facebook:ktfmt to v0.56"
-
-**2025-06-26** — merged PR [#636](https://github.com/ZacSweers/metro/pull/636) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update atomicfu to v0.29.0"
-
-**2025-06-26** — merged PR [#637](https://github.com/ZacSweers/metro/pull/637) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.0"
-
-**2025-06-25** — closed issue [#330](https://github.com/ZacSweers/redacted-compiler-plugin/issues/330) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "BuiltInKotlinJvmAndroidCompilation.implementationConfigurationName' API is currently not supported"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
