@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-27** — opened PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
+
+**2025-06-27** — created branch `z/metroStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-06-27** — merged PR [#259](https://github.com/ZacSweers/ZacSweers/pull/259) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.0-2.0.2"
 
 **2025-06-27** — merged PR [#260](https://github.com/ZacSweers/ZacSweers/pull/260) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.9.0"
