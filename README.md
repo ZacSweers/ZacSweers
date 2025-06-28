@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-27** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
+
+**2025-06-27** — closed PR [#221](https://github.com/ZacSweers/FieldSpottr/pull/221) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
+**2025-06-27** — merged PR [#217](https://github.com/ZacSweers/FieldSpottr/pull/217) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
+**2025-06-27** — merged PR [#220](https://github.com/ZacSweers/FieldSpottr/pull/220) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.9.0"
+
 **2025-06-27** — opened PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
 
 **2025-06-27** — created branch `z/metroStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-27** — merged PR [#260](https://github.com/ZacSweers/ZacSweers/pull/260) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.9.0"
 
 **2025-06-27** — merged PR [#219](https://github.com/ZacSweers/FieldSpottr/pull/219) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.29.0"
-
-**2025-06-27** — merged PR [#639](https://github.com/ZacSweers/metro/pull/639) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.29.0"
-
-**2025-06-26** — created tag `0.29.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-26** — merged PR [#2062](https://github.com/slackhq/circuit/pull/2062) to [slackhq/circuit](https://github.com/slackhq/circuit): "Compile against SDK 36"
-
-**2025-06-26** — merged PR [#2166](https://github.com/slackhq/circuit/pull/2166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update xcode version"
-
-**2025-06-26** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-3010559028) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
