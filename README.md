@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-28** — merged PR [#640](https://github.com/ZacSweers/metro/pull/640) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinx.serialization to v1.9.0"
+**2025-06-28** — merged PR [#776](https://github.com/ZacSweers/MoshiX/pull/776) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.31.0"
 
-**2025-06-28** — merged PR [#642](https://github.com/ZacSweers/metro/pull/642) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.squareup.okio:okio to v3.14.0"
+**2025-06-28** — merged PR [#1991](https://github.com/ZacSweers/CatchUp/pull/1991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.31.0"
 
-**2025-06-28** — merged PR [#641](https://github.com/ZacSweers/metro/pull/641) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.work:work-runtime to v2.10.2"
+**2025-06-28** — closed PR [#1986](https://github.com/ZacSweers/CatchUp/pull/1986) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.29.0"
 
-**2025-06-28** — merged PR [#578](https://github.com/ZacSweers/metro/pull/578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a WorkManager sample"
+**2025-06-28** — closed PR [#1871](https://github.com/ZacSweers/CatchUp/pull/1871) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.33.0 - abandoned"
 
-**2025-06-27** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
+**2025-06-28** — merged PR [#1990](https://github.com/ZacSweers/CatchUp/pull/1990) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fixup auth interceptor"
 
-**2025-06-27** — closed PR [#221](https://github.com/ZacSweers/FieldSpottr/pull/221) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+**2025-06-28** — merged PR [#329](https://github.com/ZacSweers/redacted-compiler-plugin/pull/329) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.18.0"
 
-**2025-06-27** — merged PR [#217](https://github.com/ZacSweers/FieldSpottr/pull/217) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+**2025-06-28** — merged PR [#331](https://github.com/ZacSweers/redacted-compiler-plugin/pull/331) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.56"
 
-**2025-06-27** — merged PR [#220](https://github.com/ZacSweers/FieldSpottr/pull/220) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update kotlinx.serialization to v1.9.0"
+**2025-06-28** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-3016013123) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
 
-**2025-06-27** — opened PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
+**2025-06-28** — closed issue [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Incompatible with kotlinx-serialization"
 
-**2025-06-27** — created branch `z/metroStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-06-28** — opened PR [#1990](https://github.com/ZacSweers/CatchUp/pull/1990) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fixup auth interceptor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
