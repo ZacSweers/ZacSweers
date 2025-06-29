@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-28** — merged PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
+
+**2025-06-28** — opened PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
+
+**2025-06-28** — created branch `z/moreCommonize` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
 **2025-06-28** — merged PR [#776](https://github.com/ZacSweers/MoshiX/pull/776) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.31.0"
 
 **2025-06-28** — merged PR [#1991](https://github.com/ZacSweers/CatchUp/pull/1991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.31.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-28** — merged PR [#329](https://github.com/ZacSweers/redacted-compiler-plugin/pull/329) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.18.0"
 
 **2025-06-28** — merged PR [#331](https://github.com/ZacSweers/redacted-compiler-plugin/pull/331) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.56"
-
-**2025-06-28** — commented on [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56#issuecomment-3016013123) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-06-28** — closed issue [#56](https://github.com/ZacSweers/redacted-compiler-plugin/issues/56) on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Incompatible with kotlinx-serialization"
-
-**2025-06-28** — opened PR [#1990](https://github.com/ZacSweers/CatchUp/pull/1990) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fixup auth interceptor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
