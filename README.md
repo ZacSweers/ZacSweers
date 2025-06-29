@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-28** — merged PR [#641](https://github.com/ZacSweers/metro/pull/641) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.work:work-runtime to v2.10.2"
+
+**2025-06-28** — merged PR [#578](https://github.com/ZacSweers/metro/pull/578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a WorkManager sample"
+
 **2025-06-27** — closed PR [#210](https://github.com/ZacSweers/FieldSpottr/pull/210) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.0"
 
 **2025-06-27** — closed PR [#221](https://github.com/ZacSweers/FieldSpottr/pull/221) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
@@ -17,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-27** — created branch `z/metroStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-06-27** — merged PR [#259](https://github.com/ZacSweers/ZacSweers/pull/259) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.0-2.0.2"
-
-**2025-06-27** — merged PR [#260](https://github.com/ZacSweers/ZacSweers/pull/260) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.9.0"
-
-**2025-06-27** — merged PR [#219](https://github.com/ZacSweers/FieldSpottr/pull/219) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.29.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
