@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-28** — merged PR [#640](https://github.com/ZacSweers/metro/pull/640) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kotlinx.serialization to v1.9.0"
+
+**2025-06-28** — merged PR [#642](https://github.com/ZacSweers/metro/pull/642) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency com.squareup.okio:okio to v3.14.0"
+
 **2025-06-28** — merged PR [#641](https://github.com/ZacSweers/metro/pull/641) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.work:work-runtime to v2.10.2"
 
 **2025-06-28** — merged PR [#578](https://github.com/ZacSweers/metro/pull/578) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a WorkManager sample"
@@ -19,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-27** — opened PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
 
 **2025-06-27** — created branch `z/metroStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-27** — merged PR [#259](https://github.com/ZacSweers/ZacSweers/pull/259) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.0-2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
