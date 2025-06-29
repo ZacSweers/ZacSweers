@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-29** — merged PR [#643](https://github.com/ZacSweers/metro/pull/643) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.17"
+
+**2025-06-29** — commented on [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332#issuecomment-3016920019) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-06-29** — created tag `1.14.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-06-29** — merged PR [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): " Handle failed error message when no redacted properties"
+
 **2025-06-28** — merged PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
 
 **2025-06-28** — opened PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-28** — merged PR [#1991](https://github.com/ZacSweers/CatchUp/pull/1991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.31.0"
 
 **2025-06-28** — closed PR [#1986](https://github.com/ZacSweers/CatchUp/pull/1986) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.29.0"
-
-**2025-06-28** — closed PR [#1871](https://github.com/ZacSweers/CatchUp/pull/1871) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.mikepenz:multiplatform-markdown-renderer-m3 to v0.33.0 - abandoned"
-
-**2025-06-28** — merged PR [#1990](https://github.com/ZacSweers/CatchUp/pull/1990) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Fixup auth interceptor"
-
-**2025-06-28** — merged PR [#329](https://github.com/ZacSweers/redacted-compiler-plugin/pull/329) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.18.0"
-
-**2025-06-28** — merged PR [#331](https://github.com/ZacSweers/redacted-compiler-plugin/pull/331) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency com.facebook:ktfmt to v0.56"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
