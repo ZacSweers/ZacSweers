@@ -4,7 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-30** — Could not load GitHub activity. Please check back later.
+**2025-06-30** — merged PR [#262](https://github.com/ZacSweers/ZacSweers/pull/262) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.17"
+
+**2025-06-29** — merged PR [#643](https://github.com/ZacSweers/metro/pull/643) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.17"
+
+**2025-06-29** — commented on [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332#issuecomment-3016920019) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-06-29** — created tag `1.14.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+
+**2025-06-29** — merged PR [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): " Handle failed error message when no redacted properties"
+
+**2025-06-28** — merged PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
+
+**2025-06-28** — opened PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
+
+**2025-06-28** — created branch `z/moreCommonize` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2025-06-28** — merged PR [#776](https://github.com/ZacSweers/MoshiX/pull/776) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
