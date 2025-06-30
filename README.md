@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-30** — merged PR [#262](https://github.com/ZacSweers/ZacSweers/pull/262) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.17"
+
 **2025-06-29** — merged PR [#643](https://github.com/ZacSweers/metro/pull/643) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.17"
 
 **2025-06-29** — commented on [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332#issuecomment-3016920019) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-28** — created branch `z/moreCommonize` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 
 **2025-06-28** — merged PR [#776](https://github.com/ZacSweers/MoshiX/pull/776) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.31.0"
-
-**2025-06-28** — merged PR [#1991](https://github.com/ZacSweers/CatchUp/pull/1991) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.zacsweers.moshix to v0.31.0"
-
-**2025-06-28** — closed PR [#1986](https://github.com/ZacSweers/CatchUp/pull/1986) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.29.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
