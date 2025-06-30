@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-30** — merged PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
+
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3019557439) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-30** — merged PR [#262](https://github.com/ZacSweers/ZacSweers/pull/262) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.17"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-28** — opened PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
 
 **2025-06-28** — created branch `z/moreCommonize` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-06-28** — merged PR [#776](https://github.com/ZacSweers/MoshiX/pull/776) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
