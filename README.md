@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-30** — merged PR [#366](https://github.com/slackhq/slack-lints/pull/366) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha07"
+
+**2025-06-30** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-3020082120) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-06-30** — closed issue [#268](https://github.com/slackhq/slack-lints/issues/268) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "False positive on DeprecatedCall for WebView constructor"
+
 **2025-06-30** — merged PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
 
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3019557439) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-29** — merged PR [#643](https://github.com/ZacSweers/metro/pull/643) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.17"
 
 **2025-06-29** — commented on [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332#issuecomment-3016920019) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-06-29** — created tag `1.14.1` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-06-29** — merged PR [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): " Handle failed error message when no redacted properties"
-
-**2025-06-28** — merged PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
-
-**2025-06-28** — opened PR [#1992](https://github.com/ZacSweers/CatchUp/pull/1992) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Commonize most of libraries:util"
-
-**2025-06-28** — created branch `z/moreCommonize` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
