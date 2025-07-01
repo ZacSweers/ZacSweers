@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020437029) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-30** — closed PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
 
 **2025-06-30** — closed PR [#1561](https://github.com/slackhq/circuit/pull/1561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test dagger-ksp w/ KSP2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-30** — closed issue [#239](https://github.com/slackhq/slack-lints/issues/239) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "RetrofitUsage should allow Unit return types for suspend functions"
 
 **2025-06-30** — merged PR [#397](https://github.com/slackhq/slack-lints/pull/397) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow suspend Retrofit functions to return `Unit`"
-
-**2025-06-30** — closed issue [#395](https://github.com/slackhq/slack-lints/issues/395) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Types with @JsonClass(generateAdapter = false) should be allowed"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
