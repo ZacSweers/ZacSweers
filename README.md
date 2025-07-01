@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-30** — merged PR [#366](https://github.com/slackhq/slack-lints/pull/366) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha07"
+**2025-06-30** — closed issue [#395](https://github.com/slackhq/slack-lints/issues/395) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Types with @JsonClass(generateAdapter = false) should be allowed"
 
-**2025-06-30** — commented on [#268](https://github.com/slackhq/slack-lints/issues/268#issuecomment-3020082120) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+**2025-06-30** — merged PR [#396](https://github.com/slackhq/slack-lints/pull/396) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow generateAdapter = false"
 
-**2025-06-30** — closed issue [#268](https://github.com/slackhq/slack-lints/issues/268) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "False positive on DeprecatedCall for WebView constructor"
+**2025-06-30** — closed issue [#334](https://github.com/slackhq/slack-lints/issues/334) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "New check: Warning on `val` class properties assigned to null"
 
-**2025-06-30** — merged PR [#2168](https://github.com/slackhq/circuit/pull/2168) to [slackhq/circuit](https://github.com/slackhq/circuit): "Migrate STAR sample to Metro"
+**2025-06-30** — merged PR [#358](https://github.com/slackhq/slack-lints/pull/358) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add AlwaysNullReadOnlyVariableDetector to detect unnecessary null initialization"
 
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3019557439) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-06-30** — opened PR [#397](https://github.com/slackhq/slack-lints/pull/397) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow suspend Retrofit functions to return `Unit`"
 
-**2025-06-30** — merged PR [#262](https://github.com/ZacSweers/ZacSweers/pull/262) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0-alpha.17"
+**2025-06-30** — created branch `z/retrofitUnit` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2025-06-29** — merged PR [#643](https://github.com/ZacSweers/metro/pull/643) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0-alpha.17"
+**2025-06-30** — commented on [#311](https://github.com/slackhq/slack-lints/issues/311#issuecomment-3020198334) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
-**2025-06-29** — commented on [#332](https://github.com/ZacSweers/redacted-compiler-plugin/pull/332#issuecomment-3016920019) in [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
+**2025-06-30** — closed issue [#311](https://github.com/slackhq/slack-lints/issues/311) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Consider allowing preconditions without messages in tests"
+
+**2025-06-30** — closed PR [#379](https://github.com/slackhq/slack-lints/pull/379) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency com.squareup.retrofit2:retrofit to v3"
+
+**2025-06-30** — opened PR [#396](https://github.com/slackhq/slack-lints/pull/396) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow generateAdapter = false"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
