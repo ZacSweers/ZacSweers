@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020723803) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020437029) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — closed PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
-
-**2025-06-30** — closed PR [#1561](https://github.com/slackhq/circuit/pull/1561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test dagger-ksp w/ KSP2"
-
-**2025-06-30** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-3020321885) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2025-06-30** — commented on [#644](https://github.com/ZacSweers/metro/issues/644#issuecomment-3020312788) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020303037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — created tag `0.29.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-30** — created tag `0.10.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-06-30** — closed issue [#239](https://github.com/slackhq/slack-lints/issues/239) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "RetrofitUsage should allow Unit return types for suspend functions"
+**2025-07-01** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
