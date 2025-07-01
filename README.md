@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-06-30** — closed PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
+
+**2025-06-30** — closed PR [#1561](https://github.com/slackhq/circuit/pull/1561) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test dagger-ksp w/ KSP2"
+
+**2025-06-30** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-3020321885) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
+
+**2025-06-30** — commented on [#644](https://github.com/ZacSweers/metro/issues/644#issuecomment-3020312788) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020303037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-30** — created tag `0.29.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-30** — merged PR [#397](https://github.com/slackhq/slack-lints/pull/397) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow suspend Retrofit functions to return `Unit`"
 
 **2025-06-30** — closed issue [#395](https://github.com/slackhq/slack-lints/issues/395) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Types with @JsonClass(generateAdapter = false) should be allowed"
-
-**2025-06-30** — merged PR [#396](https://github.com/slackhq/slack-lints/pull/396) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow generateAdapter = false"
-
-**2025-06-30** — closed issue [#334](https://github.com/slackhq/slack-lints/issues/334) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "New check: Warning on `val` class properties assigned to null"
-
-**2025-06-30** — merged PR [#358](https://github.com/slackhq/slack-lints/pull/358) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add AlwaysNullReadOnlyVariableDetector to detect unnecessary null initialization"
-
-**2025-06-30** — opened PR [#397](https://github.com/slackhq/slack-lints/pull/397) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Allow suspend Retrofit functions to return `Unit`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
