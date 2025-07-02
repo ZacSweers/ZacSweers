@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-02** — merged PR [#1440](https://github.com/slackhq/foundry/pull/1440) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add project path dependency completions to Skate"
+
+**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3029310417) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-02** — commented on [#1440](https://github.com/slackhq/foundry/pull/1440#issuecomment-3029263502) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-07-02** — opened PR [#1440](https://github.com/slackhq/foundry/pull/1440) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add project path dependency completions to Skate"
 
 **2025-07-02** — created branch `z/projectAccessorCompletions` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -15,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-02** — merged PR [#350](https://github.com/ZacSweers/kotlin-compile-testing/pull/350) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.15.0"
 
 **2025-07-02** — merged PR [#352](https://github.com/ZacSweers/kotlin-compile-testing/pull/352) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.33.0"
-
-**2025-07-01** — closed PR [#331](https://github.com/ZacSweers/kotlin-compile-testing/pull/331) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2025-07-01** — merged PR [#345](https://github.com/ZacSweers/kotlin-compile-testing/pull/345) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.12.0"
-
-**2025-07-01** — merged PR [#346](https://github.com/ZacSweers/kotlin-compile-testing/pull/346) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.18.0"
-
-**2025-07-01** — merged PR [#347](https://github.com/ZacSweers/kotlin-compile-testing/pull/347) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Kotlin to 2.2.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
