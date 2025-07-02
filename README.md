@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-02** — opened PR [#1440](https://github.com/slackhq/foundry/pull/1440) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add project path dependency completions to Skate"
+
+**2025-07-02** — created branch `z/projectAccessorCompletions` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-07-02** — merged PR [#348](https://github.com/ZacSweers/kotlin-compile-testing/pull/348) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14.2"
+
+**2025-07-02** — merged PR [#349](https://github.com/ZacSweers/kotlin-compile-testing/pull/349) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.180"
+
+**2025-07-02** — merged PR [#350](https://github.com/ZacSweers/kotlin-compile-testing/pull/350) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.15.0"
+
+**2025-07-02** — merged PR [#352](https://github.com/ZacSweers/kotlin-compile-testing/pull/352) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.33.0"
+
 **2025-07-01** — closed PR [#331](https://github.com/ZacSweers/kotlin-compile-testing/pull/331) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
 
 **2025-07-01** — merged PR [#345](https://github.com/ZacSweers/kotlin-compile-testing/pull/345) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.12.0"
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-01** — merged PR [#346](https://github.com/ZacSweers/kotlin-compile-testing/pull/346) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.18.0"
 
 **2025-07-01** — merged PR [#347](https://github.com/ZacSweers/kotlin-compile-testing/pull/347) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Kotlin to 2.2.0"
-
-**2025-07-01** — commented on [#347](https://github.com/ZacSweers/kotlin-compile-testing/pull/347#issuecomment-3026172826) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-07-01** — merged PR [#263](https://github.com/ZacSweers/ZacSweers/pull/263) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okio:okio to v3.15.0"
-
-**2025-07-01** — commented on [#5466](https://github.com/JetBrains/kotlin/pull/5466#issuecomment-3026161844) in [JetBrains/kotlin](https://github.com/JetBrains/kotlin)
-
-**2025-07-01** — merged PR [#1995](https://github.com/ZacSweers/CatchUp/pull/1995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.50.2.0"
-
-**2025-07-01** — merged PR [#1993](https://github.com/ZacSweers/CatchUp/pull/1993) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.0.0-alpha.17"
-
-**2025-07-01** — merged PR [#1994](https://github.com/ZacSweers/CatchUp/pull/1994) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.14.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
