@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-01** — merged PR [#1995](https://github.com/ZacSweers/CatchUp/pull/1995) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.xerial:sqlite-jdbc to v3.50.2.0"
+
+**2025-07-01** — merged PR [#1993](https://github.com/ZacSweers/CatchUp/pull/1993) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.0.0-alpha.17"
+
+**2025-07-01** — merged PR [#1994](https://github.com/ZacSweers/CatchUp/pull/1994) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin redacted to v1.14.1"
+
+**2025-07-01** — merged PR [#1996](https://github.com/ZacSweers/CatchUp/pull/1996) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0-beta01"
+
+**2025-07-01** — opened PR [#1437](https://github.com/slackhq/foundry/pull/1437) to [slackhq/foundry](https://github.com/slackhq/foundry): "Encode values before going to disk"
+
+**2025-07-01** — created branch `z/base64` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-07-01** — merged PR [#646](https://github.com/ZacSweers/metro/pull/646) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.29.1"
 
 **2025-07-01** — merged PR [#1999](https://github.com/ZacSweers/CatchUp/pull/1999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate away from project accessors"
 
 **2025-07-01** — opened PR [#1999](https://github.com/ZacSweers/CatchUp/pull/1999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate away from project accessors"
-
-**2025-07-01** — created branch `z/projectAccessors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
-
-**2025-07-01** — merged PR [#1436](https://github.com/slackhq/foundry/pull/1436) to [slackhq/foundry](https://github.com/slackhq/foundry): "Move auth settings to application-level"
-
-**2025-07-01** — opened PR [#1436](https://github.com/slackhq/foundry/pull/1436) to [slackhq/foundry](https://github.com/slackhq/foundry): "Move auth settings to application-level"
-
-**2025-07-01** — created branch `z/moreAA` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-07-01** — merged PR [#1435](https://github.com/slackhq/foundry/pull/1435) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove hotfix workaround"
-
-**2025-07-01** — opened PR [#1435](https://github.com/slackhq/foundry/pull/1435) to [slackhq/foundry](https://github.com/slackhq/foundry): "Remove hotfix workaround"
-
-**2025-07-01** — created branch `z/aaPublishing` on [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
