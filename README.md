@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-01** — opened PR [#1999](https://github.com/ZacSweers/CatchUp/pull/1999) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Migrate away from project accessors"
+
+**2025-07-01** — created branch `z/projectAccessors` on [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp)
+
+**2025-07-01** — merged PR [#1436](https://github.com/slackhq/foundry/pull/1436) to [slackhq/foundry](https://github.com/slackhq/foundry): "Move auth settings to application-level"
+
 **2025-07-01** — opened PR [#1436](https://github.com/slackhq/foundry/pull/1436) to [slackhq/foundry](https://github.com/slackhq/foundry): "Move auth settings to application-level"
 
 **2025-07-01** — created branch `z/moreAA` on [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-01** — merged PR [#648](https://github.com/ZacSweers/metro/pull/648) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.15"
 
 **2025-07-01** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3024956896) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020723803) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020437029) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-06-30** — closed PR [#1560](https://github.com/slackhq/circuit/pull/1560) to [slackhq/circuit](https://github.com/slackhq/circuit): "Test K2 Kapt"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
