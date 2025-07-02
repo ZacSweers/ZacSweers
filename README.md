@@ -4,23 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-02** — commented on [#323](https://github.com/ZacSweers/kotlin-compile-testing/issues/323#issuecomment-3029454995) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-07-02** — commented on [#332](https://github.com/ZacSweers/kotlin-compile-testing/issues/332#issuecomment-3029454621) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-07-02** — closed issue [#332](https://github.com/ZacSweers/kotlin-compile-testing/issues/332) on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "NoSuchMethodError during KSP ResolverImpl init on Kotlin 2.1.20"
+
+**2025-07-02** — created tag `0.8.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
+
+**2025-07-02** — merged PR [#330](https://github.com/ZacSweers/kotlin-compile-testing/pull/330) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin buildconfig to v5"
+
+**2025-07-02** — merged PR [#311](https://github.com/ZacSweers/kotlin-compile-testing/pull/311) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin dokka to v2.0.0"
+
+**2025-07-02** — merged PR [#351](https://github.com/ZacSweers/kotlin-compile-testing/pull/351) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.53"
+
+**2025-07-02** — closed PR [#353](https://github.com/ZacSweers/kotlin-compile-testing/pull/353) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v252"
+
 **2025-07-02** — merged PR [#1440](https://github.com/slackhq/foundry/pull/1440) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add project path dependency completions to Skate"
 
 **2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3029310417) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-02** — commented on [#1440](https://github.com/slackhq/foundry/pull/1440#issuecomment-3029263502) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-07-02** — opened PR [#1440](https://github.com/slackhq/foundry/pull/1440) to [slackhq/foundry](https://github.com/slackhq/foundry): "Add project path dependency completions to Skate"
-
-**2025-07-02** — created branch `z/projectAccessorCompletions` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-07-02** — merged PR [#348](https://github.com/ZacSweers/kotlin-compile-testing/pull/348) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v8.14.2"
-
-**2025-07-02** — merged PR [#349](https://github.com/ZacSweers/kotlin-compile-testing/pull/349) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency io.github.classgraph:classgraph to v4.8.180"
-
-**2025-07-02** — merged PR [#350](https://github.com/ZacSweers/kotlin-compile-testing/pull/350) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.15.0"
-
-**2025-07-02** — merged PR [#352](https://github.com/ZacSweers/kotlin-compile-testing/pull/352) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update plugin mavenPublish to v0.33.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
