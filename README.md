@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-01** — merged PR [#648](https://github.com/ZacSweers/metro/pull/648) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency mkdocs-material to v9.6.15"
+
+**2025-07-01** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3024956896) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020723803) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020437029) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-06-30** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3020303037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-06-30** — created tag `0.29.1` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-06-30** — created tag `0.10.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-06-30** — closed issue [#239](https://github.com/slackhq/slack-lints/issues/239) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "RetrofitUsage should allow Unit return types for suspend functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
