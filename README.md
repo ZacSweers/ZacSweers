@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-03** — closed issue [#659](https://github.com/ZacSweers/metro/issues/659) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Providing MembersInjector default value not working"
+
+**2025-07-03** — merged PR [#660](https://github.com/ZacSweers/metro/pull/660) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent bindings during graph population"
+
+**2025-07-03** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3030954425) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-03** — opened PR [#660](https://github.com/ZacSweers/metro/pull/660) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent bindings during graph population"
+
+**2025-07-03** — created branch `z/absentDuringPopulation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-03** — commented on [#659](https://github.com/ZacSweers/metro/issues/659#issuecomment-3030686844) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-03** — closed issue [#656](https://github.com/ZacSweers/metro/issues/656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension errors not thrown compile time"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030430302) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-02** — merged PR [#777](https://github.com/ZacSweers/MoshiX/pull/777) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.8.0"
-
-**2025-07-02** — merged PR [#224](https://github.com/ZacSweers/FieldSpottr/pull/224) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.4"
-
-**2025-07-02** — merged PR [#222](https://github.com/ZacSweers/FieldSpottr/pull/222) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.15.0"
-
-**2025-07-02** — merged PR [#223](https://github.com/ZacSweers/FieldSpottr/pull/223) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.29.1"
-
-**2025-07-02** — merged PR [#158](https://github.com/ZacSweers/auto-service-ksp/pull/158) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.0"
-
-**2025-07-02** — merged PR [#159](https://github.com/ZacSweers/auto-service-ksp/pull/159) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.56"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
