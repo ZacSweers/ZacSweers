@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-03** — commented on [#659](https://github.com/ZacSweers/metro/issues/659#issuecomment-3030686844) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-03** — closed issue [#656](https://github.com/ZacSweers/metro/issues/656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension errors not thrown compile time"
+
+**2025-07-03** — merged PR [#658](https://github.com/ZacSweers/metro/pull/658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report the original location of declarations in fake overrides in error reporting"
+
 **2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030430302) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-02** — merged PR [#777](https://github.com/ZacSweers/MoshiX/pull/777) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.8.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-02** — merged PR [#158](https://github.com/ZacSweers/auto-service-ksp/pull/158) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.0"
 
 **2025-07-02** — merged PR [#159](https://github.com/ZacSweers/auto-service-ksp/pull/159) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.56"
-
-**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030366188) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-02** — opened PR [#658](https://github.com/ZacSweers/metro/pull/658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report the original location of declarations in fake overrides in error reporting"
-
-**2025-07-02** — created branch `z/fixReporting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
