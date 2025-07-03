@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-03** — Could not load GitHub activity. Please check back later.
+**2025-07-03** — closed issue [#659](https://github.com/ZacSweers/metro/issues/659) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Providing MembersInjector default value not working"
+
+**2025-07-03** — merged PR [#660](https://github.com/ZacSweers/metro/pull/660) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent bindings during graph population"
+
+**2025-07-03** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3030954425) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-03** — opened PR [#660](https://github.com/ZacSweers/metro/pull/660) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent bindings during graph population"
+
+**2025-07-03** — created branch `z/absentDuringPopulation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-03** — commented on [#659](https://github.com/ZacSweers/metro/issues/659#issuecomment-3030686844) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-03** — closed issue [#656](https://github.com/ZacSweers/metro/issues/656) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ContributesGraphExtension errors not thrown compile time"
+
+**2025-07-03** — merged PR [#658](https://github.com/ZacSweers/metro/pull/658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report the original location of declarations in fake overrides in error reporting"
+
+**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030430302) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-02** — merged PR [#777](https://github.com/ZacSweers/MoshiX/pull/777) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.8.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
