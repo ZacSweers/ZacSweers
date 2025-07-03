@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-02** — merged PR [#777](https://github.com/ZacSweers/MoshiX/pull/777) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.8.0"
+
+**2025-07-02** — merged PR [#224](https://github.com/ZacSweers/FieldSpottr/pull/224) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.4"
+
+**2025-07-02** — merged PR [#222](https://github.com/ZacSweers/FieldSpottr/pull/222) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.15.0"
+
+**2025-07-02** — merged PR [#223](https://github.com/ZacSweers/FieldSpottr/pull/223) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.29.1"
+
+**2025-07-02** — merged PR [#158](https://github.com/ZacSweers/auto-service-ksp/pull/158) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.0"
+
+**2025-07-02** — merged PR [#159](https://github.com/ZacSweers/auto-service-ksp/pull/159) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.facebook:ktfmt to v0.56"
+
+**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030366188) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-02** — opened PR [#658](https://github.com/ZacSweers/metro/pull/658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report the original location of declarations in fake overrides in error reporting"
+
+**2025-07-02** — created branch `z/fixReporting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030294696) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-02** — closed issue [#621](https://github.com/ZacSweers/metro/issues/621) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Any constraint from binding<T : Any>()"
-
-**2025-07-02** — merged PR [#654](https://github.com/ZacSweers/metro/pull/654) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove Any bound from binding.kt"
-
-**2025-07-02** — merged PR [#657](https://github.com/ZacSweers/metro/pull/657) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update kct to v0.8.0"
-
-**2025-07-02** — merged PR [#1441](https://github.com/slackhq/foundry/pull/1441) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up some project accessor refs"
-
-**2025-07-02** — merged PR [#399](https://github.com/slackhq/slack-lints/pull/399) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin shadow to v8.3.8"
-
-**2025-07-02** — opened PR [#1441](https://github.com/slackhq/foundry/pull/1441) to [slackhq/foundry](https://github.com/slackhq/foundry): "Clean up some project accessor refs"
-
-**2025-07-02** — commented on [#400](https://github.com/slackhq/slack-lints/issues/400#issuecomment-3029998424) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-07-02** — created branch `z/cleanup` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-07-02** — commented on [#323](https://github.com/ZacSweers/kotlin-compile-testing/issues/323#issuecomment-3029454995) in [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
