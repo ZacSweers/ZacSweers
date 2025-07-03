@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030430302) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-02** — merged PR [#777](https://github.com/ZacSweers/MoshiX/pull/777) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update kotlinCompileTesting to v0.8.0"
 
 **2025-07-02** — merged PR [#224](https://github.com/ZacSweers/FieldSpottr/pull/224) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.mikepenz:aboutlibraries-compose-m3 to v12.2.4"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-02** — opened PR [#658](https://github.com/ZacSweers/metro/pull/658) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report the original location of declarations in fake overrides in error reporting"
 
 **2025-07-02** — created branch `z/fixReporting` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-02** — commented on [#656](https://github.com/ZacSweers/metro/issues/656#issuecomment-3030294696) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
