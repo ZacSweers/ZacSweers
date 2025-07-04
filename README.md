@@ -4,7 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-04** — Could not load GitHub activity. Please check back later.
+**2025-07-03** — merged PR [#2171](https://github.com/slackhq/circuit/pull/2171) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update okhttp monorepo to v5.0.0"
+
+**2025-07-03** — merged PR [#661](https://github.com/ZacSweers/metro/pull/661) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.1"
+
+**2025-07-03** — merged PR [#265](https://github.com/ZacSweers/ZacSweers/pull/265) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.1"
+
+**2025-07-03** — merged PR [#662](https://github.com/ZacSweers/metro/pull/662) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0"
+
+**2025-07-03** — merged PR [#778](https://github.com/ZacSweers/MoshiX/pull/778) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp monorepo to v5 (major)"
+
+**2025-07-03** — merged PR [#264](https://github.com/ZacSweers/ZacSweers/pull/264) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0"
+
+**2025-07-03** — closed issue [#659](https://github.com/ZacSweers/metro/issues/659) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Providing MembersInjector default value not working"
+
+**2025-07-03** — merged PR [#660](https://github.com/ZacSweers/metro/pull/660) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle absent bindings during graph population"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
