@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-3033979418) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-03** — merged PR [#2171](https://github.com/slackhq/circuit/pull/2171) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update okhttp monorepo to v5.0.0"
 
 **2025-07-03** — merged PR [#661](https://github.com/ZacSweers/metro/pull/661) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.1"
