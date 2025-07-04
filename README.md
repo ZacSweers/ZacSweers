@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-04** — merged PR [#667](https://github.com/ZacSweers/metro/pull/667) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit-framework monorepo to v5.13.3"
+
+**2025-07-04** — merged PR [#1971](https://github.com/square/moshi/pull/1971) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.14.3"
+
+**2025-07-04** — merged PR [#334](https://github.com/ZacSweers/redacted-compiler-plugin/pull/334) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14.3"
+
+**2025-07-04** — merged PR [#266](https://github.com/ZacSweers/ZacSweers/pull/266) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.3"
+
 **2025-07-03** — opened PR [#665](https://github.com/ZacSweers/metro/pull/665) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repro #649"
 
 **2025-07-03** — created branch `z/649` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-03** — merged PR [#661](https://github.com/ZacSweers/metro/pull/661) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.1"
 
 **2025-07-03** — merged PR [#265](https://github.com/ZacSweers/ZacSweers/pull/265) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.1"
-
-**2025-07-03** — merged PR [#662](https://github.com/ZacSweers/metro/pull/662) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update okhttp monorepo to v5.0.0"
-
-**2025-07-03** — merged PR [#778](https://github.com/ZacSweers/MoshiX/pull/778) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update okhttp monorepo to v5 (major)"
-
-**2025-07-03** — merged PR [#264](https://github.com/ZacSweers/ZacSweers/pull/264) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.0.0"
-
-**2025-07-03** — closed issue [#659](https://github.com/ZacSweers/metro/issues/659) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Providing MembersInjector default value not working"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
