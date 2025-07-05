@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-05** — commented on [#34088](https://github.com/gradle/gradle/issues/34088#issuecomment-3040405033) in [gradle/gradle](https://github.com/gradle/gradle)
+
+**2025-07-05** — opened PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
+
+**2025-07-05** — opened PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
+
+**2025-07-05** — created branch `z/fixCache` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-07-05** — created branch `z/fixBio` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-07-05** — merged PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
+
+**2025-07-05** — opened PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
+
+**2025-07-05** — created branch `z/hotReload` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-07-05** — opened PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
 
 **2025-07-05** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-07-05** — merged PR [#672](https://github.com/ZacSweers/metro/pull/672) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow empty multibinding for Dagger's `@Multibinds` interop"
-
-**2025-07-05** — commented on [#649](https://github.com/ZacSweers/metro/issues/649#issuecomment-3039734901) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-05** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3039691144) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-05** — merged PR [#666](https://github.com/ZacSweers/metro/pull/666) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support javax/jakarta Providers as map multibinding value types"
-
-**2025-07-04** — merged PR [#225](https://github.com/ZacSweers/FieldSpottr/pull/225) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.1"
-
-**2025-07-04** — merged PR [#226](https://github.com/ZacSweers/FieldSpottr/pull/226) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
