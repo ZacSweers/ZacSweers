@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-04** — opened issue [#669](https://github.com/ZacSweers/metro/issues/669) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report errors for scoped `@Binds` declarations"
+**2025-07-04** — closed issue [#664](https://github.com/ZacSweers/metro/issues/664) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "enableScopedInjectClassHints not working for @Inject constructor"
 
-**2025-07-04** — merged PR [#667](https://github.com/ZacSweers/metro/pull/667) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit-framework monorepo to v5.13.3"
+**2025-07-04** — merged PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
 
-**2025-07-04** — merged PR [#1971](https://github.com/square/moshi/pull/1971) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.14.3"
+**2025-07-04** — opened PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
 
-**2025-07-04** — merged PR [#334](https://github.com/ZacSweers/redacted-compiler-plugin/pull/334) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v8.14.3"
+**2025-07-04** — created branch `z/fixLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-04** — merged PR [#266](https://github.com/ZacSweers/ZacSweers/pull/266) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v8.14.3"
+**2025-07-04** — closed issue [#669](https://github.com/ZacSweers/metro/issues/669) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report errors for scoped `@Binds` declarations"
 
-**2025-07-03** — opened PR [#665](https://github.com/ZacSweers/metro/pull/665) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repro #649"
+**2025-07-04** — merged PR [#670](https://github.com/ZacSweers/metro/pull/670) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for scopes on binds annotations"
 
-**2025-07-03** — created branch `z/649` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-04** — merged PR [#162](https://github.com/ZacSweers/auto-service-ksp/pull/162) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14.3"
 
-**2025-07-03** — commented on [#377](https://github.com/ZacSweers/metro/issues/377#issuecomment-3033979418) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-04** — merged PR [#626](https://github.com/ZacSweers/metro/pull/626) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial support of binding containers"
 
-**2025-07-03** — merged PR [#2171](https://github.com/slackhq/circuit/pull/2171) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update okhttp monorepo to v5.0.0"
+**2025-07-04** — opened PR [#670](https://github.com/ZacSweers/metro/pull/670) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for scopes on binds annotations"
 
-**2025-07-03** — merged PR [#661](https://github.com/ZacSweers/metro/pull/661) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.1"
+**2025-07-04** — created branch `z/noScopesOnBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
