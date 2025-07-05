@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-05** — commented on [#649](https://github.com/ZacSweers/metro/issues/649#issuecomment-3039734901) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-05** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3039691144) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-05** — merged PR [#666](https://github.com/ZacSweers/metro/pull/666) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support javax/jakarta Providers as map multibinding value types"
+
 **2025-07-04** — merged PR [#225](https://github.com/ZacSweers/FieldSpottr/pull/225) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.1"
 
 **2025-07-04** — merged PR [#226](https://github.com/ZacSweers/FieldSpottr/pull/226) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.3"
@@ -15,14 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-04** — opened PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
 
 **2025-07-04** — created branch `z/fixLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-04** — closed issue [#669](https://github.com/ZacSweers/metro/issues/669) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report errors for scoped `@Binds` declarations"
-
-**2025-07-04** — merged PR [#670](https://github.com/ZacSweers/metro/pull/670) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for scopes on binds annotations"
-
-**2025-07-04** — merged PR [#162](https://github.com/ZacSweers/auto-service-ksp/pull/162) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14.3"
-
-**2025-07-04** — merged PR [#626](https://github.com/ZacSweers/metro/pull/626) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial support of binding containers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
