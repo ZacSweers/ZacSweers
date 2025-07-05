@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-04** — opened issue [#669](https://github.com/ZacSweers/metro/issues/669) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report errors for scoped `@Binds` declarations"
+
 **2025-07-04** — merged PR [#667](https://github.com/ZacSweers/metro/pull/667) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit-framework monorepo to v5.13.3"
 
 **2025-07-04** — merged PR [#1971](https://github.com/square/moshi/pull/1971) to [square/moshi](https://github.com/square/moshi): "Update dependency gradle to v8.14.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-03** — merged PR [#2171](https://github.com/slackhq/circuit/pull/2171) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update okhttp monorepo to v5.0.0"
 
 **2025-07-03** — merged PR [#661](https://github.com/ZacSweers/metro/pull/661) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.1"
-
-**2025-07-03** — merged PR [#265](https://github.com/ZacSweers/ZacSweers/pull/265) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
