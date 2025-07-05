@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-04** — merged PR [#225](https://github.com/ZacSweers/FieldSpottr/pull/225) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.1"
-
-**2025-07-04** — merged PR [#226](https://github.com/ZacSweers/FieldSpottr/pull/226) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.3"
-
-**2025-07-04** — closed issue [#664](https://github.com/ZacSweers/metro/issues/664) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "enableScopedInjectClassHints not working for @Inject constructor"
-
-**2025-07-04** — merged PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
-
-**2025-07-04** — opened PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
-
-**2025-07-04** — created branch `z/fixLookup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-04** — closed issue [#669](https://github.com/ZacSweers/metro/issues/669) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report errors for scoped `@Binds` declarations"
-
-**2025-07-04** — merged PR [#670](https://github.com/ZacSweers/metro/pull/670) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for scopes on binds annotations"
-
-**2025-07-04** — merged PR [#162](https://github.com/ZacSweers/auto-service-ksp/pull/162) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v8.14.3"
-
-**2025-07-04** — merged PR [#626](https://github.com/ZacSweers/metro/pull/626) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Initial support of binding containers"
+**2025-07-05** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
