@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-05** — opened PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
+
+**2025-07-05** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2025-07-05** — merged PR [#672](https://github.com/ZacSweers/metro/pull/672) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow empty multibinding for Dagger's `@Multibinds` interop"
 
 **2025-07-05** — commented on [#649](https://github.com/ZacSweers/metro/issues/649#issuecomment-3039734901) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,12 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-04** — merged PR [#225](https://github.com/ZacSweers/FieldSpottr/pull/225) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.1"
 
 **2025-07-04** — merged PR [#226](https://github.com/ZacSweers/FieldSpottr/pull/226) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v8.14.3"
-
-**2025-07-04** — closed issue [#664](https://github.com/ZacSweers/metro/issues/664) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "enableScopedInjectClassHints not working for @Inject constructor"
-
-**2025-07-04** — merged PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
-
-**2025-07-04** — opened PR [#671](https://github.com/ZacSweers/metro/pull/671) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check constructor annotations in IrContributionVisitor"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
