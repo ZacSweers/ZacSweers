@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-06** — merged PR [#673](https://github.com/ZacSweers/metro/pull/673) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix BaseDoubleCheck.isInitialized() check"
+
 **2025-07-05** — commented on [#34088](https://github.com/gradle/gradle/issues/34088#issuecomment-3040405033) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-07-05** — opened PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-05** — created branch `z/hotReload` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-07-05** — opened PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
-
-**2025-07-05** — created branch `z/fixes` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
