@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-05** — opened PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
 
 **2025-07-05** — created branch `z/hotReload` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-07-05** — opened PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
