@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-07** — merged PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
+
+**2025-07-07** — merged PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
+
+**2025-07-07** — merged PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
+
+**2025-07-07** — merged PR [#401](https://github.com/slackhq/slack-lints/pull/401) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha08"
+
+**2025-07-07** — merged PR [#402](https://github.com/slackhq/slack-lints/pull/402) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.14.3"
+
 **2025-07-06** — merged PR [#673](https://github.com/ZacSweers/metro/pull/673) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix BaseDoubleCheck.isInitialized() check"
 
 **2025-07-05** — commented on [#34088](https://github.com/gradle/gradle/issues/34088#issuecomment-3040405033) in [gradle/gradle](https://github.com/gradle/gradle)
@@ -11,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-05** — opened PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
 
 **2025-07-05** — opened PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
-
-**2025-07-05** — created branch `z/fixCache` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-07-05** — created branch `z/fixBio` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-07-05** — merged PR [#227](https://github.com/ZacSweers/FieldSpottr/pull/227) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various fixes"
-
-**2025-07-05** — opened PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
-
-**2025-07-05** — created branch `z/hotReload` on [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
