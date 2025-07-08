@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-07** — created branch `z/bindingContainersProp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-07** — merged PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
 
 **2025-07-07** — merged PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-05** — commented on [#34088](https://github.com/gradle/gradle/issues/34088#issuecomment-3040405033) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-07-05** — opened PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
-
-**2025-07-05** — opened PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
