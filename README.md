@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-08** — opened PR [#2184](https://github.com/slackhq/circuit/pull/2184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add iOS support to STAR sample"
+**2025-07-09** — opened PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
 
-**2025-07-08** — created branch `z/iosStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-07-09** — created branch `z/kiai` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-07** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3046136186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-09** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051031162) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-07** — merged PR [#228](https://github.com/ZacSweers/FieldSpottr/pull/228) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.15.0"
+**2025-07-09** — closed PR [#677](https://github.com/ZacSweers/metro/pull/677) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for graph inheritance from different modules"
 
-**2025-07-07** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3046131142) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-09** — opened PR [#679](https://github.com/ZacSweers/metro/pull/679) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Prohibit direct graph extension of other graph classes"
 
-**2025-07-07** — created branch `z/bindingContainersProp` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-09** — created branch `z/noExtendingDirectly` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-07** — merged PR [#2177](https://github.com/slackhq/circuit/pull/2177) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add compose hot reload to STAR sample"
+**2025-07-08** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051005286) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-07** — merged PR [#2178](https://github.com/slackhq/circuit/pull/2178) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix PetRepository caching"
+**2025-07-08** — merged PR [#676](https://github.com/ZacSweers/metro/pull/676) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.1.0"
 
-**2025-07-07** — merged PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
+**2025-07-08** — merged PR [#678](https://github.com/ZacSweers/metro/pull/678) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.4"
 
-**2025-07-07** — merged PR [#401](https://github.com/slackhq/slack-lints/pull/401) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha08"
+**2025-07-08** — commented on [#2184](https://github.com/slackhq/circuit/pull/2184#issuecomment-3050997269) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
