@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-09** — merged PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
+
+**2025-07-09** — merged PR [#679](https://github.com/ZacSweers/metro/pull/679) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Prohibit direct graph extension of other graph classes"
+
+**2025-07-09** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051036933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-09** — opened PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
 
 **2025-07-09** — created branch `z/kiai` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-09** — created branch `z/noExtendingDirectly` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-08** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051005286) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-08** — merged PR [#676](https://github.com/ZacSweers/metro/pull/676) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.1.0"
-
-**2025-07-08** — merged PR [#678](https://github.com/ZacSweers/metro/pull/678) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.4"
-
-**2025-07-08** — commented on [#2184](https://github.com/slackhq/circuit/pull/2184#issuecomment-3050997269) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
