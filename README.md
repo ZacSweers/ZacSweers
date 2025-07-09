@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-08** — opened PR [#2184](https://github.com/slackhq/circuit/pull/2184) to [slackhq/circuit](https://github.com/slackhq/circuit): "Add iOS support to STAR sample"
+
 **2025-07-08** — created branch `z/iosStar` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-07-07** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3046136186) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-07** — merged PR [#2179](https://github.com/slackhq/circuit/pull/2179) to [slackhq/circuit](https://github.com/slackhq/circuit): "Handle duplicate IDs in animal bios"
 
 **2025-07-07** — merged PR [#401](https://github.com/slackhq/slack-lints/pull/401) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha08"
-
-**2025-07-07** — merged PR [#402](https://github.com/slackhq/slack-lints/pull/402) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v8.14.3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
