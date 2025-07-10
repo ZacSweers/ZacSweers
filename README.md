@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-10** — opened PR [#695](https://github.com/ZacSweers/metro/pull/695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle enum arguments in renderAsAnnotationArgument"
+
+**2025-07-10** — created branch `z/annotationsWithEnums` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-10** — closed issue [#691](https://github.com/ZacSweers/metro/issues/691) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "NotImplementedError in Diagnostic Reporter"
+
+**2025-07-10** — merged PR [#693](https://github.com/ZacSweers/metro/pull/693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fall back to MessageCollector for seal errors with no file"
+
 **2025-07-09** — merged PR [#681](https://github.com/ZacSweers/metro/pull/681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.5"
 
 **2025-07-09** — merged PR [#684](https://github.com/ZacSweers/metro/pull/684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Log function name for IR param size difference error"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-09** — opened PR [#683](https://github.com/ZacSweers/metro/pull/683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Sort within SCCs"
 
 **2025-07-09** — created branch `z/sortInSccs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — merged PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
-
-**2025-07-09** — merged PR [#679](https://github.com/ZacSweers/metro/pull/679) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Prohibit direct graph extension of other graph classes"
-
-**2025-07-09** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051036933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — opened PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
