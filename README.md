@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-10** — commented on [#694](https://github.com/ZacSweers/metro/issues/694#issuecomment-3058200173) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-10** — merged PR [#696](https://github.com/ZacSweers/metro/pull/696) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Another message collector fallback"
 
 **2025-07-10** — opened PR [#696](https://github.com/ZacSweers/metro/pull/696) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Another message collector fallback"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — closed issue [#689](https://github.com/ZacSweers/metro/issues/689) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE Error java.lang.NoSuchMethodError: FirHelpersKt.directOverriddenSymbolsSafe"
 
 **2025-07-10** — commented on [#689](https://github.com/ZacSweers/metro/issues/689#issuecomment-3057831716) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-10** — commented on [#694](https://github.com/ZacSweers/metro/issues/694#issuecomment-3057824636) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
