@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-09** — merged PR [#681](https://github.com/ZacSweers/metro/pull/681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.5"
+
 **2025-07-09** — merged PR [#684](https://github.com/ZacSweers/metro/pull/684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Log function name for IR param size difference error"
 
 **2025-07-09** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3053849788) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-09** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051036933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-09** — opened PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
-
-**2025-07-09** — created branch `z/kiai` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
