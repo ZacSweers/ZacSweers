@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-10** — commented on [#694](https://github.com/ZacSweers/metro/issues/694#issuecomment-3057870653) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-10** — closed issue [#690](https://github.com/ZacSweers/metro/issues/690) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "NoSuchElementException in MutableBindingGraph.sortAndValidate"
+
+**2025-07-10** — merged PR [#695](https://github.com/ZacSweers/metro/pull/695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle enum arguments in renderAsAnnotationArgument"
+
+**2025-07-10** — closed issue [#689](https://github.com/ZacSweers/metro/issues/689) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "IDE Error java.lang.NoSuchMethodError: FirHelpersKt.directOverriddenSymbolsSafe"
+
+**2025-07-10** — commented on [#689](https://github.com/ZacSweers/metro/issues/689#issuecomment-3057831716) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-10** — commented on [#694](https://github.com/ZacSweers/metro/issues/694#issuecomment-3057824636) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-10** — opened PR [#695](https://github.com/ZacSweers/metro/pull/695) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle enum arguments in renderAsAnnotationArgument"
 
 **2025-07-10** — created branch `z/annotationsWithEnums` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — closed issue [#691](https://github.com/ZacSweers/metro/issues/691) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "NotImplementedError in Diagnostic Reporter"
 
 **2025-07-10** — merged PR [#693](https://github.com/ZacSweers/metro/pull/693) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fall back to MessageCollector for seal errors with no file"
-
-**2025-07-09** — merged PR [#681](https://github.com/ZacSweers/metro/pull/681) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update wire to v5.3.5"
-
-**2025-07-09** — merged PR [#684](https://github.com/ZacSweers/metro/pull/684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Log function name for IR param size difference error"
-
-**2025-07-09** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3053849788) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3053187847) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — opened PR [#683](https://github.com/ZacSweers/metro/pull/683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Sort within SCCs"
-
-**2025-07-09** — created branch `z/sortInSccs` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
