@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-09** — merged PR [#684](https://github.com/ZacSweers/metro/pull/684) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Log function name for IR param size difference error"
+
+**2025-07-09** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3053849788) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-09** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3053187847) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-09** — opened PR [#683](https://github.com/ZacSweers/metro/pull/683) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Sort within SCCs"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-09** — opened PR [#680](https://github.com/ZacSweers/metro/pull/680) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add KI's new assistedfactory annotation"
 
 **2025-07-09** — created branch `z/kiai` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — commented on [#677](https://github.com/ZacSweers/metro/pull/677#issuecomment-3051031162) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-09** — closed PR [#677](https://github.com/ZacSweers/metro/pull/677) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Failing test for graph inheritance from different modules"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
