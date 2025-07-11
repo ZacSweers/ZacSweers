@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-10** — opened PR [#357](https://github.com/ZacSweers/kotlin-compile-testing/pull/357) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.2.20"
+
+**2025-07-10** — merged PR [#356](https://github.com/ZacSweers/kotlin-compile-testing/pull/356) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.90"
+
 **2025-07-10** — created branch `z/k2220` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-07-10** — opened PR [#783](https://github.com/ZacSweers/MoshiX/pull/783) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.2.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — commented on [#561](https://github.com/drewhamilton/Poko/issues/561#issuecomment-3058925329) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
 **2025-07-10** — opened PR [#337](https://github.com/ZacSweers/redacted-compiler-plugin/pull/337) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.2.20"
-
-**2025-07-10** — merged PR [#335](https://github.com/ZacSweers/redacted-compiler-plugin/pull/335) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin spotless to v7.1.0"
-
-**2025-07-10** — merged PR [#336](https://github.com/ZacSweers/redacted-compiler-plugin/pull/336) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update plugin binaryCompatibilityValidator to v0.18.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
