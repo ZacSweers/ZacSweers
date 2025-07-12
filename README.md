@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-11** — merged PR [#698](https://github.com/ZacSweers/metro/pull/698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generating binding functions with names that contain -"
+
 **2025-07-10** — opened PR [#357](https://github.com/ZacSweers/kotlin-compile-testing/pull/357) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.2.20"
 
 **2025-07-10** — merged PR [#356](https://github.com/ZacSweers/kotlin-compile-testing/pull/356) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.90"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — merged PR [#333](https://github.com/ZacSweers/redacted-compiler-plugin/pull/333) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.2.1"
 
 **2025-07-10** — commented on [#561](https://github.com/drewhamilton/Poko/issues/561#issuecomment-3058925329) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2025-07-10** — opened PR [#337](https://github.com/ZacSweers/redacted-compiler-plugin/pull/337) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Prep for Kotlin 2.2.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
