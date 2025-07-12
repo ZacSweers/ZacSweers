@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-11** — commented on [#697](https://github.com/ZacSweers/metro/issues/697#issuecomment-3063731795) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-11** — opened PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers"
-
-**2025-07-11** — merged PR [#699](https://github.com/ZacSweers/metro/pull/699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
