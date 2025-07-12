@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-11** — commented on [#697](https://github.com/ZacSweers/metro/issues/697#issuecomment-3063731795) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — opened PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers"
+
 **2025-07-11** — merged PR [#699](https://github.com/ZacSweers/metro/pull/699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.1"
 
 **2025-07-11** — merged PR [#698](https://github.com/ZacSweers/metro/pull/698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generating binding functions with names that contain -"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — created branch `z/kotlin2220` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
 
 **2025-07-10** — merged PR [#354](https://github.com/ZacSweers/kotlin-compile-testing/pull/354) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.74"
-
-**2025-07-10** — merged PR [#782](https://github.com/ZacSweers/MoshiX/pull/782) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.18.1"
-
-**2025-07-10** — merged PR [#333](https://github.com/ZacSweers/redacted-compiler-plugin/pull/333) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
