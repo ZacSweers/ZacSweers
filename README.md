@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-12** — merged PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
+
+**2025-07-12** — opened PR [#702](https://github.com/ZacSweers/metro/pull/702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checkers for binding containers"
+
+**2025-07-12** — created branch `z/bindingContainerCheckers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-11** — opened PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
 
 **2025-07-11** — created branch `z/removeStack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-11** — opened PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers"
 
 **2025-07-11** — merged PR [#699](https://github.com/ZacSweers/metro/pull/699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.1"
-
-**2025-07-11** — merged PR [#698](https://github.com/ZacSweers/metro/pull/698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generating binding functions with names that contain -"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
