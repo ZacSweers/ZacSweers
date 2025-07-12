@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-11** — opened PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
+
+**2025-07-11** — created branch `z/removeStack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — merged PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers from annotation inclusions"
+
 **2025-07-11** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-3064407195) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-11** — commented on [#697](https://github.com/ZacSweers/metro/issues/697#issuecomment-3063731795) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,14 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-11** — merged PR [#699](https://github.com/ZacSweers/metro/pull/699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.1"
 
 **2025-07-11** — merged PR [#698](https://github.com/ZacSweers/metro/pull/698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generating binding functions with names that contain -"
-
-**2025-07-10** — opened PR [#357](https://github.com/ZacSweers/kotlin-compile-testing/pull/357) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.2.20"
-
-**2025-07-10** — merged PR [#356](https://github.com/ZacSweers/kotlin-compile-testing/pull/356) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.90"
-
-**2025-07-10** — created branch `z/k2220` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
-
-**2025-07-10** — opened PR [#783](https://github.com/ZacSweers/MoshiX/pull/783) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.2.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
