@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-11** — merged PR [#699](https://github.com/ZacSweers/metro/pull/699) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin poko to v0.19.1"
+
 **2025-07-11** — merged PR [#698](https://github.com/ZacSweers/metro/pull/698) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix generating binding functions with names that contain -"
 
 **2025-07-10** — opened PR [#357](https://github.com/ZacSweers/kotlin-compile-testing/pull/357) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Prep for Kotlin 2.2.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — merged PR [#782](https://github.com/ZacSweers/MoshiX/pull/782) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin kotlinBinaryCompatibilityValidator to v0.18.1"
 
 **2025-07-10** — merged PR [#333](https://github.com/ZacSweers/redacted-compiler-plugin/pull/333) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.2.1"
-
-**2025-07-10** — commented on [#561](https://github.com/drewhamilton/Poko/issues/561#issuecomment-3058925329) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
