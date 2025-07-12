@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-11** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-3064407195) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-11** — commented on [#697](https://github.com/ZacSweers/metro/issues/697#issuecomment-3063731795) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-11** — opened PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers"
@@ -19,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-10** — created branch `z/k2220` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 
 **2025-07-10** — opened PR [#783](https://github.com/ZacSweers/MoshiX/pull/783) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Prep for Kotlin 2.2.20"
-
-**2025-07-10** — created branch `z/kotlin2220` on [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX)
-
-**2025-07-10** — merged PR [#354](https://github.com/ZacSweers/kotlin-compile-testing/pull/354) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v251.26927.74"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
