@@ -4,7 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-12** — Could not load GitHub activity. Please check back later.
+**2025-07-12** — merged PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
+
+**2025-07-12** — opened PR [#702](https://github.com/ZacSweers/metro/pull/702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checkers for binding containers"
+
+**2025-07-12** — created branch `z/bindingContainerCheckers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — opened PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
+
+**2025-07-11** — created branch `z/removeStack` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — merged PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers from annotation inclusions"
+
+**2025-07-11** — commented on [#584](https://github.com/ZacSweers/metro/pull/584#issuecomment-3064407195) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — commented on [#697](https://github.com/ZacSweers/metro/issues/697#issuecomment-3063731795) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-11** — opened PR [#700](https://github.com/ZacSweers/metro/pull/700) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate binding containers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
