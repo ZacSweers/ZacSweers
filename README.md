@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-14** — merged PR [#709](https://github.com/ZacSweers/metro/pull/709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Disallow contributed binding container for now""
+
+**2025-07-14** — opened PR [#709](https://github.com/ZacSweers/metro/pull/709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Disallow contributed binding container for now""
+
+**2025-07-14** — created branch `revert-708-z/disallow` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-14** — merged PR [#708](https://github.com/ZacSweers/metro/pull/708) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributed binding container for now"
+
+**2025-07-14** — merged PR [#703](https://github.com/ZacSweers/metro/pull/703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix factory class lookups in IC"
+
+**2025-07-14** — opened PR [#708](https://github.com/ZacSweers/metro/pull/708) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributed binding container for now"
+
+**2025-07-14** — created branch `z/disallow` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-14** — merged PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
 
 **2025-07-14** — closed PR [#655](https://github.com/ZacSweers/metro/pull/655) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repro #644"
 
 **2025-07-14** — opened PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
-
-**2025-07-14** — created branch `z/containerICtests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-13** — merged PR [#706](https://github.com/ZacSweers/metro/pull/706) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run multiplatform tests on main only + macos"
-
-**2025-07-13** — closed issue [#697](https://github.com/ZacSweers/metro/issues/697) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KIA MergeComponent interop does not result in an extendable graph"
-
-**2025-07-13** — merged PR [#705](https://github.com/ZacSweers/metro/pull/705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding containers interop"
-
-**2025-07-13** — opened PR [#706](https://github.com/ZacSweers/metro/pull/706) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run multiplatform tests on main only + macos"
-
-**2025-07-13** — created branch `z/ciCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-13** — opened PR [#705](https://github.com/ZacSweers/metro/pull/705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding containers interop"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
