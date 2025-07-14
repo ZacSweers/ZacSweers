@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-14** — merged PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
+
+**2025-07-14** — closed PR [#655](https://github.com/ZacSweers/metro/pull/655) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repro #644"
+
+**2025-07-14** — opened PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
+
+**2025-07-14** — created branch `z/containerICtests` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-13** — merged PR [#706](https://github.com/ZacSweers/metro/pull/706) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run multiplatform tests on main only + macos"
 
 **2025-07-13** — closed issue [#697](https://github.com/ZacSweers/metro/issues/697) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "KIA MergeComponent interop does not result in an extendable graph"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-13** — created branch `z/ciCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-13** — opened PR [#705](https://github.com/ZacSweers/metro/pull/705) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding containers interop"
-
-**2025-07-13** — created branch `z/moreBContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-13** — opened issue [#704](https://github.com/ZacSweers/metro/issues/704) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for dagger/anvil ContributesSubcomponent.parentScope"
-
-**2025-07-12** — merged PR [#702](https://github.com/ZacSweers/metro/pull/702) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add checkers for binding containers"
-
-**2025-07-12** — merged PR [#701](https://github.com/ZacSweers/metro/pull/701) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better handle empty graphs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
