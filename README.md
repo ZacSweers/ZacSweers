@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-14** — merged PR [#709](https://github.com/ZacSweers/metro/pull/709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Disallow contributed binding container for now""
-
-**2025-07-14** — opened PR [#709](https://github.com/ZacSweers/metro/pull/709) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "Disallow contributed binding container for now""
-
-**2025-07-14** — created branch `revert-708-z/disallow` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — merged PR [#708](https://github.com/ZacSweers/metro/pull/708) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributed binding container for now"
-
-**2025-07-14** — merged PR [#703](https://github.com/ZacSweers/metro/pull/703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix factory class lookups in IC"
-
-**2025-07-14** — opened PR [#708](https://github.com/ZacSweers/metro/pull/708) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributed binding container for now"
-
-**2025-07-14** — created branch `z/disallow` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — merged PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
-
-**2025-07-14** — closed PR [#655](https://github.com/ZacSweers/metro/pull/655) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Repro #644"
-
-**2025-07-14** — opened PR [#707](https://github.com/ZacSweers/metro/pull/707) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add binding container IC tests"
+**2025-07-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
