@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-14** — merged PR [#232](https://github.com/ZacSweers/FieldSpottr/pull/232) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.0"
+
 **2025-07-14** — merged PR [#711](https://github.com/ZacSweers/metro/pull/711) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.34.0"
 
 **2025-07-14** — created tag `0.5.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-14** — created branch `revert-708-z/disallow` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-14** — merged PR [#708](https://github.com/ZacSweers/metro/pull/708) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow contributed binding container for now"
-
-**2025-07-14** — merged PR [#703](https://github.com/ZacSweers/metro/pull/703) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix factory class lookups in IC"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
