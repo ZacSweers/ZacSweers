@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-14** — opened PR [#717](https://github.com/ZacSweers/metro/pull/717) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix package-lock in samples"
+
+**2025-07-14** — opened PR [#716](https://github.com/ZacSweers/metro/pull/716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Chunk field initialization"
+
+**2025-07-14** — created branch `z/samplePackageLocks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-14** — created branch `z/splitInitializers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-14** — created tag `0.10.1` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
 
 **2025-07-14** — merged PR [#404](https://github.com/slackhq/slack-lints/pull/404) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.11.1"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-14** — closed issue [#712](https://github.com/ZacSweers/metro/issues/712) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automatically add GraphExtension.Factory onto the graph"
 
 **2025-07-14** — merged PR [#715](https://github.com/ZacSweers/metro/pull/715) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #712"
-
-**2025-07-14** — opened PR [#715](https://github.com/ZacSweers/metro/pull/715) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #712"
-
-**2025-07-14** — created branch `z/contributedFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — closed issue [#713](https://github.com/ZacSweers/metro/issues/713) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make it clear in the docs that contributing bindings does not work on native targets"
-
-**2025-07-14** — commented on [#355](https://github.com/ZacSweers/metro/issues/355#issuecomment-3070076755) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
