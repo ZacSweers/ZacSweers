@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-14** — merged PR [#718](https://github.com/ZacSweers/metro/pull/718) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various compiler cleanups"
-
-**2025-07-14** — opened PR [#718](https://github.com/ZacSweers/metro/pull/718) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Various compiler cleanup"
-
-**2025-07-14** — created branch `z/cleanups` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — merged PR [#717](https://github.com/ZacSweers/metro/pull/717) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix package-lock in samples"
-
-**2025-07-14** — closed issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
-
-**2025-07-14** — merged PR [#716](https://github.com/ZacSweers/metro/pull/716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Chunk field initialization"
-
-**2025-07-14** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3071320197) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — opened PR [#717](https://github.com/ZacSweers/metro/pull/717) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix package-lock in samples"
-
-**2025-07-14** — opened PR [#716](https://github.com/ZacSweers/metro/pull/716) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Chunk field initialization"
-
-**2025-07-14** — created branch `z/samplePackageLocks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-15** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
