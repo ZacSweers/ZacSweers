@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-14** — closed issue [#712](https://github.com/ZacSweers/metro/issues/712) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Automatically add GraphExtension.Factory onto the graph"
-
-**2025-07-14** — merged PR [#715](https://github.com/ZacSweers/metro/pull/715) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #712"
-
-**2025-07-14** — opened PR [#715](https://github.com/ZacSweers/metro/pull/715) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add regression test for #712"
-
-**2025-07-14** — created branch `z/contributedFactory` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — closed issue [#713](https://github.com/ZacSweers/metro/issues/713) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make it clear in the docs that contributing bindings does not work on native targets"
-
-**2025-07-14** — commented on [#355](https://github.com/ZacSweers/metro/issues/355#issuecomment-3070076755) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-14** — closed issue [#355](https://github.com/ZacSweers/metro/issues/355) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cannot use `@Binds` on private declarations"
-
-**2025-07-14** — merged PR [#232](https://github.com/ZacSweers/FieldSpottr/pull/232) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.0"
-
-**2025-07-14** — merged PR [#711](https://github.com/ZacSweers/metro/pull/711) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin mavenPublish to v0.34.0"
-
-**2025-07-14** — created tag `0.5.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
