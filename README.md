@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-16** — reopened issue [#460](https://github.com/ZacSweers/metro/issues/460) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hint generation is unsupported on non-jvm platforms"
+
+**2025-07-16** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3078729198) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-16** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3078726583) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-16** — reopened issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
+
 **2025-07-16** — closed issue [#721](https://github.com/ZacSweers/metro/issues/721) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No mapping for symbol: VALUE_PARAMETER GENERATED[dev.zacsweers.metro.compiler.fir.Keys.RegularParameter]"
 
 **2025-07-16** — merged PR [#724](https://github.com/ZacSweers/metro/pull/724) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix chunking creator params"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-15** — opened PR [#724](https://github.com/ZacSweers/metro/pull/724) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix chunking creator params"
 
 **2025-07-15** — created branch `z/fixChunking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-15** — closed issue [#460](https://github.com/ZacSweers/metro/issues/460) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hint generation is unsupported on non-jvm platforms"
-
-**2025-07-15** — merged PR [#722](https://github.com/ZacSweers/metro/pull/722) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Implement ContributionHintFirGenerator"
-
-**2025-07-15** — merged PR [#230](https://github.com/ZacSweers/FieldSpottr/pull/230) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.11.1"
-
-**2025-07-15** — merged PR [#231](https://github.com/ZacSweers/FieldSpottr/pull/231) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
