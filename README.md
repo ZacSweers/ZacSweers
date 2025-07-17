@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-16** — merged PR [#468](https://github.com/slackhq/compose-lints/pull/468) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` only for non-Unit returning functions"
+
+**2025-07-16** — merged PR [#481](https://github.com/slackhq/compose-lints/pull/481) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow missing ANDROID_HOME when running tests"
+
 **2025-07-16** — merged PR [#474](https://github.com/slackhq/compose-lints/pull/474) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency livereload to v2.7.1"
 
 **2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079410035) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-16** — merged PR [#473](https://github.com/slackhq/compose-lints/pull/473) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency click to v8.2.1"
 
 **2025-07-16** — merged PR [#479](https://github.com/slackhq/compose-lints/pull/479) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency lunr to v0.8.0"
-
-**2025-07-16** — merged PR [#475](https://github.com/slackhq/compose-lints/pull/475) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.8"
-
-**2025-07-16** — merged PR [#477](https://github.com/slackhq/compose-lints/pull/477) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v7.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
