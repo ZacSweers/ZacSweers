@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-16** — merged PR [#468](https://github.com/slackhq/compose-lints/pull/468) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` only for non-Unit returning functions"
-
-**2025-07-16** — merged PR [#481](https://github.com/slackhq/compose-lints/pull/481) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow missing ANDROID_HOME when running tests"
-
-**2025-07-16** — merged PR [#474](https://github.com/slackhq/compose-lints/pull/474) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency livereload to v2.7.1"
-
-**2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079410035) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079408908) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-07-16** — closed PR [#459](https://github.com/slackhq/compose-lints/pull/459) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Parameter order detector imporvements"
-
-**2025-07-16** — commented on [#459](https://github.com/slackhq/compose-lints/pull/459#issuecomment-3079391819) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-07-16** — merged PR [#727](https://github.com/ZacSweers/metro/pull/727) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in `platformCanGenerateContributionHints`"
-
-**2025-07-16** — merged PR [#473](https://github.com/slackhq/compose-lints/pull/473) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency click to v8.2.1"
-
-**2025-07-16** — merged PR [#479](https://github.com/slackhq/compose-lints/pull/479) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency lunr to v0.8.0"
+**2025-07-17** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
