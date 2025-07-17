@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-16** — merged PR [#234](https://github.com/ZacSweers/FieldSpottr/pull/234) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta04"
+
 **2025-07-16** — commented on [#725](https://github.com/ZacSweers/metro/pull/725#issuecomment-3080025860) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-16** — merged PR [#726](https://github.com/ZacSweers/metro/pull/726) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency io.github.classgraph:classgraph to v4.8.181"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-16** — closed PR [#459](https://github.com/slackhq/compose-lints/pull/459) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Parameter order detector imporvements"
 
 **2025-07-16** — commented on [#459](https://github.com/slackhq/compose-lints/pull/459#issuecomment-3079391819) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-07-16** — merged PR [#727](https://github.com/ZacSweers/metro/pull/727) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in `platformCanGenerateContributionHints`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
