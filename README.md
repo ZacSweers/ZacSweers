@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-16** — Could not load GitHub activity. Please check back later.
+**2025-07-16** — merged PR [#473](https://github.com/slackhq/compose-lints/pull/473) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency click to v8.2.1"
+
+**2025-07-16** — merged PR [#479](https://github.com/slackhq/compose-lints/pull/479) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency lunr to v0.8.0"
+
+**2025-07-16** — merged PR [#475](https://github.com/slackhq/compose-lints/pull/475) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin detekt to v1.23.8"
+
+**2025-07-16** — merged PR [#477](https://github.com/slackhq/compose-lints/pull/477) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin spotless to v7.1.0"
+
+**2025-07-16** — merged PR [#478](https://github.com/slackhq/compose-lints/pull/478) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency com.facebook:ktfmt to v0.56"
+
+**2025-07-16** — merged PR [#461](https://github.com/slackhq/compose-lints/pull/461) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update plugin lint to v8.11.1"
+
+**2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079356259) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+
+**2025-07-16** — reopened PR [#481](https://github.com/slackhq/compose-lints/pull/481) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow missing ANDROID_HOME when running tests"
+
+**2025-07-16** — closed PR [#481](https://github.com/slackhq/compose-lints/pull/481) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow missing ANDROID_HOME when running tests"
+
+**2025-07-16** — reopened issue [#460](https://github.com/ZacSweers/metro/issues/460) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hint generation is unsupported on non-jvm platforms"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
