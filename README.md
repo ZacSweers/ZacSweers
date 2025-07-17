@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-16** — reopened issue [#460](https://github.com/ZacSweers/metro/issues/460) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Hint generation is unsupported on non-jvm platforms"
-
-**2025-07-16** — commented on [#460](https://github.com/ZacSweers/metro/issues/460#issuecomment-3078729198) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-16** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3078726583) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-16** — reopened issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
-
-**2025-07-16** — closed issue [#721](https://github.com/ZacSweers/metro/issues/721) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No mapping for symbol: VALUE_PARAMETER GENERATED[dev.zacsweers.metro.compiler.fir.Keys.RegularParameter]"
-
-**2025-07-16** — merged PR [#724](https://github.com/ZacSweers/metro/pull/724) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix chunking creator params"
-
-**2025-07-16** — opened PR [#725](https://github.com/ZacSweers/metro/pull/725) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle member injection with subtypes with no injection"
-
-**2025-07-16** — created branch `z/emptyMiddleMemberInjects` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-15** — opened PR [#724](https://github.com/ZacSweers/metro/pull/724) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix chunking creator params"
-
-**2025-07-15** — created branch `z/fixChunking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-16** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
