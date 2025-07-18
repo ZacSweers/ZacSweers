@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-17** — Could not load GitHub activity. Please check back later.
+**2025-07-17** — commented on [#43](https://github.com/joshfriend/spotlight/pull/43#issuecomment-3085665920) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
+
+**2025-07-17** — created branch `z/privateFactoryConstructors` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-17** — merged PR [#2014](https://github.com/ZacSweers/CatchUp/pull/2014) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dagger to v2.57"
+
+**2025-07-17** — merged PR [#2015](https://github.com/ZacSweers/CatchUp/pull/2015) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.4.0-alpha01"
+
+**2025-07-17** — merged PR [#2011](https://github.com/ZacSweers/CatchUp/pull/2011) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1"
+
+**2025-07-17** — merged PR [#2013](https://github.com/ZacSweers/CatchUp/pull/2013) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.0-alpha01"
+
+**2025-07-17** — merged PR [#2021](https://github.com/ZacSweers/CatchUp/pull/2021) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.gradle.develocity to v4.1"
+
+**2025-07-17** — merged PR [#2020](https://github.com/ZacSweers/CatchUp/pull/2020) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okhttp monorepo to v5.1.0"
+
+**2025-07-17** — merged PR [#2018](https://github.com/ZacSweers/CatchUp/pull/2018) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.errorprone:error_prone_annotations to v2.40.0"
+
+**2025-07-17** — merged PR [#2017](https://github.com/ZacSweers/CatchUp/pull/2017) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.diffplug.spotless to v7.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
