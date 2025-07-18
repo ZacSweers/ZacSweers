@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-18** — Could not load GitHub activity. Please check back later.
+**2025-07-18** — closed issue [#733](https://github.com/ZacSweers/metro/issues/733) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cannot create a BindingContainer that isn't an interface"
+
+**2025-07-18** — closed issue [#734](https://github.com/ZacSweers/metro/issues/734) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributed BindingContainer from different module doesn't work"
+
+**2025-07-18** — merged PR [#738](https://github.com/ZacSweers/metro/pull/738) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributing binding containers across compilations"
+
+**2025-07-18** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-3086813976) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-18** — opened PR [#738](https://github.com/ZacSweers/metro/pull/738) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributing binding containers across compilations"
+
+**2025-07-18** — created branch `z/fixContainersAcrossModules` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-18** — closed issue [#530](https://github.com/ZacSweers/metro/issues/530) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding replacement doesn't work if bindings live in different modules"
+
+**2025-07-18** — merged PR [#736](https://github.com/ZacSweers/metro/pull/736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Manually resolve replaces in other files"
+
+**2025-07-18** — merged PR [#737](https://github.com/ZacSweers/metro/pull/737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try regenerating package lock again"
+
+**2025-07-18** — opened PR [#737](https://github.com/ZacSweers/metro/pull/737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try regenerating package lock again"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
