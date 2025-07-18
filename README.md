@@ -4,23 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-17** — merged PR [#735](https://github.com/ZacSweers/metro/pull/735) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Mark factory/member injector constructors private"
-
-**2025-07-17** — merged PR [#729](https://github.com/ZacSweers/metro/pull/729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.2"
-
-**2025-07-17** — merged PR [#2019](https://github.com/ZacSweers/CatchUp/pull/2019) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.0"
-
-**2025-07-17** — merged PR [#723](https://github.com/ZacSweers/metro/pull/723) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a new Metro option `warnOnInjectAnnotationPlacement`"
-
-**2025-07-17** — merged PR [#728](https://github.com/ZacSweers/metro/pull/728) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.2"
-
-**2025-07-17** — merged PR [#730](https://github.com/ZacSweers/metro/pull/730) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.navigation:navigation-compose to v2.9.2"
-
-**2025-07-17** — merged PR [#731](https://github.com/ZacSweers/metro/pull/731) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dagger to v2.57"
-
-**2025-07-17** — opened PR [#735](https://github.com/ZacSweers/metro/pull/735) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Mark factory/member injector constructors private"
-
-**2025-07-17** — closed PR [#2022](https://github.com/ZacSweers/CatchUp/pull/2022) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
+**2025-07-18** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
