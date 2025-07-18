@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-17** — opened PR [#43](https://github.com/joshfriend/spotlight/pull/43) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "IDE integration improvements"
-
-**2025-07-17** — created branch `z/ideProjectsUi` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
-
-**2025-07-16** — merged PR [#234](https://github.com/ZacSweers/FieldSpottr/pull/234) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta04"
-
-**2025-07-16** — commented on [#725](https://github.com/ZacSweers/metro/pull/725#issuecomment-3080025860) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-16** — merged PR [#726](https://github.com/ZacSweers/metro/pull/726) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency io.github.classgraph:classgraph to v4.8.181"
-
-**2025-07-16** — merged PR [#468](https://github.com/slackhq/compose-lints/pull/468) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "`ComposeUnstableReceiver` only for non-Unit returning functions"
-
-**2025-07-16** — merged PR [#481](https://github.com/slackhq/compose-lints/pull/481) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Allow missing ANDROID_HOME when running tests"
-
-**2025-07-16** — merged PR [#474](https://github.com/slackhq/compose-lints/pull/474) to [slackhq/compose-lints](https://github.com/slackhq/compose-lints): "Update dependency livereload to v2.7.1"
-
-**2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079410035) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
-
-**2025-07-16** — commented on [#481](https://github.com/slackhq/compose-lints/pull/481#issuecomment-3079408908) in [slackhq/compose-lints](https://github.com/slackhq/compose-lints)
+**2025-07-17** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
