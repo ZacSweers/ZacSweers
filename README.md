@@ -4,7 +4,19 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-18** — Could not load GitHub activity. Please check back later.
+**2025-07-17** — created tag `0.11.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
+
+**2025-07-17** — merged PR [#406](https://github.com/slackhq/slack-lints/pull/406) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha09"
+
+**2025-07-17** — merged PR [#411](https://github.com/slackhq/slack-lints/pull/411) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Register JsonInflaterMoshiCompatibilityDetector with SlackIssueRegistry"
+
+**2025-07-17** — merged PR [#410](https://github.com/slackhq/slack-lints/pull/410) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove AlwaysNullReadOnlyVariableDetector from SlackIssueRegistry"
+
+**2025-07-17** — merged PR [#735](https://github.com/ZacSweers/metro/pull/735) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Mark factory/member injector constructors private"
+
+**2025-07-17** — merged PR [#729](https://github.com/ZacSweers/metro/pull/729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.2"
+
+**2025-07-17** — merged PR [#2019](https://github.com/ZacSweers/CatchUp/pull/2019) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
