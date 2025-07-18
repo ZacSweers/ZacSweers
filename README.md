@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-18** — created branch `z/fixReplaces` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-17** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3086532625) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-17** — commented on [#400](https://github.com/slackhq/slack-lints/issues/400#issuecomment-3086385510) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
