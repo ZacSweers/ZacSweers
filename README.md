@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-18** — opened PR [#738](https://github.com/ZacSweers/metro/pull/738) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributing binding containers across compilations"
+
+**2025-07-18** — created branch `z/fixContainersAcrossModules` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-18** — closed issue [#530](https://github.com/ZacSweers/metro/issues/530) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding replacement doesn't work if bindings live in different modules"
+
+**2025-07-18** — merged PR [#736](https://github.com/ZacSweers/metro/pull/736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Manually resolve replaces in other files"
+
+**2025-07-18** — merged PR [#737](https://github.com/ZacSweers/metro/pull/737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try regenerating package lock again"
+
+**2025-07-18** — opened PR [#737](https://github.com/ZacSweers/metro/pull/737) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Try regenerating package lock again"
+
+**2025-07-18** — created branch `z/packageLock` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-18** — opened PR [#736](https://github.com/ZacSweers/metro/pull/736) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Manually resolve replaces in other files"
+
 **2025-07-18** — created branch `z/fixReplaces` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-17** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3086532625) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-17** — commented on [#400](https://github.com/slackhq/slack-lints/issues/400#issuecomment-3086385510) in [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-07-17** — created tag `0.11.0` on [slackhq/slack-lints](https://github.com/slackhq/slack-lints)
-
-**2025-07-17** — merged PR [#406](https://github.com/slackhq/slack-lints/pull/406) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update lint to v31.12.0-alpha09"
-
-**2025-07-17** — merged PR [#411](https://github.com/slackhq/slack-lints/pull/411) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Register JsonInflaterMoshiCompatibilityDetector with SlackIssueRegistry"
-
-**2025-07-17** — merged PR [#410](https://github.com/slackhq/slack-lints/pull/410) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Remove AlwaysNullReadOnlyVariableDetector from SlackIssueRegistry"
-
-**2025-07-17** — merged PR [#735](https://github.com/ZacSweers/metro/pull/735) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Mark factory/member injector constructors private"
-
-**2025-07-17** — merged PR [#729](https://github.com/ZacSweers/metro/pull/729) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.2"
-
-**2025-07-17** — merged PR [#2019](https://github.com/ZacSweers/CatchUp/pull/2019) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
