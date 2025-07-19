@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-18** — created tag `0.5.1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-18** — merged PR [#740](https://github.com/ZacSweers/metro/pull/740) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Small chunking work"
+
 **2025-07-18** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3089869262) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-18** — merged PR [#1998](https://github.com/ZacSweers/CatchUp/pull/1998) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update slack.lint to v0.11.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-18** — merged PR [#738](https://github.com/ZacSweers/metro/pull/738) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributing binding containers across compilations"
 
 **2025-07-18** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-3086813976) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-18** — opened PR [#738](https://github.com/ZacSweers/metro/pull/738) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix contributing binding containers across compilations"
-
-**2025-07-18** — created branch `z/fixContainersAcrossModules` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
