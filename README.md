@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-19** — merged PR [#2025](https://github.com/ZacSweers/CatchUp/pull/2025) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1.2.3"
+
+**2025-07-19** — merged PR [#2023](https://github.com/ZacSweers/CatchUp/pull/2023) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.9"
+
+**2025-07-19** — merged PR [#2026](https://github.com/ZacSweers/CatchUp/pull/2026) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v1.2.3"
+
 **2025-07-18** — merged PR [#745](https://github.com/ZacSweers/metro/pull/745) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove references to @Multibinding"
 
 **2025-07-18** — closed issue [#747](https://github.com/ZacSweers/metro/issues/747) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Obsolete doc entry that says `@ContributesGraphExtension` is not implemented"
@@ -15,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-18** — merged PR [#741](https://github.com/ZacSweers/metro/pull/741) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fail tests eagerly when compiler plugins report errors"
 
 **2025-07-18** — merged PR [#1458](https://github.com/slackhq/foundry/pull/1458) to [slackhq/foundry](https://github.com/slackhq/foundry): "Stop echo-ing debug logs in CliktFoundryLogger"
-
-**2025-07-18** — created tag `0.5.1` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
