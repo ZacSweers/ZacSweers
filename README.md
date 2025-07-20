@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-19** — merged PR [#235](https://github.com/ZacSweers/FieldSpottr/pull/235) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.1"
+
+**2025-07-19** — commented on [#751](https://github.com/ZacSweers/metro/issues/751#issuecomment-3092703768) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-19** — commented on [#46](https://github.com/joshfriend/spotlight/pull/46#issuecomment-3092695877) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
+
+**2025-07-19** — opened PR [#46](https://github.com/joshfriend/spotlight/pull/46) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Load all recursive projects in IDE + track rules"
+
+**2025-07-19** — created branch `z/recursiveIdeProjects` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+
 **2025-07-19** — commented on [#44](https://github.com/joshfriend/spotlight/pull/44#issuecomment-3092512814) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
 
 **2025-07-19** — opened PR [#45](https://github.com/joshfriend/spotlight/pull/45) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Add runLocalIde helper for local IDE testing"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-19** — opened PR [#44](https://github.com/joshfriend/spotlight/pull/44) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Excludes unused projects in the IDE"
 
 **2025-07-19** — created branch `z/excludeDirs` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
-
-**2025-07-19** — merged PR [#2024](https://github.com/ZacSweers/CatchUp/pull/2024) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.1"
-
-**2025-07-19** — merged PR [#2025](https://github.com/ZacSweers/CatchUp/pull/2025) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1.2.3"
-
-**2025-07-19** — merged PR [#2023](https://github.com/ZacSweers/CatchUp/pull/2023) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency dev.chrisbanes.haze:haze to v1.6.9"
-
-**2025-07-19** — merged PR [#2026](https://github.com/ZacSweers/CatchUp/pull/2026) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v1.2.3"
-
-**2025-07-18** — merged PR [#745](https://github.com/ZacSweers/metro/pull/745) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove references to @Multibinding"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
