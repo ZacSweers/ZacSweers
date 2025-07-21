@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-21** — created tag `0.5.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-21** — closed issue [#765](https://github.com/ZacSweers/metro/issues/765) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash at runtime when using binding containers"
+
+**2025-07-21** — merged PR [#766](https://github.com/ZacSweers/metro/pull/766) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't extend contributed containers in IR"
+
 **2025-07-21** — opened PR [#766](https://github.com/ZacSweers/metro/pull/766) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't extend contributed containers in IR"
 
 **2025-07-21** — created branch `z/fixContributionContainersIr` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095308337) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-20** — commented on [#755](https://github.com/ZacSweers/metro/pull/755#issuecomment-3094818917) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-20** — merged PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
-
-**2025-07-20** — merged PR [#267](https://github.com/ZacSweers/ZacSweers/pull/267) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.1.0"
-
-**2025-07-20** — merged PR [#269](https://github.com/ZacSweers/ZacSweers/pull/269) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
