@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095470923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — opened issue [#760](https://github.com/ZacSweers/metro/issues/760) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making `@Contributes*` annotations implicitly `@Inject`"
-
-**2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095308337) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-20** — commented on [#755](https://github.com/ZacSweers/metro/pull/755#issuecomment-3094818917) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-20** — merged PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
-
-**2025-07-20** — merged PR [#267](https://github.com/ZacSweers/ZacSweers/pull/267) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.1.0"
-
-**2025-07-20** — merged PR [#269](https://github.com/ZacSweers/ZacSweers/pull/269) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.2"
-
-**2025-07-20** — merged PR [#268](https://github.com/ZacSweers/ZacSweers/pull/268) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v7.2.0"
-
-**2025-07-20** — opened PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
-
-**2025-07-20** — created branch `z/moreiOS` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+**2025-07-21** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
