@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-20** — merged PR [#714](https://github.com/ZacSweers/metro/pull/714) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.2"
+**2025-07-20** — commented on [#755](https://github.com/ZacSweers/metro/pull/755#issuecomment-3094818917) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-20** — commented on [#464](https://github.com/ZacSweers/metro/pull/464#issuecomment-3094739728) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-20** — merged PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
 
-**2025-07-20** — closed PR [#464](https://github.com/ZacSweers/metro/pull/464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP improve replaces handling"
+**2025-07-20** — merged PR [#267](https://github.com/ZacSweers/ZacSweers/pull/267) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency com.squareup.okhttp3:okhttp to v5.1.0"
 
-**2025-07-20** — merged PR [#756](https://github.com/ZacSweers/metro/pull/756) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.2.0"
+**2025-07-20** — merged PR [#269](https://github.com/ZacSweers/ZacSweers/pull/269) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.2"
 
-**2025-07-20** — merged PR [#754](https://github.com/ZacSweers/metro/pull/754) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize gradle tests"
+**2025-07-20** — merged PR [#268](https://github.com/ZacSweers/ZacSweers/pull/268) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v7.2.0"
 
-**2025-07-20** — closed issue [#744](https://github.com/ZacSweers/metro/issues/744) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No metadata found for binding container that only declares a multibinding"
+**2025-07-20** — opened PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
 
-**2025-07-20** — commented on [#746](https://github.com/ZacSweers/metro/pull/746#issuecomment-3094728827) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-20** — created branch `z/moreiOS` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
-**2025-07-20** — closed PR [#746](https://github.com/ZacSweers/metro/pull/746) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add failing tests for missing metadata binding container issues"
+**2025-07-20** — commented on [#2200](https://github.com/slackhq/circuit/pull/2200#issuecomment-3094804064) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2025-07-20** — opened PR [#755](https://github.com/ZacSweers/metro/pull/755) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for a multibinds-only container"
+**2025-07-20** — commented on [#561](https://github.com/drewhamilton/Poko/issues/561#issuecomment-3094797569) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
 
-**2025-07-20** — opened PR [#754](https://github.com/ZacSweers/metro/pull/754) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize gradle tests"
+**2025-07-20** — merged PR [#237](https://github.com/ZacSweers/FieldSpottr/pull/237) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
