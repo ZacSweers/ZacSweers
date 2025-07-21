@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-19** — merged PR [#235](https://github.com/ZacSweers/FieldSpottr/pull/235) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.1"
+**2025-07-20** — merged PR [#714](https://github.com/ZacSweers/metro/pull/714) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update ktor monorepo to v3.2.2"
 
-**2025-07-19** — commented on [#751](https://github.com/ZacSweers/metro/issues/751#issuecomment-3092703768) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-20** — commented on [#464](https://github.com/ZacSweers/metro/pull/464#issuecomment-3094739728) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-19** — commented on [#46](https://github.com/joshfriend/spotlight/pull/46#issuecomment-3092695877) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
+**2025-07-20** — closed PR [#464](https://github.com/ZacSweers/metro/pull/464) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP improve replaces handling"
 
-**2025-07-19** — opened PR [#46](https://github.com/joshfriend/spotlight/pull/46) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Load all recursive projects in IDE + track rules"
+**2025-07-20** — merged PR [#756](https://github.com/ZacSweers/metro/pull/756) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin spotless to v7.2.0"
 
-**2025-07-19** — created branch `z/recursiveIdeProjects` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+**2025-07-20** — merged PR [#754](https://github.com/ZacSweers/metro/pull/754) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize gradle tests"
 
-**2025-07-19** — commented on [#44](https://github.com/joshfriend/spotlight/pull/44#issuecomment-3092512814) in [joshfriend/spotlight](https://github.com/joshfriend/spotlight)
+**2025-07-20** — closed issue [#744](https://github.com/ZacSweers/metro/issues/744) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No metadata found for binding container that only declares a multibinding"
 
-**2025-07-19** — opened PR [#45](https://github.com/joshfriend/spotlight/pull/45) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Add runLocalIde helper for local IDE testing"
+**2025-07-20** — commented on [#746](https://github.com/ZacSweers/metro/pull/746#issuecomment-3094728827) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-19** — created branch `z/localTesting` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+**2025-07-20** — closed PR [#746](https://github.com/ZacSweers/metro/pull/746) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add failing tests for missing metadata binding container issues"
 
-**2025-07-19** — opened PR [#44](https://github.com/joshfriend/spotlight/pull/44) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Excludes unused projects in the IDE"
+**2025-07-20** — opened PR [#755](https://github.com/ZacSweers/metro/pull/755) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a test for a multibinds-only container"
 
-**2025-07-19** — created branch `z/excludeDirs` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+**2025-07-20** — opened PR [#754](https://github.com/ZacSweers/metro/pull/754) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Parallelize gradle tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
