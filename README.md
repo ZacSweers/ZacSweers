@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-21** — opened issue [#760](https://github.com/ZacSweers/metro/issues/760) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making `@Contributes*` annotations implicitly `@Inject`"
+
+**2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095308337) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-20** — commented on [#755](https://github.com/ZacSweers/metro/pull/755#issuecomment-3094818917) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-20** — merged PR [#239](https://github.com/ZacSweers/FieldSpottr/pull/239) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "More iOS fixes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-20** — created branch `z/moreiOS` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-07-20** — commented on [#2200](https://github.com/slackhq/circuit/pull/2200#issuecomment-3094804064) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-07-20** — commented on [#561](https://github.com/drewhamilton/Poko/issues/561#issuecomment-3094797569) in [drewhamilton/Poko](https://github.com/drewhamilton/Poko)
-
-**2025-07-20** — merged PR [#237](https://github.com/ZacSweers/FieldSpottr/pull/237) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Various updates"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
