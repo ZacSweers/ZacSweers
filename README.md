@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-21** — closed issue [#663](https://github.com/ZacSweers/metro/issues/663) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unused scoped classes with missing dependency bindings result in missing binding errors when the associated graph is extendable"
+
+**2025-07-21** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3097685141) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-21** — commented on [#764](https://github.com/ZacSweers/metro/issues/764#issuecomment-3097667070) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-21** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3097662591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-21** — created tag `0.5.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-21** — closed issue [#765](https://github.com/ZacSweers/metro/issues/765) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash at runtime when using binding containers"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — created branch `z/fixContributionContainersIr` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-21** — merged PR [#763](https://github.com/ZacSweers/metro/pull/763) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update junit-framework monorepo to v5.13.4"
-
-**2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095470923) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — opened issue [#760](https://github.com/ZacSweers/metro/issues/760) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consider making `@Contributes*` annotations implicitly `@Inject`"
-
-**2025-07-21** — commented on [#759](https://github.com/ZacSweers/metro/issues/759#issuecomment-3095308337) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-20** — commented on [#755](https://github.com/ZacSweers/metro/pull/755#issuecomment-3094818917) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
