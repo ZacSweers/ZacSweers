@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-21** — merged PR [#240](https://github.com/ZacSweers/FieldSpottr/pull/240) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.2"
+
 **2025-07-21** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3098263287) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-21** — reopened issue [#767](https://github.com/ZacSweers/metro/issues/767) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couldn't programmatically inject child graph. No matching included type instance found for type AppGraph"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3097662591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-21** — created tag `0.5.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — closed issue [#765](https://github.com/ZacSweers/metro/issues/765) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash at runtime when using binding containers"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
