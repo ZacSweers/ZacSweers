@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-21** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3098263287) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-21** — reopened issue [#767](https://github.com/ZacSweers/metro/issues/767) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couldn't programmatically inject child graph. No matching included type instance found for type AppGraph"
+
+**2025-07-21** — closed PR [#633](https://github.com/ZacSweers/metro/pull/633) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.android.settings to v8.11.1"
+
 **2025-07-21** — merged PR [#2032](https://github.com/ZacSweers/CatchUp/pull/2032) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.2"
 
 **2025-07-21** — closed issue [#663](https://github.com/ZacSweers/metro/issues/663) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unused scoped classes with missing dependency bindings result in missing binding errors when the associated graph is extendable"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — created tag `0.5.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-21** — closed issue [#765](https://github.com/ZacSweers/metro/issues/765) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Crash at runtime when using binding containers"
-
-**2025-07-21** — merged PR [#766](https://github.com/ZacSweers/metro/pull/766) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't extend contributed containers in IR"
-
-**2025-07-21** — opened PR [#766](https://github.com/ZacSweers/metro/pull/766) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't extend contributed containers in IR"
-
-**2025-07-21** — created branch `z/fixContributionContainersIr` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
