@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-23** — commented on [#775](https://github.com/ZacSweers/metro/pull/775#issuecomment-3109428933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-23** — opened issue [#1540](https://github.com/GradleUp/shadow/issues/1540) on [GradleUp/shadow](https://github.com/GradleUp/shadow): "Relocation appears to have broken in 9.0-rc2"
+
 **2025-07-23** — commented on [#2204](https://github.com/slackhq/circuit/issues/2204#issuecomment-3108902251) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-07-21** — merged PR [#240](https://github.com/ZacSweers/FieldSpottr/pull/240) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.2"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — closed issue [#663](https://github.com/ZacSweers/metro/issues/663) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unused scoped classes with missing dependency bindings result in missing binding errors when the associated graph is extendable"
 
 **2025-07-21** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3097685141) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — commented on [#764](https://github.com/ZacSweers/metro/issues/764#issuecomment-3097667070) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — commented on [#663](https://github.com/ZacSweers/metro/issues/663#issuecomment-3097662591) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
