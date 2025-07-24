@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-23** — opened PR [#777](https://github.com/ZacSweers/metro/pull/777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc updates"
+
+**2025-07-23** — created branch `z/docUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-23** — commented on [#2204](https://github.com/slackhq/circuit/issues/2204#issuecomment-3109554302) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-07-23** — closed issue [#2204](https://github.com/slackhq/circuit/issues/2204) on [slackhq/circuit](https://github.com/slackhq/circuit): "Lint error as Presenter uses flow.map()"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-21** — merged PR [#240](https://github.com/ZacSweers/FieldSpottr/pull/240) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.2"
 
 **2025-07-21** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3098263287) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-21** — reopened issue [#767](https://github.com/ZacSweers/metro/issues/767) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couldn't programmatically inject child graph. No matching included type instance found for type AppGraph"
-
-**2025-07-21** — closed PR [#633](https://github.com/ZacSweers/metro/pull/633) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update plugin com.android.settings to v8.11.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
