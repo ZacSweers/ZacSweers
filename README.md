@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-25** — commented on [#796](https://github.com/ZacSweers/metro/pull/796#issuecomment-3116334341) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-25** — merged PR [#796](https://github.com/ZacSweers/metro/pull/796) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[ADDED] Metro docs site custom 404 page support"
+
 **2025-07-23** — commented on [#1471](https://github.com/slackhq/foundry/pull/1471#issuecomment-3110422022) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-07-23** — merged PR [#777](https://github.com/ZacSweers/metro/pull/777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc updates"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-23** — commented on [#33525](https://github.com/gradle/gradle/issues/33525#issuecomment-3109528623) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-07-23** — commented on [#775](https://github.com/ZacSweers/metro/pull/775#issuecomment-3109428933) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-23** — opened issue [#1540](https://github.com/GradleUp/shadow/issues/1540) on [GradleUp/shadow](https://github.com/GradleUp/shadow): "Relocation appears to have broken in 9.0-rc2"
-
-**2025-07-23** — commented on [#2204](https://github.com/slackhq/circuit/issues/2204#issuecomment-3108902251) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
