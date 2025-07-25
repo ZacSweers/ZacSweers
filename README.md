@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-25** — merged PR [#762](https://github.com/ZacSweers/metro/pull/762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an assisted injection sample to compose-navigation-app"
-
-**2025-07-25** — commented on [#794](https://github.com/ZacSweers/metro/issues/794#issuecomment-3118340429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-25** — closed issue [#794](https://github.com/ZacSweers/metro/issues/794) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Github pages docs site 404 for API docs link"
-
-**2025-07-25** — closed PR [#785](https://github.com/ZacSweers/metro/pull/785) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mathjs to v11.12.0"
-
-**2025-07-25** — closed PR [#784](https://github.com/ZacSweers/metro/pull/784) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency vue to v2.7.16"
-
-**2025-07-25** — closed PR [#788](https://github.com/ZacSweers/metro/pull/788) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency chart.js to v4"
-
-**2025-07-25** — closed PR [#795](https://github.com/ZacSweers/metro/pull/795) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency vue to v3"
-
-**2025-07-25** — closed PR [#793](https://github.com/ZacSweers/metro/pull/793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency twitter-bootstrap to v5"
-
-**2025-07-25** — closed PR [#792](https://github.com/ZacSweers/metro/pull/792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mathjs to v14"
-
-**2025-07-25** — closed issue [#742](https://github.com/ZacSweers/metro/issues/742) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metadata is not generated for graphs that only has `@Multibinds`"
+**2025-07-25** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
