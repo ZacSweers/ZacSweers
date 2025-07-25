@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-25** — merged PR [#762](https://github.com/ZacSweers/metro/pull/762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an assisted injection sample to compose-navigation-app"
+
 **2025-07-25** — commented on [#794](https://github.com/ZacSweers/metro/issues/794#issuecomment-3118340429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-25** — closed issue [#794](https://github.com/ZacSweers/metro/issues/794) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Github pages docs site 404 for API docs link"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-25** — closed PR [#792](https://github.com/ZacSweers/metro/pull/792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mathjs to v14"
 
 **2025-07-25** — closed issue [#742](https://github.com/ZacSweers/metro/issues/742) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metadata is not generated for graphs that only has `@Multibinds`"
-
-**2025-07-25** — closed issue [#743](https://github.com/ZacSweers/metro/issues/743) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No metadata found for no-op binding container"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
