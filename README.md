@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-25** — commented on [#1540](https://github.com/GradleUp/shadow/issues/1540#issuecomment-3117760340) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
+**2025-07-25** — commented on [#794](https://github.com/ZacSweers/metro/issues/794#issuecomment-3118340429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-25** — commented on [#796](https://github.com/ZacSweers/metro/pull/796#issuecomment-3116334341) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-25** — closed issue [#794](https://github.com/ZacSweers/metro/issues/794) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Github pages docs site 404 for API docs link"
 
-**2025-07-25** — merged PR [#796](https://github.com/ZacSweers/metro/pull/796) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[ADDED] Metro docs site custom 404 page support"
+**2025-07-25** — closed PR [#785](https://github.com/ZacSweers/metro/pull/785) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mathjs to v11.12.0"
 
-**2025-07-23** — commented on [#1471](https://github.com/slackhq/foundry/pull/1471#issuecomment-3110422022) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-07-25** — closed PR [#784](https://github.com/ZacSweers/metro/pull/784) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency vue to v2.7.16"
 
-**2025-07-23** — merged PR [#777](https://github.com/ZacSweers/metro/pull/777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc updates"
+**2025-07-25** — closed PR [#788](https://github.com/ZacSweers/metro/pull/788) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency chart.js to v4"
 
-**2025-07-23** — opened PR [#777](https://github.com/ZacSweers/metro/pull/777) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Doc updates"
+**2025-07-25** — closed PR [#795](https://github.com/ZacSweers/metro/pull/795) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency vue to v3"
 
-**2025-07-23** — created branch `z/docUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-25** — closed PR [#793](https://github.com/ZacSweers/metro/pull/793) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency twitter-bootstrap to v5"
 
-**2025-07-23** — commented on [#2204](https://github.com/slackhq/circuit/issues/2204#issuecomment-3109554302) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-07-25** — closed PR [#792](https://github.com/ZacSweers/metro/pull/792) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mathjs to v14"
 
-**2025-07-23** — closed issue [#2204](https://github.com/slackhq/circuit/issues/2204) on [slackhq/circuit](https://github.com/slackhq/circuit): "Lint error as Presenter uses flow.map()"
+**2025-07-25** — closed issue [#742](https://github.com/ZacSweers/metro/issues/742) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metadata is not generated for graphs that only has `@Multibinds`"
 
-**2025-07-23** — commented on [#33525](https://github.com/gradle/gradle/issues/33525#issuecomment-3109528623) in [gradle/gradle](https://github.com/gradle/gradle)
+**2025-07-25** — closed issue [#743](https://github.com/ZacSweers/metro/issues/743) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "No metadata found for no-op binding container"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
