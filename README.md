@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-25** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3121040023) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-25** — commented on [#773](https://github.com/ZacSweers/metro/issues/773#issuecomment-3120447887) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-25** — commented on [#773](https://github.com/ZacSweers/metro/issues/773#issuecomment-3119921804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-25** — created branch `z/disambiguateNullableBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-25** — merged PR [#762](https://github.com/ZacSweers/metro/pull/762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an assisted injection sample to compose-navigation-app"
-
-**2025-07-25** — commented on [#794](https://github.com/ZacSweers/metro/issues/794#issuecomment-3118340429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
