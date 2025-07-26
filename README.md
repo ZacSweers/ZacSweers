@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-25** — Could not load GitHub activity. Please check back later.
+**2025-07-25** — commented on [#773](https://github.com/ZacSweers/metro/issues/773#issuecomment-3119921804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-25** — closed issue [#779](https://github.com/ZacSweers/metro/issues/779) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cannot bind the same type twice with different nullability"
+
+**2025-07-25** — merged PR [#799](https://github.com/ZacSweers/metro/pull/799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nullable binds"
+
+**2025-07-25** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3119864300) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-25** — closed issue [#767](https://github.com/ZacSweers/metro/issues/767) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couldn't programmatically inject child graph. No matching included type instance found for type AppGraph"
+
+**2025-07-25** — opened PR [#799](https://github.com/ZacSweers/metro/pull/799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nullable binds"
+
+**2025-07-25** — created branch `z/disambiguateNullableBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-25** — merged PR [#762](https://github.com/ZacSweers/metro/pull/762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an assisted injection sample to compose-navigation-app"
+
+**2025-07-25** — commented on [#794](https://github.com/ZacSweers/metro/issues/794#issuecomment-3118340429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-25** — closed issue [#794](https://github.com/ZacSweers/metro/issues/794) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Github pages docs site 404 for API docs link"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
