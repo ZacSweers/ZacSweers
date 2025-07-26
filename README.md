@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-25** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3121040023) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — closed issue [#801](https://github.com/ZacSweers/metro/issues/801) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transitive @Includes fail"
 
-**2025-07-25** — commented on [#773](https://github.com/ZacSweers/metro/issues/773#issuecomment-3120447887) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — merged PR [#804](https://github.com/ZacSweers/metro/pull/804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix how includes dependencies transit multi-level graph dependencies"
 
-**2025-07-25** — commented on [#773](https://github.com/ZacSweers/metro/issues/773#issuecomment-3119921804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3121303843) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-25** — closed issue [#779](https://github.com/ZacSweers/metro/issues/779) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Cannot bind the same type twice with different nullability"
+**2025-07-26** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3121301273) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-25** — merged PR [#799](https://github.com/ZacSweers/metro/pull/799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nullable binds"
+**2025-07-26** — closed issue [#802](https://github.com/ZacSweers/metro/issues/802) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Illegal class file: X must extend class java.lang.Object."
 
-**2025-07-25** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3119864300) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — opened PR [#804](https://github.com/ZacSweers/metro/pull/804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix how includes dependencies transit multi-level graph dependencies"
 
-**2025-07-25** — closed issue [#767](https://github.com/ZacSweers/metro/issues/767) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Couldn't programmatically inject child graph. No matching included type instance found for type AppGraph"
+**2025-07-26** — created branch `z/fixIncludes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-25** — opened PR [#799](https://github.com/ZacSweers/metro/pull/799) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disambiguate nullable binds"
+**2025-07-26** — closed issue [#773](https://github.com/ZacSweers/metro/issues/773) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "FR: Allow graph companion objects to implement the enclosing graph interface"
 
-**2025-07-25** — created branch `z/disambiguateNullableBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — merged PR [#803](https://github.com/ZacSweers/metro/pull/803) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support graph companion objects implementing the graph"
 
-**2025-07-25** — merged PR [#762](https://github.com/ZacSweers/metro/pull/762) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an assisted injection sample to compose-navigation-app"
+**2025-07-26** — opened PR [#803](https://github.com/ZacSweers/metro/pull/803) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support graph companion objects implementing the graph"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
