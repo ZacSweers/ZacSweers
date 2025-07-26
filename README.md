@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-26** — Could not load GitHub activity. Please check back later.
+**2025-07-26** — merged PR [#812](https://github.com/ZacSweers/metro/pull/812) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Predeclare spotless deps"
+
+**2025-07-26** — opened PR [#812](https://github.com/ZacSweers/metro/pull/812) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Predeclare spotless deps"
+
+**2025-07-26** — created branch `z/predeclareFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-26** — opened PR [#811](https://github.com/ZacSweers/metro/pull/811) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit asContribution() usage to just graphs + fixes"
+
+**2025-07-26** — merged PR [#805](https://github.com/ZacSweers/metro/pull/805) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin testkit to v0.14"
+
+**2025-07-26** — merged PR [#810](https://github.com/ZacSweers/metro/pull/810) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.16"
+
+**2025-07-26** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3122436848) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-26** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3122390879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-26** — created branch `z/limitAsContribution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-26** — merged PR [#809](https://github.com/ZacSweers/metro/pull/809) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unify FIR and IR diagnostic tests"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
