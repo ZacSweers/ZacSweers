@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-26** — merged PR [#805](https://github.com/ZacSweers/metro/pull/805) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin testkit to v0.14"
-
-**2025-07-26** — merged PR [#810](https://github.com/ZacSweers/metro/pull/810) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.16"
-
-**2025-07-26** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3122436848) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3122390879) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — created branch `z/limitAsContribution` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — merged PR [#809](https://github.com/ZacSweers/metro/pull/809) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Unify FIR and IR diagnostic tests"
-
-**2025-07-26** — commented on [#774](https://github.com/ZacSweers/metro/issues/774#issuecomment-3121334630) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — closed issue [#801](https://github.com/ZacSweers/metro/issues/801) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Transitive @Includes fail"
-
-**2025-07-26** — merged PR [#804](https://github.com/ZacSweers/metro/pull/804) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix how includes dependencies transit multi-level graph dependencies"
-
-**2025-07-26** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3121303843) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
