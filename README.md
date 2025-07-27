@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-27** — closed issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
+
+**2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3124785585) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-27** — closed PR [#775](https://github.com/ZacSweers/metro/pull/775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc2"
 
 **2025-07-27** — merged PR [#819](https://github.com/ZacSweers/metro/pull/819) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chrore: docs site color config cleanup"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — merged PR [#817](https://github.com/ZacSweers/metro/pull/817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "enhancement: Added social share card support for the mkdocs site"
 
 **2025-07-27** — commented on [#789](https://github.com/ZacSweers/metro/pull/789#issuecomment-3124567217) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — closed PR [#789](https://github.com/ZacSweers/metro/pull/789) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazy provider test"
-
-**2025-07-27** — closed issue [#786](https://github.com/ZacSweers/metro/issues/786) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazy bindings crash with NPE at runtime in 0.5.1+"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
