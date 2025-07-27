@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-27** — created branch `z/anotherChunkingFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-27** — merged PR [#817](https://github.com/ZacSweers/metro/pull/817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "enhancement: Added social share card support for the mkdocs site"
+
+**2025-07-27** — commented on [#789](https://github.com/ZacSweers/metro/pull/789#issuecomment-3124567217) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-27** — closed PR [#789](https://github.com/ZacSweers/metro/pull/789) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazy provider test"
+
 **2025-07-27** — closed issue [#786](https://github.com/ZacSweers/metro/issues/786) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazy bindings crash with NPE at runtime in 0.5.1+"
 
 **2025-07-27** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3124429576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — opened PR [#815](https://github.com/ZacSweers/metro/pull/815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow contributions from friend paths"
 
 **2025-07-27** — created branch `z/associatedCompilations` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — commented on [#651](https://github.com/ZacSweers/metro/issues/651#issuecomment-3124002758) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — merged PR [#761](https://github.com/ZacSweers/metro/pull/761) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Sort soft edges before hard edges within (valid) cycles"
-
-**2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3123962770) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3123961855) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
