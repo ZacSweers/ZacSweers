@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-27** — closed issue [#786](https://github.com/ZacSweers/metro/issues/786) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lazy bindings crash with NPE at runtime in 0.5.1+"
+
+**2025-07-27** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3124429576) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-27** — closed issue [#694](https://github.com/ZacSweers/metro/issues/694) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Contributions from main source sets should be visible to associated compilations (i.e. tests)"
 
 **2025-07-27** — merged PR [#815](https://github.com/ZacSweers/metro/pull/815) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow contributions from friend paths"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3123962770) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-27** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3123961855) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — commented on [#786](https://github.com/ZacSweers/metro/issues/786#issuecomment-3123836515) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-26** — commented on [#761](https://github.com/ZacSweers/metro/pull/761#issuecomment-3123733511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
