@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-26** — opened PR [#48](https://github.com/joshfriend/spotlight/pull/48) to [joshfriend/spotlight](https://github.com/joshfriend/spotlight): "Support glob patterns in ide-projects.txt"
+**2025-07-26** — commented on [#761](https://github.com/ZacSweers/metro/pull/761#issuecomment-3123733511) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-26** — created branch `z/globs` on [ZacSweers/spotlight](https://github.com/ZacSweers/spotlight)
+**2025-07-26** — commented on [#761](https://github.com/ZacSweers/metro/pull/761#issuecomment-3123729469) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-26** — closed issue [#774](https://github.com/ZacSweers/metro/issues/774) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`asContribution()` cannot see merged interfaces of contributed graph extensions"
+**2025-07-26** — closed issue [#776](https://github.com/ZacSweers/metro/issues/776) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "`@ContributesBinding` not working correctly together with `@ContributesGraphExtension`"
 
-**2025-07-26** — merged PR [#811](https://github.com/ZacSweers/metro/pull/811) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit asContribution() usage to just graphs + fixes"
+**2025-07-26** — merged PR [#814](https://github.com/ZacSweers/metro/pull/814) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a regression test for #776"
 
-**2025-07-26** — commented on [#764](https://github.com/ZacSweers/metro/issues/764#issuecomment-3123620924) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — commented on [#776](https://github.com/ZacSweers/metro/issues/776#issuecomment-3123723334) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-26** — merged PR [#812](https://github.com/ZacSweers/metro/pull/812) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Predeclare spotless deps"
+**2025-07-26** — opened PR [#814](https://github.com/ZacSweers/metro/pull/814) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a regression test for #776"
 
-**2025-07-26** — opened PR [#812](https://github.com/ZacSweers/metro/pull/812) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Predeclare spotless deps"
+**2025-07-26** — created branch `z/anotherTest` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-26** — created branch `z/predeclareFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-26** — closed issue [#808](https://github.com/ZacSweers/metro/issues/808) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Computed properties @Provides @IntoSet triggers DuplicateBinding error with multi-module"
 
-**2025-07-26** — opened PR [#811](https://github.com/ZacSweers/metro/pull/811) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Limit asContribution() usage to just graphs + fixes"
+**2025-07-26** — closed issue [#807](https://github.com/ZacSweers/metro/issues/807) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@Named @IntoSet fails with computed property when annotation target absent"
 
-**2025-07-26** — merged PR [#805](https://github.com/ZacSweers/metro/pull/805) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin testkit to v0.14"
+**2025-07-26** — merged PR [#813](https://github.com/ZacSweers/metro/pull/813) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Propagate MetroAnnotations to mirror function gen in factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
