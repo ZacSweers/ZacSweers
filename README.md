@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-27** — commented on [#304](https://github.com/Kotlin/binary-compatibility-validator/issues/304#issuecomment-3124812283) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
+
+**2025-07-27** — commented on [#781](https://github.com/ZacSweers/metro/issues/781#issuecomment-3124801094) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-27** — closed issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
 
 **2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3124785585) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — opened PR [#818](https://github.com/ZacSweers/metro/pull/818) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix receivers for delegatefactory fields in chunking"
 
 **2025-07-27** — created branch `z/anotherChunkingFix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — merged PR [#817](https://github.com/ZacSweers/metro/pull/817) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "enhancement: Added social share card support for the mkdocs site"
-
-**2025-07-27** — commented on [#789](https://github.com/ZacSweers/metro/pull/789#issuecomment-3124567217) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
