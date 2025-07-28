@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-27** — commented on [#820](https://github.com/ZacSweers/metro/issues/820#issuecomment-3125277603) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-27** — closed issue [#685](https://github.com/ZacSweers/metro/issues/685) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjector not generated for class without direct @Inject parameters"
 
 **2025-07-27** — merged PR [#725](https://github.com/ZacSweers/metro/pull/725) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle member injection with subtypes with no injection"
@@ -13,16 +15,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — commented on [#304](https://github.com/Kotlin/binary-compatibility-validator/issues/304#issuecomment-3124812283) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
 
 **2025-07-27** — commented on [#781](https://github.com/ZacSweers/metro/issues/781#issuecomment-3124801094) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — closed issue [#645](https://github.com/ZacSweers/metro/issues/645) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Split initializers across multiple init functions to avoid `MethodTooLargeException` in large graphs"
-
-**2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3124785585) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — closed PR [#775](https://github.com/ZacSweers/metro/pull/775) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc2"
-
-**2025-07-27** — merged PR [#819](https://github.com/ZacSweers/metro/pull/819) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chrore: docs site color config cleanup"
-
-**2025-07-27** — commented on [#645](https://github.com/ZacSweers/metro/issues/645#issuecomment-3124658616) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
