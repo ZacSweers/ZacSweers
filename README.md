@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-29** — merged PR [#2040](https://github.com/ZacSweers/CatchUp/pull/2040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.3"
+
+**2025-07-29** — merged PR [#241](https://github.com/ZacSweers/FieldSpottr/pull/241) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.3"
+
+**2025-07-29** — merged PR [#270](https://github.com/ZacSweers/ZacSweers/pull/270) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v7.2.1"
+
+**2025-07-29** — merged PR [#271](https://github.com/ZacSweers/ZacSweers/pull/271) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update xmlutil to v0.91.2"
+
+**2025-07-29** — merged PR [#272](https://github.com/ZacSweers/ZacSweers/pull/272) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.2.3"
+
 **2025-07-28** — closed issue [#802](https://github.com/ZacSweers/metro/issues/802) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Illegal class file: X must extend class java.lang.Object."
 
 **2025-07-28** — merged PR [#825](https://github.com/ZacSweers/metro/pull/825) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure binding container annotations are readable in contribution gen"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-28** — closed issue [#824](https://github.com/ZacSweers/metro/issues/824) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesGraphExtension "asContribution" type ChildGraph.Factory is not merged supertype of "ParentGraph""
 
 **2025-07-28** — opened PR [#825](https://github.com/ZacSweers/metro/pull/825) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure binding container annotations are readable in contribution gen"
-
-**2025-07-28** — created branch `z/fix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-28** — reopened issue [#802](https://github.com/ZacSweers/metro/issues/802) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Illegal class file: X must extend class java.lang.Object."
-
-**2025-07-28** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3127882903) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — commented on [#820](https://github.com/ZacSweers/metro/issues/820#issuecomment-3125277603) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-27** — closed issue [#685](https://github.com/ZacSweers/metro/issues/685) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjector not generated for class without direct @Inject parameters"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
