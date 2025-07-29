@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-28** — opened PR [#825](https://github.com/ZacSweers/metro/pull/825) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure binding container annotations are readable in contribution gen"
+
+**2025-07-28** — created branch `z/fix` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-28** — reopened issue [#802](https://github.com/ZacSweers/metro/issues/802) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Illegal class file: X must extend class java.lang.Object."
+
+**2025-07-28** — commented on [#802](https://github.com/ZacSweers/metro/issues/802#issuecomment-3127882903) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-27** — commented on [#820](https://github.com/ZacSweers/metro/issues/820#issuecomment-3125277603) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-27** — closed issue [#685](https://github.com/ZacSweers/metro/issues/685) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "MembersInjector not generated for class without direct @Inject parameters"
@@ -13,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-27** — closed issue [#649](https://github.com/ZacSweers/metro/issues/649) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Inheritance and Member Injection"
 
 **2025-07-27** — commented on [#304](https://github.com/Kotlin/binary-compatibility-validator/issues/304#issuecomment-3124812283) in [Kotlin/binary-compatibility-validator](https://github.com/Kotlin/binary-compatibility-validator)
-
-**2025-07-27** — commented on [#781](https://github.com/ZacSweers/metro/issues/781#issuecomment-3124801094) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
