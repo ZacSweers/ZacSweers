@@ -4,17 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-29** — merged PR [#2041](https://github.com/ZacSweers/CatchUp/pull/2041) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update okio to v3.16.0"
+**2025-07-29** — commented on [#833](https://github.com/ZacSweers/metro/issues/833#issuecomment-3134741751) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — merged PR [#839](https://github.com/ZacSweers/metro/pull/839) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update okio to v3.16.0"
+**2025-07-29** — opened PR [#844](https://github.com/ZacSweers/metro/pull/844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a private generic constructor test"
 
-**2025-07-29** — merged PR [#243](https://github.com/ZacSweers/FieldSpottr/pull/243) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.squareup.okio:okio to v3.16.0"
+**2025-07-29** — created branch `z/privateConstructorGeneric` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — merged PR [#242](https://github.com/ZacSweers/FieldSpottr/pull/242) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.3"
+**2025-07-29** — commented on [#833](https://github.com/ZacSweers/metro/issues/833#issuecomment-3134733956) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — merged PR [#2040](https://github.com/ZacSweers/CatchUp/pull/2040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.3"
+**2025-07-29** — closed issue [#821](https://github.com/ZacSweers/metro/issues/821) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support properties for `@ElementsIntoSet`"
 
-**2025-07-29** — merged PR [#241](https://github.com/ZacSweers/FieldSpottr/pull/241) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.3"
+**2025-07-29** — merged PR [#843](https://github.com/ZacSweers/metro/pull/843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ElementsIntoSet` on properties"
+
+**2025-07-29** — opened PR [#843](https://github.com/ZacSweers/metro/pull/843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ElementsIntoSet` on properties"
+
+**2025-07-29** — created branch `z/elementsIntoSetOnProperty` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-29** — commented on [#838](https://github.com/ZacSweers/metro/issues/838#issuecomment-3134683551) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-29** — merged PR [#842](https://github.com/ZacSweers/metro/pull/842) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use rawStatus for override check"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
