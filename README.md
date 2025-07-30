@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-29** — commented on [#833](https://github.com/ZacSweers/metro/issues/833#issuecomment-3134741751) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-30** — merged PR [#847](https://github.com/ZacSweers/metro/pull/847) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency cairosvg to v2.8.2"
 
-**2025-07-29** — opened PR [#844](https://github.com/ZacSweers/metro/pull/844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a private generic constructor test"
+**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134826936) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — created branch `z/privateConstructorGeneric` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134826119) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — commented on [#833](https://github.com/ZacSweers/metro/issues/833#issuecomment-3134733956) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-30** — merged PR [#846](https://github.com/ZacSweers/metro/pull/846) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run FIR extensions on Java sources"
 
-**2025-07-29** — closed issue [#821](https://github.com/ZacSweers/metro/issues/821) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support properties for `@ElementsIntoSet`"
+**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134820726) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — merged PR [#843](https://github.com/ZacSweers/metro/pull/843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ElementsIntoSet` on properties"
+**2025-07-30** — merged PR [#848](https://github.com/ZacSweers/metro/pull/848) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency pillow to v11"
 
-**2025-07-29** — opened PR [#843](https://github.com/ZacSweers/metro/pull/843) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow `@ElementsIntoSet` on properties"
+**2025-07-30** — merged PR [#845](https://github.com/ZacSweers/metro/pull/845) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: Mkdocs python requirement for build and deployment"
 
-**2025-07-29** — created branch `z/elementsIntoSetOnProperty` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-30** — opened PR [#846](https://github.com/ZacSweers/metro/pull/846) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run FIR extensions on Java sources"
 
-**2025-07-29** — commented on [#838](https://github.com/ZacSweers/metro/issues/838#issuecomment-3134683551) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-30** — created branch `z/noJava` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-29** — merged PR [#842](https://github.com/ZacSweers/metro/pull/842) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Use rawStatus for override check"
+**2025-07-30** — commented on [#840](https://github.com/ZacSweers/metro/pull/840#issuecomment-3134793988) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
