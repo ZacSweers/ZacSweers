@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-29** — merged PR [#242](https://github.com/ZacSweers/FieldSpottr/pull/242) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update ktor monorepo to v3.2.3"
+
 **2025-07-29** — merged PR [#2040](https://github.com/ZacSweers/CatchUp/pull/2040) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.3"
 
 **2025-07-29** — merged PR [#241](https://github.com/ZacSweers/FieldSpottr/pull/241) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-28** — commented on [#824](https://github.com/ZacSweers/metro/issues/824#issuecomment-3127903358) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-28** — closed issue [#824](https://github.com/ZacSweers/metro/issues/824) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "@ContributesGraphExtension "asContribution" type ChildGraph.Factory is not merged supertype of "ParentGraph""
-
-**2025-07-28** — opened PR [#825](https://github.com/ZacSweers/metro/pull/825) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure binding container annotations are readable in contribution gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
