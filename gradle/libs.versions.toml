@@ -35,6 +35,6 @@ ktor-serialization-json = { module = "io.ktor:ktor-serialization-kotlinx-json", 
 mordant-coroutines = { module = "com.github.ajalt.mordant:mordant-coroutines", version.ref = "mordant" }
 mordant-markdown = { module = "com.github.ajalt.mordant:mordant-markdown", version.ref = "mordant" }
 okhttp = "com.squareup.okhttp3:okhttp:5.1.0"
-okio = "com.squareup.okio:okio:3.15.0"
+okio = "com.squareup.okio:okio:3.16.0"
 slf4jNop = "org.slf4j:slf4j-nop:2.0.17"
 tikxml-htmlescape = "com.tickaroo.tikxml:converter-htmlescape:0.8.15"
