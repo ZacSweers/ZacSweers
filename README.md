@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-31** — merged PR [#2049](https://github.com/ZacSweers/CatchUp/pull/2049) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0"
+
+**2025-07-31** — commented on [#857](https://github.com/ZacSweers/metro/issues/857#issuecomment-3140196945) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-07-31** — opened PR [#859](https://github.com/ZacSweers/metro/pull/859) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check additionalScopes for binding container contributions"
+
+**2025-07-31** — created branch `z/fixAdditionalScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-31** — commented on [#857](https://github.com/ZacSweers/metro/issues/857#issuecomment-3139697611) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-30** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3134865278) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-30** — opened PR [#849](https://github.com/ZacSweers/metro/pull/849) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run status transformers on java source"
 
 **2025-07-30** — created branch `z/transformerLogging` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-30** — merged PR [#847](https://github.com/ZacSweers/metro/pull/847) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency cairosvg to v2.8.2"
-
-**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134826936) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134826119) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-30** — merged PR [#846](https://github.com/ZacSweers/metro/pull/846) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run FIR extensions on Java sources"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
