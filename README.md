@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-31** — commented on [#857](https://github.com/ZacSweers/metro/issues/857#issuecomment-3139697611) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-30** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3134865278) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-30** — merged PR [#849](https://github.com/ZacSweers/metro/pull/849) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run status transformers on java source"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134826119) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-30** — merged PR [#846](https://github.com/ZacSweers/metro/pull/846) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't run FIR extensions on Java sources"
-
-**2025-07-30** — commented on [#845](https://github.com/ZacSweers/metro/pull/845#issuecomment-3134820726) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
