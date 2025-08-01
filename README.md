@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-31** — commented on [#1540](https://github.com/GradleUp/shadow/issues/1540#issuecomment-3141996017) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
+
+**2025-07-31** — closed PR [#854](https://github.com/ZacSweers/metro/pull/854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Added test/docs for providing from a BindingContainer constructor property parameter"
+
+**2025-07-31** — commented on [#854](https://github.com/ZacSweers/metro/pull/854#issuecomment-3141960415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-07-31** — closed issue [#853](https://github.com/ZacSweers/metro/issues/853) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ISE when injecting a nullable-returning suspend function type"
 
 **2025-07-31** — merged PR [#860](https://github.com/ZacSweers/metro/pull/860) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve nullability when remapping type parms"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-31** — opened PR [#863](https://github.com/ZacSweers/metro/pull/863) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe binding containers + fix failure on multiple matching scopes"
 
 **2025-07-31** — created branch `z/dedupeContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-31** — merged PR [#246](https://github.com/ZacSweers/FieldSpottr/pull/246) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v9"
-
-**2025-07-31** — merged PR [#789](https://github.com/ZacSweers/MoshiX/pull/789) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v9"
-
-**2025-07-31** — merged PR [#244](https://github.com/ZacSweers/FieldSpottr/pull/244) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
