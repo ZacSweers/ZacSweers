@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-31** — merged PR [#2052](https://github.com/ZacSweers/CatchUp/pull/2052) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.16.0"
+
+**2025-07-31** — merged PR [#2053](https://github.com/ZacSweers/CatchUp/pull/2053) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v9"
+
+**2025-07-31** — merged PR [#365](https://github.com/ZacSweers/kotlin-compile-testing/pull/365) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v9"
+
+**2025-07-31** — merged PR [#274](https://github.com/ZacSweers/ZacSweers/pull/274) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v9"
+
+**2025-07-31** — merged PR [#344](https://github.com/ZacSweers/redacted-compiler-plugin/pull/344) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v9"
+
 **2025-07-31** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3140306527) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-07-31** — opened PR [#860](https://github.com/ZacSweers/metro/pull/860) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve nullability when remapping type parms"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-31** — closed issue [#858](https://github.com/ZacSweers/metro/issues/858) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding contributed to an additional scope can't see bindings inside the main scope"
 
 **2025-07-31** — merged PR [#859](https://github.com/ZacSweers/metro/pull/859) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check additionalScopes for binding container contributions"
-
-**2025-07-31** — merged PR [#2050](https://github.com/ZacSweers/CatchUp/pull/2050) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test.ext:junit to v1.3.0"
-
-**2025-07-31** — merged PR [#2049](https://github.com/ZacSweers/CatchUp/pull/2049) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.test:monitor to v1.8.0"
-
-**2025-07-31** — commented on [#857](https://github.com/ZacSweers/metro/issues/857#issuecomment-3140196945) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-31** — opened PR [#859](https://github.com/ZacSweers/metro/pull/859) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check additionalScopes for binding container contributions"
-
-**2025-07-31** — created branch `z/fixAdditionalScopes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
