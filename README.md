@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-07-31** — closed issue [#853](https://github.com/ZacSweers/metro/issues/853) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ISE when injecting a nullable-returning suspend function type"
+
+**2025-07-31** — merged PR [#860](https://github.com/ZacSweers/metro/pull/860) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve nullability when remapping type parms"
+
 **2025-07-31** — closed issue [#861](https://github.com/ZacSweers/metro/issues/861) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Sequence has more than one element" when a BindingContainer has multiple ContributesTo annotations"
 
 **2025-07-31** — merged PR [#863](https://github.com/ZacSweers/metro/pull/863) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe binding containers + fix failure on multiple matching scopes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-31** — merged PR [#789](https://github.com/ZacSweers/MoshiX/pull/789) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v9"
 
 **2025-07-31** — merged PR [#244](https://github.com/ZacSweers/FieldSpottr/pull/244) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.0"
-
-**2025-07-31** — merged PR [#245](https://github.com/ZacSweers/FieldSpottr/pull/245) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.16.0"
-
-**2025-07-31** — merged PR [#862](https://github.com/ZacSweers/metro/pull/862) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency gradle to v9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
