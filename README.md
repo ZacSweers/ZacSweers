@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-07-31** — merged PR [#2052](https://github.com/ZacSweers/CatchUp/pull/2052) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.bugsnag:bugsnag-android to v6.16.0"
+**2025-07-31** — closed issue [#861](https://github.com/ZacSweers/metro/issues/861) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Sequence has more than one element" when a BindingContainer has multiple ContributesTo annotations"
 
-**2025-07-31** — merged PR [#2053](https://github.com/ZacSweers/CatchUp/pull/2053) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency gradle to v9"
+**2025-07-31** — merged PR [#863](https://github.com/ZacSweers/metro/pull/863) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe binding containers + fix failure on multiple matching scopes"
 
-**2025-07-31** — merged PR [#365](https://github.com/ZacSweers/kotlin-compile-testing/pull/365) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency gradle to v9"
+**2025-07-31** — merged PR [#166](https://github.com/ZacSweers/auto-service-ksp/pull/166) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency gradle to v9"
 
-**2025-07-31** — merged PR [#274](https://github.com/ZacSweers/ZacSweers/pull/274) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency gradle to v9"
+**2025-07-31** — opened PR [#863](https://github.com/ZacSweers/metro/pull/863) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe binding containers + fix failure on multiple matching scopes"
 
-**2025-07-31** — merged PR [#344](https://github.com/ZacSweers/redacted-compiler-plugin/pull/344) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency gradle to v9"
+**2025-07-31** — created branch `z/dedupeContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-31** — commented on [#767](https://github.com/ZacSweers/metro/issues/767#issuecomment-3140306527) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-31** — merged PR [#246](https://github.com/ZacSweers/FieldSpottr/pull/246) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency gradle to v9"
 
-**2025-07-31** — opened PR [#860](https://github.com/ZacSweers/metro/pull/860) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve nullability when remapping type parms"
+**2025-07-31** — merged PR [#789](https://github.com/ZacSweers/MoshiX/pull/789) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency gradle to v9"
 
-**2025-07-31** — created branch `z/propagateNullability` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-07-31** — merged PR [#244](https://github.com/ZacSweers/FieldSpottr/pull/244) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.0"
 
-**2025-07-31** — closed issue [#858](https://github.com/ZacSweers/metro/issues/858) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Binding contributed to an additional scope can't see bindings inside the main scope"
+**2025-07-31** — merged PR [#245](https://github.com/ZacSweers/FieldSpottr/pull/245) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.16.0"
 
-**2025-07-31** — merged PR [#859](https://github.com/ZacSweers/metro/pull/859) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check additionalScopes for binding container contributions"
+**2025-07-31** — merged PR [#862](https://github.com/ZacSweers/metro/pull/862) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency gradle to v9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
