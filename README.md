@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-01** — commented on [#867](https://github.com/ZacSweers/metro/pull/867#issuecomment-3146070418) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-01** — merged PR [#2055](https://github.com/ZacSweers/CatchUp/pull/2055) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.30.0"
 
-**2025-08-01** — commented on [#867](https://github.com/ZacSweers/metro/pull/867#issuecomment-3146067745) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-01** — commented on [#868](https://github.com/ZacSweers/metro/pull/868#issuecomment-3146120009) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-01** — merged PR [#871](https://github.com/ZacSweers/metro/pull/871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow provides parameters in binding containers"
+**2025-08-01** — closed issue [#866](https://github.com/ZacSweers/metro/issues/866) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "NotImplementedError: Unknown File when contributed graph in a different module has an empty multibinding"
 
-**2025-08-01** — opened PR [#871](https://github.com/ZacSweers/metro/pull/871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow provides parameters in binding containers"
+**2025-08-01** — merged PR [#873](https://github.com/ZacSweers/metro/pull/873) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix another contributed graph check"
 
-**2025-08-01** — created branch `z/noProvidesOnContainerParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-01** — merged PR [#2054](https://github.com/ZacSweers/CatchUp/pull/2054) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.0-beta01"
 
-**2025-08-01** — merged PR [#864](https://github.com/ZacSweers/metro/pull/864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc3"
+**2025-08-01** — opened PR [#873](https://github.com/ZacSweers/metro/pull/873) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix another contributed graph check"
 
-**2025-08-01** — merged PR [#870](https://github.com/ZacSweers/metro/pull/870) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Workaround for https://github.com/GradleUp/shadow/issues/1540"
+**2025-08-01** — created branch `z/fixReportLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-01** — commented on [#1540](https://github.com/GradleUp/shadow/issues/1540#issuecomment-3142114609) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
+**2025-08-01** — commented on [#691](https://github.com/ZacSweers/metro/issues/691#issuecomment-3146105201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-07-31** — commented on [#1540](https://github.com/GradleUp/shadow/issues/1540#issuecomment-3141996017) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
+**2025-08-01** — merged PR [#869](https://github.com/ZacSweers/metro/pull/869) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report incompatible scopes in nested contributed graphs to `MessageCollector`"
 
-**2025-07-31** — closed PR [#854](https://github.com/ZacSweers/metro/pull/854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Added test/docs for providing from a BindingContainer constructor property parameter"
+**2025-08-01** — merged PR [#867](https://github.com/ZacSweers/metro/pull/867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix handling repeated annotations from external modules"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
