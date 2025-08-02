@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-02** — opened issue [#880](https://github.com/ZacSweers/metro/issues/880) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a checker for vararg parameters in graph factories"
+
+**2025-08-02** — merged PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
+
 **2025-08-02** — merged PR [#247](https://github.com/ZacSweers/FieldSpottr/pull/247) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.4"
 
 **2025-08-02** — opened PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-02** — created tag `0.5.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-02** — merged PR [#877](https://github.com/ZacSweers/metro/pull/877) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update plugin shadow to v9.0.0-rc3 (#864)""
-
-**2025-08-02** — opened PR [#877](https://github.com/ZacSweers/metro/pull/877) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update plugin shadow to v9.0.0-rc3 (#864)""
-
-**2025-08-02** — created branch `z/revertShadowUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
