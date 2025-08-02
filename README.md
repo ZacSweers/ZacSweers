@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-01** — created tag `0.5.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-01** — merged PR [#868](https://github.com/ZacSweers/metro/pull/868) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IC test: Multiple binding replacements are respected when adding new binding contribution"
+
+**2025-08-01** — merged PR [#875](https://github.com/ZacSweers/metro/pull/875) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency click to v8.2.2"
+
+**2025-08-01** — commented on [#874](https://github.com/ZacSweers/metro/pull/874#issuecomment-3146150127) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-01** — closed PR [#874](https://github.com/ZacSweers/metro/pull/874) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable doc deployments on forks"
+
+**2025-08-01** — commented on [#868](https://github.com/ZacSweers/metro/pull/868#issuecomment-3146147826) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-01** — merged PR [#2055](https://github.com/ZacSweers/CatchUp/pull/2055) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.30.0"
 
 **2025-08-01** — commented on [#868](https://github.com/ZacSweers/metro/pull/868#issuecomment-3146120009) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-01** — closed issue [#866](https://github.com/ZacSweers/metro/issues/866) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "NotImplementedError: Unknown File when contributed graph in a different module has an empty multibinding"
 
 **2025-08-01** — merged PR [#873](https://github.com/ZacSweers/metro/pull/873) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix another contributed graph check"
-
-**2025-08-01** — merged PR [#2054](https://github.com/ZacSweers/CatchUp/pull/2054) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.0-beta01"
-
-**2025-08-01** — opened PR [#873](https://github.com/ZacSweers/metro/pull/873) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix another contributed graph check"
-
-**2025-08-01** — created branch `z/fixReportLocation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-01** — commented on [#691](https://github.com/ZacSweers/metro/issues/691#issuecomment-3146105201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-01** — merged PR [#869](https://github.com/ZacSweers/metro/pull/869) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report incompatible scopes in nested contributed graphs to `MessageCollector`"
-
-**2025-08-01** — merged PR [#867](https://github.com/ZacSweers/metro/pull/867) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix handling repeated annotations from external modules"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
