@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-01** — commented on [#867](https://github.com/ZacSweers/metro/pull/867#issuecomment-3146070418) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-01** — commented on [#867](https://github.com/ZacSweers/metro/pull/867#issuecomment-3146067745) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-01** — merged PR [#871](https://github.com/ZacSweers/metro/pull/871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow provides parameters in binding containers"
+
+**2025-08-01** — opened PR [#871](https://github.com/ZacSweers/metro/pull/871) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow provides parameters in binding containers"
+
+**2025-08-01** — created branch `z/noProvidesOnContainerParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-01** — merged PR [#864](https://github.com/ZacSweers/metro/pull/864) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc3"
 
 **2025-08-01** — merged PR [#870](https://github.com/ZacSweers/metro/pull/870) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Workaround for https://github.com/GradleUp/shadow/issues/1540"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-07-31** — commented on [#1540](https://github.com/GradleUp/shadow/issues/1540#issuecomment-3141996017) in [GradleUp/shadow](https://github.com/GradleUp/shadow)
 
 **2025-07-31** — closed PR [#854](https://github.com/ZacSweers/metro/pull/854) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Added test/docs for providing from a BindingContainer constructor property parameter"
-
-**2025-07-31** — commented on [#854](https://github.com/ZacSweers/metro/pull/854#issuecomment-3141960415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-07-31** — closed issue [#853](https://github.com/ZacSweers/metro/issues/853) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ISE when injecting a nullable-returning suspend function type"
-
-**2025-07-31** — merged PR [#860](https://github.com/ZacSweers/metro/pull/860) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Preserve nullability when remapping type parms"
-
-**2025-07-31** — closed issue [#861](https://github.com/ZacSweers/metro/issues/861) on [ZacSweers/metro](https://github.com/ZacSweers/metro): ""Sequence has more than one element" when a BindingContainer has multiple ContributesTo annotations"
-
-**2025-07-31** — merged PR [#863](https://github.com/ZacSweers/metro/pull/863) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dedupe binding containers + fix failure on multiple matching scopes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
