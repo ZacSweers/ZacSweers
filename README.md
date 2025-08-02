@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-02** — merged PR [#247](https://github.com/ZacSweers/FieldSpottr/pull/247) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.4"
+
+**2025-08-02** — opened PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
+
+**2025-08-02** — created branch `z/enableChunking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-02** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3146709163) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-02** — merged PR [#876](https://github.com/ZacSweers/metro/pull/876) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not apply the shadow plugin, use the task directly instead"
+
+**2025-08-02** — closed PR [#878](https://github.com/ZacSweers/metro/pull/878) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc3"
+
 **2025-08-02** — created tag `0.5.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-02** — merged PR [#877](https://github.com/ZacSweers/metro/pull/877) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update plugin shadow to v9.0.0-rc3 (#864)""
@@ -11,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-02** — opened PR [#877](https://github.com/ZacSweers/metro/pull/877) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update plugin shadow to v9.0.0-rc3 (#864)""
 
 **2025-08-02** — created branch `z/revertShadowUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-02** — merged PR [#2056](https://github.com/ZacSweers/CatchUp/pull/2056) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.4"
-
-**2025-08-02** — merged PR [#248](https://github.com/ZacSweers/FieldSpottr/pull/248) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.30.0"
-
-**2025-08-01** — created tag `0.5.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-01** — merged PR [#868](https://github.com/ZacSweers/metro/pull/868) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IC test: Multiple binding replacements are respected when adding new binding contribution"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
