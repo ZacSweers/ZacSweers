@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-02** — opened PR [#877](https://github.com/ZacSweers/metro/pull/877) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update plugin shadow to v9.0.0-rc3 (#864)""
+
+**2025-08-02** — created branch `z/revertShadowUpdates` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-02** — merged PR [#2056](https://github.com/ZacSweers/CatchUp/pull/2056) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.4"
 
 **2025-08-02** — merged PR [#248](https://github.com/ZacSweers/FieldSpottr/pull/248) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.30.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-01** — closed PR [#874](https://github.com/ZacSweers/metro/pull/874) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disable doc deployments on forks"
 
 **2025-08-01** — commented on [#868](https://github.com/ZacSweers/metro/pull/868#issuecomment-3146147826) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-01** — merged PR [#2055](https://github.com/ZacSweers/CatchUp/pull/2055) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update circuit to v0.30.0"
-
-**2025-08-01** — commented on [#868](https://github.com/ZacSweers/metro/pull/868#issuecomment-3146120009) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
