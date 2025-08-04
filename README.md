@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-04** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3149084406) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-04** — closed PR [#837](https://github.com/ZacSweers/metro/pull/837) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.2.3"
+
 **2025-08-03** — merged PR [#881](https://github.com/ZacSweers/metro/pull/881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throw IllegalStateException if object graph not found for class"
 
 **2025-08-03** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-02** — opened PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
 
 **2025-08-02** — created branch `z/enableChunking` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-02** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3146709163) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-02** — merged PR [#876](https://github.com/ZacSweers/metro/pull/876) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not apply the shadow plugin, use the task directly instead"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
