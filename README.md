@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-03** — merged PR [#881](https://github.com/ZacSweers/metro/pull/881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throw IllegalStateException if object graph not found for class"
+
 **2025-08-03** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-02** — merged PR [#2057](https://github.com/ZacSweers/CatchUp/pull/2057) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.5"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-02** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3146709163) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-02** — merged PR [#876](https://github.com/ZacSweers/metro/pull/876) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not apply the shadow plugin, use the task directly instead"
-
-**2025-08-02** — closed PR [#878](https://github.com/ZacSweers/metro/pull/878) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.0-rc3"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
