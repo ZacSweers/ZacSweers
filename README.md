@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-04** — commented on [#21250](https://github.com/gradle/gradle/issues/21250#issuecomment-3152109278) in [gradle/gradle](https://github.com/gradle/gradle)
+
 **2025-08-04** — opened PR [#883](https://github.com/ZacSweers/metro/pull/883) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP dagger interop fixes"
 
 **2025-08-04** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3149084406) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-02** — merged PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
 
 **2025-08-02** — merged PR [#247](https://github.com/ZacSweers/FieldSpottr/pull/247) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.4"
-
-**2025-08-02** — opened PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
