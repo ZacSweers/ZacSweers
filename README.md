@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-06** — created branch `z/lenientValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-06** — commented on [#835](https://github.com/ZacSweers/metro/issues/835#issuecomment-3157360130) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-06** — closed issue [#835](https://github.com/ZacSweers/metro/issues/835) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A graph extension cannot access an empty multibinding from a binding container contributed to its parent"
