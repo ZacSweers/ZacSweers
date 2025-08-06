@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-05** — created tag `0.29.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-08-05** — merged PR [#1488](https://github.com/slackhq/foundry/pull/1488) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin com.fueledbycaffeine.spotlight to v1.3.2"
+
+**2025-08-05** — opened PR [#1490](https://github.com/slackhq/foundry/pull/1490) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small metro fixes"
+
+**2025-08-05** — created branch `z/metroFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-08-04** — commented on [#21250](https://github.com/gradle/gradle/issues/21250#issuecomment-3152109278) in [gradle/gradle](https://github.com/gradle/gradle)
 
 **2025-08-04** — opened PR [#883](https://github.com/ZacSweers/metro/pull/883) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP dagger interop fixes"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-03** — merged PR [#881](https://github.com/ZacSweers/metro/pull/881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throw IllegalStateException if object graph not found for class"
 
 **2025-08-03** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-02** — merged PR [#2057](https://github.com/ZacSweers/CatchUp/pull/2057) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.5.5"
-
-**2025-08-02** — opened issue [#880](https://github.com/ZacSweers/metro/issues/880) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a checker for vararg parameters in graph factories"
-
-**2025-08-02** — merged PR [#879](https://github.com/ZacSweers/metro/pull/879) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Enable chunked field inits by default"
-
-**2025-08-02** — merged PR [#247](https://github.com/ZacSweers/FieldSpottr/pull/247) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.5.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
