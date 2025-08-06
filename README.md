@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-06** — commented on [#835](https://github.com/ZacSweers/metro/issues/835#issuecomment-3157360130) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-06** — closed issue [#835](https://github.com/ZacSweers/metro/issues/835) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A graph extension cannot access an empty multibinding from a binding container contributed to its parent"
+
+**2025-08-06** — merged PR [#885](https://github.com/ZacSweers/metro/pull/885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update docs/test for @ContributesIntoMap"
+
+**2025-08-06** — merged PR [#631](https://github.com/ZacSweers/metro/pull/631) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update agp to v8.11.0"
+
+**2025-08-06** — merged PR [#787](https://github.com/ZacSweers/metro/pull/787) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.11.0"
+
+**2025-08-06** — merged PR [#884](https://github.com/ZacSweers/metro/pull/884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.6"
+
+**2025-08-06** — commented on [#883](https://github.com/ZacSweers/metro/pull/883#issuecomment-3157333624) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-06** — merged PR [#883](https://github.com/ZacSweers/metro/pull/883) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc dagger interop fixes"
+
 **2025-08-05** — created tag `0.29.0` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-08-05** — merged PR [#1488](https://github.com/slackhq/foundry/pull/1488) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update plugin com.fueledbycaffeine.spotlight to v1.3.2"
-
-**2025-08-05** — opened PR [#1490](https://github.com/slackhq/foundry/pull/1490) to [slackhq/foundry](https://github.com/slackhq/foundry): "Small metro fixes"
-
-**2025-08-05** — created branch `z/metroFixes` on [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-08-04** — commented on [#21250](https://github.com/gradle/gradle/issues/21250#issuecomment-3152109278) in [gradle/gradle](https://github.com/gradle/gradle)
-
-**2025-08-04** — opened PR [#883](https://github.com/ZacSweers/metro/pull/883) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP dagger interop fixes"
-
-**2025-08-04** — commented on [#837](https://github.com/ZacSweers/metro/pull/837#issuecomment-3149084406) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-04** — closed PR [#837](https://github.com/ZacSweers/metro/pull/837) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.2.3"
-
-**2025-08-03** — merged PR [#881](https://github.com/ZacSweers/metro/pull/881) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Throw IllegalStateException if object graph not found for class"
-
-**2025-08-03** — created branch `z/fixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
