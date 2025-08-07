@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-06** — opened PR [#890](https://github.com/ZacSweers/metro/pull/890) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lenient validate static bindings"
+
 **2025-08-06** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-3160786867) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-08-06** — created branch `z/lenientValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-06** — merged PR [#884](https://github.com/ZacSweers/metro/pull/884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.6"
 
 **2025-08-06** — commented on [#883](https://github.com/ZacSweers/metro/pull/883#issuecomment-3157333624) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-06** — merged PR [#883](https://github.com/ZacSweers/metro/pull/883) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc dagger interop fixes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
