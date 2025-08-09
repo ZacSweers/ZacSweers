@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-08** — closed PR [#1487](https://github.com/slackhq/foundry/pull/1487) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency gradle to v9"
+
 **2025-08-08** — merged PR [#1413](https://github.com/slackhq/foundry/pull/1413) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 9.0"
 
 **2025-08-08** — commented on [#894](https://github.com/ZacSweers/metro/issues/894#issuecomment-3169063605) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-06** — created branch `z/lenientValidation` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-06** — commented on [#835](https://github.com/ZacSweers/metro/issues/835#issuecomment-3157360130) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-06** — closed issue [#835](https://github.com/ZacSweers/metro/issues/835) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A graph extension cannot access an empty multibinding from a binding container contributed to its parent"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
