@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-08** — merged PR [#1413](https://github.com/slackhq/foundry/pull/1413) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 9.0"
+
+**2025-08-08** — commented on [#894](https://github.com/ZacSweers/metro/issues/894#issuecomment-3169063605) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-08** — closed issue [#535](https://github.com/facebook/ktfmt/issues/535) on [facebook/ktfmt](https://github.com/facebook/ktfmt): "Attempting to run a unit test in this project fails with bizarre randomized chinese text"
+
+**2025-08-08** — commented on [#535](https://github.com/facebook/ktfmt/issues/535#issuecomment-3169063201) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
+**2025-08-08** — commented on [#896](https://github.com/ZacSweers/metro/issues/896#issuecomment-3169061928) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-06** — opened PR [#890](https://github.com/ZacSweers/metro/pull/890) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Lenient validate static bindings"
 
 **2025-08-06** — commented on [#50](https://github.com/slackhq/circuit/issues/50#issuecomment-3160786867) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-06** — commented on [#835](https://github.com/ZacSweers/metro/issues/835#issuecomment-3157360130) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-06** — closed issue [#835](https://github.com/ZacSweers/metro/issues/835) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "A graph extension cannot access an empty multibinding from a binding container contributed to its parent"
-
-**2025-08-06** — merged PR [#885](https://github.com/ZacSweers/metro/pull/885) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update docs/test for @ContributesIntoMap"
-
-**2025-08-06** — merged PR [#631](https://github.com/ZacSweers/metro/pull/631) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update agp to v8.11.0"
-
-**2025-08-06** — merged PR [#787](https://github.com/ZacSweers/metro/pull/787) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.android.settings to v8.11.0"
-
-**2025-08-06** — merged PR [#884](https://github.com/ZacSweers/metro/pull/884) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.6"
-
-**2025-08-06** — commented on [#883](https://github.com/ZacSweers/metro/pull/883#issuecomment-3157333624) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
