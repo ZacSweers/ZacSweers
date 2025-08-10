@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-10** — opened issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
+
 **2025-08-09** — merged PR [#2059](https://github.com/ZacSweers/CatchUp/pull/2059) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1.3.3"
 
 **2025-08-09** — merged PR [#2058](https://github.com/ZacSweers/CatchUp/pull/2058) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v1.3.3"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-08** — merged PR [#898](https://github.com/ZacSweers/metro/pull/898) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: re-enable metro docs site search"
 
 **2025-08-08** — closed PR [#1487](https://github.com/slackhq/foundry/pull/1487) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency gradle to v9"
-
-**2025-08-08** — merged PR [#1413](https://github.com/slackhq/foundry/pull/1413) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update to Gradle 9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
