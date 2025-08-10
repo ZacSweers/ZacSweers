@@ -4,25 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-10** — opened issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
+**2025-08-10** — closed PR [#361](https://github.com/ZacSweers/kotlin-compile-testing/pull/361) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.2.20-ij252-17"
 
-**2025-08-09** — merged PR [#2059](https://github.com/ZacSweers/CatchUp/pull/2059) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.fueledbycaffeine.spotlight:buildscript-utils to v1.3.3"
+**2025-08-10** — merged PR [#364](https://github.com/ZacSweers/kotlin-compile-testing/pull/364) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea (major)"
 
-**2025-08-09** — merged PR [#2058](https://github.com/ZacSweers/CatchUp/pull/2058) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin com.fueledbycaffeine.spotlight to v1.3.3"
+**2025-08-10** — merged PR [#366](https://github.com/ZacSweers/kotlin-compile-testing/pull/366) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.assertj:assertj-core to v3.27.4"
 
-**2025-08-09** — merged PR [#2061](https://github.com/ZacSweers/CatchUp/pull/2061) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.30.0"
-
-**2025-08-09** — merged PR [#2062](https://github.com/ZacSweers/CatchUp/pull/2062) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.30.0"
-
-**2025-08-09** — merged PR [#895](https://github.com/ZacSweers/metro/pull/895) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.8"
-
-**2025-08-09** — merged PR [#899](https://github.com/ZacSweers/metro/pull/899) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency tornado to v6.5.2"
-
-**2025-08-08** — closed issue [#897](https://github.com/ZacSweers/metro/issues/897) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro docs site's search feature got disabled, re-enable it."
-
-**2025-08-08** — merged PR [#898](https://github.com/ZacSweers/metro/pull/898) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: re-enable metro docs site search"
-
-**2025-08-08** — closed PR [#1487](https://github.com/slackhq/foundry/pull/1487) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency gradle to v9"
+**2025-08-10** — merged PR [#363](https://github.com/ZacSweers/kotlin-compile-testing/pull/363) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.squareup.okio:okio to v3.16.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
