@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-11** — commented on [#901](https://github.com/ZacSweers/metro/issues/901#issuecomment-3175500993) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-11** — merged PR [#903](https://github.com/ZacSweers/metro/pull/903) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout action to v5"
+
+**2025-08-11** — closed PR [#902](https://github.com/ZacSweers/metro/pull/902) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout digest to 08eba0b"
+
 **2025-08-11** — commented on [#894](https://github.com/ZacSweers/metro/issues/894#issuecomment-3175371512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-11** — merged PR [#345](https://github.com/ZacSweers/redacted-compiler-plugin/pull/345) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 08eba0b - autoclosed"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — merged PR [#346](https://github.com/ZacSweers/redacted-compiler-plugin/pull/346) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v5"
 
 **2025-08-11** — merged PR [#791](https://github.com/ZacSweers/MoshiX/pull/791) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/checkout action to v5"
-
-**2025-08-11** — merged PR [#368](https://github.com/ZacSweers/kotlin-compile-testing/pull/368) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout digest to 08eba0b"
-
-**2025-08-11** — merged PR [#369](https://github.com/ZacSweers/kotlin-compile-testing/pull/369) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/checkout action to v5"
-
-**2025-08-11** — merged PR [#275](https://github.com/ZacSweers/ZacSweers/pull/275) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/checkout action to v5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
