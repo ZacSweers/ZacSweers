@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-11** — opened PR [#906](https://github.com/ZacSweers/metro/pull/906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP whole-chain analysis"
+
+**2025-08-11** — created branch `z/wholeChain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-11** — commented on [#904](https://github.com/ZacSweers/metro/issues/904#issuecomment-3175816594) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-11** — opened issue [#905](https://github.com/ZacSweers/metro/issues/905) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move interop logic from gradle plugin to `MetroOptions`"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — closed PR [#902](https://github.com/ZacSweers/metro/pull/902) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout digest to 08eba0b"
 
 **2025-08-11** — commented on [#894](https://github.com/ZacSweers/metro/issues/894#issuecomment-3175371512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-11** — merged PR [#345](https://github.com/ZacSweers/redacted-compiler-plugin/pull/345) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 08eba0b - autoclosed"
-
-**2025-08-11** — reopened PR [#345](https://github.com/ZacSweers/redacted-compiler-plugin/pull/345) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 08eba0b - autoclosed"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
