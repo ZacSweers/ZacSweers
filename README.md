@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-11** — commented on [#904](https://github.com/ZacSweers/metro/issues/904#issuecomment-3175816594) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-11** — opened issue [#905](https://github.com/ZacSweers/metro/issues/905) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move interop logic from gradle plugin to `MetroOptions`"
+
+**2025-08-11** — closed issue [#833](https://github.com/ZacSweers/metro/issues/833) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle generic @Inject classes with private constructors"
+
+**2025-08-11** — merged PR [#844](https://github.com/ZacSweers/metro/pull/844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix private generic injected constructors"
+
 **2025-08-11** — commented on [#901](https://github.com/ZacSweers/metro/issues/901#issuecomment-3175500993) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-11** — merged PR [#903](https://github.com/ZacSweers/metro/pull/903) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout action to v5"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — merged PR [#345](https://github.com/ZacSweers/redacted-compiler-plugin/pull/345) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 08eba0b - autoclosed"
 
 **2025-08-11** — reopened PR [#345](https://github.com/ZacSweers/redacted-compiler-plugin/pull/345) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout digest to 08eba0b - autoclosed"
-
-**2025-08-11** — created branch `renovate/actions-checkout-digest` on [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin)
-
-**2025-08-11** — merged PR [#249](https://github.com/ZacSweers/FieldSpottr/pull/249) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update actions/checkout action to v5"
-
-**2025-08-11** — merged PR [#346](https://github.com/ZacSweers/redacted-compiler-plugin/pull/346) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update actions/checkout action to v5"
-
-**2025-08-11** — merged PR [#791](https://github.com/ZacSweers/MoshiX/pull/791) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update actions/checkout action to v5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
