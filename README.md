@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-11** — merged PR [#164](https://github.com/ZacSweers/auto-service-ksp/pull/164) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.1"
+
+**2025-08-11** — merged PR [#165](https://github.com/ZacSweers/auto-service-ksp/pull/165) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.34.0"
+
+**2025-08-11** — merged PR [#163](https://github.com/ZacSweers/auto-service-ksp/pull/163) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7.2.1"
+
+**2025-08-11** — merged PR [#167](https://github.com/ZacSweers/auto-service-ksp/pull/167) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/checkout action to v5"
+
 **2025-08-11** — opened PR [#906](https://github.com/ZacSweers/metro/pull/906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP whole-chain analysis"
 
 **2025-08-11** — created branch `z/wholeChain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — closed issue [#833](https://github.com/ZacSweers/metro/issues/833) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle generic @Inject classes with private constructors"
 
 **2025-08-11** — merged PR [#844](https://github.com/ZacSweers/metro/pull/844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix private generic injected constructors"
-
-**2025-08-11** — commented on [#901](https://github.com/ZacSweers/metro/issues/901#issuecomment-3175500993) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-11** — merged PR [#903](https://github.com/ZacSweers/metro/pull/903) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout action to v5"
-
-**2025-08-11** — closed PR [#902](https://github.com/ZacSweers/metro/pull/902) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/checkout digest to 08eba0b"
-
-**2025-08-11** — commented on [#894](https://github.com/ZacSweers/metro/issues/894#issuecomment-3175371512) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
