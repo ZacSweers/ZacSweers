@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-12** — opened issue [#909](https://github.com/ZacSweers/metro/issues/909) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an IC test for non-ABI changes"
+
 **2025-08-11** — merged PR [#164](https://github.com/ZacSweers/auto-service-ksp/pull/164) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.1"
 
 **2025-08-11** — merged PR [#165](https://github.com/ZacSweers/auto-service-ksp/pull/165) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.34.0"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — opened issue [#905](https://github.com/ZacSweers/metro/issues/905) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Move interop logic from gradle plugin to `MetroOptions`"
 
 **2025-08-11** — closed issue [#833](https://github.com/ZacSweers/metro/issues/833) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Handle generic @Inject classes with private constructors"
-
-**2025-08-11** — merged PR [#844](https://github.com/ZacSweers/metro/pull/844) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix private generic injected constructors"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
