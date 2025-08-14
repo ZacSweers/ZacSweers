@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-13** — merged PR [#912](https://github.com/ZacSweers/metro/pull/912) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.fragment:fragment-ktx to v1.8.9"
+
+**2025-08-13** — merged PR [#913](https://github.com/ZacSweers/metro/pull/913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.0"
+
 **2025-08-13** — commented on [#886](https://github.com/ZacSweers/metro/pull/886#issuecomment-3184796910) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-13** — merged PR [#911](https://github.com/ZacSweers/metro/pull/911) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.10"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — merged PR [#167](https://github.com/ZacSweers/auto-service-ksp/pull/167) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/checkout action to v5"
 
 **2025-08-11** — opened PR [#906](https://github.com/ZacSweers/metro/pull/906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP whole-chain analysis"
-
-**2025-08-11** — created branch `z/wholeChain` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-11** — commented on [#904](https://github.com/ZacSweers/metro/issues/904#issuecomment-3175816594) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
