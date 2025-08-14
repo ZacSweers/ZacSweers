@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-14** — closed issue [#921](https://github.com/ZacSweers/metro/issues/921) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Subcomponent.Factory getter in a MergeComponent doesn't compile"
+
+**2025-08-14** — merged PR [#922](https://github.com/ZacSweers/metro/pull/922) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dagger subcomponent class ID interop"
+
+**2025-08-14** — opened PR [#922](https://github.com/ZacSweers/metro/pull/922) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dagger subcomponent class ID interop"
+
+**2025-08-14** — created branch `z/fixInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-14** — closed issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
 
 **2025-08-14** — merged PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-13** — merged PR [#912](https://github.com/ZacSweers/metro/pull/912) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.fragment:fragment-ktx to v1.8.9"
 
 **2025-08-13** — merged PR [#913](https://github.com/ZacSweers/metro/pull/913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.0"
-
-**2025-08-13** — commented on [#886](https://github.com/ZacSweers/metro/pull/886#issuecomment-3184796910) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-13** — merged PR [#911](https://github.com/ZacSweers/metro/pull/911) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.10"
-
-**2025-08-12** — opened issue [#909](https://github.com/ZacSweers/metro/issues/909) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an IC test for non-ABI changes"
-
-**2025-08-11** — merged PR [#164](https://github.com/ZacSweers/auto-service-ksp/pull/164) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
