@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-14** — closed issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
+
+**2025-08-14** — merged PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
+
 **2025-08-14** — opened PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
 
 **2025-08-14** — created branch `z/simpleExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-12** — opened issue [#909](https://github.com/ZacSweers/metro/issues/909) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add an IC test for non-ABI changes"
 
 **2025-08-11** — merged PR [#164](https://github.com/ZacSweers/auto-service-ksp/pull/164) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin binaryCompatibilityValidator to v0.18.1"
-
-**2025-08-11** — merged PR [#165](https://github.com/ZacSweers/auto-service-ksp/pull/165) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.34.0"
-
-**2025-08-11** — merged PR [#163](https://github.com/ZacSweers/auto-service-ksp/pull/163) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7.2.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
