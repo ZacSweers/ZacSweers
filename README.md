@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-14** — opened PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
+
+**2025-08-14** — created branch `z/simpleExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-13** — merged PR [#912](https://github.com/ZacSweers/metro/pull/912) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.fragment:fragment-ktx to v1.8.9"
 
 **2025-08-13** — merged PR [#913](https://github.com/ZacSweers/metro/pull/913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.0"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-11** — merged PR [#165](https://github.com/ZacSweers/auto-service-ksp/pull/165) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin mavenPublish to v0.34.0"
 
 **2025-08-11** — merged PR [#163](https://github.com/ZacSweers/auto-service-ksp/pull/163) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v7.2.1"
-
-**2025-08-11** — merged PR [#167](https://github.com/ZacSweers/auto-service-ksp/pull/167) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update actions/checkout action to v5"
-
-**2025-08-11** — opened PR [#906](https://github.com/ZacSweers/metro/pull/906) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP whole-chain analysis"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
