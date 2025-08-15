@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-14** — opened PR [#923](https://github.com/ZacSweers/metro/pull/923) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consolidate GraphExtension annotations"
+
+**2025-08-14** — created branch `z/mergeGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-14** — closed issue [#921](https://github.com/ZacSweers/metro/issues/921) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Subcomponent.Factory getter in a MergeComponent doesn't compile"
 
 **2025-08-14** — merged PR [#922](https://github.com/ZacSweers/metro/pull/922) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dagger subcomponent class ID interop"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-14** — opened PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
 
 **2025-08-14** — created branch `z/simpleExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-13** — merged PR [#912](https://github.com/ZacSweers/metro/pull/912) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.fragment:fragment-ktx to v1.8.9"
-
-**2025-08-13** — merged PR [#913](https://github.com/ZacSweers/metro/pull/913) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
