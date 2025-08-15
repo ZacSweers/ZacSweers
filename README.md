@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-15** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-3191653143) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-15** — merged PR [#925](https://github.com/ZacSweers/metro/pull/925) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Delete interop for non-existent MergeSubcomponent.Factory"
+
 **2025-08-14** — merged PR [#923](https://github.com/ZacSweers/metro/pull/923) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consolidate GraphExtension annotations"
 
 **2025-08-14** — closed PR [#370](https://github.com/ZacSweers/kotlin-compile-testing/pull/370) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-14** — merged PR [#922](https://github.com/ZacSweers/metro/pull/922) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dagger subcomponent class ID interop"
 
 **2025-08-14** — opened PR [#922](https://github.com/ZacSweers/metro/pull/922) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix dagger subcomponent class ID interop"
-
-**2025-08-14** — created branch `z/fixInterop` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-14** — closed issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
