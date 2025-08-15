@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-14** — closed PR [#370](https://github.com/ZacSweers/kotlin-compile-testing/pull/370) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
+
+**2025-08-14** — merged PR [#371](https://github.com/ZacSweers/kotlin-compile-testing/pull/371) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp monorepo to v2.2.10-2.0.2"
+
 **2025-08-14** — opened PR [#923](https://github.com/ZacSweers/metro/pull/923) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consolidate GraphExtension annotations"
 
 **2025-08-14** — created branch `z/mergeGraphExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-14** — closed issue [#900](https://github.com/ZacSweers/metro/issues/900) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow exposing accessors for graph extensions directly without creators"
 
 **2025-08-14** — merged PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
-
-**2025-08-14** — opened PR [#920](https://github.com/ZacSweers/metro/pull/920) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support direct graph extension accessors"
-
-**2025-08-14** — created branch `z/simpleExtensions` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
