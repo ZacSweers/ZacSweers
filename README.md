@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-15** — merged PR [#931](https://github.com/ZacSweers/metro/pull/931) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency mkdocs-material to v9.6.17""
+
+**2025-08-15** — merged PR [#930](https://github.com/ZacSweers/metro/pull/930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remap all bindings"
+
+**2025-08-15** — opened PR [#931](https://github.com/ZacSweers/metro/pull/931) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency mkdocs-material to v9.6.17""
+
+**2025-08-15** — created branch `revert-927-renovate/mkdocs-material-9.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-15** — opened PR [#930](https://github.com/ZacSweers/metro/pull/930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remap all bindings"
+
+**2025-08-15** — created branch `z/allBindings` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-15** — opened PR [#929](https://github.com/ZacSweers/metro/pull/929) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "WIP support member injection into classes without injected members"
+
+**2025-08-15** — created branch `z/memberInjectionFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-15** — merged PR [#924](https://github.com/ZacSweers/metro/pull/924) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ksp monorepo to v2.2.10-2.0.2"
 
 **2025-08-15** — merged PR [#927](https://github.com/ZacSweers/metro/pull/927) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.17"
-
-**2025-08-15** — commented on [#907](https://github.com/ZacSweers/metro/issues/907#issuecomment-3192747415) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-15** — closed issue [#907](https://github.com/ZacSweers/metro/issues/907) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException when injecting a scoped dependency into a base class via member injection"
-
-**2025-08-15** — commented on [#896](https://github.com/ZacSweers/metro/issues/896#issuecomment-3192744037) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-15** — commented on [#98](https://github.com/ZacSweers/metro/issues/98#issuecomment-3191653143) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-15** — merged PR [#925](https://github.com/ZacSweers/metro/pull/925) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Delete interop for non-existent MergeSubcomponent.Factory"
-
-**2025-08-14** — merged PR [#923](https://github.com/ZacSweers/metro/pull/923) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Consolidate GraphExtension annotations"
-
-**2025-08-14** — closed PR [#370](https://github.com/ZacSweers/kotlin-compile-testing/pull/370) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo"
-
-**2025-08-14** — merged PR [#371](https://github.com/ZacSweers/kotlin-compile-testing/pull/371) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update ksp monorepo to v2.2.10-2.0.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
