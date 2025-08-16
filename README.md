@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-15** — commented on [#928](https://github.com/ZacSweers/metro/issues/928#issuecomment-3192950429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-15** — merged PR [#2076](https://github.com/ZacSweers/CatchUp/pull/2076) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.0"
+
 **2025-08-15** — created tag `0.6.0` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-15** — closed issue [#928](https://github.com/ZacSweers/metro/issues/928) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remove max Kotlin version check"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-15** — merged PR [#931](https://github.com/ZacSweers/metro/pull/931) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency mkdocs-material to v9.6.17""
 
 **2025-08-15** — merged PR [#930](https://github.com/ZacSweers/metro/pull/930) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Remap all bindings"
-
-**2025-08-15** — opened PR [#931](https://github.com/ZacSweers/metro/pull/931) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Revert "chore(deps): update dependency mkdocs-material to v9.6.17""
-
-**2025-08-15** — created branch `revert-927-renovate/mkdocs-material-9.x` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
