@@ -4,25 +4,21 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-16** — closed issue [#917](https://github.com/ZacSweers/metro/issues/917) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Version website by release"
+
+**2025-08-16** — merged PR [#943](https://github.com/ZacSweers/metro/pull/943) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[UPDATE] Mkdocs workflow to use mike for versioned site"
+
+**2025-08-16** — opened issue [#944](https://github.com/ZacSweers/metro/issues/944) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Optimization] Make graph extensions inner classes + use direct field access"
+
+**2025-08-16** — merged PR [#2027](https://github.com/ZacSweers/CatchUp/pull/2027) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Kotlin 2.2.10"
+
+**2025-08-16** — commented on [#943](https://github.com/ZacSweers/metro/pull/943#issuecomment-3193872320) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-16** — commented on [#2199](https://github.com/slackhq/circuit/pull/2199#issuecomment-3193869143) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-08-16** — merged PR [#360](https://github.com/ZacSweers/kotlin-compile-testing/pull/360) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Kotlin 2.2.10"
+
 **2025-08-16** — merged PR [#939](https://github.com/ZacSweers/metro/pull/939) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[FEATURE] Added support for versioned mkdocs site using `mike`"
-
-**2025-08-16** — merged PR [#938](https://github.com/ZacSweers/metro/pull/938) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[MIGRATION] Manual migration to versioned metro doc site using `mike`"
-
-**2025-08-15** — merged PR [#937](https://github.com/ZacSweers/metro/pull/937) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "[DISABLE] Automatic docs site generation workflow"
-
-**2025-08-15** — closed issue [#935](https://github.com/ZacSweers/metro/issues/935) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "'Unknown file' Error message when no factory is found for a Java class with an `@Inject` constructor"
-
-**2025-08-15** — merged PR [#936](https://github.com/ZacSweers/metro/pull/936) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix Kotlin internal error overriding Metro error when there's a missing factory for a Java `@Inject` class"
-
-**2025-08-15** — merged PR [#942](https://github.com/ZacSweers/metro/pull/942) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: CI failure on `main` - Kotlin/Wasm package lock files"
-
-**2025-08-15** — commented on [#942](https://github.com/ZacSweers/metro/pull/942#issuecomment-3193341633) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-15** — commented on [#941](https://github.com/ZacSweers/metro/issues/941#issuecomment-3193281964) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-15** — closed issue [#941](https://github.com/ZacSweers/metro/issues/941) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Support @ContributesBinding on @GraphExtension.Factory interfaces"
-
-**2025-08-15** — commented on [#928](https://github.com/ZacSweers/metro/issues/928#issuecomment-3192950429) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
