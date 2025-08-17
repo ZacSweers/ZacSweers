@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-17** — opened PR [#950](https://github.com/ZacSweers/metro/pull/950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph extensions as inner classes"
+
+**2025-08-17** — created branch `z/inner` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-17** — merged PR [#786](https://github.com/ZacSweers/MoshiX/pull/786) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.2.10"
 
 **2025-08-17** — commented on [#949](https://github.com/ZacSweers/metro/issues/949#issuecomment-3194572674) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-16** — closed issue [#940](https://github.com/ZacSweers/metro/issues/940) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regression with @GraphExtension.Factory interface overriding method"
 
 **2025-08-16** — merged PR [#946](https://github.com/ZacSweers/metro/pull/946) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't override graph extension factories' default functions"
-
-**2025-08-16** — closed issue [#945](https://github.com/ZacSweers/metro/issues/945) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Metro github pages docs deployment with mike - Permission issue"
-
-**2025-08-16** — opened PR [#946](https://github.com/ZacSweers/metro/pull/946) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Don't override graph extension factories' default functions"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
