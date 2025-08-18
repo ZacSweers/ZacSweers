@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-17** — commented on [#951](https://github.com/ZacSweers/metro/issues/951#issuecomment-3194801321) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-17** — opened PR [#950](https://github.com/ZacSweers/metro/pull/950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph extensions as inner classes"
-
-**2025-08-17** — created branch `z/inner` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-17** — merged PR [#786](https://github.com/ZacSweers/MoshiX/pull/786) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Kotlin 2.2.10"
-
-**2025-08-17** — commented on [#949](https://github.com/ZacSweers/metro/issues/949#issuecomment-3194572674) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-17** — merged PR [#947](https://github.com/ZacSweers/metro/pull/947) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "update: Optimize metro docs workflow"
-
-**2025-08-17** — merged PR [#948](https://github.com/ZacSweers/metro/pull/948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "cleanup: configured mike to use the `latest` symlink for default release"
-
-**2025-08-16** — commented on [#917](https://github.com/ZacSweers/metro/issues/917#issuecomment-3193913392) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-16** — merged PR [#891](https://github.com/ZacSweers/metro/pull/891) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.2"
-
-**2025-08-16** — closed issue [#940](https://github.com/ZacSweers/metro/issues/940) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regression with @GraphExtension.Factory interface overriding method"
+**2025-08-17** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
