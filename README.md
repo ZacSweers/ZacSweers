@@ -28,6 +28,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## On My Blog
 <!-- blog starts -->
+**2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
+
 **2025-07-01** — [Don't use Type-safe Project Accessors with Kotlin Gradle DSL](https://www.zacsweers.dev/dont-use-type-safe-project-accessors-with-kotlin-gradle-dsl/)
 
 **2025-04-03** — [Introducing Metro](https://www.zacsweers.dev/introducing-metro/)
@@ -45,8 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
 
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
-
-**2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
