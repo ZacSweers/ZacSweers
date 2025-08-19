@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-18** — closed issue [#952](https://github.com/ZacSweers/metro/issues/952) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not warn on compatible Kotlin version"
+
+**2025-08-18** — commented on [#952](https://github.com/ZacSweers/metro/issues/952#issuecomment-3197200502) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-17** — commented on [#951](https://github.com/ZacSweers/metro/issues/951#issuecomment-3194801321) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-17** — opened PR [#950](https://github.com/ZacSweers/metro/pull/950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph extensions as inner classes"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-17** — merged PR [#948](https://github.com/ZacSweers/metro/pull/948) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "cleanup: configured mike to use the `latest` symlink for default release"
 
 **2025-08-16** — commented on [#917](https://github.com/ZacSweers/metro/issues/917#issuecomment-3193913392) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-16** — merged PR [#891](https://github.com/ZacSweers/metro/pull/891) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.0.2"
-
-**2025-08-16** — closed issue [#940](https://github.com/ZacSweers/metro/issues/940) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Regression with @GraphExtension.Factory interface overriding method"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
