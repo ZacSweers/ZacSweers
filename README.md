@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-19** — merged PR [#964](https://github.com/ZacSweers/metro/pull/964) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix (phase 1): Added 404 support that broke after introducing `mike`"
+
 **2025-08-19** — commented on [#1105](https://github.com/slackhq/foundry/issues/1105#issuecomment-3201372882) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-08-19** — closed issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-18** — commented on [#951](https://github.com/ZacSweers/metro/issues/951#issuecomment-3198172323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-18** — closed issue [#952](https://github.com/ZacSweers/metro/issues/952) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not warn on compatible Kotlin version"
-
-**2025-08-18** — commented on [#952](https://github.com/ZacSweers/metro/issues/952#issuecomment-3197200502) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
