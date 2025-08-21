@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212005289) in [androidx/androidx](https://github.com/androidx/androidx)
+
 **2025-08-19** — merged PR [#964](https://github.com/ZacSweers/metro/pull/964) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix (phase 1): Added 404 support that broke after introducing `mike`"
 
 **2025-08-19** — commented on [#1105](https://github.com/slackhq/foundry/issues/1105#issuecomment-3201372882) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-18** — merged PR [#950](https://github.com/ZacSweers/metro/pull/950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph extensions as inner classes"
 
 **2025-08-18** — commented on [#951](https://github.com/ZacSweers/metro/issues/951#issuecomment-3198172323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-18** — closed issue [#952](https://github.com/ZacSweers/metro/issues/952) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Do not warn on compatible Kotlin version"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
