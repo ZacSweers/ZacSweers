@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212014584) in [androidx/androidx](https://github.com/androidx/androidx)
+
+**2025-08-21** — opened PR [#801](https://github.com/androidx/androidx/pull/801) to [androidx/androidx](https://github.com/androidx/androidx): "Mark ComposeTestRule.setContent as `@UiComposable`"
+
+**2025-08-21** — created branch `z/uicomposable` on [ZacSweers/androidx-fork](https://github.com/ZacSweers/androidx-fork)
+
 **2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212005289) in [androidx/androidx](https://github.com/androidx/androidx)
 
 **2025-08-19** — merged PR [#964](https://github.com/ZacSweers/metro/pull/964) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix (phase 1): Added 404 support that broke after introducing `mike`"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-18** — merged PR [#954](https://github.com/ZacSweers/metro/pull/954) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.11"
 
 **2025-08-18** — created branch `z/newName` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-18** — closed issue [#944](https://github.com/ZacSweers/metro/issues/944) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Optimization] Make graph extensions inner classes + use direct field access"
-
-**2025-08-18** — merged PR [#950](https://github.com/ZacSweers/metro/pull/950) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Generate graph extensions as inner classes"
-
-**2025-08-18** — commented on [#951](https://github.com/ZacSweers/metro/issues/951#issuecomment-3198172323) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
