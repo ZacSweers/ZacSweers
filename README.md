@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — merged PR [#977](https://github.com/ZacSweers/metro/pull/977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid deferred fields to allocate a new provider for scoped bindings"
+
 **2025-08-21** — merged PR [#2085](https://github.com/ZacSweers/CatchUp/pull/2085) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.12.0"
 
 **2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212014584) in [androidx/androidx](https://github.com/androidx/androidx)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-19** — closed issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
 
 **2025-08-18** — opened PR [#955](https://github.com/ZacSweers/metro/pull/955) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename strict validation"
-
-**2025-08-18** — merged PR [#954](https://github.com/ZacSweers/metro/pull/954) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.3.11"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
