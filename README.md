@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — merged PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
+
+**2025-08-22** — opened issue [#1513](https://github.com/slackhq/foundry/issues/1513) on [slackhq/foundry](https://github.com/slackhq/foundry): "Prepare for AGP 9.0"
+
+**2025-08-22** — opened PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
+
+**2025-08-22** — created branch `z/expressionGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — merged PR [#977](https://github.com/ZacSweers/metro/pull/977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid deferred fields to allocate a new provider for scoped bindings"
 
 **2025-08-21** — merged PR [#2085](https://github.com/ZacSweers/CatchUp/pull/2085) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.12.0"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-21** — created branch `z/uicomposable` on [ZacSweers/androidx-fork](https://github.com/ZacSweers/androidx-fork)
 
 **2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212005289) in [androidx/androidx](https://github.com/androidx/androidx)
-
-**2025-08-19** — merged PR [#964](https://github.com/ZacSweers/metro/pull/964) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix (phase 1): Added 404 support that broke after introducing `mike`"
-
-**2025-08-19** — commented on [#1105](https://github.com/slackhq/foundry/issues/1105#issuecomment-3201372882) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-08-19** — closed issue [#1105](https://github.com/slackhq/foundry/issues/1105) on [slackhq/foundry](https://github.com/slackhq/foundry): "Don't add includeSourceInformation in compose android projects on debuggable variants"
-
-**2025-08-18** — opened PR [#955](https://github.com/ZacSweers/metro/pull/955) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Rename strict validation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
