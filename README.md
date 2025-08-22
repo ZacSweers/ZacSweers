@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — closed issue [#966](https://github.com/ZacSweers/metro/issues/966) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "BindingContainer class with constructor should provide proper error message"
+
+**2025-08-22** — merged PR [#980](https://github.com/ZacSweers/metro/pull/980) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for contributed binding containers with no (visible) noarg constructor"
+
+**2025-08-22** — opened PR [#980](https://github.com/ZacSweers/metro/pull/980) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for contributed binding containers with no (visible) noarg constructor"
+
+**2025-08-22** — created branch `z/noConstructorError` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-22** — merged PR [#979](https://github.com/ZacSweers/metro/pull/979) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exclude internal APIs from dokka"
+
+**2025-08-22** — opened PR [#979](https://github.com/ZacSweers/metro/pull/979) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exclude internal APIs from dokka"
+
+**2025-08-22** — created branch `z/excludeInternal` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — merged PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
 
 **2025-08-22** — opened issue [#1513](https://github.com/slackhq/foundry/issues/1513) on [slackhq/foundry](https://github.com/slackhq/foundry): "Prepare for AGP 9.0"
 
 **2025-08-22** — opened PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
-
-**2025-08-22** — created branch `z/expressionGen` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — merged PR [#977](https://github.com/ZacSweers/metro/pull/977) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Avoid deferred fields to allocate a new provider for scoped bindings"
-
-**2025-08-21** — merged PR [#2085](https://github.com/ZacSweers/CatchUp/pull/2085) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin doctor to v0.12.0"
-
-**2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212014584) in [androidx/androidx](https://github.com/androidx/androidx)
-
-**2025-08-21** — opened PR [#801](https://github.com/androidx/androidx/pull/801) to [androidx/androidx](https://github.com/androidx/androidx): "Mark ComposeTestRule.setContent as `@UiComposable`"
-
-**2025-08-21** — created branch `z/uicomposable` on [ZacSweers/androidx-fork](https://github.com/ZacSweers/androidx-fork)
-
-**2025-08-21** — commented on [#800](https://github.com/androidx/androidx/pull/800#issuecomment-3212005289) in [androidx/androidx](https://github.com/androidx/androidx)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
