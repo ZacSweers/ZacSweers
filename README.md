@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — created tag `0.6.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-22** — merged PR [#985](https://github.com/ZacSweers/metro/pull/985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix child graphs inheriting their own factories"
+
+**2025-08-22** — opened PR [#985](https://github.com/ZacSweers/metro/pull/985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix child graphs inheriting their own factories"
+
+**2025-08-22** — created branch `z/betterHandleIntermediate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — closed issue [#887](https://github.com/ZacSweers/metro/issues/887) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error message for internal implementations"
 
 **2025-08-22** — merged PR [#981](https://github.com/ZacSweers/metro/pull/981) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hints for internal contributing types"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-22** — created branch `z/internalWarning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-22** — closed issue [#966](https://github.com/ZacSweers/metro/issues/966) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "BindingContainer class with constructor should provide proper error message"
-
-**2025-08-22** — merged PR [#980](https://github.com/ZacSweers/metro/pull/980) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for contributed binding containers with no (visible) noarg constructor"
-
-**2025-08-22** — opened PR [#980](https://github.com/ZacSweers/metro/pull/980) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for contributed binding containers with no (visible) noarg constructor"
-
-**2025-08-22** — created branch `z/noConstructorError` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — merged PR [#979](https://github.com/ZacSweers/metro/pull/979) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exclude internal APIs from dokka"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
