@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — closed issue [#887](https://github.com/ZacSweers/metro/issues/887) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error message for internal implementations"
+
+**2025-08-22** — merged PR [#981](https://github.com/ZacSweers/metro/pull/981) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hints for internal contributing types"
+
+**2025-08-22** — commented on [#887](https://github.com/ZacSweers/metro/issues/887#issuecomment-3213374138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-22** — opened PR [#981](https://github.com/ZacSweers/metro/pull/981) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hints for internal contributing types"
+
+**2025-08-22** — created branch `z/internalWarning` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — closed issue [#966](https://github.com/ZacSweers/metro/issues/966) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "BindingContainer class with constructor should provide proper error message"
 
 **2025-08-22** — merged PR [#980](https://github.com/ZacSweers/metro/pull/980) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add diagnostic for contributed binding containers with no (visible) noarg constructor"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-22** — created branch `z/noConstructorError` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-22** — merged PR [#979](https://github.com/ZacSweers/metro/pull/979) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exclude internal APIs from dokka"
-
-**2025-08-22** — opened PR [#979](https://github.com/ZacSweers/metro/pull/979) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Exclude internal APIs from dokka"
-
-**2025-08-22** — created branch `z/excludeInternal` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — merged PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
-
-**2025-08-22** — opened issue [#1513](https://github.com/slackhq/foundry/issues/1513) on [slackhq/foundry](https://github.com/slackhq/foundry): "Prepare for AGP 9.0"
-
-**2025-08-22** — opened PR [#978](https://github.com/ZacSweers/metro/pull/978) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Refactor expression code gen"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
