@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — commented on [#984](https://github.com/ZacSweers/metro/pull/984#issuecomment-3215510442) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-22** — merged PR [#2086](https://github.com/ZacSweers/CatchUp/pull/2086) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.2"
+
+**2025-08-22** — merged PR [#257](https://github.com/ZacSweers/FieldSpottr/pull/257) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.2"
+
+**2025-08-22** — commented on [#8410](https://github.com/squidfunk/mkdocs-material/issues/8410#issuecomment-3215441418) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+
+**2025-08-22** — merged PR [#987](https://github.com/ZacSweers/metro/pull/987) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in docs"
+
+**2025-08-22** — commented on [#932](https://github.com/ZacSweers/metro/pull/932#issuecomment-3215408288) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-22** — opened issue [#8410](https://github.com/squidfunk/mkdocs-material/issues/8410) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): "Click dependency is in conflict with latest mkdocs"
+
+**2025-08-22** — commented on [#987](https://github.com/ZacSweers/metro/pull/987#issuecomment-3215398133) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — merged PR [#986](https://github.com/ZacSweers/metro/pull/986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run CI on docsite requirements changes"
 
 **2025-08-22** — opened PR [#986](https://github.com/ZacSweers/metro/pull/986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run CI on docsite requirements changes"
-
-**2025-08-22** — created branch `z/docSiteCi` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — created tag `0.6.2` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — merged PR [#985](https://github.com/ZacSweers/metro/pull/985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix child graphs inheriting their own factories"
-
-**2025-08-22** — opened PR [#985](https://github.com/ZacSweers/metro/pull/985) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix child graphs inheriting their own factories"
-
-**2025-08-22** — created branch `z/betterHandleIntermediate` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — closed issue [#887](https://github.com/ZacSweers/metro/issues/887) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Improve error message for internal implementations"
-
-**2025-08-22** — merged PR [#981](https://github.com/ZacSweers/metro/pull/981) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add hints for internal contributing types"
-
-**2025-08-22** — commented on [#887](https://github.com/ZacSweers/metro/issues/887#issuecomment-3213374138) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
