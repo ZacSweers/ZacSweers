@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-22** — commented on [#982](https://github.com/ZacSweers/metro/issues/982#issuecomment-3215726714) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-22** — commented on [#984](https://github.com/ZacSweers/metro/pull/984#issuecomment-3215510442) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-22** — merged PR [#2086](https://github.com/ZacSweers/CatchUp/pull/2086) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-22** — commented on [#987](https://github.com/ZacSweers/metro/pull/987#issuecomment-3215398133) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-22** — merged PR [#986](https://github.com/ZacSweers/metro/pull/986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run CI on docsite requirements changes"
-
-**2025-08-22** — opened PR [#986](https://github.com/ZacSweers/metro/pull/986) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Run CI on docsite requirements changes"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
