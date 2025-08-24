@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-24** — commented on [#992](https://github.com/ZacSweers/metro/issues/992#issuecomment-3218357621) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-24** — merged PR [#2087](https://github.com/ZacSweers/CatchUp/pull/2087) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.3"
 
 **2025-08-23** — created tag `0.6.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-23** — closed PR [#984](https://github.com/ZacSweers/metro/pull/984) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add failing test for issue #983"
 
 **2025-08-23** — opened PR [#991](https://github.com/ZacSweers/metro/pull/991) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow transitive binding containers from includes params"
-
-**2025-08-23** — created branch `z/transitiveIncludesParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
