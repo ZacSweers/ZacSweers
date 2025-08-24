@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-23** — created tag `0.6.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-23** — closed issue [#983](https://github.com/ZacSweers/metro/issues/983) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Dagger Interop] Graph extensions can't access providers from nested/included modules"
+
+**2025-08-23** — merged PR [#991](https://github.com/ZacSweers/metro/pull/991) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow transitive binding containers from includes params"
+
 **2025-08-23** — commented on [#704](https://github.com/ZacSweers/metro/issues/704#issuecomment-3217354498) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-23** — closed issue [#704](https://github.com/ZacSweers/metro/issues/704) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for dagger/anvil ContributesSubcomponent.parentScope"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-23** — created branch `z/transitiveIncludesParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-23** — commented on [#983](https://github.com/ZacSweers/metro/issues/983#issuecomment-3217316020) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-23** — merged PR [#990](https://github.com/ZacSweers/metro/pull/990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add callouts"
-
-**2025-08-23** — closed issue [#982](https://github.com/ZacSweers/metro/issues/982) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException with Multibindings from different scopes and an extension graph"
-
-**2025-08-23** — merged PR [#988](https://github.com/ZacSweers/metro/pull/988) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider fields for graph instances"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
