@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-23** — opened PR [#990](https://github.com/ZacSweers/metro/pull/990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add callouts"
+**2025-08-23** — commented on [#704](https://github.com/ZacSweers/metro/issues/704#issuecomment-3217354498) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-23** — created branch `z/callouts` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-23** — closed issue [#704](https://github.com/ZacSweers/metro/issues/704) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for dagger/anvil ContributesSubcomponent.parentScope"
 
-**2025-08-23** — merged PR [#989](https://github.com/ZacSweers/metro/pull/989) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "added: doc site cleanup script with workflow step"
+**2025-08-23** — commented on [#984](https://github.com/ZacSweers/metro/pull/984#issuecomment-3217348832) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-22** — opened PR [#988](https://github.com/ZacSweers/metro/pull/988) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider fields for graph instances"
+**2025-08-23** — closed PR [#984](https://github.com/ZacSweers/metro/pull/984) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add failing test for issue #983"
 
-**2025-08-22** — created branch `z/fix982` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-23** — opened PR [#991](https://github.com/ZacSweers/metro/pull/991) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow transitive binding containers from includes params"
 
-**2025-08-22** — commented on [#982](https://github.com/ZacSweers/metro/issues/982#issuecomment-3215726714) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-23** — created branch `z/transitiveIncludesParams` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-22** — commented on [#984](https://github.com/ZacSweers/metro/pull/984#issuecomment-3215510442) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-23** — commented on [#983](https://github.com/ZacSweers/metro/issues/983#issuecomment-3217316020) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-22** — merged PR [#2086](https://github.com/ZacSweers/CatchUp/pull/2086) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.2"
+**2025-08-23** — merged PR [#990](https://github.com/ZacSweers/metro/pull/990) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add callouts"
 
-**2025-08-22** — merged PR [#257](https://github.com/ZacSweers/FieldSpottr/pull/257) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.2"
+**2025-08-23** — closed issue [#982](https://github.com/ZacSweers/metro/issues/982) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "ClassCastException with Multibindings from different scopes and an extension graph"
 
-**2025-08-22** — commented on [#8410](https://github.com/squidfunk/mkdocs-material/issues/8410#issuecomment-3215441418) in [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material)
+**2025-08-23** — merged PR [#988](https://github.com/ZacSweers/metro/pull/988) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider fields for graph instances"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
