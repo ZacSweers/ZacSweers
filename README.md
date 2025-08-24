@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-23** — merged PR [#989](https://github.com/ZacSweers/metro/pull/989) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "added: doc site cleanup script with workflow step"
+
 **2025-08-22** — opened PR [#988](https://github.com/ZacSweers/metro/pull/988) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure provider fields for graph instances"
 
 **2025-08-22** — created branch `z/fix982` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-22** — merged PR [#987](https://github.com/ZacSweers/metro/pull/987) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix typo in docs"
 
 **2025-08-22** — commented on [#932](https://github.com/ZacSweers/metro/pull/932#issuecomment-3215408288) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-22** — opened issue [#8410](https://github.com/squidfunk/mkdocs-material/issues/8410) on [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material): "Click dependency is in conflict with latest mkdocs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
