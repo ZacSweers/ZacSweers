@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-25** — merged PR [#994](https://github.com/ZacSweers/metro/pull/994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up @Extends annotation from doc"
+
 **2025-08-24** — commented on [#992](https://github.com/ZacSweers/metro/issues/992#issuecomment-3218390518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-24** — commented on [#992](https://github.com/ZacSweers/metro/issues/992#issuecomment-3218357621) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-23** — closed issue [#704](https://github.com/ZacSweers/metro/issues/704) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add interop support for dagger/anvil ContributesSubcomponent.parentScope"
 
 **2025-08-23** — commented on [#984](https://github.com/ZacSweers/metro/pull/984#issuecomment-3217348832) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-23** — closed PR [#984](https://github.com/ZacSweers/metro/pull/984) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add failing test for issue #983"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
