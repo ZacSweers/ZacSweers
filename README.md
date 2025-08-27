@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-26** — opened issue [#999](https://github.com/ZacSweers/metro/issues/999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate simplifying contributing multiple bindings with less code"
+
 **2025-08-26** — merged PR [#995](https://github.com/ZacSweers/metro/pull/995) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin testkit to v0.16"
 
 **2025-08-26** — merged PR [#996](https://github.com/ZacSweers/metro/pull/996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.autonomousapps:gradle-testkit-support to v0.20"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-23** — created tag `0.6.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-23** — closed issue [#983](https://github.com/ZacSweers/metro/issues/983) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Dagger Interop] Graph extensions can't access providers from nested/included modules"
-
-**2025-08-23** — merged PR [#991](https://github.com/ZacSweers/metro/pull/991) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow transitive binding containers from includes params"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
