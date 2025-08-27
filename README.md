@@ -21,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-26** — merged PR [#362](https://github.com/ZacSweers/kotlin-compile-testing/pull/362) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v252.23892.530"
 
 **2025-08-26** — merged PR [#374](https://github.com/ZacSweers/kotlin-compile-testing/pull/374) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/setup-java action to v5"
-
-**2025-08-26** — merged PR [#2088](https://github.com/ZacSweers/CatchUp/pull/2088) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.21.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
