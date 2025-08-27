@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-26** — opened issue [#999](https://github.com/ZacSweers/metro/issues/999) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate simplifying contributing multiple bindings with less code"
+**2025-08-26** — commented on [#165](https://github.com/touchlab/SKIE/issues/165#issuecomment-3226599734) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
 
-**2025-08-26** — merged PR [#995](https://github.com/ZacSweers/metro/pull/995) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin testkit to v0.16"
+**2025-08-26** — commented on [#2200](https://github.com/slackhq/circuit/pull/2200#issuecomment-3226596624) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2025-08-26** — merged PR [#996](https://github.com/ZacSweers/metro/pull/996) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.autonomousapps:gradle-testkit-support to v0.20"
+**2025-08-26** — created branch `z/serializableScreen` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
-**2025-08-26** — commented on [#33525](https://github.com/gradle/gradle/issues/33525#issuecomment-3224588500) in [gradle/gradle](https://github.com/gradle/gradle)
+**2025-08-26** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3226553485) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-25** — merged PR [#994](https://github.com/ZacSweers/metro/pull/994) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Clean up @Extends annotation from doc"
+**2025-08-26** — closed PR [#372](https://github.com/ZacSweers/kotlin-compile-testing/pull/372) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.2.20-ij252-17"
 
-**2025-08-24** — commented on [#992](https://github.com/ZacSweers/metro/issues/992#issuecomment-3218390518) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-26** — closed PR [#367](https://github.com/ZacSweers/kotlin-compile-testing/pull/367) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v253"
 
-**2025-08-24** — commented on [#992](https://github.com/ZacSweers/metro/issues/992#issuecomment-3218357621) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-26** — merged PR [#373](https://github.com/ZacSweers/kotlin-compile-testing/pull/373) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.19.0"
 
-**2025-08-24** — merged PR [#2087](https://github.com/ZacSweers/CatchUp/pull/2087) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.3"
+**2025-08-26** — merged PR [#362](https://github.com/ZacSweers/kotlin-compile-testing/pull/362) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v252.23892.530"
 
-**2025-08-23** — created tag `0.6.3` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-26** — merged PR [#374](https://github.com/ZacSweers/kotlin-compile-testing/pull/374) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/setup-java action to v5"
 
-**2025-08-23** — closed issue [#983](https://github.com/ZacSweers/metro/issues/983) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "[Dagger Interop] Graph extensions can't access providers from nested/included modules"
+**2025-08-26** — merged PR [#2088](https://github.com/ZacSweers/CatchUp/pull/2088) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency org.jsoup:jsoup to v1.21.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
