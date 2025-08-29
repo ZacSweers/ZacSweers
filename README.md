@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-28** — commented on [#1006](https://github.com/ZacSweers/metro/issues/1006#issuecomment-3235589760) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-28** — closed issue [#1006](https://github.com/ZacSweers/metro/issues/1006) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Root dependency graph is missing bindings from contributed binding container's included containers"
+
+**2025-08-28** — merged PR [#1007](https://github.com/ZacSweers/metro/pull/1007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure contributed binding containers' included containers are available in root dependency graphs"
+
 **2025-08-28** — merged PR [#1498](https://github.com/slackhq/foundry/pull/1498) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/checkout action to v5"
 
 **2025-08-28** — merged PR [#1519](https://github.com/slackhq/foundry/pull/1519) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v3 (major)"
@@ -15,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-28** — merged PR [#259](https://github.com/ZacSweers/FieldSpottr/pull/259) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.2"
 
 **2025-08-26** — commented on [#165](https://github.com/touchlab/SKIE/issues/165#issuecomment-3226599734) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
-
-**2025-08-26** — commented on [#2200](https://github.com/slackhq/circuit/pull/2200#issuecomment-3226596624) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-08-26** — created branch `z/serializableScreen` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-08-26** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3226553485) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
