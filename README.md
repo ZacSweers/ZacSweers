@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-29** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3238022019) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
 **2025-08-28** — commented on [#1006](https://github.com/ZacSweers/metro/issues/1006#issuecomment-3235589760) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-28** — closed issue [#1006](https://github.com/ZacSweers/metro/issues/1006) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Root dependency graph is missing bindings from contributed binding container's included containers"
@@ -19,8 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-28** — merged PR [#1518](https://github.com/slackhq/foundry/pull/1518) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-java action to v5"
 
 **2025-08-28** — merged PR [#259](https://github.com/ZacSweers/FieldSpottr/pull/259) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.2"
-
-**2025-08-26** — commented on [#165](https://github.com/touchlab/SKIE/issues/165#issuecomment-3226599734) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
