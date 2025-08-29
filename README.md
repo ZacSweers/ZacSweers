@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-28** — merged PR [#1498](https://github.com/slackhq/foundry/pull/1498) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/checkout action to v5"
+
+**2025-08-28** — merged PR [#1519](https://github.com/slackhq/foundry/pull/1519) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v3 (major)"
+
+**2025-08-28** — merged PR [#2255](https://github.com/slackhq/circuit/pull/2255) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update actions/setup-java action to v5"
+
+**2025-08-28** — merged PR [#1518](https://github.com/slackhq/foundry/pull/1518) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-java action to v5"
+
+**2025-08-28** — merged PR [#259](https://github.com/ZacSweers/FieldSpottr/pull/259) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.2"
+
 **2025-08-26** — commented on [#165](https://github.com/touchlab/SKIE/issues/165#issuecomment-3226599734) in [touchlab/SKIE](https://github.com/touchlab/SKIE)
 
 **2025-08-26** — commented on [#2200](https://github.com/slackhq/circuit/pull/2200#issuecomment-3226596624) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -11,16 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-26** — created branch `z/serializableScreen` on [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-08-26** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3226553485) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-26** — closed PR [#372](https://github.com/ZacSweers/kotlin-compile-testing/pull/372) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update kotlin monorepo to v2.2.20-ij252-17"
-
-**2025-08-26** — closed PR [#367](https://github.com/ZacSweers/kotlin-compile-testing/pull/367) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency com.jetbrains.intellij.platform:util to v253"
-
-**2025-08-26** — merged PR [#373](https://github.com/ZacSweers/kotlin-compile-testing/pull/373) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update dependency org.mockito:mockito-core to v5.19.0"
-
-**2025-08-26** — merged PR [#362](https://github.com/ZacSweers/kotlin-compile-testing/pull/362) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v252.23892.530"
-
-**2025-08-26** — merged PR [#374](https://github.com/ZacSweers/kotlin-compile-testing/pull/374) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update actions/setup-java action to v5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
