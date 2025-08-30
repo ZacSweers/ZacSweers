@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-30** — Could not load GitHub activity. Please check back later.
+**2025-08-30** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-3238939906) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-08-29** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3238022019) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-08-28** — commented on [#1006](https://github.com/ZacSweers/metro/issues/1006#issuecomment-3235589760) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-08-28** — closed issue [#1006](https://github.com/ZacSweers/metro/issues/1006) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Root dependency graph is missing bindings from contributed binding container's included containers"
+
+**2025-08-28** — merged PR [#1007](https://github.com/ZacSweers/metro/pull/1007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure contributed binding containers' included containers are available in root dependency graphs"
+
+**2025-08-28** — merged PR [#1498](https://github.com/slackhq/foundry/pull/1498) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/checkout action to v5"
+
+**2025-08-28** — merged PR [#1519](https://github.com/slackhq/foundry/pull/1519) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v3 (major)"
+
+**2025-08-28** — merged PR [#2255](https://github.com/slackhq/circuit/pull/2255) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update actions/setup-java action to v5"
+
+**2025-08-28** — merged PR [#1518](https://github.com/slackhq/foundry/pull/1518) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-java action to v5"
+
+**2025-08-28** — merged PR [#259](https://github.com/ZacSweers/FieldSpottr/pull/259) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
