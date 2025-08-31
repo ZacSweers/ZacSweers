@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-31** — merged PR [#375](https://github.com/ZacSweers/kotlin-compile-testing/pull/375) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v252.25557.131"
+
 **2025-08-30** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-3238939906) in [slackhq/foundry](https://github.com/slackhq/foundry)
 
 **2025-08-29** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3238022019) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-28** — merged PR [#2255](https://github.com/slackhq/circuit/pull/2255) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update actions/setup-java action to v5"
 
 **2025-08-28** — merged PR [#1518](https://github.com/slackhq/foundry/pull/1518) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-java action to v5"
-
-**2025-08-28** — merged PR [#259](https://github.com/ZacSweers/FieldSpottr/pull/259) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.12.2"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
