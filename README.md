@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-31** — merged PR [#375](https://github.com/ZacSweers/kotlin-compile-testing/pull/375) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update idea to v252.25557.131"
+**2025-08-31** — commented on [#1001](https://github.com/ZacSweers/metro/issues/1001#issuecomment-3240391747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-08-30** — commented on [#1513](https://github.com/slackhq/foundry/issues/1513#issuecomment-3238939906) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-08-31** — closed issue [#993](https://github.com/ZacSweers/metro/issues/993) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency provided thru a graph's factory @Includes isn't available to child graph extension"
 
-**2025-08-29** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3238022019) in [slackhq/foundry](https://github.com/slackhq/foundry)
+**2025-08-31** — merged PR [#1000](https://github.com/ZacSweers/metro/pull/1000) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make `@Includes` parameter keys available to extensions."
 
-**2025-08-28** — commented on [#1006](https://github.com/ZacSweers/metro/issues/1006#issuecomment-3235589760) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-08-31** — merged PR [#2099](https://github.com/ZacSweers/CatchUp/pull/2099) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.0"
 
-**2025-08-28** — closed issue [#1006](https://github.com/ZacSweers/metro/issues/1006) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Root dependency graph is missing bindings from contributed binding container's included containers"
+**2025-08-31** — merged PR [#2090](https://github.com/ZacSweers/CatchUp/pull/2090) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha07"
 
-**2025-08-28** — merged PR [#1007](https://github.com/ZacSweers/metro/pull/1007) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Ensure contributed binding containers' included containers are available in root dependency graphs"
+**2025-08-31** — merged PR [#2098](https://github.com/ZacSweers/CatchUp/pull/2098) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.0"
 
-**2025-08-28** — merged PR [#1498](https://github.com/slackhq/foundry/pull/1498) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/checkout action to v5"
+**2025-08-31** — merged PR [#2091](https://github.com/ZacSweers/CatchUp/pull/2091) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.0-rc02"
 
-**2025-08-28** — merged PR [#1519](https://github.com/slackhq/foundry/pull/1519) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependencyAnalysisPlugin to v3 (major)"
+**2025-08-31** — merged PR [#2092](https://github.com/ZacSweers/CatchUp/pull/2092) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.4.0-alpha03"
 
-**2025-08-28** — merged PR [#2255](https://github.com/slackhq/circuit/pull/2255) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update actions/setup-java action to v5"
+**2025-08-31** — merged PR [#2093](https://github.com/ZacSweers/CatchUp/pull/2093) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.5.0-rc01"
 
-**2025-08-28** — merged PR [#1518](https://github.com/slackhq/foundry/pull/1518) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-java action to v5"
+**2025-08-31** — merged PR [#2094](https://github.com/ZacSweers/CatchUp/pull/2094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
