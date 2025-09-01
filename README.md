@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — closed issue [#1001](https://github.com/ZacSweers/metro/issues/1001) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency from shared included container added to multiple graph extensions is missing"
+
+**2025-09-01** — merged PR [#1009](https://github.com/ZacSweers/metro/pull/1009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container traversal"
+
+**2025-08-31** — opened PR [#1009](https://github.com/ZacSweers/metro/pull/1009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container traversal"
+
+**2025-08-31** — created branch `z/fixdupeincludes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-08-31** — commented on [#1001](https://github.com/ZacSweers/metro/issues/1001#issuecomment-3240391747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-08-31** — closed issue [#993](https://github.com/ZacSweers/metro/issues/993) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency provided thru a graph's factory @Includes isn't available to child graph extension"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-31** — merged PR [#2090](https://github.com/ZacSweers/CatchUp/pull/2090) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha07"
 
 **2025-08-31** — merged PR [#2098](https://github.com/ZacSweers/CatchUp/pull/2098) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.0"
-
-**2025-08-31** — merged PR [#2091](https://github.com/ZacSweers/CatchUp/pull/2091) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.sqlite to v2.6.0-rc02"
-
-**2025-08-31** — merged PR [#2092](https://github.com/ZacSweers/CatchUp/pull/2092) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.paging:paging-compose to v3.4.0-alpha03"
-
-**2025-08-31** — merged PR [#2093](https://github.com/ZacSweers/CatchUp/pull/2093) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency androidx.window:window to v1.5.0-rc01"
-
-**2025-08-31** — merged PR [#2094](https://github.com/ZacSweers/CatchUp/pull/2094) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update lifecycle to v2.10.0-alpha03"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
