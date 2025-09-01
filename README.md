@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — opened PR [#1010](https://github.com/ZacSweers/metro/pull/1010) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check mismatched qualifiers in accessors"
+
+**2025-09-01** — created branch `z/checkMatchingDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-01** — closed issue [#1001](https://github.com/ZacSweers/metro/issues/1001) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency from shared included container added to multiple graph extensions is missing"
 
 **2025-09-01** — merged PR [#1009](https://github.com/ZacSweers/metro/pull/1009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container traversal"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-08-31** — merged PR [#1000](https://github.com/ZacSweers/metro/pull/1000) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make `@Includes` parameter keys available to extensions."
 
 **2025-08-31** — merged PR [#2099](https://github.com/ZacSweers/CatchUp/pull/2099) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.0"
-
-**2025-08-31** — merged PR [#2090](https://github.com/ZacSweers/CatchUp/pull/2090) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update androidx.activity to v1.12.0-alpha07"
-
-**2025-08-31** — merged PR [#2098](https://github.com/ZacSweers/CatchUp/pull/2098) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
