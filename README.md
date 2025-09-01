@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — commented on [#1013](https://github.com/ZacSweers/metro/issues/1013#issuecomment-3242407046) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-01** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3240973534) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-01** — created tag `0.6.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-01** — created branch `z/containersCannotExtendContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-01** — opened PR [#1010](https://github.com/ZacSweers/metro/pull/1010) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check mismatched qualifiers in accessors"
-
-**2025-09-01** — created branch `z/checkMatchingDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
