@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3240973534) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-01** — created tag `0.6.4` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-01** — closed issue [#992](https://github.com/ZacSweers/metro/issues/992) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Member injection can't locate binding in a binding container parent class"
+
+**2025-09-01** — merged PR [#1011](https://github.com/ZacSweers/metro/pull/1011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow binding containers extending other containers"
+
+**2025-09-01** — closed issue [#998](https://github.com/ZacSweers/metro/issues/998) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add a diagnostic for conflicting accessors"
+
+**2025-09-01** — merged PR [#1010](https://github.com/ZacSweers/metro/pull/1010) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check mismatched qualifiers in accessors"
+
+**2025-09-01** — opened PR [#1011](https://github.com/ZacSweers/metro/pull/1011) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Disallow binding containers extending other containers"
+
+**2025-09-01** — created branch `z/containersCannotExtendContainers` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-01** — opened PR [#1010](https://github.com/ZacSweers/metro/pull/1010) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Check mismatched qualifiers in accessors"
 
 **2025-09-01** — created branch `z/checkMatchingDiagnostics` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-01** — closed issue [#1001](https://github.com/ZacSweers/metro/issues/1001) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency from shared included container added to multiple graph extensions is missing"
-
-**2025-09-01** — merged PR [#1009](https://github.com/ZacSweers/metro/pull/1009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container traversal"
-
-**2025-08-31** — opened PR [#1009](https://github.com/ZacSweers/metro/pull/1009) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix binding container traversal"
-
-**2025-08-31** — created branch `z/fixdupeincludes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-31** — commented on [#1001](https://github.com/ZacSweers/metro/issues/1001#issuecomment-3240391747) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-08-31** — closed issue [#993](https://github.com/ZacSweers/metro/issues/993) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Dependency provided thru a graph's factory @Includes isn't available to child graph extension"
-
-**2025-08-31** — merged PR [#1000](https://github.com/ZacSweers/metro/pull/1000) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Make `@Includes` parameter keys available to extensions."
-
-**2025-08-31** — merged PR [#2099](https://github.com/ZacSweers/CatchUp/pull/2099) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
