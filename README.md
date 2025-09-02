@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — merged PR [#1016](https://github.com/ZacSweers/metro/pull/1016) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "nit: Disabled cleanup step from manual docs site deployment"
+
 **2025-09-01** — merged PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
 
 **2025-09-01** — opened PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-01** — merged PR [#1015](https://github.com/ZacSweers/metro/pull/1015) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat: add manual docs deployment workflow"
 
 **2025-09-01** — closed issue [#1012](https://github.com/ZacSweers/metro/issues/1012) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs-site github actions workflow failed to complete `0.6.4` tagged release"
-
-**2025-09-01** — merged PR [#1014](https://github.com/ZacSweers/metro/pull/1014) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: prioritize tagged releases in docs workflow concurrency"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
