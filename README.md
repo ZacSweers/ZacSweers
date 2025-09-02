@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-01** — merged PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
+
+**2025-09-01** — opened PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
+
+**2025-09-01** — created branch `z/fixFastlane` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2025-09-01** — merged PR [#261](https://github.com/ZacSweers/FieldSpottr/pull/261) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.4"
 
 **2025-09-01** — merged PR [#2100](https://github.com/ZacSweers/CatchUp/pull/2100) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.4"
@@ -17,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-01** — closed issue [#1012](https://github.com/ZacSweers/metro/issues/1012) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs-site github actions workflow failed to complete `0.6.4` tagged release"
 
 **2025-09-01** — merged PR [#1014](https://github.com/ZacSweers/metro/pull/1014) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix: prioritize tagged releases in docs workflow concurrency"
-
-**2025-09-01** — commented on [#1013](https://github.com/ZacSweers/metro/issues/1013#issuecomment-3242407046) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-01** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3240973534) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
