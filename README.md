@@ -4,6 +4,16 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-02** — merged PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
+
+**2025-09-02** — opened PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
+
+**2025-09-02** — created branch `z/nativeMaps` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2025-09-02** — commented on [#9](https://github.com/MohamedRejeb/Calf/issues/9#issuecomment-3246796722) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
+
+**2025-09-02** — merged PR [#1017](https://github.com/ZacSweers/metro/pull/1017) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update wire to v5.4.0"
+
 **2025-09-02** — merged PR [#263](https://github.com/ZacSweers/FieldSpottr/pull/263) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Misc"
 
 **2025-09-02** — opened issue [#354](https://github.com/MohamedRejeb/Calf/issues/354) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Bottom sheet container backgrounds don't seem to fill to corners"
@@ -13,16 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-02** — created branch `z/misc` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-09-02** — opened issue [#1228](https://github.com/mikepenz/AboutLibraries/issues/1228) on [mikepenz/AboutLibraries](https://github.com/mikepenz/AboutLibraries): "Multiplatform dependencies get duplicated in the final JSON"
-
-**2025-09-01** — merged PR [#1016](https://github.com/ZacSweers/metro/pull/1016) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "nit: Disabled cleanup step from manual docs site deployment"
-
-**2025-09-01** — merged PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
-
-**2025-09-01** — opened PR [#262](https://github.com/ZacSweers/FieldSpottr/pull/262) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Fix fastlane"
-
-**2025-09-01** — created branch `z/fixFastlane` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-01** — merged PR [#261](https://github.com/ZacSweers/FieldSpottr/pull/261) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.4"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
