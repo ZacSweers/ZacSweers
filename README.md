@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-02** — merged PR [#263](https://github.com/ZacSweers/FieldSpottr/pull/263) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Misc"
+
+**2025-09-02** — opened issue [#354](https://github.com/MohamedRejeb/Calf/issues/354) on [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf): "Bottom sheet container backgrounds don't seem to fill to corners"
+
 **2025-09-02** — opened PR [#263](https://github.com/ZacSweers/FieldSpottr/pull/263) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Misc"
 
 **2025-09-02** — created branch `z/misc` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-01** — created branch `z/fixFastlane` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-09-01** — merged PR [#261](https://github.com/ZacSweers/FieldSpottr/pull/261) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.4"
-
-**2025-09-01** — merged PR [#2100](https://github.com/ZacSweers/CatchUp/pull/2100) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update metro to v0.6.4"
-
-**2025-09-01** — commented on [#758](https://github.com/ZacSweers/metro/pull/758#issuecomment-3242980255) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
