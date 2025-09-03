@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-02** — closed issue [#1013](https://github.com/ZacSweers/metro/issues/1013) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "java.lang.IllegalStateException: No function invoke in class"
+
+**2025-09-02** — merged PR [#264](https://github.com/ZacSweers/FieldSpottr/pull/264) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.13.0"
+
 **2025-09-02** — merged PR [#1018](https://github.com/ZacSweers/metro/pull/1018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Dokka to 2.1.0"
 
 **2025-09-02** — merged PR [#1019](https://github.com/ZacSweers/metro/pull/1019) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency font-awesome to v7.0.1"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-02** — merged PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
 
 **2025-09-02** — opened PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
-
-**2025-09-02** — created branch `z/nativeMaps` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-02** — commented on [#9](https://github.com/MohamedRejeb/Calf/issues/9#issuecomment-3246796722) in [MohamedRejeb/Calf](https://github.com/MohamedRejeb/Calf)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
