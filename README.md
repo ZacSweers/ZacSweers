@@ -4,6 +4,14 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-05** — opened PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
+
+**2025-09-05** — created branch `z/libsSorting` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2025-09-05** — closed issue [#1020](https://github.com/ZacSweers/metro/issues/1020) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Associate generated code with the source code"
+
+**2025-09-05** — merged PR [#1027](https://github.com/ZacSweers/metro/pull/1027) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Origin annotation"
+
 **2025-09-04** — merged PR [#1026](https://github.com/ZacSweers/metro/pull/1026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type unpacking"
 
 **2025-09-04** — opened PR [#1026](https://github.com/ZacSweers/metro/pull/1026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type unpacking"
@@ -15,14 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-04** — merged PR [#1022](https://github.com/ZacSweers/metro/pull/1022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/setup-python action to v6"
 
 **2025-09-04** — merged PR [#1025](https://github.com/ZacSweers/metro/pull/1025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency markdown to v3.9"
-
-**2025-09-04** — merged PR [#2273](https://github.com/slackhq/circuit/pull/2273) to [slackhq/circuit](https://github.com/slackhq/circuit): "Remove kotlinx-immutable"
-
-**2025-09-04** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-3255007747) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
-
-**2025-09-04** — commented on [#2272](https://github.com/slackhq/circuit/issues/2272#issuecomment-3254685539) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-04** — closed issue [#2272](https://github.com/slackhq/circuit/issues/2272) on [slackhq/circuit](https://github.com/slackhq/circuit): "LaunchedEffect not restarted after backgrounding Circuit app"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
