@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-04** — commented on [#529](https://github.com/facebook/ktfmt/issues/529#issuecomment-3255007747) in [facebook/ktfmt](https://github.com/facebook/ktfmt)
+
 **2025-09-04** — commented on [#2272](https://github.com/slackhq/circuit/issues/2272#issuecomment-3254685539) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-09-04** — closed issue [#2272](https://github.com/slackhq/circuit/issues/2272) on [slackhq/circuit](https://github.com/slackhq/circuit): "LaunchedEffect not restarted after backgrounding Circuit app"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-02** — opened PR [#1018](https://github.com/ZacSweers/metro/pull/1018) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update Dokka to 2.1.0"
 
 **2025-09-02** — created branch `z/dokka210` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-02** — created tag `v33` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
