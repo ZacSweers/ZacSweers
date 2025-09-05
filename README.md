@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-05** — merged PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
+
+**2025-09-05** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-3259484422) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-05** — commented on [#999](https://github.com/ZacSweers/metro/issues/999#issuecomment-3259479910) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-05** — opened PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
 
 **2025-09-05** — created branch `z/libsSorting` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-04** — opened PR [#1026](https://github.com/ZacSweers/metro/pull/1026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type unpacking"
 
 **2025-09-04** — created branch `z/defaultType` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-04** — merged PR [#1021](https://github.com/ZacSweers/metro/pull/1021) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.android.material:material to v1.13.0"
-
-**2025-09-04** — merged PR [#1022](https://github.com/ZacSweers/metro/pull/1022) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update actions/setup-python action to v6"
-
-**2025-09-04** — merged PR [#1025](https://github.com/ZacSweers/metro/pull/1025) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency markdown to v3.9"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
