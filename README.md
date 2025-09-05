@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-04** — commented on [#2272](https://github.com/slackhq/circuit/issues/2272#issuecomment-3254685539) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-09-04** — closed issue [#2272](https://github.com/slackhq/circuit/issues/2272) on [slackhq/circuit](https://github.com/slackhq/circuit): "LaunchedEffect not restarted after backgrounding Circuit app"
+
+**2025-09-04** — merged PR [#1023](https://github.com/ZacSweers/metro/pull/1023) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a typo in BindingContainer kdoc"
+
 **2025-09-02** — closed issue [#1013](https://github.com/ZacSweers/metro/issues/1013) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "java.lang.IllegalStateException: No function invoke in class"
 
 **2025-09-02** — merged PR [#264](https://github.com/ZacSweers/FieldSpottr/pull/264) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.android.application to v8.13.0"
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-02** — created branch `z/dokka210` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-02** — created tag `v33` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-02** — created tag `v32` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-02** — merged PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
-
-**2025-09-02** — opened PR [#265](https://github.com/ZacSweers/FieldSpottr/pull/265) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Native maps UIs"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
