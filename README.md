@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-05** — opened PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
+
+**2025-09-05** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-09-05** — merged PR [#267](https://github.com/ZacSweers/FieldSpottr/pull/267) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.9.0"
+
 **2025-09-05** — merged PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
 
 **2025-09-05** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-3259484422) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -17,12 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-05** — closed issue [#1020](https://github.com/ZacSweers/metro/issues/1020) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Associate generated code with the source code"
 
 **2025-09-05** — merged PR [#1027](https://github.com/ZacSweers/metro/pull/1027) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Origin annotation"
-
-**2025-09-04** — merged PR [#1026](https://github.com/ZacSweers/metro/pull/1026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type unpacking"
-
-**2025-09-04** — opened PR [#1026](https://github.com/ZacSweers/metro/pull/1026) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix type unpacking"
-
-**2025-09-04** — created branch `z/defaultType` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
