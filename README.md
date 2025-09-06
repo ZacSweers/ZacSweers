@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-05** — closed issue [#116](https://github.com/slackhq/circuit/issues/116) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app does not restore state when changing tabs"
+
+**2025-09-05** — merged PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
+
 **2025-09-05** — opened PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
 
 **2025-09-05** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-05** — opened PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
 
 **2025-09-05** — created branch `z/libsSorting` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-05** — closed issue [#1020](https://github.com/ZacSweers/metro/issues/1020) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Associate generated code with the source code"
-
-**2025-09-05** — merged PR [#1027](https://github.com/ZacSweers/metro/pull/1027) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add Origin annotation"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
