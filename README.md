@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-07** — merged PR [#415](https://github.com/slackhq/slack-lints/pull/415) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.13.0"
+
+**2025-09-07** — merged PR [#420](https://github.com/slackhq/slack-lints/pull/420) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.2.10"
+
+**2025-09-07** — merged PR [#416](https://github.com/slackhq/slack-lints/pull/416) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v9"
+
+**2025-09-07** — merged PR [#421](https://github.com/slackhq/slack-lints/pull/421) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.2.10-2.0.2"
+
+**2025-09-07** — merged PR [#419](https://github.com/slackhq/slack-lints/pull/419) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/checkout action to v5"
+
+**2025-09-07** — merged PR [#413](https://github.com/slackhq/slack-lints/pull/413) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.2.1"
+
+**2025-09-07** — opened issue [#423](https://github.com/slackhq/slack-lints/issues/423) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add kotlinx-collections lints"
+
 **2025-09-05** — closed issue [#116](https://github.com/slackhq/circuit/issues/116) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app does not restore state when changing tabs"
 
 **2025-09-05** — merged PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
 
 **2025-09-05** — opened PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
-
-**2025-09-05** — created branch `z/sampleFixes` on [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-05** — merged PR [#267](https://github.com/ZacSweers/FieldSpottr/pull/267) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.9.0"
-
-**2025-09-05** — merged PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
-
-**2025-09-05** — commented on [#501](https://github.com/ZacSweers/metro/issues/501#issuecomment-3259484422) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-05** — commented on [#999](https://github.com/ZacSweers/metro/issues/999#issuecomment-3259479910) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-05** — opened PR [#266](https://github.com/ZacSweers/FieldSpottr/pull/266) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Sort libs in-app"
-
-**2025-09-05** — created branch `z/libsSorting` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
