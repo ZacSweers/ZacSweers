@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-07** — merged PR [#415](https://github.com/slackhq/slack-lints/pull/415) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.13.0"
-
-**2025-09-07** — merged PR [#420](https://github.com/slackhq/slack-lints/pull/420) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.2.10"
-
-**2025-09-07** — merged PR [#416](https://github.com/slackhq/slack-lints/pull/416) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v9"
-
-**2025-09-07** — merged PR [#421](https://github.com/slackhq/slack-lints/pull/421) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.2.10-2.0.2"
-
-**2025-09-07** — merged PR [#419](https://github.com/slackhq/slack-lints/pull/419) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/checkout action to v5"
-
-**2025-09-07** — merged PR [#413](https://github.com/slackhq/slack-lints/pull/413) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.2.1"
-
-**2025-09-07** — opened issue [#423](https://github.com/slackhq/slack-lints/issues/423) on [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Add kotlinx-collections lints"
-
-**2025-09-05** — closed issue [#116](https://github.com/slackhq/circuit/issues/116) on [slackhq/circuit](https://github.com/slackhq/circuit): "Sample app does not restore state when changing tabs"
-
-**2025-09-05** — merged PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
-
-**2025-09-05** — opened PR [#2277](https://github.com/slackhq/circuit/pull/2277) to [slackhq/circuit](https://github.com/slackhq/circuit): "Use navigable circuit content in star sample home"
+**2025-09-08** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
