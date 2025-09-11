@@ -4,21 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-10** — commented on [#2212](https://github.com/square/kotlinpoet/pull/2212#issuecomment-3277199425) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
+**2025-09-11** — merged PR [#2104](https://github.com/ZacSweers/CatchUp/pull/2104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.1"
 
-**2025-09-10** — merged PR [#1029](https://github.com/ZacSweers/metro/pull/1029) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin buildconfig to v5.6.8"
+**2025-09-11** — merged PR [#238](https://github.com/ZacSweers/FieldSpottr/pull/238) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Prep for Kotlin 2.2.20"
 
-**2025-09-10** — merged PR [#1034](https://github.com/ZacSweers/metro/pull/1034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.1"
+**2025-09-11** — closed PR [#1032](https://github.com/ZacSweers/metro/pull/1032) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update kotlin monorepo to v2.2.20"
 
-**2025-09-10** — merged PR [#1035](https://github.com/ZacSweers/metro/pull/1035) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.navigation:navigation-compose to v2.9.4"
+**2025-09-11** — merged PR [#2101](https://github.com/ZacSweers/CatchUp/pull/2101) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.13.0"
 
-**2025-09-10** — merged PR [#1036](https://github.com/ZacSweers/metro/pull/1036) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.work:work-runtime to v2.10.4"
+**2025-09-11** — merged PR [#2102](https://github.com/ZacSweers/CatchUp/pull/2102) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.15"
 
-**2025-09-10** — merged PR [#1037](https://github.com/ZacSweers/metro/pull/1037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.truth:truth to v1.4.5"
+**2025-09-11** — merged PR [#2105](https://github.com/ZacSweers/CatchUp/pull/2105) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.1"
 
-**2025-09-10** — created tag `0.6.6` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-09-11** — merged PR [#2106](https://github.com/ZacSweers/CatchUp/pull/2106) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.1"
 
-**2025-09-10** — merged PR [#758](https://github.com/ZacSweers/metro/pull/758) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.2.20"
+**2025-09-11** — merged PR [#2107](https://github.com/ZacSweers/CatchUp/pull/2107) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update plugin dependencyAnalysis to v3.0.2"
+
+**2025-09-11** — merged PR [#2109](https://github.com/ZacSweers/CatchUp/pull/2109) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.google.truth:truth to v1.4.5"
+
+**2025-09-11** — merged PR [#2029](https://github.com/ZacSweers/CatchUp/pull/2029) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Prep for Kotlin 2.2.20"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
