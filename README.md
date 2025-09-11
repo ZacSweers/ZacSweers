@@ -19,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-10** — created tag `0.6.6` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-10** — merged PR [#758](https://github.com/ZacSweers/metro/pull/758) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.2.20"
-
-**2025-09-10** — created tag `0.9.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
