@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-11** — Could not load GitHub activity. Please check back later.
+**2025-09-11** — merged PR [#1038](https://github.com/ZacSweers/metro/pull/1038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.activity:activity-compose to v1.11.0"
+
+**2025-09-11** — merged PR [#1039](https://github.com/ZacSweers/metro/pull/1039) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update kct to v0.9.0"
+
+**2025-09-11** — commented on [#1041](https://github.com/ZacSweers/metro/issues/1041#issuecomment-3279048628) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-11** — merged PR [#2104](https://github.com/ZacSweers/CatchUp/pull/2104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.1"
+
+**2025-09-11** — merged PR [#238](https://github.com/ZacSweers/FieldSpottr/pull/238) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Prep for Kotlin 2.2.20"
+
+**2025-09-11** — closed PR [#1032](https://github.com/ZacSweers/metro/pull/1032) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update kotlin monorepo to v2.2.20"
+
+**2025-09-11** — merged PR [#2101](https://github.com/ZacSweers/CatchUp/pull/2101) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.13.0"
+
+**2025-09-11** — merged PR [#2102](https://github.com/ZacSweers/CatchUp/pull/2102) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.squareup.sort-dependencies to v0.15"
+
+**2025-09-11** — merged PR [#2105](https://github.com/ZacSweers/CatchUp/pull/2105) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:skippy to v0.31.1"
+
+**2025-09-11** — merged PR [#2106](https://github.com/ZacSweers/CatchUp/pull/2106) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update foundry to v0.31.1"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
