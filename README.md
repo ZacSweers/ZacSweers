@@ -4,23 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-10** — created tag `0.6.5` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-09-10** — commented on [#2212](https://github.com/square/kotlinpoet/pull/2212#issuecomment-3277199425) in [square/kotlinpoet](https://github.com/square/kotlinpoet)
 
-**2025-09-10** — merged PR [#1033](https://github.com/ZacSweers/metro/pull/1033) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix link to Compatibility docs"
+**2025-09-10** — merged PR [#1029](https://github.com/ZacSweers/metro/pull/1029) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin buildconfig to v5.6.8"
 
-**2025-09-10** — commented on [#1033](https://github.com/ZacSweers/metro/pull/1033#issuecomment-3277029764) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-09-10** — merged PR [#1034](https://github.com/ZacSweers/metro/pull/1034) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.1"
 
-**2025-09-07** — merged PR [#415](https://github.com/slackhq/slack-lints/pull/415) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin lint to v8.13.0"
+**2025-09-10** — merged PR [#1035](https://github.com/ZacSweers/metro/pull/1035) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.navigation:navigation-compose to v2.9.4"
 
-**2025-09-07** — merged PR [#420](https://github.com/slackhq/slack-lints/pull/420) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update kotlin to v2.2.10"
+**2025-09-10** — merged PR [#1036](https://github.com/ZacSweers/metro/pull/1036) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.work:work-runtime to v2.10.4"
 
-**2025-09-07** — merged PR [#416](https://github.com/slackhq/slack-lints/pull/416) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update dependency gradle to v9"
+**2025-09-10** — merged PR [#1037](https://github.com/ZacSweers/metro/pull/1037) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency com.google.truth:truth to v1.4.5"
 
-**2025-09-07** — merged PR [#421](https://github.com/slackhq/slack-lints/pull/421) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin ksp to v2.2.10-2.0.2"
+**2025-09-10** — created tag `0.6.6` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
-**2025-09-07** — merged PR [#419](https://github.com/slackhq/slack-lints/pull/419) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update actions/checkout action to v5"
+**2025-09-10** — merged PR [#758](https://github.com/ZacSweers/metro/pull/758) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Kotlin 2.2.20"
 
-**2025-09-07** — merged PR [#413](https://github.com/slackhq/slack-lints/pull/413) to [slackhq/slack-lints](https://github.com/slackhq/slack-lints): "Update plugin spotless to v7.2.1"
+**2025-09-10** — created tag `0.9.0` on [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
