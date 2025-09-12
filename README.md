@@ -4,7 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-12** — Could not load GitHub activity. Please check back later.
+**2025-09-12** — closed issue [#1041](https://github.com/ZacSweers/metro/issues/1041) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Private Binds: Docs not up to date?"
+
+**2025-09-12** — merged PR [#1047](https://github.com/ZacSweers/metro/pull/1047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow private @Binds properties"
+
+**2025-09-12** — opened PR [#1047](https://github.com/ZacSweers/metro/pull/1047) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Allow private @Binds properties"
+
+**2025-09-12** — created branch `z/privateBinds` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-12** — merged PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
+
+**2025-09-12** — opened PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
+
+**2025-09-12** — created branch `z/diagnosticFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-12** — merged PR [#1045](https://github.com/ZacSweers/metro/pull/1045) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update poko to v0.20.0"
+
+**2025-09-12** — merged PR [#1044](https://github.com/ZacSweers/metro/pull/1044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ksp monorepo to v2.2.20-2.0.3"
+
+**2025-09-11** — merged PR [#1038](https://github.com/ZacSweers/metro/pull/1038) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.activity:activity-compose to v1.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
