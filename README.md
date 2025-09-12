@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-12** — merged PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
+
+**2025-09-12** — opened PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
+
+**2025-09-12** — created branch `z/diagnosticFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-12** — merged PR [#1045](https://github.com/ZacSweers/metro/pull/1045) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update poko to v0.20.0"
 
 **2025-09-12** — merged PR [#1044](https://github.com/ZacSweers/metro/pull/1044) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ksp monorepo to v2.2.20-2.0.3"
@@ -15,12 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-11** — commented on [#1041](https://github.com/ZacSweers/metro/issues/1041#issuecomment-3279048628) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-11** — merged PR [#2104](https://github.com/ZacSweers/CatchUp/pull/2104) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update dependency com.slack.foundry:cli to v0.31.1"
-
-**2025-09-11** — merged PR [#238](https://github.com/ZacSweers/FieldSpottr/pull/238) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Prep for Kotlin 2.2.20"
-
-**2025-09-11** — closed PR [#1032](https://github.com/ZacSweers/metro/pull/1032) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update kotlin monorepo to v2.2.20"
-
-**2025-09-11** — merged PR [#2101](https://github.com/ZacSweers/CatchUp/pull/2101) to [ZacSweers/CatchUp](https://github.com/ZacSweers/CatchUp): "Update agp to v8.13.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
