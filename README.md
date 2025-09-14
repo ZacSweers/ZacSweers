@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-14** — merged PR [#1040](https://github.com/ZacSweers/metro/pull/1040) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix a couple of edge cases in FirAccessorOverrideStatusTransformer"
+
+**2025-09-14** — commented on [#1040](https://github.com/ZacSweers/metro/pull/1040#issuecomment-3289302834) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-14** — commented on [#886](https://github.com/ZacSweers/metro/pull/886#issuecomment-3289263846) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-14** — commented on [#1040](https://github.com/ZacSweers/metro/pull/1040#issuecomment-3289258048) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-12** — merged PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
 
 **2025-09-12** — opened PR [#1046](https://github.com/ZacSweers/metro/pull/1046) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Misc diagnostic fixes"
-
-**2025-09-12** — created branch `z/diagnosticFixes` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-12** — merged PR [#1045](https://github.com/ZacSweers/metro/pull/1045) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update poko to v0.20.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
