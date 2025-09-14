@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-14** — commented on [#2292](https://github.com/slackhq/circuit/pull/2292#issuecomment-3289414335) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2292](https://github.com/slackhq/circuit/pull/2292) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.foundation:foundation to v1.9.1"
-
-**2025-09-14** — commented on [#2291](https://github.com/slackhq/circuit/pull/2291#issuecomment-3289414303) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2291](https://github.com/slackhq/circuit/pull/2291) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.animation:animation to v1.9.1"
-
-**2025-09-14** — commented on [#2288](https://github.com/slackhq/circuit/pull/2288#issuecomment-3289414284) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2288](https://github.com/slackhq/circuit/pull/2288) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update compose.ui to v1.9.1"
-
-**2025-09-14** — commented on [#2287](https://github.com/slackhq/circuit/pull/2287#issuecomment-3289414250) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2287](https://github.com/slackhq/circuit/pull/2287) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update compose.runtime to v1.9.1"
-
-**2025-09-14** — commented on [#2289](https://github.com/slackhq/circuit/pull/2289#issuecomment-3289414126) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2289](https://github.com/slackhq/circuit/pull/2289) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update ksp monorepo to v2.2.20-2.0.3"
+**2025-09-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
