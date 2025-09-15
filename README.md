@@ -4,25 +4,7 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-14** — merged PR [#1545](https://github.com/slackhq/foundry/pull/1545) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.37.0"
-
-**2025-09-14** — commented on [#2221](https://github.com/slackhq/circuit/pull/2221#issuecomment-3289569196) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — commented on [#1545](https://github.com/slackhq/foundry/pull/1545#issuecomment-3289517935) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-09-14** — merged PR [#1533](https://github.com/slackhq/foundry/pull/1533) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update actions/setup-python action to v6"
-
-**2025-09-14** — commented on [#2292](https://github.com/slackhq/circuit/pull/2292#issuecomment-3289414335) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2292](https://github.com/slackhq/circuit/pull/2292) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.foundation:foundation to v1.9.1"
-
-**2025-09-14** — commented on [#2291](https://github.com/slackhq/circuit/pull/2291#issuecomment-3289414303) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2291](https://github.com/slackhq/circuit/pull/2291) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency androidx.compose.animation:animation to v1.9.1"
-
-**2025-09-14** — commented on [#2288](https://github.com/slackhq/circuit/pull/2288#issuecomment-3289414284) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — closed PR [#2288](https://github.com/slackhq/circuit/pull/2288) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update compose.ui to v1.9.1"
+**2025-09-14** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
