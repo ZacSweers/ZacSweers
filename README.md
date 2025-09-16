@@ -4,7 +4,13 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-16** — Could not load GitHub activity. Please check back later.
+**2025-09-16** — merged PR [#275](https://github.com/ZacSweers/FieldSpottr/pull/275) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta07"
+
+**2025-09-14** — merged PR [#1545](https://github.com/slackhq/foundry/pull/1545) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.37.0"
+
+**2025-09-14** — commented on [#2221](https://github.com/slackhq/circuit/pull/2221#issuecomment-3289569196) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
+**2025-09-14** — commented on [#1545](https://github.com/slackhq/foundry/pull/1545#issuecomment-3289517935) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
