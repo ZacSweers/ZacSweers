@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
+
+**2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-16** — merged PR [#275](https://github.com/ZacSweers/FieldSpottr/pull/275) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta07"
 
 **2025-09-14** — merged PR [#1545](https://github.com/slackhq/foundry/pull/1545) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.37.0"
