@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-16** — merged PR [#1063](https://github.com/ZacSweers/metro/pull/1063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: Update links to doc site to use the `latest` alias"
+
+**2025-09-16** — closed issue [#1053](https://github.com/ZacSweers/metro/issues/1053) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs site `use_directory_urls` default config became ineffective"
+
+**2025-09-16** — merged PR [#1062](https://github.com/ZacSweers/metro/pull/1062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: metro docs site url not adhering to `use_directory_urls` config"
+
 **2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
 
 **2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,8 +19,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-14** — merged PR [#1545](https://github.com/slackhq/foundry/pull/1545) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.37.0"
 
 **2025-09-14** — commented on [#2221](https://github.com/slackhq/circuit/pull/2221#issuecomment-3289569196) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-14** — commented on [#1545](https://github.com/slackhq/foundry/pull/1545#issuecomment-3289517935) in [slackhq/foundry](https://github.com/slackhq/foundry)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
