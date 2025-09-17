@@ -4,6 +4,12 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-17** — merged PR [#1057](https://github.com/ZacSweers/metro/pull/1057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2"
+
+**2025-09-17** — closed PR [#932](https://github.com/ZacSweers/metro/pull/932) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.18 - abandoned"
+
+**2025-09-17** — merged PR [#1064](https://github.com/ZacSweers/metro/pull/1064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: update mkdocs local development guide"
+
 **2025-09-16** — merged PR [#1063](https://github.com/ZacSweers/metro/pull/1063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: Update links to doc site to use the `latest` alias"
 
 **2025-09-16** — closed issue [#1053](https://github.com/ZacSweers/metro/issues/1053) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs site `use_directory_urls` default config became ineffective"
@@ -15,10 +21,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-16** — merged PR [#275](https://github.com/ZacSweers/FieldSpottr/pull/275) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta07"
-
-**2025-09-14** — merged PR [#1545](https://github.com/slackhq/foundry/pull/1545) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.mikepenz:multiplatform-markdown-renderer to v0.37.0"
-
-**2025-09-14** — commented on [#2221](https://github.com/slackhq/circuit/pull/2221#issuecomment-3289569196) in [slackhq/circuit](https://github.com/slackhq/circuit)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
