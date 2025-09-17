@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-17** — merged PR [#1042](https://github.com/ZacSweers/metro/pull/1042) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.0"
+
 **2025-09-17** — merged PR [#1058](https://github.com/ZacSweers/metro/pull/1058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update compose.jb to v1.9.0"
 
 **2025-09-17** — merged PR [#1057](https://github.com/ZacSweers/metro/pull/1057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2"
@@ -21,8 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
 
 **2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-16** — merged PR [#275](https://github.com/ZacSweers/FieldSpottr/pull/275) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta07"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
