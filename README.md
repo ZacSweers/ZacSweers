@@ -4,26 +4,34 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-06-27** — merged PR [#259](https://github.com/ZacSweers/ZacSweers/pull/259) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.0-2.0.2"
+**2025-09-17** — merged PR [#1042](https://github.com/ZacSweers/metro/pull/1042) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.0"
 
-**2025-06-27** — merged PR [#260](https://github.com/ZacSweers/ZacSweers/pull/260) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-serialization-json-okio to v1.9.0"
+**2025-09-17** — merged PR [#1058](https://github.com/ZacSweers/metro/pull/1058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update compose.jb to v1.9.0"
 
-**2025-06-27** — merged PR [#219](https://github.com/ZacSweers/FieldSpottr/pull/219) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update circuit to v0.29.0"
+**2025-09-17** — merged PR [#1057](https://github.com/ZacSweers/metro/pull/1057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2"
 
-**2025-06-27** — merged PR [#639](https://github.com/ZacSweers/metro/pull/639) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Update circuit to v0.29.0"
+**2025-09-17** — closed PR [#932](https://github.com/ZacSweers/metro/pull/932) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.18 - abandoned"
 
-**2025-06-26** — created tag `0.29.0` on [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-09-17** — merged PR [#1064](https://github.com/ZacSweers/metro/pull/1064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: update mkdocs local development guide"
 
-**2025-06-26** — merged PR [#2062](https://github.com/slackhq/circuit/pull/2062) to [slackhq/circuit](https://github.com/slackhq/circuit): "Compile against SDK 36"
+**2025-09-16** — merged PR [#1063](https://github.com/ZacSweers/metro/pull/1063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: Update links to doc site to use the `latest` alias"
 
-**2025-06-26** — merged PR [#2166](https://github.com/slackhq/circuit/pull/2166) to [slackhq/circuit](https://github.com/slackhq/circuit): "Update xcode version"
+**2025-09-16** — closed issue [#1053](https://github.com/ZacSweers/metro/issues/1053) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs site `use_directory_urls` default config became ineffective"
 
-**2025-06-26** — commented on [#2062](https://github.com/slackhq/circuit/pull/2062#issuecomment-3010559028) in [slackhq/circuit](https://github.com/slackhq/circuit)
+**2025-09-16** — merged PR [#1062](https://github.com/ZacSweers/metro/pull/1062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: metro docs site url not adhering to `use_directory_urls` config"
+
+**2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
+
+**2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2025-08-18** — [Forklifts Require Training](https://www.zacsweers.dev/forklifts-require-training/)
+
+**2025-07-01** — [Don't use Type-safe Project Accessors with Kotlin Gradle DSL](https://www.zacsweers.dev/dont-use-type-safe-project-accessors-with-kotlin-gradle-dsl/)
+
 **2025-04-03** — [Introducing Metro](https://www.zacsweers.dev/introducing-metro/)
 
 **2025-02-17** — [One Last View of Mom](https://www.zacsweers.dev/one-last-view-of-mom/)
@@ -39,10 +47,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2024-01-03** — [Life in 2024](https://www.zacsweers.dev/life-in-2024/)
 
 **2023-07-09** — [Catching Up on CatchUp: 2023](https://www.zacsweers.dev/catching-up-on-catchup-2023/)
-
-**2023-01-10** — [Keeping Android and Kotlin Healthy in a Post-Twitter World](https://www.zacsweers.dev/keeping-android-healthy/)
-
-**2022-12-19** — [Improving Your Gradle Workflow by Not Auto-reloading Build Files](https://www.zacsweers.dev/improving-your-workflow-by-not-auto-reloading-build-files/)
 <!-- blog ends -->
 _More on [zacsweers.dev](https://zacsweers.dev/)_
 </td></tr></table>
