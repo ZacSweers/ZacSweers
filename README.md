@@ -4,25 +4,23 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-17** — closed issue [#1060](https://github.com/ZacSweers/metro/issues/1060) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "asContribution on GraphExtension throws "receiver must be annotated with a `@DependencyGraph` annotation""
+
+**2025-09-17** — merged PR [#170](https://github.com/ZacSweers/auto-service-ksp/pull/170) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.5"
+
+**2025-09-17** — merged PR [#172](https://github.com/ZacSweers/auto-service-ksp/pull/172) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.5.0-jre"
+
+**2025-09-17** — merged PR [#1066](https://github.com/ZacSweers/metro/pull/1066) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.4"
+
+**2025-09-17** — merged PR [#1065](https://github.com/ZacSweers/metro/pull/1065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.4"
+
 **2025-09-17** — merged PR [#801](https://github.com/ZacSweers/MoshiX/pull/801) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.5.0-jre"
 
 **2025-09-17** — merged PR [#1042](https://github.com/ZacSweers/metro/pull/1042) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.0"
 
 **2025-09-17** — merged PR [#1058](https://github.com/ZacSweers/metro/pull/1058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update compose.jb to v1.9.0"
-
-**2025-09-17** — merged PR [#1057](https://github.com/ZacSweers/metro/pull/1057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2"
-
-**2025-09-17** — closed PR [#932](https://github.com/ZacSweers/metro/pull/932) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.18 - abandoned"
-
-**2025-09-17** — merged PR [#1064](https://github.com/ZacSweers/metro/pull/1064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: update mkdocs local development guide"
-
-**2025-09-16** — merged PR [#1063](https://github.com/ZacSweers/metro/pull/1063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: Update links to doc site to use the `latest` alias"
-
-**2025-09-16** — closed issue [#1053](https://github.com/ZacSweers/metro/issues/1053) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs site `use_directory_urls` default config became ineffective"
-
-**2025-09-16** — merged PR [#1062](https://github.com/ZacSweers/metro/pull/1062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: metro docs site url not adhering to `use_directory_urls` config"
-
-**2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
