@@ -4,6 +4,18 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-18** — merged PR [#281](https://github.com/ZacSweers/ZacSweers/pull/281) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.9.0"
+
+**2025-09-18** — merged PR [#276](https://github.com/ZacSweers/ZacSweers/pull/276) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.2.20"
+
+**2025-09-18** — merged PR [#277](https://github.com/ZacSweers/ZacSweers/pull/277) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.20-2.0.3"
+
+**2025-09-18** — merged PR [#279](https://github.com/ZacSweers/ZacSweers/pull/279) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.3.0"
+
+**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/ZacSweers/pull/280) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.37.0"
+
+**2025-09-18** — merged PR [#278](https://github.com/ZacSweers/ZacSweers/pull/278) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/setup-java action to v5"
+
 **2025-09-17** — merged PR [#1067](https://github.com/ZacSweers/metro/pull/1067) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat (phase 2): Added smart redirect system from 404 to land on equivalent page"
 
 **2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -11,18 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-17** — closed issue [#1060](https://github.com/ZacSweers/metro/issues/1060) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "asContribution on GraphExtension throws "receiver must be annotated with a `@DependencyGraph` annotation""
 
 **2025-09-17** — merged PR [#170](https://github.com/ZacSweers/auto-service-ksp/pull/170) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.5"
-
-**2025-09-17** — merged PR [#172](https://github.com/ZacSweers/auto-service-ksp/pull/172) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.guava:guava to v33.5.0-jre"
-
-**2025-09-17** — merged PR [#1066](https://github.com/ZacSweers/metro/pull/1066) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.lifecycle:lifecycle-viewmodel-ktx to v2.9.4"
-
-**2025-09-17** — merged PR [#1065](https://github.com/ZacSweers/metro/pull/1065) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.lifecycle:lifecycle-runtime-compose to v2.9.4"
-
-**2025-09-17** — merged PR [#801](https://github.com/ZacSweers/MoshiX/pull/801) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency com.google.guava:guava to v33.5.0-jre"
-
-**2025-09-17** — merged PR [#1042](https://github.com/ZacSweers/metro/pull/1042) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.0"
-
-**2025-09-17** — merged PR [#1058](https://github.com/ZacSweers/metro/pull/1058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update compose.jb to v1.9.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
