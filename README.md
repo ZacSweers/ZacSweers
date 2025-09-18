@@ -4,6 +4,8 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-17** — merged PR [#1067](https://github.com/ZacSweers/metro/pull/1067) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat (phase 2): Added smart redirect system from 404 to land on equivalent page"
+
 **2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-17** — closed issue [#1060](https://github.com/ZacSweers/metro/issues/1060) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "asContribution on GraphExtension throws "receiver must be annotated with a `@DependencyGraph` annotation""
