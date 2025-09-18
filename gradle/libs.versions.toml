@@ -1,7 +1,7 @@
 [versions]
 compose = "1.8.2"
 jdk = "23"
-kotlin = "2.2.0"
+kotlin = "2.2.20"
 kotlinx-serialization = "1.9.0"
 ktor = "3.3.0"
 markdown = "0.37.0"
