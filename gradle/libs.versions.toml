@@ -23,7 +23,7 @@ compose-markdown-m3 = { module = "com.mikepenz:multiplatform-markdown-renderer-m
 compose-material3 = { module = "org.jetbrains.compose.material3:material3", version.ref = "compose" }
 eithernet = "com.slack.eithernet:eithernet:2.0.0"
 kotlinx-coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2"
-kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.7.1"
+kotlinx-datetime = "org.jetbrains.kotlinx:kotlinx-datetime:0.7.1-0.6.x-compat"
 kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json-okio", version.ref = "kotlinx-serialization" }
 kotlinx-serialization-xml-core = { module = "io.github.pdvrieze.xmlutil:core", version.ref = "xmlutil" }
 kotlinx-serialization-xml-serialization = { module = "io.github.pdvrieze.xmlutil:serialization", version.ref = "xmlutil" }
