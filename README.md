@@ -4,6 +4,10 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
+
+**2025-09-18** — merged PR [#803](https://github.com/ZacSweers/MoshiX/pull/803) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.5"
+
 **2025-09-18** — merged PR [#281](https://github.com/ZacSweers/ZacSweers/pull/281) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.9.0"
 
 **2025-09-18** — merged PR [#276](https://github.com/ZacSweers/ZacSweers/pull/276) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.2.20"
@@ -19,10 +23,6 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 **2025-09-17** — merged PR [#1067](https://github.com/ZacSweers/metro/pull/1067) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat (phase 2): Added smart redirect system from 404 to land on equivalent page"
 
 **2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-17** — closed issue [#1060](https://github.com/ZacSweers/metro/issues/1060) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "asContribution on GraphExtension throws "receiver must be annotated with a `@DependencyGraph` annotation""
-
-**2025-09-17** — merged PR [#170](https://github.com/ZacSweers/auto-service-ksp/pull/170) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update dependency com.google.truth:truth to v1.4.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
