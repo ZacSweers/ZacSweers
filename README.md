@@ -1,4 +1,4 @@
-Currently working on [Slack](https://slack.com/). Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
+Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on places `@ZacSweers`.
 
 <table><tr><td valign="top" width="60%">
 
