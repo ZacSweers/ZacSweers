@@ -1,17 +1,10 @@
 package dev.zacsweers
 
-import androidx.compose.runtime.Composable
-import com.mikepenz.markdown.compose.LocalMarkdownColors
-import com.mikepenz.markdown.compose.LocalMarkdownTypography
-import com.mikepenz.markdown.compose.Markdown
 import com.tickaroo.tikxml.converter.htmlescape.StringEscapeUtils
 import io.ktor.client.HttpClient
 import io.ktor.client.HttpClientConfig
 import io.ktor.client.engine.okhttp.OkHttp
-import java.time.format.DateTimeFormatter
 import java.util.concurrent.TimeUnit
-import kotlinx.datetime.Instant
-import kotlinx.datetime.toKotlinInstant
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.descriptors.PrimitiveKind
 import kotlinx.serialization.descriptors.PrimitiveSerialDescriptor

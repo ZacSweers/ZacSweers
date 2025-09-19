@@ -3,8 +3,9 @@ package dev.zacsweers
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
-import kotlinx.datetime.Instant
+import kotlin.time.Instant
 import kotlinx.datetime.format.DateTimeComponents.Formats.RFC_1123
+import kotlinx.datetime.parse
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.Serializable
 import kotlinx.serialization.descriptors.PrimitiveKind

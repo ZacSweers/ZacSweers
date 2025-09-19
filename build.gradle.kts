@@ -37,7 +37,7 @@ val jdk = libs.versions.jdk.get().toInt()
 tasks.withType<KotlinCompilationTask<*>>().configureEach {
   compilerOptions {
     progressiveMode.set(true)
-    optIn.add("kotlin.ExperimentalStdlibApi")
+    optIn.addAll("kotlin.ExperimentalStdlibApi", "kotlin.time.ExperimentalTime")
     freeCompilerArgs.add("-Xexpect-actual-classes")
 
     if (this is KotlinJvmCompilerOptions) {
