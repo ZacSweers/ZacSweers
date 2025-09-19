@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-19** — merged PR [#282](https://github.com/ZacSweers/ZacSweers/pull/282) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update Gradle to v9.1.0"
+
+**2025-09-19** — merged PR [#1073](https://github.com/ZacSweers/metro/pull/1073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: add mkdocs directory URL validation to github actions docs workflow"
+
 **2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
 
 **2025-09-18** — merged PR [#803](https://github.com/ZacSweers/MoshiX/pull/803) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.5"
@@ -17,12 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-18** — merged PR [#279](https://github.com/ZacSweers/ZacSweers/pull/279) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.3.0"
 
 **2025-09-18** — merged PR [#280](https://github.com/ZacSweers/ZacSweers/pull/280) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.37.0"
-
-**2025-09-18** — merged PR [#278](https://github.com/ZacSweers/ZacSweers/pull/278) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/setup-java action to v5"
-
-**2025-09-17** — merged PR [#1067](https://github.com/ZacSweers/metro/pull/1067) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat (phase 2): Added smart redirect system from 404 to land on equivalent page"
-
-**2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
