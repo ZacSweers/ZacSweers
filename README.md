@@ -4,25 +4,25 @@ Currently working on [Slack](https://slack.com/). Read [my blog](https://zacswee
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-17** — merged PR [#1042](https://github.com/ZacSweers/metro/pull/1042) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update ktor monorepo to v3.3.0"
+**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
 
-**2025-09-17** — merged PR [#1058](https://github.com/ZacSweers/metro/pull/1058) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update compose.jb to v1.9.0"
+**2025-09-18** — merged PR [#803](https://github.com/ZacSweers/MoshiX/pull/803) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.5"
 
-**2025-09-17** — merged PR [#1057](https://github.com/ZacSweers/metro/pull/1057) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin com.gradle.develocity to v4.2"
+**2025-09-18** — merged PR [#281](https://github.com/ZacSweers/ZacSweers/pull/281) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.9.0"
 
-**2025-09-17** — closed PR [#932](https://github.com/ZacSweers/metro/pull/932) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency mkdocs-material to v9.6.18 - abandoned"
+**2025-09-18** — merged PR [#276](https://github.com/ZacSweers/ZacSweers/pull/276) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.2.20"
 
-**2025-09-17** — merged PR [#1064](https://github.com/ZacSweers/metro/pull/1064) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: update mkdocs local development guide"
+**2025-09-18** — merged PR [#277](https://github.com/ZacSweers/ZacSweers/pull/277) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.20-2.0.3"
 
-**2025-09-16** — merged PR [#1063](https://github.com/ZacSweers/metro/pull/1063) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: Update links to doc site to use the `latest` alias"
+**2025-09-18** — merged PR [#279](https://github.com/ZacSweers/ZacSweers/pull/279) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.3.0"
 
-**2025-09-16** — closed issue [#1053](https://github.com/ZacSweers/metro/issues/1053) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Investigate: docs site `use_directory_urls` default config became ineffective"
+**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/ZacSweers/pull/280) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.37.0"
 
-**2025-09-16** — merged PR [#1062](https://github.com/ZacSweers/metro/pull/1062) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed: metro docs site url not adhering to `use_directory_urls` config"
+**2025-09-18** — merged PR [#278](https://github.com/ZacSweers/ZacSweers/pull/278) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update actions/setup-java action to v5"
 
-**2025-09-16** — closed issue [#1059](https://github.com/ZacSweers/metro/issues/1059) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Can't do optional injection on members"
+**2025-09-17** — merged PR [#1067](https://github.com/ZacSweers/metro/pull/1067) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "feat (phase 2): Added smart redirect system from 404 to land on equivalent page"
 
-**2025-09-16** — commented on [#1059](https://github.com/ZacSweers/metro/issues/1059#issuecomment-3300920201) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+**2025-09-17** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3305290016) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
