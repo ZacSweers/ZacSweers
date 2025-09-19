@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
+
+**2025-09-19** — created branch `z/ktor` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
+
 **2025-09-19** — merged PR [#353](https://github.com/ZacSweers/redacted-compiler-plugin/pull/353) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.3.0"
 
 **2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
@@ -17,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-19** — merged PR [#1073](https://github.com/ZacSweers/metro/pull/1073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: add mkdocs directory URL validation to github actions docs workflow"
 
 **2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
-
-**2025-09-18** — merged PR [#803](https://github.com/ZacSweers/MoshiX/pull/803) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
