@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-19** — merged PR [#353](https://github.com/ZacSweers/redacted-compiler-plugin/pull/353) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.3.0"
+
+**2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
+
+**2025-09-19** — closed PR [#283](https://github.com/ZacSweers/ZacSweers/pull/283) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
+
+**2025-09-19** — merged PR [#258](https://github.com/ZacSweers/ZacSweers/pull/258) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+
 **2025-09-19** — merged PR [#282](https://github.com/ZacSweers/ZacSweers/pull/282) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update Gradle to v9.1.0"
 
 **2025-09-19** — merged PR [#1073](https://github.com/ZacSweers/metro/pull/1073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: add mkdocs directory URL validation to github actions docs workflow"
@@ -11,16 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
 
 **2025-09-18** — merged PR [#803](https://github.com/ZacSweers/MoshiX/pull/803) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.5"
-
-**2025-09-18** — merged PR [#281](https://github.com/ZacSweers/ZacSweers/pull/281) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.compose to v1.9.0"
-
-**2025-09-18** — merged PR [#276](https://github.com/ZacSweers/ZacSweers/pull/276) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update kotlin monorepo to v2.2.20"
-
-**2025-09-18** — merged PR [#277](https://github.com/ZacSweers/ZacSweers/pull/277) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin ksp to v2.2.20-2.0.3"
-
-**2025-09-18** — merged PR [#279](https://github.com/ZacSweers/ZacSweers/pull/279) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update ktor monorepo to v3.3.0"
-
-**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/ZacSweers/pull/280) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update markdown to v0.37.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
