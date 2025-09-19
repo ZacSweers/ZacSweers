@@ -3,10 +3,11 @@ package dev.zacsweers
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
 import io.ktor.client.request.get
-import kotlinx.datetime.Instant
+import kotlin.time.Instant
 import kotlinx.serialization.KSerializer
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
+import kotlinx.serialization.builtins.serializer
 import kotlinx.serialization.descriptors.SerialDescriptor
 import kotlinx.serialization.descriptors.buildClassSerialDescriptor
 import kotlinx.serialization.encoding.Decoder
@@ -54,7 +55,7 @@ data class GitHubActivityEvent(
         tree.jsonObject["type"]?.let {
           try {
             input.json.decodeFromJsonElement<GitHubActivityEventPayload.Type>(it)
-          } catch (e: Exception) {
+          } catch (_: Exception) {
             null
           }
         }
@@ -81,13 +82,14 @@ data class GitHubActivityEvent(
 }
 
 sealed interface GitHubActivityEventPayload {
+  @Suppress("unused")
   @Serializable
   enum class Type(val serializer: KSerializer<out GitHubActivityEventPayload>) {
     @SerialName(value = "IssuesEvent") ISSUE(IssuesEventPayload.serializer()),
     @SerialName(value = "IssueCommentEvent") ISSUE_COMMENT(IssueCommentEventPayload.serializer()),
     @SerialName(value = "PullRequestEvent") PULL_REQUEST(PullRequestPayload.serializer()),
     @SerialName(value = "CreateEvent") CREATE_EVENT(CreateEvent.serializer()),
-    @SerialName(value = "DeleteEvent") DELETE_EVENT(DeleteEvent.serializer())
+    @SerialName(value = "DeleteEvent") DELETE_EVENT(DeleteEvent.serializer()),
   }
 }
 
