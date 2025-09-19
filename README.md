@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-19** — merged PR [#381](https://github.com/ZacSweers/kotlin-compile-testing/pull/381) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Gradle to v9.1.0"
+
 **2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
 
 **2025-09-19** — created branch `z/ktor` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
@@ -15,12 +17,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-19** — closed PR [#283](https://github.com/ZacSweers/ZacSweers/pull/283) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
 
 **2025-09-19** — merged PR [#258](https://github.com/ZacSweers/ZacSweers/pull/258) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
-
-**2025-09-19** — merged PR [#282](https://github.com/ZacSweers/ZacSweers/pull/282) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update Gradle to v9.1.0"
-
-**2025-09-19** — merged PR [#1073](https://github.com/ZacSweers/metro/pull/1073) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore: add mkdocs directory URL validation to github actions docs workflow"
-
-**2025-09-18** — merged PR [#280](https://github.com/ZacSweers/FieldSpottr/pull/280) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update Gradle to v9.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
