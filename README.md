@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-20** — merged PR [#282](https://github.com/ZacSweers/FieldSpottr/pull/282) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta08"
+
+**2025-09-20** — commented on [#1075](https://github.com/ZacSweers/metro/pull/1075#issuecomment-3314759135) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-19** — merged PR [#381](https://github.com/ZacSweers/kotlin-compile-testing/pull/381) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Gradle to v9.1.0"
 
 **2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
@@ -15,8 +19,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
 
 **2025-09-19** — closed PR [#283](https://github.com/ZacSweers/ZacSweers/pull/283) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
-
-**2025-09-19** — merged PR [#258](https://github.com/ZacSweers/ZacSweers/pull/258) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
