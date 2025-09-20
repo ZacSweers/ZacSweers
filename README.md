@@ -4,19 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-19** — merged PR [#381](https://github.com/ZacSweers/kotlin-compile-testing/pull/381) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Gradle to v9.1.0"
-
-**2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
-
-**2025-09-19** — created branch `z/ktor` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2025-09-19** — merged PR [#353](https://github.com/ZacSweers/redacted-compiler-plugin/pull/353) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.3.0"
-
-**2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
-
-**2025-09-19** — closed PR [#283](https://github.com/ZacSweers/ZacSweers/pull/283) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
-
-**2025-09-19** — merged PR [#258](https://github.com/ZacSweers/ZacSweers/pull/258) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.0-0.6.x-compat"
+**2025-09-20** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
