@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3328485201) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-09-21** — commented on [#1061](https://github.com/ZacSweers/metro/issues/1061#issuecomment-3315532952) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-20** — merged PR [#282](https://github.com/ZacSweers/FieldSpottr/pull/282) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta08"
@@ -19,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-19** — merged PR [#353](https://github.com/ZacSweers/redacted-compiler-plugin/pull/353) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.3.0"
 
 **2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
-
-**2025-09-19** — closed PR [#283](https://github.com/ZacSweers/ZacSweers/pull/283) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update dependency org.jetbrains.kotlinx:kotlinx-datetime to v0.7.1-0.6.x-compat"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
