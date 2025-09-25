@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-24** — opened issue [#1082](https://github.com/ZacSweers/metro/issues/1082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better support qualifiers from dagger factories"
+
+**2025-09-24** — merged PR [#283](https://github.com/ZacSweers/FieldSpottr/pull/283) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.11.0"
+
+**2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3329875791) in [slackhq/circuit](https://github.com/slackhq/circuit)
+
 **2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3329756595) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3328485201) in [slackhq/circuit](https://github.com/slackhq/circuit)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-19** — merged PR [#381](https://github.com/ZacSweers/kotlin-compile-testing/pull/381) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Gradle to v9.1.0"
 
 **2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
-
-**2025-09-19** — created branch `z/ktor` on [slackhq/EitherNet](https://github.com/slackhq/EitherNet)
-
-**2025-09-19** — merged PR [#353](https://github.com/ZacSweers/redacted-compiler-plugin/pull/353) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update dependency io.ktor:ktor-utils to v3.3.0"
-
-**2025-09-19** — merged PR [#354](https://github.com/ZacSweers/redacted-compiler-plugin/pull/354) to [ZacSweers/redacted-compiler-plugin](https://github.com/ZacSweers/redacted-compiler-plugin): "Update Gradle to v9.1.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
