@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-24** — merged PR [#173](https://github.com/ZacSweers/auto-service-ksp/pull/173) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update Gradle to v9.1.0"
-
-**2025-09-24** — merged PR [#174](https://github.com/ZacSweers/auto-service-ksp/pull/174) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v8"
-
-**2025-09-24** — created tag `v34` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-24** — opened issue [#1082](https://github.com/ZacSweers/metro/issues/1082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better support qualifiers from dagger factories"
-
-**2025-09-24** — merged PR [#283](https://github.com/ZacSweers/FieldSpottr/pull/283) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.11.0"
-
-**2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3329875791) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3329756595) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-24** — commented on [#2307](https://github.com/slackhq/circuit/pull/2307#issuecomment-3328485201) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-21** — commented on [#1061](https://github.com/ZacSweers/metro/issues/1061#issuecomment-3315532952) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-20** — merged PR [#282](https://github.com/ZacSweers/FieldSpottr/pull/282) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta08"
+**2025-09-25** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
