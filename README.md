@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-24** — created tag `v34` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
 **2025-09-24** — opened issue [#1082](https://github.com/ZacSweers/metro/issues/1082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better support qualifiers from dagger factories"
 
 **2025-09-24** — merged PR [#283](https://github.com/ZacSweers/FieldSpottr/pull/283) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.11.0"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-20** — commented on [#1075](https://github.com/ZacSweers/metro/pull/1075#issuecomment-3314759135) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-19** — merged PR [#381](https://github.com/ZacSweers/kotlin-compile-testing/pull/381) to [ZacSweers/kotlin-compile-testing](https://github.com/ZacSweers/kotlin-compile-testing): "Update Gradle to v9.1.0"
-
-**2025-09-19** — opened PR [#86](https://github.com/slackhq/EitherNet/pull/86) to [slackhq/EitherNet](https://github.com/slackhq/EitherNet): "Port ktor ApiResult type mapping"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
