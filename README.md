@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-25** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3336179366) in [slackhq/foundry](https://github.com/slackhq/foundry)
+
+**2025-09-25** — closed PR [#1512](https://github.com/slackhq/foundry/pull/1512) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.facebook:ktfmt to v0.58"
+
+**2025-09-25** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3336167600) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-25** — commented on [#4982](https://github.com/google/dagger/issues/4982#issuecomment-3336161639) in [google/dagger](https://github.com/google/dagger)
+
+**2025-09-25** — commented on [#4982](https://github.com/google/dagger/issues/4982#issuecomment-3336159003) in [google/dagger](https://github.com/google/dagger)
+
 **2025-09-24** — merged PR [#284](https://github.com/ZacSweers/ZacSweers/pull/284) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v8"
 
 **2025-09-24** — merged PR [#1084](https://github.com/ZacSweers/metro/pull/1084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.2"
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-24** — merged PR [#1083](https://github.com/ZacSweers/metro/pull/1083) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce `@AssistedInject`"
 
 **2025-09-24** — opened PR [#1083](https://github.com/ZacSweers/metro/pull/1083) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce `@AssistedInject`"
-
-**2025-09-24** — created branch `z/assistedCleanup` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-24** — merged PR [#173](https://github.com/ZacSweers/auto-service-ksp/pull/173) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update Gradle to v9.1.0"
-
-**2025-09-24** — merged PR [#174](https://github.com/ZacSweers/auto-service-ksp/pull/174) to [ZacSweers/auto-service-ksp](https://github.com/ZacSweers/auto-service-ksp): "Update plugin spotless to v8"
-
-**2025-09-24** — created tag `v34` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
-
-**2025-09-24** — opened issue [#1082](https://github.com/ZacSweers/metro/issues/1082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better support qualifiers from dagger factories"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
