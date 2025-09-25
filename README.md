@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-24** — merged PR [#284](https://github.com/ZacSweers/ZacSweers/pull/284) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v8"
+
 **2025-09-24** — merged PR [#1084](https://github.com/ZacSweers/metro/pull/1084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.2"
 
 **2025-09-24** — merged PR [#1085](https://github.com/ZacSweers/metro/pull/1085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.navigation:navigation-compose to v2.9.5"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-24** — created tag `v34` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-09-24** — opened issue [#1082](https://github.com/ZacSweers/metro/issues/1082) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Better support qualifiers from dagger factories"
-
-**2025-09-24** — merged PR [#283](https://github.com/ZacSweers/FieldSpottr/pull/283) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.google.maps.android:maps-compose to v6.11.0"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
