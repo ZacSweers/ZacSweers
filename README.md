@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-26** — merged PR [#284](https://github.com/ZacSweers/FieldSpottr/pull/284) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.7"
+
 **2025-09-25** — created tag `0.6.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-25** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3336179366) in [slackhq/foundry](https://github.com/slackhq/foundry)
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-24** — merged PR [#1084](https://github.com/ZacSweers/metro/pull/1084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.2"
 
 **2025-09-24** — merged PR [#1085](https://github.com/ZacSweers/metro/pull/1085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.navigation:navigation-compose to v2.9.5"
-
-**2025-09-24** — merged PR [#1083](https://github.com/ZacSweers/metro/pull/1083) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Introduce `@AssistedInject`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
