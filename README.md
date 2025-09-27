@@ -4,6 +4,16 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-26** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3339954246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-26** — closed issue [#1097](https://github.com/ZacSweers/metro/issues/1097) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate binding error for nullable types with type parameters"
+
+**2025-09-26** — merged PR [#1099](https://github.com/ZacSweers/metro/pull/1099) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unpreserved nullability"
+
+**2025-09-26** — opened PR [#1099](https://github.com/ZacSweers/metro/pull/1099) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unpreserved nullability"
+
+**2025-09-26** — created branch `z/nullability` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-26** — merged PR [#284](https://github.com/ZacSweers/FieldSpottr/pull/284) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.7"
 
 **2025-09-25** — created tag `0.6.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
@@ -13,16 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-25** — closed PR [#1512](https://github.com/slackhq/foundry/pull/1512) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.facebook:ktfmt to v0.58"
 
 **2025-09-25** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3336167600) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-25** — commented on [#4982](https://github.com/google/dagger/issues/4982#issuecomment-3336161639) in [google/dagger](https://github.com/google/dagger)
-
-**2025-09-25** — commented on [#4982](https://github.com/google/dagger/issues/4982#issuecomment-3336159003) in [google/dagger](https://github.com/google/dagger)
-
-**2025-09-24** — merged PR [#284](https://github.com/ZacSweers/ZacSweers/pull/284) to [ZacSweers/ZacSweers](https://github.com/ZacSweers/ZacSweers): "Update plugin spotless to v8"
-
-**2025-09-24** — merged PR [#1084](https://github.com/ZacSweers/metro/pull/1084) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.compose.material:material-navigation to v1.9.2"
-
-**2025-09-24** — merged PR [#1085](https://github.com/ZacSweers/metro/pull/1085) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dependency androidx.navigation:navigation-compose to v2.9.5"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
