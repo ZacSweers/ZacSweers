@@ -4,25 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-27** — merged PR [#1104](https://github.com/ZacSweers/metro/pull/1104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to AGP 8.12"
+
+**2025-09-27** — merged PR [#1103](https://github.com/ZacSweers/metro/pull/1103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency markupsafe to v3.0.3"
+
+**2025-09-27** — opened PR [#1104](https://github.com/ZacSweers/metro/pull/1104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to AGP 8.12"
+
+**2025-09-27** — created branch `z/agp812` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-27** — merged PR [#1101](https://github.com/ZacSweers/metro/pull/1101) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add direct injection of an assisted inject type diagnostic"
+
+**2025-09-27** — commented on [#1079](https://github.com/ZacSweers/metro/issues/1079#issuecomment-3342040072) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-27** — closed issue [#1079](https://github.com/ZacSweers/metro/issues/1079) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Align return types for Metro with Dagger"
+
 **2025-09-27** — commented on [#2318](https://github.com/slackhq/circuit/pull/2318#issuecomment-3341613396) in [slackhq/circuit](https://github.com/slackhq/circuit)
 
 **2025-09-27** — closed PR [#2318](https://github.com/slackhq/circuit/pull/2318) to [slackhq/circuit](https://github.com/slackhq/circuit): "chore(deps): update plugin metro to v0.6.8"
 
 **2025-09-27** — commented on [#2321](https://github.com/slackhq/circuit/pull/2321#issuecomment-3341612823) in [slackhq/circuit](https://github.com/slackhq/circuit)
-
-**2025-09-27** — closed PR [#2321](https://github.com/slackhq/circuit/pull/2321) to [slackhq/circuit](https://github.com/slackhq/circuit): "fix(deps): update dependency app.cash.molecule:molecule-runtime to v2.2.0"
-
-**2025-09-27** — merged PR [#1102](https://github.com/ZacSweers/metro/pull/1102) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fixed (potentially): `gh-pages` re-synched to workaround concurrent commit"
-
-**2025-09-27** — commented on [#1100](https://github.com/ZacSweers/metro/issues/1100#issuecomment-3341584703) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-26** — opened PR [#1101](https://github.com/ZacSweers/metro/pull/1101) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add direct injection of an assisted inject type diagnostic"
-
-**2025-09-26** — created branch `z/moreAssistedChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-26** — merged PR [#1094](https://github.com/ZacSweers/metro/pull/1094) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Align return types for Metro graph factories with Dagger"
-
-**2025-09-26** — merged PR [#286](https://github.com/ZacSweers/FieldSpottr/pull/286) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.8"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
