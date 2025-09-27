@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-26** — merged PR [#286](https://github.com/ZacSweers/FieldSpottr/pull/286) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.8"
+
+**2025-09-26** — created tag `v35` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
+
+**2025-09-26** — merged PR [#285](https://github.com/ZacSweers/FieldSpottr/pull/285) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Downgrade m3 and kotlinx-datetime"
+
 **2025-09-26** — created tag `0.6.8` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-26** — opened PR [#285](https://github.com/ZacSweers/FieldSpottr/pull/285) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Downgrade m3 and kotlinx-datetime"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-26** — merged PR [#1081](https://github.com/ZacSweers/metro/pull/1081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.2.2"
 
 **2025-09-26** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3339954246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-26** — closed issue [#1097](https://github.com/ZacSweers/metro/issues/1097) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate binding error for nullable types with type parameters"
-
-**2025-09-26** — merged PR [#1099](https://github.com/ZacSweers/metro/pull/1099) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unpreserved nullability"
-
-**2025-09-26** — opened PR [#1099](https://github.com/ZacSweers/metro/pull/1099) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Fix unpreserved nullability"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
