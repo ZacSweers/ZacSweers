@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-26** — merged PR [#1095](https://github.com/ZacSweers/metro/pull/1095) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency pyyaml to v6.0.3"
+
+**2025-09-26** — merged PR [#1096](https://github.com/ZacSweers/metro/pull/1096) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dagger to v2.57.2"
+
+**2025-09-26** — merged PR [#1081](https://github.com/ZacSweers/metro/pull/1081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.2.2"
+
 **2025-09-26** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3339954246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-26** — closed issue [#1097](https://github.com/ZacSweers/metro/issues/1097) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Duplicate binding error for nullable types with type parameters"
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-26** — merged PR [#284](https://github.com/ZacSweers/FieldSpottr/pull/284) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.7"
 
 **2025-09-25** — created tag `0.6.7` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-25** — commented on [#1512](https://github.com/slackhq/foundry/pull/1512#issuecomment-3336179366) in [slackhq/foundry](https://github.com/slackhq/foundry)
-
-**2025-09-25** — closed PR [#1512](https://github.com/slackhq/foundry/pull/1512) to [slackhq/foundry](https://github.com/slackhq/foundry): "Update dependency com.facebook:ktfmt to v0.58"
-
-**2025-09-25** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3336167600) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
