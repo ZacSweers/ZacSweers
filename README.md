@@ -4,6 +4,12 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-26** — opened PR [#1101](https://github.com/ZacSweers/metro/pull/1101) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add direct injection of an assisted inject type diagnostic"
+
+**2025-09-26** — created branch `z/moreAssistedChecks` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-26** — merged PR [#1094](https://github.com/ZacSweers/metro/pull/1094) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Align return types for Metro graph factories with Dagger"
+
 **2025-09-26** — merged PR [#286](https://github.com/ZacSweers/FieldSpottr/pull/286) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update metro to v0.6.8"
 
 **2025-09-26** — created tag `v35` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
@@ -17,12 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-26** — created branch `z/downgradeMaterial3` on [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr)
 
 **2025-09-26** — merged PR [#1095](https://github.com/ZacSweers/metro/pull/1095) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency pyyaml to v6.0.3"
-
-**2025-09-26** — merged PR [#1096](https://github.com/ZacSweers/metro/pull/1096) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update dagger to v2.57.2"
-
-**2025-09-26** — merged PR [#1081](https://github.com/ZacSweers/metro/pull/1081) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update plugin shadow to v9.2.2"
-
-**2025-09-26** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3339954246) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
