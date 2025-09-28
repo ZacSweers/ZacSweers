@@ -4,25 +4,7 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-27** — closed issue [#759](https://github.com/ZacSweers/metro/issues/759) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report all missing bindings at once"
-
-**2025-09-27** — merged PR [#1105](https://github.com/ZacSweers/metro/pull/1105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report as many IR errors as possible within a range"
-
-**2025-09-27** — opened PR [#1105](https://github.com/ZacSweers/metro/pull/1105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report as many IR errors at once within a range"
-
-**2025-09-27** — created branch `z/reportMore` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-27** — commented on [#760](https://github.com/ZacSweers/metro/issues/760#issuecomment-3342063317) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-27** — merged PR [#1104](https://github.com/ZacSweers/metro/pull/1104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to AGP 8.12"
-
-**2025-09-27** — merged PR [#1103](https://github.com/ZacSweers/metro/pull/1103) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency markupsafe to v3.0.3"
-
-**2025-09-27** — opened PR [#1104](https://github.com/ZacSweers/metro/pull/1104) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Migrate to AGP 8.12"
-
-**2025-09-27** — created branch `z/agp812` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-27** — merged PR [#1101](https://github.com/ZacSweers/metro/pull/1101) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Add direct injection of an assisted inject type diagnostic"
+**2025-09-28** — Could not load GitHub activity. Please check back later.
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
