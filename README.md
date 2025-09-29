@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-27** — closed issue [#759](https://github.com/ZacSweers/metro/issues/759) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report all missing bindings at once"
 
 **2025-09-27** — merged PR [#1105](https://github.com/ZacSweers/metro/pull/1105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report as many IR errors as possible within a range"
-
-**2025-09-27** — opened PR [#1105](https://github.com/ZacSweers/metro/pull/1105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report as many IR errors at once within a range"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
