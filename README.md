@@ -21,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-28** — merged PR [#805](https://github.com/ZacSweers/MoshiX/pull/805) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v8"
 
 **2025-09-28** — opened issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
-
-**2025-09-27** — closed issue [#759](https://github.com/ZacSweers/metro/issues/759) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report all missing bindings at once"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
