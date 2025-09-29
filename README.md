@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-29** — merged PR [#287](https://github.com/ZacSweers/FieldSpottr/pull/287) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta09"
+
 **2025-09-28** — merged PR [#800](https://github.com/ZacSweers/MoshiX/pull/800) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin moshix to v0.32.0"
 
 **2025-09-28** — merged PR [#798](https://github.com/ZacSweers/MoshiX/pull/798) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update ksp monorepo to v2.2.20-2.0.3"
@@ -19,8 +21,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-28** — opened issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
 
 **2025-09-27** — closed issue [#759](https://github.com/ZacSweers/metro/issues/759) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report all missing bindings at once"
-
-**2025-09-27** — merged PR [#1105](https://github.com/ZacSweers/metro/pull/1105) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Report as many IR errors as possible within a range"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
