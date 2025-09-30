@@ -4,6 +4,10 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-29** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3347889804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-29** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3347884620) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
 **2025-09-29** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3347239687) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-29** — merged PR [#287](https://github.com/ZacSweers/FieldSpottr/pull/287) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency org.jetbrains.compose.hot-reload to v1.0.0-beta09"
@@ -19,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-28** — merged PR [#804](https://github.com/ZacSweers/MoshiX/pull/804) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update dependency org.assertj:assertj-core to v3.27.6"
 
 **2025-09-28** — merged PR [#805](https://github.com/ZacSweers/MoshiX/pull/805) to [ZacSweers/MoshiX](https://github.com/ZacSweers/MoshiX): "Update plugin spotless to v8"
-
-**2025-09-28** — opened issue [#1106](https://github.com/ZacSweers/metro/issues/1106) on [ZacSweers/metro](https://github.com/ZacSweers/metro): "Interop support for `Optional` and `@BindsOptionalOf`"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
