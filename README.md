@@ -4,6 +4,8 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-30** — merged PR [#288](https://github.com/ZacSweers/FieldSpottr/pull/288) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
+
 **2025-09-29** — merged PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
 
 **2025-09-29** — merged PR [#1107](https://github.com/ZacSweers/metro/pull/1107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Read-only CC on PRs"
@@ -21,8 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-29** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3347889804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 
 **2025-09-29** — commented on [#1060](https://github.com/ZacSweers/metro/issues/1060#issuecomment-3347884620) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
-
-**2025-09-29** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3347239687) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
