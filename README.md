@@ -4,6 +4,14 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-30** — merged PR [#1072](https://github.com/ZacSweers/metro/pull/1072) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "chore(deps): update dependency click to v8.3.0"
+
+**2025-09-30** — merged PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
+
+**2025-09-30** — commented on [#2002](https://github.com/square/moshi/pull/2002#issuecomment-3354280663) in [square/moshi](https://github.com/square/moshi)
+
+**2025-09-30** — closed PR [#2002](https://github.com/square/moshi/pull/2002) to [square/moshi](https://github.com/square/moshi): "Implement automatic generation of Moshi.AdapterRegistry to avoid looking up code gen entities by reflection class names"
+
 **2025-09-30** — merged PR [#1110](https://github.com/ZacSweers/metro/pull/1110) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "fix(deps): update junit-framework monorepo to v6 (major)"
 
 **2025-09-30** — opened PR [#1112](https://github.com/ZacSweers/metro/pull/1112) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "IrBinding cleanup + improve duplicate binding rendering"
@@ -15,14 +23,6 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 **2025-09-30** — closed PR [#281](https://github.com/ZacSweers/FieldSpottr/pull/281) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.6"
 
 **2025-09-30** — merged PR [#288](https://github.com/ZacSweers/FieldSpottr/pull/288) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
-
-**2025-09-29** — merged PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
-
-**2025-09-29** — merged PR [#1107](https://github.com/ZacSweers/metro/pull/1107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Read-only CC on PRs"
-
-**2025-09-29** — opened PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
-
-**2025-09-29** — created branch `z/moreFir` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
