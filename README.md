@@ -4,7 +4,25 @@ Currently funemployed. Read [my blog](https://zacsweers.dev/) or follow me on pl
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-09-30** — Could not load GitHub activity. Please check back later.
+**2025-09-30** — closed PR [#281](https://github.com/ZacSweers/FieldSpottr/pull/281) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency ruby to v3.4.6"
+
+**2025-09-30** — merged PR [#288](https://github.com/ZacSweers/FieldSpottr/pull/288) to [ZacSweers/FieldSpottr](https://github.com/ZacSweers/FieldSpottr): "Update dependency com.bugsnag:bugsnag-android to v6.19.0"
+
+**2025-09-29** — merged PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
+
+**2025-09-29** — merged PR [#1107](https://github.com/ZacSweers/metro/pull/1107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Read-only CC on PRs"
+
+**2025-09-29** — opened PR [#1108](https://github.com/ZacSweers/metro/pull/1108) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "More FIR diagnostics"
+
+**2025-09-29** — created branch `z/moreFir` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-29** — opened PR [#1107](https://github.com/ZacSweers/metro/pull/1107) to [ZacSweers/metro](https://github.com/ZacSweers/metro): "Read-only CC on PRs"
+
+**2025-09-29** — created branch `z/readOnly` on [ZacSweers/metro](https://github.com/ZacSweers/metro)
+
+**2025-09-29** — merged PR [#2324](https://github.com/slackhq/circuit/pull/2324) to [slackhq/circuit](https://github.com/slackhq/circuit): "Fix minor typo in setup doc"
+
+**2025-09-29** — commented on [#1093](https://github.com/ZacSweers/metro/issues/1093#issuecomment-3347889804) in [ZacSweers/metro](https://github.com/ZacSweers/metro)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
